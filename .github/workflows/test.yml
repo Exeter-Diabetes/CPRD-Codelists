@@ -14,7 +14,7 @@ jobs:
       - name: update
         run : |
             echo "[LOG] Updating Exeter_Diabetes_codelists repo"
-            cd ./CPRD_Aurum
+            cd "drkgyoung/CPRD_Aurum/Codelists and algorithms/Prodcode lists/HRT/Final prodcode codelists"
             echo "[LOG] Cloning Exeter_Diabetes_codelists"
             git clone https://github.com/drkgyoung/Exeter_Diabetes_codelists.git temp
             echo "[LOG] Copying all cpp files to temp"
