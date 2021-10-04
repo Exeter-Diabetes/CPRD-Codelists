@@ -1,0 +1,15 @@
+MedCodeId	Term
+259232010	Serum high density lipoprotein cholesterol level
+1822511000006110	Test request : Serum HDL cholesterol level
+259242012	Serum fasting HDL (high density lipoprotein) cholesterol level
+259243019	Serum random HDL (high density lipoprotein) cholesterol level
+259564016	Plasma random HDL (high density lipoprotein) cholesterol level
+259567011	Plasma fasting HDL (high density lipoprotein) cholesterol level
+458313013	Plasma HDL (high density lipoprotein) cholesterol level
+8385731000006118	Serum HDL (high density lipoprotein) cholesterol level
+4600211000006117	Serum HDL cholesterol level
+4600201000006115	Serum HDL cholesterol measurement
+4600221000006113	Serum high density lipoprotein cholesterol measurement
+6041641000006116	Plasma HDL cholesterol measurement
+6041661000006117	Plasma high density lipoprotein cholesterol measurement
+6041651000006119	Plasma HDL cholesterol level

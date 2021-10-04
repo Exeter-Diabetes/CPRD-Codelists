@@ -1,0 +1,10 @@
+MedCodeId	Term
+457416018	Urine protein/creatinine ratio
+1882291000006111	Test request : Urine protein/creatinine ratio
+2397861000000112	Random urine protein:creatinine ratio
+1780297017	Urine protein/creatinine index
+6030881000006117	Urine protein/creatinine ratio
+6030871000006115	Urine protein/creatinine ratio measurement
+8340321000006117	Random urine protein:creatinine ratio measurement
+8340331000006119	Random urine protein:creatinine ratio
+6648451000006117	Urine protein/creatinine index

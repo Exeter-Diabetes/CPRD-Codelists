@@ -1,0 +1,48 @@
+medcodeid	term_medcode
+4551671000006115	On examination - height
+11905141000006112	O/E - height
+4551681000006117	O/E - height greater than 20% below average
+271181000006113	O/E-height > 20% below average
+4551691000006119	On examination - height greater than 20% below average
+4551711000006116	On examination - height 10-20% below average
+4551701000006119	O/E - height 10-20% below average
+284561000006119	O/E - height 10-20% < average
+253672015	O/E -height within 10% average
+4551731000006110	On examination - height within 10% average
+253673013	O/E-height 10-20% over average
+4551751000006115	On examination - height 10-20% over average
+4551771000006113	On examination - height greater than 20% over average
+4551761000006118	O/E - height greater than 20% over average
+272151000006114	O/E -height > 20% over average
+3851901000006119	Tall stature for age
+3851891000006118	Tall for age
+5256071000006119	General finding of height
+5256081000006116	General appraisal of height
+5256091000006118	Tall stature
+5256101000006112	Large stature
+3315711000006110	Body height measure
+3315721000006119	Body height
+253669010	Standing height
+5256151000006111	Standing height
+253676017	O/E - height NOS
+5990011000006117	Normal height
+5529871000006114	Height static
+317246015	Lack of growth
+5529851000006116	Has not grown in height
+2777641000006111	Body height normal for age
+3446211000006113	Normal height and weight
+3446201000006110	Normal growth
+4431301000006114	Body height abnormal for age
+11784691000006115	Height abnormal for age
+4553551000006113	On examination - short stature
+253826017	O/E - short stature
+5892181000006115	Observation of measures of body height and growth
+5892171000006118	Finding of measures of body height and growth
+317249010	Constitutional short stature
+7038841000006114	Abnormal height in relation to growth / age standard
+7286591000006116	Short stature for age
+356419015	Constitutional tall stature
+5113041000006114	SS - Short stature
+5113031000006116	Small stature
+317248019	Short stature
+253675018	O/E - loss of height
