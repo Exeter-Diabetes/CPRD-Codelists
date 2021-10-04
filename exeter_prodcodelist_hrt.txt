@@ -1,0 +1,352 @@
+ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+549541000033119		Ethinyloestradiol Tablets 10 micrograms	Ethinyloestradiol Tablets 10 micrograms						
+896241000033115		Menophase Tablets	Menophase Tablets						
+999341000033110		Oestradiol Hemihydrate Gel 500 micrograms/500 mg sachet	Oestradiol Hemihydrate Gel 500 micrograms/500 mg sachet						
+999441000033116		Oestradiol Implant 100 mg	Oestradiol Implant 100 mg						
+999641000033119		Oestradiol Implant 50 mg	Oestradiol Implant 50 mg						
+1000841000033115		Oestriol Tablets 250 micrograms	Oestriol Tablets 250 micrograms						
+1001541000033111		Oestradiol Transdermal patches 80 micrograms/24 hrs	Oestradiol Transdermal patches 80 micrograms/24 hrs						
+1001841000033113		Oestradiol Transdermal patches (7 days) 100 micrograms/24 hrs	Oestradiol Transdermal patches (7 days) 100 micrograms/24 hrs						
+1090641000033119		Piperazine Hydrate Syrup 750 mg/5 ml	Piperazine Hydrate Syrup 750 mg/5 ml						
+1091341000033119		Piperazine Oestrone Sulfate Tablets 1.5 mg	Piperazine Oestrone Sulfate Tablets 1.5 mg						
+3101741000033116		*Estriol Granules	*Estriol Granules						
+3102041000033112		*Estriol Pills (Sucrose)	*Estriol Pills (Sucrose)						
+2216841000033114		Dermestril Septem Transdermal patches (7 days) 25 micrograms/24 hrs	Dermestril Septem Transdermal patches (7 days) 25 micrograms/24 hrs						
+394841000033113		Cyclo-Progynova 1Mg Calendar pack	Cyclo-Progynova 1Mg Calendar pack						
+824641000033116		Levonorgestrel Subdermal implant 228 mg	Levonorgestrel Subdermal implant 228 mg						
+999941000033114		Oestriol Pessaries 500 micrograms	Oestriol Pessaries 500 micrograms						
+1001241000033114		Oestradiol Transdermal patches 25 micrograms/24 hrs	Oestradiol Transdermal patches 25 micrograms/24 hrs						
+1002241000033115		Oestradiol Vaginal tablets 25 micrograms	Oestradiol Vaginal tablets 25 micrograms						
+549941000033113		Ethinyloestradiol Tablets 50 micrograms	Ethinyloestradiol Tablets 50 micrograms						
+998841000033112		Oestriol Cream 0.1 %	Oestriol Cream 0.1 %						
+998941000033116		Oestriol Intravaginal cream 0.01 % with applicator	Oestriol Intravaginal cream 0.01 % with applicator						
+999241000033117		Oestradiol Hemihydrate Gel 1 mg/1 gram sachet	Oestradiol Hemihydrate Gel 1 mg/1 gram sachet						
+1000741000033113		Oestradiol Tablets 1 mg	Oestradiol Tablets 1 mg						
+1000941000033111		Oestradiol Valerate Tablets 1 mg	Oestradiol Valerate Tablets 1 mg						
+1001141000033119		Oestradiol Transdermal patches 100 micrograms/24 hrs	Oestradiol Transdermal patches 100 micrograms/24 hrs						
+1104041000033114		Polyestradiol Phosphate Injection 40 mg vial	Polyestradiol Phosphate Injection 40 mg vial						
+2289141000033111		Oestradiol Hemihydrate Nasal spray 150 micrograms/metered spray	Oestradiol Hemihydrate Nasal spray 150 micrograms/metered spray						
+2484341000033114		*Oestriol Tablets	*Oestriol Tablets						
+3102141000033111		*Estriol Powder	*Estriol Powder						
+1000341000033112		Oestradiol Tablets 2 mg	Oestradiol Tablets 2 mg						
+1001341000033116		Oestradiol Transdermal patches 50 micrograms/24 hrs	Oestradiol Transdermal patches 50 micrograms/24 hrs						
+1021941000033113		Ovestin Tablets 250 micrograms	Ovestin Tablets 250 micrograms						
+3099041000033111		Estradiol Transdermal patches (7 days) 100 micrograms/24 hrs	Estradiol Transdermal patches (7 days) 100 micrograms/24 hrs						
+3099241000033115		Estradiol Transdermal patches (7 days) 75 micrograms/24 hrs	Estradiol Transdermal patches (7 days) 75 micrograms/24 hrs						
+550641000033110		Ethinyloestradiol Tablets 1 mg	Ethinyloestradiol Tablets 1 mg						
+686041000033118		Hormofemin Cream 0.025 %	Hormofemin Cream 0.025 %						
+1002141000033110		Oestradiol Hemihydrate Vaginal ring 7.5 micrograms/24 hrs (2 mg ring)	Oestradiol Hemihydrate Vaginal ring 7.5 micrograms/24 hrs (2 mg ring)						
+2484641000033118		*Oestriol Powder	*Oestriol Powder						
+1141041000033116		Progynova Ts Transdermal patches (7 days) 50 micrograms/24 hrs	Progynova Ts Transdermal patches (7 days) 50 micrograms/24 hrs						
+3102241000033116		*Estriol Tablets	*Estriol Tablets						
+11882141000033114		Estriol Vaginal applicator Type 1	Estriol Vaginal applicator Type 1						
+550741000033118		Ethinyloestradiol Tablets 20 micrograms	Ethinyloestradiol Tablets 20 micrograms						
+999841000033118		Oestradiol Benzoate Injection 5 mg/ml	Oestradiol Benzoate Injection 5 mg/ml						
+1001041000033118		Oestradiol Valerate Tablets 2 mg	Oestradiol Valerate Tablets 2 mg						
+1001641000033112		Oestradiol Transdermal patches 37.5 micrograms/24 hrs	Oestradiol Transdermal patches 37.5 micrograms/24 hrs						
+1002041000033111		Oestradiol Transdermal patches (7 days) 75 micrograms/24 hrs	Oestradiol Transdermal patches (7 days) 75 micrograms/24 hrs						
+1010741000033110		Ortho-Gynest Intravaginal cream 0.01 % (with applicator)	Ortho-Gynest Intravaginal cream 0.01 % (with applicator)						
+1112841000033112		Pro-Gest Cream	Pro-Gest Cream						
+2484441000033115		*Oestriol Granules	*Oestriol Granules						
+2484541000033119		*Oestriol Liquid	*Oestriol Liquid						
+2484741000033110		*Oestriol Pills (Sucrose)	*Oestriol Pills (Sucrose)						
+3015141000033113		Ethinyloestradiol Tablets 2 micrograms	Ethinyloestradiol Tablets 2 micrograms						
+999741000033111		Oestradiol Benzoate Injection 1 mg/ml	Oestradiol Benzoate Injection 1 mg/ml						
+1001441000033110		Oestradiol Transdermal patches 75 micrograms/24 hrs	Oestradiol Transdermal patches 75 micrograms/24 hrs						
+1084741000033117		Piperazine Phosphate Elixir 750 mg/5 ml	Piperazine Phosphate Elixir 750 mg/5 ml						
+1084841000033110		Piperazine Citrate Elixir 750 mg/5 ml	Piperazine Citrate Elixir 750 mg/5 ml						
+1091441000033113		Piperazine Phosphate Tablets 500 mg	Piperazine Phosphate Tablets 500 mg						
+1124841000033111		Pro-Gest Oil	Pro-Gest Oil						
+2602241000033110		Oestradiol Acetate Vaginal ring 50 micrograms/24 hours (1.25 mg ring)	Oestradiol Acetate Vaginal ring 50 micrograms/24 hours (1.25 mg ring)						
+3099141000033110		Estradiol Transdermal patches (7 days) 50 micrograms/24 hrs	Estradiol Transdermal patches (7 days) 50 micrograms/24 hrs						
+3101841000033114		*Estriol Liquid	*Estriol Liquid						
+2216941000033118		Oestradiol Transdermal patches (7 days) 25 micrograms/24 hrs	Oestradiol Transdermal patches (7 days) 25 micrograms/24 hrs						
+999141000033112		Oestradiol Gel 0.06 %	Oestradiol Gel 0.06 %						
+999541000033115		Oestradiol Implant 25 mg	Oestradiol Implant 25 mg						
+1000441000033118		Oestradiol Benzoate Tablets 1 mg	Oestradiol Benzoate Tablets 1 mg						
+1000541000033117		Oestradiol Benzoate Tablets 2 mg	Oestradiol Benzoate Tablets 2 mg						
+1000641000033116		Oestriol Tablets 1 mg	Oestriol Tablets 1 mg						
+1001741000033115		Oestradiol Transdermal patches 40 micrograms/24 hrs	Oestradiol Transdermal patches 40 micrograms/24 hrs						
+1001941000033117		Oestradiol Transdermal patches (7 days) 50 micrograms/24 hrs	Oestradiol Transdermal patches (7 days) 50 micrograms/24 hrs						
+1104341000033111		Polyestradiol Phosphate Injection 80 mg vial	Polyestradiol Phosphate Injection 80 mg vial						
+755141000033111		Improvera Tablets	Improvera Tablets						
+1141141000033117		Progynova Ts Forte Transdermal patches (7 days) 100 micrograms/24 hrs	Progynova Ts Forte Transdermal patches (7 days) 100 micrograms/24 hrs						
+3099741000033114	134589003	Estradiol 150micrograms/dose nasal spray	Estradiol 150micrograms/dose nasal spray	Spray	Nasal	Estradiol hemihydrate	150.000microgram/1.000dose		
+1846741000033118	324978008	Piperazine 4g / Senna 15.3mg oral powder sachets sugar free	Piperazine 4g / Senna 15.3mg oral powder sachets sugar free	Powder	Oral	Piperazine phosphate/ Senna pod standardised	4.000gram + 15.300mg		
+3090041000033118	325480003	Ethinylestradiol 10microgram tablets	Ethinylestradiol 10microgram tablets	Tablet	Oral	Ethinylestradiol	10.000microgram	6040101	
+3090141000033119	325481004	Ethinylestradiol 50microgram tablets	Ethinylestradiol 50microgram tablets	Tablet	Oral	Ethinylestradiol	50.000microgram	6040101	
+3090241000033114	325482006	Ethinylestradiol 1mg tablets	Ethinylestradiol 1mg tablets	Tablet	Oral	Ethinylestradiol	1.000mg	6040101	
+3099941000033112	325505008	Estradiol valerate 1mg tablets	Estradiol valerate 1mg tablets	Tablet	Oral	Estradiol valerate	1.000mg	6040101	
+2950941000033111	4501211000001106	FemTab 1mg tablets (Merck Serono Ltd)	FemTab 1mg tablets	Tablet	Oral	Estradiol valerate	1.000mg		
+287741000033116	2845811000001107	Climaval 1mg tablets (Novartis Pharmaceuticals UK Ltd)	Climaval 1mg tablets	Tablet	Oral	Estradiol valerate	1.000mg	6040101	
+1134041000033118	2846111000001106	Progynova 1mg tablets (Bayer Plc)	Progynova 1mg tablets	Tablet	Oral	Estradiol valerate	1.000mg	6040101	
+287841000033114	2845111000001100	Climaval 2mg tablets (Novartis Pharmaceuticals UK Ltd)	Climaval 2mg tablets	Tablet	Oral	Estradiol valerate	2.000mg	6040101	
+1134141000033119	2845411000001105	Progynova 2mg tablets (Bayer Plc)	Progynova 2mg tablets	Tablet	Oral	Estradiol valerate	2.000mg	6040101	
+2951041000033118	4501411000001105	FemTab 2mg tablets (Merck Serono Ltd)	FemTab 2mg tablets	Tablet	Oral	Estradiol valerate	2.000mg		
+3100041000033111	325533008	Estradiol valerate 2mg tablets	Estradiol valerate 2mg tablets	Tablet	Oral	Estradiol valerate	2.000mg	6040101	
+3098641000033114	325538004	Estradiol 50micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+558541000033111	2942311000001102	Evorel 50 patches (Theramex HQ UK Ltd)	Evorel 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+545441000033117	2942911000001101	Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd)	Estraderm TTS 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+905441000033116	2943611000001102	Menorest 50 patches (Novartis Pharmaceuticals UK Ltd)	Menorest 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour		
+546741000033119	2945011000001105	Estraderm MX 50 patches (Norgine Pharmaceuticals Ltd)	Estraderm MX 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+432541000033116	2947611000001105	Dermestril 50 patches (Kyowa Kirin Ltd)	Dermestril 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour		
+2217041000033117	2947811000001109	Dermestril - Septem 50 patches (Kyowa Kirin Ltd)	Dermestril - Septem 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour		
+2739341000033112	2949711000001109	Progynova TS 50micrograms/24hours transdermal patches (Bayer Plc)	Progynova TS 50micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+575441000033116	2948411000001106	FemSeven 50 patches (Theramex HQ UK Ltd)	FemSeven 50 patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+3226041000033117	9045311000001107	Estradot 50micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd)	Estradot 50micrograms/24hours patches	Transdermal patch	Transdermal	Estradiol	50.000microgram/24.000hour	6040101	
+3097841000033114	325540009	Estradiol 25mg implant	Estradiol 25mg implant	Implant	Subcutaneous	Estradiol	25.000mg		
+3097941000033118	325541008	Estradiol 50mg implant	Estradiol 50mg implant	Implant	Subcutaneous	Estradiol	50.000mg		
+3097741000033116	325542001	Estradiol 100mg implant	Estradiol 100mg implant	Implant	Subcutaneous	Estradiol	100.000mg		
+3098041000033115	325545004	Estradiol 1mg tablets	Estradiol 1mg tablets	Tablet	Oral	Estradiol	1.000mg	6040101	
+1563941000033116	2842511000001103	Zumenon 1mg tablets (Mylan)	Zumenon 1mg tablets	Tablet	Oral	Estradiol	1.000mg	6040101	
+508041000033110	2841811000001109	Elleste Solo 1mg tablets (Mylan)	Elleste Solo 1mg tablets	Tablet	Oral	Estradiol	1.000mg	6040101	
+508141000033114	2837211000001104	Elleste Solo 2mg tablets (Mylan)	Elleste Solo 2mg tablets	Tablet	Oral	Estradiol	2.000mg	6040101	
+1563841000033112	2838411000001101	Zumenon 2mg tablets (Mylan)	Zumenon 2mg tablets	Tablet	Oral	Estradiol	2.000mg	6040101	
+2173841000033114	2838711000001107	Adgyn Estro 2mg tablets (Kyowa Kirin Ltd)	Adgyn Estro 2mg tablets	Tablet	Oral	Estradiol	2.000mg		
+3908341000033113	10276611000001104	Bedol 2mg tablets (ReSource Medical UK Ltd)	Bedol 2mg tablets	Tablet	Oral	Estradiol	2.000mg	6040101	
+3098141000033116	325546003	Estradiol 2mg tablets	Estradiol 2mg tablets	Tablet	Oral	Estradiol	2.000mg	6040101	
+3100441000033119	325550005	Estriol 1mg tablets	Estriol 1mg tablets	Tablet	Oral	Estriol	1.000mg		
+1021841000033117	3876411000001107	Ovestin 1mg tablets (Organon Laboratories Ltd)	Ovestin 1mg tablets	Tablet	Oral	Estriol	1.000mg		
+1132441000033116	34911000001102	Premarin 0.625mg tablets (Pfizer Ltd)	Premarin 0.625mg tablets	Tablet	Oral	Conjugated oestrogens	625.000microgram	6040101	
+374441000033117	325556004	Conjugated oestrogens 625microgram tablets	Conjugated oestrogens 625microgram tablets	Tablet	Oral	Conjugated oestrogens	625.000microgram	6040101	
+374341000033111	325557008	Conjugated oestrogens 1.25mg tablets	Conjugated oestrogens 1.25mg tablets	Tablet	Oral	Conjugated oestrogens	1.250mg	6040101	
+1132341000033110	546511000001102	Premarin 1.25mg tablets (Pfizer Ltd)	Premarin 1.25mg tablets	Tablet	Oral	Conjugated oestrogens	1.250mg	6040101	
+662841000033112	86011000001100	Harmogen 1.5mg tablets (Pfizer Ltd)	Harmogen 1.5mg tablets	Tablet	Oral	Estropipate	1.500mg		
+1444741000033117	325568008	Tibolone 2.5mg tablets	Tibolone 2.5mg tablets	Tablet	Oral	Tibolone	2.500mg	6040101	
+838241000033112	521411000001105	Livial 2.5mg tablets (Merck Sharp & Dohme Ltd)	Livial 2.5mg tablets	Tablet	Oral	Tibolone	2.500mg	6040101	
+999041000033113	3414911000001105	Oestrogel Pump-Pack 0.06% gel (Besins Healthcare (UK) Ltd)	Oestrogel Pump-Pack 0.06% gel	Gel	Transdermal	Estradiol	600.000microgram/1.000gram	6040101	
+3097641000033113	325577001	Estradiol 0.06% gel (750microgram per actuation)	Estradiol 0.06% gel (750microgram per actuation)	Gel	Transdermal	Estradiol	600.000microgram/1.000gram	6040101	
+3191741000033119	325648008	Estradiol 2mg / Norethisterone acetate 1mg tablets	Estradiol 2mg / Norethisterone acetate 1mg tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg	6040101	
+508441000033118	3049511000001101	Elleste Duet Conti tablets (Mylan)	Elleste Duet Conti tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg	6040101	
+1798241000033118	3049911000001108	Nuvelle Continuous tablets (Bayer Plc)	Nuvelle Continuous tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg	6040101	
+805541000033114	3043111000001107	Kliofem tablets (Novo Nordisk Ltd)	Kliofem tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg	6040101	
+2951241000033114	4501811000001107	FemTab Continuous tablets (Merck Serono Ltd)	FemTab Continuous tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg		
+285441000033116	3040311000001103	Climesse tablets (Novartis Pharmaceuticals UK Ltd)	Climesse tablets	Tablet	Oral	Estradiol valerate/ Norethisterone	2.000mg + 700.000microgram	6040101	
+3191541000033110	325655005	Estradiol valerate 2mg / Norethisterone 700microgram tablets	Estradiol valerate 2mg / Norethisterone 700microgram tablets	Tablet	Oral	Estradiol valerate/ Norethisterone	2.000mg + 700.000microgram	6040101	
+3192641000033116	325662001	Estradiol 1mg / Norethisterone acetate 500microgram tablets	Estradiol 1mg / Norethisterone acetate 500microgram tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	1.000mg + 500.000microgram	6040101	
+1625541000033112	3038811000001109	Kliovance tablets (Novo Nordisk Ltd)	Kliovance tablets	Tablet	Oral	Estradiol/ Norethisterone acetate	1.000mg + 500.000microgram	6040101	
+1671641000033110	326075007	Raloxifene 60mg tablets	Raloxifene 60mg tablets	Tablet	Oral	Raloxifene hydrochloride	60.000mg	6040101	
+1609141000033111	239811000001103	Evista 60mg tablets (Daiichi Sankyo UK Ltd)	Evista 60mg tablets	Tablet	Oral	Raloxifene hydrochloride	60.000mg	6040101	
+316441000033116	326174009	Conjugated oestrogens 625micrograms/g vaginal cream	Conjugated oestrogens 625micrograms/g vaginal cream	Cream	Cutaneous/ Vaginal	Conjugated oestrogens	625.000microgram/1.000gram		
+1112641000033111	3053511000001101	Premarin 0.625mg/g vaginal cream (Pfizer Ltd)	Premarin 0.625mg/g vaginal cream	Cream	Cutaneous/ Vaginal	Conjugated oestrogens	625.000microgram/1.000gram		
+3193941000033117	326309006	Ethinylestradiol 20microgram / Desogestrel 150microgram tablets	Ethinylestradiol 20microgram / Desogestrel 150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram	7030100	
+3193841000033113	326310001	Ethinylestradiol 30microgram / Desogestrel 150microgram tablets	Ethinylestradiol 30microgram / Desogestrel 150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram	7030100	
+3194041000033115	326324002	Ethinylestradiol 30microgram / Levonorgestrel 150microgram tablets	Ethinylestradiol 30microgram / Levonorgestrel 150microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram	7030100	
+3193441000033110	326325001	Levonorgestrel 250microgram / Ethinylestradiol 30microgram tablets	Levonorgestrel 250microgram / Ethinylestradiol 30microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 250.000microgram		
+3193141000033119	326341000	Ethinylestradiol 35microgram / Norethisterone 500microgram tablets	Ethinylestradiol 35microgram / Norethisterone 500microgram tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone	35.000microgram + 500.000microgram	7030100	
+3193641000033112	326350003	Ethinylestradiol 20microgram / Norethisterone acetate 1mg tablets	Ethinylestradiol 20microgram / Norethisterone acetate 1mg tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone acetate	20.000microgram + 1.000mg	7030100	
+3193741000033115	326351004	Ethinylestradiol 30microgram / Norethisterone acetate 1.5mg tablets	Ethinylestradiol 30microgram / Norethisterone acetate 1.5mg tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone acetate	30.000microgram + 1.500mg	7030100	
+3193541000033111	326358005	Ethinylestradiol 30microgram / Gestodene 75microgram tablets	Ethinylestradiol 30microgram / Gestodene 75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram	7030100	
+3194541000033113	326361006	Ethinylestradiol 20microgram / Gestodene 75microgram tablets	Ethinylestradiol 20microgram / Gestodene 75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram	7030100	
+3193241000033114	326364003	Ethinylestradiol 35microgram / Norgestimate 250microgram tablets	Ethinylestradiol 35microgram / Norgestimate 250microgram tablets	Tablet	Oral	Ethinylestradiol/ Norgestimate	35.000microgram + 250.000microgram	7030100	
+3194241000033111	326369008	Mestranol 50microgram / Norethisterone 1mg tablets	Mestranol 50microgram / Norethisterone 1mg tablets	Tablet	Oral	Mestranol/ Norethisterone	50.000microgram + 1.000mg	7030100	
+826441000033111	326425002	Levonorgestrel 30microgram tablets	Levonorgestrel 30microgram tablets	Tablet	Oral	Levonorgestrel	30.000microgram	7030201	
+822641000033114	326428000	Levonorgestrel 20micrograms/24hours intrauterine device	Levonorgestrel 20micrograms/24hours intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	20.000microgram/24.000hour	7030203	
+1954641000033114	326430003	Levonorgestrel 750microgram tablets	Levonorgestrel 750microgram tablets	Tablet	Oral	Levonorgestrel	750.000microgram		
+3100841000033116	353131001	Estriol 500microgram pessaries	Estriol 500microgram pessaries	Pessary	Vaginal	Estriol	500.000microgram		
+1015241000033113	416511000001102	Ortho-Gynest 500microgram pessaries (Janssen-Cilag Ltd)	Ortho-Gynest 500microgram pessaries	Pessary	Vaginal	Estriol	500.000microgram		
+1021441000033115	623311000001109	Ovestin 1mg cream (Aspen Pharma Trading Ltd)	Ovestin 1mg cream	Cream	Vaginal	Estriol	1.000mg/1.000gram	7020100	
+3100541000033118	353132008	Estriol 0.1% cream	Estriol 0.1% cream	Cream	Vaginal	Estriol	1.000mg/1.000gram	7020100	
+3194341000033118	377360003	Ethinylestradiol 30microgram / Drospirenone 3mg tablets	Ethinylestradiol 30microgram / Drospirenone 3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram	7030100	
+3194141000033116	377414004	Ethinylestradiol 35microgram / Norethisterone 1mg tablets	Ethinylestradiol 35microgram / Norethisterone 1mg tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone	35.000microgram + 1.000mg	7030100	
+3194841000033110	400430004	Norgestrel 75microgram tablets	Norgestrel 75microgram tablets	Tablet	Oral	Norgestrel	75.000microgram		
+3192941000033111	400674006	Conjugated oestrogens 625microgram tablets and Norgestrel 150microgram tablets	Conjugated oestrogens 625microgram tablets and Norgestrel 150microgram tablets	Not applicable	Route of administration not applicable			6040101	
+1132541000033115	3470811000001103	Prempak-C 0.625mg/0.15mg tablets (Pfizer Ltd)	Prempak-C 0.625mg/0.15mg tablets	Not applicable				6040101	
+4118041000033114	409118006	Conjugated oestrogens 300microgram tablets	Conjugated oestrogens 300microgram tablets	Tablet	Oral	Conjugated oestrogens	300.000microgram		
+4118141000033113	11476811000001109	Premarin 0.3mg tablets (Pfizer Ltd)	Premarin 0.3mg tablets	Tablet	Oral	Conjugated oestrogens	300.000microgram		
+1136041000033114	679511000001100	Premique 0.625mg/5mg tablets (Pfizer Ltd)	Premique 0.625mg/5mg tablets	Tablet	Oral	Conjugated oestrogens/ Medroxyprogesterone acetate	625.000microgram + 5.000mg	6040101	
+3192741000033113	409322009	Conjugated oestrogens 625microgram / Medroxyprogesterone 5mg tablets	Conjugated oestrogens 625microgram / Medroxyprogesterone 5mg tablets	Tablet	Oral	Conjugated oestrogens/ Medroxyprogesterone acetate	625.000microgram + 5.000mg	6040101	
+3199441000033113	414606006	Levonorgestrel 1.5mg tablets	Levonorgestrel 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg	7030500	
+1594241000033112	428005004	Conjugated oestrogens 2.5mg tablets	Conjugated oestrogens 2.5mg tablets	Tablet	Oral	Conjugated oestrogens	2.500mg		
+1140041000033113	4548011000001100	Premarin 2.5mg tablets (Wyeth Pharmaceuticals)	Premarin 2.5mg tablets	Tablet	Oral	Conjugated oestrogens	2.500mg		
+3193041000033118	3341011000001106	Conjugated oestrogens 1.25mg tablets and Norgestrel 150microgram tablets	Conjugated oestrogens 1.25mg tablets and Norgestrel 150microgram tablets	Not applicable	Route of administration not applicable			6040101	
+1132641000033119	557911000001109	Prempak-C 1.25mg/0.15mg tablets (Pfizer Ltd)	Prempak-C 1.25mg/0.15mg tablets	Not applicable				6040101	
+3192241000033119	3369311000001103	Estradiol 1mg / Dydrogesterone 5mg tablets	Estradiol 1mg / Dydrogesterone 5mg tablets	Tablet	Oral	Dydrogesterone/ Estradiol	5.000mg + 1.000mg	6040101	
+1922141000033113	519311000001107	Femoston-conti 1mg/5mg tablets (Mylan)	Femoston-conti 1mg/5mg tablets	Tablet	Oral	Dydrogesterone/ Estradiol	5.000mg + 1.000mg	6040101	
+285141000033112	3358411000001107	Climagest 1mg tablets (Novartis Pharmaceuticals UK Ltd)	Climagest 1mg tablets	Not applicable				6040101	
+285241000033117	3363611000001106	Climagest 2mg tablets (Novartis Pharmaceuticals UK Ltd)	Climagest 2mg tablets	Not applicable				6040101	
+393141000033117	3353311000001108	Cyclo-Progynova 1mg tablets (Meda Pharmaceuticals Ltd)	Cyclo-Progynova 1mg tablets	Not applicable				6040101	
+394941000033117	3351311000001107	Cyclo-Progynova 2mg tablets (Mylan)	Cyclo-Progynova 2mg tablets	Not applicable				6040101	
+3099341000033113	3405311000001106	Estradiol 25microgram pessaries	Estradiol 25microgram pessaries	Pessary	Vaginal	Estradiol	25.000microgram	7020100	
+3099441000033119	3407711000001104	Estradiol acetate 1.25mg vaginal ring	Estradiol acetate 1.25mg vaginal ring	Vaginal device	Vaginal	Estradiol acetate	1.250mg		
+3100741000033114	3408711000001103	Estriol 0.01% cream with applicator	Estriol 0.01% cream with applicator	Not applicable	Route of administration not applicable			7020100	
+1455141000033118	3449411000001106	Trisequens tablets (Novo Nordisk Ltd)	Trisequens tablets	Not applicable				6040101	
+1468441000033114	3453611000001109	Trisequens Forte tablets (Novo Nordisk Ltd)	Trisequens Forte tablets	Not applicable					
+508341000033112	3367311000001108	Elleste Duet 1mg tablets (Mylan)	Elleste Duet 1mg tablets	Not applicable				6040101	
+508241000033119	3455511000001109	Elleste Duet 2mg tablets (Mylan)	Elleste Duet 2mg tablets	Not applicable				6040101	
+545141000033113	3215411000001100	Estracombi TTS patches (Novartis Pharmaceuticals UK Ltd)	Estracombi TTS patches	Not applicable					
+558941000033117	3217311000001104	Evorel Sequi patches (Theramex HQ UK Ltd)	Evorel Sequi patches	Not applicable				6040101	
+572341000033115	3347911000001102	Femoston 1/10mg tablets (Mylan)	Femoston 1/10mg tablets	Not applicable				6040101	
+571841000033115	3349811000001104	Femoston 2/10mg tablets (Mylan)	Femoston 2/10mg tablets	Not applicable				6040101	
+571941000033111	3346111000001103	Femoston 2/20mg tablets (Abbott Healthcare Products Ltd)	Femoston 2/20mg tablets	Not applicable					
+709541000033113	293111000001101	Hormonin tablets (Advanz Pharma)	Hormonin tablets	Tablet	Oral	Estradiol/ Estriol/ Estrone	600.000microgram + 270.000microgram + 1.400mg	6040101	
+994041000033114	3210111000001102	Nuvelle TS patches (Schering Health Care Ltd)	Nuvelle TS patches	Not applicable					
+993241000033115	3199011000001109	Nuvelle tablets (Bayer Plc)	Nuvelle tablets	Not applicable					
+2951141000033119	4521511000001100	FemTab Sequi tablets (Merck Serono Ltd)	FemTab Sequi tablets	Not applicable					
+1136141000033113	3456711000001107	Premique Cycle 0.625mg/10mg tablets (Pfizer Ltd)	Premique Cycle 0.625mg/10mg tablets	Not applicable					
+1468741000033119	3355511000001103	Tridestra tablets (Orion Pharma (UK) Ltd)	Tridestra tablets	Not applicable				6040101	
+3099541000033118	3664111000001108	Estradiol 1mg gel sachets	Estradiol 1mg gel sachets	Gel	Transdermal	Estradiol hemihydrate	1.000mg	6040101	
+1239041000033116	3658611000001104	Sandrena 1mg gel sachets (Orion Pharma (UK) Ltd)	Sandrena 1mg gel sachets	Gel	Transdermal	Estradiol hemihydrate	1.000mg	6040101	
+1239141000033117	3657811000001104	Sandrena 500microgram gel sachets (Orion Pharma (UK) Ltd)	Sandrena 500microgram gel sachets	Gel	Transdermal	Estradiol hemihydrate	500.000microgram	6040101	
+3099641000033117	3664211000001102	Estradiol 500microgram gel sachets	Estradiol 500microgram gel sachets	Gel	Transdermal	Estradiol hemihydrate	500.000microgram	6040101	
+2215241000033115	3780211000001102	Indivina 1mg/2.5mg tablets (Orion Pharma (UK) Ltd)	Indivina 1mg/2.5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 2.500mg	6040101	
+3192341000033112	3788211000001104	Estradiol valerate 1mg / Medroxyprogesterone 2.5mg tablets	Estradiol valerate 1mg / Medroxyprogesterone 2.5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 2.500mg	6040101	
+3192541000033117	3788311000001107	Estradiol valerate 2mg / Medroxyprogesterone 5mg tablets	Estradiol valerate 2mg / Medroxyprogesterone 5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	2.000mg + 5.000mg	6040101	
+2215441000033119	3779911000001106	Indivina 2mg/5mg tablets (Orion Pharma (UK) Ltd)	Indivina 2mg/5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	2.000mg + 5.000mg	6040101	
+2215341000033113	3853711000001105	Indivina 1mg/5mg tablets (Orion Pharma (UK) Ltd)	Indivina 1mg/5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 5.000mg	6040101	
+3192441000033118	3864111000001104	Estradiol valerate 1mg / Medroxyprogesterone 5mg tablets	Estradiol valerate 1mg / Medroxyprogesterone 5mg tablets	Tablet	Oral	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 5.000mg	6040101	
+572541000033110	3943111000001102	Femapak 40 (Abbott Healthcare Products Ltd)	Femapak 40	Not applicable	Route of administration not applicable				
+3192041000033110	3947911000001108	Estradiol 40micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Estradiol 40micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Not applicable	Route of administration not applicable				
+3192141000033114	3948011000001105	Estradiol 80micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Estradiol 80micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Not applicable	Route of administration not applicable				
+572441000033114	3942111000001108	Femapak 80 (Abbott Healthcare Products Ltd)	Femapak 80	Not applicable	Route of administration not applicable				
+3191941000033116	3948111000001106	Estradiol 50micrograms/24hours transdermal patches and Norethisterone 1mg tablets	Estradiol 50micrograms/24hours transdermal patches and Norethisterone 1mg tablets	Not applicable	Route of administration not applicable			6040101	
+557941000033116	3940511000001100	Evorel Pak (Janssen-Cilag Ltd)	Evorel Pak	Not applicable	Route of administration not applicable			6040101	
+3194641000033114	4339811000001101	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol/ Levonorgestrel	50.000microgram/24.000hour + 7.000microgram/24.000hour	6040101	
+2846541000033110	4338711000001100	FemSeven Conti patches (Theramex HQ UK Ltd)	FemSeven Conti patches	Transdermal patch	Transdermal	Estradiol/ Levonorgestrel	50.000microgram/24.000hour + 7.000microgram/24.000hour	6040101	
+2738741000033116	4499111000001107	Novofem tablets (Novo Nordisk Ltd)	Novofem tablets	Not applicable				6040101	
+3194741000033117	4639611000001105	Ethinylestradiol 33.9micrograms/24hours / Norelgestromin 203micrograms/24hours transdermal patches	Ethinylestradiol 33.9micrograms/24hours / Norelgestromin 203micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Ethinylestradiol/ Norelgestromin	33.900microgram/24.000hour + 203.000microgram/24.000hour	7030100	
+2801741000033117	4711811000001109	FemSeven Sequi patches (Theramex HQ UK Ltd)	FemSeven Sequi patches	Not applicable				6040101	
+3290541000033119	8801211000001108	Estradiol 1mg / Drospirenone 2mg tablets	Estradiol 1mg / Drospirenone 2mg tablets	Tablet	Oral	Drospirenone/ Estradiol hemihydrate	2.000mg + 1.000mg	6040101	
+3290641000033118	8787011000001107	Angeliq 1mg/2mg tablets (Bayer Plc)	Angeliq 1mg/2mg tablets	Tablet	Oral	Drospirenone/ Estradiol hemihydrate	2.000mg + 1.000mg	6040101	
+3908241000033115	10277411000001100	Clinorette tablets (ReSource Medical UK Ltd)	Clinorette tablets	Not applicable				6040101	
+3090341000033116	11738011000001105	Ethinylestradiol 2microgram tablets	Ethinylestradiol 2microgram tablets	Tablet	Oral	Ethinylestradiol	2.000microgram		
+6065141000033119	14931111000001101	Emerita Pro-Gest cream (Imported (United States))	Emerita Pro-Gest cream	Cream		Progesterone			
+12420841000033116	15364711000001109	Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system	Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system	Vaginal delivery system	Vaginal	Ethinylestradiol/ Etonogestrel	2.700mg + 11.700mg	7030100	
+3192841000033115	15621411000001104	Conjugated oestrogens 300microgram / Medroxyprogesterone 1.5mg modified-release tablets	Conjugated oestrogens 300microgram / Medroxyprogesterone 1.5mg modified-release tablets	Modified-release tablet	Oral	Conjugated oestrogens/ Medroxyprogesterone acetate	300.000microgram + 1.500mg	6040101	
+3076041000033112	7340311000001105	Premique Low Dose 0.3mg/1.5mg modified-release tablets (Pfizer Ltd)	Premique Low Dose 0.3mg/1.5mg modified-release tablets	Modified-release tablet	Oral	Conjugated oestrogens/ Medroxyprogesterone acetate	300.000microgram + 1.500mg	6040101	
+6002841000033118	18109911000001108	Estradiol 10microgram pessaries	Estradiol 10microgram pessaries	Pessary	Vaginal	Estradiol	10.000microgram		
+8129141000033112	21366211000001107	Estradiol 500micrograms / Dydrogesterone 2.5mg tablets	Estradiol 500micrograms / Dydrogesterone 2.5mg tablets	Tablet	Oral	Dydrogesterone/ Estradiol	2.500mg + 500.000microgram		
+8129241000033117	21259311000001109	Femoston-conti 0.5mg/2.5mg tablets (Mylan)	Femoston-conti 0.5mg/2.5mg tablets	Tablet	Oral	Dydrogesterone/ Estradiol	2.500mg + 500.000microgram		
+10599741000033112	21711311000001107	Ethinylestradiol 20microgram / Drospirenone 3mg tablets	Ethinylestradiol 20microgram / Drospirenone 3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 20.000microgram		
+8348341000033114	22403311000001100	Estradiol 1.5mg / Nomegestrol 2.5mg tablets	Estradiol 1.5mg / Nomegestrol 2.5mg tablets	Tablet	Oral	Estradiol hemihydrate/ Nomegestrol acetate	1.500mg + 2.500mg	7030100	
+9158641000033113	24408111000001100	Levonorgestrel 13.5mg intrauterine device	Levonorgestrel 13.5mg intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	13.500mg	7030203	
+3099841000033116	24580611000001102	Estradiol 7.5micrograms/24hours vaginal delivery system	Estradiol 7.5micrograms/24hours vaginal delivery system	Vaginal delivery system	Vaginal	Estradiol hemihydrate	7.500microgram/24.000hour		
+546841000033112	24576311000001100	Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd)	Estring 7.5micrograms/24hours vaginal delivery system	Vaginal delivery system	Vaginal	Estradiol hemihydrate	7.500microgram/24.000hour		
+12291041000033111	32936711000001100	Conjugated oestrogens 450microgram / Bazedoxifene 20mg modified-release tablets	Conjugated oestrogens 450microgram / Bazedoxifene 20mg modified-release tablets	Modified-release tablet	Oral	Bazedoxifene acetate/ Conjugated oestrogens	20.000mg + 450.000microgram	6040101	
+12471241000033114	35086211000001109	Levonorgestrel 19.5mg intrauterine device	Levonorgestrel 19.5mg intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	19.500mg		
+558641000033112	2936011000001100	Evorel 100 patches (Theramex HQ UK Ltd)	Evorel 100 patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+545241000033118	2936611000001107	Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd)	Estraderm TTS 100 patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+546541000033110	2937111000001101	Estraderm MX 100 patches (Norgine Pharmaceuticals Ltd)	Estraderm MX 100 patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+432341000033111	2938211000001106	Dermestril 100 patches (Kyowa Kirin Ltd)	Dermestril 100 patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour		
+575641000033119	2938411000001105	FemSeven 100 patches (Theramex HQ UK Ltd)	FemSeven 100 patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+2739441000033118	2939611000001104	Progynova TS 100micrograms/24hours transdermal patches (Bayer Plc)	Progynova TS 100micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+3226241000033113	9045711000001106	Estradot 100micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd)	Estradot 100micrograms/24hours patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+3098341000033118	36064811000001103	Estradiol 100micrograms/24hours transdermal patches	Estradiol 100micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	100.000microgram/24.000hour	6040101	
+3225841000033119	9044911000001109	Estradot 25micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd)	Estradot 25micrograms/24hours patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour	6040101	
+558741000033115	2889111000001107	Evorel 25 patches (Theramex HQ UK Ltd)	Evorel 25 patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour	6040101	
+545341000033111	2889311000001109	Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd)	Estraderm TTS 25 patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour	6040101	
+546641000033111	2889611000001104	Estraderm MX 25 patches (Norgine Pharmaceuticals Ltd)	Estraderm MX 25 patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour	6040101	
+432441000033117	2889911000001105	Dermestril 25 patches (Kyowa Kirin Ltd)	Dermestril 25 patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour		
+3098441000033112	36064911000001108	Estradiol 25micrograms/24hours transdermal patches	Estradiol 25micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	25.000microgram/24.000hour	6040101	
+905341000033110	2895211000001103	Menorest 37.5 patches (Novartis Pharmaceuticals UK Ltd)	Menorest 37.5 patches	Transdermal patch	Transdermal	Estradiol	37.500microgram/24.000hour		
+3225941000033110	9045111000001105	Estradot 37.5micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd)	Estradot 37.5micrograms/24hours patches	Transdermal patch	Transdermal	Estradiol	37.500microgram/24.000hour	6040101	
+3225741000033112	36065011000001108	Estradiol 37.5micrograms/24hours transdermal patches	Estradiol 37.5micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	37.500microgram/24.000hour	6040101	
+509141000033115	2890211000001107	Elleste Solo MX 40 transdermal patches (Mylan)	Elleste Solo MX 40 transdermal patches	Transdermal patch	Transdermal	Estradiol	40.000microgram/24.000hour	6040101	
+575541000033115	2890411000001106	Fematrix 40 patches (Abbott Healthcare Products Ltd)	Fematrix 40 patches	Transdermal patch	Transdermal	Estradiol	40.000microgram/24.000hour		
+3098541000033113	36065111000001109	Estradiol 40micrograms/24hours transdermal patches	Estradiol 40micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	40.000microgram/24.000hour	6040101	
+559041000033114	3216611000001107	Evorel Conti patches (Theramex HQ UK Ltd)	Evorel Conti patches	Transdermal patch	Transdermal	Estradiol/ Norethisterone acetate	50.000microgram/24.000hour + 170.000microgram/24.000hour	6040101	
+3191841000033112	36065211000001103	Estradiol 50micrograms/24hours / Norethisterone 170micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours / Norethisterone 170micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol/ Norethisterone acetate	50.000microgram/24.000hour + 170.000microgram/24.000hour	6040101	
+575741000033111	2902911000001105	FemSeven 75 patches (Theramex HQ UK Ltd)	FemSeven 75 patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour	6040101	
+558841000033113	2903111000001101	Evorel 75 patches (Theramex HQ UK Ltd)	Evorel 75 patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour	6040101	
+905541000033115	2910911000001109	Menorest 75 patches (Novartis Pharmaceuticals UK Ltd)	Menorest 75 patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour		
+1798141000033113	2911111000001100	Estraderm MX 75 patches (Norgine Pharmaceuticals Ltd)	Estraderm MX 75 patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour	6040101	
+2217141000033118	2911411000001105	Dermestril - Septem 75 patches (Kyowa Kirin Ltd)	Dermestril - Septem 75 patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour		
+3226141000033118	9045511000001101	Estradot 75micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd)	Estradot 75micrograms/24hours patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour	6040101	
+3098741000033117	36065411000001104	Estradiol 75micrograms/24hours transdermal patches	Estradiol 75micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	75.000microgram/24.000hour	6040101	
+575341000033110	2893711000001109	Fematrix 80 patches (Abbott Healthcare Products Ltd)	Fematrix 80 patches	Transdermal patch	Transdermal	Estradiol	80.000microgram/24.000hour		
+509241000033110	2893411000001103	Elleste Solo MX 80 transdermal patches (Mylan)	Elleste Solo MX 80 transdermal patches	Transdermal patch	Transdermal	Estradiol	80.000microgram/24.000hour	6040101	
+3098841000033110	36065511000001100	Estradiol 80micrograms/24hours transdermal patches	Estradiol 80micrograms/24hours transdermal patches	Transdermal patch	Transdermal	Estradiol	80.000microgram/24.000hour	6040101	
+13010741000033115	37021711000001102	Estriol 50micrograms/g vaginal gel with applicator	Estriol 50micrograms/g vaginal gel with applicator	Vaginal gel	Vaginal	Estriol	50.000microgram/1.000gram		
+13130441000033110	37501511000001100	Estriol 30microgram pessaries	Estriol 30microgram pessaries	Pessary	Vaginal	Estriol	30.000microgram		
+2289241000033116	3649411000001108	Aerodiol 150micrograms/dose nasal spray (Servier Laboratories Ltd)	Aerodiol 150micrograms/dose nasal spray	Spray	Nasal	Estradiol hemihydrate	150.000microgram/1.000dose		
+1125241000033111	3487811000001106	Pripsen powder (Thornton & Ross Ltd)	Pripsen powder	Powder	Oral	Piperazine phosphate/ Senna pod standardised	4.000gram + 15.300mg		
+8349041000033116	22358811000001101	Razylan 60mg tablets (Aspire Pharma Ltd)	Razylan 60mg tablets	Tablet	Oral	Raloxifene hydrochloride	60.000mg		
+11402941000033118	32460211000001101	Evirex 60mg tablets (Somex Pharma)	Evirex 60mg tablets	Tablet	Oral	Raloxifene hydrochloride	60.000mg		
+905141000033112	208311000001105	Mercilon 150microgram/20microgram tablets (Merck Sharp & Dohme Ltd)	Mercilon 150microgram/20microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram	7030100	
+5820841000033110	17346911000001108	Gedarel 20microgram/150microgram tablets (Consilient Health Ltd)	Gedarel 20microgram/150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram	7030100	
+9295641000033113	21933611000001103	Lestramyl 20microgram/150microgram tablets (Mylan)	Lestramyl 20microgram/150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram		
+9808841000033114	28006411000001100	Alenini 150microgram/20microgram tablets (Actavis UK Ltd)	Alenini 150microgram/20microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram		
+10541641000033114	29910811000001108	Bimizza 150microgram/20microgram tablets (Morningside Healthcare Ltd)	Bimizza 150microgram/20microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram		
+9309141000033111	24678111000001105	Munalea 150microgram/20microgram tablets (Lupin Healthcare (UK) Ltd)	Munalea 150microgram/20microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 20.000microgram		
+9295741000033116	21930311000001102	Lestramyl 30microgram/150microgram tablets (Mylan)	Lestramyl 30microgram/150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram		
+8248441000033114	21730911000001106	Cimizt 30microgram/150microgram tablets (Morningside Healthcare Ltd)	Cimizt 30microgram/150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram		
+5820441000033112	17348811000001102	Gedarel 30microgram/150microgram tablets (Consilient Health Ltd)	Gedarel 30microgram/150microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram	7030100	
+868441000033118	524211000001108	Marvelon tablets (Merck Sharp & Dohme Ltd)	Marvelon tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram	7030100	
+9309241000033116	24677911000001107	Munalea 150microgram/30microgram tablets (Lupin Healthcare (UK) Ltd)	Munalea 150microgram/30microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram		
+9301341000033113	24684111000001107	Alenvona 150microgram/30microgram tablets (Teva UK Ltd)	Alenvona 150microgram/30microgram tablets	Tablet	Oral	Desogestrel/ Ethinylestradiol	150.000microgram + 30.000microgram		
+1021641000033118	492611000001103	Ovranette 150microgram/30microgram tablets (Pfizer Ltd)	Ovranette 150microgram/30microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram	7030100	
+917941000033116	42111000001107	Microgynon 30 tablets (Bayer Plc)	Microgynon 30 tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram	7030100	
+5824341000033111	17346711000001106	Rigevidon tablets (Consilient Health Ltd)	Rigevidon tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram	7030100	
+5414341000033114	16614111000001103	Levest 150/30 tablets (Morningside Healthcare Ltd)	Levest 150/30 tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram	7030100	
+6116641000033112	18358111000001100	Elevin 150microgram/30microgram tablets (MedRx Licences Ltd)	Elevin 150microgram/30microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram		
+9307341000033118	24677511000001100	Maexeni 150microgram/30microgram tablets (Lupin Healthcare (UK) Ltd)	Maexeni 150microgram/30microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram		
+9302141000033119	24684511000001103	Erlibelle 30microgram/150microgram tablets (Actavis UK Ltd)	Erlibelle 30microgram/150microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram		
+12185141000033110	34104511000001102	Leandra 30microgram/150microgram tablets (Genesis Pharmaceuticals Ltd)	Leandra 30microgram/150microgram tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 150.000microgram		
+556741000033116	769711000001106	Eugynon 30 tablets (Schering Health Care Ltd)	Eugynon 30 tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	30.000microgram + 250.000microgram		
+556841000033114	4546611000001106	Eugynon 50 tablets (Schering Health Care Ltd)	Eugynon 50 tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	50.000microgram + 250.000microgram		
+1267141000033118	4547111000001100	Schering PC4 tablets (Schering Health Care Ltd)	Schering PC4 tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	50.000microgram + 250.000microgram		
+1021541000033119	4547311000001103	Ovran tablets (Wyeth Pharmaceuticals)	Ovran tablets	Tablet	Oral	Ethinylestradiol/ Levonorgestrel	50.000microgram + 250.000microgram		
+1021741000033110	235311000001105	Ovysmen 500microgram/35microgram tablets (Janssen-Cilag Ltd)	Ovysmen 500microgram/35microgram tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone	35.000microgram + 500.000microgram	7030100	
+162041000033118	312411000001108	Brevinor 500microgram/35microgram tablets (Pfizer Ltd)	Brevinor 500microgram/35microgram tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone	35.000microgram + 500.000microgram	7030100	
+850041000033115	3058111000001101	Loestrin 20 tablets (Galen Ltd)	Loestrin 20 tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone acetate	20.000microgram + 1.000mg	7030100	
+852341000033117	3058411000001106	Loestrin 30 tablets (Galen Ltd)	Loestrin 30 tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone acetate	30.000microgram + 1.500mg	7030100	
+921441000033113	3048611000001106	Minulet tablets (Wyeth Pharmaceuticals)	Minulet tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram		
+574741000033110	3048811000001105	Femodene tablets (Bayer Plc)	Femodene tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram	7030100	
+5821441000033115	17351511000001107	Millinette 30microgram/75microgram tablets (Consilient Health Ltd)	Millinette 30microgram/75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram	7030100	
+4201341000033118	11753211000001109	Katya 30/75 tablets (Stragen UK Ltd)	Katya 30/75 tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram	7030100	
+10645341000033111	30805911000001101	Sofiperla 75microgram/30microgram tablets (Actavis UK Ltd)	Sofiperla 75microgram/30microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram		
+9307141000033116	24676611000001103	Aidulan 30microgram/75microgram tablets (Lupin Healthcare (UK) Ltd)	Aidulan 30microgram/75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	30.000microgram + 75.000microgram		
+4201241000033111	11758611000001104	Sunya 20/75 tablets (Stragen UK Ltd)	Sunya 20/75 tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram	7030100	
+5822441000033111	17353311000001100	Millinette 20microgram/75microgram tablets (Consilient Health Ltd)	Millinette 20microgram/75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram	7030100	
+1890341000033111	3049211000001104	Femodette tablets (Bayer Plc)	Femodette tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram	7030100	
+9307041000033115	24676211000001100	Aidulan 20microgram/75microgram tablets (Lupin Healthcare (UK) Ltd)	Aidulan 20microgram/75microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram		
+10645141000033113	30805711000001103	Juliperla 75microgram/20microgram tablets (Actavis UK Ltd)	Juliperla 75microgram/20microgram tablets	Tablet	Oral	Ethinylestradiol/ Gestodene	20.000microgram + 75.000microgram		
+260341000033119	380211000001105	Cilest 35microgram/250microgram tablets (Janssen-Cilag Ltd)	Cilest 35microgram/250microgram tablets	Tablet	Oral	Ethinylestradiol/ Norgestimate	35.000microgram + 250.000microgram	7030100	
+8494041000033118	22562211000001105	Lizinna 250microgram/35microgram tablets (Morningside Healthcare Ltd)	Lizinna 250microgram/35microgram tablets	Tablet	Oral	Ethinylestradiol/ Norgestimate	35.000microgram + 250.000microgram		
+10982041000033113	31364011000001106	Cilique 250microgram/35microgram tablets (Consilient Health Ltd)	Cilique 250microgram/35microgram tablets	Tablet	Oral	Ethinylestradiol/ Norgestimate	35.000microgram + 250.000microgram		
+989041000033112	3831411000001104	Norinyl-1 tablets (Pfizer Ltd)	Norinyl-1 tablets	Tablet	Oral	Mestranol/ Norethisterone	50.000microgram + 1.000mg	7030100	
+988941000033115	221011000001108	Norgeston 30microgram tablets (Bayer Plc)	Norgeston 30microgram tablets	Tablet	Oral	Levonorgestrel	30.000microgram	7030201	
+920041000033113	42311000001109	Microval 30microgram tablets (Wyeth Pharmaceuticals)	Microval 30microgram tablets	Tablet	Oral	Levonorgestrel	30.000microgram		
+912841000033110	3493211000001100	Mirena 20micrograms/24hours intrauterine device (Bayer Plc)	Mirena 20micrograms/24hours intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	20.000microgram/24.000hour	7030203	
+10267841000033119	29664111000001108	Levosert 20micrograms/24hours intrauterine device (Gedeon Richter (UK) Ltd)	Levosert 20micrograms/24hours intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	20.000microgram/24.000hour		
+2263141000033112	52011000001108	Levonelle 750microgram tablets (Schering Health Care Ltd)	Levonelle 750microgram tablets	Tablet	Oral	Levonorgestrel	750.000microgram		
+1954841000033110	333911000001101	Levonelle-2 750microgram tablets (Schering Health Care Ltd)	Levonelle-2 750microgram tablets	Tablet	Oral	Levonorgestrel	750.000microgram		
+3939841000033119	10606111000001100	Clairette 2000/35 tablets (Stragen UK Ltd)	Clairette 2000/35 tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram		
+2261641000033115	332402005	Co-cyprindiol 2000microgram/35microgram tablets	Co-cyprindiol 2000microgram/35microgram tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram	13060200	
+470941000033111	587711000001100	Dianette tablets (Bayer Plc)	Dianette tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram	13060200	
+3159641000033119	7944611000001101	Acnocin 2000microgram/35microgram tablets (Sandoz Ltd)	Acnocin 2000microgram/35microgram tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram	13060200	
+3269341000033115	9206511000001108	Diva 2000/35 tablets (Zeroderma Ltd)	Diva 2000/35 tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram		
+3855841000033111	9796511000001100	Cicafem 2000/35 tablets (Galen Ltd)	Cicafem 2000/35 tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram		
+10541541000033113	29910511000001105	Teragezza 2000microgram/35microgram tablets (Morningside Healthcare Ltd)	Teragezza 2000microgram/35microgram tablets	Tablet	Oral	Cyproterone acetate/ Ethinylestradiol	2.000mg + 35.000microgram		
+2731641000033115	439011000001108	Yasmin tablets (Bayer Plc)	Yasmin tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram	7030100	
+8947241000033111	23649211000001107	Lucette 0.03mg/3mg tablets (Consilient Health Ltd)	Lucette 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+9220441000033113	24564811000001106	Acondro 0.03mg/3mg tablets (Mylan)	Acondro 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+9301641000033117	24684311000001109	Cleosensa 0.03mg/3mg tablets (Actavis UK Ltd)	Cleosensa 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+9808541000033112	27979911000001107	Dretine 0.03mg/3mg tablets (Theramex HQ UK Ltd)	Dretine 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+10541741000033117	29911411000001102	Yacella 0.03mg/3mg tablets (Morningside Healthcare Ltd)	Yacella 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+12194041000033111	34181511000001103	Ellanite 0.03mg/3mg tablets (Stragen UK Ltd)	Ellanite 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+11736341000033116	33017111000001106	Yiznell 0.03mg/3mg tablets (Lupin Healthcare (UK) Ltd)	Yiznell 0.03mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 30.000microgram		
+987341000033118	403611000001106	Norimin 1mg/35microgram tablets (Pfizer Ltd)	Norimin 1mg/35microgram tablets	Tablet	Oral	Ethinylestradiol/ Norethisterone	35.000microgram + 1.000mg	7030100	
+966541000033113	260111000001105	Neogest 75microgram tablets (Schering Health Care Ltd)	Neogest 75microgram tablets	Tablet	Oral	Norgestrel	75.000microgram		
+3199541000033114	8160111000001102	Levonelle One Step 1.5mg tablets (Bayer Plc)	Levonelle One Step 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg	7030500	
+3835341000033115	9568511000001102	Levonelle 1500microgram tablets (Bayer Plc)	Levonelle 1500microgram tablets	Tablet	Oral	Levonorgestrel	1.500mg	7030500	
+11781241000033110	33549211000001104	Ezinelle 1.5mg tablets (Mylan)	Ezinelle 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg		
+10644141000033112	30777811000001107	Emerres Una 1.5mg tablets (Morningside Healthcare Ltd)	Emerres Una 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg		
+8840241000033116	23409111000001109	Upostelle 1500microgram tablets (Gedeon Richter (UK) Ltd)	Upostelle 1500microgram tablets	Tablet	Oral	Levonorgestrel	1.500mg		
+10541441000033112	29912011000001103	Emerres 1.5mg tablets (Morningside Healthcare Ltd)	Emerres 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg		
+9838141000033111	28006811000001103	Isteranda 1.5mg tablets (Sandoz Ltd)	Isteranda 1.5mg tablets	Tablet	Oral	Levonorgestrel	1.500mg		
+1505641000033111	71211000001107	Vagifem 25microgram vaginal tablets (Novo Nordisk Ltd)	Vagifem 25microgram vaginal tablets	Pessary	Vaginal	Estradiol	25.000microgram	7020100	
+2602341000033117	2836011000001106	Menoring 50 vaginal ring (Galen Ltd)	Menoring 50 vaginal ring	Vaginal device	Vaginal	Estradiol acetate	1.250mg		
+2922841000033115	4608311000001102	Evra transdermal patches (Janssen-Cilag Ltd)	Evra transdermal patches	Transdermal patch	Transdermal	Ethinylestradiol/ Norelgestromin	33.900microgram/24.000hour + 203.000microgram/24.000hour	7030100	
+4913641000033111	15364511000001104	NuvaRing 0.12mg/0.015mg per day vaginal delivery system (Merck Sharp & Dohme Ltd)	NuvaRing 0.12mg/0.015mg per day vaginal delivery system	Vaginal delivery system	Vaginal	Ethinylestradiol/ Etonogestrel	2.700mg + 11.700mg	7030100	
+12902341000033115	36602211000001100	SyreniRing 0.12mg/0.015mg per day vaginal delivery system (Crescent Pharma Ltd)	SyreniRing 0.12mg/0.015mg per day vaginal delivery system	Vaginal delivery system	Vaginal	Ethinylestradiol/ Etonogestrel	2.700mg + 11.700mg		
+6002941000033114	18093811000001105	Vagifem 10microgram vaginal tablets (Novo Nordisk Ltd)	Vagifem 10microgram vaginal tablets	Pessary	Vaginal	Estradiol	10.000microgram		
+5474441000033112	22263611000001105	Yaz tablets (Imported (United States))	Yaz tablets	Tablet		Drospirenone/ Ethinylestradiol	3.000mg + 20.000microgram		
+10611641000033111	30252711000001105	Daylette 0.02mg/3mg tablets (Consilient Health Ltd)	Daylette 0.02mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 20.000microgram		
+10599841000033119	30195711000001107	Eloine 0.02mg/3mg tablets (Bayer Plc)	Eloine 0.02mg/3mg tablets	Tablet	Oral	Drospirenone/ Ethinylestradiol	3.000mg + 20.000microgram		
+8348441000033115	22311511000001103	Zoely 2.5mg/1.5mg tablets (Merck Sharp & Dohme Ltd)	Zoely 2.5mg/1.5mg tablets	Tablet	Oral	Estradiol hemihydrate/ Nomegestrol acetate	1.500mg + 2.500mg	7030100	
+9158741000033116	24379611000001100	Jaydess 13.5mg intrauterine device (Bayer Plc)	Jaydess 13.5mg intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	13.500mg	7030203	
+12291141000033110	32927411000001106	Duavive 0.45mg/20mg modified-release tablets (Pfizer Ltd)	Duavive 0.45mg/20mg modified-release tablets	Modified-release tablet	Oral	Bazedoxifene acetate/ Conjugated oestrogens	20.000mg + 450.000microgram	6040101	
+12471341000033116	35058811000001104	Kyleena 19.5mg intrauterine device (Bayer Plc)	Kyleena 19.5mg intrauterine device	Intrauterine device	Intrauterine	Levonorgestrel	19.500mg		
+13010841000033113	36963511000001107	Blissel 50micrograms/g vaginal gel with applicator (Flynn Pharma Ltd)	Blissel 50micrograms/g vaginal gel with applicator	Vaginal gel	Vaginal	Estriol	50.000microgram/1.000gram		
+13130541000033111	37499911000001104	Imvaggis 0.03mg pessaries (Besins Healthcare (UK) Ltd)	Imvaggis 0.03mg pessaries	Pessary	Vaginal	Estriol	30.000microgram		
