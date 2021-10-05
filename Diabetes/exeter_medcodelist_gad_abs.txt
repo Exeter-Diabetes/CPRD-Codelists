@@ -1,0 +1,4 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+1485448017	Serum anti-glutamic decarboxylase level	43aE	43aE.00	1004991000000100	2561371000000115		33
+1485550010	Glutamic acid decarboxylase antibody level	43m8	43m8.00	1007741000000102	2561661000000116		33
+2501821000000112	Serum glutamic acid decarboxylase antibody concentration	43m80	43m8000	1011031000000101	2557101000000110		33

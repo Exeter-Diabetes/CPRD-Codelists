@@ -1,0 +1,272 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+121589010	Diabetes mellitus	C10	C10..00	73211009	121589010		32
+1223148019	Insulin treated non-insulin dependent diabetes mellitus	C109J-1	C109J11	237599002	1223148019		32
+840951000006119	Insulin treated Type 2 diabetes mellitus	C109J	C109J00	237599002	2967820013		32
+841351000006110	Insulin treated Type II diabetes mellitus	C109J-2	C109J12	237599002	1223147012		32
+850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	C109K	C109K00	395204000	1488898011		32
+77727018	Insulin dependent diabetes mellitus	C10E-2	C10E.12	73211009	121589010		32
+494564012	Type I diabetes mellitus	C10E-1	C10E.11	46635009	494564012		32
+197984010	Type 1 diabetes mellitus	C10E	C10E.00	46635009	197984010		32
+913451000006117	Type 1 diabetes mellitus with renal complications	C10E0	C10E000	421893009	2618211013		32
+913461000006115	Type I diabetes mellitus with renal complications	C10E0-1	C10E011	421893009	2623054013		32
+913441000006119	Insulin-dependent diabetes mellitus with renal complications	C10E0-2	C10E012	127013003	301016		32
+913491000006111	Type I diabetes mellitus with ophthalmic complications	C10E1-1	C10E111	739681000	3698438014		32
+913481000006113	Type 1 diabetes mellitus with ophthalmic complications	C10E1	C10E100	739681000	3537386015		32
+913471000006110	Insulin-dependent diabetes mellitus with ophthalmic comps	C10E1-2	C10E112	25093002	3688467012		32
+913511000006117	Type 1 diabetes mellitus with neurological complications	C10E2	C10E200	421468001	2618197018		32
+913521000006113	Type I diabetes mellitus with neurological complications	C10E2-1	C10E211	421468001	3695401013		32
+913501000006115	Insulin-dependent diabetes mellitus with neurological comps	C10E2-2	C10E212	422088007	3688477014		32
+913531000006111	Insulin dependent diabetes mellitus with multiple complicat	C10E3-2	C10E312	385041000000108	760111000000115		32
+913541000006118	Type 1 diabetes mellitus with multiple complications	C10E3	C10E300	422228004	2618232017		32
+913551000006116	Type I diabetes mellitus with multiple complications	C10E3-1	C10E311	422228004	2967771016		32
+429970018	Unstable type I diabetes mellitus	C10E4-1	C10E411	290002008	429970018		32
+429971019	Unstable type 1 diabetes mellitus	C10E4	C10E400	290002008	429971019		32
+429972014	Unstable insulin dependent diabetes mellitus	C10E4-2	C10E412	11530004	19931010		32
+292540012	Type 1 diabetes mellitus with ulcer	C10E5	C10E500	190368000	292540012		32
+913591000006110	Insulin dependent diabetes mellitus with ulcer	C10E5-2	C10E512	422183001	2623058011		32
+292538019	Type I diabetes mellitus with ulcer	C10E5-1	C10E511	190368000	292538019		32
+292543014	Type I diabetes mellitus with gangrene	C10E6-1	C10E611	420825003	2618207019		32
+292541011	Type 1 diabetes mellitus with gangrene	C10E6	C10E600	420825003	2618207019		32
+913621000006112	Insulin dependent diabetes mellitus with gangrene	C10E6-2	C10E612	422275004	2616612015		32
+913651000006115	Insulin dependent diabetes mellitus with retinopathy	C10E7-2	C10E712	4855003	9093013		32
+913661000006118	Type 1 diabetes mellitus with retinopathy	C10E7	C10E700	420789003	3699407019		32
+913671000006113	Type I diabetes mellitus with retinopathy	C10E7-1	C10E711	420789003	3699407019		32
+913681000006111	Insulin dependent diabetes mellitus - poor control	C10E8-2	C10E812	268519009	401531012		32
+292550013	Type I diabetes mellitus - poor control	C10E8-1	C10E811	444073006	2872487013		32
+292548017	Type 1 diabetes mellitus - poor control	C10E8	C10E800	444073006	2872487013		32
+292553010	Type 1 diabetes mellitus maturity onset	C10E9	C10E900	190372001	292553010		32
+292551012	Type I diabetes mellitus maturity onset	C10E9-1	C10E911	190372001	292551012		32
+913711000006112	Insulin dependent diabetes maturity onset	C10E9-2	C10E912	73211009	121589010		32
+457325013	Type I diabetes mellitus without complication	C10EA-1	C10EA11	313435000	457325013		32
+457326014	Type 1 diabetes mellitus without complication	C10EA	C10EA00	313435000	457326014		32
+457327017	Insulin-dependent diabetes without complication	C10EA-2	C10EA12	111552007	178796018		32
+913771000006115	Insulin dependent diabetes mellitus with mononeuropathy	C10EB-2	C10EB12	230577008	345492010		32
+913791000006119	Type I diabetes mellitus with mononeuropathy	C10EB-1	C10EB11	420918009	3697664014		32
+913781000006117	Type 1 diabetes mellitus with mononeuropathy	C10EB	C10EB00	420918009	2618199015		32
+913821000006111	Type I diabetes mellitus with polyneuropathy	C10EC-1	C10EC11	713705003	3297390014		32
+913801000006118	Insulin dependent diabetes mellitus with polyneuropathy	C10EC-2	C10EC12	49455004	82373015		32
+913811000006115	Type 1 diabetes mellitus with polyneuropathy	C10EC	C10EC00	713705003	3297342019		32
+913831000006114	Insulin dependent diabetes mellitus with nephropathy	C10ED-2	C10ED12	127013003	301016		32
+913851000006119	Type I diabetes mellitus with nephropathy	C10ED-1	C10ED11	421893009	2623054013		32
+913841000006116	Type 1 diabetes mellitus with nephropathy	C10ED	C10ED00	421893009	2623054013		32
+459163017	Type I diabetes mellitus with hypoglycaemic coma	C10EE-1	C10EE11	314771006	459163017		32
+459162010	Insulin dependent diabetes mellitus with hypoglycaemic coma	C10EE-2	C10EE12	237632004	356141011		32
+459161015	Type 1 diabetes mellitus with hypoglycaemic coma	C10EE	C10EE00	314771006	459161015		32
+913911000006110	Type I diabetes mellitus with diabetic cataract	C10EF-1	C10EF11	421920002	3688521010		32
+913891000006113	Insulin dependent diabetes mellitus with diabetic cataract	C10EF-2	C10EF12	43959009	73294018		32
+913901000006112	Type 1 diabetes mellitus with diabetic cataract	C10EF	C10EF00	421920002	2618234016		32
+913931000006116	Type 1 diabetes mellitus with peripheral angiopathy	C10EG	C10EG00	31211000119101	3315042015		32
+913941000006114	Type I diabetes mellitus with peripheral angiopathy	C10EG-1	C10EG11	31211000119101	3315042015		32
+913921000006119	Insulin dependent diab mell with peripheral angiopathy	C10EG-2	C10EG12	421895002	2618203015		32
+459292011	Type 1 diabetes mellitus with arthropathy	C10EH	C10EH00	314893005	459292011		32
+459293018	Insulin dependent diabetes mellitus with arthropathy	C10EH-2	C10EH12	39710007	1229552016		32
+459294012	Type I diabetes mellitus with arthropathy	C10EH-1	C10EH11	314893005	459294012		32
+913981000006115	Insulin dependent diab mell with neuropathic arthropathy	C10EJ-2	C10EJ12	201724008	309740011		32
+459296014	Type 1 diabetes mellitus with neuropathic arthropathy	C10EJ	C10EJ00	71771000119100	3010513018		32
+459295013	Type I diabetes mellitus with neuropathic arthropathy	C10EJ-1	C10EJ11	71771000119100	3010513018		32
+928461000006119	Type 1 diabetes mellitus with persistent proteinuria	C10EK	C10EK00	420514000	2967914011		32
+928471000006114	Type I diabetes mellitus with persistent proteinuria	C10EK-1	C10EK11	420514000	2967914011		32
+928491000006110	Type I diabetes mellitus with persistent microalbuminuria	C10EL-1	C10EL11	401110002	1780311019		32
+1780311019	Type 1 diabetes mellitus with persistent microalbuminuria	C10EL	C10EL00	401110002	1780311019		32
+928511000006116	Type I diabetes mellitus with ketoacidosis	C10EM-1	C10EM11	420270002	2967817017		32
+928501000006119	Type 1 diabetes mellitus with ketoacidosis	C10EM	C10EM00	420270002	2967817017		32
+928521000006112	Type 1 diabetes mellitus with ketoacidotic coma	C10EN	C10EN00	421075007	2967758019		32
+928531000006110	Type I diabetes mellitus with ketoacidotic coma	C10EN-1	C10EN11	421075007	2967758019		32
+938301000006114	Type 1 diabetes mellitus with exudative maculopathy	C10EP	C10EP00	420486006	3698521013		32
+938311000006112	Type I diabetes mellitus with exudative maculopathy	C10EP-1	C10EP11	420486006	2618236019		32
+299601000000114	Type 1 diabetes mellitus with gastroparesis	C10EQ	C10EQ00	713702000	3698406016		32
+1667941000000112	Type I diabetes mellitus with gastroparesis	C10EQ-1	C10EQ11	713702000	3698406016		32
+2674067015	Latent autoimmune diabetes mellitus in adult	C10ER	C10ER00	426875007	2674067015		32
+197761014	Type 2 diabetes mellitus	C10F	C10F.00	44054006	197761014		32
+493774016	Type II diabetes mellitus	C10F-1	C10F.11	44054006	493774016		32
+914041000006111	Type II diabetes mellitus with renal complications	C10F0-1	C10F011	420279001	3013392012		32
+914031000006118	Type 2 diabetes mellitus with renal complications	C10F0	C10F000	420279001	2618208012		32
+914051000006113	Type 2 diabetes mellitus with ophthalmic complications	C10F1	C10F100	422099009	3698440016		32
+914061000006110	Type II diabetes mellitus with ophthalmic complications	C10F1-1	C10F111	422099009	3698440016		32
+914081000006117	Type II diabetes mellitus with neurological complications	C10F2-1	C10F211	421326000	3695406015		32
+914071000006115	Type 2 diabetes mellitus with neurological complications	C10F2	C10F200	421326000	3695406015		32
+292576013	Type II diabetes mellitus with multiple complications	C10F3-1	C10F311	190388001	292576013		32
+292577016	Type 2 diabetes mellitus with multiple complications	C10F3	C10F300	190388001	292577016		32
+292579018	Type 2 diabetes mellitus with ulcer	C10F4	C10F400	190389009	292579018		32
+292581016	Type II diabetes mellitus with ulcer	C10F4-1	C10F411	190389009	292581016		32
+292583018	Type 2 diabetes mellitus with gangrene	C10F5	C10F500	421631007	2618206011		32
+292582011	Type II diabetes mellitus with gangrene	C10F5-1	C10F511	421631007	2618206011		32
+914151000006112	Type 2 diabetes mellitus with retinopathy	C10F6	C10F600	422034002	3699410014		32
+914161000006114	Type II diabetes mellitus with retinopathy	C10F6-1	C10F611	422034002	3699410014		32
+292590011	Type 2 diabetes mellitus - poor control	C10F7	C10F700	443694000	2921019012		32
+292589019	Type II diabetes mellitus - poor control	C10F7-1	C10F711	443694000	2921019012		32
+457330012	Type II diabetes mellitus without complication	C10F9-1	C10F911	313436004	457330012		32
+457329019	Type 2 diabetes mellitus without complication	C10F9	C10F900	313436004	457329019		32
+914221000006113	Type 2 diabetes mellitus with mononeuropathy	C10FA	C10FA00	420436000	2618201018		32
+914231000006111	Type II diabetes mellitus with mononeuropathy	C10FA-1	C10FA11	420436000	3697667019		32
+914251000006116	Type II diabetes mellitus with polyneuropathy	C10FB-1	C10FB11	713706002	3297353013		32
+914241000006118	Type 2 diabetes mellitus with polyneuropathy	C10FB	C10FB00	713706002	3297353013		32
+914271000006114	Type II diabetes mellitus with nephropathy	C10FC-1	C10FC11	420279001	3013392012		32
+914261000006119	Type 2 diabetes mellitus with nephropathy	C10FC	C10FC00	420279001	3035432019		32
+459169018	Type II diabetes mellitus with hypoglycaemic coma	C10FD-1	C10FD11	719216001	3316336015		32
+459167016	Type 2 diabetes mellitus with hypoglycaemic coma	C10FD	C10FD00	719216001	3316336015		32
+914301000006111	Type 2 diabetes mellitus with diabetic cataract	C10FE	C10FE00	420756003	3688522015		32
+914311000006114	Type II diabetes mellitus with diabetic cataract	C10FE-1	C10FE11	420756003	3688522015		32
+459306016	Type II diabetes mellitus with peripheral angiopathy	C10FF-1	C10FF11	314902007	459306016		32
+459308015	Type 2 diabetes mellitus with peripheral angiopathy	C10FF	C10FF00	314902007	459308015		32
+459310018	Type 2 diabetes mellitus with arthropathy	C10FG	C10FG00	314903002	459310018		32
+459311019	Type II diabetes mellitus with arthropathy	C10FG-1	C10FG11	314903002	459311019		32
+459312014	Type II diabetes mellitus with neuropathic arthropathy	C10FH-1	C10FH11	314904008	459312014		32
+459313016	Type 2 diabetes mellitus with neuropathic arthropathy	C10FH	C10FH00	314904008	459313016		32
+1223147012	Insulin treated Type II diabetes mellitus	C10FJ-1	C10FJ11	237599002	1223147012		32
+914391000006116	Insulin treated Type 2 diabetes mellitus	C10FJ	C10FJ00	237599002	2967820013		32
+1667891000000113	Hyperosmolar non-ketotic state in type II diabetes mellitus	C10FK-1	C10FK11	395204000	1667891000000113		32
+1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	C10FK	C10FK00	395204000	1488898011		32
+928551000006115	Type II diabetes mellitus with persistent proteinuria	C10FL-1	C10FL11	421986006	2967751013		32
+928541000006117	Type 2 diabetes mellitus with persistent proteinuria	C10FL	C10FL00	421986006	2967751013		32
+928571000006113	Type II diabetes mellitus with persistent microalbuminuria	C10FM-1	C10FM11	420715001	2967769016		32
+928561000006118	Type 2 diabetes mellitus with persistent microalbuminuria	C10FM	C10FM00	420715001	2967769016		32
+928581000006111	Type 2 diabetes mellitus with ketoacidosis	C10FN	C10FN00	421750000	2967754017		32
+928591000006114	Type II diabetes mellitus with ketoacidosis	C10FN-1	C10FN11	421750000	2967754017		32
+928611000006115	Type II diabetes mellitus with ketoacidotic coma	C10FP-1	C10FP11	421847006	2618218019		32
+928601000006118	Type 2 diabetes mellitus with ketoacidotic coma	C10FP	C10FP00	421847006	2618218019		32
+938321000006116	Type 2 diabetes mellitus with exudative maculopathy	C10FQ	C10FQ00	421779007	2618237011		32
+938331000006118	Type II diabetes mellitus with exudative maculopathy	C10FQ-1	C10FQ11	421779007	3698529010		32
+299621000000117	Type 2 diabetes mellitus with gastroparesis	C10FR	C10FR00	713703005	3698412014		32
+1667921000000117	Type II diabetes mellitus with gastroparesis	C10FR-1	C10FR11	713703005	3698412014		32
+2287971000000119	Diabetes mellitus in remission	C10P	C10P.00	703136005	3007272014		32
+2288041000000110	Type 1 diabetes mellitus in remission	C10P0-1	C10P011	703137001	3007274010		32
+2288011000000114	Type I diabetes mellitus in remission	C10P0	C10P000	703137001	3007238018		32
+2288071000000116	Type 2 diabetes mellitus in remission	C10P1-1	C10P111	703138006	3007259013		32
+2288061000000111	Type II diabetes mellitus in remission	C10P1	C10P100	703138006	3007241010		32
+2683591000006110	Unstable diabetes mellitus	^ESCTUN268359		11530004	2871747019		1
+2683581000006112	Labile diabetes	^ESCTLA268358		11530004	1220208016		1
+2683561000006119	Brittle diabetes mellitus	^ESCTBR268356		11530004	2658852011		1
+12703991000006112	[X]Unspecified diabetes mellitus with renal complications	^ESCT1270399		127013003	430881000006111		32
+12218511000006112	Kidney disorder due to diabetes mellitus	^ESCT1221851		127013003	12218511000006112		32
+4392181000006110	Renal disorder associated with diabetes mellitus	^ESCTRE439218		127013003	2619011010		32
+12218501000006114	Disorder of kidney co-occurrent and due to diabetes mellitus	^ESCT1221850		127013003	3688487013		32
+4392201000006111	Diabetic peripheral vascular disease	^ESCTDI439220		127014009	205224017		32
+4392221000006118	Peripheral angiopathy due to diabetes mellitus	^ESCTPE439222		127014009	3313388015		32
+4392211000006114	Diabetes with peripheral circulatory disorder	^ESCTDI439221		127014009	3313383012		32
+4758061000006110	Insulin-dependent diabetes mellitus with ulcer	^ESCTIN475806		190368000	292539010		32
+4758121000006115	Insulin-dependent diabetes maturity onset	^ESCTIN475812		190372001	292552017		32
+4808921000006113	Diabetic neuropathic arthropathy	^ESCTDI480892		201724008	309740011		32
+12221151000006118	Mononeuropathy co-occurrent and due to diabetes mellitus	^ESCT1222115		230577008	3697662013		32
+5109461000006115	Diabetes type 2 on insulin	^ESCTDI510946		237599002	3037103012		32
+5505651000006113	Diabetes mellitus uncontrolled	^ESCTDI550565		268519009	2920470017		1
+5754621000006110	Labile type I diabetes mellitus	^ESCTLA575462		290002008	2872768015		32
+5754581000006110	Brittle type 1 diabetes mellitus	^ESCTBR575458		290002008	2872766016		32
+5754611000006119	Brittle type I diabetes mellitus	^ESCTBR575461		290002008	2872767013		32
+6030001000006116	Insulin-dependent diabetes without complication	^ESCTIN603000		313435000	457327017		32
+6050071000006111	Insulin dependent diabetes mellitus with hypoglycemic coma	^ESCTIN605007		314771006	459165012		32
+6050041000006115	Insulin dependent diabetes mellitus with hypoglycaemic coma	^ESCTIN605004		314771006	459162010		32
+6050061000006116	Type I diabetes mellitus with hypoglycemic coma	^ESCTTY605006		314771006	459164011		32
+6050081000006114	Type 1 diabetes mellitus with hypoglycemic coma	^ESCTTY605008		314771006	459166013		32
+6051171000006117	Insulin dependent diabetes mellitus with arthropathy	^ESCTIN605117		314893005	459293018		32
+6951091000006110	Diabetes type 1 with ketoacidosis	^ESCTDI695109		420270002	3035606019		32
+6951081000006112	Ketoacidosis in type I diabetes mellitus	^ESCTKE695108		420270002	2618216015		32
+6951281000006117	Kidney disorder associated with type 2 diabetes mellitus	^ESCTKI695128		420279001	2623051017		32
+12331061000006114	Mononeuropathy co-occurrent and due to type 2 diabetes mellitus	^ESCT1233106		420436000	3697666011		32
+6954121000006112	Mononeuropathy associated with type II diabetes mellitus	^ESCTMO695412		420436000	2618201018		32
+12331051000006112	Mononeuropathy with type 2 diabetes mellitus	^ESCT1233105		420436000	12331051000006112		32
+12702401000006118	Mononeuropathy associated with type 2 diabetes mellitus	^ESCT1270240		420436000	2967756015		32
+12331231000006110	Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus	^ESCT1233123		420486006	3698520014		32
+6954991000006112	Exudative maculopathy associated with type I diabetes mellitus	^ESCTEX695499		420486006	2618236019		32
+12331221000006112	Exudative maculopathy with type 1 diabetes mellitus	^ESCT1233122		420486006	12331221000006112		32
+12705001000006119	Exudative maculopathy associated with type 1 diabetes mellitus	^ESCT1270500		420486006	2967767019		32
+6955501000006113	Persistent proteinuria associated with type I diabetes mellitus	^ESCTPE695550		420514000	2618212018		32
+6959091000006114	Persistent microalbuminuria associated with type II diabetes mellitus	^ESCTPE695909		420715001	2618209016		32
+12332111000006115	Cataract co-occurrent and due to diabetes mellitus type 2	^ESCT1233211		420756003	3687731016		32
+12702391000006115	Diabetic cataract associated with type 2 diabetes mellitus	^ESCT1270239		420756003	2967753011		32
+6959811000006110	Diabetes type 2 with cataract	^ESCTDI695981		420756003	3035281015		32
+12332101000006118	Cataract due to diabetes mellitus type 2	^ESCT1233210		420756003	12332101000006118		32
+6959801000006112	Diabetic cataract associated with type II diabetes mellitus	^ESCTDI695980		420756003	2618240011		32
+12332271000006117	Retinopathy with type 1 diabetes mellitus	^ESCT1233227		420789003	12332271000006117		32
+6960431000006119	Diabetic retinopathy associated with type I diabetes mellitus	^ESCTDI696043		420789003	2618238018		32
+12704951000006115	Diabetic retinopathy associated with type 1 diabetes mellitus	^ESCT1270495		420789003	2967894011		32
+12332281000006119	Retinopathy co-occurrent and due to type 1 diabetes mellitus	^ESCT1233228		420789003	3699406011		32
+6960441000006112	Diabetes type 1 with retinopathy	^ESCTDI696044		420789003	3035448018		32
+6961081000006118	Gangrene associated with type 1 diabetes mellitus	^ESCTGA696108		420825003	2623046011		32
+6961091000006115	Gangrene associated with type I diabetes mellitus	^ESCTGA696109		420825003	2618207019		32
+6961101000006114	Diabetes type 1 with gangrene	^ESCTDI696110		420825003	3035408014		32
+12332751000006115	Mononeuropathy with type 1 diabetes mellitus	^ESCT1233275		420918009	12332751000006115		32
+6962751000006117	Mononeuropathy associated with type I diabetes mellitus	^ESCTMO696275		420918009	2618199015		32
+12702371000006116	Mononeuropathy associated with type 1 diabetes mellitus	^ESCT1270237		420918009	2623031016		32
+12332761000006118	Mononeuropathy co-occurrent and due to type 1 diabetes mellitus	^ESCT1233276		420918009	3698496011		32
+6965571000006111	Diabetes mellitus type 1 with ketoacidotic coma	^ESCTDI696557		421075007	3035596015		32
+6965561000006116	Ketoacidotic coma in type I diabetes mellitus	^ESCTKE696556		421075007	2618217012		32
+12702411000006115	Type II diabetes mellitus with neurological complications	^ESCT1270241		421326000	84931000006113		32
+6969931000006116	Diabetes type 2 with neurological disorder	^ESCTDI696993		421326000	3035455016		32
+12334141000006111	Neurological disorder with diabetes type 2	^ESCT1233414		421326000	12334141000006111		32
+12334131000006118	Neurological disorder co-occurrent and due to type 2 diabetes mellitus	^ESCT1233413		421326000	3695405016		32
+6969921000006119	Neurologic disorder associated with type II diabetes mellitus	^ESCTNE696992		421326000	2618196010		32
+12704971000006113	Neurologic disorder associated with type 2 diabetes mellitus	^ESCT1270497		421326000	2623027010		32
+6970631000006112	Peripheral circulatory disorder associated with type I diabetes mellitus	^ESCTPE697063		421365002	2618205010		32
+6970621000006114	Peripheral circulatory disorder associated with type 1 diabetes mellitus	^ESCTPE697062		421365002	2967882019		32
+12334621000006111	Neurological disorder co-occurrent and due to type 1 diabetes mellitus	^ESCT1233462		421468001	3695402018		32
+12704941000006117	Neurological disorder associated with type 1 diabetes mellitus	^ESCT1270494		421468001	2623029013		32
+6972441000006117	Neurological disorder associated with type I diabetes mellitus	^ESCTNE697244		421468001	2618197018		32
+6972451000006115	Diabetes type 1 with neurological disorder	^ESCTDI697245		421468001	3035338016		32
+12334611000006115	Neurological disorder with type 1 diabetes mellitus	^ESCT1233461		421468001	12334611000006115		32
+6975221000006116	Gangrene associated with type II diabetes mellitus	^ESCTGA697522		421631007	2618206011		32
+6975211000006112	Gangrene associated with type 2 diabetes mellitus	^ESCTGA697521		421631007	6975211000006112		32
+6977421000006110	Ketoacidosis in type II diabetes mellitus	^ESCTKE697742		421750000	2618220016		32
+6977431000006113	Diabetes type 2 with ketoacidosis	^ESCTDI697743		421750000	3035594017		32
+12335671000006113	Exudative maculopathy with type 2 diabetes mellitus	^ESCT1233567		421779007	12335671000006113		32
+6977971000006119	Exudative maculopathy associated with type II diabetes mellitus	^ESCTEX697797		421779007	2618237011		32
+12705011000006116	Exudative maculopathy associated with type 2 diabetes mellitus	^ESCT1270501		421779007	2967775013		32
+12335681000006111	Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus	^ESCT1233568		421779007	3698530017		32
+12489851000006117	Type II diabetes mellitus with exudative maculopathy	^ESCT1248985		421779007	938331000006118		32
+6979251000006110	Diabetes mellitus type 2 with ketoacidotic coma	^ESCTDI697925		421847006	3035601012		32
+12704991000006114	Ketoacidotic coma in type 2 diabetes mellitus	^ESCT1270499		421847006	2967777017		32
+6980001000006117	Kidney disorder associated with type 1 diabetes mellitus	^ESCTKI698000		421893009	2623057018		32
+6979991000006111	Renal disorder associated with type I diabetes mellitus	^ESCTRE697999		421893009	2618211013		32
+12336121000006110	Cataract co-occurrent and due to diabetes mellitus type 1	^ESCT1233612		421920002	3686884016		32
+12336111000006119	Cataract due to diabetes mellitus type 1	^ESCT1233611		421920002	12336111000006119		32
+12702361000006111	Diabetic cataract associated with type 1 diabetes mellitus	^ESCT1270236		421920002	2967908016		32
+6980441000006114	Diabetes type 1 with cataract	^ESCTDI698044		421920002	3035484013		32
+6980431000006116	Diabetic cataract associated with type I diabetes mellitus	^ESCTDI698043		421920002	2618234016		32
+6981621000006113	Persistent proteinuria associated with type II diabetes mellitus	^ESCTPE698162		421986006	2618210014		32
+6982521000006119	Diabetes type 2 with retinopathy	^ESCTDI698252		422034002	3035295017		32
+6982511000006110	Diabetic retinopathy associated with type II diabetes mellitus	^ESCTDI698251		422034002	2618241010		32
+12336531000006116	Retinopathy with type 2 diabetes mellitus	^ESCT1233653		422034002	12336531000006116		32
+12336541000006114	Retinopathy co-occurrent and due to type 2 diabetes mellitus	^ESCT1233654		422034002	3699409016		32
+12704981000006111	Diabetic retinopathy associated with type 2 diabetes mellitus	^ESCT1270498		422034002	2967760017		32
+12762301000006111	Diabetic oculopathy associated with type 2 diabetes mellitus	^ESCT1276230		422099009	914051000006113		32
+12336881000006117	Disorder of eye co-occurrent and due to type 2 diabetes mellitus	^ESCT1233688		422099009	3698441017		32
+12704961000006118	Diabetic oculopathy associated with type 2 diabetes mellitus	^ESCT1270496		422099009	2967746019		32
+12336871000006115	Disorder of eye with type 2 diabetes mellitus	^ESCT1233687		422099009	12336871000006115		32
+6983691000006114	Diabetic oculopathy associated with type II diabetes mellitus	^ESCTDI698369		422099009	2618233010		32
+12702421000006111	Type II diabetes mellitus with ophthalmic complications	^ESCT1270242		422099009	12702421000006111		32
+6986151000006117	Multiple complications of type I diabetes mellitus	^ESCTMU698615		422228004	2618232017		32
+7065531000006115	Latent autoimmune diabetes mellitus in adult (LADA)	^ESCTLA706553		426875007	2674066012		32
+3209431000006116	Diabetes mellitus type II	^ESCTDI320943		44054006	73465010		32
+3209441000006114	Diabetes mellitus type 2	^ESCTDI320944		44054006	197763012		32
+7281511000006118	Type 2 diabetes mellitus uncontrolled	^ESCTTY728151		443694000	3321322011		32
+7287611000006113	Type 1 diabetes mellitus uncontrolled	^ESCTTY728761		444073006	2967763015		32
+7287621000006117	Type I diabetes mellitus uncontrolled	^ESCTTY728762		444073006	2842075017		32
+3253231000006110	Diabetes mellitus type I	^ESCTDI325323		46635009	77728011		32
+3253241000006117	Diabetes mellitus type 1	^ESCTDI325324		46635009	197985011		32
+2576431000006117	DR - Diabetic retinopathy	^ESCTDR257643		4855003	1230610015		32
+12166111000006116	Retinopathy due to diabetes mellitus	^ESCT1216611		4855003	3688792011		31
+12166101000006119	Retinopathy co-occurrent and due to diabetes mellitus	^ESCT1216610		4855003	3688791016		31
+12185421000006113	Polyneuropathy due to diabetes mellitus	^ESCT1218542		49455004	3695673019		32
+12185431000006111	Polyneuropathy co-occurrent and due to diabetes mellitus	^ESCT1218543		49455004	3695674013		32
+12363661000006113	Gastroparesis with type 1 diabetes mellitus	^ESCT1236366		713702000	12363661000006113		32
+7708051000006112	Gastroparesis due to diabetes mellitus type I	^ESCTGA770805		713702000	3297354019		32
+12363671000006118	Gastroparesis co-occurrent and due to type 1 diabetes mellitus	^ESCT1236367		713702000	3698407013		32
+12705071000006113	Gastroparesis due to type 1 diabetes mellitus	^ESCT1270507		713702000	3297343012		32
+12363681000006115	Gastroparesis with type 2 diabetes mellitus	^ESCT1236368		713703005	12363681000006115		32
+12363691000006117	Gastroparesis co-occurrent and due to type 2 diabetes mellitus	^ESCT1236369		713703005	3698411019		32
+7708071000006119	Gastroparesis due to diabetes mellitus type II	^ESCTGA770807		713703005	3297368014		32
+12705081000006111	Gastroparesis due to type 2 diabetes mellitus	^ESCT1270508		713703005	3297356017		32
+7708091000006118	Polyneuropathy due to type 1 diabetes mellitus	^ESCTPO770809		713705003	3297342019		32
+12363721000006110	Polyneuropathy co-occurrent and due to type 1 diabetes mellitus	^ESCT1236372		713705003	3696383017		32
+7708121000006119	Polyneuropathy due to diabetes mellitus type II	^ESCTPO770812		713706002	3297366013		32
+12363731000006113	Polyneuropathy co-occurrent and due to type 2 diabetes mellitus	^ESCT1236373		713706002	3696410013		32
+8022441000006118	Neuropathic arthropathy due to type 1 diabetes mellitus	^ESCTNE802244		71771000119100	3012218016		32
+8022471000006114	Diabetes mellitus type 1 with diabetic Charcot's arthropathy	^ESCTDI802247		71771000119100	3028508015		32
+8022461000006119	Diabetic neuropathic arthropathy due to type 1 diabetes mellitus	^ESCTDI802246		71771000119100	3013379014		32
+7783451000006114	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	^ESCTHY778345		719216001	7783451000006114		32
+11927561000006118	Hypoglycemic coma co-occurrent and due to diabetes mellitus type II	^ESCT1192756		719216001	3315456014		32
+3690681000006114	DM - Diabetes mellitus	^ESCTDM369068		73211009	502372015		32
+3537388019	Diabetic oculopathy due to type 1 diabetes mellitus	^ESCT1168360		739681000	3537388019		32
+12370281000006118	Disorder of eye co-occurrent and due to type 1 diabetes mellitus	^ESCT1237028		739681000	3698437016		32
+12370271000006116	Disorder of eye with type 1 diabetes mellitus	^ESCT1237027		739681000	12370271000006116		32
+12702381000006118	Diabetic oculopathy due to type I diabetes mellitus	^ESCT1270238		739681000	3537386015		32
