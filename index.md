@@ -17,4 +17,3 @@ CPRD Aurum codelists from the Exeter Diabetes team
 
 
 ## Diabetes medication prodcode lists
-GET https://api.github.com/repos/drkgyoung/Exeter_Diabetes_codelists/git/trees/master
