@@ -1,0 +1,18 @@
+MedCodeId	Term	SnomedCTDescriptionId	Type	katie_type
+12990761000006117	2019 novel coronavirus detected	2808921000000112	Tested/ Diagnosis	Unknown
+13053051000006117	2019-nCoV (novel coronavirus) antigen detection result positive	2832021000000118	Tested/ Diagnosis	Antigen
+12990741000006116	2019-nCoV (novel coronavirus) detected	2808081000000112	Tested/ Diagnosis	Unknown
+13483601000006110	2019-nCoV (novel coronavirus) detection result positive at the limit of detection	2837991000000116	Tested/ Diagnosis	Unknown
+13032471000006111	2019-nCoV (novel coronavirus) qualitative existence in specimen	2828071000000119	Tested/ Diagnosis	Unknown
+13483161000006118	2019-nCoV (novel coronavirus) ribonucleic acid detected	2837121000000116	Tested/ Diagnosis	PCR
+13002281000006117	COVID-19 confirmed by laboratory test	2799591000000111	Tested/ Diagnosis	Unknown
+13483951000006118	COVID-19 detected	3973484010	Tested/ Diagnosis	Unknown
+13052351000006112	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive	2831581000000117	Tested/ Diagnosis	PCR
+13483141000006117	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive	2837101000000113	Tested/ Diagnosis	PCR
+13483591000006119	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive at the limit of detection	2837971000000115	Tested/ Diagnosis	PCR
+13052381000006116	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) qualitative existence in specimen	2831751000000118	Tested/ Diagnosis	PCR
+13053041000006119	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result positive	2832011000000112	Tested/ Diagnosis	Antigen
+13012301000006116	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detected	2827041000000112	Tested/ Diagnosis	Unknown
+13039281000006117	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result positive	2829511000000110	Tested/ Diagnosis	Unknown
+13032461000006116	SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) qualitative existence in specimen	2828051000000111	Tested/ Diagnosis	Unknown
+12990751000006119	Wuhan 2019-nCoV (novel coronavirus) detected	2808101000000118	Tested/ Diagnosis	Unknown
