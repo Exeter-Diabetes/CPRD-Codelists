@@ -1,0 +1,56 @@
+medcodeid	term_medcode
+3299911000006116	AF - Atrial fibrillation
+82343012	Atrial fibrillation
+300130013	Atrial fibrillation and flutter
+300132017	Atrial fibrillation and flutter NOS
+9988012	Atrial flutter
+6016401000006115	History of atrial fibrillation
+456154015	H/O: atrial fibrillation
+2692063011	History of atrial flutter
+216183015	Atrial fibrillation monitoring
+5669591000006113	AF - Paroxysmal atrial fibrillation
+5669611000006119	Intermittent atrial fibrillation
+5669601000006117	PAF - Paroxysmal atrial fibrillation
+421235014	Paroxysmal atrial fibrillation
+636721000000112	Permanent atrial fibrillation
+636701000000115	Persistent atrial fibrillation
+256478018	ECG: atrial fibrillation
+4586611000006112	Electrocardiographic atrial fibrillation
+350465014	Non-rheumatic atrial fibrillation
+5057281000006117	NRAF - Non-rheumatic atrial fibrillation
+4586631000006118	Electrocardiographic atrial flutter
+4586641000006111	EKG: atrial flutter
+256479014	ECG: atrial flutter
+5057261000006110	Lone atrial fibrillation
+5887651000006116	Controlled atrial fibrillation
+6043781000006115	Rapid atrial fibrillation
+2675306013	Paroxysmal atrial flutter
+2675253013	Chronic atrial fibrillation
+2608211000000115	Typical atrial flutter
+7803631000006115	Atrial flutter type I
+7803641000006113	Atrial flutter type 1
+2608251000000116	Atypical atrial flutter
+9868951000006119	Atrial flutter type II
+9868941000006116	Atrial flutter type 2
+406861000000119	Atrial fibrillation annual review
+406251000000118	Atrial fibrillation monitoring administration
+408081000000116	Atrial fibrillation monitoring first letter
+408101000000110	Atrial fibrillation monitoring second letter
+408121000000118	Atrial fibrillation monitoring third letter
+408141000000113	Atrial fibrillation monitoring verbal invite
+8218591000006111	Atrial fibrillation monitoring verbal invitation
+8218281000006110	Atrial fibrillation monitoring telephone invitation
+408241000000115	Atrial fibrillation monitoring telephone invite
+783761000006118	Implantation of intravenous pacemaker for atrial fibrillation
+865521000006116	Pacer controlled atrial fibril
+7064701000006118	Transient cerebral ischemia due to atrial fibrillation
+7064691000006118	Transient cerebral ischaemia due to atrial fibrillation
+7046981000006110	Chronic atrial flutter
+7375931000006117	Insertion of pacemaker for control of atrial fibrillation
+8037691000006113	Atrial fibrillation with rapid ventricular response
+2278971000000111	Provision of written information about atrial fibrillation
+7610331000006110	Longstanding persistent atrial fibrillation
+7731461000006119	Familial atrial fibrillation
+7734131000006115	Idiopathic neonatal atrial flutter
+3636234016	Pre-excited atrial fibrillation
+3636235015	Preexcited atrial fibrillation

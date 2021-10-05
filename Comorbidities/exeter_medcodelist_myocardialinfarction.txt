@@ -1,0 +1,276 @@
+medcodeid	term_medcode
+810811000006116	H/O: myocardial infarct at less than 60
+4540461000006118	History of myocardial infarct at age less than sixty
+4540481000006111	History of myocardial infarct at age greater than sixty
+810821000006112	H/O: myocardial infarct at greater than 60
+3576391000006116	Postmyocardial infarction pericarditis
+109915012	Post-myocardial infarction syndrome
+109916013	Dressler's syndrome
+3576371000006117	Postmyocardial infarction syndrome
+4031011	Old myocardial infarction
+2526351000006116	Healed coronary
+4032016	Healed myocardial infarction
+6619201000006117	Previous myocardial infarction
+6619191000006115	Past history of myocardial infarction
+1738171000006114	History of myocardial infarction
+230021000006115	Personal history of myocardial infarction
+256452010	ECG: myocardial infarction
+256460011	ECG: myocardial infarct NOS
+4586031000006113	Electrocardiogram finding of infarction
+4586041000006115	Electrocardiographic myocardial infarction
+4586051000006118	EKG: myocardial infarction
+3641641000006116	Acute myocardial infarction of anterolateral wall
+455641000006112	Acute anterolateral myocardial infarction
+299707016	Acute anterior myocardial infarction
+299709018	Anterior myocardial infarction NOS
+3381601000006117	Acute myocardial infarction of anterior wall
+3343471000006116	Acute anteroapical myocardial infarction
+299708014	Acute anteroapical infarction
+455651000006114	Acute anteroseptal myocardial infarction
+3565871000006113	Acute myocardial infarction of inferolateral wall
+457531000006110	Acute inferolateral myocardial infarction
+3745741000006117	Acute myocardial infarction of inferoposterior wall
+1234005010	Acute inferoposterior infarction
+299710011	Acute posterior myocardial infarction
+299711010	Acute lateral myocardial infarction
+3452181000006112	Acute myocardial infarction of lateral wall
+299712015	True posterior myocardial infarction
+4775881000006117	True posterior wall infarction
+3645351000006114	Acute nontransmural infarction
+116992017	Acute subendocardial infarction
+3699911000006119	Acute myocardial infarction of diaphragmatic wall
+3699921000006110	Acute inferior myocardial infarction
+299714019	Acute myocardial infarction of inferior wall
+94884017	Acute myocardial infarction
+299720018	Other acute myocardial infarction NOS
+299721019	Acute myocardial infarction NOS
+460681000006116	Acute transmural myocardial infarction of unspecif site
+3427201000006111	AMI - Acute myocardial infarction
+362461000006119	[X]Acute transmural myocardial infarction of unspecif site
+299718016	Other acute myocardial infarction
+884141000006116	Coronary thrombosis
+219531000000117	MI - acute myocardial infarction
+884151000006119	Myocardial Infarction
+299719012	Acute atrial infarction
+4775891000006119	Acute myocardial infarction of atrium
+3784911000006111	Acute myocardial infarction of septum
+1234306015	Acute septal infarction
+3784921000006115	Acute myocardial infarction of septum alone
+299813018	Subsequent myocardial infarction of other sites
+118831000006118	Subsequent myocardial infarction of unspecified site
+300882013	[X]Subsequent myocardial infarction of unspecified site
+4776171000006116	Reinfarction of myocardium
+299808017	Subsequent myocardial infarction
+300881018	[X]Subsequent myocardial infarction of other sites
+299811016	Subsequent myocardial infarction of anterior wall
+299812011	Subsequent myocardial infarction of inferior wall
+6348651000006112	Myocardial infarction with complication
+543291000006110	Myocardial infarction with complication
+12220751000006113	Hemopericardium due to and following acute myocardial infarction
+4776221000006110	Hemopericardium as current complication following acute myocardial infarction
+813961000006116	Haemopericardium as current complication following acute myocardial infarction
+12220761000006110	Haemopericardium due to and following acute myocardial infarction
+12220771000006115	Atrial septal defect due to and following acute myocardial infarction
+498031000006112	Atrial septal defect as current complication following acute myocardial infarction
+4776251000006118	Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
+158601000006116	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+12220781000006117	Rupture of chordae tendinae due to and following acute myocardial infarction
+158611000006118	Rupture of chordae tendinae as current complication following acute myocardial infarction
+159001000006119	Rupture of papillary muscle as current complication following acute myocardial infarction
+12220791000006119	Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction
+100681000006116	Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction
+451369010	H/O: Myocardial infarction in last year
+5974481000006116	History of myocardial infarction in last year
+458410010	Post infarct angina
+6651221000006117	STEMI - ST elevation myocardial infarction
+1780491019	Acute ST segment elevation myocardial infarction
+6651391000006114	NSTEMI - Non-ST segment elevation MI
+1780501013	Acute non-ST segment elevation myocardial infarction
+4586151000006119	ECG: antero-septal infarct
+4586111000006115	Anteroseptal infarction on electrocardiogram
+4586141000006116	Electrocardiogram: anteroseptal infarction
+4586131000006114	ECG: anteroseptal infarction
+256455012	ECG: antero-septal infarct.
+4586181000006110	Electrocardiographic posterior/inferior infarct
+256457016	ECG:posterior/inferior infarct
+4586171000006112	EKG:posterior/inferior infarct
+4586211000006114	Electrocardiographic subendocardial infarct
+4586201000006111	EKG: subendocardial infarct
+256458014	ECG: subendocardial infarct
+256459018	ECG: lateral infarction
+4586241000006113	Electrocardiogram: lateral infarction
+4586221000006118	Lateral infarction on electrocardiogram
+6056601000006112	DIGAMI - diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+616081000006113	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+450322013	Acute non-Q wave infarction
+447324018	Acute Q-wave infarct
+5935321000006111	Acute Q wave myocardial infarction
+967931000006114	Acute myocardial infarction of posterolateral wall
+212091000006110	Postoperative transmural myocardial infarction unspec site
+212081000006112	Postoperative transmural myocardial infarction other sites
+208365015	Postoperative myocardial infarction
+455423016	Postoperative myocardial infarction, unspecified
+212061000006119	Postoperative transmural myocardial infarction of anterior wall
+212071000006114	Postoperative transmural myocardial infarction of inferior wall
+455422014	Postoperative subendocardial myocardial infarction
+5056521000006115	Defect of ventricular septum following myocardial infarction
+67081000006119	Ventricular septal defect as current complication following acute myocardial infarction
+5056501000006113	Post-infarction ventricular septal defect
+5056941000006119	Post-infarction pericarditis
+5056951000006117	Pericarditis following myocardial infarction
+216351000006118	Post infarction pericarditis
+256454011	ECG: old myocardial infarction
+4586101000006118	Electrocardiographic old myocardial infarction
+4586091000006112	EKG: old myocardial infarction
+2855351000006111	Myocardial infarct
+2855301000006112	Myocardial infarction
+2855311000006110	Infarction of heart
+2855321000006119	Cardiac infarction
+219521000000119	Attack - heart
+37443015	Heart attack
+2855341000006114	MI - Myocardial infarction
+5056271000006117	Acute Q wave infarction - anteroseptal
+5056281000006119	Acute non-Q wave infarction - anteroseptal
+5056291000006116	Acute Q wave infarction - anterolateral
+5056301000006115	Acute non-Q wave infarction - anterolateral
+5056311000006117	Acute Q wave infarction - inferior
+5056321000006113	Acute non-Q wave infarction - inferior
+5056331000006111	Acute Q wave infarction - inferolateral
+5056341000006118	Acute non-Q wave infarction - inferolateral
+5056351000006116	Acute Q wave infarction - lateral
+5056361000006119	Acute non-Q wave infarction - lateral
+5056371000006114	Acute widespread myocardial infarction
+5056381000006112	Acute Q wave infarction - widespread
+5056391000006110	Acute non-Q wave infarction - widespread
+5056411000006110	Old anterior myocardial infarction
+5056421000006119	Old inferior myocardial infarction
+5056431000006116	Old lateral myocardial infarction
+5056441000006114	Old posterior myocardial infarction
+350376014	Silent myocardial infarction
+5056461000006113	MI - Silent myocardial infarction
+12221301000006119	Cardiac rupture due to and following acute myocardial infarction
+537751000006115	Cardiac rupture after acute myocardial infarction
+5056681000006117	Post-infarction mitral papillary muscle rupture
+6043771000006118	Non-Q wave myocardial infarction
+6546751000006118	First myocardial infarction
+6601121000006118	Coronary artery thrombosis
+6601131000006115	CT - Coronary thrombosis
+1786197015	Coronary thrombosis
+1786198013	Thrombosis - coronary
+2503001000006118	Acute myocardial infarction of basal-lateral wall
+2515481000006119	Septal infarction by EKG
+2515471000006117	Septal infarction by electrocardiogram
+2616631000006118	Inferior myocardial infarction on ECG
+2616641000006111	Inferior myocardial infarction on ECG (electrocardiogram)
+2616621000006116	Inferior infarction by EKG
+2616611000006112	Inferior myocardial infarction on electrocardiogram
+2987461000006113	Acute myocardial infarction with rupture of ventricle
+3024791000006110	Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms
+3024781000006112	Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms
+3202711000006110	Anterolateral infarction by EKG
+3202701000006112	Anterolateral infarction by electrocardiogram
+3459561000006119	Acute myocardial infarction of apical-lateral wall
+3551171000006114	Acute myocardial infarction of high lateral wall
+3654691000006112	Acute myocardial infarction of posterobasal wall
+3655161000006110	Pericarditis secondary to acute myocardial infarction
+11778311000006116	Pericarditis due to acute myocardial infarction
+12483401000006117	Certain current complications following acute myocardial infarction
+5723601000006115	Myocardiectomy of infarcted area
+5723591000006111	Infarct myocardiectomy
+6914971000006118	Myocardial infarction in recovery phase
+6361071000006110	Thrombolysis in Myocardial Infarction grade 2: partial perfusion
+6361051000006117	TIMI grade 2: partial perfusion
+6361061000006115	Thrombolysis in Myocardial Infarction (TIMI) grade 2: partial perfusion
+6361091000006111	Thrombolysis in Myocardial Infarction (TIMI) grade 3: complete perfusion
+6361101000006117	Thrombolysis in Myocardial Infarction grade 3: complete perfusion
+6361081000006113	TIMI grade 3: complete perfusion
+6361121000006110	Thrombolysis in Myocardial Infarction (TIMI) grade 1: penetration without perfusion
+6361131000006113	Thrombolysis in Myocardial Infarction grade 1: penetration without perfusion
+6361111000006119	TIMI grade 1: penetration without perfusion
+6361151000006118	Thrombolysis in Myocardial Infarction grade 0: no perfusion
+6361141000006115	TIMI grade 0: no perfusion
+3703011000006111	Posterior infarction by EKG
+3703031000006117	Posterior myocardial infarction on ECG (electrocardiogram)
+3703001000006113	Posterior myocardial infarction on electrocardiogram
+3703021000006115	Posterior myocardial infarction on ECG
+7102561000006110	New myocardial infarction compared to prior study
+7093091000006111	Recent myocardial infarction
+7107881000006116	Anterior myocardial infarction on ECG (electrocardiogram)
+7107861000006114	Anterior myocardial infarction on electrocardiogram (EKG)
+7107851000006112	Anterior myocardial infarction on electrocardiogram
+7107871000006119	Anterior myocardial infarction on ECG
+7084811000006110	Mixed myocardial ischemia and infarction
+7084801000006112	Mixed myocardial ischaemia and infarction
+8087771000006114	Acute ST segment elevation myocardial infarction involving left main coronary artery
+8087751000006116	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+7965631000006113	History of MI less than 8 weeks
+7965621000006110	History of myocardial infarction in last eight weeks
+8011041000006111	Acute myocardial infarction due to right coronary artery occlusion
+8004261000006118	Acute myocardial infarction due to left coronary artery occlusion
+7510331000006117	History of non-ST segment elevation myocardial infarction
+7572331000006110	Acute STEMI (ST elevation myocardial infarction) of inferior wall
+7572341000006117	Acute inferior ST segment elevation myocardial infarction
+7572321000006112	Acute ST segment elevation myocardial infarction of inferior wall
+7572251000006114	Subsequent ST segment elevation myocardial infarction of anterior wall
+7572271000006116	Subsequent anterior ST segment elevation myocardial infarction
+7572261000006111	Subsequent STEMI (ST elevation myocardial infarction) of anterior wall
+7571601000006115	Acute STEMI (ST elevation myocardial infarction) of anterior wall
+7571581000006113	Acute anterior ST segment elevation myocardial infarction
+7571591000006111	Acute ST segment elevation myocardial infarction of anterior wall
+7571631000006111	Acute STEMI (ST elevation myocardial infarction) of anterior wall with right ventricular involvement
+7571611000006117	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+7571621000006113	Acute anterior ST segment elevation myocardial infarction with right ventricular involvement
+7572281000006118	Subsequent ST segment elevation myocardial infarction
+7572291000006115	Subsequent STEMI (ST elevation myocardial infarction)
+7572311000006116	Acute periprocedural myocardial infarction
+7572301000006119	Acute myocardial infarction during procedure
+7572231000006119	Subsequent inferior ST segment elevation myocardial infarction
+7572221000006117	Subsequent ST segment elevation myocardial infarction of inferior wall
+7572241000006112	Subsequent STEMI (ST elevation myocardial infarction) of inferior wall
+7572841000006111	Acute myocardial infarction of inferior wall involving right ventricle
+7572851000006113	Acute myocardial infarction of inferior wall with right ventricular involvement
+7572861000006110	Acute myocardial infarction of anterior wall involving right ventricle
+7572871000006115	Acute myocardial infarction of anterior wall with right ventricular involvement
+7572891000006119	Acute inferior ST segment elevation myocardial infarction with right ventricular involvement
+7572901000006115	Acute STEMI (ST elevation myocardial infarction) of inferior wall with right ventricular involvement
+7572881000006117	Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle
+7574101000006113	Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture
+7574081000006117	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture
+12359091000006115	Mitral valve regurgitation due to and following acute myocardial infarction
+7574041000006111	Mitral valve regurgitation due to acute myocardial infarction
+7574051000006113	Mitral regurgitation due to acute myocardial infarction
+7574481000006111	Subsequent non-ST segment elevation myocardial infarction
+7574491000006114	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)
+9843981000006111	Acute ST segment elevation myocardial infarction of lateral wall
+9844011000006119	Acute ST segment elevation myocardial infarction of posterior wall
+9843951000006115	Acute ST segment elevation myocardial infarction of posterolateral wall
+9844081000006114	Acute ST segment elevation myocardial infarction of posterobasal wall
+9843961000006118	Acute ST segment elevation myocardial infarction of anterolateral wall
+9843991000006114	Acute ST segment elevation myocardial infarction of anteroseptal wall
+7662871000006115	Inducible ischaemia manifest on stress test post myocardial infarction
+7662881000006117	Inducible ischemia manifest on stress test post myocardial infarction
+9844061000006116	Acute ST segment elevation MI (myocardial infarction) due to right coronary artery occlusion
+9844051000006118	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+9844071000006111	Acute ST segment elevation myocardial infarction of septum
+9844021000006110	Acute ST segment elevation myocardial infarction due to left coronary artery occlusion
+9844031000006113	Acute ST segment elevation MI (myocardial infarction) due to left coronary artery occlusion
+8032161000006112	Coronary arteriosclerosis in patient with history of previous myocardial infarction
+8087551000006113	History of acute ST segment elevation myocardial infarction
+7807021000006119	Myocardial infarction clinical management plan
+9868571000006116	Mural thrombus of left ventricle following acute myocardial infarction
+12368981000006116	Ventricular aneurysm due to and following acute myocardial infarction
+7848511000006113	Ventricular aneurysm following acute myocardial infarction
+7848501000006110	Ventricular aneurysm as current complication following acute myocardial infarction
+12368991000006118	Pulmonary embolism due to and following acute myocardial infarction
+7848531000006119	Pulmonary embolism following acute myocardial infarction
+7848521000006117	Pulmonary embolism as current complication following acute myocardial infarction
+7848551000006114	Arrhythmia following acute myocardial infarction
+7848541000006112	Arrhythmia as current complication following acute myocardial infarction
+12369001000006118	Arrhythmia due to and following acute myocardial infarction
+7848561000006111	Cardiogenic shock unrelated to mechanical complications as current complication following acute myocardial infarction
+7848571000006116	Cardiogenic shock following acute myocardial infarction
+3526080018	Mural thrombus of right ventricle following acute myocardial infarction
+3527838013	Myocardial infarction clinical management plan
+12122341000006114	Acute ST segment elevation myocardial infarction of inferoposterior wall
+12122331000006116	Acute ST segment elevation myocardial infarction of inferolateral wall
+408571000006116	[X]Other current complicatns following acute myocard infarct

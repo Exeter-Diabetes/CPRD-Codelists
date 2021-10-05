@@ -1,0 +1,281 @@
+medcodeid	term_medcode
+8032721000006117	Chronic kidney disease due to hypertension
+2668041000006115	Malignant hypertension complicating AND/OR reason for care during childbirth
+2670511000006119	Benign hypertension
+9324411000006114	Eclampsia with pre-existing hypertension in childbirth
+9324421000006118	Eclampsia with pre-existing hypertension in labour and delivery
+9324431000006115	Eclampsia with pre-existing hypertension in labor and delivery
+9325301000006118	Preexisting hypertensive heart and chronic kidney disease in childbirth
+9325291000006119	Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth
+9325321000006111	Pre-existing hypertensive heart disease in mother complicating childbirth
+9325331000006114	Preexisting hypertensive heart disease in childbirth
+9325351000006119	Preexisting hypertensive heart and chronic kidney disease in pregnancy
+9325341000006116	Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy
+9325521000006118	Pre-existing hypertensive heart disease in mother complicating pregnancy
+9325531000006115	Preexisting hypertensive heart disease in pregnancy
+8034201000006113	Cardiomyopathy due to hypertension
+8035251000006111	End stage renal disease due to hypertension
+8035261000006113	ESRD (End stage renal disease) due to hypertension
+2681651000006116	Pulmonary hypertensive arterial disease
+43850011	Pulmonary arterial hypertension
+2681661000006119	Hypertensive pulmonary arterial disease
+8036941000006111	Chronic kidney disease stage 1 due to hypertension
+8037161000006110	Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy
+8037171000006115	Preexisting hypertensive chronic kidney disease in pregnancy
+3135013	Benign essential hypertension
+299683014	Renovascular hypertension
+4356081000006115	Hypertension due to renovascular disease
+610811000006114	Defective synthesis of 11B hydroxylase
+4361271000006110	Adrenogenital disorder due to 11-beta-hydroxylase deficiency
+4361261000006115	11-beta-hydroxylase deficiency
+4361251000006117	Hypertensive congenital adrenal hyperplasia
+4361221000006114	Deficiency of steroid 11-beta-monooxygenase
+4361231000006112	Deficiency of steroid 11-beta-hydroxylase
+4361291000006111	Congenital adrenal hyperplasia, type 3
+4361241000006119	Steroid 11-beta-monooxygenase deficiency
+4361281000006113	CAH - 11 beta-hydroxylase deficiency
+8040331000006118	Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus
+8040341000006111	Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+8040661000006119	Chronic kidney disease stage 4 due to hypertension
+8040671000006114	Chronic kidney disease stage 5 due to hypertension
+8040681000006112	Chronic kidney disease stage 3 due to hypertension
+8040691000006110	Chronic kidney disease stage 2 due to hypertension
+8041701000006119	Hypertensive emergency
+8044011000006117	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+8044021000006113	Hypertension in chronic kidney disease stage 5 due to type II diabetes mellitus
+8044051000006116	Hypertension in chronic kidney disease stage 4 due to type II diabetes mellitus
+8044041000006118	Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus
+8044061000006119	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+8044071000006114	Hypertension in chronic kidney disease stage 3 due to type II diabetes mellitus
+8044081000006112	Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus
+8044091000006110	Hypertension in chronic kidney disease stage 2 due to type II diabetes mellitus
+2521841000006119	Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth
+2737251000006112	Renal sclerosis with hypertension
+8047971000006118	Malignant hypertensive chronic kidney disease stage 5
+8048001000006110	End stage renal disease on dialysis due to hypertension
+251674014	H/O: hypertension
+4540441000006117	History of hypertension
+9897511000006110	Labile systemic arterial hypertension
+264485019	Treatment for hypertension started
+4634851000006119	Treatment for hypertension started
+12488211000006112	Hypertension treatm. started
+12487991000006113	Hypertensive treatm.changed
+264486018	Hypertensive treatment changed
+4634871000006112	Hypertensive treatment changed
+2792621000006113	Essential hypertension complicating AND/OR reason for care during childbirth
+1409014	Benign hypertensive renal disease
+504901000006118	Benign hypertensive heart disease with congestive cardiac failure
+11926091000006118	Hypertensive renal disease with renal failure
+741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
+299673010	Hypertensive heart and renal disease with renal failure
+789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+4775791000006113	Malignant secondary renovascular hypertension
+299676019	Secondary malignant renovascular hypertension
+299680012	Benign secondary hypertension
+299678018	Secondary benign hypertension
+299681011	Hypertension secondary to endocrine disorders
+4775831000006118	Hypertension secondary to endocrine disorder
+2813981000006110	High-renin essential hypertension
+212961000006118	Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+305818015	Pre-eclampsia or eclampsia with pre-existing hypertension
+213011000006113	Pre-eclampsia or eclampsia with hypertension unspecified
+212991000006114	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+212981000006111	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+213001000006110	Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+212971000006113	Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+213111000006112	Pre-existing hypertension complicating pregnancy, childbirth and puerperium
+213091000006115	Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+213101000006114	Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium
+213081000006118	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium
+2829961000006111	Hypertensive heart disease complicating AND/OR reason for care during pregnancy
+2917191000006110	Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth
+8087041000006116	Chronic kidney disease due to benign hypertension
+8087051000006119	Chronic kidney disease stage 1 due to benign hypertension
+8087061000006117	Chronic kidney disease stage 2 due to benign hypertension
+8087071000006112	Chronic kidney disease stage 3 due to benign hypertension
+8087081000006110	Chronic kidney disease stage 4 due to benign hypertension
+8087091000006113	Chronic kidney disease stage 5 due to benign hypertension
+8087641000006112	Malignant hypertensive chronic kidney disease
+8087651000006114	Malignant hypertensive end stage renal disease
+8087661000006111	Malignant hypertensive chronic kidney disease stage 1
+8087681000006118	Malignant hypertensive chronic kidney disease stage 2
+8087691000006115	Malignant hypertensive chronic kidney disease stage 3
+8087701000006115	Malignant hypertensive chronic kidney disease stage 4
+8088131000006111	Malignant hypertensive end stage renal disease on dialysis
+5730901000006115	Maternal hypertension
+443764015	On treatment for hypertension
+3006211000006112	Pre-existing hypertension complicating AND/OR reason for care during puerperium
+300870016	[X]Other secondary hypertension
+299682016	Secondary hypertension NOS
+53452019	Secondary hypertension
+300871017	[X]Hypertension secondary to other renal disorders
+158241000006117	Secondary hypertension NOS
+3058531000006114	Pre-existing hypertension complicating AND/OR reason for care during childbirth
+60444016	Benign hypertensive heart disease
+299654011	Benign hypertensive heart disease NOS
+728681000006116	Malignant hypertensive heart disease without congestive heart failure
+8118921000006117	Hypertension due to compression of renal parenchyma
+8118911000006113	Page kidney
+6349461000006119	Labile essential hypertension
+3105841000006112	Chronic hypertension complicating AND/OR reason for care during pregnancy
+299686018	Other specified hypertensive disease
+300869017	[X]Hypertensive diseases
+3117411000006118	High blood pressure
+3117511000006117	HTN - Hypertension
+3117521000006113	Hypertensive disorder, systemic arterial
+3117451000006117	BP - High blood pressure
+3117501000006115	BP+ - Hypertension
+3117481000006113	HT - Hypertension
+3117491000006111	High blood pressure disorder
+299687010	Hypertensive disorder
+3117461000006115	Systemic arterial hypertension
+3117431000006112	Hypertensive vascular degeneration
+3117421000006114	Hypertensive vascular disease
+3117471000006110	HBP - High blood pressure
+64168014	Hypertensive disease
+523801000006119	BP - hypertensive disease
+790121000006116	Hypertension
+64282015	Hypertensive renal disease
+54939014	Nephrosclerosis
+3119661000006114	Hypertensive nephropathy
+11777411000006113	Renal disease due to hypertension
+395753015	Hypertensive renal disease NOS
+47076011	Renal hypertension
+3128041000006117	Renal arterial hypertension
+3139071000006117	Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium
+6592161000006112	Hypertension with albuminuria
+1780318013	Moderate hypertension control
+8016551000006112	Pre-existing essential hypertension in postpartum
+8016541000006110	Postpartum pre-existing essential hypertension
+7080381000006116	Hypertension associated with transplantation
+7084301000006117	Hypertensive left ventricular hypertrophy
+7090481000006112	Hypertension secondary to kidney transplant
+7103581000006114	Systolic essential hypertension
+7374491000006111	Complication of systemic hypertensive disorder
+7374501000006115	Complication of systemic hypertension
+7374481000006113	Hypertensive complication
+3244761000006113	Hypertensive heart failure
+3250801000006112	Low-renin essential hypertension
+3255831000006110	Severe proteinuric hypertension of pregnancy
+3255821000006112	PET - Severe pre-eclamptic toxemia
+3255791000006115	Severe pre-eclamptic toxemia
+305805011	Severe pre-eclampsia NOS
+305800018	Severe pre-eclampsia unspecified
+3255801000006119	Severe pre-eclamptic toxaemia
+3255811000006116	PET - Severe pre-eclamptic toxaemia
+77942011	Severe pre-eclampsia
+7487571000006119	Hypertensive nephrosclerosis
+80224019	Diastolic hypertension
+299665018	Hypertensive renal disease with renal failure
+3296351000006114	Hypertensive renal failure
+84111015	Hypertensive encephalopathy
+84112010	Hypertensive crisis
+2581861000006110	Hypertensive heart disease with congestive heart failure
+299650019	Malignant hypertensive heart disease NOS
+90135019	Malignant hypertensive heart disease
+93494011	Systolic hypertension
+3437381000006110	Parenchymal renal hypertension
+395751018	Essential hypertension NOS
+3468501000006117	Systemic primary arterial hypertension
+3468491000006113	Idiopathic hypertension
+99042012	Essential hypertension
+99047018	Primary hypertension
+3470001000006117	Sustained diastolic hypertension
+3474361000006112	Endocrine hypertension
+3474371000006117	Adrenal hypertension
+3489281000006119	Hypertensive heart disease without congestive heart failure
+3511811000006117	Hypertensive episode
+107545013	Hypertensive heart disease
+741661000006118	Hypertensive heart disease NOS
+741681000006111	Hypertensive heart disease NOS with CCF
+741691000006114	Hypertensive heart disease NOS without CCF
+3552531000006110	HHD - Hypertensive heart disease
+3552501000006119	Hypertensive cardiopathy
+299655012	Hypertensive heart disease NOS
+3552511000006116	Hypertensive cardiomegaly
+3552521000006112	Hypertensive cardiovascular disease
+3563421000006111	Pre-existing hypertension complicating AND/OR reason for care during pregnancy
+108730018	Malignant hypertensive renal disease
+3565371000006115	Labile diastolic hypertension
+109700019	Benign hypertensive heart AND renal disease
+110659019	Malignant hypertensive heart AND renal disease
+3595881000006114	PET - Superimposed pre-eclamptic toxemia
+3595901000006111	Superimposed pre-eclampsia
+3595891000006112	PIH - Superimposed pregnancy-induced hypertension
+3595871000006111	PET - Superimposed pre-eclamptic toxaemia
+3595861000006116	Pre-eclampsia added to pre-existing hypertension
+12496011	Hypertensive retinopathy
+7510311000006111	Benign hypertensive renal disease with renal failure
+3636751000006117	Eclampsia added to pre-existing hypertension
+3642801000006112	Malignant hypertension
+7573791000006119	Autosomal dominant progressive nephropathy with hypertension
+7593681000006118	Hypertension concurrent and due to end stage renal disease on dialysis
+7609711000006110	Hypertensive crisis
+7691501000006119	ESRD (End stage renal disease) due to benign hypertension
+7691491000006110	End stage renal disease due to benign hypertension
+8022361000006113	Hypertension in chronic kidney disease due to type 2 diabetes mellitus
+8022371000006118	Hypertension in chronic kidney disease due to type II diabetes mellitus
+8022411000006117	Hypertension in chronic kidney disease due to type I diabetes mellitus
+8022401000006115	Hypertension in chronic kidney disease due to type 1 diabetes mellitus
+3693711000006119	Benign secondary renovascular hypertension
+2478822013	Secondary benign renovascular hypertension
+3710191000006113	Secondary diastolic hypertension
+3636695013	Diastolic hypertension and systolic hypertension
+3636694012	Combined diastolic and systolic hypertension
+3636696014	Diastolic hypertension co-occurrent with systolic hypertension
+12049841000006119	Early-onset hypertension with exacerbation in pregnancy
+12049821000006114	Hypertension due to gain-of-function mutation in mineralocorticoid receptor
+12049831000006112	Pseudohyperaldosteronism type 2
+504911000006115	Benign hypertensive heart disease without CCF
+3768511000006114	Benign hypertensive heart disease without congestive heart failure
+3784371000006115	Accelerated essential hypertension
+131046010	Malignant essential hypertension
+884121000006111	Malignant hypertension
+2631141000006115	Chronic hypertension complicating AND/OR reason for care during childbirth
+728671000006119	Malignant hypertensive heart disease with congestive cardiac failure
+3852501000006115	Malignant hypertensive heart disease with congestive heart failure
+2193031000000112	Stage 1 hypertension
+1846941000006119	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+1846961000006115	Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+2193021000000110	Severe hypertension
+2193971000000110	Hypertension resistant to drug therapy
+8286321000006117	Resistant hypertension
+8286581000006114	Stage 2 hypertension
+1846991000006111	Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+7990031000006110	Hypertensive heart and chronic kidney disease
+19441000006114	Other pre-existing hypertension in preg/childb/puerp NOS
+19451000006111	Other pre-existing hypertension in preg/childb/puerp unspec
+39871000006113	Oth pre-exist hypert in preg/childb/puerp -del with p/n comp
+504811000006110	Benign essential hypertension in preg/childb/puerp unspec
+3898601000006112	Pre-existing hypertension in obstetric context
+3898611000006110	Pre-existing hypertension complicating pregnancy
+504801000006112	Benign essential hypertension in preg/childb/puerp NOS
+19431000006116	Other pre-existing hypertension in preg/childb/puerp - deliv
+19411000006110	Other pre-exist hypertension in preg/childb/puerp + p/n comp
+19421000006119	Other pre-exist hypertension in preg/childb/puerp-not deliv
+305764016	Other pre-existing hypertension in preg/childbirth/puerp
+3902031000006117	Cardiorenal disease
+299675015	Hypertensive heart and renal disease NOS
+143003017	Hypertensive heart AND renal disease
+884131000006114	Hypertensive renal + heart dis
+8298681000006113	Nocturnal hypertension
+2639781000006114	Chronic hypertension in obstetric context
+151161000006115	Malignant secondary hypertension
+299677011	Secondary malignant hypertension NOS
+3950631000006119	Accelerated secondary hypertension
+1908711000006115	Stage 1 hypertension (NICE 2011) without evidence of end organ damage
+1908721000006111	Stage 1 hypertension (NICE 2011) with evidence of end organ damage
+8030391000006118	Hypertensive heart AND chronic kidney disease on dialysis
+8030411000006118	Hypertensive heart AND chronic kidney disease stage 5
+8030421000006114	Hypertensive heart AND chronic kidney disease stage 4
+8030431000006112	Hypertensive heart AND chronic kidney disease stage 3
+8030441000006119	Hypertensive heart AND chronic kidney disease stage 2
+8030451000006117	Hypertensive heart AND chronic kidney disease stage 1
+2657651000006118	Essential hypertension complicating AND/OR reason for care during puerperium
+64172013	Elevated blood pressure
+411508017	Cardiomegaly - hypertensive
+264471012	Good hypertension control
+264472017	Poor hypertension control
+496971000006110	Atheroscleritic retinopathy
+497011000006117	Atherosclerotic retinopathy
+223851000000119	Arterosclerotic retinopathy
