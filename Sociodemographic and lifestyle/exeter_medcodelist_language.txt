@@ -1,0 +1,589 @@
+medcodeid	term_medcode	category
+437781010	World languages	First Language Not English
+437977019	Vietnamese language	First Language Not English
+438450019	Cantonese Chinese dialect	First Language Not English
+5841411000006115	Sylheti	First Language Not English
+438054019	Sylhety	First Language Not English
+6029861000006115	Créole language	First Language Not English
+457311012	Creole language	First Language Not English
+457312017	Mirpuri language	First Language Not English
+460083013	Main spoken language Arabic	First Language Not English
+460084019	Main spoken language Bengali	First Language Not English
+460085018	Main spoken language Cantonese	First Language Not English
+460086017	Main spoken language Czech	First Language Not English
+460088016	Main spoken language French	First Language Not English
+460089012	Main spoken language Gujerati	First Language Not English
+2418501000000119	Main spoken language Gujarati	First Language Not English
+460092011	Main spoken language Hausa	First Language Not English
+460093018	Main spoken language Hindi	First Language Not English
+12490781000006113	Main spoken language Iban	First Language Not English
+12488001000006115	Main spoken language Iba	First Language Not English
+728541000000119	Main spoken language Iban	First Language Not English
+6059611000006118	Main spoken language Iba	First Language Not English
+460094012	Main spoken language Iba	First Language Not English
+460095013	Main spoken language Kutchi	First Language Not English
+460096014	Main spoken language Mandarin	First Language Not English
+460097017	Main spoken language Polish	First Language Not English
+460098010	Main spoken language Portuguese	First Language Not English
+460099019	Main spoken language Punjabi	First Language Not English
+684831000000116	Main spoken language Panjabi	First Language Not English
+460100010	Main spoken language Russian	First Language Not English
+460101014	Main spoken language Somali	First Language Not English
+460102019	Main spoken language Spanish	First Language Not English
+460103012	Main spoken language Swahili	First Language Not English
+460104018	Main spoken language Sylheti	First Language Not English
+460105017	Main spoken language Tamil	First Language Not English
+460107013	Main spoken language Yoruba	First Language Not English
+1488808019	Main spoken language Kurdish	First Language Not English
+676361000000117	Main spoken language Persian	First Language Not English
+1488807012	Main spoken language Farsi	First Language Not English
+1488809010	Main spoken language Shona	First Language Not English
+2159242019	Main spoken language Italian	First Language Not English
+2159243012	Main spoken language German	First Language Not English
+2159248015	Main spoken language Albanian	First Language Not English
+2159250011	Main spoken language Croatian	First Language Not English
+6750051000006116	Main spoken language Croat	First Language Not English
+676391000000111	Main spoken language Serbo-Croatian	First Language Not English
+2159252015	Main spoken language Greek	First Language Not English
+2159254019	Main spoken language Japanese	First Language Not English
+2159255018	Main spoken language Korean	First Language Not English
+2159256017	Main spoken language Lithuanian	First Language Not English
+2159257014	Main spoken language Turkish	First Language Not English
+2159259012	Main spoken language Ukrainian	First Language Not English
+2159261015	Main spoken language Vietnamese	First Language Not English
+2160075010	Main spoken language Akan	First Language Not English
+2160057014	Main spoken language Amharic	First Language Not English
+2160063017	Main spoken language Brawa	First Language Not English
+2160078012	Main spoken language Dutch	First Language Not English
+2160065012	Main spoken language Ethiopian	First Language Not English
+2160070017	Main spoken language Flemish	First Language Not English
+2160071018	Main spoken language French Creole	First Language Not English
+6763501000006112	Main spoken language French Créole	First Language Not English
+2160072013	Main spoken language Gaelic	First Language Not English
+2160073015	Main spoken language Hakka	First Language Not English
+2160074014	Main spoken language Hebrew	First Language Not English
+2160064011	Main spoken language Igbo	First Language Not English
+2160076011	Main spoken language Lingala	First Language Not English
+6763581000006115	Main spoken language Ganda	First Language Not English
+2160077019	Main spoken language Luganda	First Language Not English
+2160079016	Main spoken language Malayalam	First Language Not English
+2160080018	Main spoken language Norwegian	First Language Not English
+2160081019	Main spoken language Pashto	First Language Not English
+2160084010	Main spoken language Patois	First Language Not English
+2160085011	Main spoken language Serbian	First Language Not English
+676371000000112	Main spoken language Serbo-Croatian	First Language Not English
+2160068014	Main spoken language Sinhala	First Language Not English
+675961000000112	Main spoken language Sinhalese	First Language Not English
+2160066013	Main spoken language Swedish	First Language Not English
+2160067016	Main spoken language Tagalog	First Language Not English
+2160069018	Main spoken language Thai	First Language Not English
+2160083016	Main spoken language Tigrinya	First Language Not English
+2160082014	Main spoken language Welsh	First Language Not English
+642141000000118	Main spoken language Bulgarian	First Language Not English
+642161000000117	Main spoken language Romanian	First Language Not English
+669921000000113	Main spoken language Oromo	First Language Not English
+669981000000114	Main spoken language Abkhazian	First Language Not English
+7511041000006119	Main spoken language Abkhaz	First Language Not English
+670041000000119	Main spoken language Afar	First Language Not English
+670101000000116	Main spoken language Afrikaans	First Language Not English
+670171000000112	Main spoken language Armenian	First Language Not English
+670241000000111	Main spoken language Assamese	First Language Not English
+670311000000117	Main spoken language Aymara	First Language Not English
+670401000000112	Main spoken language Azerbaijani	First Language Not English
+670461000000111	Main spoken language Bashkir	First Language Not English
+670521000000119	Main spoken language Basque	First Language Not English
+670581000000118	Main spoken language Dzongkha	First Language Not English
+7514391000006112	Main spoken language Jonkha	First Language Not English
+670661000000114	Main spoken language Bihari	First Language Not English
+670721000000112	Main spoken language Bislama	First Language Not English
+670781000000113	Main spoken language Breton	First Language Not English
+670851000000110	Main spoken language Burmese	First Language Not English
+670911000000116	Main spoken language Belarusian	First Language Not English
+670971000000114	Main spoken language Central Khmer	First Language Not English
+671031000000118	Main spoken language Catalan	First Language Not English
+662801000000116	Main spoken language Slovak	First Language Not English
+671171000000117	Main spoken language Corsican	First Language Not English
+671231000000110	Main spoken language Danish	First Language Not English
+671291000000111	Main spoken language Esperanto	First Language Not English
+671351000000111	Main spoken language Estonian	First Language Not English
+671411000000115	Main spoken language Faeroese	First Language Not English
+7511141000006115	Main spoken language Faroese	First Language Not English
+671491000000112	Main spoken language Fijian	First Language Not English
+2533545014	Main spoken language Finnish	First Language Not English
+671631000000113	Main spoken language Frisian	First Language Not English
+671691000000114	Main spoken language Galician	First Language Not English
+671751000000110	Main spoken language Georgian	First Language Not English
+671811000000118	Main spoken language Greenlandic	First Language Not English
+7514501000006110	Main spoken language West Greenlandic	First Language Not English
+676151000000117	Main spoken language Kalaallisut	First Language Not English
+671871000000111	Main spoken language Guarani	First Language Not English
+671931000000117	Main spoken language Hungarian	First Language Not English
+671991000000116	Main spoken language Icelandic	First Language Not English
+672051000000117	Main spoken language Indonesian	First Language Not English
+672111000000115	Main spoken language Interlingua	First Language Not English
+7514471000006115	Main spoken language Occidental	First Language Not English
+672171000000113	Main spoken language Interlingue	First Language Not English
+672231000000115	Main spoken language Inupiaq	First Language Not English
+672291000000119	Main spoken language Inuktitut	First Language Not English
+672351000000119	Main spoken language Irish	First Language Not English
+672411000000110	Main spoken language Javanese	First Language Not English
+7514531000006119	Main spoken language Kanarese	First Language Not English
+672471000000117	Main spoken language Kannada	First Language Not English
+672531000000118	Main spoken language Kashmiri	First Language Not English
+672591000000117	Main spoken language Kazakh	First Language Not English
+672651000000112	Main spoken language Kinyarwanda	First Language Not English
+7514571000006116	Main spoken language Rwanda	First Language Not English
+7514561000006111	Main spoken language Ruanda	First Language Not English
+672711000000119	Main spoken language Kirghiz	First Language Not English
+7514591000006115	Main spoken language Kirgiz	First Language Not English
+672771000000112	Main spoken language Rundi	First Language Not English
+672831000000116	Main spoken language Lao	First Language Not English
+1166921000000115	Main spoken language Bamun	First Language Not English
+1166931000000118	Main spoken language Bamoun	First Language Not English
+672951000000118	Main spoken language Latvian	First Language Not English
+673011000000110	Main spoken language Macedonian	First Language Not English
+673071000000117	Main spoken language Malagasy	First Language Not English
+673131000000115	Main spoken language Malay	First Language Not English
+673191000000119	Main spoken language Maltese	First Language Not English
+673251000000116	Main spoken language Maori	First Language Not English
+673311000000113	Main spoken language Marathi	First Language Not English
+7514631000006115	Main spoken language Moldovan	First Language Not English
+673371000000115	Main spoken language Moldavian	First Language Not English
+673431000000112	Main spoken language Mongolian	First Language Not English
+7514651000006110	Main spoken language Nauruan	First Language Not English
+673491000000113	Main spoken language Nauru	First Language Not English
+673551000000118	Main spoken language Nepali	First Language Not English
+673611000000118	Main spoken language Occitan	First Language Not English
+673671000000111	Main spoken language Oriya	First Language Not English
+673791000000115	Main spoken language Quechua	First Language Not English
+673851000000115	Main spoken language Romansh	First Language Not English
+673911000000114	Main spoken language Samoan	First Language Not English
+673971000000116	Main spoken language Sango	First Language Not English
+1661561000000112	Main spoken language Dari	First Language Not English
+674151000000112	Main spoken language Southern Sotho	First Language Not English
+674211000000117	Main spoken language Tswana	First Language Not English
+674271000000110	Main spoken language Sindhi	First Language Not English
+662861000000117	Main spoken language Ndebele	First Language Not English
+7514771000006110	Main spoken language Swazi	First Language Not English
+674391000000118	Main spoken language Swati	First Language Not English
+674451000000119	Main spoken language Slovenian	First Language Not English
+674511000000119	Main spoken language Sundanese	First Language Not English
+674571000000112	Main spoken language Tajik	First Language Not English
+674631000000111	Main spoken language Tatar	First Language Not English
+7514791000006111	Main spoken language Tartar	First Language Not English
+674691000000112	Main spoken language Telugu	First Language Not English
+674751000000113	Main spoken language Tibetan	First Language Not English
+674811000000116	Main spoken language Tongan	First Language Not English
+7514831000006116	Main spoken language Tonga	First Language Not English
+674871000000114	Main spoken language Tsonga	First Language Not English
+674931000000115	Main spoken language Turkmen	First Language Not English
+674991000000119	Main spoken language Twi	First Language Not English
+675051000000110	Main spoken language Uighur	First Language Not English
+7514861000006113	Main spoken language Uigur	First Language Not English
+675111000000112	Main spoken language Uzbek	First Language Not English
+1658291000000118	Main spoken language Tetum	First Language Not English
+675231000000112	Main spoken language Wolof	First Language Not English
+675291000000113	Main spoken language Xhosa	First Language Not English
+675351000000113	Main spoken language Yiddish	First Language Not English
+675411000000117	Main spoken language Zhuang	First Language Not English
+7514931000006114	Main spoken language Chuang	First Language Not English
+675471000000110	Main spoken language Zulu	First Language Not English
+1658371000000110	Main spoken language Konkani	First Language Not English
+2615731000000114	Main spoken language Romany	First Language Not English
+2615751000000119	Main spoken language Romani	First Language Not English
+2615761000000116	Main spoken language Romsky	First Language Not English
+2615771000000111	Main spoken language Romanesa	First Language Not English
+2643211000000115	Main spoken language Romanes	First Language Not English
+251255010	Speaks English well	Speaks English
+460087014	Main spoken language English	Speaks English
+251256011	Speaks English poorly	Non-English speaking
+460106016	Main spoken language Urdu	First Language Not English
+460111019	Need for interpreter	Non-English speaking
+1681051000006110	Other interpreter needed	Non-English speaking
+1681661000006118	Further interpreter needed	Non-English speaking
+460112014	Interpreter needed	Non-English speaking
+458791014	Presence of interpreter	Non-English speaking
+458792019	Interpreter present	Non-English speaking
+1118721000000116	Main spoken language Filipino	First Language Not English
+1138281000000117	Main spoken language Hindko	First Language Not English
+2112371000000116	Main spoken language Aragonese	First Language Not English
+2339911000000119	First language not English	First Language Not English
+2638621000000115	Does not speak English	Non-English speaking
+1706151000006112	Main spoken language Western Frisian	First Language Not English
+8356391000006115	Main spoken language Western Frisian	First Language Not English
+1706481000006111	Main spoken language Tahitian	First Language Not English
+8356331000006119	Main spoken language Tahitian	First Language Not English
+8356341000006112	Main spoken language Venda	First Language Not English
+1706491000006114	Main spoken language Venda	First Language Not English
+8356361000006111	Main spoken language Volapük	First Language Not English
+8356371000006116	Main spoken language Volapuk	First Language Not English
+1706501000006118	Main spoken language Volapuk	First Language Not English
+8356381000006118	Main spoken language Walloon	First Language Not English
+1706511000006115	Main spoken language Walloon	First Language Not English
+1599291000000112	Main spoken language Chewa	First Language Not English
+1599281000000110	Main spoken language Nyanja	First Language Not English
+8356291000006114	Main spoken language Scottish Gaelic	First Language Not English
+8356301000006110	Main spoken language Nuosu	First Language Not English
+1706231000006111	Main spoken language Sichuan Yi	First Language Not English
+1706341000006113	Main spoken language Navajo	First Language Not English
+8356131000006116	Main spoken language Navajo	First Language Not English
+8356141000006114	Main spoken language Navaho	First Language Not English
+1706351000006110	Main spoken language South Ndebele	First Language Not English
+8356321000006117	Main spoken language South Ndebele	First Language Not English
+8356161000006113	Main spoken language Northern Ndebele	First Language Not English
+1706361000006112	Main spoken language Northern Ndebele	First Language Not English
+8356171000006118	Main spoken language North Ndebele	First Language Not English
+1706371000006117	Main spoken language Ndonga	First Language Not English
+8356151000006111	Main spoken language Ndonga	First Language Not English
+8356211000006116	Main spoken language Norwegian Nynorsk	First Language Not English
+1706381000006119	Main spoken language Norwegian Nynorsk	First Language Not English
+1706391000006116	Main spoken language Norwegian Bokmal	First Language Not English
+8356191000006117	Main spoken language Norwegian Bokmal	First Language Not English
+8356201000006119	Main spoken language Norwegian Bokmål	First Language Not English
+8356221000006112	Main spoken language Ojibwa	First Language Not English
+1706411000006116	Main spoken language Ojibwa	First Language Not English
+1706421000006112	Main spoken language Ossetian	First Language Not English
+8356231000006110	Main spoken language Ossetian	First Language Not English
+8356241000006117	Main spoken language Pali	First Language Not English
+1706431000006110	Main spoken language Pali	First Language Not English
+1706441000006117	Main spoken language Pushto	First Language Not English
+1706451000006115	Main spoken language Sanskrit	First Language Not English
+8356271000006113	Main spoken language Sanskrit	First Language Not English
+8356181000006115	Main spoken language Northern Sami	First Language Not English
+1706461000006118	Main spoken language Northern Sami	First Language Not English
+1706471000006113	Main spoken language Sardinian	First Language Not English
+8356281000006111	Main spoken language Sardinian	First Language Not English
+8228321000006112	Main spoken language Kikuyu	First Language Not English
+1706251000006116	Main spoken language Kikuyu	First Language Not English
+1706171000006119	Main spoken language Manx	First Language Not English
+8356111000006110	Main spoken language Manx	First Language Not English
+8355971000006111	Main spoken language Haitian	First Language Not English
+1706191000006118	Main spoken language Haitian	First Language Not English
+1706201000006115	Main spoken language Herero	First Language Not English
+8355981000006114	Main spoken language Herero	First Language Not English
+8356001000006113	Main spoken language Hiri Motu	First Language Not English
+1706211000006117	Main spoken language Hiri Motu	First Language Not English
+8356011000006111	Main spoken language Ido	First Language Not English
+1706221000006113	Main spoken language Ido	First Language Not English
+8356021000006115	Main spoken language Kanuri	First Language Not English
+1706241000006118	Main spoken language Kanuri	First Language Not English
+1706261000006119	Main spoken language Komi	First Language Not English
+8356031000006117	Main spoken language Komi	First Language Not English
+8356041000006110	Main spoken language Kongo	First Language Not English
+1706271000006114	Main spoken language Kongo	First Language Not English
+1706281000006112	Main spoken language Kuanyama	First Language Not English
+8356051000006112	Main spoken language Kuanyama	First Language Not English
+8356061000006114	Main spoken language Latin	First Language Not English
+1706291000006110	Main spoken language Latin	First Language Not English
+1706301000006111	Main spoken language Limburgan	First Language Not English
+8356071000006119	Main spoken language Limburgan	First Language Not English
+1706311000006114	Main spoken language Luxembourgish	First Language Not English
+8356101000006112	Main spoken language Luxembourgish	First Language Not English
+1706321000006118	Main spoken language Luba-Katanga	First Language Not English
+8356081000006116	Main spoken language Luba-Katanga	First Language Not English
+1706331000006115	Main spoken language Marshallese	First Language Not English
+8356121000006119	Main spoken language Marshallese	First Language Not English
+8228311000006116	Main spoken language Fulah	First Language Not English
+1706161000006114	Main spoken language Fulah	First Language Not English
+8228301000006119	Main spoken language Fulani	First Language Not English
+1706011000006112	Main spoken language Avaric	First Language Not English
+8355821000006118	Main spoken language Avaric	First Language Not English
+1706021000006116	Main spoken language Avestan	First Language Not English
+8355831000006115	Main spoken language Avestan	First Language Not English
+1706031000006118	Main spoken language Bambara	First Language Not English
+8355841000006113	Main spoken language Bambara	First Language Not English
+1706041000006111	Main spoken language Bosnian	First Language Not English
+8355851000006110	Main spoken language Bosnian	First Language Not English
+1706051000006113	Main spoken language Chamorro	First Language Not English
+8355861000006112	Main spoken language Chamorro	First Language Not English
+1706061000006110	Main spoken language Chechen	First Language Not English
+8355871000006117	Main spoken language Chechen	First Language Not English
+8355901000006117	Main spoken language Church Slavonic	First Language Not English
+8355891000006116	Main spoken language Church Slavic	First Language Not English
+1706081000006117	Main spoken language Church Slavic	First Language Not English
+1706091000006119	Main spoken language Chuvash	First Language Not English
+8355921000006110	Main spoken language Chuvash	First Language Not English
+8355931000006113	Main spoken language Cornish	First Language Not English
+1706101000006113	Main spoken language Cornish	First Language Not English
+1706111000006111	Main spoken language Cree	First Language Not English
+8355941000006115	Main spoken language Cree	First Language Not English
+1706121000006115	Main spoken language Dhivehi	First Language Not English
+8355951000006118	Main spoken language Dhivehi	First Language Not English
+1706131000006117	Main spoken language Ewe	First Language Not English
+8355961000006116	Main spoken language Ewe	First Language Not English
+1706071000006115	Main spoken language Chinese	First Language Not English
+8355881000006119	Main spoken language Chinese	First Language Not English
+8064571000006110	Turkish language interpreter needed	Non-English speaking
+312381000000111	Interpreter needed - Turkish	Non-English speaking
+312261000000111	Interpreter needed - Tamil	Non-English speaking
+8064501000006116	Tamil language interpreter needed	Non-English speaking
+8064461000006116	Tagalog language interpreter needed	Non-English speaking
+312221000000115	Interpreter needed - Tagalog	Non-English speaking
+8064531000006112	Thai language interpreter needed	Non-English speaking
+312301000000118	Interpreter needed - Thai	Non-English speaking
+312471000000115	Interpreter needed - Welsh	Non-English speaking
+8064661000006119	Welsh language interpreter needed	Non-English speaking
+8064551000006117	Tigrinya language interpreter needed	Non-English speaking
+312341000000115	Interpreter needed - Tigrinya	Non-English speaking
+312401000000111	Interpreter needed - Ukrainian	Non-English speaking
+8064591000006111	Ukrainian language interpreter needed	Non-English speaking
+8064641000006118	Vietnamese language interpreter needed	Non-English speaking
+312441000000114	Interpreter needed - Vietnamese	Non-English speaking
+8064611000006117	Urdu language interpreter needed	Non-English speaking
+312421000000119	Interpreter needed - Urdu	Non-English speaking
+8064681000006112	Yoruba language interpreter needed	Non-English speaking
+312491000000116	Interpreter needed - Yoruba	Non-English speaking
+684061000000119	Zulu language interpreter needed	Non-English speaking
+684271000000118	Zhuang language interpreter needed	Non-English speaking
+684381000000113	Uzbek language interpreter needed	Non-English speaking
+684501000000112	Yiddish language interpreter needed	Non-English speaking
+684771000000112	Tibetan language interpreter needed	Non-English speaking
+684881000000117	Tsonga language interpreter needed	Non-English speaking
+684961000000115	Tatar language interpreter needed	Non-English speaking
+685121000000110	Twi language interpreter needed	Non-English speaking
+685201000000110	Telugu language interpreter needed	Non-English speaking
+8116221000006112	Tonga language interpreter needed	Non-English speaking
+685451000000110	Tongan language interpreter needed	Non-English speaking
+685651000000113	Turkmen language interpreter needed	Non-English speaking
+685911000000118	Tajik language interpreter needed	Non-English speaking
+686431000000113	Tswana language interpreter needed	Non-English speaking
+686851000000116	Uighur language interpreter needed	Non-English speaking
+687591000000113	Xhosa language interpreter needed	Non-English speaking
+2475761000000113	Western Frisian interpreter needed	Non-English speaking
+8358611000006119	Tahitian interpreter needed	Non-English speaking
+8358631000006113	Venda interpreter needed	Non-English speaking
+8358641000006115	Tshivenda interpreter needed	Non-English speaking
+8358651000006118	Volapük interpreter needed	Non-English speaking
+8358661000006116	Volapuk interpreter needed	Non-English speaking
+2475741000000112	Walloon interpreter needed	Non-English speaking
+8358691000006112	Wolof interpreter needed	Non-English speaking
+2638721000000114	Romanesa language interpreter needed	Non-English speaking
+2638741000000119	Romsky language interpreter needed	Non-English speaking
+2638711000000115	Romany language interpreter needed	Non-English speaking
+2643231000000111	Romanes language interpreter needed	Non-English speaking
+2638731000000111	Romani language interpreter needed	Non-English speaking
+8113251000006110	Ndebele language interpreter needed	Non-English speaking
+8064041000006114	Norwegian language interpreter needed	Non-English speaking
+311651000000116	Interpreter needed - Norwegian	Non-English speaking
+311791000000117	Interpreter needed - Polish	Non-English speaking
+8064121000006118	Polish language interpreter needed	Non-English speaking
+312161000000116	Interpreter needed - Sylheti	Non-English speaking
+8064421000006110	Sylheti language interpreter needed	Non-English speaking
+8064251000006119	Serbian language interpreter needed	Non-English speaking
+684691000000116	Serbo-Croatian language interpreter needed	Non-English speaking
+311961000000113	Interpreter needed - Serbian	Non-English speaking
+311941000000112	Interpreter needed - Russian	Non-English speaking
+8064231000006114	Russian language interpreter needed	Non-English speaking
+311811000000116	Interpreter needed - Portuguese	Non-English speaking
+8064141000006113	Portuguese language interpreter needed	Non-English speaking
+684821000000118	Punjabi language interpreter needed	Non-English speaking
+8064201000006118	Panjabi language interpreter needed	Non-English speaking
+311921000000117	Interpreter needed - Panjabi	Non-English speaking
+312101000000115	Interpreter needed - Swedish	Non-English speaking
+8064391000006119	Swedish language interpreter needed	Non-English speaking
+311981000000116	Interpreter needed - Shona	Non-English speaking
+8064281000006110	Shona language interpreter needed	Non-English speaking
+312041000000118	Interpreter needed - Somali	Non-English speaking
+8064331000006118	Somali language interpreter needed	Non-English speaking
+8064301000006114	Sinhala language interpreter needed	Non-English speaking
+312021000000113	Interpreter needed - Sinhala	Non-English speaking
+8064351000006113	Spanish language interpreter needed	Non-English speaking
+312061000000117	Interpreter needed - Spanish	Non-English speaking
+8113231000006115	Slovak language interpreter needed	Non-English speaking
+664911000000115	Romanian language interpreter needed	Non-English speaking
+684441000000111	Oromo language interpreter needed	Non-English speaking
+684581000000119	Rundi language interpreter needed	Non-English speaking
+8064061000006113	Pashto language interpreter needed	Non-English speaking
+8064081000006115	Pushto interpreter needed	Non-English speaking
+311671000000113	Interpreter needed - Pashto	Non-English speaking
+312081000000114	Interpreter needed - Swahili	Non-English speaking
+8064371000006115	Swahili language interpreter needed	Non-English speaking
+685731000000111	Slovenian language interpreter needed	Non-English speaking
+685791000000112	Swati language interpreter needed	Non-English speaking
+685851000000112	Southern Sotho language interpreter needed	Non-English speaking
+686111000000112	Sundanese language interpreter needed	Non-English speaking
+686231000000112	Samoan language interpreter needed	Non-English speaking
+686571000000111	Quechua language interpreter needed	Non-English speaking
+686651000000115	Sango language interpreter needed	Non-English speaking
+686991000000118	Oriya language interpreter needed	Non-English speaking
+687071000000116	Nepali language interpreter needed	Non-English speaking
+687191000000118	Occitan language interpreter needed	Non-English speaking
+687271000000112	Nauru language interpreter needed	Non-English speaking
+687531000000112	Romansh language interpreter needed	Non-English speaking
+8358561000006117	Scottish Gaelic interpreter needed	Non-English speaking
+2475581000000111	Serbo-Croatian interpreter needed	Non-English speaking
+8358581000006110	Nuosu interpreter needed	Non-English speaking
+8358591000006113	Sichuan Yi interpreter needed	Non-English speaking
+8358371000006117	Navaho interpreter needed	Non-English speaking
+8358361000006112	Navajo interpreter needed	Non-English speaking
+8358601000006117	South Ndebele interpreter needed	Non-English speaking
+8358391000006116	North Ndebele interpreter needed	Non-English speaking
+8358381000006119	Ndonga interpreter needed	Non-English speaking
+8358441000006117	Norwegian Nynorsk interpreter needed	Non-English speaking
+2477181000000111	Norwegian Bokmal interpreter needed	Non-English speaking
+2475321000000118	Norwegian Bokmål interpreter needed	Non-English speaking
+8358451000006115	Nyanja interpreter needed	Non-English speaking
+8358461000006118	Chewa interpreter needed	Non-English speaking
+2475421000000114	Ojibwa interpreter needed	Non-English speaking
+2484111000000118	Ojibwe interpreter needed	Non-English speaking
+8358511000006115	Ossetian interpreter needed	Non-English speaking
+2475481000000110	Pali interpreter needed	Non-English speaking
+8358541000006116	Sanskrit interpreter needed	Non-English speaking
+8358411000006116	Northern Sami interpreter needed	Non-English speaking
+2475541000000115	Sardinian interpreter needed	Non-English speaking
+310701000000118	Interpreter needed - Italian	Non-English speaking
+8063431000006110	Italian language interpreter needed	Non-English speaking
+311591000000111	Interpreter needed - Ganda	Non-English speaking
+8063971000006116	Ganda language interpreter needed	Non-English speaking
+8063781000006115	Hindi language interpreter needed	Non-English speaking
+311271000000110	Interpreter needed - Hindi	Non-English speaking
+8063721000006119	Hakka language interpreter needed	Non-English speaking
+311191000000116	Interpreter needed - Hakka	Non-English speaking
+8063631000006113	Igbo language interpreter needed	Non-English speaking
+311031000000116	Interpreter needed - Igbo	Non-English speaking
+8063661000006116	German language interpreter needed	Non-English speaking
+311131000000117	Interpreter needed - German	Non-English speaking
+311171000000115	Interpreter needed - Gujarati	Non-English speaking
+8063701000006112	Gujarati language interpreter needed	Non-English speaking
+311151000000112	Interpreter needed - Greek	Non-English speaking
+8063681000006114	Greek language interpreter needed	Non-English speaking
+311231000000113	Interpreter needed - Hausa	Non-English speaking
+8063741000006114	Hausa language interpreter needed	Non-English speaking
+311251000000118	Interpreter needed - Hebrew	Non-English speaking
+8063761000006113	Hebrew language interpreter needed	Non-English speaking
+311391000000118	Interpreter needed - Lingala	Non-English speaking
+8063871000006110	Lingala language interpreter needed	Non-English speaking
+311351000000114	Interpreter needed - Korean	Non-English speaking
+8063831000006112	Korean language interpreter needed	Non-English speaking
+311331000000119	Interpreter needed - Japanese	Non-English speaking
+8063811000006118	Japanese language interpreter needed	Non-English speaking
+311631000000111	Interpreter needed - Mandarin	Non-English speaking
+8064021000006119	Mandarin language interpreter needed	Non-English speaking
+8063851000006117	Kurdish language interpreter needed	Non-English speaking
+311371000000117	Interpreter needed - Kurdish	Non-English speaking
+311411000000118	Interpreter needed - Lithuanian	Non-English speaking
+8063901000006110	Lithuanian language interpreter needed	Non-English speaking
+8063991000006115	Malayalam language interpreter needed	Non-English speaking
+311611000000115	Interpreter needed - Malayalam	Non-English speaking
+677351000000117	Mongolian language interpreter needed	Non-English speaking
+677411000000113	Moldavian language interpreter needed	Non-English speaking
+677471000000115	Marathi language interpreter needed	Non-English speaking
+677531000000116	Maltese language interpreter needed	Non-English speaking
+677591000000115	Luganda language interpreter needed	Non-English speaking
+677771000000110	Kirghiz language interpreter needed	Non-English speaking
+677831000000119	Iban language interpreter needed	Non-English speaking
+677891000000118	Maori language interpreter needed	Non-English speaking
+678011000000118	Macedonian language interpreter needed	Non-English speaking
+678091000000110	Malagasy language interpreter needed	Non-English speaking
+678331000000111	Kinyarwanda language interpreter needed	Non-English speaking
+678391000000112	Malay language interpreter needed	Non-English speaking
+678451000000111	Kashmiri language interpreter needed	Non-English speaking
+678511000000111	Kazakh language interpreter needed	Non-English speaking
+678571000000118	Inupiaq language interpreter needed	Non-English speaking
+678211000000113	Latvian language interpreter needed	Non-English speaking
+678631000000119	Javanese language interpreter needed	Non-English speaking
+678691000000118	Inuktitut language interpreter needed	Non-English speaking
+678751000000117	Interlingue language interpreter needed	Non-English speaking
+678811000000114	Lao language interpreter needed	Non-English speaking
+678871000000116	Icelandic language interpreter needed	Non-English speaking
+678931000000110	Hungarian language interpreter needed	Non-English speaking
+692821000000111	Greenlandic language interpreter needed	Non-English speaking
+682311000000110	Kalaallisut language interpreter needed	Non-English speaking
+682521000000113	Indonesian language interpreter needed	Non-English speaking
+681151000000119	Guarani language interpreter needed	Non-English speaking
+681211000000114	Georgian language interpreter needed	Non-English speaking
+681991000000112	Galician language interpreter needed	Non-English speaking
+8358211000006117	Irish interpreter needed	Non-English speaking
+8358341000006113	Manx interpreter needed	Non-English speaking
+8358151000006112	Haitian interpreter needed	Non-English speaking
+8358161000006114	Herero interpreter needed	Non-English speaking
+8358171000006119	Hiri Motu interpreter needed	Non-English speaking
+8358181000006116	Ido interpreter needed	Non-English speaking
+8358201000006115	Interlingua interpreter needed	Non-English speaking
+8358221000006113	Kanuri interpreter needed	Non-English speaking
+8358231000006111	Kikuyu interpreter needed	Non-English speaking
+8358251000006116	Komi interpreter needed	Non-English speaking
+8358261000006119	Kongo interpreter needed	Non-English speaking
+8358271000006114	Kuanyama interpreter needed	Non-English speaking
+8358281000006112	Kwanyama interpreter needed	Non-English speaking
+2475061000000111	Latin interpreter needed	Non-English speaking
+8358301000006111	Limburgan interpreter needed	Non-English speaking
+2475121000000116	Luxembourgish interpreter needed	Non-English speaking
+8358321000006118	Luba-Katanga interpreter needed	Non-English speaking
+2475181000000115	Marshallese interpreter needed	Non-English speaking
+310781000000111	Interpreter needed - Dutch	Non-English speaking
+8063521000006111	Dutch language interpreter needed	Non-English speaking
+8063321000006118	Amharic language interpreter needed	Non-English speaking
+310561000000113	Interpreter needed - Amharic	Non-English speaking
+310521000000117	Interpreter needed - Akan	Non-English speaking
+8063281000006112	Akan language interpreter needed	Non-English speaking
+310761000000119	Interpreter needed - Czech	Non-English speaking
+8063501000006118	Czech language interpreter needed	Non-English speaking
+310581000000116	Interpreter needed - Arabic	Non-English speaking
+8063341000006113	Arabic language interpreter needed	Non-English speaking
+310541000000112	Interpreter needed - Albanian	Non-English speaking
+8063301000006111	Albanian language interpreter needed	Non-English speaking
+684751000000115	Serbo-Croatian language interpreter needed	Non-English speaking
+310741000000115	Interpreter needed - Croatian	Non-English speaking
+8063471000006113	Croatian language interpreter needed	Non-English speaking
+8063371000006117	Bengali language interpreter needed	Non-English speaking
+310601000000113	Interpreter needed - Bengali	Non-English speaking
+8063451000006115	Cantonese language interpreter needed	Non-English speaking
+310721000000110	Interpreter needed - Cantonese	Non-English speaking
+310841000000110	Interpreter needed - French	Non-English speaking
+8063571000006112	French language interpreter needed	Non-English speaking
+311001000000110	Interpreter needed - French Creole	Non-English speaking
+8063611000006119	French Creole language interpreter needed	Non-English speaking
+664991000000112	Bulgarian language interpreter needed	Non-English speaking
+677651000000110	Ethiopian language interpreter needed	Non-English speaking
+677711000000117	Brawa language interpreter needed	Non-English speaking
+681271000000116	Frisian language interpreter needed	Non-English speaking
+681871000000117	Faeroese language interpreter needed	Non-English speaking
+8115361000006115	Faroese language interpreter needed	Non-English speaking
+681931000000111	Fijian language interpreter needed	Non-English speaking
+682051000000111	Esperanto language interpreter needed	Non-English speaking
+682111000000113	Estonian language interpreter needed	Non-English speaking
+682171000000115	Corsican language interpreter needed	Non-English speaking
+682231000000113	Danish language interpreter needed	Non-English speaking
+682371000000117	Catalan language interpreter needed	Non-English speaking
+682431000000114	Belarusian language interpreter needed	Non-English speaking
+682581000000114	Breton language interpreter needed	Non-English speaking
+682641000000119	Bislama language interpreter needed	Non-English speaking
+682761000000111	Assamese language interpreter needed	Non-English speaking
+682701000000112	Bihari language interpreter needed	Non-English speaking
+682821000000110	Armenian language interpreter needed	Non-English speaking
+683001000000115	Central Khmer language interpreter needed	Non-English speaking
+683091000000110	Burmese language interpreter needed	Non-English speaking
+683471000000119	Aymara language interpreter needed	Non-English speaking
+683531000000115	Afrikaans language interpreter needed	Non-English speaking
+683621000000116	Azerbaijani language interpreter needed	Non-English speaking
+683681000000115	Basque language interpreter needed	Non-English speaking
+683791000000113	Afar language interpreter needed	Non-English speaking
+683851000000113	Abkhazian language interpreter needed	Non-English speaking
+8115821000006118	Abkhaz interpreter needed	Non-English speaking
+683971000000112	Dzongkha language interpreter needed	Non-English speaking
+310801000000112	Farsi language interpreter needed	Non-English speaking
+644471000000110	Persian language interpreter needed	Non-English speaking
+8357981000006119	Aragonese interpreter needed	Non-English speaking
+8358001000006114	Avaric interpreter needed	Non-English speaking
+8358011000006112	Avestan interpreter needed	Non-English speaking
+2474561000000115	Bashkir interpreter needed	Non-English speaking
+8358021000006116	Bambara interpreter needed	Non-English speaking
+8358041000006111	Bosnian interpreter needed	Non-English speaking
+8358051000006113	Chamorro interpreter needed	Non-English speaking
+2474621000000112	Chechen interpreter needed	Non-English speaking
+8358081000006117	Church Slavic interpreter needed	Non-English speaking
+8358091000006119	Chuvash interpreter needed	Non-English speaking
+8358101000006113	Cornish interpreter needed	Non-English speaking
+8358111000006111	Cree interpreter needed	Non-English speaking
+2474741000000113	Dhivehi interpreter needed	Non-English speaking
+8358131000006117	Ewe interpreter needed	Non-English speaking
+8358141000006110	Fulah interpreter needed	Non-English speaking
+8358071000006115	Chinese interpreter needed	Non-English speaking
+539181000000114	Telephone interpreting service used	Non-English speaking
+645201000006112	English as a second language	First Language Not English
+251238011	English as a second language	First Language Not English
+7227171000006118	Language for which interpreter is needed	Non-English speaking
+7302451000006118	Request for language interpreter service	Non-English speaking
+1761221000000114	Interpreter booked	Non-English speaking
+3562879016	Requires telephone language interpreter service	Non-English speaking
