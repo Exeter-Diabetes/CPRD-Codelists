@@ -1,0 +1,18 @@
+MedCodeId	Term
+259233017	Serum low density lipoprotein cholesterol level
+259246010	Serum fasting LDL (low density lipoprotein) cholesterol level
+259247018	Serum random LDL (low density lipoprotein) cholesterol level
+1488764011	Calculated LDL (low density lipoprotein) cholesterol level
+259569014	Plasma random LDL (low density lipoprotein) cholesterol level
+259570010	Plasma fasting LDL (low density lipoprotein) cholesterol level
+458314019	Plasma LDL (low density lipoprotein) cholesterol level
+8403921000006111	Serum LDL (low density lipoprotein) cholesterol level
+4600241000006118	Serum LDL cholesterol level
+4600231000006111	Serum LDL cholesterol measurement
+4600251000006116	Serum low density lipoprotein cholesterol measurement
+6550671000006117	Calculated low density lipoprotein cholesterol level
+6550661000006112	Calculated LDL cholesterol level
+6550681000006119	Calculated LDL cholesterol lev
+6041681000006110	Plasma LDL cholesterol level
+6041691000006113	Plasma low density lipoprotein cholesterol measurement
+6041671000006112	Plasma LDL cholesterol measurement

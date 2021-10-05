@@ -1,0 +1,15 @@
+MedCodeId	Term
+405633013	Fasting blood glucose level
+1822521000006119	Test request : Fasting blood glucose level
+259587012	Serum fasting glucose level
+259598013	Plasma fasting glucose level
+667181000006113	Fasting blood sugar
+5519911000006117	Fasting blood glucose
+5519901000006115	FBG - Fasting blood glucose
+5519921000006113	FBS - Fasting blood sugar
+5519891000006119	Fasting blood glucose level
+5519881000006117	Fasting blood glucose measurement
+4602051000006114	Serum fasting glucose measurement
+4602061000006111	Serum fasting glucose level
+4602121000006116	Plasma fasting glucose level
+4602111000006112	Plasma fasting glucose measurement
