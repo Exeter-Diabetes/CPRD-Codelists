@@ -1,0 +1,130 @@
+medcodeid	term_medcode
+7519001000006115	Emergency hospital admission for ischemic heart disease
+12490701000006116	Admit ischaemic heart disease emergency
+585631000000113	Emergency hospital admission for ischaemic heart disease
+7518981000006118	Emergency hospital admission for ischaemic heart disease
+394541000006112	[X]Ischaemic heart diseases
+6860261000006118	IHD - Ischemic heart disease
+300876010	[X]Other forms of acute ischaemic heart disease
+39111000006114	Other acute and subacute ischaemic heart disease
+299750014	Other acute and subacute ischaemic heart disease NOS
+2537480011	IHD - Ischaemic heart disease
+299835014	Ischaemic heart disease NOS
+2534664018	Ischaemic heart disease
+299723016	Other acute and subacute ischaemic heart disease
+6860251000006115	Ischemic heart disease
+299834013	Other specified ischaemic heart disease
+7278491000006111	Atherosclerosis of coronary artery
+2536393012	Arteriosclerotic heart disease
+595731000006114	Coronary atherosclerosis
+89332015	Atherosclerotic heart disease
+494438016	Subendocardial ischaemia
+3244701000006112	Subendocardial ischemia
+299805019	Other chronic ischaemic heart disease NOS
+299800012	Other specified chronic ischaemic heart disease
+300879015	[X]Other forms of chronic ischaemic heart disease
+299804015	Other specified chronic ischaemic heart disease NOS
+6847761000006118	Chronic ischemic heart disease
+299776014	Chronic ischaemic heart disease
+350346019	Triple vessel disease of the heart
+5056201000006111	Triple vessel coronary artery disease
+2536395017	Coronary artery disease
+3371421000006117	Coronary heart disease
+3371381000006110	CAD - Coronary artery disease
+3371371000006112	Arteriosclerotic heart disease
+3371411000006113	CHD - Coronary heart disease
+3371401000006110	Coronary sclerosis
+3371361000006117	Coronary arteriosclerosis
+5056251000006110	Asymptomatic ischemia
+5056241000006113	Silent myocardial ischemia
+5056261000006112	Asymptomatic ischaemia
+350354017	Silent myocardial ischaemia
+2534674015	Chronic myocardial ischaemia
+6847871000006116	Chronic myocardial ischemia
+2537483013	Chronic coronary insufficiency
+459859010	Asymptomatic coronary heart disease
+1229885017	Microinfarction of heart
+3185771000006112	Microinfarct of heart
+5647301000006111	Ischemic myocardial dysfunction
+5647291000006110	Ischaemic myocardial dysfunction
+299745015	Acute coronary insufficiency
+931961000006117	Acute coronary syndrome
+6864801000006114	Cardiac ischemia
+6864781000006110	Myocardial ischaemia
+6864791000006113	Myocardial ischemia
+6053071000006117	Transient myocardial ischemia
+459488019	Transient myocardial ischaemia
+299782012	Single coronary vessel disease
+4776051000006110	Single vessel coronary artery disease
+299783019	Double coronary vessel disease
+4776071000006117	Two coronary vessel disease
+4776081000006119	Double vessel coronary artery disease
+3600701000006114	Coronary artery atheroma
+4775931000006111	Aborted myocardial infarction
+2619484018	MI - Myocardial infarction aborted
+299742017	Coronary thrombosis not resulting in myocardial infarction
+682481000006118	Myocardial infarction aborted
+6850801000006111	Disorder of coronary artery
+2115181000000110	Coronary microvascular disease
+299758019	Stenocardia
+299765010	Angina pectoris NOS
+300874013	[X]Other forms of angina pectoris
+4775981000006112	Cardiac angina
+4776031000006115	Ischaemic heart disease - angina
+4776011000006114	AP - Angina pectoris
+4776021000006118	Ischemic heart disease - angina
+299757012	Angina pectoris
+4775971000006114	Angina
+4776001000006111	Anginal syndrome
+482941000006119	Angina pectoris NOS
+299796018	Ischaemic cardiomyopathy
+4776131000006119	Generalized ischemic myocardial dysfunction
+4776121000006117	Generalised ischaemic myocardial dysfunction
+4776141000006112	Ischemic cardiomyopathy
+451372015	H/O: Treatment for ischaemic heart disease
+5974541000006111	H/O: Treatment for ischemic heart disease
+5974551000006113	History of treatment for ischemic heart disease
+5974561000006110	History of treatment for ischaemic heart disease
+256451015	ECG: myocardial ischaemia NOS
+4585961000006114	Electrocardiographic myocardial ischemia
+4585971000006119	Electrocardiographic myocardial ischaemia
+4585951000006112	EKG myocardial ischemia
+634751000006116	ECG myocardial ischaemia
+635641000006111	ECG:shows myocardial ischaemia
+6360611000006116	Myocardial ischemia manifest on stress test status post myocardial infarction
+6360601000006119	Myocardial ischaemia manifest on stress test status post myocardial infarction
+6601121000006118	Coronary artery thrombosis
+6601131000006115	CT - Coronary thrombosis
+1786197015	Coronary thrombosis
+1786198013	Thrombosis - coronary
+6841231000006113	Acute ischaemic heart disease
+6841241000006115	Acute ischemic heart disease
+6841391000006118	Acute myocardial ischaemia
+6841401000006116	Acute myocardial ischemia
+7103901000006114	Increased myocardial ischaemia compared to prior study
+7103911000006112	Increased myocardial ischemia compared to prior study
+7094241000006114	Resolution of myocardial ischemia
+7094231000006116	Resolution of myocardial ischaemia
+7084811000006110	Mixed myocardial ischemia and infarction
+7084801000006112	Mixed myocardial ischaemia and infarction
+7100211000006111	Decreased myocardial ischemia compared to prior study
+7100201000006113	Decreased myocardial ischaemia compared to prior study
+7095701000006119	New myocardial ischaemia compared to prior study
+7095711000006116	New myocardial ischemia compared to prior study
+411904010	Aspirin prophylaxis for ischaemic heart disease
+12482781000006111	Aspirin prophylaxis - IHD
+5578751000006118	Aspirin prophylaxis for ischemic heart disease
+5578731000006113	Aspirin prophylaxis for ischaemic heart disease
+7703511000006110	Subacute ischaemic heart disease
+7703521000006119	Subacute ischemic heart disease
+7696531000006118	Resting ischemia co-occurrent and due to ischemic heart disease
+7696521000006116	Resting ischaemia co-occurrent and due to ischaemic heart disease
+7696501000006114	Resting ischaemia
+7696511000006112	Resting ischemia
+2609111000000119	Non-obstructive coronary atherosclerosis
+7789771000006114	Non-obstructive atherosclerosis of coronary artery
+350379019	Cardiac syndrome X
+5056491000006117	Chest pain with normal coronary angiography
+884161000006117	Acute/subacute IHD NOS
+884171000006112	Chr. ischaemic heart dis. NOS
+1218860015	Acute papillary muscle infarction
