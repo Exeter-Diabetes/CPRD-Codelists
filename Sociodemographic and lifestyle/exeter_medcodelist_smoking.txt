@@ -57,25 +57,6 @@ medcodeid	term_medcode	category
 128381000006117	Stop smoking monitoring check done	Active smoker
 78013015	Smokers' cough	Active smoker
 3256651000006113	Cigarette cough	Active smoker
-250363016	Ex-trivial cigarette smoker (<1/day)	Ex-smoker
-250364010	Ex-light cigarette smoker (1-9/day)	Ex-smoker
-250365011	Ex-moderate cigarette smoker (10-19/day)	Ex-smoker
-250366012	Ex-heavy cigarette smoker (20-39/day)	Ex-smoker
-250367015	Ex-very heavy cigarette smoker (40+/day)	Ex-smoker
-298701000000114	History of tobacco use	Ex-smoker
-250371017	Ex-smoker - amount unknown	Ex-smoker
-2636041000006110	Cessation of smoking	Ex-smoker
-649841000006110	Ex-smoker	Ex-smoker
-418914010	Ex-cigarette smoker	Ex-smoker
-250373019	Stopped smoking	Ex-smoker
-649831000006117	Ex-pipe smoker	Ex-smoker
-649821000006115	Ex-cigar smoker	Ex-smoker
-250385010	Date ceased smoking	Ex-smoker
-5495921000006119	Never smoked	Non-smoker
-397732011	Never smoked tobacco	Non-smoker
-14866014	Non-smoker	Non-smoker
-903051000006112	Tobacco Consumption Nil	Non-smoker
-250374013	Current non-smoker	Non-smoker
 6282351000006119	Smoking	Active smoker
 6282331000006114	Tobacco smoking behaviour - finding	Active smoker
 6282341000006116	Tobacco smoking behavior - finding	Active smoker
@@ -87,14 +68,7 @@ medcodeid	term_medcode	category
 5003171000006114	Heavy cigarette smoker	Active smoker
 5003181000006112	Very heavy cigarette smoker	Active smoker
 5003191000006110	Chain smoker	Active smoker
-4980561000006117	Time since stopped smoking	Ex-smoker
 5999811000006115	Smoking monitoring invitation	Active smoker
-7368961000006112	Stopped smoking during pregnancy	Ex-smoker
-7368971000006117	Stopped smoking before pregnancy	Ex-smoker
-7368651000006119	Smoked before confirmation of pregnancy	Ex-smoker
-7368661000006117	Smoker before confirmation of pregnancy	Ex-smoker
-903041000006110	EX-Smoker NOS	Ex-smoker
-5496031000006112	Ex-cigarette smoker amount unknown	Ex-smoker
 2170961000000116	Waterpipe tobacco consumption	Active smoker
 1125741000000111	Brief intervention for smoking cessation	Active smoker
 1750931000000118	Stop smoking service opportunity signposted	Active smoker
@@ -124,66 +98,37 @@ medcodeid	term_medcode	category
 1785681000006118	Stop smoking invitation second short message service text message	Active smoker
 8244791000006116	Stop smoking invitation third text message	Active smoker
 1785691000006115	Stop smoking invitation third short message service text message	Active smoker
-1151791000000117	Recently stopped smoking	Ex-smoker
-1059701000000119	Ex roll-up cigarette smoker	Ex-smoker
 736241000000116	Smoking cessation enhanced services administration	Active smoker
 8299271000006119	Number of previous attempts to stop smoking	Active smoker
 8063181000006116	Wants to stop smoking	Active smoker
 1704581000006119	COPD structured smoking assessment declined	Active smoker
 1704571000006117	Chronic obstructive pulmonary disease structured smoking assessment declined	Active smoker
 2670581000006114	Smoker's respiratory syndrome	Active smoker
-3374141000006117	Tolerant ex-smoker	Ex-smoker
 3419101000006116	Moderate smoker (20 or less per day)	Active smoker
 3422221000006116	Heavy smoker (over 20 per day)	Active smoker
-3926051000006118	Tolerant non-smoker	Non-smoker
-4120281000006117	Non-smoker for personal reasons	Non-smoker
-4120291000006119	Non-smoker for religious reasons	Non-smoker
-4120301000006118	Non-smoker for medical reasons	Non-smoker
 265092010	Pregnancy smoking advice	Active smoker
 4640171000006113	Pregnancy smoking education	Active smoker
 4640191000006114	Smoking in pregnancy education	Active smoker
 12452041000006114	Refuses stop smoking monitor	Active smoker
-342574011	Total time smoked	Active smoker
-1809131000006111	Total time smoked	Active smoker
-4980581000006110	Age at starting smoking	Active smoker
 5979541000006112	Smoking monitoring call	Active smoker
 5979551000006114	Smoking monitoring status	Active smoker
-6217151000006116	Intolerant ex-smoker	Ex-smoker
-6217281000006116	Aggressive ex-smoker	Ex-smoker
-6217461000006110	Aggressive non-smoker	Non-smoker
-6217561000006111	Intolerant non-smoker	Non-smoker
 6282381000006110	Finding of tobacco smoking consumption	Active smoker
 6282371000006112	Tobacco smoking consumption - finding	Active smoker
 6427931000006116	Smoking cessation assistance	Active smoker
 11793611000006110	Smoking cessation behaviour support	Active smoker
-1484932017	Smoking cessation milestones	Ex-smoker
-1488873010	Smoking free weeks	Ex-smoker
 1773560017	Smoking cessation programme start date	Active smoker
 6649431000006116	Smoking cessation program start date	Active smoker
-6718071000006115	Current non smoker but past smoking history unknown	Non-smoker
-7965041000006111	Never smoked any substance	Non-smoker
 7507191000006117	Water pipe smoker	Active smoker
 7507181000006115	Hookah pipe smoker	Active smoker
 2982426011	Provision of smoking cessation leaflet	Active smoker
-7967851000006114	Age at smoking cessation	Ex-smoker
 7650811000006116	Assessment of readiness for smoking cessation	Active smoker
 492511000000117	Smoking cessation therapy	Active smoker
 482871000000111	Other specified smoking cessation therapy	Active smoker
 489931000000114	Smoking cessation therapy NOS	Active smoker
-8017571000006117	Ex-smoker for more than 1 year	Ex-smoker
-7690211000006112	No known exposure to tobacco smoke	Non-smoker
 7696001000006118	Patient request for smoking cessation information	Active smoker
 482771000000118	Smoking cessation drug therapy	Active smoker
 7979581000006117	Tobacco cessation education not done	Active smoker
-3513199018	Ex-smoker for less than 1 year	Ex-smoker
 12024741000006113	Monitoring of smoking cessation therapy	Active smoker
-2735181000000113	Ex-smoker amount unknown	Ex-smoker
-2735201000000112	Ex-very heavy smoker (40+/day)	Ex-smoker
-2735281000000119	Ex-heavy smoker (20-39/day)	Ex-smoker
-2735331000000112	Ex-moderate smoker (10-19/day)	Ex-smoker
-2735381000000111	Ex-light smoker (1-9/day)	Ex-smoker
-2735421000000119	Ex-trivial smoker (<1/day)	Ex-smoker
-3513101011	Date ceased using moist tobacco	Ex-smoker
 12482301000006115	Admitted tobacco cons untrue ?	Active smoker
 250369017	Admitted tobacco consumption possibly untrue	Active smoker
 4533531000006119	Admitted tobacco consumption possibly untrue	Active smoker
@@ -196,3 +141,55 @@ medcodeid	term_medcode	category
 12625101000006116	QOF (Quality and Outcomes Framework) quality indicator-related care invitation	Active smoker
 12626391000006117	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation	Active smoker
 12734401000006119	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation using preferred method of communication	Active smoker
+250363016	Ex-trivial cigarette smoker (<1/day)	Ex-smoker
+250364010	Ex-light cigarette smoker (1-9/day)	Ex-smoker
+250365011	Ex-moderate cigarette smoker (10-19/day)	Ex-smoker
+250366012	Ex-heavy cigarette smoker (20-39/day)	Ex-smoker
+250367015	Ex-very heavy cigarette smoker (40+/day)	Ex-smoker
+298701000000114	History of tobacco use	Ex-smoker
+250371017	Ex-smoker - amount unknown	Ex-smoker
+2636041000006110	Cessation of smoking	Ex-smoker
+649841000006110	Ex-smoker	Ex-smoker
+418914010	Ex-cigarette smoker	Ex-smoker
+250373019	Stopped smoking	Ex-smoker
+649831000006117	Ex-pipe smoker	Ex-smoker
+649821000006115	Ex-cigar smoker	Ex-smoker
+250385010	Date ceased smoking	Ex-smoker
+4980561000006117	Time since stopped smoking	Ex-smoker
+7368961000006112	Stopped smoking during pregnancy	Ex-smoker
+7368971000006117	Stopped smoking before pregnancy	Ex-smoker
+7368651000006119	Smoked before confirmation of pregnancy	Ex-smoker
+7368661000006117	Smoker before confirmation of pregnancy	Ex-smoker
+903041000006110	EX-Smoker NOS	Ex-smoker
+5496031000006112	Ex-cigarette smoker amount unknown	Ex-smoker
+1151791000000117	Recently stopped smoking	Ex-smoker
+1059701000000119	Ex roll-up cigarette smoker	Ex-smoker
+3374141000006117	Tolerant ex-smoker	Ex-smoker
+6217151000006116	Intolerant ex-smoker	Ex-smoker
+6217281000006116	Aggressive ex-smoker	Ex-smoker
+1484932017	Smoking cessation milestones	Ex-smoker
+1488873010	Smoking free weeks	Ex-smoker
+7967851000006114	Age at smoking cessation	Ex-smoker
+8017571000006117	Ex-smoker for more than 1 year	Ex-smoker
+3513199018	Ex-smoker for less than 1 year	Ex-smoker
+2735181000000113	Ex-smoker amount unknown	Ex-smoker
+2735201000000112	Ex-very heavy smoker (40+/day)	Ex-smoker
+2735281000000119	Ex-heavy smoker (20-39/day)	Ex-smoker
+2735331000000112	Ex-moderate smoker (10-19/day)	Ex-smoker
+2735381000000111	Ex-light smoker (1-9/day)	Ex-smoker
+2735421000000119	Ex-trivial smoker (<1/day)	Ex-smoker
+3513101011	Date ceased using moist tobacco	Ex-smoker
+5495921000006119	Never smoked	Non-smoker
+397732011	Never smoked tobacco	Non-smoker
+14866014	Non-smoker	Non-smoker
+903051000006112	Tobacco Consumption Nil	Non-smoker
+250374013	Current non-smoker	Non-smoker
+3926051000006118	Tolerant non-smoker	Non-smoker
+4120281000006117	Non-smoker for personal reasons	Non-smoker
+4120291000006119	Non-smoker for religious reasons	Non-smoker
+4120301000006118	Non-smoker for medical reasons	Non-smoker
+6217461000006110	Aggressive non-smoker	Non-smoker
+6217561000006111	Intolerant non-smoker	Non-smoker
+6718071000006115	Current non smoker but past smoking history unknown	Non-smoker
+7965041000006111	Never smoked any substance	Non-smoker
+7690211000006112	No known exposure to tobacco smoke	Non-smoker
