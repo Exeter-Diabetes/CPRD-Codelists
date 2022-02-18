@@ -27,7 +27,7 @@ CPRD Aurum codelists from the Exeter Diabetes team
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
 * 'acceptable' patient flag (Patient table) = 1
-* At least one diabetes QOF medcode (Diabetes/exeter_medcodelist_qof_diabetes)
+* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes)
 * No diabetes exclusion medcodes (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date
 
 &nbsp;
