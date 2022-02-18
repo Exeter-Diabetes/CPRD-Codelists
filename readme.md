@@ -20,7 +20,7 @@ Include participants with:
 Diagnosis date is earliest of:
 * Any diabetes medcode (Diabetes/exeter_medcodelist_all_diabetes) except those with obstypeid=4 (family history)
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
-* Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol ()
+* Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (if multiple values on one day, these are averaged; values <=20 assumed to be in % units and converted to mmol/mol)
 If this date is within 90 days of the start of registration, then it may have occurred prior to registration.
 Patient date of birth (needed to calculate age at diagnosis) = 15th of month of birth (where month of birth and year of birth available), and 1st July where only year of birth available.
 
