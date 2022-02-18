@@ -1,0 +1,4 @@
+MedCodeId	Term
+406084015	Urine dipstick for protein
+259801017	Urine protein test
+8411651000006111	Urine dipstick for protein
