@@ -41,7 +41,7 @@ Diagnosis date is earliest of:
 
 &nbsp;
 
-### Defining Type 1 vs Type 2
+### Defining Type 1 vs Type 2 in a mixed Type 1/Type 2 cohort
 * No insulin prescriptions: Type 2
 * With at least one insulin prescription:
   * With multiple Type 1- and/or Type 2-specific medcodes with any date (exeter_medcodelist_all_diabetes, category="type 1" or "type 2"):
