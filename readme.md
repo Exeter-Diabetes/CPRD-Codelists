@@ -24,8 +24,6 @@ CPRD Aurum codelists from the Exeter Diabetes team
 
 ## Diabetes algorithms
 
-&nbsp;
-
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
 * 'acceptable' patient flag (Patient table) = 1
