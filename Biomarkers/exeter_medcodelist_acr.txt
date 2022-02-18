@@ -1,0 +1,9 @@
+MedCodeId	Term
+476291000006112	Albumin/creatinine ratio
+1756971000006114	Test request : Urine albumin:creatinine ratio
+74961000006113	Urine albumin:creatinine ratio
+68971000006117	Urine microalbumin/creatinine ratio
+8409231000006115	Albumin / creatinine ratio
+12681291000006112	Albumin/creatinine ratio in urine
+5520181000006110	Urine albumin/creatinine ratio
+5520171000006112	Urine albumin/creatinine ratio measurement
