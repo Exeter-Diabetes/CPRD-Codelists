@@ -1,0 +1,17 @@
+biomarker	lower_limit	upper_limit
+acr	0	122
+alt	0	200
+ast	0	300
+bmi	15	100
+creatinine	20	2500
+dbp	20	200
+fastingglucose	2.5	30
+hba1c	20	195
+hdl	0.2	10
+height	60	225
+ldl	0.1	20
+pcr	0	682
+sbp	40	270
+totalcholesterol	0.5	20
+triglyceride	0.1	40
+weight	40	350
