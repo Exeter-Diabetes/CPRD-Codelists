@@ -1,0 +1,726 @@
+medcodeid	term_medcode
+394331012	Repair of iliac artery
+410967014	Repair of common iliac artery
+9314051000006114	Ischaemic ulcer of lower leg due to atherosclerotic disease
+9314061000006111	Ischemic ulcer of lower leg due to atherosclerotic disease
+4214711000006115	Creation of aorta-carotid-brachial vascular bypass
+173501000006110	Replace aneurysm fem art by fem/pop a anast c vein graft NEC
+4214861000006110	Bypass of popliteal artery by anastomosis of popliteal artery to femoral artery
+4214791000006113	Femoral-popliteal artery bypass graft
+4214831000006118	Femoropopliteal bypass
+4214851000006113	Femoropopliteal bypass graft
+4214811000006112	Creation of femoropopliteal shunt
+530791000006113	Bypass popliteal artery by pop/fem artery anastomosis NEC
+639421000006116	Emerg bypass femoral art by fem/pop a anast c vein graft NEC
+173511000006113	Replace aneurysm fem art by fem/pop art anastom c prosth NEC
+173641000006113	Replace aneurysm popliteal artery by pop/fem anastomosis NEC
+639431000006118	Emerg bypass femoral art by fem/pop art anast c prosth NEC
+4214801000006114	Femoral-popliteal artery vascular bypass
+4214821000006116	FPB - Femoropopliteal bypass
+4214841000006111	AK - Above knee femoral popliteal bypass graft
+9478131000006113	Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis
+9478151000006118	Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis
+9478181000006114	Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis
+8044221000006116	Ischaemic foot ulcer due to type 2 diabetes mellitus
+8044231000006118	Ischemic foot ulcer due to type 2 diabetes mellitus
+8048031000006119	Peripheral arterial insufficiency
+8048041000006112	Peripheral artery insufficiency
+2751451000006115	Thromboendarterectomy with graft of femoral and popliteal arteries
+12126641000006117	Embolism of left popliteal artery
+12126651000006115	Embolism of right popliteal artery
+272013012	Femoral endarterectomy
+2762941000006113	Endarterectomy of femoral artery
+3525200019	Fluoroscopy guided angioplasty of left femoral artery
+3525199017	Angioplasty of left femoral artery using fluoroscopic guidance
+3525206013	Angioplasty of right femoral artery using fluoroscopic guidance
+3525205012	Fluoroscopy guided angioplasty of right femoral artery
+639341000006115	Emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+4666391000006119	Axillo-unifemoral polytetrafluoroethylene bypass graft
+271416011	Axillo-unifemoral PTFE bypass graft
+639641000006113	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+173461000006110	Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+639371000006111	Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+639381000006114	Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+271489013	Revision of prosthesis of bifurcation of aorta
+271509013	Open embolectomy of bifurcation of aorta
+232881000006113	Percutaneous transluminal embolectomy of bifurcation of aorta
+4666711000006113	Percutaneous embolectomy of aortoiliac segment
+4667771000006118	Iliofemoral prosthetic crossover graft
+785611000006113	Ilio-femoral prosthetic cross over graft
+271900018	Percutaneous transluminal angioplasty of iliac artery
+271901019	Percutaneous transluminal embolectomy of iliac artery
+271905011	Insertion of iliac artery stent
+639751000006117	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+639691000006116	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to tibial artery using vein graft
+639661000006112	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
+668741000006116	Femorofemoral prosthetic crossover graft
+668731000006114	Femoro-femoral prosthetic cross over graft
+641681000006116	Endarterectomy of femoral artery and patch repair of femoral artery
+641701000006118	Endarterectomy of popliteal artery and patch repair of popliteal artery
+201771000006117	Profundoplasty of femoral artery and patch repair of deep femoral artery
+201761000006112	Profundoplasty of popliteal artery and patch repair of popliteal artery
+272019011	Reconstruction of femoral artery with vein graft
+272020017	Reconstruction of popliteal artery with vein graft
+272032018	Open thrombectomy of femoral artery
+272031013	Open embolectomy of femoral artery
+272033011	Open femoral embolectomy
+272034017	Open thrombectomy of popliteal artery
+272035016	Open embolectomy popliteal artery
+3511943014	Fluoroscopic angioplasty of left iliac artery and insertion of stent
+272041011	Repair of femoral artery with temporary silastic shunt
+272042016	Repair of popliteal artery with temporary silastic shunt
+272052017	Percutaneous transluminal angioplasty of femoral artery
+931881000006115	Angioplasty of femoral artery
+239491000006117	Percutaneous angioplasty of popliteal artery
+272055015	Percutaneous transluminal embolectomy of femoral artery
+4668151000006111	Percutaneous embolectomy of femoral artery
+272056019	Percutaneous transluminal embolectomy of popliteal artery
+4668191000006117	PC TL embolectomy popliteal artery
+4668171000006118	Percutaneous embolectomy of popliteal artery
+272059014	Percutaneous transluminal embolisation of femoral artery
+4668211000006116	Percutaneous transluminal embolization of femoral artery
+272061017	Percutaneous transluminal embolisation of popliteal artery
+4668231000006110	Percutaneous transluminal embolization of popliteal artery
+272080015	Revision of reconstruction of artery NOS
+272079018	Other specified revision of reconstruction of artery
+272074011	Revision of reconstruction of artery
+272075012	Revision of reconstruction involving aorta
+272076013	Revision of reconstruction involving iliac artery
+272077016	Revision of reconstruction involving femoral artery
+272078014	Revision of reconstruction of popliteal artery
+3511945019	Fluoroscopic angioplasty of right iliac artery and insertion of stent
+2781501000006113	Femoral-femoral artery bypass graft with vein
+3512217018	Fluoroscopic angioplasty of bilateral iliac arteries and insertion of bilateral iliac artery stents
+2802091000006117	Pseudoclaudication syndrome
+300434013	Extremity artery atheroma NOS
+884571000006119	Atherosclerosis of extremities
+300433019	Extremity artery atheroma
+300547018	Embolism and thrombosis of a leg artery NOS
+300550015	Peripheral arterial embolism and thrombosis NOS
+300534011	Embolism and thrombosis of an arm or leg artery
+300538014	Embolism and thrombosis of an arm artery NOS
+300539018	Embolism and thrombosis of the femoral artery
+300540016	Embolism and thrombosis of the popliteal artery
+300541017	Embolism and thrombosis of the anterior tibial artery
+300542012	Embolism and thrombosis of the dorsalis pedis artery
+300543019	Embolism and thrombosis of the posterior tibial artery
+300553018	Embolism and/or thrombosis of the common iliac artery
+11924531000006119	Embolism and/or thrombosis of the internal iliac artery
+11924521000006117	Embolism and/or thrombosis of the external iliac artery
+300607015	Arterial insufficiency
+309177010	Ischaemic ulcer diabetic foot
+4807571000006117	Ischemic ulcer diabetic foot
+2826391000006114	Aortopopliteal vascular bypass
+5009981000006113	Neuropathy in Buerger disease
+5009971000006110	Neuropathy in thromboangiitis obliterans
+5048271000006119	CIA - Balloon angioplasty of the common iliac artery
+5048261000006114	Angioplasty of common iliac artery
+5048291000006118	Percutaneous angioplasty of common iliac artery
+5048281000006116	Percutaneous balloon angioplasty of common iliac artery
+5048301000006117	PTA - Percutaneous angioplasty of common iliac artery
+5048311000006119	Angioplasty of internal iliac artery
+5048321000006110	Balloon angioplasty of internal iliac artery
+5048341000006115	Percutaneous angioplasty of internal iliac artery
+5048331000006113	Percutaneous balloon angioplasty of internal iliac artery
+5048371000006111	Balloon angioplasty of the external iliac artery
+5048351000006118	Angioplasty of external iliac artery
+5048361000006116	EIA - Balloon angioplasty of the external iliac artery
+5048401000006114	PTA - Percutaneous angioplasty of external iliac artery
+5048381000006114	Percutaneous balloon angioplasty of external iliac artery
+5048391000006112	Percutaneous angioplasty of external iliac artery
+5048411000006112	Angioplasty of common femoral artery
+5048421000006116	Balloon angioplasty of the common femoral artery
+5048431000006118	CFA - Balloon angioplasty of common femoral artery
+5048441000006111	Percutaneous balloon angioplasty of common femoral artery
+5048461000006110	Percutaneous angioplasty of common femoral artery
+5048451000006113	PTA - Percutaneous angioplasty of common femoral artery
+5048491000006119	SFA - Balloon angioplasty of superficial femoral artery
+5048471000006115	Angioplasty of superficial femoral artery
+5048481000006117	Balloon angioplasty of the superficial femoral artery
+5048511000006113	Percutaneous angioplasty of superficial femoral artery
+5048501000006110	Percutaneous balloon angioplasty of superior femoral artery
+5048521000006117	PTA - Percutaneous angioplasty of superficial femoral artery
+5048591000006115	Angioplasty of popliteal artery
+5048601000006111	Balloon angioplasty of popliteal artery
+5048631000006115	Balloon angioplasty of the crural artery
+5048611000006114	Angioplasty of crural artery
+5048621000006118	Balloon angioplasty of the infrapopliteal artery
+5048871000006118	Endarterectomy of the CIA - common iliac artery
+410965018	Endarterectomy of common iliac artery
+5048881000006115	Endarterectomy of internal iliac artery
+5048891000006117	Endarterectomy of external iliac artery
+5048901000006118	EIA - Endarterectomy of the external iliac artery
+5048911000006115	Endarterectomy of common femoral artery
+5048921000006111	CFA - Endarterectomy of the common femoral artery
+5048931000006114	Endarterectomy of superficial femoral artery
+5048941000006116	SFA - Endarterectomy of the superficial femoral artery
+272014018	Endarterectomy of popliteal artery
+5049001000006113	Embolectomy of popliteal artery
+5049011000006111	Popliteal embolectomy
+5049391000006115	Embolization of internal iliac artery
+5049381000006118	Embolisation of internal iliac artery
+349652010	Reconstruction of common iliac artery
+5049841000006118	Aortic bifurcation graft
+5049831000006111	ABG - Aortic bifurcation graft
+271444012	Other specified other bypass of bifurcation of aorta
+271431019	Other bypass of bifurcation of aorta
+5049821000006113	ABF - Aortobifemoral graft
+5049801000006115	ABG - Aortobifemoral graft
+224121000000118	Aortic bifurcation bypass graft
+271445013	Other bypass of bifurcation of aorta NOS
+5049811000006117	Trouser graft
+530051000006117	Bypass aorta by anastomosis axillary to femoral artery NEC
+5049951000006113	Axillobifemoral bypass graft
+1767701000006110	Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+5050001000006119	Femfem X over - femorofemoral crossover bypass graft
+5049971000006115	Femorofemoral crossover bypass graft
+5049981000006117	Xover - Femorofemoral crossover bypass graft
+639491000006119	Emerg bypass iliac artery by femoral/femoral art anast NEC
+5049991000006119	FFX - Femorofemoral crossover bypass graft
+530191000006112	Bypass iliac artery by femoral/femoral art anastomosis NEC
+5050021000006112	Iliofemoral X over - crossover graft
+5050011000006116	Iliofemoral crossover graft
+5050031000006110	Femorodistal bypass
+173401000006114	Replace aneurys fem art by fem/peron a anast c vein graf NEC
+173521000006117	Replace aneurysm fem art by fem/tib a anast c vein graft NEC
+639401000006114	Emerg bypass fem art by fem/peron a anast c vein graft NEC
+639411000006112	Emerg bypass femoral art by fem/peron art anast c prosth NEC
+639441000006111	Emerg bypass femoral art by fem/tib a anast c vein graft NEC
+639451000006113	Emerg bypass femoral art by fem/tib art anast c prosth NEC
+530151000006118	Bypass femoral artery by fem/tib art anast c prosthesis NEC
+173491000006119	Replace aneurysm fem art by fem/peron art anast c prosth NEC
+173531000006119	Replace aneurysm fem art by fem/tib art anast c prosth NEC
+530111000006119	Bypass femoral artery by fem/peron a anast c prosthesis NEC
+5050041000006117	Femdistal - Femorodistal bypass graft
+5050051000006115	FDB - Femorodistal bypass
+5050071000006113	Femoro-distal bypass
+5050061000006118	BK - Below knee femoral popliteal bypass graft
+173591000006115	Replace aneurysm pop art by pop/peron art anast c prosth NEC
+530781000006110	Bypass popliteal art by pop/peron art anast c vein graft NEC
+530801000006114	Bypass popliteal artery by pop/peron art anast c prosth NEC
+530841000006111	Bypass popliteal artery by pop/tib a anast c vein graft NEC
+639541000006112	Emerg bypass pop art by pop/peron art anast c vein graft NEC
+639551000006114	Emerg bypass pop art by pop/pop art anast c vein graft NEC
+639591000006115	Emerg bypass popliteal art by pop/tib art anast c prosth NEC
+349662015	Popliteal-distal bypass
+530831000006118	Bypass popliteal artery by pop/tib a anast c prosthesis NEC
+173601000006111	Replace aneurysm pop art by pop/pop a anast c vein graft NEC
+639571000006116	Emerg bypass popliteal art by pop/peron a anast c prosth NEC
+639581000006118	Emerg bypass popliteal art by pop/pop art anast c prosth NEC
+173631000006115	Replace aneurysm pop art by pop/tib art anast c prosth NEC
+5050091000006114	Popdistal bypass graft
+530811000006112	Bypass popliteal artery by pop/pop a anast c prosthesis NEC
+639561000006111	Emerg bypass pop art by pop/tib art anast c vein graft NEC
+530821000006116	Bypass popliteal artery by pop/pop a anast c vein graft NEC
+173611000006114	Replace aneurysm pop art by pop/pop art anastom c prosth NEC
+173421000006116	Replace aneurys pop art by pop/peron a anast c vein graf NEC
+173621000006118	Replace aneurysm pop art by pop/tib a anast c vein graft NEC
+5050381000006114	CIA - Insertion of stent into common iliac artery
+5050371000006111	Insertion common iliac artery stent
+5050401000006114	EIA - Insertion of stent into external iliac artery
+5050391000006112	Insertion of external iliac artery stent
+5057931000006110	Aortoiliac atherosclerosis
+223991000000116	Aortoiliac disease
+350535018	Peripheral ischaemic vascular disease
+5057981000006111	Peripheral ischemic vascular disease
+5058001000006116	Peripheral ischemia
+350533013	Peripheral ischaemia
+5058081000006113	Lower limb ischemia
+5058071000006110	Lower limb ischaemia
+742481000006118	Ischaemic leg
+5058091000006111	Ischemic leg
+5058121000006110	Critical lower limb ischemia
+5058111000006119	Critical lower limb ischaemia
+350562014	Aortic bifurcation syndrome
+5058251000006114	Aortic bifurcation syndrome
+5058281000006118	Saddle embolus of abdominal aorta
+5058291000006115	Aortic bifurcation embolus
+350563016	Saddle embolus
+350564010	Aortoiliac obstruction
+1548451000006111	Percutaneous transluminal placement of peripheral stent in artery
+5126401000006115	Mixed arteriovenous leg ulcer
+357893018	Mixed venous and arterial leg ulcer
+5126441000006118	Ischemic leg ulcer
+357895013	Ischaemic leg ulcer
+357894012	Arterial leg ulcer
+5126451000006116	Ischaemic foot ulcer
+5126461000006119	Ischemic foot ulcer
+5126501000006119	Neuroischemic foot ulcer
+5126491000006110	Neuroischaemic foot ulcer
+5153771000006111	Endarterectomy of the infrapopliteal artery
+5153761000006116	Endarterectomy of crural artery
+5153781000006114	Endarterectomy of the crural artery
+5153821000006115	Embolectomy of iliac artery
+5153831000006117	Iliac embolectomy
+5157811000006117	Axillofemoral graft arteriogram
+2892741000006110	Embolectomy with catheter of femoropopliteal artery by leg incision
+5294691000006114	Peripheral pulmonary artery disease
+375462013	Claudication distance
+639651000006110	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+173471000006115	Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+530071000006110	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+488631000006116	Aorto biiliac graft
+271880019	Other specified reconstruction of iliac artery
+271891014	Operation on aneurysm of iliac artery NEC
+394326010	Reconstruction of iliac artery
+271881015	Reconstruction of iliac artery NOS
+641691000006118	Endarterectomy of iliac artery and patch repair of iliac artery
+394328011	Iliac endarterectomy and patch
+394332017	Open embolectomy of iliac artery
+394333010	Transluminal operations on iliac artery
+271907015	Other specified transluminal operation on iliac artery
+271908013	Transluminal operation on iliac artery NOS
+272022013	Reconstruction of femoral or popliteal artery NOS
+272037012	Operation on aneurysm of femoral artery NEC
+187331000006112	Reconstruction of femoral or popliteal artery OS
+394340011	Reconstruction of femoral artery or popliteal artery
+272029016	Repair of femoral artery NEC
+89891000006117	Transluminal operation on femoral or popliteal artery NOS
+89901000006118	Transluminal operation on femoral or popliteal artery OS
+90051000006113	Transluminal operations on femoral artery or popliteal artery
+300564015	Arterial embolism and thrombosis NOS
+300556014	Embolism and thrombosis of the iliac artery unspecified
+300964011	[X]Embolism and thrombosis of other arteries
+884631000006118	Arterial embolism/thrombosis
+395794011	Arterial embolic and thrombotic occlusion
+300552011	Embolism and thrombosis of other specified artery
+300563014	Embolism and thrombosis of other arteries NOS
+491241000006118	Arterial embolism and thrombosis
+395795012	Arterial embolus and thrombosis
+884641000006111	Embolus/thrombosis abd. aorta
+395796013	Embolism and thrombosis of the abdominal aorta
+2940891000006113	Aortoiliac to popliteal vascular bypass
+410961010	Dacron aortofemoral Y graft
+410962015	Dacron aortoiliac Y graft
+5568871000006110	Emergency femorofemoral prosthetic crossover graft
+640081000006119	Emergency femoro-femoral prosthetic cross over graft
+410964019	Endarterectomy and patch repair of common iliac artery
+410968016	Transluminal operations on common iliac artery
+410974016	Reconstruction of popliteal artery
+410975015	Reconstruction of deep femoral artery
+410976019	Reconstruction of common femoral artery
+410977011	Reconstruction of femoral artery
+411078012	Reconstruction of superficial femoral artery
+411214011	Open embolectomy of common iliac artery
+11923651000006113	Claudication
+5592671000006111	Percutaneous endarterectomy of common iliac artery
+5592681000006114	Percutaneous endarterectomy of internal iliac artery
+5592691000006112	Percutaneous endarterectomy of external iliac artery
+5592701000006112	Percutaneous endarterectomy of common femoral artery
+5592751000006111	Percutaneous endarterectomy of superficial femoral artery
+5592801000006116	Percutaneous endarterectomy of popliteal artery
+5600781000006113	Percutaneous embolisation of internal iliac artery
+5600791000006111	Percutaneous embolization of internal iliac artery
+2952571000006113	Axillary-femoral artery bypass graft with vein
+8086971000006113	Ischemic foot ulcer due to atherosclerosis of native artery of limb
+8086961000006118	Ischaemic foot ulcer due to atherosclerosis of native artery of limb
+8087001000006118	Ischemic midfoot ulcer due to atherosclerosis of native artery of limb
+8086991000006114	Ischaemic midfoot ulcer due to atherosclerosis of native artery of limb
+5721221000006112	Peripheral arterial embolism
+2967551000006110	Femoral-anterior tibial artery bypass graft with vein
+2967561000006112	Femoral-anterior tibial artery in-situ vein bypass
+2970281000006110	Iliofemoral bypass graft with vein
+5886711000006111	Ischaemia of feet
+5886721000006115	Ischemia of feet
+5888661000006118	Embolisation of femoral artery
+5888671000006113	Embolization of femoral artery
+5888691000006114	Embolization of popliteal artery
+5888681000006111	Embolisation of popliteal artery
+443199013	Ischaemic foot
+5898341000006114	Ischemic foot
+5928671000006111	Axillo-unifemoral bypass graft
+5961371000006115	Occlusion of femorofemoral crossover bypass graft
+5961381000006117	Occlusion of axillofemoral bypass graft
+5961391000006119	Occlusion of aortic bifurcation bypass graft
+5961421000006110	Thrombosis of femorofemoral crossover bypass graft
+5961431000006113	Thrombosis of axillofemoral bypass graft
+5961441000006115	Thrombosis of aortic bifurcation bypass graft
+5967801000006111	Infected aortofemoral graft
+5967811000006114	Infected femorofemoral crossover graft
+5967821000006118	Infected iliofemoral graft
+5967861000006112	Infected axillofemoral graft
+394329015	Endarterectomy of iliac artery
+451198016	Leriche's syndrome
+5973011000006118	Leriche syndrome
+451376017	H/O: Peripheral vascular disease procedure
+5974641000006112	History of peripheral vascular disease procedure
+238621000006112	Percutaneous transluminal thrombolysis of femoral graft using streptokinase
+6002221000006111	Patch repair of popliteal artery
+6002251000006119	Patch repair of femoral artery
+6002261000006117	Patch repair of iliac artery
+6002271000006112	Patch repair of common iliac artery
+455900010	Open insertion of iliac artery stent
+455901014	Percutaneous transluminal insertion of iliac artery stent
+6019801000006110	Femoropopliteal prosthetic bypass graft
+530131000006113	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
+6019901000006116	Aorta to inferior mesenteric artery bypass graft
+6021741000006113	Critical ischemia of foot
+6021731000006115	Critical ischaemia of foot
+3014471000006111	Repair of ruptured aneurysm with graft of iliac artery
+3061761000006110	Repair of aneurysm with graft of iliac artery
+6510211000006118	Axillary-femoral arterial bypass
+6510231000006112	Axillary-femoral vascular bypass
+501011000006118	Axillofemoral bypass graft
+6510241000006119	Axillary-femoral shunt
+6632221000006112	Peripheral arterial occlusive disease
+6632231000006110	PAOD - Peripheral arterial occlusive disease
+6632251000006115	Peripheral angiopathy
+1847121000006114	Peripheral arterial disease
+6632271000006113	Peripheral artery occlusive disease
+6632261000006118	PVD - Peripheral vascular disease
+300511019	Peripheral angiopathic disease EC NOS
+300514010	Other specified peripheral vascular disease NOS
+300963017	[X]Other specified peripheral vascular diseases
+235911000006116	Peripheral vascular disease
+300510018	Other specified peripheral vascular disease
+300970017	[X]Peripheral angiopathy in diseases classified elsewhere
+395791015	Other peripheral vascular disease
+6633851000006110	PVD-peripheral vascular disease
+300515011	Peripheral vascular disease NOS
+3144681000006111	Creation of aortofemoral vascular bypass
+3144671000006113	Creation of aortofemoral shunt
+6648681000006111	Angioplasty of femoral artery
+6670941000006112	Arteritic leg ulcer
+6712181000006119	Axillobifemoral bypass graft with prosthesis
+6712501000006116	Sapheno-femoral crossover bypass graft
+6712601000006115	Popliteal endarterectomy and angioplasty
+6712591000006111	Endarterectomy and angioplasty of popliteal artery
+6712621000006113	Superficial femoral endarterectomy and angioplasty using vein
+6712611000006117	Endarterectomy and angioplasty of superficial femoral artery with vein
+6712641000006118	Popliteal endarterectomy and angioplasty using prosthesis
+6712631000006111	Endarterectomy and angioplasty of popliteal artery with prosthesis
+6712661000006119	Superficial femoral endarterectomy and angioplasty using prosthesis
+6712651000006116	Endarterectomy and angioplasty of superficial femoral artery with prosthesis
+6712671000006114	Endarterectomy and angioplasty of popliteal artery with vein
+6712681000006112	Popliteal endarterectomy and angioplasty using vein
+6712701000006110	Superficial femoral endarterectomy and angioplasty
+6712691000006110	Endarterectomy and angioplasty of superficial femoral artery
+272030014	Repair of popliteal artery
+272018015	Profundoplasty of popliteal artery NEC
+6713201000006111	Profundoplasty
+6713191000006113	Repair of profunda femoris artery
+272017013	Profundoplasty of femoral artery NEC
+6713211000006114	Profundaplasty
+6713231000006115	Repair of superficial femoral artery
+6713271000006117	Embolectomy of posterior tibial artery
+6713281000006119	Embolectomy of anterior tibial artery
+6713291000006116	Embolectomy of external iliac artery
+6713381000006112	Endarterectomy and angioplasty of common femoral artery
+6713391000006110	Endarterectomy and angioplasty of common femoral artery with vein
+6713401000006112	Endarterectomy and angioplasty of common femoral artery with prosthesis
+6713421000006119	Endarterectomy and angioplasty of iliac artery
+6713521000006115	Endarterectomy and angioplasty of iliac artery with vein
+6713731000006110	Angioplasty of superficial femoral artery with vein
+6713741000006117	Endarterectomy of femoral artery with prosthesis
+6713751000006115	Profundaplasty with prosthesis
+6714121000006113	Angioplasty of superficial femoral artery with prosthesis
+6714161000006119	Angioplasty of popliteal artery with prosthesis
+6714171000006114	Angioplasty of popliteal artery with vein
+6714191000006110	Endarterectomy and angioplasty of Iliac artery with prosthesis
+349661010	Other bypass of superficial femoral artery
+349664019	Other bypass of deep femoral artery
+349665018	Other bypass of common femoral artery
+410970013	Other replacement of aneurysmal common femoral artery
+17311000006112	Other replacement aneurysmal femoral artery by anastomosis
+349667014	Other emergency bypass of femoral artery
+410972017	Other replacement of aneurysmal deep femoral artery
+394337011	Other replacement of aneurysmal femoral artery
+349663013	Femoral artery bypass
+410969012	Other replacement of aneurysmal superficial femoral artery
+272003016	Other bypass of femoral artery or popliteal artery NOS
+394339014	Arterial bypass of lower limb artery
+6714361000006116	Arterial bypass of lower extremity artery
+36061000006118	Other bypass of femoral artery or popliteal artery OS
+271865013	Emergency bypass of iliac artery by unspecified anastomosis
+349677011	Other bypass of iliac artery by anastomosis
+394323019	Iliac artery bypass
+6714491000006119	Aorto-profunda arterial bypass
+530231000006119	Bypass leg artery by aorta/deep femoral art anastomosis NEC
+639531000006119	Emerg bypass leg artery by aorta/deep fem anastomosis NEC
+6714501000006110	Aorto-femoral arterial bypass
+6714511000006113	Aorto-femoral arterial bypass with prosthesis
+6714521000006117	Aorto-profunda arterial bypass with prosthesis
+6714541000006112	Aorto-profunda bifurcation bypass
+6714531000006119	Bypass of bifurcation of aorta by anastomosis of aorta to profunda femoris artery
+6714551000006114	Aorto-profunda bifurcation bypass with prosthesis
+6714561000006111	Aorto-iliac bypass with prosthesis
+6714571000006116	Aortoiliac vascular bypass with prosthesis
+6714591000006115	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery with prosthesis
+6714601000006111	Aorto-iliac bifurcation bypass with prosthesis
+6714961000006117	Aorto-femoral bifurcation graft for repair of aneurysm
+6715021000006111	Ilio-femoral bypass for repair of aneurysm with prosthesis
+6715921000006110	Angioplasty of external iliac artery with prosthesis
+6715931000006113	Angioplasty of common femoral artery with prosthesis
+6715941000006115	Angioplasty of common femoral artery with vein
+6715971000006111	Aortocoronary artery bypass graft with two vein grafts
+6715981000006114	Aortocoronary artery bypass graft with three vein grafts
+3163081000006114	Aortoiliac vascular bypass
+3163071000006111	Creation of aortoiliac shunt
+6914011000006114	Fluoroscopic angiography and embolisation of iliac artery
+6914031000006115	Fluoroscopy and embolization of iliac artery
+6914021000006118	Fluoroscopic angiography and embolization of iliac artery
+6914041000006113	Fluoroscopy and embolisation of iliac artery
+6916471000006118	Fluoroscopic angioplasty of abdominal aorta and femoral arteries
+6916481000006115	Fluoroscopy and angioplasty of abdominal aorta and femoral arteries
+6918611000006111	Fluoroscopy and angioplasty of iliac artery
+6918601000006113	Fluoroscopic angioplasty of iliac artery
+6924861000006111	Fluoroscopy and stent femoral artery
+6924851000006114	Fluoroscopic angiography of femoral artery and insertion of stent
+6927571000006111	Fluoroscopic angiography and embolization of internal iliac artery
+6927591000006112	Fluoroscopy and embolisation of internal iliac artery
+6927561000006116	Fluoroscopic angiography and embolisation of internal iliac artery
+6927581000006114	Fluoroscopy and embolization of internal iliac artery
+6927951000006113	Fluoroscopy and angioplasty of popliteal artery
+6927941000006111	Fluoroscopic angioplasty of popliteal artery
+6933771000006113	Fluoroscopic angioplasty of infrapopliteal artery
+6933781000006111	Fluoroscopy and angioplasty of infrapopliteal artery
+6936281000006111	Fluoroscopy and angioplasty of femoral artery
+6936271000006113	Fluoroscopic angioplasty of femoral artery
+6936951000006113	Fluoroscopic angioplasty of superficial femoral artery
+6936961000006110	Fluoroscopy and angioplasty of superficial femoral artery
+6938341000006113	Fluoroscopic angiography of axillofemoral graft
+6938351000006110	Axillofemoral graft arteriogram
+6938871000006110	Fluoroscopic angiography of iliac artery and insertion of stent
+6938881000006113	Fluoroscopy and stent iliac artery
+1541351000006111	Reconstruction of breast using free inferior gluteal artery perforator flap
+1548341000006118	Percutaneous transluminal insertion of stent into femoral artery
+7097401000006119	Insertion of stent into femoral artery
+3191761000006119	Suture repair of aorta with cardiopulmonary bypass
+7098581000006114	History of aortofemoral bypass surgery
+7117831000006115	History of peripheral arterial occlusive disease of lower extremity
+7117821000006118	History of occlusive disease of artery of lower extremity
+7117871000006117	History of occlusive disease of artery of upper extremity
+7117881000006119	History of peripheral arterial occlusive disease of upper extremity
+7123021000006111	History of claudication
+7133101000006116	Percutaneous transluminal angioplasty of internal iliac artery using fluoroscopic guidance
+7133111000006118	PTA of internal iliac artery
+7133091000006110	Fluoroscopic PTA of internal iliac artery
+7134911000006118	Fluoroscopy guided percutaneous insertion of stent graft into bypass of external iliac artery to internal iliac artery
+7134921000006114	Percutaneous insertion of stent graft into bypass of external iliac artery to internal iliac artery using fluoroscopic guidance
+7134941000006119	Fluoroscopic guidance for percutaneous insertion of stent graft into bypass of external iliac artery to internal iliac artery
+7134931000006112	Fluoroscopy guided percutaneous insertion of stent graft into external to internal iliac artery bypass
+7138691000006110	Intraoperative fluoroscopic angiography of abdominal aorta and iliac artery with insertion of unilateral aorto-iliac stent graft
+7138701000006110	Fluoroscopic operative angiography of abdominal aorta and iliac artery with insertion of aorto-uni-iliac stent graft
+7138681000006112	Fluoroscopic operative angiography of abdominal aorta and iliac artery with insertion of aortounilateral iliac stent graft
+7140071000006116	Fluoroscopic PTA of external iliac artery
+7140091000006115	PTA of external iliac artery
+7140081000006118	Percutaneous transluminal angioplasty of external iliac artery using fluoroscopic guidance
+7140321000006119	History of peripheral arterial occlusive disease
+7141541000006113	Fluoroscopic angiography of internal iliac artery using contrast with insertion of stent
+7143071000006110	Percutaneous transluminal angioplasty of popliteal artery using fluoroscopic guidance
+7143081000006113	PTA of popliteal artery
+7143061000006115	Fluoroscopic PTA of popliteal artery
+7143111000006119	PTA of superficial femoral artery
+7143091000006111	Fluoroscopic PTA of superficial femoral artery
+7143101000006117	Percutaneous transluminal angioplasty of superficial femoral artery using fluoroscopic guidance
+7143151000006118	Fluoroscopic PTA of common femoral artery
+7143161000006116	Percutaneous transluminal angioplasty of common femoral artery using fluoroscopic guidance
+7143171000006111	PTA of common femoral artery
+7144221000006119	Fluoroscopic percutaneous angiography of common iliac artery with insertion of drug eluting stent
+7144231000006116	Fluoroscopic angiography of common iliac artery using contrast with insertion of drug eluting stent
+7144281000006115	Fluoroscopic angiography of external iliac artery using contrast with insertion of stent
+7149881000006115	Percutaneous embolization of internal iliac artery using fluoroscopic guidance
+7149871000006118	Percutaneous embolisation of internal iliac artery using fluoroscopic guidance
+7149861000006113	Fluoroscopy guided percutaneous embolisation of internal iliac artery
+7149891000006117	Fluoroscopic guidance for percutaneous embolisation of internal iliac artery
+7149961000006117	Fluoroscopic guidance for percutaneous embolisation of common femoral artery
+7149931000006114	Fluoroscopy guided percutaneous embolisation of common femoral artery
+7149941000006116	Percutaneous embolisation of common femoral artery using fluoroscopic guidance
+7149951000006119	Percutaneous embolization of common femoral artery using fluoroscopic guidance
+7157111000006114	Fluoroscopic guidance for percutaneous embolisation of iliac artery
+7157081000006115	Fluoroscopy guided percutaneous embolisation of iliac artery
+7157091000006117	Percutaneous embolisation of iliac artery using fluoroscopic guidance
+7157101000006111	Percutaneous embolization of iliac artery using fluoroscopic guidance
+7160071000006112	Fluoroscopic angiography of common iliac artery using contrast with insertion of stent
+7161251000006115	Percutaneous embolisation of external iliac artery using fluoroscopic guidance
+7161241000006117	Fluoroscopy guided percutaneous embolisation of external iliac artery
+7161271000006113	Fluoroscopic guidance for percutaneous embolisation of external iliac artery
+7161261000006118	Percutaneous embolization of external iliac artery using fluoroscopic guidance
+7161401000006118	Fluoroscopy guided percutaneous embolisation of popliteal artery
+7161411000006115	Percutaneous embolisation of popliteal artery using fluoroscopic guidance
+7161431000006114	Fluoroscopic guidance for percutaneous embolisation of popliteal artery
+7161421000006111	Percutaneous embolization of popliteal artery using fluoroscopic guidance
+7161461000006117	Percutaneous embolisation of tibial artery using fluoroscopic guidance
+7161471000006112	Fluoroscopic guidance for percutaneous embolisation of tibial artery
+7161451000006119	Percutaneous embolization of tibial artery using fluoroscopic guidance
+7161441000006116	Fluoroscopy guided percutaneous embolisation of tibial artery
+7167741000006119	Fluoroscopic guidance for percutaneous embolisation of superficial femoral artery
+7167731000006112	Percutaneous embolization of superficial femoral artery using fluoroscopic guidance
+7167721000006114	Percutaneous embolisation of superficial femoral artery using fluoroscopic guidance
+7167711000006118	Fluoroscopy guided percutaneous embolisation of superficial femoral artery
+7169221000006113	Percutaneous transluminal angioplasty of common iliac artery using fluoroscopic guidance
+7169211000006117	Fluoroscopic PTA of common iliac artery
+7169231000006111	PTA of common iliac artery
+7171201000006110	Angioplasty of common femoral artery using fluoroscopic guidance
+7172671000006114	Fluoroscopic angiography of abdominal aorta and iliac artery using contrast with insertion of unilateral aorto-iliac stent graft
+7181461000006119	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of superficial femoral artery
+7181471000006114	Percutaneous transluminal cutting balloon angioplasty of superficial femoral artery using fluoroscopic guidance
+7181481000006112	Cutting balloon PTA of superficial femoral artery
+7182311000006119	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of external iliac artery
+7182331000006113	Cutting balloon PTA of external iliac artery
+7182321000006110	Percutaneous transluminal cutting balloon angioplasty of external iliac artery using fluoroscopic guidance
+7182551000006114	Fluoroscopic angiography of common femoral artery using contrast with insertion of stent graft
+7182681000006119	Cutting balloon PTA of common femoral artery
+7182661000006112	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of common femoral artery
+7182671000006117	Percutaneous transluminal cutting balloon angioplasty of common femoral artery using fluoroscopic guidance
+7183101000006113	Cutting balloon PTA of popliteal artery
+7183091000006119	Percutaneous transluminal cutting balloon angioplasty of popliteal artery using fluoroscopic guidance
+7183081000006117	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of popliteal artery
+7183111000006111	Fluoroscopic angiography of internal iliac artery using contrast with insertion of drug eluting stent
+7183851000006117	Fluoroscopic angiography of external iliac artery using contrast with insertion of stent graft
+7184001000006112	Fluoroscopic angiography of internal iliac artery using contrast with insertion of stent graft
+7184011000006110	Fluoroscopic angiography of superficial femoral artery using contrast with insertion of stent graft
+7184681000006112	Percutaneous transluminal cutting balloon angioplasty of common iliac artery using fluoroscopic guidance
+7184691000006110	Cutting balloon PTA of common iliac artery
+7184671000006114	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of common iliac artery
+7187371000006113	Fluoroscopic angiography of common iliac artery using contrast with insertion of stent graft
+7188751000006115	Fluoroscopic venography of superficial femoral vein using contrast with insertion of stent graft
+7189071000006117	Fluoroscopic angiography of external iliac artery using contrast with insertion of drug eluting stent
+7191951000006111	Fluoroscopic venography of common femoral vein using contrast with insertion of stent graft
+7192761000006116	Cutting balloon PTA of internal iliac artery
+7192741000006115	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of internal iliac artery
+7192751000006118	Percutaneous transluminal cutting balloon angioplasty of internal iliac artery using fluoroscopic guidance
+7213601000006116	Open revision of femoral anastomosis of synthetic arterial bypass graft using nonautogenous patch graft
+7224311000006117	Endovascular repair of aneurysm of iliac artery
+7224991000006111	Open revision of femoral anastomosis of synthetic arterial bypass graft using autogenous vein patch graft
+7235681000006118	Fluoroscopy guided percutaneous embolisation of common iliac artery
+7235661000006111	Percutaneous embolisation of common iliac artery using fluoroscopic guidance
+7235671000006116	Percutaneous embolization of common iliac artery using fluoroscopic guidance
+7241031000006113	History of aortoiliac atherosclerosis
+7241041000006115	History of atherosclerosis of aortoiliac arteries
+7284781000006115	Endovascular repair of aneurysm of iliac artery with graft using radiologic guidance
+173541000006112	Replace aneurysm fem artery by fem/fem art anastomosis NEC
+530171000006111	Femoral-femoral artery vascular bypass
+3220141000006119	Bypass of femoral artery by anastomosis of femoral artery to femoral artery
+7328331000006114	MR angiography of bypass of axillary artery to femoral artery
+7328351000006119	Magnetic resonance angiography of axillary-femoral artery bypass
+7328341000006116	Magnetic resonance angiogram of axillary-femoral bypass
+7328321000006111	Magnetic resonance angiography of bypass of axillary artery to femoral artery
+7347381000006111	Bypass of common iliac artery by anastomosis of aorta to common iliac artery
+639501000006110	Emerg bypass iliac artery by iliac/iliac art anastomosis NEC
+7347571000006118	Bypass of iliac artery by anastomosis of iliac artery to iliac artery
+7347581000006115	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis
+7348701000006119	Bypass of iliac artery by anastomosis of aorta to external iliac artery
+7348721000006112	Bypass of artery of leg by anastomosis of aorta to superficial femoral artery
+7348711000006116	Bypass of artery of lower extremity by anastomosis of aorta to superficial femoral artery
+7349021000006118	Bypass of popliteal artery by anastomosis of popliteal artery to popliteal artery using prosthesis
+7349751000006113	Bypass of artery of leg by anastomosis of aorta to common femoral artery
+7349741000006111	Bypass of artery of lower extremity by anastomosis of aorta to common femoral artery
+7350211000006114	Bypass of popliteal artery by anastomosis of popliteal artery to tibial artery using prosthesis
+530061000006115	Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+7353131000006119	Bypass of popliteal artery by anastomosis of popliteal artery to peroneal artery using prosthesis
+530121000006110	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
+7353151000006114	Bypass of popliteal artery by anastomosis of popliteal artery to popliteal artery using vein graft
+530161000006116	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft
+7364191000006111	Embolisation of iliac artery using coil
+7364201000006114	Embolization of iliac artery using coil
+3315031000006118	Repair of ruptured aneurysm with graft of common femoral artery
+3316941000006116	Aorta to superior mesenteric artery bypass graft
+3316931000006114	Aortic-superior mesenteric vascular bypass
+3322961000006114	Femoropopliteal reversed vein bypass graft
+3322941000006110	Femoral-popliteal artery bypass graft with vein
+530141000006115	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+3322951000006112	Femoral-popliteal in-situ vein bypass
+3326621000006114	Iliofemoral graft
+530201000006110	Bypass of iliac artery by anastomosis of iliac artery to femoral artery
+3326631000006112	Ilio-femoral artery bypass
+3326611000006118	Iliofemoral vascular bypass
+3326641000006119	Iliac-femoral arterial bypass
+639471000006115	Emerg bypass iliac art by iliac/femoral art anastomosis NEC
+3326601000006116	Iliofemoral shunt
+87208017	Thromboangiitis obliterans
+87210015	Buerger's disease
+300503012	Thromboangiitis obliterans NOS
+7982971000006110	Intermittent claudication due to atherosclerosis of native artery of limb
+3420761000006117	Repair of ruptured aneurysm with graft of popliteal artery
+3465461000006113	Bifemoral bypass graft with vein
+3493221000006119	Aortofemoral-popliteal artery in-situ vein bypass graft
+2598661000006115	Repair of aneurysm with graft of common femoral artery
+3518871000006119	Abdominal aorta-iliac artery dacron bypass graft
+105536013	Intermittent claudication
+3532651000006115	Myasthenia angiosclerotica
+3532661000006118	IC - Intermittent claudication
+1715241000006112	Vascular claudication
+411512011	Claudication
+3532641000006117	Charcot's syndrome
+3536481000006114	Creation of aortocarotid vascular bypass
+3536471000006111	Creation of aortocarotid shunt
+3551911000006115	Embolectomy with catheter of aortoiliac artery by leg incision
+3556281000006114	Thromboendarterectomy with graft of iliac artery
+3616961000006112	Embolectomy with catheter of aortoiliac artery by abdominal incision
+7513891000006115	Repair of pseudoaneurysm of femoral artery
+7515441000006110	Femoral-popliteal artery bypass using autogenous vein graft
+7515451000006112	Above knee femoral-popliteal artery bypass using autogenous vein graft
+7516671000006110	Repair of acquired femoral arteriovenous fistula
+7516741000006113	Reconstruction of carotid artery with graft
+7537101000006116	Iliac artery stent, bare-metal
+3640141000006119	Intraoperative transluminal angioplasty of iliac artery
+7570611000006112	Fluoroscopy guided iliac artery stent procedure
+7570621000006116	Iliac artery stent procedure using fluoroscopic angiography
+7663481000006113	Fluoroscopic angioplasty of abdominal aorta, iliac artery and femoral artery
+7685381000006117	Fluoroscopic angioplasty of iliac artery and insertion of stent
+7691601000006118	Gangrene due to arterial insufficiency
+7700341000006114	Percutaneous transluminal balloon angioplasty with insertion of stent into popliteal artery
+7700491000006110	Percutaneous transluminal balloon angioplasty with insertion of stent into femoral artery
+7700501000006119	Percutaneous transluminal balloon angioplasty with insertion of stent into iliac artery
+2377871000000112	Ischaemic foot pain at rest
+7703651000006112	Ischemic foot pain at rest
+7707591000006113	Ischemic foot pain when walking
+2377911000000114	Ischaemic foot pain when walking
+3681781000006114	Thromboendarterectomy with graft of iliofemoral artery
+3690521000006111	Aortofemoral to popliteal vascular bypass
+3503835018	Thromboembolus of internal iliac artery
+300554012	Embolism and/or thrombosis of the internal iliac artery
+3503839012	Thromboembolus of external iliac artery
+300555013	Embolism and/or thrombosis of the external iliac artery
+3759861000006111	Thromboendarterectomy with graft of common femoral artery
+410973010	Repair of aneurysm with graft of popliteal artery
+7988321000006111	Atherosclerosis aortoiliac bypass graft
+7988311000006115	Atherosclerosis of aortoiliac bypass graft
+3807331000006111	Iliac artery embolus
+3807321000006113	Embolism of iliac artery
+2634321000006110	Embolectomy of femoral artery
+2634331000006113	Femoral embolectomy
+2232441000000113	H/O: arterial lower limb ulcer
+8298821000006113	H/O: arterial leg ulcer
+8298811000006117	History of arterial lower limb ulcer
+3912301000006112	Aortoiliofemoral vascular bypass
+3912311000006110	Aortoiliofemoral shunt
+3912321000006119	Aorta-iliac-femoral vascular bypass
+3970581000006119	Thromboendarterectomy with graft of deep profunda femoral artery
+218531000000113	Atherosclerosis of aorta
+884661000006110	Peripheral arterial embolism
+639391000006112	Emerg bypass comm iliac art by aorta/com iliac art anast NEC
+639521000006117	Emerg bypass leg artery by aorta/com fem art anastomosis NEC
+530091000006111	Bypass common iliac artery by aorta/com iliac art anast NEC
+530221000006117	Bypass leg artery by aorta/com femoral art anastomosis NEC
+271867017	Other specified other bypass of iliac artery
+271868010	Other bypass of iliac artery NOS
+394330013	Other open operations on iliac artery
+410966017	Other open operations on common iliac artery
+349670013	Other emergency bypass of deep femoral artery
+349671012	Other emergency bypass of common femoral artery
+32181000006113	Other emerg bypass femoral or popliteal art by anastomosis
+349668016	Other emergency bypass of superficial femoral artery
+349669012	Other emergency bypass of popliteal artery
+394338018	Other emergency bypass of femoral artery or popliteal artery
+639461000006110	Emerg bypass femoral artery by fem/fem art anastomosis NEC
+639601000006111	Emerg bypass popliteal artery by pop/fem art anastomosis NEC
+31361000006114	Other emergency bypass of femoral or popliteal artery OS
+31351000006112	Other emergency bypass of femoral or popliteal artery NOS
+349666017	Other bypass of femoral or popliteal artery by anastomosis
+410980012	Other open operations on deep femoral artery
+410981011	Other open operations on common femoral artery
+410978018	Other open operations on superficial femoral artery
+410979014	Other open operations on popliteal artery
+394341010	Other open operations on femoral artery or popliteal artery
+24571000006113	Other open operation on femoral or popliteal artery OS
+486094011	Neurogenic leg ulcer
+357890015	Leg ulcer
+512081010	Foot ulcer
+931941000006116	Leg ulcer
+88521000006110	Trophic leg ulcer
+399941017	Non-pressure ulcer lower limb
+639481000006117	Emerg bypass iliac artery by aorta/ext iliac art anast NEC
+530181000006114	Bypass iliac artery by aorta/ext iliac art anastomosis NEC
+530211000006113	Bypass iliac artery by iliac/iliac artery anastomosis NEC

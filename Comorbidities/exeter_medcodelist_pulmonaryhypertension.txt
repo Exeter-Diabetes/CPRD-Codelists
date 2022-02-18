@@ -1,0 +1,111 @@
+medcodeid	term_medcode
+2681651000006116	Pulmonary hypertensive arterial disease
+43850011	Pulmonary arterial hypertension
+2681661000006119	Hypertensive pulmonary arterial disease
+146259010	Secondary pulmonary hypertension
+350517010	Thromboembolic pulmonary hypertension
+5057801000006113	Chronic thromboembolic pulmonary hypertension
+137888010	Eisenmenger's complex
+4824421000006117	Eisenmenger complex
+3654631000006113	Pulmonary hypertension
+3654641000006115	PHT - Pulmonary hypertension
+5057711000006119	Solitary pulmonary hypertension
+5057721000006110	Small vessel pulmonary hypertension
+5057731000006113	Sporadic primary pulmonary hypertension
+5057741000006115	Familial primary pulmonary hypertension
+5057771000006111	Pulmonary arterial hypertension caused by drug
+5057751000006118	Pulmonary arterial hypertension induced by drug
+5057761000006116	Drug-induced pulmonary hypertension
+5057781000006114	Pulmonary hypertension caused by drug
+5057791000006112	Large vessel pulmonary hypertension
+5057821000006115	Pulmonary hypertension in vasculitis
+5057831000006117	Post-arteritic pulmonary hypertension
+3953331000006118	Pulmonary veno-occlusive disease
+5057841000006110	Pulmonary capillary haemangiomatosis
+5057851000006112	Pulmonary capillary hemangiomatosis
+5057861000006114	Pulmonary hypertension associated with chronic underventilation
+5590571000006111	Pulmonary hypertension with extreme obesity
+7316011000006113	Eisenmenger's syndrome
+7316021000006117	Eisenmenger syndrome
+5590591000006112	Facultative pulmonary hypertension with shunt at atrial level
+6214751000006112	Pulmonary hypertension secondary to raised pulmonary vascular resistance
+5590581000006114	Pulmonary hypertension with occult mitral stenosis
+5057891000006118	Pulmonary hypertension due to chronic exposure to high altitude
+5057901000006119	High altitude pulmonary hypertension
+2587351000006111	Hypertensive pulmonary venous disease
+2587341000006114	Pulmonary hypertensive venous disease
+2674471000006117	Progressive pulmonary hypertension
+3852881000006110	Eisenmenger defect
+3852871000006112	Eisenmenger's defect
+3920791000006111	Episodic pulmonary hypertension
+5056151000006119	PFC - Persistent fetal circulation
+5056141000006116	Persistent pulmonary hypertension of the newborn
+5056161000006117	PPHN - Persistent pulmonary hypertension in newborn
+5056171000006112	PFC - Persistent foetal circulation
+5060851000006117	Familial pulmonary capillary haemangiomatosis
+5060861000006115	Familial pulmonary capillary hemangiomatosis
+6214691000006113	Post-capillary pulmonary hypertension
+6214701000006113	Postcapillary pulmonary hypertension
+2598551000006118	ICC - Indian childhood cirrhosis
+11267010	Indian childhood cirrhosis
+2598561000006116	Cirrhosis-familial with pulmonary hypertension
+7052811000006113	Right heart failure due to pulmonary hypertension
+7304991000006113	Portopulmonary hypertension
+7304981000006110	Pulmonary arterial hypertension associated with portal hypertension
+7477471000006110	Pulmonary venous hypertension due to compression of pulmonary great vein
+7477501000006115	Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy
+7477531000006111	Pulmonary venous hypertension due to compression of pulmonary great vein by tumor
+7477521000006113	Pulmonary venous hypertension due to compression of pulmonary great vein by tumour
+7477511000006117	Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm
+7477491000006111	Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis
+7477481000006113	Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis
+7477461000006115	Pulmonary venous hypertension as complication of procedure
+7477971000006118	Pulmonary hypertension due to left heart disease
+7477981000006115	Pulmonary venous hypertension due to disorder of left heart
+7501901000006118	Pulmonary hypertension due to myeloproliferative disorder
+7501631000006115	Heritable pulmonary arterial hypertension due to BMPR2 mutation
+7501641000006113	Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation
+7501991000006113	Pulmonary hypertension due to systolic left ventricular dysfunction
+7501981000006110	Pulmonary hypertension due to systolic systemic ventricular dysfunction
+7501911000006115	Pulmonary hypertension due to post-splenectomy haematological disorder
+7501921000006111	Pulmonary hypertension due to post-splenectomy hematological disorder
+7501621000006118	Idiopathic pulmonary arterial hypertension
+7502001000006110	Pulmonary hypertension due to diastolic systemic ventricular dysfunction
+7502011000006113	Pulmonary hypertension due to diastolic left ventricular dysfunction
+7501801000006112	Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis
+7501791000006111	Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis
+7501771000006110	Pulmonary arterial hypertension associated with chronic haemolytic anaemia
+7501781000006113	Pulmonary arterial hypertension associated with chronic hemolytic anemia
+7501861000006113	Pulmonary hypertension due to alveolar hypoventilation disorder
+7501831000006116	Pulmonary hypertension due to interstitial lung disease
+7501931000006114	Pulmonary hypertension in systemic disorder
+7501871000006118	Pulmonary hypertension due to developmental abnormality of the lung
+7501751000006117	Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt
+7501811000006110	Pulmonary hypertension due to lung disease and/or hypoxia
+7501941000006116	Pulmonary hypertension in sarcoidosis
+7501681000006119	Pulmonary arterial hypertension induced by toxin
+7501691000006116	Pulmonary arterial hypertension caused by toxin
+7501971000006112	Pulmonary hypertension in neurofibromatosis
+7501711000006118	Pulmonary arterial hypertension associated with connective tissue disease
+7501671000006117	Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation
+7501651000006110	Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation
+7501661000006112	Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation
+7501891000006117	Pulmonary hypertension due to hematological disorder
+7501881000006115	Pulmonary hypertension due to haematological disorder
+7501611000006114	Heritable pulmonary arterial hypertension
+7502031000006119	Pulmonary venous hypertension due to congenital stenosis of pulmonary vein
+7501851000006111	Pulmonary hypertension due to sleep-disordered breathing
+7501951000006119	Pulmonary hypertension in Langerhans cell histiocytosis
+7502021000006117	Pulmonary hypertension due to left-sided valvular heart disease
+7501961000006117	Pulmonary hypertension in lymphangioleiomyomatosis
+7501761000006115	Pulmonary arterial hypertension associated with schistosomiasis
+7501821000006119	Pulmonary hypertension due to chronic obstructive pulmonary disease
+7501841000006114	Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern
+7501701000006116	Associated pulmonary arterial hypertension
+7501601000006111	Precapillary pulmonary hypertension
+7501721000006114	Pulmonary arterial hypertension associated with HIV infection
+7501731000006112	Pulmonary arterial hypertension associated with human immunodeficiency virus infection
+7501741000006119	Pulmonary arterial hypertension associated with congenital heart disease
+7574361000006112	Pulmonary hypertension due to vasculitis
+7574371000006117	Pulmonary hypertension in vasculitis
+7617191000006113	Chronic pulmonary thromboembolism without pulmonary hypertension

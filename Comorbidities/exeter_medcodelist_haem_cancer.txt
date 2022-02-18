@@ -1,0 +1,3220 @@
+medcodeid	term_medcode
+4420291000006118	Chronic leukemia - category
+306921000006118	Chronic leukaemia (category)
+11906511000006110	Chronic leukemia (category)
+4420271000006119	Chronic leukaemia (category)
+4420301000006117	Chronic leukaemia - category
+5602131000006110	Hodgkin disease, nodular sclerosis - lymphocytic predominance
+5602121000006112	Hodgkin's disease, nodular sclerosis - lymphocytic predominance
+1815161000006119	Follicular lymphoma grade 1
+4753341000006118	Chronic eosinophilic leukemia
+289895014	Chronic eosinophilic leukaemia
+289721016	Nodular lymphoma of lymph nodes of axilla and upper limb
+5602621000006117	High grade T-cell lymphoma
+289911017	Other myeloid leukaemia NOS
+4753301000006115	Myeloid leukemia
+4753311000006117	Granulocytic leukemia
+292178015	[X]Other myeloid leukaemia
+289907011	Other myeloid leukaemia
+289892012	Myeloid leukaemia
+4753321000006113	Granulocytic leukaemia
+289912012	Myeloid leukaemia NOS
+313001000006116	[M]Monostotic myeloma
+316711000006113	[M]Solitary myeloma
+2669161000006111	Plasma cell tumor
+315471000006118	Plasmacytoma
+11903701000006110	Solitary myeloma
+2669201000006117	Plasma cell tumour
+2669181000006118	Solitary plasmacytoma
+2669211000006119	Solitary plasmacytoma of bone
+2669191000006115	Plasmacytoma of bone
+4751511000006110	Burkitt lymphoma of lymph nodes of head, face and neck
+289603013	Burkitt's lymphoma of lymph nodes of head, face and neck
+289611015	Burkitt's lymphoma of lymph nodes of multiple sites
+4751651000006112	Burkitt lymphoma of lymph nodes of multiple sites
+3563371000006116	LCH - Langerhan's cell histiocytosis
+293617011	Histiocytosis X , unspecified
+378182015	Ayala's disease
+3563381000006118	Langerhan's cell histiocytosis
+3563341000006112	Histiocytosis X
+967761000006115	Langerhans cell histiocytosis
+293618018	Histiocytosis, unspecified
+1815261000006114	Multifocal and unisystemic Langerhans-cell histiocytosis
+3563351000006114	Langerhans cell disease
+3563361000006111	Differentiated progressive histiocytosis
+289924017	Subacute monocytic leukaemia
+880901000006110	Monocytic leukaemia - subacute
+4753561000006114	Subacute monocytic leukemia
+289709015	Hodgkin's disease of intrapelvic lymph nodes
+4022141000006110	Hodgkin disease of intrapelvic lymph nodes
+4022131000006117	Hodgkin's disease of intrapelvic lymph nodes
+311911000006116	[M]Malignant lymphoma, stem cell type
+4757371000006118	Malignant lymphoma, stem cell type
+6051621000006113	Low grade T-cell lymphoma morphology
+4751591000006117	Burkitt lymphoma of lymph nodes of inguinal region and lower limb
+527801000006112	Burkitt's lymphoma of lymph nodes of inguinal region and lower limb
+154184011	Malignant histiocytosis of intrapelvic lymph nodes
+154081017	Letterer-Siwe disease of intrapelvic lymph nodes
+4415551000006111	Hodgkin's disease, lymphocyte predominance [obs]
+4415531000006116	Hodgkin's disease, lymphocytic-histiocytic predominance [obs]
+4415541000006114	Hodgkin's disease, lymphocyte predominance, diffuse [obs]
+291931019	[M]Hodgkin's disease, lymphocytic predominance
+4415561000006113	Classical Hodgkin lymphoma, lymphocyte-rich
+291932014	Hodgkin lymphoma, lymphocyte-rich
+4415521000006119	Hodgkin lymphoma, lymphocyte-rich
+5608051000006117	Malignant lymphoma of breast
+5601191000006118	T-cell prolymphocytic leukemia
+2168661000000116	Prolymphocytic leukemia of T-cell type
+414151014	T-cell prolymphocytic leukaemia
+3235731000006118	Hodgkin disease, nodular sclerosis, mixed cellularity
+3235711000006112	Hodgkin lymphoma, nodular sclerosis, grade 1
+310141000006111	[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predominance
+291933016	Hodgkin lymphoma, nodular sclerosis, grade 1
+3235751000006113	Classical Hodgkin lymphoma, nodular sclerosis, grade 1
+3235721000006116	Hodgkin's disease, nodular sclerosis, lymphocytic predominance
+3235741000006111	Hodgkin disease, nodular sclerosis, lymphocyte predominance
+5912081000006112	Nodular malignant lymphoma, lymphocytic - well differentiated
+154798010	Hodgkin's disease, mixed cellularity of spleen
+4021981000006114	Hodgkin disease, mixed cellularity of spleen
+289726014	Nodular lymphoma NOS
+673611000006113	Nodular lymphoma
+169581000006112	Reticulosarcoma - follicular or nodular
+289717011	Nodular lymphoma of unspecified site
+1229767019	[M]Hodgkin's disease, mixed cellularity
+3169161000006115	Hodgkin lymphoma, mixed cellularity
+3169171000006110	Hodgkin's disease, mixed cellularity
+3169181000006113	Classical Hodgkin lymphoma, mixed cellularity
+292193016	[X]Unspecified B-cell non-Hodgkin's lymphoma
+82041000006113	B-cell non-Hodgkin's lymphoma
+5095251000006111	Leukaemic infiltrate of kidney
+5095261000006113	Leukemic infiltrate of kidney
+5971081000006112	Omenn's syndrome
+5971071000006114	Histiocytic medullary reticulosis
+6632971000006115	Primary cutaneous lymphoma
+289616013	Hodgkin's paragranuloma of unspecified site
+289627010	Hodgkin's paragranuloma NOS
+12704881000006116	Hodgkin's paragranuloma
+4309481000006114	Hodgkin lymphoma, nodular lymphocyte predominance
+4309471000006111	Hodgkin's paragranuloma (clinical)
+826681000006115	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)
+2168431000000112	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)
+291969012	[M]Plasma cell tumours
+291974016	Plasma cell neoplasm (morphology)
+4400421000006110	Plasma cell neoplasm
+5602341000006119	Monocytoid B-cell lymphoma
+5970831000006113	Hodgkin disease, lymphocytic depletion, reticular type
+5970821000006110	Hodgkin's disease, lymphocytic depletion, reticular type
+4015731000006118	Leukemic reticuloendotheliosis of lymph nodes of multiple sites
+744991000006119	Leukaemic reticuloendotheliosis of lymph nodes of multiple sites
+4016371000006113	Malignant lymphoma of lymph nodes of multiple sites
+289847017	Malignant lymphoma of lymph nodes of multiple sites
+5602611000006113	Low grade T-cell lymphoma
+7711131000006114	Burkitt's lymphoma co-occurrent with human immunodeficiency virus infection
+287029018	Burkitt lymphoma co-occurrent with human immunodeficiency virus infection
+2168331000000117	HIV disease resulting in Burkitt lymphoma
+289829011	Malignant lymphoma NOS
+4309351000006113	Lymphoma
+11925941000006115	Malignant lymphoma NOS of intrathoracic lymph nodes
+11925921000006110	Malignant lymphoma NOS of intra-abdominal lymph nodes
+81411000006113	Unspec malig neop lymphoid/histiocytic lymph node axilla/arm
+81441000006112	Unspec malig neop lymphoid/histiocytic of intrapelvic nodes
+81451000006114	Unspec malig neop lymphoid/histiocytic of intrathoracic node
+81471000006116	Unspec malig neop lymphoid/histiocytic of spleen
+11925951000006118	Malignant lymphoma NOS of lymph node inguinal region and leg
+11925961000006116	Malignant lymphoma NOS of lymph nodes of axilla and arm
+11925931000006113	Malignant lymphoma NOS of intrapelvic lymph nodes
+289849019	Malignant neoplasms of lymphoid and histiocytic tissue NOS
+81431000006119	Unspec malig neop lymphoid/histiocytic nodes inguinal/leg
+4309331000006118	Lymphoma (clinical)
+289830018	Malignant lymphoma NOS of unspecified site
+11926001000006113	Malignant lymphoma NOS of spleen
+81401000006110	Unspec malig neop lymphoid/histiocytic intra-abdominal nodes
+81421000006117	Unspec malig neop lymphoid/histiocytic lymph node head/neck
+81461000006111	Unspec malig neop lymphoid/histiocytic of multiple sites
+11925981000006114	Malignant lymphoma NOS of lymph nodes of multiple sites
+81481000006118	Unspec malig neop lymphoid/histiocytic of unspecified site
+11925971000006111	Malignant lymphoma NOS of lymph nodes of head, face and neck
+289820010	Malignant lymphoma (clinical)
+728721000006111	Malignant lymphoma
+510217015	Leukaemic reticuloendotheliosis of intrapelvic lymph nodes
+4015631000006110	Leukemic reticuloendotheliosis of intrapelvic lymph nodes
+3550231000006111	Malignant lymphoma, lymphocytic, diffuse
+3550291000006110	Malignant lymphoma, small B lymphocytic
+3550251000006116	Malignant lymphoma, lymphocytic, well differentiated, diffuse
+3550241000006118	Malignant lymphoma, small cell
+3550271000006114	Malignant lymphoma, lymphocytic
+3550221000006113	Malignant lymphoma, small lymphocytic
+3550261000006119	Malignant lymphoma, small lymphocytic, diffuse
+1232576019	[M]Malignant lymphoma, small lymphocytic NOS
+3550281000006112	Malignant lymphoma, small cell diffuse
+198006010	Diffuse large B-cell lymphoma
+289593014	Lymphosarcoma of lymph nodes of head, face and neck
+5602261000006113	Nodular malignant lymphoma
+5602251000006111	Follicular low grade B-cell lymphoma
+5602461000006114	Diffuse malignant lymphoma - centroblastic polymorphic
+94699019	Lymphoma stage III
+2663473018	Hodgkin's disease
+292169014	[X]Other Hodgkin's disease
+826121000006114	Hodgkin's disease NOS
+11926881000006112	Hodgkin's disease NOS of lymph nodes of head, face and neck
+11926871000006114	Hodgkin's disease NOS of lymph nodes of axilla and arm
+4309301000006114	Hodgkin disease
+11926831000006111	Hodgkin's disease NOS of intra-abdominal lymph nodes
+11926861000006119	Hodgkin's disease NOS of lymph nodes inguinal region and leg
+11926901000006114	Hodgkin's disease NOS of spleen
+4309311000006112	Lymphoma, Hodgkins
+1815091000006114	Other classical Hodgkin lymphoma
+11926851000006116	Hodgkin's disease NOS of intrathoracic lymph nodes
+289702012	Hodgkin's disease NOS
+1815101000006115	Hodgkin's disease (clinical)
+4309271000006112	HD - Hodgkin's disease
+11926841000006118	Hodgkin's disease NOS of intrapelvic lymph nodes
+1815031000006110	Hodgkin lymphoma
+289703019	Hodgkin's disease NOS, unspecified site
+11926891000006110	Hodgkin's disease NOS of lymph nodes of multiple sites
+4309281000006110	Malignant Hodgkin's lymphoma
+2168691000000110	Lymphoblastic (diffuse) lymphoma
+4172281000006117	Diffuse non-Hodgkin lymphoma, lymphoblastic
+4172291000006119	Lymphoblastic lymphoma, diffuse
+4172271000006115	Diffuse non-Hodgkin's lymphoma, lymphoblastic
+621071000006112	Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)
+4172251000006113	Lymphoblastic lymphoma
+4172261000006110	Malignant lymphoma - lymphoblastic
+4172241000006111	Lymphoblastoma
+5602511000006112	Large cell anaplastic lymphoma
+5602521000006116	(Ki-1+) lymphoma
+4417361000006111	Chronic myelomonocytic leukaemia, Type II
+4417311000006113	Chronic myelomonocytic leukemia, Type I
+4417341000006112	Chronic myelomonocytic leukaemia in transformation [obs]
+4417321000006117	Chronic myelomonocytic leukemia in transformation [obs]
+4417301000006110	Chronic myelomonocytic leukemia, Type II
+4417331000006119	Chronic myelomonocytic leukemia
+4417351000006114	Chronic myelomonocytic leukaemia, Type I
+306971000006117	Chronic myelomonocytic leukaemia
+826551000006110	Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes
+4752291000006113	Hodgkin disease, mixed cellularity of intrapelvic lymph nodes
+720161000006119	Malignant reticuloendotheliosis
+4309871000006113	Acute progressive histiocytosis X
+4309861000006118	LSD - Letterer-Siwe disease
+4309851000006115	Acute infancy reticulosis
+289780018	Letterer-Siwe disease NOS
+289776011	Letterer-Siwe disease of unspecified sites
+4309881000006111	Langerhans cell histiocytosis, disseminated
+745971000006116	Letterer-Siwe disease (clinical)
+1815241000006110	Multifocal multisystemic dissem Langerhans-cell histiocytosi
+824231000006111	Histiocytosis X (acute, progressive)
+4309831000006110	Langerhans cell histiocytosis, disseminated (clinical)
+6051601000006115	High grade T-cell lymphoma morphology
+826611000006110	Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck
+4752051000006111	Hodgkin disease, nodular sclerosis of lymph nodes of head, face and neck
+157745018	Reticulosarcoma of intra-abdominal lymph nodes
+5602371000006110	Follicular malignant lymphoma - small cleaved cell
+414257019	Follicular non-Hodgkin's small cleaved cell lymphoma
+6051611000006117	Diffuse low grade B-cell lymphoma morphology
+673681000006118	Nodular lymphoma of lymph nodes of inguinal region and lower limb
+4753131000006114	Diffuse non-Hodgkin lymphoma undifferentiated (diffuse)
+289812013	Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)
+5599791000006114	B-CLL - B-cell chronic lymphocytic leukemia
+5599811000006113	B-cell chronic lymphocytic leukemia
+2168681000000113	Chronic lymphocytic leukaemia of B-cell type
+414008012	B-cell chronic lymphocytic leukaemia
+5599801000006110	B-CLL - B-cell chronic lymphocytic leukaemia
+289980011	Subacute myelomonocytic leukaemia
+4753661000006110	Subacute myelomonocytic leukemia
+716871000006112	Mast cell leukaemia
+4173481000006112	Mast cell leukaemia (clinical)
+4173511000006116	Mast cell leukemia
+4173491000006110	Mast cell leukemia (clinical)
+1815181000006112	Follicular lymphoma grade 3
+3208301000006113	Hodgkin's disease, nodular sclerosis, lymphocyte depletion
+3208281000006114	Hodgkin's disease, nodular sclerosis, lymphocytic depletion
+3208291000006112	Hodgkin's disease, nodular sclerosis, syncytial variant
+310131000006118	[M]Hodgkin's disease, nodular sclerosis, lymphocytic depletion
+3208311000006111	Classical Hodgkin lymphoma, nodular sclerosis, grade 2
+3208271000006111	Hodgkin lymphoma, nodular sclerosis, grade 2
+4173771000006119	Adult T-cell leukemia/lymphoma
+4173791000006118	Adult T-cell leukaemia/lymphoma (clinical)
+1815601000006111	Adult T-cell leukaemia/lymphoma
+4173781000006116	Adult T-cell leukemia/lymphoma (clinical)
+4021781000006112	Hodgkin disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes
+826931000006110	Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes
+3656771000006111	Classical Hodgkin lymphoma, lymphocyte depletion, reticular
+3656751000006118	Hodgkin lymphoma, lymphocyte depletion, reticular
+3656761000006116	Hodgkin's disease, lymphocytic depletion, reticular
+1233353010	[M]Hodgkin's disease, lymphocytic depletion, reticular type
+2124991000000117	Acute myeloid leukaemia with 11q23 abnormality
+4172771000006111	Alpha heavy chain disease (clinical)
+2659763011	Alpha heavy chain disease
+4022691000006112	Hodgkin sarcoma of spleen
+154872012	Hodgkin's sarcoma of spleen
+157072019	Mycosis fungoides of intrapelvic lymph nodes
+5602731000006111	Peripheral T-cell lymphoma - pleomorphic medium and large cell
+154089015	Letterer-Siwe disease of lymph nodes of multiple sites
+4022211000006117	Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb
+4022221000006113	Hodgkin disease of lymph nodes of inguinal region AND/OR lower limb
+826171000006110	Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb
+824241000006118	Histiocytosis X (chronic)
+824251000006116	Histiocytosis X , chronic
+4760611000006111	Histiocytosis X syndrome
+4752091000006117	Hodgkin disease, nodular sclerosis of intra-abdominal lymph nodes
+826631000006116	Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes
+4015651000006115	Leukemic reticuloendotheliosis of intrathoracic lymph nodes
+510218013	Leukaemic reticuloendotheliosis of intrathoracic lymph nodes
+6841311000006111	M5b - Acute monocytic leukaemia
+6841281000006114	Acute monocytic leukemia
+880881000006113	Monocytic leukaemia - acute
+2534415018	Acute monocytic leukaemia
+6841301000006113	M5b - Acute monocytic leukemia
+6841321000006115	Acute monocytic leukaemia, FAB M5b
+6841291000006112	Acute monocytic leukemia, FAB M5b
+5600971000006112	CLL/PLL - Chronic lymphocytic prolymphocytic leukaemia syndrome
+5600951000006119	Chronic lymphocytic prolymphocytic leukemia syndrome
+5600941000006116	Chronic lymphocytic prolymphocytic leukaemia syndrome
+5600961000006117	CLL/PLL - Chronic lymphocytic prolymphocytic leukemia syndrome
+289711012	Hodgkin's disease of lymph nodes of multiple sites
+4022231000006111	Hodgkin's disease of lymph nodes of multiple sites
+4022241000006118	Hodgkin disease of lymph nodes of multiple sites
+414253015	Maltoma
+414252013	Mucosa-associated lymphoma
+683691000006113	Mycosis fungoides of lymph nodes of inguinal region and lower limb
+4042841000006117	Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb
+4752611000006117	Sézary's disease of intra-abdominal lymph nodes
+289743012	Sezary's disease of intra-abdominal lymph nodes
+4752641000006118	Lymphoma intra abdominal, Sezarys
+4752631000006111	Sézary disease of intra-abdominal lymph nodes
+289613017	Other specified reticulosarcoma or lymphosarcoma
+289580016	Lymphosarcoma and reticulosarcoma
+289614011	Reticulosarcoma or lymphosarcoma NOS
+5149061000006119	African Burkitt's lymphoma
+5149071000006114	African Burkitt lymphoma
+5356021000006114	Sezary's disease of skin
+5356011000006118	Sézary disease of skin
+5567551000006115	Malignant lymphoma - lymphocytic, intermediate differentiation
+5567561000006118	Mantle zone lymphoma
+5706071000006119	M3V - Acute promyelocytic leukaemia - hypogranular variant
+5706051000006112	Acute promyelocytic leukemia - hypogranular variant
+5706061000006114	M3V - Acute promyelocytic leukemia - hypogranular variant
+5706041000006110	Acute promyelocytic leukaemia - hypogranular variant
+157751011	Reticulosarcoma of lymph nodes of multiple sites
+4752411000006119	Hodgkin disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb
+826481000006118	Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb
+5602231000006116	Diffuse low grade B-cell lymphoma
+169651000006115	Reticulosarcoma of lymph nodes of inguinal region and lower limb
+4752451000006118	Hodgkin disease, lymphocytic depletion of spleen
+289699017	Hodgkin's disease, lymphocytic depletion of spleen
+2578371000006114	Sezary's disease
+2578401000006112	Sézary's disease
+2578361000006119	Sezary syndrome
+2578391000006110	Sézary's syndrome
+1230735015	[M]Sezary's disease
+2578411000006110	Sézary disease
+289903010	Chloroma
+312231000006113	[M]Megakaryocytic myelosis
+3346491000006111	Acute megakaryoblastic leukaemia, morphology
+12702821000006113	Acute megakaryoblastic leukaemia
+317571000006112	[M]Thrombocytic leukaemia
+292073010	[M]Acute megakaryoblastic leukaemia
+312211000006119	Acute megakaryoblastic leukaemia
+3346441000006119	Malignant megakaryocytosis
+3346481000006113	Megakaryocytic leukaemia
+3346471000006110	Megakaryoblastic leukaemia
+3346431000006112	Megakaryocytic myelosis
+3346421000006114	Megakaryocytic leukemia
+3346451000006117	Megakaryoblastic leukemia
+3346501000006115	Acute megakaryoblastic leukemia, morphology
+3346461000006115	FAB M7
+3346411000006118	Acute megakaryoblastic leukemia
+289596018	Lymphosarcoma of lymph nodes of axilla and upper limb
+5601721000006119	Atypical chronic myeloid leukemia
+5601711000006110	Atypical chronic myeloid leukaemia
+154082012	Letterer-Siwe disease of intrathoracic lymph nodes
+2532159017	Extramedullary plasmacytoma
+289867014	Malignant plasma cell neoplasm, extramedullary plasmacytoma
+4753171000006112	Extramedullary plasmacytoma (clinical)
+291923012	[M]Reticulosarcoma NOS
+316001000006112	[M]Reticulum cell sarcoma NOS
+4757441000006118	Reticulum cell sarcoma morphology
+4757421000006113	Reticulosarcoma morphology
+315951000006117	[M]Reticulosarcoma NOS
+315991000006111	[M]Reticulosarcomas
+5602151000006115	Hodgkin disease, nodular sclerosis - mixed cellularity
+5602141000006117	Hodgkin's disease, nodular sclerosis - mixed cellularity
+5602281000006115	B-cell prolymphocytic leukemia
+2168671000000111	Prolymphocytic leukaemia of B-cell type
+414248013	B-cell prolymphocytic leukaemia
+5602291000006117	Prolymphocytic leukemia of B-cell type
+4172691000006117	Peripheral T-cell lymphoma (clinical)
+2659756011	Peripheral T-cell lymphoma
+289785011	Mast cell malignancy of intrathoracic lymph nodes
+6051631000006111	Nodular high grade B-cell lymphoma morphology
+6204561000006115	M0 - Acute myeloblastic leukaemia - undifferentiated
+6204541000006119	Acute myeloid leukemia, minimal differentiation, FAB M0
+6204531000006112	Acute myeloid leukaemia, minimal differentiation, FAB M0
+6204551000006117	M0 - Acute myeloblastic leukemia - undifferentiated
+4016361000006118	Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb
+728771000006112	Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb
+311631000006116	[M]Malignant lymphoma, mixed lymphocytic-histiocytic, nodular
+3393081000006117	Malignant lymphoma, mixed cell type, follicular
+3393071000006115	Malignant lymphoma, mixed lymphocytic-histiocytic, nodular
+3393051000006113	Follicular lymphoma, grade 2
+3393061000006110	Malignant lymphoma, mixed small cleaved and large cell, follicular
+315931000006112	[M]Reticulolymphosarcoma, follicular
+315941000006119	[M]Reticulolymphosarcoma, nodular
+3393091000006119	Malignant lymphoma, mixed cell type, nodular
+292274012	[X]Myelodysplastic syndrome, unspecified
+4173251000006117	MDS - Myelodysplastic syndrome
+683071000006116	Myelodysplastic syndrome
+683051000006114	Myelodysplasia
+683041000006112	Myelodysplastic syndrome (clinical)
+399761000006116	[X]Neoplasm/uncertn+unknwn behavior/oth myelodysplastic synd
+1228267010	[M]Granulocytic sarcoma
+3068751000006116	Myeloid sarcoma, morphology
+3068701000006115	Chloroma
+3068711000006117	Granulocytic sarcoma
+3068691000006115	Myeloid sarcoma
+1228268017	[M]Chloroma
+1228269013	[M]Myeloid sarcoma
+289605018	Burkitt's lymphoma of intra-abdominal lymph nodes
+4751551000006111	Burkitt lymphoma of intra-abdominal lymph nodes
+4752841000006117	Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb
+747131000006114	Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb
+2233381000000115	Clinical stage A chronic lymphocytic leukaemia
+344670010	Lymphoepithelioid lymphoma
+4172661000006113	Lymphoepithelioid lymphoma (clinical)
+4172681000006115	Lennert's lymphoma
+289917018	Monocytic leukaemia
+289919015	Monoblastic leukaemia
+289921013	Histiocytic leukaemia
+289933015	Monocytic leukaemia NOS
+4753471000006118	Schilling-type monocytic leukemia
+4753461000006113	Histiocytic leukemia
+4753481000006115	Monoblastic leukemia
+289926015	Other monocytic leukaemia
+4753511000006111	Schilling-type monocytic leukaemia
+292181013	[X]Other monocytic leukaemia
+4753491000006117	Monocytic leukemia
+289930017	Other monocytic leukaemia NOS
+474077018	Chronic myelomonocytic leukaemia
+4395141000006112	Chronic myelomonocytic leukemia
+4752131000006115	Hodgkin disease, nodular sclerosis of lymph nodes of inguinal region and lower limb
+826621000006119	Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb
+2124511000000117	Follicular lymphoma grade 3b
+289621011	Hodgkin's paragranuloma of intra-abdominal lymph nodes
+826921000006112	Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes
+4021761000006119	Hodgkin disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes
+289923011	Chronic monocytic leukaemia
+880891000006111	Monocytic leukaemia - chronic
+4753541000006110	Chronic monocytic leukemia
+1211679013	Reticulosarcoma
+289581017	Reticulosarcoma of unspecified site
+6377241000006110	Reticulum cell sarcoma
+289590012	Reticulosarcoma NOS
+7057431000006118	Solitary plasmacytoma of bone
+7057451000006113	SOM disease
+7057421000006116	Solitary osseous myeloma
+7057441000006111	Monostotic myeloma
+4172751000006118	Malignant immunoproliferative disease (clinical)
+292175017	Malignant immunoproliferative disease (clinical)
+4172761000006116	Malignant immunoproliferative disease
+4753281000006119	Adult T-cell leukemia
+289885019	Adult T-cell leukaemia
+4752391000006119	Hodgkin disease, lymphocytic depletion of lymph nodes of axilla and upper limb
+826471000006116	Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb
+880781000006115	Lymphatic tissue carcinoma
+5511751000006115	Hematologic malignancy
+727811000006111	Malignant neoplasm lymphatic or haematopoietic tissue OS
+396101000006112	Malignant tumour of lymphoid haemopoietic and related tissue
+11919601000006115	[X]Other malignant immunoproliferative diseases
+725221000006111	Malignant neoplasm of histiocytic tissue
+403705015	Malignant neoplasm of lymphatic and haemopoietic tissue
+396621000006114	[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue
+5511741000006117	Malignant tumor of lymphoid hemopoietic and related tissue
+405081000006118	[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue
+5511731000006110	Malignant neoplasm of lymphatic and hemopoietic tissue
+5511771000006113	Malignant tumor of lymphoid, hemopoietic AND/OR related tissue
+5511761000006118	Haematologic malignancy
+289987014	Malignant neoplasm lymphatic or haematopoietic tissue NOS
+403710016	Lymphoid and histiocytic malignancy NOS
+5914271000006113	Malignant lymphoma, follicular centre cell, cleaved
+5914281000006111	Malignant lymphoma, follicular center cell, cleaved
+11902611000006112	T-cell lymphoma (clinical)
+207325017	T-cell lymphoma
+289876019	Lymphoid leukaemia
+289881011	Other lymphoid leukaemia
+292177013	[X]Other lymphoid leukaemia
+731621000006113	Lymphosarcoma cell leukaemia
+4753221000006118	Lymphatic leukemia
+289888017	Other lymphoid leukaemia NOS
+289889013	Lymphoid leukaemia NOS
+289875015	Lymphatic leukaemia
+4753211000006114	Lymphoid leukemia
+3992641000006117	ALL - Acute lymphoblastic leukemia
+3992651000006115	Acute lymphoid leukaemia, disease
+880821000006114	Lymphoid leukaemia - acute
+3992621000006112	Acute lymphoid leukemia
+3992661000006118	Acute lymphoid leukemia, disease
+509741017	Acute lymphoid leukaemia
+3992631000006110	ALL - Acute lymphoblastic leukaemia
+4021801000006111	Hodgkin disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes
+826941000006117	Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes
+154090012	Letterer-Siwe disease of spleen
+289742019	Sezary's disease of intrathoracic lymph nodes
+4752601000006115	Sézary disease of intrathoracic lymph nodes
+4752581000006113	Sézary's disease of intrathoracic lymph nodes
+1216016010	[M]Mast cell leukaemia
+4420081000006111	Mast cell leukaemia
+4420091000006114	Mast cell leukemia
+4752011000006110	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb
+826911000006116	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb
+4213441000006111	Hodgkin's disease, lymphocytic depletion
+215913019	Hodgkin lymphoma, lymphocyte depletion
+4213431000006118	Hodgkin lymphoma, lymphocyte depletion
+4213451000006113	Classical Hodgkin lymphoma, lymphocyte depletion
+4751961000006119	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck
+826951000006115	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck
+4173721000006115	PLL - Prolymphocytic leukaemia
+202801000006110	Prolymphocytic leukaemia
+4173711000006111	Prolymphocytic leukemia (clinical)
+4173731000006117	PLL - Prolymphocytic leukemia
+4173751000006112	Prolymphocytic leukemia
+4173701000006113	Prolymphocytic leukaemia (clinical)
+312137011	Osteoporosis in multiple myelomatosis
+3535828010	Osteoporosis co-occurrent and due to multiple myeloma
+6204811000006116	Acute myeloid leukemia with maturation, FAB M2
+6204831000006110	M2 - Acute myeloblastic leukaemia with maturation
+6204801000006119	Acute myeloid leukaemia with maturation, FAB M2
+6204821000006112	M2 - Acute myeloblastic leukemia with maturation
+311461000006111	Malignant lymphoma, follicular AND/OR nodular
+4753581000006116	Aleukemic monocytic leukemia
+289928019	Aleukaemic monocytic leukaemia
+126918018	Lymphoma stage II
+157746017	Reticulosarcoma of intrapelvic lymph nodes
+289669014	Hodgkin's disease, nodular sclerosis NOS
+4309571000006110	Hodgkin disease, nodular sclerosis
+4309551000006117	Hodgkin's disease, nodular sclerosis (clinical)
+289660013	Hodgkin's disease, nodular sclerosis of unspecified site
+1815051000006115	Nodular sclerosis classical Hodgkin lymphoma
+1220414014	Hodgkin's disease, nodular sclerosis
+1215905010	Burkitt's tumour
+2663190016	Burkitt's lymphoma
+4310011000006116	Burkitt's type malignant lymphoma - undifferentiated
+4310041000006117	BL - Burkitt's lymphoma
+4310061000006118	Burkitt lymphoma
+4310021000006112	Burkitt's lymphoma - disorder
+4310031000006110	Burkitt's type malignant lymphoma - small non-cleaved
+289602015	Burkitt's lymphoma of unspecified site
+4310001000006119	Burkitt's tumor
+4309981000006116	Burkitt's lymphoma (clinical)
+289612010	Burkitt's lymphoma NOS
+3713291000006112	Mantle cell lymphoma
+3713331000006117	Malignant lymphoma, centrocytic [obs]
+3713301000006113	Mantle zone lymphoma [obs]
+311641000006114	[M]Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse
+3713321000006115	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse [obs]
+3713311000006111	Malignant lymphomatous polyposis
+291913015	[M]Malignant lymphomatous polyposis
+728581000006115	Malignant histiocytosis of lymph nodes of inguinal region and lower limb
+4022301000006111	Hodgkin granuloma of intrapelvic lymph nodes
+154837014	Hodgkin's granuloma of intrapelvic lymph nodes
+293380012	Waldenstrom's macroglobulinaemia
+4760011000006118	Waldenstrom's macroglobulinemia
+4760001000006116	Waldenström macroglobulinaemia
+4760031000006112	Waldenström macroglobulinemia
+2168841000000118	Waldenstrom macroglobulinaemia
+5602111000006116	Hodgkin disease, lymphocytic predominance - diffuse
+5602101000006119	Hodgkin's disease, lymphocytic predominance - diffuse
+5602391000006111	Diffuse high grade B-cell lymphoma
+1815331000006113	Cutaneous T-cell lymphoma
+6635071000006113	Primary cutaneous T-cell lymphoma
+6635091000006114	CTCL - Cutaneous T-cell lymphoma
+826501000006111	Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck
+4752331000006118	Hodgkin disease, lymphocytic depletion of lymph nodes of head, face and neck
+5600981000006110	Richter's syndrome
+5600991000006113	Richter syndrome
+6051551000006117	B-cell lymphoma morphology
+289595019	Lymphosarcoma of intra-abdominal lymph nodes
+4751861000006110	Hodgkin granuloma of lymph nodes of multiple sites
+289637017	Hodgkin's granuloma of lymph nodes of multiple sites
+157693017	Nodular lymphoma of spleen
+157081013	Mycosis fungoides of spleen
+4753611000006112	Megakaryocytic leukemia
+4753601000006114	Thrombocytic leukemia
+289948014	Thrombocytic leukaemia
+289949018	Megakaryocytic leukaemia
+289582012	Reticulosarcoma of lymph nodes of head, face and neck
+508306011	Hypoproteinaemia
+2642121000006119	Hypoproteinemia
+5970811000006119	Hodgkin disease, lymphocytic depletion, diffuse fibrosis
+5970801000006117	Hodgkin's disease, lymphocytic depletion, diffuse fibrosis
+5602421000006115	Diffuse malignant lymphoma - large non-cleaved cell
+289826016	Malignant immunoproliferative small intestinal disease
+5599851000006114	B-CLL - B-cell chronic lymphocytic leukaemia variant
+5599831000006119	B-cell chronic lymphocytic leukaemia variant
+5599861000006111	B-CLL - B-cell chronic lymphocytic leukemia variant
+5599841000006112	B-cell chronic lymphocytic leukemia variant
+5914291000006114	Malignant lymphoma, follicular centre cell, non-cleaved
+5914301000006110	Malignant lymphoma, follicular center cell, non-cleaved
+4417661000006115	Chronic erythremia [obs]
+11908711000006119	Polycythemia vera
+11906501000006112	[M]Chronic erythraemia
+4417691000006111	Polycythaemia rubra vera
+306911000006114	Polycythaemia vera
+4417641000006119	Proliferative polycythemia
+4417631000006112	Polycythaemia vera
+4417651000006117	Polycythemia rubra vera
+4417681000006113	Chronic erythraemia [obs]
+215920014	[M]Polycythaemia rubra vera
+215919015	Polycythaemia vera
+11989561000006118	Polycythemia vera
+4417701000006111	Proliferative polycythaemia
+157073012	Mycosis fungoides of intrathoracic lymph nodes
+4172741000006115	B-cell lymphoma
+11903061000006113	B-cell lymphoma (clinical)
+3140161000006119	Schuller-Christian syndrome
+3140101000006115	Hand-Schuller-Christian disease
+3140091000006114	Hand-Schüller-Christian disease
+3140181000006112	Schüller-Christian syndrome
+3140121000006113	Chronic disseminated histiocytosis X
+3140191000006110	Multifocal and unisystemic Langerhans cell histiocytosis
+3140171000006114	Generalised histiocytosis of bones
+815441000006111	Hand - Schuller - Christian disease
+3140151000006116	Chronic idiopathic xanthomatosis
+3140141000006118	Generalized histiocytosis of bones
+3140131000006111	Chronic histiocytosis X
+3140111000006117	Chronic differentiated progressive histiocytosis
+4022611000006119	Hodgkin sarcoma of intrathoracic lymph nodes
+154864010	Hodgkin's sarcoma of intrathoracic lymph nodes
+312101000006110	[M]Mast cell sarcoma
+2715221000006118	Mast cell sarcoma
+2715241000006113	Malignant mastocytoma
+2715251000006110	Malignant mast cell tumour
+2715231000006115	Malignant mast cell tumor
+4053021000006113	Plasma cell leukemia, disease
+4053031000006111	Plasma cell leukaemia, disease
+4053011000006117	Plasma cell leukemia
+201743012	Plasma cell leukaemia
+3992571000006114	Acute leukaemia, disease
+3992581000006112	Acute leukemia, disease
+3992561000006119	Acute leukemia
+289964018	Acute leukaemia
+4016381000006111	Malignant lymphoma of spleen
+289846014	Malignant lymphoma of spleen
+309011000006119	[M]Germinoblastic sarcoma, follicular
+3150441000006113	Malignant lymphoma, lymphocytic, well differentiated, nodular [obs]
+3150421000006118	Malignant lymphoma, large cleaved cell, follicular
+3150401000006111	Malignant lymphoma, large cell, noncleaved, follicular
+3150411000006114	Malignant lymphoma, histiocytic, nodular
+3150431000006115	Malignant lymphoma, noncleaved, follicular
+1229648010	[M]Malignant lymphoma, centroblastic type, follicular
+3150381000006111	Follicular lymphoma, grade 3
+3150391000006114	Malignant lymphoma, large cell, follicular
+3150451000006110	Malignant lymphoma, centroblastic, follicular
+6960381000006110	Primary CNS lymphoma with ocular involvement
+6960371000006112	Primary intraocular non-Hodgkin malignant lymphoma
+6960411000006113	Ocular lymphoma
+6960401000006110	Intraocular non-Hodgkin malignant lymphoma
+6960391000006113	Intraocular lymphoma
+1815401000006114	Blastic plasmacytoid dendritic cell neoplasm
+154080016	Letterer-Siwe disease of intra-abdominal lymph nodes
+50949017	Lymphoma stage I
+289599013	Lymphosarcoma of spleen
+2999021000006115	Acute myelomonocytic leukemia
+2999031000006117	FAB M4
+2999011000006111	Acute myelomonocytic leukaemia
+1216346016	[M]Acute myelomonocytic leukaemia
+3072931000006115	Primary macroglobulinaemia
+3072941000006113	Waldenstrom macroglobulinemia
+3072911000006114	Waldenstrom's macroglobulinemia
+318171000006118	Waldenstrom's macroglobulinaemia
+3072921000006118	Primary macroglobulinemia
+123978016	Mantle cell lymphoma
+289783016	Mast cell malignancy
+4015761000006110	Hairy cell leukemia of spleen
+289769018	Leukaemic reticuloendotheliosis of spleen
+4015741000006111	Hairy cell leukaemia of spleen
+4015751000006113	Leukemic reticuloendotheliosis of spleen
+5970851000006118	Hodgkin disease, nodular sclerosis - cellular phase
+5970841000006115	Hodgkin's disease, nodular sclerosis - cellular phase
+5602241000006114	High grade B-cell lymphoma
+289791013	Mast cell malignancy of lymph nodes of multiple sites
+289594015	Lymphosarcoma of intrathoracic lymph nodes
+5601881000006113	Acute monocytoid leukaemia
+5601921000006117	M5a - Acute monoblastic leukemia
+5601911000006113	Acute monocytoid leukemia
+5601901000006110	M5a - Acute monoblastic leukaemia
+414220013	Acute monoblastic leukaemia
+5601891000006111	Naegeli-type monocytic leukaemia
+5601941000006112	Acute monoblastic leukemia
+5601931000006119	Naegeli-type monocytic leukemia
+2663187010	Hodgkin's disease, lymphocytic depletion
+4309621000006113	Hodgkin's disease, lymphocytic depletion (clinical)
+289701017	Hodgkin's disease, lymphocytic depletion NOS
+1815071000006113	Lymphocyte depleted classical Hodgkin lymphoma
+289680014	Hodgkin's lymphocytic depletion of unspecified site
+4309641000006118	Hodgkin disease, lymphocytic depletion
+289710013	Hodgkin's disease of spleen
+4022261000006119	Hodgkin disease of spleen
+4022251000006116	Hodgkin's disease of spleen
+6051571000006110	Follicular low grade B-cell lymphoma morphology
+289608016	Burkitt's lymphoma of intrapelvic lymph nodes
+4751611000006111	Burkitt lymphoma of intrapelvic lymph nodes
+3311441000006119	Malignant lymphoma, centroblastic-centrocytic, diffuse [obs]
+3311421000006114	Malignant lymphoma, mixed lymphocytic-histiocytic, diffuse
+1230828016	[M]Malignant lymphoma, mixed small and large cell, diffuse
+3311431000006112	Malignant lymphoma, mixed cell type, diffuse
+3311451000006117	Malignant lymphoma, centroblastic-centrocytic [obs]
+3311411000006118	Malignant lymphoma, mixed small and large cell, diffuse
+154192019	Malignant histiocytosis of lymph nodes of multiple sites
+2872264019	Acute myeloid leukaemia with multilineage dysplasia
+7308341000006113	Acute myeloid leukemia with myelodysplasia-related changes
+7308311000006114	Acute myeloid leukaemia with myelodysplasia-related changes
+7308331000006115	Acute myeloid leukemia with multilineage dysplasia
+4015491000006111	Letterer-Siwe disease of lymph nodes of inguinal region AND/OR lower limb
+746021000006112	Letterer-Siwe disease of lymph nodes of inguinal region and lower limb
+1221109014	[M]Hodgkin's disease
+2730271000006118	Hodgkin lymphoma, no ICD-O subtype
+2730281000006115	Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype
+2730251000006111	Malignant lymphoma, Hodgkin's
+2730231000006116	Hodgkin lymphoma
+2730241000006114	Hodgkin's disease
+5971011000006117	Germinoblastic sarcoma, follicular
+5971001000006115	Malignant lymphoma, centroblastic type, follicular
+4172811000006111	Gamma heavy chain disease (clinical)
+2659693012	Gamma heavy chain disease
+157688015	Nodular lymphoma of intrathoracic lymph nodes
+157687013	Nodular lymphoma of intrapelvic lymph nodes
+133678011	Acute panmyelosis
+4172971000006113	Acute myelofibrosis (clinical)
+2532080014	Acute panmyelosis with myelofibrosis
+344846014	Acute myelofibrosis
+5970241000006119	Basophilic leukemia
+5970231000006112	Basophilic leukaemia
+307591000006111	[M]Di Guglielmo's disease
+2726721000006113	Di Guglielmo disease [obs]
+11905961000006113	Acute myeloid leukemia, M6 type
+2726821000006118	Acute erythroid leukaemia
+2726701000006115	Erythremic myelosis
+2726751000006116	Acute erythremia [obs]
+2726741000006118	Acute erythremic myelosis [obs]
+2726691000006115	FAB M6
+2726681000006118	Erythroleukemia
+2726671000006116	Acute myeloid leukaemia, M6 type
+292024018	[M]Erythroleukaemia NOS
+2726761000006119	AML M6
+2726811000006114	Acute erythraemic myelosis [obs]
+2726791000006110	Erythroleukaemia
+304331000006110	Acute myeloid leukaemia, M6 type
+2726731000006111	Acute erythroid leukemia
+2726711000006117	M6B
+2726781000006112	Erythraemic myelosis
+2726801000006111	Acute erythraemia [obs]
+5601471000006113	T-cell acute lymphoblastic leukemia
+5601491000006114	Precursor T-cell lymphoblastic leukemia
+5601481000006111	Precursor T-cell lymphoblastic leukaemia
+5601501000006118	Acute T-cell lymphoblastic leukemia
+5601461000006118	T-cell acute lymphoblastic leukaemia
+5601511000006115	Acute T-cell lymphoblastic leukaemia
+4172861000006114	Histiocytic sarcoma (clinical)
+2659772015	Histiocytic sarcoma
+4172871000006119	True histiocytic lymphoma (clinical)
+344806015	True histiocytic lymphoma
+880871000006110	Myeloid leukaemia - subacute
+4753391000006110	Smouldering leukaemia
+4753381000006112	Subacute myeloid leukemia
+4753401000006112	Smoldering leukemia
+289901012	Subacute myeloid leukaemia
+728591000006117	Malignant histiocytosis of lymph nodes of axilla and upper limb
+311431000006119	[M]Lymphoma NOS
+291957016	[M]Microglioma
+2849401000006116	Malignant lymphoma, no ICD-O subtype
+311671000006118	Malignant lymphoma
+2849411000006118	Malignant lymphoma, no International Classification of Diseases for Oncology subtype
+2849381000006116	Lymphoma
+2849391000006118	Microglioma [obs]
+5610221000006118	Hypergranular promyelocytic leukemia
+5610211000006114	Hypergranular promyelocytic leukaemia
+289974015	Myelomonocytic leukaemia
+4753641000006111	Myelomonocytic leukemia
+826361000006117	Hodgkin's granuloma of lymph nodes of inguinal region and lower limb
+4751841000006111	Hodgkin granuloma of lymph nodes of inguinal region and lower limb
+5613441000006119	Acute biphenotypic leukaemia
+5613451000006117	Acute biphenotypic leukemia
+1216015014	[M]Prolymphocytic leukaemia
+4420061000006118	Prolymphocytic leukemia
+4420051000006115	Prolymphocytic leukaemia
+5602211000006110	Prethymic and thymic T-cell lymphoma/leukemia
+5602201000006112	Prethymic and thymic T-cell lymphoma/leukaemia
+2534468012	Angioimmunoblastic T-cell lymphoma
+2731341000000117	Angioimmunoblastic T-cell lymphoma with dysproteinaemia
+313271000006116	[M]Multiple myeloma
+695561000006118	Multiple myeloma and immunoproliferative neoplasms
+4172951000006115	Myeloma
+344819016	Myelomatosis
+4172921000006112	Plasmacytic myeloma
+880801000006116	Multiple myeloma etc.
+344818012	Kahler's disease
+344820010	Multiple myeloma
+4172911000006116	Multiple myeloma (clinical)
+2901912012	Diffuse follicle centre lymphoma
+7366671000006111	Diffuse follicle center lymphoma
+5591251000006111	Primary cerebral lymphoma
+1229491012	[M]Hodgkin's disease, nodular sclerosis, cellular phase
+3129121000006119	Hodgkin's disease, nodular sclerosis, cellular phase
+3129131000006116	Classical Hodgkin lymphoma, nodular sclerosis, cellular phase
+3129111000006110	Hodgkin lymphoma, nodular sclerosis, cellular phase
+157747014	Reticulosarcoma of intrathoracic lymph nodes
+451429010	Follicular non-Hodgkin's lymphoma
+292170010	[X]Other types of follicular non-Hodgkin's lymphoma
+1815151000006116	Follicular lymphoma
+289813015	Other types of follicular non-Hodgkin's lymphoma
+763421000006116	Follicular lymphoma NOS
+5975501000006113	Follicular non-Hodgkin lymphoma
+1815231000006117	Other types of follicular lymphoma
+2663191017	Mycosis fungoides
+289727017	Mycosis fungoides of unspecified site
+289739013	Mycosis fungoides NOS
+4310071000006113	Mycosis fungoides (clinical)
+4310081000006111	MF - Mycosis fungoides
+5970561000006118	Neutrophilic leukemia
+5970551000006115	Neutrophilic leukaemia
+2124491000000113	Follicular lymphoma grade 3a
+7369171000006111	Philadelphia chromosome negative chronic myelogenous leukemia
+7369161000006116	Philadelphia chromosome negative chronic myelogenous leukaemia
+474604011	Philadelphia chromosome negative chronic myelogenous leukaemia
+5912001000006115	Small lymphocytic lymphoma
+5911981000006115	Lymphocytic lymphosarcoma
+5911971000006118	Lymphocytic lymphoma
+5911961000006113	Malignant lymphoma, lymphocytic, well differentiated
+5911991000006117	Malignant lymphoma - small cell
+5911951000006111	Malignant lymphoma - small lymphocytic
+5707201000006116	Acute myelomonocytic leukemia - eosinophilic variant
+5707181000006117	M4Eo - Acute myelomonocytic leukaemia - eosinophilic variant
+5707191000006119	M4Eo - Acute myelomonocytic leukemia - eosinophilic variant
+5707171000006115	Acute myelomonocytic leukaemia - eosinophilic variant
+291959018	Mature (peripheral) T-cell neoplasm
+6861871000006117	Mature (peripheral) T-cell neoplasm
+5912121000006114	Nodular malignant lymphoma, lymphocytic - intermediate differentiation
+5031591000006112	Lymphoma of retina
+51959012	Lymphomatoid papulosis
+5912221000006116	Subacute leukemia
+289968015	Subacute leukaemia
+292174018	[X]Other specified types of non-Hodgkin's lymphoma
+400011000006119	[X]Non-Hodgkin's lymphoma NOS
+2839871014	Non-Hodgkin lymphoma
+4309411000006119	Non-Hodgkin lymphoma
+587201000006115	Non-Hodgkin's lymphoma
+4309391000006119	NHL - Non-Hodgkin's lymphoma
+1815491000006119	Other non-follicular lymphoma
+2168861000000117	Non-follicular lymphoma
+4309371000006115	Malignant lymphoma, non-Hodgkin's type
+406154013	Non-Hodgkin's lymphoma (clinical)
+4309381000006117	Non-Hodgkin's lymphoma - disorder
+731691000006110	Lymphosarcoma of lymph nodes of inguinal region and lower limb
+763431000006118	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma
+4752981000006116	Follicular non-Hodgkin mixed small cleaved and large cell lymphoma
+2872841013	Hepatosplenic T-cell lymphoma
+1220816015	[M]Acute progressive histiocytosis X
+1220818019	[M]Acute infancy reticulosis
+4416151000006114	Acute infancy reticulosis
+4416091000006116	Langerhans cell histiocytosis, generalized
+4416071000006117	Nonlipid reticuloendotheliosis [obs]
+1220817012	[M]Letterer - Siwe disease
+4416101000006110	Acute progressive histiocytosis X
+4416081000006119	Letterer-Siwe disease
+4416061000006112	Langerhans cell histiocytosis, disseminated
+4416111000006113	Langerhans cell histiocytosis, generalised
+6051561000006115	Low grade B-cell lymphoma morphology
+4173521000006112	Acute promyelocytic leukaemia, FAB M3
+4173531000006110	Acute promyelocytic leukaemia (clinical)
+459741000006115	APL - Acute promyelocytic leukaemia
+4173601000006118	M3 - Acute promyelocytic leukemia
+4173611000006115	APML - Acute promyelocytic leukemia
+4173551000006115	Acute promyelocytic leukemia (clinical)
+4173581000006111	APML - Acute promyelocytic leukaemia
+4173571000006113	M3 - Acute promyelocytic leukaemia
+4173591000006114	APL - Acute promyelocytic leukemia
+4173541000006117	Acute promyelocytic leukemia, FAB M3
+289934014	Other specified leukaemia
+292182018	[X]Other specified leukaemias
+292185016	[X]Other leukaemia of unspecified cell type
+4015571000006114	Leukemia
+4015591000006110	Leukaemia, disease
+289972016	Leukaemia
+4015581000006112	Leukemia, disease
+289963012	Leukaemia of unspecified cell type
+289955011	Other and unspecified leukaemia
+289971011	Other leukaemia of unspecified cell type
+289959017	Other and unspecified leukaemia NOS
+289960010	Other specified leukaemia NOS
+5970891000006112	Malignant lymphoma, centroblastic-centrocytic, follicular
+5970901000006111	Germinoblastoma, follicular
+4752431000006113	Hodgkin disease, lymphocytic depletion of intrapelvic lymph nodes
+826511000006114	Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes
+154862014	Hodgkin's sarcoma of intra-abdominal lymph nodes
+4022571000006112	Hodgkin sarcoma of intra-abdominal lymph nodes
+5601571000006112	Non-secretory myeloma
+114573012	Heavy chain disease
+289880012	Subacute lymphoid leukaemia
+4753241000006113	Subacute lymphoid leukemia
+880841000006119	Lymphoid leukaemia - subacute
+4016331000006110	Malignant lymphoma of intrathoracic lymph nodes
+289832014	Malignant lymphoma of intrathoracic lymph nodes
+154183017	Malignant histiocytosis of intra-abdominal lymph nodes
+5706191000006117	Intermediate grade B-cell lymphoma
+5970681000006110	Immunocytoma
+5970691000006113	Plasmacytic lymphoma
+5970671000006112	Malignant lymphoma, lymphoplasmacytoid type
+5970661000006117	Malignant lymphoma - lymphoplasmacytic
+289904016	Granulocytic sarcoma
+5600871000006118	TCLL - T-cell chronic lymphocytic leukaemia
+5600851000006111	T-cell chronic lymphocytic leukaemia
+5600861000006113	T-cell chronic lymphocytic leukemia
+5600881000006115	TCLL - T-cell chronic lymphocytic leukemia
+289873010	Other immunoproliferative neoplasms
+411516014	Immunoproliferative neoplasm
+289874016	Immunoproliferative neoplasm or myeloma NOS
+7327551000006114	Sarcoma of dendritic cells (accessory cells)
+1815251000006112	Sarcoma of dendritic cells
+3706151000006119	Hodgkin's granuloma
+3706141000006116	Hodgkin granuloma [obs]
+1233711012	[M]Hodgkin's granuloma
+5601671000006111	JCML - Juvenile chronic myeloid leukaemia
+5601661000006116	Juvenile chronic myeloid leukaemia
+5601681000006114	JCML - Juvenile chronic myeloid leukemia
+5601691000006112	Juvenile chronic myeloid leukemia
+3327951000006110	B-cell chronic lymphocytic leukaemia/small lymphocytic lymphoma
+3327921000006118	Chronic lymphatic leukemia
+3327891000006112	Chronic lymphocytic leukaemia
+3327911000006114	Chronic lymphoid leukemia
+3327971000006117	Chronic lymphocytic leukaemia, B-cell type
+3327931000006115	Chronic lymphocytic leukemia, B-cell type
+3327941000006113	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+3327961000006112	Chronic lymphatic leukaemia
+306931000006115	Chronic lymphoid leukaemia
+3327901000006111	Chronic lymphocytic leukemia
+344657018	T-zone lymphoma
+4172641000006114	T-zone lymphoma (clinical)
+4095021000006117	Enteropathy-type T-cell lymphoma
+4095011000006113	Enteropathy associated T-cell lymphoma
+4095001000006110	Intestinal T-cell lymphoma
+3377371000006117	Hairy cell leukaemia variant
+3377381000006119	Leukaemic reticuloendotheliosis
+311051000006116	[M]Leukaemic reticuloendotheliosis
+311041000006118	Hairy cell leukaemia
+3377361000006112	Hairy cell leukemia variant
+3377351000006110	Leukemic reticuloendotheliosis
+3377341000006113	Hairy cell leukemia
+12702811000006117	Hairy cell leukaemia
+1216729017	[M]Hairy cell leukaemia
+4009661000006118	Chronic leukemia, disease
+4009641000006117	Chronic leukemia
+289967013	Chronic leukaemia
+4009651000006115	Chronic leukaemia, disease
+4417401000006118	Juvenile chronic myelomonocytic leukaemia
+4417391000006115	Juvenile myelomonocytic leukemia
+1870401000006113	Juvenile myelomonocytic leukaemia
+4417381000006118	Juvenile chronic myelomonocytic leukemia
+2870724014	Lymphocyte-rich classical Hodgkin lymphoma
+826261000006110	Hodgkin's disease, lymphocytic-histiocytic predominance
+4309531000006112	Hodgkin lymphoma, lymphocyte-rich (clinical)
+826991000006114	Hodgkin's disease, lymphocytic-histiocytic predominance (clinical)
+11926921000006116	Hodgkin's, lymphocytic-histiocytic predominance unspec site
+289659015	Hodgkin's, lymphocytic-histiocytic predominance NOS
+2663377018	Hodgkin lymphoma, lymphocyte-rich
+289784010	Mast cell malignancy of lymph nodes of head, face and neck
+289787015	Mast cell malignancy of lymph nodes of axilla and upper limb
+5601271000006114	Lymphoma with spill
+4753261000006112	Aleukemic lymphoid leukemia
+289884015	Aleukaemic lymphoid leukaemia
+4752691000006110	Sézary's disease of lymph nodes of inguinal region and lower limb
+146721000006119	Sezary's disease of lymph nodes of inguinal region and lower limb
+4752711000006113	Sézary disease of lymph nodes of inguinal region and lower limb
+444799014	Diffuse non-Hodgkin's centroblastic lymphoma
+5912011000006117	Diffuse malignant lymphoma - centroblastic
+5912041000006118	Malignant lymphoma, centroblastic type
+5912021000006113	Germinoblastic sarcoma
+289640017	Hodgkin's sarcoma of lymph nodes of head, face and neck
+4751881000006117	Hodgkin sarcoma of lymph nodes of head, face and neck
+5590921000006116	Lymphoma of stomach
+5590911000006112	Gastric lymphoma
+1230406012	[M]Hodgkin's sarcoma
+3258381000006111	Hodgkin sarcoma [obs]
+3258391000006114	Hodgkin's sarcoma
+2233461000000116	Clinical stage C chronic lymphocytic leukaemia
+1230838014	[M]Malignant mastocytosis
+3312281000006117	Malignant mastocytosis
+3312291000006119	Systemic tissue mast cell disease
+5601401000006119	Common acute lymphoblastic leukaemia
+5601421000006112	CALL - Common acute lymphoblastic leukaemia
+5601431000006110	CALL - Common acute lymphoblastic leukemia
+5601411000006116	Common acute lymphoblastic leukemia
+289781019	Malignant mast cell tumours
+4752881000006111	Malignant mast cell tumors
+157686016	Nodular lymphoma of intra-abdominal lymph nodes
+7351521000006114	Anaplastic lymphoma kinase negative anaplastic large cell lymphoma
+1815321000006110	Anaplastic large cell lymphoma, ALK negative
+728781000006110	Malignant lymphoma of lymph nodes of axilla AND/OR upper limb
+4016341000006117	Malignant lymphoma of lymph nodes of axilla AND/OR upper limb
+2806901000006114	Malignant lymphoma, lymphoplasmacytic
+2806921000006116	Immunocytoma
+2806931000006118	Malignant lymphoma, plasmacytoid
+2806941000006111	Plasmacytic lymphoma
+2806911000006112	Malignant lymphoma, lymphoplasmacytoid
+1222289015	[M]Malignant lymphoma, lymphoplasmacytoid type
+4751821000006116	Hodgkin granuloma of lymph nodes of axilla and upper limb
+289633018	Hodgkin's granuloma of lymph nodes of axilla and upper limb
+146741000006114	Sezary's disease of spleen
+4053751000006118	Sezary syndrome of spleen
+4053741000006115	Sézary disease of spleen
+4053721000006110	Sézary's disease of spleen
+5602041000006116	Acute eosinophilic leukemia
+5602031000006114	Acute eosinophilic leukaemia
+12455831000006115	[M]Hodgkin's disease, nodular sclerosis NOS
+3347001000006113	Classical Hodgkin lymphoma, nodular sclerosis
+215914013	Hodgkin lymphoma, nodular sclerosis
+3346991000006117	Hodgkin lymphoma, nodular sclerosis
+3395371000006116	Brill - Symmers' disease
+3395261000006118	Malignant lymphoma, nodular
+3395361000006111	Follicular lymphosarcoma
+3395341000006112	Giant follicular lymphoma
+3395331000006119	Malignant lymphoma, follicle centre, follicular
+3395351000006114	Nodular lymphosarcoma
+3395251000006115	Follicular lymphoma
+3395301000006110	Malignant lymphoma, centroblastic-centrocytic, follicular
+3395321000006117	Malignant lymphoma, follicle centre
+3395311000006113	Malignant lymphoma, follicular
+3395281000006111	Malignant lymphoma, follicle center, follicular
+3395291000006114	Malignant lymphoma, follicle center
+3395271000006113	Malignant lymphoma, lymphocytic, nodular
+4751921000006113	Hodgkin sarcoma of lymph nodes of inguinal region and lower limb
+826861000006114	Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb
+4752571000006110	Sézary disease of lymph nodes of head, face and neck
+4752551000006117	Sézary's disease of lymph nodes of head, face and neck
+289741014	Sezary's disease of lymph nodes of head, face and neck
+4016311000006116	Malignant lymphoma of intra-abdominal lymph nodes
+289842011	Malignant lymphoma of intra-abdominal lymph nodes
+2168491000000113	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+154838016	Hodgkin's granuloma of intrathoracic lymph nodes
+4022321000006118	Hodgkin granuloma of intrathoracic lymph nodes
+6051591000006111	T-cell lymphoma morphology
+728571000006118	Malignant histiocytosis of lymph nodes of head, face and neck
+306171000006115	[M]Burkitt's cell leukaemia
+2853551000006116	Acute lymphoblastic leukemia, mature B-cell type
+2853591000006110	Burkitt's cell leukaemia
+2853521000006113	Burkitt's cell leukemia
+2853561000006119	Burkitt cell leukemia
+2853571000006114	Acute lymphoblastic leukaemia, Burkitt's type
+2853541000006118	FAB L3 [obs]
+2853581000006112	Acute lymphoblastic leukaemia, mature B-cell type
+2853531000006111	Acute lymphoblastic leukemia, Burkitt's type
+2853511000006117	Burkitt cell leukaemia
+826571000006117	Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck
+4752191000006116	Hodgkin disease, mixed cellularity of lymph nodes of head, face and neck
+4752071000006118	Hodgkin disease, nodular sclerosis of intrathoracic lymph nodes
+826651000006111	Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes
+2768151000006110	Hodgkin's disease, lymphocytic depletion, diffuse fibrosis
+2768161000006112	Classical Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis
+310071000006116	[M]Hodgkin's disease, lymphocytic depletion, diffuse fibrosis
+2768141000006113	Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis
+4752111000006114	Hodgkin disease, nodular sclerosis of lymph nodes of axilla and upper limb
+826661000006113	Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb
+2872133010	Subcutaneous panniculitis-like T-cell lymphoma
+6693221000006112	Subcutaneous panniculitic cutaneous T-cell lymphoma
+1815391000006112	Subcutaneous panniculitic T-cell lymphoma
+4172501000006111	Lymphoma, diffuse large B cell, non Hodgkins
+4172471000006116	Malignant lymphoma - large cell cleaved and non-cleaved
+4172451000006114	Diffuse malignant lymphoma - histiocytic
+4172491000006115	Diffuse non-Hodgkin lymphoma, large cell
+4172481000006118	Diffuse non-Hodgkin's lymphoma, large cell
+4172441000006112	Diffuse non-Hodgkin's lymphoma, large cell (clinical)
+1668101000000112	Diffuse non-Hodgkin's large cell lymphoma
+4172461000006111	Diffuse malignant lymphoma - large cell
+2734791000000113	Cutaneous follicle centre lymphoma
+1815221000006115	Follicular lymphoma, cutaneous follicle centre
+4172341000006116	Immunoblastic malignant lymphoma - large cell
+4172311000006115	Diffuse non-Hodgkin's lymphoma, immunoblastic (clinical)
+4172371000006112	Lymphoma, immunoblastic, high grade
+4172361000006117	Diffuse non-Hodgkin lymphoma, immunoblastic
+4172321000006111	Malignant lymphoma - immunoblastic
+4172351000006119	Diffuse non-Hodgkin's lymphoma, immunoblastic
+1219545019	Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma
+5601251000006116	LGLL - Large granular lymphocytic leukaemia
+5601231000006111	Large granular lymphocytic leukaemia
+5601261000006119	LGLL - Large granular lymphocytic leukemia
+5601241000006118	Large granular lymphocytic leukemia
+746301000006117	Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes
+4015611000006116	Leukemic reticuloendotheliosis of intra-abdominal lymph nodes
+260879014	Bone marrow: myeloma cells
+4752251000006119	Hodgkin disease, mixed cellularity of lymph nodes of axilla and upper limb
+826591000006116	Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb
+154193012	Malignant histiocytosis of spleen
+414160018	B-cell acute lymphoblastic leukaemia
+5601291000006110	B-cell acute lymphoblastic leukemia
+5601331000006115	Mature B-cell leukemia Burkitt-type
+5601341000006113	Mature B-cell leukemia Burkitt type
+5601311000006114	Burkitt's leukaemia
+5601301000006111	Burkitt's leukemia
+5601351000006110	Mature B-cell leukaemia Burkitt type
+2872860018	Mature B-cell leukaemia Burkitt-type
+4753361000006119	Chronic neutrophilic leukemia
+289898011	Chronic neutrophilic leukaemia
+1225763012	[M] Cutaneous lymphoma
+2950341000006113	Cutaneous T-cell lymphoma, no ICD-O subtype
+2950351000006110	Cutaneous T-cell lymphoma, no International Classification of Diseases for Oncology subtype
+2950321000006118	Cutaneous lymphoma
+2950311000006114	Cutaneous T-cell lymphoma
+5601001000006114	Splenic lymphoma with villous lymphocytes
+4752231000006114	Hodgkin disease, mixed cellularity of intra-abdominal lymph nodes
+826541000006113	Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes
+5970721000006115	Malignant lymphoma - centrocytic
+4753441000006114	Aleukemic myeloid leukemia
+289908018	Aleukaemic myeloid leukaemia
+6204671000006114	Acute myeloid leukaemia without maturation, FAB M1
+6204721000006117	M1 - Acute myeloblastic leukemia without maturation
+6204711000006113	Acute myelogenous leukemia without maturation
+6204681000006112	Acute myeloid leukemia without maturation, FAB M1
+6204701000006110	Acute myelogenous leukaemia without maturation
+6204691000006110	M1 - Acute myeloblastic leukaemia without maturation
+201612010	Acute myeloid leukaemia
+880851000006117	Myeloid leukaemia - acute
+3992781000006117	AML - Acute myeloblastic leukemia
+3992721000006116	Acute myeloid leukemia
+3992711000006112	Acute myeloid leukaemia, disease
+3992791000006119	Acute myelocytic leukaemia
+3992761000006110	AML - Acute myeloid leukaemia
+1815651000006110	AML - Acute myeloblastic leukaemia
+3992751000006113	Acute myeloid leukemia, disease
+3992741000006111	AML - Acute myeloid leukemia
+3992801000006118	Acute myelocytic leukemia
+5602361000006115	Follicular malignant lymphoma - mixed small cleaved and large cell
+5602351000006117	Follicular malignant lymphoma - mixed cell type
+4416161000006111	Histiocytic sarcoma
+4416171000006116	True histiocytic lymphoma
+1220820016	[M]True histiocytic lymphoma
+5601211000006117	Hairy cell leukaemia variant
+5601221000006113	Hairy cell leukemia variant
+2663461018	Hodgkin's disease, mixed cellularity
+289670010	Hodgkin's disease, mixed cellularity of unspecified site
+4309581000006113	Hodgkin's disease, mixed cellularity (clinical)
+289679011	Hodgkin's disease, mixed cellularity NOS
+4309611000006117	Hodgkin mixed cellularity lymphoma
+1815061000006118	Mixed cellularity classical Hodgkin lymphoma
+4309601000006115	Hodgkin disease, mixed cellularity
+2529661000006117	Lymphosarcoma [obs]
+2529551000006115	Reticulosarcoma [obs]
+2529511000006116	Non-Hodgkin's lymphoma
+2529501000006119	Malignant lymphoma, non-Hodgkin's
+2529691000006113	B-cell lymphoma, no ICD-O subtype
+2529561000006118	Malignant lymphoma, undifferentiated cell, non-Burkitt [obs]
+2529711000006111	Non-Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype
+2529521000006112	Reticulum cell sarcoma, diffuse [obs]
+2529581000006111	Malignant lymphoma, small cleaved cell, diffuse [obs]
+2529531000006110	Reticulum cell sarcoma [obs]
+2529651000006119	Lymphosarcoma, diffuse [obs]
+2529611000006115	Malignant lymphoma, lymphocytic, poorly differentiated, diffuse [obs]
+2529541000006117	Reticulosarcoma, diffuse [obs]
+2529701000006113	Non-Hodgkin lymphoma, no ICD-O subtype
+2529641000006116	Malignant lymphoma, cleaved cell [obs]
+2529491000006110	Malignant lymphoma, non-Hodgkin
+2529571000006113	Malignant lymphoma, undifferentiated cell type [obs]
+2529601000006118	Malignant lymphoma, small cell, noncleaved, diffuse [obs]
+314061000006117	[M]Non-Hodgkin's lymphoma
+2529631000006114	Malignant lymphoma, diffuse
+2529591000006114	Malignant lymphoma, small cleaved cell [obs]
+2529621000006111	Malignant lymphoma, lymphocytic, intermediate differentiation, nodular [obs]
+311871000006119	[M]Malignant lymphoma, non-Hodgkin's type
+4752471000006111	Hodgkin disease, lymphocytic depletion of lymph nodes of multiple sites
+826491000006115	Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites
+4757451000006116	Reticulosarcoma, pleomorphic cell type
+315981000006113	[M]Reticulosarcoma, pleomorphic cell type
+313311000006116	[M]Mycosis fungoides
+291955012	[M]Mycosis fungoides NOS
+313301000006119	Mycosis fungoides
+3964971000006114	Pagetoid reticulosis
+289604019	Burkitt's lymphoma of intrathoracic lymph nodes
+4751531000006116	Burkitt lymphoma of intrathoracic lymph nodes
+157091019	Myeloid sarcoma
+289905015	Myeloid sarcoma NOS
+4042921000006115	Myeloid sarcoma, disease
+4016351000006115	Malignant lymphoma of lymph nodes of head, face AND/OR neck
+289831019	Malignant lymphoma of lymph nodes of head, face AND/OR neck
+110346017	Lymphoma stage IV
+289748015	Sezary's disease of lymph nodes of multiple sites
+4752751000006114	Sézary's disease of lymph nodes of multiple sites
+4752771000006116	Sézary disease of lymph nodes of multiple sites
+289657018	Hodgkin's disease, lymphocytic-histiocytic predominance of spleen
+4021881000006119	Hodgkin disease, lymphocytic-histiocytic predominance of spleen
+289789017	Mast cell malignancy of intrapelvic lymph nodes
+5701151000006118	IgD myeloma
+5701161000006116	Immunoglobulin D myeloma
+4042811000006116	Mycosis fungoides of lymph nodes of axilla AND/OR upper limb
+157075017	Mycosis fungoides of lymph nodes of axilla and upper limb
+7305431000006117	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT-lymphoma)
+1815131000006111	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue
+4751781000006110	Hodgkin granuloma of lymph nodes of head, face and neck
+289629013	Hodgkin's granuloma of lymph nodes of head, face and neck
+4752211000006115	Hodgkin disease, mixed cellularity of intrathoracic lymph nodes
+826561000006112	Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes
+157752016	Reticulosarcoma of spleen
+4752371000006115	Hodgkin disease, lymphocytic depletion of intra-abdominal lymph nodes
+826461000006111	Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes
+5590961000006110	Lymphoma of intestine
+5590971000006115	Intestinal lymphoma
+154811011	Hodgkin's disease, nodular sclerosis of spleen
+4022081000006117	Hodgkin disease, nodular sclerosis of spleen
+4016321000006112	Malignant lymphoma of intrapelvic lymph nodes
+289845013	Malignant lymphoma of intrapelvic lymph nodes
+5970881000006114	Reticulolymphosarcoma, nodular
+5970861000006116	Malignant lymphoma, mixed lymphocytic-histiocytic, nodular
+5970871000006111	Reticulolymphosarcoma, follicular
+1815461000006110	Low grade B-cell lymphoma
+306011000006113	[M]Blastic leukaemia
+2884051000006119	Undifferentiated leukemia
+2884111000006116	Acute leukaemia, morphology, including blast cell OR undifferentiated leukaemia
+2884031000006114	Acute leukemia
+2884041000006116	Blast cell leukemia
+1216160012	[M]Acute leukaemia NOS
+306001000006110	[M]Blast cell leukaemia
+2884081000006110	Stem cell leukaemia
+2884121000006112	Acute leukemia, morphology, including blast cell OR undifferentiated leukemia
+317011000006112	[M]Stem cell leukaemia
+2884071000006112	Undifferentiated leukaemia
+2884091000006113	Blast cell leukaemia
+2884021000006111	Acute leukaemia
+2884061000006117	Stem cell leukemia
+4759991000006114	Macroglobulinemia
+293377011	Macroglobulinaemia
+293384015	Macroglobulinaemia NOS
+2870725010	Mediastinal (thymic) large B-cell lymphoma
+7299901000006110	Primary mediastinal (thymic) large B-cell lymphoma
+4022111000006111	Hodgkin's disease of intra-abdominal lymph nodes
+4022121000006115	Hodgkin disease of intra-abdominal lymph nodes
+289706010	Hodgkin's disease of intra-abdominal lymph nodes
+1220814017	[M]AngiocentricT-cell lymphoma
+4415791000006113	Malignant reticulosis [obs]
+4415761000006117	NK/T-cell lymphoma, nasal and nasal-type
+4415771000006112	T/NK-cell lymphoma
+4415781000006110	Polymorphic reticulosis [obs]
+4415841000006111	Natural killer (NK)/T-cell lymphoma, nasal and nasal-type
+4415831000006118	T/NK-cell lymphoma, nasal and nasal type
+4415801000006114	Malignant midline reticulosis [obs]
+4415851000006113	Natural killer-/T-cell lymphoma, nasal and nasal-type
+4415811000006112	Angiocentric T-cell lymphoma [obs]
+154863016	Hodgkin's sarcoma of intrapelvic lymph nodes
+4022591000006113	Hodgkin sarcoma of intrapelvic lymph nodes
+4009731000006118	CLL - Chronic lymphocytic leukaemia
+4009701000006114	Chronic lymphoid leukemia
+4009721000006116	Chronic lymphoid leukemia, disease
+880831000006112	Lymphoid leukaemia - chronic
+4009741000006111	CLL - Chronic lymphocytic leukemia
+555131000006118	Chronic lymphoid leukaemia, disease
+201652012	Chronic lymphoid leukaemia
+414298014	Enteropathy-associated T-cell lymphoma
+5602771000006114	Enteropathy-type T-cell lymphoma
+5602761000006119	Enteropathy type (intestinal) T-cell lymphoma
+1815371000006111	Enteropathy-type (intestinal) T-cell lymphoma
+5602751000006116	EACTL - Enteropathy-associated T-cell lymphoma
+826601000006112	Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites
+4752311000006112	Hodgkin disease, mixed cellularity of lymph nodes of multiple sites
+3759631000006118	Adult T-cell lymphoma/leukemia (HTLV-1 +)
+3759601000006114	Adult T-cell lymphoma/leukaemia
+3759581000006116	Adult T-cell leukemia/lymphoma (HTLV-1 positive)
+3759611000006112	Adult T-cell leukaemia/lymphoma (HTLV-1 positive)
+3759571000006119	Adult T-cell leukemia
+3759551000006112	Adult T-cell lymphoma/leukemia
+3759641000006111	Adult T-cell lymphoma/leukaemia (HTLV-1 +)
+1216940017	[M]Adult T-cell leukaemia/lymphoma
+3759541000006110	Adult T-cell leukemia/lymphoma
+3759591000006118	Adult T-cell leukaemia
+3759531000006117	Adult T-cell leukaemia/lymphoma
+3759561000006114	Adult T-cell lymphoma
+5601561000006117	Light chain myeloma
+1216396015	[M]Lymphoid leukaemia NOS
+311311000006115	[M]Lymphatic leukaemia
+3020021000006117	Subacute lymphoid leukaemia [obs]
+3020041000006112	Lymphocytic leukaemia
+3020011000006113	Subacute lymphocytic leukaemia [obs]
+3019971000006118	Aleukaemic lymphocytic leukaemia [obs]
+3020031000006119	Lymphosarcoma cell leukaemia [obs]
+3019981000006115	Aleukaemic lymphoid leukaemia [obs]
+3020061000006111	Lymphoid leukemia, no ICD-O subtype
+3019891000006113	Subacute lymphoid leukemia [obs]
+3020001000006110	Subacute lymphatic leukaemia [obs]
+3019871000006112	Lymphocytic leukemia
+3019911000006110	Subacute lymphatic leukemia [obs]
+3020071000006116	Lymphoid leukaemia, no ICD-O subtype
+3019861000006117	Lymphoid leukemia
+3019901000006112	Subacute lymphocytic leukemia [obs]
+3019931000006116	Aleukemic lymphoid leukemia [obs]
+3019961000006113	Aleukaemic lymphatic leukaemia [obs]
+3019941000006114	Aleukemic lymphocytic leukemia [obs]
+3019881000006110	Lymphatic leukemia
+3019921000006119	Lymphosarcoma cell leukemia [obs]
+3019991000006117	Lymphatic leukaemia
+3019951000006111	Aleukemic lymphatic leukemia [obs]
+3020081000006118	Lymphoid leukemia, no International Classification of Diseases for Oncology subtype
+314521000006116	Lymphoid leukaemia
+5602411000006111	Diffuse malignant lymphoma - large cleaved cell
+6051581000006113	High grade B-cell lymphoma morphology
+1815631000006115	Philadelphia chromosome positive chronic myelogenous leukaemia
+7364831000006117	Philadelphia chromosome positive chronic myelogenous leukemia
+7364821000006115	Philadelphia chromosome positive chronic myelogenous leukaemia
+4420041000006117	Plasma cell leukemia, morphology
+11989551000006115	Plasma cell leukemia
+292017019	Plasma cell leukaemia
+4419991000006112	Plasmacytic leukemia
+11908671000006118	Plasma cell leukemia
+4419981000006114	Plasma cell leukaemia
+4420011000006116	Plasmacytic leukaemia
+1216014013	[M]Plasma cell leukaemia
+292014014	[M]Plasma cell leukaemias
+4420031000006110	Plasma cell leukaemia, morphology
+1233285010	[M]Hodgkin,s disease, lymphocytic predominance, nodular
+3648231000006115	Hodgkin's disease, lymphocytic predominance, nodular
+3648261000006112	Hodgkin lymphoma, lymphocyte predominance, nodular
+291934010	[M]Hodgkin's paragranuloma
+3648241000006113	Hodgkin paragranuloma, nodular [obs]
+3648221000006118	Hodgkin lymphoma, nodular lymphocyte predominance
+3648251000006110	Hodgkin paragranuloma [obs]
+4752151000006110	Hodgkin disease, nodular sclerosis of intrapelvic lymph nodes
+826641000006114	Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes
+157071014	Mycosis fungoides of intra-abdominal lymph nodes
+5970991000006116	Malignant lymphoma, lymphocytic, poorly differentiated, nodular
+154185012	Malignant histiocytosis of intrathoracic lymph nodes
+292006015	Acute lymphoblastic leukaemia - category
+6841261000006116	Acute lymphoblastic leukemia - category
+6841251000006118	Acute lymphoblastic leukaemia - category
+4752351000006113	Hodgkin disease, lymphocytic depletion of intrathoracic lymph nodes
+826521000006118	Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes
+683191000006119	Myeloma - solitary
+225051000006119	Plasmacytoma
+18484012	Plasmacytoma - disorder
+139571000006117	Solitary myeloma
+451430017	Plasmacytoma NOS
+5602711000006117	Peripheral T-cell lymphoma - pleomorphic small cell
+4309901000006113	Malignant mast cell tumor (clinical)
+4309911000006111	Mast cell sarcoma
+4309931000006117	Malignant mast cell tumor
+289793011	Malignant mast cell tumour NOS
+4309921000006115	Malignant mast cell tumour
+4309891000006114	Malignant mast cell tumour (clinical)
+11906721000006111	Eosinophilic leukemia
+292050019	Eosinophilic leukaemia
+308041000006113	[M]Eosinophilic leukaemia
+292046014	[M]Eosinophilic leukaemias
+11989501000006119	Eosinophilic leukemia
+4757521000006112	Eosinophilic leukaemia
+2871720012	Juvenile myelomonocytic leukaemia
+7304861000006113	Juvenile myelomonocytic leukemia
+3758731000006118	Burkitt's lymphoma
+3758751000006113	Malignant lymphoma, undifferentiated, Burkitt type [obs]
+291980012	[M]Burkitt's tumours
+291981011	[M]Burkitt's tumour NOS
+3758721000006116	Burkitt lymphoma
+3758791000006119	Burkitt tumour [obs]
+1216939019	[M]Burkitt's tumour
+3758781000006117	Burkitt tumor [obs]
+3758801000006118	Burkitt's tumour [obs]
+3758761000006110	Burkitt-like lymphoma
+3758771000006115	Burkitt's tumor [obs]
+3758741000006111	Malignant lymphoma, small noncleaved, Burkitt's, diffuse
+3917151000006111	Subacute leukaemia [obs]
+3917121000006119	Subacute leukemia [obs]
+3917141000006114	Aleukemic leukemia [obs]
+3917111000006110	Leukemia
+3917191000006117	Leukemia morphology
+305141000006119	[M]Aleukaemic monocytic leukaemia
+309941000006119	[M]Histiocytic leukaemia
+317101000006113	[M]Subacute monocytic leukaemia
+311021000006113	Leukaemia morphology
+3917211000006116	Leukemia, no ICD-O subtype
+3917171000006118	Chronic leukaemia [obs]
+3917201000006119	Leukaemia, no ICD-O subtype
+3917161000006113	Aleukaemic leukaemia [obs]
+3917221000006112	Leukemia, no International Classification of Diseases for Oncology subtype
+3917131000006116	Chronic leukemia [obs]
+306951000006110	[M]Chronic monocytic leukaemia
+316171000006117	[M]Schilling-type monocytic leukaemia
+3917101000006112	Leukaemia
+312961000006113	[M]Monocytic leukaemia NOS
+289718018	Nodular lymphoma of lymph nodes of head, face and neck
+4751991000006110	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb
+826901000006119	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb
+4420191000006110	Leukaemia (category)
+4420221000006115	Leukemia - category
+291995014	[M]Leukaemia unspecified, NOS
+292031019	[M]Lymphosarcoma cell leukaemia NOS
+292053017	[M]Monocytic leukaemias
+292065018	[M]Miscellaneous leukaemias
+291997018	[M]Mixed leukaemia
+291984015	[M]Leukaemias unspecified
+292039017	[M]Neutrophilic leukaemia
+310991000006116	[M]Leukaemia NOS
+4420211000006111	Leukaemia - category
+291985019	[M]Leukaemia NOS
+291992012	[M]Aleukaemic leukaemia NOS
+292010017	[M]Aleukaemic lymphoid leukaemia
+307221000006111	[M]Compound leukaemias
+292002018	[M]Compound leukaemia NOS
+292028015	[M]Lymphosarcoma cell leukaemia
+311511000006114	[M]Lymphosarcoma cell leukaemias
+4420201000006113	Leukemia (category)
+292001013	[M]Compound leukaemia
+292077011	[M]Miscellaneous leukaemia NOS
+291988017	[M]Subacute leukaemia NOS
+292036012	[M]Aleukaemic myeloid leukaemia
+1815171000006114	Follicular lymphoma grade 2
+5914251000006115	Malignant lymphoma, follicular centre cell
+5914261000006118	Malignant lymphoma, follicular center cell
+291958014	[M]Histiocytic medullary reticulosis
+215915014	Malignant histiocytosis
+215916010	[M]Malignant reticulosis
+4419951000006118	Histiocytic medullary reticulosis [obs]
+4415701000006118	Bronchial-associated lymphoid tissue lymphoma
+4415661000006114	Mucosal-associated lymphoid tissue lymphoma
+4415651000006112	Nodal marginal zone lymphoma
+4415721000006111	Skin-associated lymphoid tissue lymphoma
+4415671000006119	Monocytoid B-cell lymphoma
+304151000006118	Monocytoid B-cell lymphoma
+4415711000006115	BALT lymphoma
+12455741000006118	[M] Monocytoid B-cell lymphoma
+4415691000006118	MALT lymphoma
+4415631000006117	Marginal zone B-cell lymphoma
+292083014	[M]Monocytoid B-cell lymphoma
+4415641000006110	SALT lymphoma
+4415681000006116	Marginal zone lymphoma
+289632011	Hodgkin's granuloma of intra-abdominal lymph nodes
+4751801000006114	Hodgkin granuloma of intra-abdominal lymph nodes
+5602911000006119	Malignant lymphoma of testis
+6051671000006114	Diffuse high grade B-cell lymphoma morphology
+3530501000006119	Chronic myelogenous leukemia
+3530521000006112	Chronic granulocytic leukaemia
+3530471000006114	Chronic myeloid leukaemia
+3530481000006112	Chronic myeloid leukemia
+3530491000006110	Chronic granulocytic leukemia
+3530561000006118	Chronic myelogenous leukemia, no ICD-O subtype
+3530541000006117	Chronic myelocytic leukaemia
+3530571000006113	Chronic myelogenous leukemia, no International Classification of Diseases for Oncology subtype
+3530511000006116	Chronic myelocytic leukemia
+313621000006115	[M]Naegeli-type monocytic leukaemia
+3530531000006110	Chronic myelogenous leukaemia
+1216809013	[M]Chronic myeloid leukaemia
+39671000006114	Cutaneous/peripheral T-cell lymphoma
+1815431000006118	Other mature T/NK-cell lymphoma
+1815301000006117	Cutaneous/peripheral T-cell lymphoma
+404441000006117	[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas
+2511741000006119	Peripheral T-cell lymphoma, AILD (Angioimmunoblastic Lymphadenopathy with Dysproteinemia)
+2511761000006115	Peripheral T-cell lymphoma, AILD (Angioimmunoblastic Lymphadenopathy with Dysproteinaemia)
+1234836015	[M] Angioimmunoblastic lymphadenopathy
+2511731000006112	Angioimmunoblastic T-cell lymphoma
+2511751000006117	Angioimmunoblastic lymphoma
+289606017	Burkitt's lymphoma of lymph nodes of axilla and upper limb
+4751571000006118	Burkitt lymphoma of lymph nodes of axilla and upper limb
+1216284012	[M]Acute promyelocytic leukaemia
+2965591000006111	Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)
+2965581000006113	Acute myeloid leukaemia, PML/RAR-alpha
+2965531000006112	FAB M3
+2965601000006115	Acute promyelocytic leukaemia, PML/RAR-alpha
+2965561000006115	Acute myeloid leukemia, t(15;17)(q22;q11-12)
+2965551000006117	Acute promyelocytic leukemia, PML/RAR-alpha
+2965541000006119	Acute promyelocytic leukemia, t(15;17)(q22;q11-12)
+2965511000006118	Acute promyelocytic leukaemia
+2965521000006114	Acute promyelocytic leukemia
+2965571000006110	Acute myeloid leukemia, PML/RAR-alpha
+2965611000006117	Acute myeloid leukaemia, t(15;17)(q22;q11-12)
+4022181000006116	Hodgkin disease of lymph nodes of axilla AND/OR upper limb
+826181000006113	Hodgkin's disease of lymph nodes of axilla AND/OR upper limb
+4022171000006119	Hodgkin's disease of lymph nodes of axilla AND/OR upper limb
+2782191000006117	Acute granulocytic leukemia
+2782201000006119	Acute myelogenous leukemia
+2782241000006117	Acute granulocytic leukaemia
+304401000006111	Acute myeloid leukaemia
+2782261000006118	Acute non-lymphocytic leukaemia
+2782231000006110	Acute non-lymphocytic leukemia
+2782251000006115	Acute myelocytic leukaemia
+2782181000006115	Acute myeloid leukemia
+2782271000006113	Acute myelogenous leukaemia
+2782301000006110	Acute myeloid leukaemia, no ICD-O subtype
+2782311000006113	Acute myeloid leukemia, no International Classification of Diseases for Oncology subtype
+2782211000006116	Acute myeloblastic leukemia
+2782221000006112	Acute myelocytic leukemia
+2782281000006111	Acute myeloblastic leukaemia
+2782291000006114	Acute myeloid leukemia, no ICD-O subtype
+4009861000006117	Chronic myelocytic leukemia
+4009791000006119	CML - Chronic myeloid leukaemia
+4009801000006118	CGL - Chronic granulocytic leukaemia
+4009781000006117	Chronic myeloid leukemia
+201656010	Chronic myeloid leukaemia
+554641000006115	Chronic granulocytic leukaemia
+4009811000006115	CGL - Chronic granulocytic leukemia
+4009841000006116	Chronic myeloid leukemia, disease
+4009831000006114	Chronic myeloid leukaemia, disease
+4009851000006119	Chronic myelocytic leukaemia
+289900013	Chronic myeloid leukaemia NOS
+880861000006115	Myeloid leukaemia - chronic
+4009821000006111	CML - Chronic myeloid leukemia
+4757461000006119	Reticulosarcoma, nodular
+315971000006110	[M]Reticulosarcoma, nodular
+289790014	Mast cell malignancy of spleen
+157692010	Nodular lymphoma of lymph nodes of multiple sites
+5601391000006116	Acute pre B-cell lymphoblastic leukemia
+5601361000006112	Pre B-cell acute lymphoblastic leukaemia
+5601381000006119	Leukemia, pre B cell, acute lymphoblastic
+5601371000006117	Pre B-cell acute lymphoblastic leukemia
+621091000006113	Diffuse non-Hodgkin's lymphoma, unspecified
+4172191000006111	Diffuse non-Hodgkin lymphoma
+1815451000006113	Nonfollicular lymphoma
+292191019	Diffuse non-Hodgkin's lymphoma
+292173012	[X]Other types of diffuse non-Hodgkin's lymphoma
+3097051000006116	Hyperproteinaemia
+3097061000006119	Hyperproteinemia
+5912241000006111	Aleukemic leukemia
+5912231000006118	Aleukaemic leukaemia
+2855861000006116	FAB M5A
+2855891000006112	Acute monoblastic leukaemia
+2855881000006114	Monoblastic leukaemia
+2855821000006110	Acute monocytic leukemia
+304381000006111	Acute monocytic leukaemia
+2855831000006113	Monoblastic leukemia
+2855841000006115	Acute monoblastic leukemia
+2855901000006111	Acute monocytic leukemia, morphology
+2855851000006118	FAB M5
+2855871000006111	FAB M5B
+5970651000006119	Prolymphocytic lymphosarcoma
+403760010	[M]Lymphogranuloma, malignant
+291963013	Non-Hodgkin lymphoma (category)
+4420161000006119	Non-Hodgkin lymphoma - category
+4420151000006116	Non-Hodgkin lymphoma (category)
+4752681000006112	Sézary disease of lymph nodes of axilla and upper limb
+4752651000006116	Sézary's disease of lymph nodes of axilla AND/OR upper limb
+4752671000006114	Sézary's disease of lymph nodes of axilla and upper limb
+289744018	Sezary's disease of lymph nodes of axilla and upper limb
+5600821000006119	Malignant white blood cell disorder
+4309431000006113	Hodgkin's granuloma (clinical)
+4309451000006118	Hodgkin granuloma
+2663476014	Hodgkin's granuloma
+289628017	Hodgkin's granuloma of unspecified site
+289638010	Hodgkin's granuloma NOS
+4752991000006118	Diffuse malignant lymphoma - small non-cleaved cell
+289799010	Diffuse non-Hodgkin's small cell (diffuse) lymphoma
+4753021000006110	Malignant lymphoma - undifferentiated cell type
+4753001000006117	Non-Burkitt's malignant lymphoma - undifferentiated cell
+289592016	Lymphosarcoma of unspecified site
+289601010	Lymphosarcoma NOS
+289591011	Lymphosarcoma
+289786012	Mast cell malignancy of intra-abdominal lymph nodes
+5602401000006113	Nodular high grade B-cell lymphoma
+2137201000000112	Refractory anaemia with multilineage dysplasia
+4752271000006112	Hodgkin disease, mixed cellularity of lymph nodes of inguinal region and lower limb
+826581000006119	Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb
+2534467019	Extranodal NK/T-cell lymphoma, nasal type
+6853331000006118	Extranodal natural killer/T-cell lymphoma, nasal type
+6853311000006112	Angiocentric T-cell lymphoma
+6853321000006116	T/NK-cell lymphoma
+289648012	Hodgkin's sarcoma NOS
+4309491000006112	Hodgkin's sarcoma (clinical)
+4309511000006118	Hodgkin sarcoma
+289639019	Hodgkin's sarcoma of unspecified site
+2663376010	Hodgkin's sarcoma
+5701141000006115	Immunoglobulin G myeloma
+5701131000006113	IgG myeloma
+2233421000000112	Clinical stage B chronic lymphocytic leukaemia
+4419021000006111	Primary cutaneous CD30 antigen positive large T-cell lymphoma
+1815421000006116	Primary cutaneous CD30+ large T-cell lymphoma
+146651000006118	Sezary's disease
+289749011	Sezary's disease NOS
+4309661000006119	Sézary's disease
+4309651000006116	Sézary's disease (clinical)
+289740010	Sezary's disease of unspecified site
+4309681000006112	Sézary disease
+2168831000000110	Sezary disease
+5967161000006118	Atypical hairy cell leukemia
+5967151000006115	Atypical hairy cell leukaemia
+716911000006110	Mast cell malignancy of lymph nodes of inguinal region and lower limb
+3255031000006116	Malignant lymphoma, histiocytic
+3255061000006113	Malignant lymphoma, large cleaved cell
+3255081000006115	Malignant lymphoma, large cell, noncleaved
+3255071000006118	Malignant lymphoma, large cell, noncleaved, diffuse
+3255131000006115	Malignant lymphoma, large B-cell
+3255241000006116	Malignant lymphoma, large B-cell, diffuse, no International Classification of Diseases for Oncology subtype
+3255021000006119	Malignant lymphoma, large cell
+3255141000006113	Malignant lymphoma, centroblastic, diffuse
+3255101000006111	Malignant lymphoma, large cell, cleaved, diffuse
+3255161000006112	Intravascular large B-cell lymphoma
+3255211000006115	Anaplastic large B-cell lymphoma
+3254991000006117	Malignant lymphoma, large B-cell, diffuse
+3255041000006114	Malignant lymphoma, noncleaved, diffuse
+3255191000006116	Angiotropic lymphoma
+3255231000006114	Malignant lymphoma, large B-cell, diffuse, no ICD-O subtype
+3255001000006112	Malignant lymphoma, histiocytic, diffuse
+3255011000006110	Malignant lymphoma, large cell, cleaved and noncleaved
+3255151000006110	Malignant lymphoma, centroblastic
+3255181000006119	Diffuse large B-cell lymphoma
+3255201000006118	Angioendotheliomatosis
+3255171000006117	Intravascular B-cell lymphoma
+3255111000006114	Malignant lymphoma, large cell, cleaved
+3255091000006117	Malignant lymphoma, large cell, diffuse [obs]
+3255051000006111	Malignant lymphoma, noncleaved
+3255121000006118	Malignant lymphoma, large B-cell, diffuse, centroblastic
+1230392016	[M]Malignant lymphoma, large cell, diffuse NOS
+4752821000006112	Leukemic reticuloendotheliosis of lymph nodes of head, face and neck
+747141000006116	Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck
+289647019	Hodgkin's sarcoma of lymph nodes of multiple sites
+4751941000006118	Hodgkin sarcoma of lymph nodes of multiple sites
+746031000006110	Letterer-Siwe disease of lymph nodes of axilla and upper limb
+4015461000006115	Letterer-Siwe disease of lymph nodes of axilla AND/OR upper limb
+4022201000006115	Hodgkin disease of lymph nodes of head, face AND/OR neck
+4022191000006118	Hodgkin's disease of lymph nodes of head, face AND/OR neck
+289704013	Hodgkin's disease of lymph nodes of head, face AND/OR neck
+4753101000006118	Reticulolymphosarcoma
+4753071000006111	Malignant lymphoma - mixed small and large cell
+4753111000006115	Malignant lymphoma - mixed lymphocytic-histiocytic
+621041000006116	Diffuse non-Hodgkin's mixed small and large cell (diffuse) lymphoma
+4753081000006114	Reticulolymphosarcoma, diffuse
+5970701000006113	Diffuse malignant lymphoma - centroblastic-centrocytic
+5970711000006111	Germinoblastoma, diffuse
+5601971000006116	M7 - Acute megakaryoblastic leukemia
+5602001000006118	Acute megakaryoblastic leukaemia, FAB M7
+5601991000006115	Acute megakaryoblastic leukemia, FAB M7
+5601981000006118	M7 - Acute megakaryoblastic leukaemia
+5601961000006111	Acute megakaryoblastic leukemia
+5601951000006114	Acute megakaryoblastic leukaemia
+445587010	Malignant reticulosis
+289750011	Malignant histiocytosis of unspecified site
+445586018	Malignant histiocytosis
+4309701000006110	Malignant histiocytosis (clinical)
+289754019	Malignant histiocytosis NOS
+4020841000006118	Erythroleukaemia, FAB M6
+4020901000006114	Erythremic myelosis
+4020911000006112	M6 - Acute erythroleukemia
+292018012	Erythroleukaemia
+476225016	Erythroleukemia, FAB M6
+456641000006119	Acute erythraemia and erythroleukaemia
+201658011	Di Guglielmo's disease
+4020881000006112	M6 - Acute erythroleukaemia
+4020921000006116	Erythroleukemia
+11906781000006110	[M]Erythroleukaemia
+1216029010	Erythroleukaemia
+11930251000006115	Erythroleukemia, FAB M6
+308311000006111	Erythraemic myelosis
+4020861000006119	Di Guglielmo's disease
+5095271000006118	Lymphoma of kidney
+5095281000006115	Lymphomatous infiltrate of kidney
+289801013	Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma
+4753061000006116	Malignant lymphoma, lymphocytic - poorly differentiated
+4753031000006113	Malignant lymphoma - small cleaved cell
+4753051000006118	Lymphoblastic lymphosarcoma
+1216868019	[M]Basophilic leukaemia
+3623381000006117	Basophilic leukemia
+3623401000006117	Basophilic leukaemia
+3623371000006115	Acute basophilic leukaemia
+292042011	[M]Basophilic leukaemias
+292045013	[M]Basophilic leukaemia NOS
+3623391000006119	Acute basophilic leukemia
+746311000006119	Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb
+4752861000006118	Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb
+289610019	Burkitt's lymphoma of spleen
+4751631000006117	Burkitt lymphoma of spleen
+154846015	Hodgkin's granuloma of spleen
+4022401000006119	Hodgkin granuloma of spleen
+289600011	Lymphosarcoma of lymph nodes of multiple sites
+4309781000006118	HCL - Hairy cell leukaemia
+4309791000006115	LRE - Leukemic reticuloendotheliosis
+4309771000006116	LRE - Leukaemic reticuloendotheliosis
+4309761000006111	Leukaemic reticuloendotheliosis (clinical) [obs]
+11926201000006119	Leukaemic reticuloendotheliosis of unspecified sites
+4309821000006112	Hairy cell leukemia
+745001000006114	Leukaemic reticuloendotheliosis
+1591211000006111	Hairy cell leukaemia
+4309801000006119	HCL - Hairy cell leukemia
+4309751000006114	Hairy cell leukemia (clinical)
+289773015	Leukaemic reticuloendotheliosis NOS
+4309741000006112	Leukemic reticuloendotheliosis (clinical) [obs]
+4309731000006119	Hairy cell leukaemia (clinical)
+745011000006112	Leukaemic reticuloendotheliosis
+289756017	LRE - Leukaemic reticuloendotheliosis
+4751901000006115	Hodgkin sarcoma of lymph nodes of axilla and upper limb
+289643015	Hodgkin's sarcoma of lymph nodes of axilla and upper limb
+344860011	Polycythaemia vera
+4173141000006111	PRV - Polycythemia rubra vera
+4173001000006110	Vaquez's disease
+4173011000006113	Osler-Vaquez syndrome
+11923621000006116	Polycythemia vera (clinical)
+4172991000006114	Polycythaemia vera (clinical)
+4173101000006114	Polycythemia rubra vera
+4173061000006111	PPP - Primary proliferative polycythaemia
+4173051000006114	Primary proliferative polycythaemia
+4173151000006113	Erythrocythaemia
+819461000006112	Heilmeyer - Schoner disease
+344859018	Polycythaemia rubra vera
+4173111000006112	Polycythemia vera
+4173031000006119	Erythrocythemia
+4173131000006118	Primary proliferative polycythemia
+4173091000006115	PRV - Polycythaemia rubra vera
+4173021000006117	Osler's disease
+2535663016	Primary polycythaemia
+4173121000006116	PPP - Primary proliferative polycythemia
+554151000006112	Polycythaemia vera (clinical)
+288182013	[X]HIV disease resulting in other non-Hodgkin's lymphoma
+825721000006115	Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection
+1815001000006119	[X]HIV disease resulting in other non-Hodgkin lymphoma
+1814951000006115	HIV disease resulting in other types of non-Hodgkin lymphoma
+4752171000006117	Hodgkin disease, nodular sclerosis of lymph nodes of multiple sites
+826671000006118	Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites
+309521000006115	[M]Granulocytic leukaemia NOS
+313411000006114	[M]Myelosis NOS
+3108991000006119	Chronic monocytic leukaemia [obs]
+3109021000006112	Monocytic leukaemia
+3108981000006117	Aleukaemic myelogenous leukaemia [obs]
+3109111000006117	Eosinophilic leukaemia
+3108971000006115	Aleukaemic granulocytic leukaemia [obs]
+3109071000006113	Subacute myelogenous leukaemia [obs]
+3108901000006114	Subacute myeloid leukemia [obs]
+3108801000006115	Myeloid leukemia
+3108891000006110	Chronic monocytic leukemia [obs]
+3108841000006118	Myelocytic leukemia
+3108851000006116	Aleukemic granulocytic leukemia [obs]
+3109091000006114	Subacute granulocytic leukaemia [obs]
+11908371000006112	[M]Other monocytic leukaemia NOS
+3109041000006117	Myelocytic leukaemia
+3108961000006110	Eosinophilic leukemia
+3108931000006118	Subacute granulocytic leukemia [obs]
+3108831000006111	Myelomonocytic leukemia
+3108871000006114	Aleukemic myelogenous leukemia [obs]
+3108951000006113	Monocytic leukemia
+3108911000006112	Subacute myelogenous leukemia [obs]
+3109031000006110	Myelogenous leukaemia
+3109001000006119	Aleukaemic myeloid leukaemia [obs]
+3109121000006113	Granulocytic leukaemia
+3109061000006118	Subacute myeloid leukaemia [obs]
+3108811000006117	Granulocytic leukemia
+3108941000006111	Non-lymphocytic leukemia
+3108861000006119	Aleukemic monocytic leukemia [obs]
+3109051000006115	Myelomonocytic leukaemia
+292062015	Monocytic leukaemia
+3109141000006118	Myeloid leukemia, no International Classification of Diseases for Oncology subtype
+3108821000006113	Myelogenous leukemia
+3109081000006111	Subacute monocytic leukaemia [obs]
+1216572014	[M]Myeloid leukaemia NOS
+3109101000006115	Non-lymphocytic leukaemia
+3108791000006116	Myeloid leukaemia
+3109011000006116	Aleukaemic monocytic leukaemia [obs]
+3108881000006112	Aleukemic myeloid leukemia [obs]
+3108921000006116	Subacute monocytic leukemia [obs]
+5914101000006112	Malignant lymphoma, convoluted cell type
+291887011	[M]Lymphomas, NOS or diffuse
+291953017	[M]Lymphoma, nodular or follicular NOS
+6861521000006116	Lymphoid neoplasm
+311441000006112	Lymphoid neoplasm
+4752721000006117	Sézary's disease of intrapelvic lymph nodes
+4752741000006112	Sézary disease of intrapelvic lymph nodes
+289746016	Sezary's disease of intrapelvic lymph nodes
+289738017	Mycosis fungoides of lymph nodes of multiple sites
+5701111000006119	IgA myeloma
+5701121000006110	Immunoglobulin A myeloma
+5602571000006115	Follicular malignant lymphoma - large cell
+5602581000006117	Malignant lymphoma - histiocytic, nodular
+414278016	Follicular non-Hodgkin's large cell lymphoma
+5602591000006119	Malignant lymphoma - non-cleaved, follicular
+313381000006111	[M]Myeloma NOS
+3408501000006116	Multiple myeloma, no International Classification of Diseases for Oncology subtype
+3408461000006116	Plasma cell myeloma
+3408471000006111	Myeloma
+3408491000006112	Multiple myeloma, no ICD-O subtype
+3408441000006115	Multiple myeloma
+3408451000006118	Myelomatosis
+315461000006113	[M]Plasmacytic myeloma
+1231541019	[M]Plasma cell myeloma
+313391000006114	[M]Myelomatosis
+5602171000006113	Hodgkin's disease, nodular sclerosis - syncytial variant
+5602161000006118	Hodgkin's disease, nodular sclerosis - lymphocytic depletion
+5602181000006111	Hodgkin disease, nodular sclerosis - lymphocytic depletion
+351472017	Lipochrome histiocytosis - familial
+5608041000006119	Malignant lymphoma of thyroid gland
+4173691000006113	AMML - Acute myelomonocytic leukemia
+4173681000006110	M4 - Acute myelomonocytic leukemia
+4173671000006112	AMML - Acute myelomonocytic leukaemia
+4173621000006111	Acute myelomonocytic leukaemia, FAB M4
+4173641000006116	Acute myelomonocytic leukemia, FAB M4
+458201000006115	M4 - Acute myelomonocytic leukaemia
+4173631000006114	Acute myelomonocytic leukaemia (clinical)
+4173651000006119	Acute myelomonocytic leukemia (clinical)
+289585014	Reticulosarcoma of lymph nodes of axilla and upper limb
+4752031000006116	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites
+826961000006118	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites
+474703011	Eosinophilic granuloma
+4421251000006116	Eosinophilic granuloma (clinical)
+4421271000006114	Eosinophilic xanthomatous granuloma
+4421241000006118	Langerhans cell histiocytosis, unifocal (clinical)
+2168481000000111	Unifocal Langerhans-cell histiocytosis
+4421281000006112	Langerhans cell histiocytosis, unifocal
+289598017	Lymphosarcoma of intrapelvic lymph nodes
+4022151000006112	Hodgkin's disease of intrathoracic lymph nodes
+4022161000006114	Hodgkin disease of intrathoracic lymph nodes
+289705014	Hodgkin's disease of intrathoracic lymph nodes
+457317011	Lambda light chain myeloma
+5601451000006115	Null cell acute lymphoblastic leukemia
+5601441000006117	Null cell acute lymphoblastic leukaemia
+4420181000006112	Hodgkin lymphoma - category
+453326010	[M]Hodgkin's disease NOS
+309991000006111	[M]Hodgkin's disease NOS
+4420171000006114	Hodgkin lymphoma (category)
+4005491000006113	Burkitt's tumor of lymph nodes of inguinal region AND/OR lower limb
+4005481000006110	Burkitt's tumour of lymph nodes of inguinal region AND/OR lower limb
+4005501000006117	Burkitt tumor of lymph nodes of inguinal region AND/OR lower limb
+6940881000006111	Primary cutaneous follicle center lymphoma
+6940891000006114	Primary cutaneous follicle centre lymphoma
+6940861000006118	Primary cutaneous follicle centre cell lymphoma
+6940871000006113	Primary cutaneous follicle center cell lymphoma
+7369671000006119	Follicular non-Hodgkin lymphoma of intestine
+7369661000006114	Follicular non-Hodgkin's lymphoma of intestine
+7369681000006116	Follicular non-Hodgkin's lymphoma of bowel
+7561031000006111	CBF-AML - core binding factor acute myeloid leukemia
+7561021000006113	Core binding factor acute myeloid leukemia
+7561011000006117	Core binding factor acute myeloid leukaemia
+7056071000006110	Aleukemic lymphoid leukemia in remission
+7056061000006115	Aleukemic lymphoid leukaemia in remission
+6692681000006118	Lymphomatoid papulosis type C (anaplastic large-cell lymphoma-like)
+4094991000006115	Hepatosplenic gamma-delta cell lymphoma
+7964521000006110	B-cell lymphoma with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma
+4016561000006113	Malignant mast cell tumour of extranodal AND/OR solid organ site
+4016571000006118	Malignant mast cell tumor of extranodal AND/OR solid organ site
+7361261000006112	Diffuse non-Hodgkin lymphoma of lung
+7361251000006110	Diffuse non-Hodgkin's lymphoma of lung
+7385111000006115	Mixed phenotype acute leukaemia with myeloid and B-cell lymphoid phenotypes
+7385101000006118	Mixed phenotype acute leukaemia B/myeloid
+7385131000006114	Mixed phenotype acute leukemia B/myeloid
+7385121000006111	Mixed phenotype acute leukemia with myeloid and B-cell lymphoid phenotypes
+4022021000006116	Hodgkin disease, nodular sclerosis of lymph nodes of axilla AND/OR upper limb
+4022011000006112	Hodgkin's disease, nodular sclerosis of lymph nodes of axilla AND/OR upper limb
+6585731000006112	Indolent systemic mastocytosis
+3508458010	Acute myeloid leukaemia with FMS-like tyrosine kinase-3 mutation
+3508457017	Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation
+3508460012	Acute myeloid leukaemia with FTL3 mutation
+3508459019	Acute myeloid leukemia with FTL3 mutation
+6842711000006119	Anaplastic large cell lymphoma, T- and null cell primary systemic types
+6842701000006117	Anaplastic large cell lymphoma, T/Null cell, primary systemic type
+7037371000006110	Low grade lymphoma, stage 1
+7068331000006117	Subacute leukaemia in remission
+7068341000006110	Subacute leukemia in remission
+7366611000006119	Diffuse non-Hodgkin's lymphoma of skin
+7366621000006110	Diffuse non-Hodgkin lymphoma of skin
+4416391000006118	Prolymphocytic leukemia, B-cell type
+4416381000006116	Prolymphocytic leukaemia, B-cell type
+2920656014	Myeloid leukaemia associated with Down Syndrome
+2920381015	Myeloid leukemia associated with Down Syndrome
+6847851000006114	Chronic myeloid leukemia in myeloid blast crisis
+6847841000006112	Chronic myeloid leukaemia in myeloid blast crisis
+4016251000006114	Malignant histiocytosis of lymph nodes of axilla AND/OR upper limb
+4016261000006111	Malignant histiocytosis of lymph nodes of head, face AND/OR neck
+7352381000006111	Lymphoma of lesser curvature of stomach
+5113551000006117	Primary amyloidosis of light chain type
+4417441000006116	Aggressive NK cell leukemia
+4417421000006111	Aggressive NK-cell leukemia
+4417431000006114	Aggressive NK cell leukaemia
+4417461000006117	Aggressive natural killer-cell leukaemia
+4417411000006115	Aggressive NK-cell leukaemia
+4417451000006119	Aggressive natural killer-cell leukemia
+4172531000006115	Follicular non-Hodgkin's lymphoma, small cleaved cell
+4172521000006118	Follicular non-Hodgkin's lymphoma, small cleaved cell (clinical)
+4172551000006110	Follicular lymphoma, grade 1
+4172541000006113	Follicular non-Hodgkin lymphoma, small cleaved cell
+4757481000006112	Compound leukaemias
+4757511000006116	Mixed leukaemia
+4757491000006110	Compound leukemias
+4757501000006119	Mixed leukemia
+6916841000006112	Precursor B-cell neoplasm
+6870301000006118	Plasma cell neoplasm
+6944521000006118	Atypical Burkitt lymphoma
+6944511000006114	Atypical Burkitt's lymphoma
+4042901000006113	Myeloid sarcoma in remission
+12011571000006118	Splenic diffuse red pulp small B-cell lymphoma
+6586421000006112	Burkitt lymphoma/leukemia
+6586411000006116	Burkitt lymphoma/leukaemia
+7385841000006112	Malignant lymphoma, diffuse large B-cell, immunoblastic
+1234197011	[M]Malignant lymphoma, immunoblastic type
+4255941000006113	Specified cutaneous AND/OR peripheral T cell lymphoma
+7815321000006113	Refractory thrombocytopenia
+7815311000006117	Refractory thrombocytopaenia
+4172841000006110	Mediterranean lymphoma (clinical)
+4172831000006117	Immunoproliferative small intestinal disease (clinical)
+4172851000006112	Immunoproliferative small intestinal disease
+7055691000006114	Aleukemic leukemia in remission
+4172211000006112	Diffuse non-Hodgkin's lymphoma, undifferentiated
+4172221000006116	Diffuse non-Hodgkin lymphoma, undifferentiated
+3073391000006113	Monoclonal gammopathy of undetermined significance
+3073401000006110	Monoclonal gammopathy
+3073421000006117	MGUS
+215917018	[M] Monoclonal gammopathy
+293369012	Paraproteinaemia
+3073411000006113	Paraproteinemia
+6693141000006114	CD-30 positive pleomorphic large T-cell cutaneous lymphoma
+7963891000006112	DLBCL (diffuse large B-cell lymphoma) associated with chronic inflammation
+7963881000006114	Diffuse large B-cell lymphoma associated with chronic inflammation
+5701191000006112	IgG monoclonal gammopathy of uncertain significance
+5701201000006110	Immunoglobulin G monoclonal gammopathy of uncertain significance
+5141671000006119	Lymphomatoid granulomatosis
+5141681000006116	LG - Lymphomatoid granulomatosis
+4021681000006118	Hodgkin disease, lymphocytic depletion of lymph nodes of axilla AND/OR upper limb
+4021671000006116	Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla AND/OR upper limb
+4009671000006113	Chronic lymphoid leukaemia in remission
+4009681000006111	Chronic lymphoid leukemia in remission
+7385171000006112	Mixed phenotype acute leukemia with myeloid and T-cell lymphoid phenotypes
+7385161000006117	Mixed phenotype acute leukaemia with myeloid and T-cell lymphoid pheotypes
+7385141000006116	Mixed phenotype acute leukaemia T/myeloid
+7385151000006119	Mixed phenotype acute leukemia T/myeloid
+7859031000006119	Primary follicular dendritic cell sarcoma
+7385811000006113	B lymphoblastic leukaemia lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)
+7385821000006117	B lymphoblastic leukemia lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)
+6843721000006115	Smoldering multiple myeloma
+6843731000006117	Smouldering multiple myeloma
+6843711000006111	Smouldering myeloma
+6843741000006110	Smoldering myeloma
+7295031000006115	Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue of stomach
+7295021000006118	Mucosa-associated lymphoid tissue (MALT) lymphoma of stomach
+7815421000006119	Systemic Epstein-Barr virus positive T-cell lymphoproliferative disease of childhood
+3992671000006113	Acute monocytic leukaemia in remission
+3992681000006111	Acute monocytic leukemia in remission
+6693201000006119	Pleomorphic small/medium-sized cell cutaneous T-cell lymphoma
+6693131000006116	CD-30 positive anaplastic large T-cell cutaneous lymphoma
+7047571000006119	Osteosclerotic myeloma
+7345641000006119	Lymphoma of pyloric antrum of stomach
+6847901000006116	Chronic phase chronic myeloid leukaemia
+6847911000006118	Chronic phase chronic myeloid leukemia
+4016141000006115	Lymphoid leukemia in remission
+4016131000006113	Lymphoid leukaemia in remission
+7385221000006118	B lymphoblastic leukemia / lymphoma - category
+7385211000006114	B lymphoblastic leukaemia / lymphoma - category
+7385461000006113	Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1
+7385451000006111	Acute myeloid leukaemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1
+4415901000006115	Precursor B-cell lymphoblastic lymphoma
+7364271000006115	Gastrointestinal lymphoma
+7364281000006117	Lymphoma of gastrointestinal tract
+7363891000006116	Lymphoma of lower esophagus
+7363881000006119	Lymphoma of lower oesophagus
+7776701000006118	Congenital analbuminemia
+7776691000006118	Congenital analbuminaemia
+7752061000006119	Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly
+3810361000006116	Acute panmyelosis
+292075015	[M]Acute myelofibrosis
+304431000006115	[M]Acute panmyelosis
+12702801000006115	Acute panmyelosis with myelofibrosis
+3810371000006111	Malignant myelosclerosis [obs]
+304421000006118	Acute panmyelosis with myelofibrosis
+3810381000006114	Acute myelosclerosis
+3810391000006112	Acute myelofibrosis
+3212951000006111	Lymphoma stage IIIe
+7366601000006117	Diffuse non-Hodgkin lymphoma of soft tissue
+7366591000006113	Diffuse non-Hodgkin's lymphoma of soft tissue
+6587361000006114	Follicular lymphoma, cutaneous follicle center sub-type
+6587351000006112	Follicular lymphoma, cutaneous follicle centre sub-type
+4022331000006115	Hodgkin's granuloma of lymph nodes of axilla AND/OR upper limb
+4022341000006113	Hodgkin granuloma of lymph nodes of axilla AND/OR upper limb
+3842811000006117	Reactive immunoproliferative disease
+4022531000006114	Hodgkin paragranuloma of spleen
+154859011	Hodgkin's paragranuloma of spleen
+3517128017	Pediatric follicular lymphoma
+3517129013	Paediatric follicular lymphoma
+6693531000006113	Diffuse large B-cell lymphoma (nodal/systemic with skin involvement)
+6692651000006114	Lymphomatoid papulosis type B - mycosis fungoides-like
+6692671000006116	Lymphomatoid pityriasis lichenoides
+6692661000006111	Pityriasis lichenoides, lymphomatoid
+7838571000006117	B-cell lymphoma unclassifiable with features intermediate between Burkitt lymphoma and diffuse large B-cell lymphoma
+7525261000006119	Hepatosplenic gamma-delta cell lymphoma
+7354151000006112	Non-Hodgkin's lymphoma of oral cavity
+7354161000006114	Non-Hodgkin lymphoma of oral cavity
+6585661000006112	Post-transplant lymphoproliferative disorder, polymorphic
+7352201000006110	Non-Hodgkin's lymphoma of central nervous system
+7352211000006113	Non-Hodgkin lymphoma of central nervous system
+4173211000006118	Idiopathic thrombocythemia
+2535666012	Idiopathic thrombocythaemia
+206411000006114	Primary thrombocythaemia
+4173191000006119	Essential thrombocythemia (clinical disorder)
+4173201000006116	Essential thrombocythemia
+11907251000006112	[M]Idiopathic thrombocythaemia
+648841000006119	Essential thrombocythaemia
+786661000006115	Idiopathic thrombocythaemia
+2535665011	Essential thrombocytosis
+7858991000006110	Diffuse large B-cell lymphoma co-occurrent with chronic inflammation caused by Epstein-Barr virus
+7859001000006110	Diffuse large B-cell lymphoma with chronic inflammation caused by Human herpesvirus 4
+6692901000006117	Erythrodermic cutaneous T-cell lymphoma
+6692891000006116	Erythrodermic mycosis fungoides
+4022661000006116	Hodgkin's sarcoma of lymph nodes of inguinal region AND/OR lower limb
+4022671000006111	Hodgkin sarcoma of lymph nodes of inguinal region AND/OR lower limb
+2601621000006112	IgA heavy chain disease
+2601641000006117	Gamma heavy chain disease
+2601611000006116	Alpha heavy chain disease
+2601651000006115	Franklin disease
+291962015	[M] Gamma heavy chain disease
+2601631000006110	Mu heavy chain disease
+291960011	[M] Alpha heavy chain disease
+2601601000006119	Heavy chain disease
+4016551000006111	Malignant mast cell tumor of spleen
+4016541000006114	Malignant mast cell tumour of spleen
+4420261000006114	Acute leukemia - category
+4420241000006110	Acute leukemia (category)
+4420231000006117	Acute leukaemia (category)
+4420251000006112	Acute leukaemia - category
+4022051000006113	Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region AND/OR lower limb
+4022061000006110	Hodgkin disease, nodular sclerosis of lymph nodes of inguinal region AND/OR lower limb
+7708301000006110	Diffuse non-Hodgkin's immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection
+7708291000006114	Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection
+7708311000006113	Immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection
+7359071000006119	Non-Hodgkin lymphoma of stomach
+7359061000006114	Non-Hodgkin's lymphoma of stomach
+6693561000006116	Mantle cell B-cell lymphoma (nodal/systemic with skin involvement)
+5350481000006116	Proliferating angioendotheliomatosis
+8030651000006115	Hypoalbuminemia due to protein calorie malnutrition
+8030641000006117	Hypoalbuminaemia due to protein calorie malnutrition
+6347721000006110	Acute lymphoblastic leukemia, transitional pre-B-cell
+6347711000006119	Acute lymphoblastic leukaemia, transitional pre-B-cell
+2549611000006117	T-zone lymphoma
+2549691000006110	Peripheral T-cell lymphoma, no International Classification of Diseases for Oncology subtype
+2549681000006112	Peripheral T-cell lymphoma, no ICD-O subtype
+2549621000006113	T-cell lymphoma
+2549631000006111	Peripheral T-cell lymphoma, pleomorphic small cell
+2549601000006115	Lennert lymphoma
+2549641000006118	Peripheral T-cell lymphoma, pleomorphic medium and large cell
+2549581000006113	Lymphoepithelioid lymphoma
+2549671000006114	Peripheral T-cell lymphoma unspecified
+2549661000006119	Mature T-cell lymphoma
+2549591000006111	Lennert's lymphoma
+2549571000006110	Peripheral T-cell lymphoma
+2549651000006116	Peripheral T-cell lymphoma, large cell
+6841351000006112	Acute myeloid leukaemia
+6841371000006119	Acute myeloid leukemia - category
+6841381000006116	Acute myeloid leukaemia - category
+6841361000006114	Acute myeloid leukemia
+7366631000006113	Lymphoma of sigmoid colon
+4756951000006113	Refractory anemia without sideroblasts, so stated
+1815751000006117	Refractory anaemia without ring sideroblasts
+291252015	Refractory anaemia without sideroblasts, so stated
+7815271000006117	Refractory anaemia with ringed sideroblasts associated with marked thrombocytosis
+7815281000006119	Refractory anemia with ringed sideroblasts associated with marked thrombocytosis
+4009621000006112	Chronic leukemia in remission
+4009611000006116	Chronic leukaemia in remission
+7815401000006112	Aggressive natural killer-cell leukaemia
+7815411000006110	Aggressive natural killer-cell leukemia
+7385061000006116	Mixed phenotype acute leukaemia with t(9;22)(q34;q11.2); BCR-ABL1
+7385071000006111	Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1
+4095321000006119	Acute granulocytic leukemia without maturation
+4095331000006116	Acute myelogenous leukemia without maturation
+4095301000006112	Acute myeloid leukemia without maturation
+4095381000006115	Acute myelocytic leukaemia without maturation
+4095391000006117	Acute myeloblastic leukaemia without maturation
+4095351000006111	FAB M1
+4095361000006113	Acute granulocytic leukaemia without maturation
+4095341000006114	Acute myelocytic leukemia without maturation
+4095311000006110	Acute myeloblastic leukemia without maturation
+4095371000006118	Acute myelogenous leukaemia without maturation
+4095291000006111	Acute myeloid leukaemia without maturation
+7566531000006112	Follicular non-Hodgkin's lymphoma diffuse follicle centre sub-type grade 1
+7566551000006117	Follicular non-Hodgkin's lymphoma diffuse follicle center sub-type grade 1
+7566561000006115	Follicular non-Hodgkin lymphoma diffuse follicle centre sub-type grade 1
+7566541000006119	Follicular non-Hodgkin lymphoma diffuse follicle center sub-type grade 1
+4022651000006118	Hodgkin sarcoma of lymph nodes of head, face AND/OR neck
+4022641000006115	Hodgkin's sarcoma of lymph nodes of head, face AND/OR neck
+6585561000006111	Acute leukaemia of ambiguous lineage
+6585571000006116	Acute leukemia of ambiguous lineage
+6692801000006111	Hypomelanotic cutaneous T-cell lymphoma
+6692791000006110	Hypomelanotic mycosis fungoides
+6864731000006114	Myelodysplastic syndrome, unclassified by World Health Organization classification
+6864721000006111	Myelodysplastic syndrome, unclassified by WHO classification
+6580321000006116	Mast cell malignancy of lymph nodes
+6585651000006110	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue
+4315011000006110	Hypoalbuminaemia
+4315021000006119	Hypoalbuminemia
+2475440015	Serum albumin low
+7328231000006118	Leukaemic infiltration
+7328241000006111	Leukemic infiltration
+6860401000006118	Kappa light chain myeloma
+4172581000006119	Follicular non-Hodgkin lymphoma, mixed small cleaved cell and large cell
+4172591000006116	Follicular lymphoma grade 2
+4172571000006117	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell
+4172561000006112	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell (clinical)
+3532634012	Myeloid/lymphoid neoplasm associated with PDGFRA rearrangement
+3532636014	Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement
+6931771000006112	Immunodeficiency-associated Burkitt lymphoma
+6931761000006117	Immunodeficiency-associated Burkitt's lymphoma
+7364321000006111	Lymphoma of small intestine
+7364311000006115	Lymphoma of small bowel
+6692641000006112	Lymphomatoid papulosis type A (CD-30 positive type)
+6871131000006118	Precursor T-cell neoplasm
+6693331000006119	Leukaemic infiltration of skin in hairy-cell leukaemia
+6693341000006112	Leukemic infiltration of skin in hairy-cell leukemia
+7364341000006116	Lymphoma of cardioesophageal junction
+7364331000006114	Lymphoma of cardio-oesophageal junction
+6585471000006115	Acute myeloid leukaemia with multilineage dysplasia without antecedent myelodysplastic syndrome
+6585481000006117	Acute myeloid leukemia with multilineage dysplasia without antecedent myelodysplastic syndrome
+6585491000006119	AML with multilineage dysplasia without antecedent myelodysplastic syndrome
+7065691000006117	Hodgkin disease, lymphocytic depletion of lymph nodes of head
+7065681000006115	Hodgkin's disease, lymphocytic depletion of head
+7065671000006118	Hodgkin's disease, lymphocytic depletion of lymph nodes of head
+6693191000006117	CD-30 negative T-immunoblastic cutaneous lymphoma
+6693651000006117	Granulocytic sarcoma affecting skin
+6693471000006112	Primary cutaneous diffuse large cell B-cell lymphoma
+7650341000006111	Periodontitis co-occurrent with leukemia
+7650361000006110	Periodontitis associated with leukemia
+7650331000006118	Periodontitis co-occurrent with leukaemia
+7650351000006113	Periodontitis associated with leukaemia
+4022091000006119	Hodgkin's disease, nodular sclerosis of extranodal AND/OR solid organ site
+4022101000006113	Hodgkin disease, nodular sclerosis of extranodal AND/OR solid organ site
+4005431000006114	Burkitt's tumor of lymph nodes of axilla AND/OR upper limb
+4005441000006116	Burkitt tumor of lymph nodes of axilla AND/OR upper limb
+4005421000006111	Burkitt's tumour of lymph nodes of axilla AND/OR upper limb
+7368061000006111	Follicular non-Hodgkin lymphoma of ovary
+7368051000006114	Follicular non-Hodgkin's lymphoma of ovary
+7058001000006115	Subacute lymphoid leukemia in remission
+7057991000006113	Subacute lymphoid leukaemia in remission
+6580391000006119	Systemic mastocytosis with associated clonal hematological non-mast cell lineage disease
+6580381000006117	Systemic mastocytosis with associated clonal haematological non-mast cell lineage disease
+6870331000006114	Plasmacytoma - category
+6693281000006111	Aggressive NK-cell leukemia involving skin
+6693271000006113	Aggressive NK-cell leukaemia involving skin
+6693301000006110	Aggressive natural killer-cell leukaemia involving skin
+6693291000006114	Aggressive natural killer-cell leukemia involving skin
+7384931000006113	Hydroa vacciniforme-like lymphoma
+6693311000006113	Precursor B-cell lymphoblastic lymphoma involving skin
+6692881000006119	Tumor stage cutaneous T-cell lymphoma
+6692861000006112	Tumor stage mycosis fungoides
+6692851000006110	Tumour stage mycosis fungoides
+6692871000006117	Tumour stage cutaneous T-cell lymphoma
+2707081000006115	Orbital lymphoma
+7356671000006118	Lymphoma of pelvis
+7358281000006116	Diffuse non-Hodgkin lymphoma of stomach
+7358271000006119	Diffuse non-Hodgkin's lymphoma of stomach
+289626018	Hodgkin's paragranuloma of lymph nodes of multiple sites
+4751761000006117	Hodgkin paragranuloma of lymph nodes of multiple sites
+6939661000006113	Primary cutaneous T-cell lymphoma, large cell, CD30-negative
+12049801000006116	Primary bone lymphoma
+7353041000006113	Follicular non-Hodgkin's lymphoma of soft tissue
+7353051000006110	Follicular non-Hodgkin lymphoma of soft tissue
+11930221000006112	Angioimmunoblastic T-cell lymphoma
+6861861000006112	Mature (peripheral) B-cell neoplasm
+7385771000006113	B lymphoblastic leukaemia lymphoma with hypodiploidy (Hypodiploid ALL)
+7385781000006111	B lymphoblastic leukemia lymphoma with hypodiploidy (Hypodiploid ALL)
+4352961000006113	Alpha heavy chain disease, enteric form
+6926951000006111	Primary cutaneous plasmacytoma
+4393561000006115	Malignant histiocytic disorder
+7561511000006114	Therapy-related myelodysplastic syndrome
+7385871000006116	T-cell rich/histiocyte-rich large B-cell lymphoma
+7385861000006111	T-cell rich large B-cell lymphoma
+7385851000006114	T-cell/histiocyte rich large B-cell lymphoma
+7385881000006118	Histiocyte-rich large B-cell lymphoma
+7385091000006112	Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged
+7385081000006114	Mixed phenotype acute leukaemia with t(v;11q23); MLL rearranged
+6693001000006113	Localised pagetoid reticulosis
+6693011000006111	Localized pagetoid reticulosis
+6693021000006115	Epidermotropic reticulosis
+6693031000006117	Epidermotropic lymphoblastoma
+6947001000006111	Primary cutaneous marginal zone B-cell lymphoma
+8019611000006115	Disorder of central nervous system co-occurrent and due to acute lymphoid leukaemia
+8019621000006111	Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia
+6692821000006118	Lymphomatoid papulosis-associated cutaneous T-cell lymphoma
+6692811000006114	Lymphomatoid papulosis-associated mycosis fungoides
+7348441000006114	Non-Hodgkin's lymphoma of extranodal site
+7348451000006111	Non-Hodgkin lymphoma of extranodal site
+6936571000006111	Pagetoid reticulosis
+6585581000006118	Precursor B-lymphoblastic leukemia/lymphoblastic lymphoma
+6585591000006115	B-cell lymphoblastic lymphoma/leukemia
+6585601000006111	B-cell lymphoblastic lymphoma/leukaemia
+4016511000006110	Malignant mast cell tumor of lymph nodes of inguinal region AND/OR lower limb
+4016501000006112	Malignant mast cell tumour of lymph nodes of inguinal region AND/OR lower limb
+7050641000006112	Acute promyelocytic leukaemia, FAB M3, in remission
+7050651000006114	Acute promyelocytic leukemia, FAB M3, in remission
+7351871000006113	Follicular non-Hodgkin lymphoma of nose
+7351861000006118	Follicular non-Hodgkin's lymphoma of nose
+7051751000006110	Pre B-cell acute lymphoblastic leukaemia in remission
+7051761000006112	Pre B-cell acute lymphoblastic leukemia in remission
+2900111000006118	Alpha heavy chain disease, respiratory form
+4016301000006119	Malignant histiocytosis of extranodal AND/OR solid organ site
+7838581000006119	B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma
+7569011000006116	Follicular non-Hodgkin's lymphoma diffuse follicle centre cell sub-type grade 2
+7569021000006112	Follicular non-Hodgkin lymphoma diffuse follicle centre cell sub-type grade 2
+7569041000006117	Follicular non-Hodgkin's lymphoma diffuse follicle center cell sub-type grade 2
+7569031000006110	Follicular non-Hodgkin lymphoma diffuse follicle center cell sub-type grade 2
+4016421000006118	Malignant mast cell tumour of intrapelvic lymph nodes
+4016431000006115	Malignant mast cell tumor of intrapelvic lymph nodes
+3636382013	Therapy related acute myeloid leukemia due to and following administration of antineoplastic agent
+3635334012	Therapy related acute myeloid leukaemia due to and following administration of antineoplastic agent
+7740111000006117	Anaplastic lymphoma kinase positive large B-cell lymphoma
+7740101000006115	ALK-positive large B-cell lymphoma
+7815431000006116	Indeterminate dendritic cell neoplasm
+7815441000006114	Indeterminate dendritic cell tumour
+7815451000006111	Indeterminate dendritic cell tumor
+4419001000006118	Cutaneous CD30+ lymphoproliferative disorder
+7360011000006110	Non-Hodgkin lymphoma of uterine cervix
+7360001000006112	Non-Hodgkin's lymphoma of uterine cervix
+7354121000006115	Non-Hodgkin's lymphoma of nose
+7354131000006117	Non-Hodgkin lymphoma of nose
+6873211000006117	Refractory cytopaenia with multilineage dysplasia
+6873221000006113	Refractory cytopenia with multilineage dysplasia
+7385361000006119	Acute myeloid leukaemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1
+7385371000006114	Acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1
+6693991000006119	Mast cell leukemia affecting skin
+6693981000006117	Mast cell leukaemia affecting skin
+2821271000006113	Delta heavy chain disease
+2821281000006111	IgD heavy chain disease
+8019601000006118	Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia in remission
+8019591000006114	Disorder of central nervous system co-occurrent and due to acute lymphoid leukaemia in remission
+7959401000006110	Acute myeloid leukemia with t(6;9)(p23;q34) translocation
+7959391000006113	Acute myeloid leukaemia with t(6;9)(p23;q34) translocation
+6864531000006116	MALT orbital tumour
+6864511000006110	MALT orbital lymphoma
+6864521000006119	MALT orbital tumor
+6864541000006114	Mucosa-associated lymphoid tissue lymphoma of orbit
+6864501000006112	Mucosa-associated lymphoid tissue (MALT) lymphoma of orbit
+6870291000006119	Plasma cell myeloma/plasmacytoma
+7719931000006111	Primary effusion lymphoma co-occurrent with infection caused by Human herpesvirus 8
+7384951000006118	Plasmablastic lymphoma
+5701281000006118	Immunoglobulin D monoclonal gammopathy of uncertain significance
+5701271000006116	IgD monoclonal gammopathy of uncertain significance
+4416801000006118	Pro-T ALL
+4416831000006114	Cortical T ALL
+4416791000006119	Precursor T-cell lymphoblastic leukaemia
+4416811000006115	Pre-T ALL
+4416841000006116	Precursor T-cell lymphoblastic leukemia
+4416821000006111	Mature T ALL
+4042611000006117	Mixed cell type lymphosarcoma of intrathoracic lymph nodes
+7248461000006119	Indolent myeloma
+7248451000006116	Indolent multiple myeloma
+7334771000006117	Marginal zone lymphoma
+4173441000006118	RAEB-T - Refractory anaemia with excess blasts in transformation
+4173431000006111	Refractory anemia with excess blasts in transformation (clinical)
+4173471000006114	Refractory anemia with excess blasts in transformation
+179151000006119	Refractory anaemia with excess blasts in transformation (clinical)
+4173451000006116	RAEB-T - Refractory anemia with excess blasts in transformation
+4173461000006119	Refractory anaemia with excess blasts in transformation
+7527551000006112	T-cell large granular lymphocytic leukaemia
+7527561000006114	T-cell large granular lymphocytic leukemia
+12039211000006118	Acute myeloid leukaemia and myelodysplastic syndrome related to radiation
+12039221000006114	Acute myeloid leukemia and myelodysplastic syndrome related to radiation
+4022461000006118	Hodgkin's paragranuloma of lymph nodes of head, face AND/OR neck
+4022481000006111	Hodgkin paragranuloma of lymph nodes of head, face AND/OR neck
+826751000006118	Hodgkin's paragranuloma of lymph nodes of head, face, and neck
+4022621000006110	Hodgkin's sarcoma of lymph nodes of axilla AND/OR upper limb
+4022631000006113	Hodgkin sarcoma of lymph nodes of axilla AND/OR upper limb
+6671201000006113	Primary cutaneous large T-cell lymphoma
+7385701000006119	B lymphoblastic leukemia lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
+7385691000006119	B lymphoblastic leukaemia lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
+4042891000006114	Myeloid leukemia in remission
+4042881000006111	Myeloid leukaemia in remission
+315441000006114	[M]Plasma cell tumour, malignant
+6623111000006119	Plasma cell myeloma/plasmacytoma
+6693321000006117	Small lymphocytic B-cell lymphoma involving skin
+3635398013	Classical Hodgkin lymphoma
+7704631000006119	Reticulosarcoma co-occurrent with human immunodeficiency virus infection
+3876711000006111	Lymphoproliferative disease, no ICD-O subtype
+3876701000006113	Lymphoproliferative disease
+3876721000006115	Lymphoproliferative disease, no International Classification of Diseases for Oncology subtype
+6870281000006117	Plasma cell myeloma - category
+7963731000006117	Diffuse large B-cell lymphoma of central nervous system
+7964511000006119	Splenic B-cell lymphoma
+7364001000006115	Follicular non-Hodgkin's lymphoma of tonsil
+7364011000006117	Follicular non-Hodgkin lymphoma of tonsil
+7384941000006115	Primary cutaneous gamma-delta T-cell lymphoma
+6873191000006118	Refractory anaemia with excess blasts-2
+6873201000006115	Refractory anemia with excess blasts-2
+6873181000006116	Refractory anemia with excess blasts-1
+6873171000006119	Refractory anaemia with excess blasts-1
+4094971000006116	Subcutaneous panniculitis-like T-cell lymphoma
+4094981000006118	Subcutaneous panniculitic T-cell lymphoma
+7858981000006112	T-cell hystiocyte rich large B-cell lymphoma
+4021821000006118	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of axilla AND/OR upper limb
+4021811000006114	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla AND/OR upper limb
+4415511000006110	Composite Hodgkin and non-Hodgkin lymphoma
+7351601000006115	Follicular non-Hodgkin's lymphoma of prostate
+7351611000006117	Follicular non-Hodgkin lymphoma of prostate
+4415861000006110	Precursor cell lymphoblastic lymphoma
+4415891000006119	Lymphoblastoma [obs]
+4415881000006117	Malignant lymphoma, convoluted cell [obs]
+4415871000006115	Malignant lymphoma, lymphoblastic
+4022711000006110	Hodgkin sarcoma of extranodal AND/OR solid organ site
+4022701000006112	Hodgkin's sarcoma of extranodal AND/OR solid organ site
+7344161000006112	Lymphoma of pylorus of stomach
+4053761000006116	Sézary's disease of extranodal AND/OR solid organ site
+4053771000006111	Sezary's disease of extranodal AND/OR solid organ site
+4053781000006114	Sézary disease of extranodal AND/OR solid organ site
+12039171000006115	Acute myeloid leukemia and myelodysplastic syndrome related to topoisomerase type 2 inhibitor
+12039181000006117	Acute myeloid leukaemia and myelodysplastic syndrome related to topoisomerase type II inhibitor
+12039161000006110	Acute myeloid leukaemia and myelodysplastic syndrome related to topoisomerase type 2 inhibitor
+12039191000006119	Acute myeloid leukemia and myelodysplastic syndrome related to topoisomerase type II inhibitor
+6693041000006110	Generalised pagetoid reticulosis
+6693061000006114	Ketron-Goodman disease
+6693051000006112	Generalized pagetoid reticulosis
+7769011000006117	Familial essential thrombocythemia
+7768991000006115	Inherited predisposition to essential thrombocythaemia
+7769001000006115	Inherited predisposition to essential thrombocythemia
+7769021000006113	Familial essential thrombocythaemia
+6692911000006119	Bullous mycosis fungoides
+6692921000006110	Bullous cutaneous T-cell lymphoma
+7582501000006118	Acute myeloid leukemia with mutated NPM1
+7582491000006114	Acute myeloid leukaemia with mutated NPM1
+3508454012	Acute myeloid leukemia with FTL3 mutation
+3508455013	Acute myeloid leukaemia with FTL3 mutation
+3508453018	Acute myeloid leukaemia with FMS-like tyrosine kinase-3 mutation
+3508452011	Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation
+4015481000006113	Letterer-Siwe disease of lymph nodes of head, face AND/OR neck
+746041000006117	Letterer-Siwe disease of lymph nodes of head, face and neck
+6847791000006114	Chronic lymphoid leukemia - category
+6847781000006111	Chronic lymphoid leukaemia - category
+4005381000006118	Burkitt tumor of intrapelvic lymph nodes
+4005371000006116	Burkitt's tumor of intrapelvic lymph nodes
+4005361000006111	Burkitt's tumour of intrapelvic lymph nodes
+7819511000006113	Follicular lymphoma of small intestine
+4022031000006118	Hodgkin's disease, nodular sclerosis of lymph nodes of head, face AND/OR neck
+4022041000006111	Hodgkin disease, nodular sclerosis of lymph nodes of head, face AND/OR neck
+6671231000006117	CBCL - Cutaneous B-cell lymphoma
+6671211000006111	Primary cutaneous B-cell lymphoma
+6671221000006115	Cutaneous B-cell lymphoma
+6693431000006114	Crosti's lymphoma
+6693421000006111	Primary cutaneous follicle centre-cell B-cell lymphoma
+11930201000006119	Primary cutaneous follicle centre lymphoma
+6693451000006119	Primary cutaneous follicle center lymphoma
+6693411000006115	Primary cutaneous follicular centre B-cell lymphoma
+6693441000006116	Primary cutaneous follicular center B-cell lymphoma
+7364131000006112	Diffuse non-Hodgkin's lymphoma of nose
+7364141000006119	Diffuse non-Hodgkin lymphoma of nose
+4021831000006115	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face AND/OR neck
+4021841000006113	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of head, face AND/OR neck
+7815351000006116	Therapy related acute myeloid leukaemia and myelodysplastic syndrome
+7815361000006119	Therapy related acute myeloid leukemia and myelodysplastic syndrome
+6844201000006119	B-cell neoplasm
+4206611000006118	Lymphoma stage III 1
+2590481000006112	Lymphoma stage IIe
+4042591000006111	Mixed cell type lymphosarcoma of intra-abdominal lymph nodes
+6942791000006116	Endemic Burkitt's lymphoma
+6942801000006115	Endemic Burkitt lymphoma
+7995771000006116	B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma
+7315981000006111	Lymphomatous infiltration
+4417021000006115	Acute myeloid leukemia without prior myelodysplastic syndrome
+4417031000006117	Acute myeloid leukemia with prior myelodysplastic syndrome
+4417051000006112	Acute myeloid leukaemia with prior myelodysplastic syndrome
+4417071000006119	Acute myeloid leukaemia with myelodysplasia-related changes
+4417011000006111	Acute myeloid leukaemia with multilineage dysplasia
+4417041000006110	Acute myeloid leukemia with multilineage dysplasia
+4417081000006116	Acute myeloid leukemia with myelodysplasia-related changes
+4417061000006114	Acute myeloid leukaemia without prior myelodysplastic syndrome
+4172431000006119	Diffuse non-Hodgkin lymphoma, small cell
+4172421000006117	Diffuse non-Hodgkin's lymphoma, small cell
+4172411000006113	Diffuse non-Hodgkin's lymphoma, small cell (clinical)
+3954561000006118	Lymphoma stage Ie
+12026941000006116	Primary cutaneous epidermotropic cytotoxic CD8 positive T-cell lymphoma
+12026931000006114	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma
+12026951000006119	Berti lymphoma
+3992691000006114	Acute myeloid leukaemia in remission
+3992701000006114	Acute myeloid leukemia in remission
+4016521000006119	Malignant mast cell tumour of lymph nodes of multiple sites
+4016531000006116	Malignant mast cell tumor of lymph nodes of multiple sites
+12008581000006113	Splenic marginal zone B-cell lymphoma
+7354011000006112	Non-Hodgkin lymphoma of ovary
+7354001000006114	Non-Hodgkin's lymphoma of ovary
+6693571000006111	Leukaemic infiltration of skin in myeloid leukaemia
+6693581000006114	Leukemic infiltration of skin in myeloid leukemia
+4042601000006115	Mixed cell type lymphosarcoma of intrapelvic lymph nodes
+7365941000006116	Diffuse non-Hodgkin lymphoma of bone
+7365931000006114	Diffuse non-Hodgkin's lymphoma of bone
+7054411000006117	Acute myeloid leukaemia with maturation, FAB M2, in remission
+7054421000006113	Acute myeloid leukemia with maturation, FAB M2, in remission
+6693631000006112	Leukaemic infiltration of skin in monocytic leukaemia
+6693641000006119	Leukemic infiltration of skin in monocytic leukemia
+6693481000006110	Primary cutaneous anaplastic large cell B-cell lymphoma
+4415571000006118	Primary effusion lymphoma
+6693591000006112	Leukaemic infiltration of skin in acute myeloid leukaemia
+6693601000006116	Leukemic infiltration of skin in acute myeloid leukemia
+4021901000006117	Hodgkin disease, lymphocytic-histiocytic predominance of extranodal AND/OR solid organ site
+4021891000006116	Hodgkin's disease, lymphocytic-histiocytic predominance of extranodal AND/OR solid organ site
+4416421000006114	T-cell prolymphocytic leukemia
+4416401000006116	Prolymphocytic leukaemia, T-cell type
+4416431000006112	T-cell prolymphocytic leukaemia
+4416411000006118	Prolymphocytic leukemia, T-cell type
+7961761000006110	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma
+6951681000006115	Reticulosarcoma associated with acquired immunodeficiency syndrome
+6951671000006118	Reticulosarcoma associated with AIDS
+7859021000006117	Langerhans cell sarcoma
+12005521000006119	Primary lymphoid conjunctival tumor
+12005511000006110	Primary lymphoma of conjunctiva
+12005531000006116	Primary lymphoid conjunctival tumour
+7076941000006115	T-cell acute lymphoblastic leukemia in remission
+7076931000006113	T-cell acute lymphoblastic leukaemia in remission
+5701311000006116	Light chain monoclonal gammopathy of uncertain significance
+4022491000006114	Hodgkin's paragranuloma of lymph nodes of inguinal region AND/OR lower limb
+826691000006117	Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb
+4022511000006115	Hodgkin paragranuloma of lymph nodes of inguinal region AND/OR lower limb
+4052681000006110	Nodular lymphoma of extranodal AND/OR solid organ site
+6692771000006114	Folliculotropic mycosis fungoides
+6692761000006119	Follicular mucinosis type mycosis fungoides
+6692781000006112	Alopecia mucinosa (T cell lymphoma)
+6693151000006111	CD-30 positive T-immunoblastic cutaneous lymphoma
+7385581000006116	Post transplant lymphoproliferative disorder, no International Classification of Diseases for Oncology subtype
+7385571000006119	Post transplant lymphoproliferative disorder, no ICD-O subtype
+7385591000006118	PTLD
+7385561000006114	Post transplant lymphoproliferative disorder
+4417251000006115	Therapy-related acute myeloid leukemia, alkylating agent related
+4417231000006110	Therapy-related acute myeloid leukaemia and myelodysplastic syndrome
+4417241000006117	Therapy-related acute myeloid leukemia, epipodophyllotoxin-related
+4417281000006111	Therapy-related acute myeloid leukaemia, epipodophyllotoxin-related
+4417261000006118	Therapy-related acute myeloid leukemia and myelodysplastic syndrome
+4417271000006113	Therapy-related acute myeloid leukaemia, alkylating agent related
+7359451000006119	Non-Hodgkin lymphoma of soft tissue
+7359441000006116	Non-Hodgkin's lymphoma of soft tissue
+7251771000006111	Mantle cell lymphoma of spleen
+4415911000006117	Precursor T-cell lymphoblastic lymphoma
+6847831000006119	Chronic myeloid leukemia in lymphoid blast crisis
+6847821000006117	Chronic myeloid leukaemia in lymphoid blast crisis
+6693231000006110	Anaplastic large T-cell systemic malignant lymphoma
+7358451000006113	Follicular non-Hodgkin's lymphoma of lung
+7358461000006110	Follicular non-Hodgkin lymphoma of lung
+4021941000006115	Hodgkin disease, mixed cellularity of lymph nodes of head, face AND/OR neck
+4021931000006113	Hodgkin's disease, mixed cellularity of lymph nodes of head, face AND/OR neck
+4016271000006116	Malignant histiocytosis of lymph nodes of inguinal region AND/OR lower limb
+7353081000006119	Diffuse non-Hodgkin's lymphoma of nasopharynx
+7353091000006116	Diffuse non-Hodgkin lymphoma of nasopharynx
+7868091000006117	Acute myeloid leukaemia with t(8;16)(p11;p13) translocation
+7868101000006111	Acute myeloid leukemia with t(8;16)(p11;p13) translocation
+4416741000006111	Pre-pre-B ALL
+4416711000006112	Precursor B-cell lymphoblastic leukaemia
+4416721000006116	c-ALL
+4416761000006110	Common precursor B ALL
+4416751000006113	Pre-B ALL
+4416731000006118	Pro-B ALL
+4416771000006115	Common ALL
+4416781000006117	Precursor B-cell lymphoblastic leukemia
+6692981000006114	Syringotropic cutaneous T-cell lymphoma
+6692971000006111	Syringotropic mycosis fungoides
+7716791000006117	Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukaemia
+7716801000006116	Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukemia
+7366681000006114	Diffuse non-Hodgkin's lymphoma of central nervous system
+7366691000006112	Diffuse non-Hodgkin lymphoma of central nervous system
+6585541000006112	Therapy-related acute myeloid leukemia and myelodysplastic syndrome, topoisomerase type II inhibitor-related type
+6585531000006119	Therapy-related acute myeloid leukaemia and myelodysplastic syndrome, topoisomerase type II inhibitor-related type
+6585551000006114	Therapy-related AML and myelodysplastic syndrome, topoisomerase type II inhibitor-related type
+7355501000006119	Diffuse non-Hodgkin lymphoma of oral cavity
+7355491000006110	Diffuse non-Hodgkin's lymphoma of oral cavity
+6693521000006110	Follicular center B-cell lymphoma (nodal/systemic with skin involvement)
+6693511000006119	Follicle centre-cell B-cell lymphoma (nodal/systemic with skin involvement)
+6693501000006117	Follicular centre B-cell lymphoma (nodal/systemic with skin involvement)
+7364021000006113	Follicular non-Hodgkin's lymphoma of uterine cervix
+7364031000006111	Follicular non-Hodgkin lymphoma of uterine cervix
+7366701000006112	Follicular non-Hodgkin's lymphoma of stomach
+7366711000006110	Follicular non-Hodgkin lymphoma of stomach
+6693261000006118	Angiocentric natural killer/T-cell malignant lymphoma involving skin
+6693251000006115	Angiocentric lymphoma involving skin
+6693241000006117	Angiocentric NK/T-cell malignant lymphoma involving skin
+6968461000006113	Precursor T-cell lymphoblastic lymphoma
+12002441000006118	Acute myeloid leukaemia with NPM1 somatic mutation
+12002471000006114	Acute myeloid leukaemia with nucleophosmin 1 somatic mutation
+12002461000006119	Acute myeloid leukemia with nucleophosmin 1 somatic mutation
+12002451000006116	Acute myeloid leukemia with NPM1 somatic mutation
+7385351000006116	Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214
+7385341000006118	Acute myeloid leukaemia with t(6;9)(p23;q34); DEK-NUP214
+7118591000006115	Smouldering chronic lymphocytic leukaemia
+7118601000006111	Smoldering chronic lymphocytic leukemia
+4095131000006118	Acute myelomonocytic leukemia with abnormal eosinophils
+4095081000006118	Acute myeloid leukaemia, inv(16)(p13q22)
+4095121000006116	Acute myeloid leukemia, t(16;16)(p13;q22)
+4095151000006113	Acute myeloid leukemia, CBF-beta/MYH11
+4095141000006111	Acute myeloid leukemia, inv(16)(p13q22)
+4095101000006114	Acute myeloid leukaemia, CBF-beta/MYH11
+4095051000006114	FAB M4E
+4095161000006110	Acute myeloid leukemia with abnormal marrow eosinophils and inv(16)(p13q22) or t(16;16)(p13;q22)
+4095041000006112	Acute myelomonocytic leukemia with eosinophils
+4095071000006116	Acute myeloid leukemia with abnormal marrow eosinophils
+4095031000006119	Acute myeloid leukaemia with abnormal marrow eosinophils
+4095171000006115	Acute myeloid leukaemia with abnormal marrow eosinophils and inv(16)(p13q22) or t(16;16)(p13;q22)
+4095091000006115	Acute myelomonocytic leukaemia with abnormal eosinophils
+4095061000006111	Acute myelomonocytic leukaemia with eosinophils
+4095111000006112	Acute myeloid leukaemia, t(16;16)(p13;q22)
+3514158015	Primary cutaneous diffuse large cell B-cell lymphoma of lower limb
+3514157013	Primary cutaneous diffuse large cell B-cell lymphoma of lower extremity
+7069581000006116	Lymphoma in remission
+7069571000006119	Malignant lymphoma in remission
+7836471000006117	Meningeal leukemia
+7836491000006116	Leukaemic leptomeningitis
+7836481000006119	Leukemic leptomeningitis
+7836461000006112	Meningeal leukaemia
+7836511000006110	Leukaemic meningitis
+7836501000006112	Leukemic meningitis
+6692991000006112	Pagetoid reticulosis
+7385661000006110	B lymphoblastic leukaemia lymphoma, no ICD-O subtype
+7385681000006117	B lymphoblastic leukemia lymphoma, no International Classification of Diseases for Oncology subtype
+7385671000006115	B lymphoblastic leukemia lymphoma, no ICD-O subtype
+6692701000006115	Lymphomatoid papulosis with Hodgkin disease
+6692691000006115	Lymphomatoid papulosis with Hodgkin's disease
+3704041000006113	Lymphoma stage IIIs
+6693621000006114	Leukemic infiltration of skin in chronic myeloid leukemia
+6693611000006118	Leukaemic infiltration of skin in chronic myeloid leukaemia
+5701231000006119	IgM monoclonal gammopathy of uncertain significance
+5701241000006112	Immunoglobulin M monoclonal gammopathy of uncertain significance
+7369651000006112	Follicular non-Hodgkin lymphoma of testis
+7369641000006110	Follicular non-Hodgkin's lymphoma of testis
+7963521000006112	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+7963531000006110	Anaplastic large cell lymphoma, ALK (anaplastic lymphoma kinase) positive
+7365841000006114	Diffuse non-Hodgkin's lymphoma of tonsil
+7365851000006111	Diffuse non-Hodgkin lymphoma of tonsil
+6840361000006118	Accelerated phase chronic myeloid leukemia
+6840351000006115	Accelerated phase chronic myeloid leukaemia
+6841331000006117	Acute monocytic/monoblastic leukaemia
+6841341000006110	Acute monocytic/monoblastic leukemia
+4015551000006116	Leukemia in remission
+4015541000006118	Leukaemia in remission
+7385751000006115	B lymphoblastic leukaemia lymphoma with hyperdiploidy
+7385761000006118	B lymphoblastic leukemia lymphoma with hyperdiploidy
+4179981000006116	Malignant lymphoma, metastatic
+4179991000006118	Lymphoma, metastatic
+12010221000006110	Megakaryoblastic acute myeloid leukemia with t(1;22)(p13;q13)
+12010211000006119	Megakaryoblastic acute myeloid leukaemia with t(1;22)(p13;q13)
+6585771000006110	Systemic mastocytosis with associated hematological clonal non-mast cell disorder
+6585781000006113	Systemic mastocytosis with associated haematological clonal non-mast cell disorder
+6585751000006117	Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease
+6585741000006119	Systemic mastocytosis with associated clonal, haematologic non-mast-cell lineage disease
+6585761000006115	Systemic mastocytosis with AHNMD
+3992601000006119	Acute lymphoid leukemia in remission
+3992591000006110	Acute lymphoid leukaemia in remission
+4415611000006111	Splenic marginal zone lymphoma
+4415601000006113	Splenic marginal zone B-cell lymphoma
+4415621000006115	Splenic lymphoma with villous lymphocytes
+7048101000006119	Ph+ acute lymphoblastic leukaemia
+7048121000006112	Philadelphia chromosome-positive acute lymphoblastic leukemia
+7048091000006113	Ph+ ALL
+7048081000006110	Ph positive ALL
+7048111000006116	Ph+ acute lymphoblastic leukemia
+7048071000006112	Philadelphia chromosome-positive acute lymphoblastic leukaemia
+7868981000006116	Chronic lymphocytic leukaemia genetic mutation variant
+7868991000006118	Chronic lymphocytic leukemia genetic mutation variant
+7366641000006115	Follicular non-Hodgkin's lymphoma of nasopharynx
+7366651000006118	Follicular non-Hodgkin lymphoma of nasopharynx
+3484761000006117	Epsilon heavy chain disease
+3484771000006112	IgE heavy chain disease
+4416611000006116	Precursor cell lymphoblastic leukaemia, not phenotyped
+4416701000006114	Acute lymphatic leukaemia, L2 type
+4416641000006117	Acute lymphoblastic leukaemia, L2 type
+4416681000006111	Acute lymphocytic leukaemia
+4416691000006114	Acute lymphoblastic leukaemia
+4416481000006113	FAB L2
+4416551000006116	Acute lymphoblastic leukemia
+4416471000006110	Lymphoblastic leukemia
+4416521000006113	Acute lymphoblastic leukemia-lymphoma
+4416491000006111	Acute lymphoid leukemia, L2 type
+4416661000006118	Acute lymphoblastic leukaemia-lymphoma
+4416581000006112	Precursor cell lymphoblastic leukemia
+4416451000006117	Precursor cell lymphoblastic leukemia, not phenotyped
+4416571000006114	Acute lymphatic leukemia
+4416631000006110	Acute lymphoid leukaemia, L2 type
+4416591000006110	Lymphoblastic leukaemia
+4416501000006115	Acute lymphocytic leukemia, L2 type
+4416531000006111	Acute lymphoblastic leukemia, precursor-cell type
+4416621000006112	Acute lymphatic leukaemia
+4416651000006115	Acute lymphoblastic leukaemia, precursor-cell type
+4416601000006119	Lymphoblastic leukaemia, L2 type
+4416561000006119	Acute lymphatic leukemia, L2 type
+4416511000006117	Acute lymphocytic leukemia
+4416671000006113	Acute lymphocytic leukaemia, L2 type
+4416461000006115	Lymphoblastic leukemia, L2 type
+4416541000006118	Acute lymphoblastic leukemia, L2 type
+4416441000006119	Precursor cell lymphoblastic leukaemia
+7868081000006115	Acute myeloid leukemia with t(8;16)(p11;p13) translocation
+7868071000006118	Acute myeloid leukaemia with t(8;16)(p11;p13) translocation
+7858971000006114	Myeloid leukaemia and Down syndrome
+7858941000006118	Myeloid leukaemia co-occurrent with Down syndrome
+7858961000006119	Myeloid leukemia and Down syndrome
+7858951000006116	Myeloid leukemia co-occurrent with Down syndrome
+7566521000006114	Large cell anaplastic lymphoma T cell and Null cell type
+4005341000006112	Burkitt's tumor of intra-abdominal lymph nodes
+4005331000006119	Burkitt's tumour of intra-abdominal lymph nodes
+4005351000006114	Burkitt tumor of intra-abdominal lymph nodes
+12023691000006113	Inherited acute myeloid leukemia
+12023711000006111	Pure familial acute myeloid leukaemia
+12023701000006113	Pure familial acute myeloid leukemia
+12023681000006110	Inherited acute myeloid leukaemia
+7384961000006116	ALK positive large B-cell lymphoma
+7384971000006111	Anaplastic lymphoma kinase positive large B-cell lymphoma
+4021951000006118	Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region AND/OR lower limb
+4021961000006116	Hodgkin disease, mixed cellularity of lymph nodes of inguinal region AND/OR lower limb
+6692741000006118	Poikilodermatous mycosis fungoides
+6692751000006116	Poikilodermatous cutaneous T-cell lymphoma
+6693551000006118	Immunocytoma, nodal/systemic with skin involvement
+6693541000006115	Lymphoplasmacytic B-cell lymphoma, nodal/systemic with skin involvement
+6693161000006113	CD-30 negative cutaneous T-cell lymphoma
+6873231000006111	Refractory cytopaenia with multilineage dysplasia and ringed sideroblasts
+6873241000006118	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+5601831000006112	Myelodysplastic syndrome with 5Q deletion
+1815791000006111	Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality
+2872268016	5q minus syndrome
+5601801000006116	Myelodysplastic syndrome with isolated del(5q)
+3635400012	Classical Hodgkin lymphoma
+6847811000006113	Chronic myeloid leukemia - category
+6847801000006110	Chronic myeloid leukaemia - category
+3255431000006113	Malignant lymphoma, small cleaved cell, follicular
+3255421000006110	Follicular lymphoma, grade 1
+3255441000006115	Malignant lymphoma, lymphocytic, poorly differentiated, nodular [obs]
+6608521000006117	RAEB - Refractory anaemia with excess blasts
+6608531000006119	Refractory anemia with excess blasts
+6608501000006110	Refractory anemia with excess blasts (clinical)
+6608491000006119	Refractory anaemia with excess blasts (clinical)
+6608541000006112	RAEB - Refractory anemia with excess blasts
+186311000006115	Refractory anaemia with excess blasts
+4053701000006117	Sezary's disease of lymph nodes of inguinal region AND/OR lower limb
+4053711000006119	Sézary disease of lymph nodes of inguinal region AND/OR lower limb
+4053691000006117	Sézary's disease of lymph nodes of inguinal region AND/OR lower limb
+7815291000006116	Refractory neutropaenia
+7815301000006115	Refractory neutropenia
+7384981000006114	Large B-cell lymphoma arising in HHV8 associated multicentric Castleman disease
+7384991000006112	Large B-cell lymphoma arising in human herpesvirus type 8 associated multicentric Castleman disease
+6587401000006116	Follicular lymphoma, diffuse follicle center cell sub-type, grade 2
+6587391000006118	Follicular lymphoma, diffuse follicle centre cell sub-type, grade 2
+7353901000006112	Non-Hodgkin lymphoma of lung
+7353891000006113	Non-Hodgkin's lymphoma of lung
+7859011000006113	Plasmablastic lymphoma
+6692941000006115	Cutaneous T-cell lymphoma with systemic infiltration
+6692931000006113	Mycosis fungoides with systemic infiltration
+6693351000006114	Primary cutaneous marginal zone B-cell lymphoma
+6693371000006116	Skin-associated lymphoid tissue type B-cell lymphoma
+6693361000006111	SALT type B-cell lymphoma
+6918541000006114	Primary cutaneous B-cell lymphoma - category
+7815381000006112	Acute leukaemia of ambiguous lineage
+7815391000006110	Acute leukemia of ambiguous lineage
+4021911000006119	Hodgkin's disease, mixed cellularity of lymph nodes of axilla AND/OR upper limb
+4021921000006110	Hodgkin disease, mixed cellularity of lymph nodes of axilla AND/OR upper limb
+3876731000006117	Lymphoma stage IIIse
+7062221000006113	Erythroleukemia, FAB M6 in remission
+6692951000006118	Spongiotic mycosis fungoides
+6692961000006116	Spongiotic cutaneous T-cell lymphoma
+7815471000006118	Fibroblastic reticular cell tumor
+7815481000006115	Fibroblastic reticular cell tumour
+7815461000006113	Fibroblastic reticular cell neoplasm
+7364091000006110	Follicular non-Hodgkin's lymphoma of oral cavity
+7364101000006116	Follicular non-Hodgkin lymphoma of oral cavity
+7351541000006119	Diffuse non-Hodgkin lymphoma of prostate
+7351531000006112	Diffuse non-Hodgkin's lymphoma of prostate
+4016471000006117	Malignant mast cell tumor of lymph nodes of axilla AND/OR upper limb
+4016461000006112	Malignant mast cell tumour of lymph nodes of axilla AND/OR upper limb
+4022421000006112	Hodgkin granuloma of extranodal AND/OR solid organ site
+4022411000006116	Hodgkin's granuloma of extranodal AND/OR solid organ site
+4053661000006113	Sézary's disease of lymph nodes of head, face AND/OR neck
+4053681000006115	Sézary disease of lymph nodes of head, face AND/OR neck
+4053671000006118	Sezary's disease of lymph nodes of head, face AND/OR neck
+6585701000006116	Primary cutaneous anaplastic large T-cell lymphoma, CD30-positive
+6585691000006116	Cutaneous T-cell lymphoma, large cell, CD30-positive
+6585681000006119	Anaplastic large cell lymphoma, T/Null cell, primary cutaneous type
+6585671000006117	Primary cutaneous anaplastic large cell lymphoma
+4028761000006110	Primary malignant neoplasm of spleen
+4005541000006115	Burkitt's tumour of spleen
+4005551000006118	Burkitt's tumor of spleen
+4005561000006116	Burkitt tumor of spleen
+4022271000006114	Hodgkin's disease of extranodal AND/OR solid organ site
+4022281000006112	Hodgkin disease of extranodal AND/OR solid organ site
+6881661000006114	T-cell AND/OR NK-cell neoplasm
+6585421000006116	Acute myeloid leukemia with recurrent genetic abnormality
+6585431000006118	AML with recurrent genetic abnormality
+6585411000006112	Acute myeloid leukaemia with recurrent genetic abnormality
+7355431000006111	Diffuse non-Hodgkin's lymphoma of testis
+7355441000006118	Diffuse non-Hodgkin lymphoma of testis
+179181000006110	Refractory anaemia, unspecified
+4173281000006113	Refractory anemia (clinical)
+4173321000006119	RA - Refractory anaemia
+4173271000006110	Refractory anaemia (clinical)
+344913019	Refractory anaemia
+4173341000006114	Myelodysplastic syndrome: Refractory anaemia, without ringed sideroblasts, without excess blasts
+292273018	[X]Refractory anaemia, unspecified
+4173311000006110	Erythrodysplasia
+4173351000006111	Myelodysplastic syndrome: Refractory anemia, without ringed sideroblasts, without excess blasts
+4173301000006112	Refractory anemia
+4173291000006111	RA - Refractory anemia
+4095191000006119	Acute myeloid leukemia, minimal differentiation
+4095251000006117	Acute granulocytic leukaemia, minimal differentiation
+4095181000006117	Acute myeloid leukaemia, minimal differentiation
+4095201000006116	Acute myeloblastic leukemia, minimal differentiation
+4095271000006110	Acute myelogenous leukaemia, minimal differentiation
+4095241000006119	FAB M0
+4095231000006112	Acute myelocytic leukemia, minimal differentiation
+4095261000006115	Acute myelocytic leukaemia, minimal differentiation
+4095211000006118	Acute granulocytic leukemia, minimal differentiation
+4095221000006114	Acute myelogenous leukemia, minimal differentiation
+4095281000006113	Acute myeloblastic leukaemia, minimal differentiation
+7385801000006110	B lymphoblastic leukemia lymphoma with t(5;14)(q31;q32); IL3-IGH
+7385791000006114	B lymphoblastic leukaemia lymphoma with t(5;14)(q31;q32); IL3-IGH
+7356691000006117	Lymphoma of body of stomach
+4417481000006110	Chronic neutrophilic leukemia
+4417471000006112	Chronic neutrophilic leukaemia
+7367821000006111	Non-Hodgkin lymphoma of tonsil
+7367811000006115	Non-Hodgkin's lymphoma of tonsil
+7705111000006115	Primary effusion lymphoma
+5133151000006118	LG - Lymphomatoid granulomatosis of lung
+5133131000006113	Lymphomatoid granulomatosis of the lung
+5133141000006115	Lymphoid granulomatosis of the lung
+7236911000006112	Asymptomatic myeloma
+7236901000006114	Asymptomatic multiple myeloma
+6693711000006114	Specific skin infiltration in Hodgkin disease
+6693701000006111	Specific skin infiltration in Hodgkin's disease
+7365911000006115	Diffuse non-Hodgkin lymphoma of intestine
+7365921000006111	Diffuse non-Hodgkin's lymphoma of bowel
+7365901000006118	Diffuse non-Hodgkin's lymphoma of intestine
+6930561000006119	Primary cutaneous large T-cell lymphoma - category
+7582451000006115	Acute monoblastic and monocytic leukaemia
+7582461000006118	Acute monoblastic and monocytic leukemia
+12029881000006111	Mycosis fungoides Alibert Bazin type
+12029871000006113	Classic mycosis fungoides
+6585791000006111	Aggressive systemic mastocytosis
+7385021000006110	Mixed phenotype acute leukaemia
+7385051000006118	Mixed phenotype acute leukemia
+7385041000006115	Acute mixed lineage leukemia
+7385031000006113	Acute mixed lineage leukaemia
+4016481000006119	Malignant mast cell tumour of lymph nodes of head, face AND/OR neck
+4016491000006116	Malignant mast cell tumor of lymph nodes of head, face AND/OR neck
+8036651000006117	Non-Hodgkin's lymphoma of central nervous system metastatic to lymph node of upper limb
+8036641000006119	Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of upper limb
+4172391000006113	Diffuse non-Hodgkin's lymphoma, small cleaved cell
+4172381000006110	Diffuse non-Hodgkin's lymphoma, small cleaved cell (clinical)
+4172401000006110	Diffuse non-Hodgkin lymphoma, small cleaved cell
+4315051000006111	Hyperalbuminemia
+4315041000006114	Hyperalbuminaemia
+7066861000006116	Ph+ acute lymphoblastic leukaemia
+7066841000006115	Ph positive ALL
+7066831000006113	Philadelphia chromosome-positive acute lymphoblastic leukemia
+7066851000006118	Ph+ ALL
+7066811000006119	Philadelphia chromosome-positive acute lymphoblastic leukaemia
+7066821000006110	Ph+ acute lymphoblastic leukemia
+304071000006110	[M] Angioendotheliomatosis
+5356051000006117	Malignant angioendotheliomatosis
+5356041000006119	Intravascular lymphomatosis
+291964019	[M]Angioendotheliomatosis
+5356031000006112	Angioendotheliomatosis
+4095421000006113	Acute myeloblastic leukemia with maturation
+4095431000006111	Acute granulocytic leukemia with maturation
+4095481000006112	Acute myeloblastic leukaemia with maturation
+4095471000006114	Acute granulocytic leukaemia with maturation
+4095501000006119	Acute myelocytic leukaemia with maturation
+4095491000006110	Acute myelogenous leukaemia with maturation
+4095441000006118	Acute myelogenous leukemia with maturation
+4095461000006119	FAB M2
+4095411000006117	Acute myeloid leukemia with maturation
+4095451000006116	Acute myelocytic leukemia with maturation
+4095401000006115	Acute myeloid leukaemia with maturation
+4016391000006114	Malignant lymphoma of extranodal AND/OR solid organ site
+8036621000006114	Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of lower limb
+8036631000006112	Non-Hodgkin's lymphoma of central nervous system metastatic to lymph node of lower limb
+6873261000006119	Relapsing chronic myeloid leukemia
+6873251000006116	Relapsing chronic myeloid leukaemia
+12009201000006112	Hydroa vacciniforme-like lymphoma
+7351661000006119	Non-Hodgkin's lymphoma of bone
+7351671000006114	Non-Hodgkin lymphoma of bone
+3499071000006110	Mu heavy chain disease
+3499081000006113	IgM heavy chain disease
+7953261000006112	Reactive plasmacytic hyperplasia
+6850121000006112	Diffuse large B-cell lymphoma - category
+4021721000006113	Hodgkin disease, lymphocytic depletion of lymph nodes of inguinal region AND/OR lower limb
+4021711000006117	Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region AND/OR lower limb
+7962051000006116	Pediatric follicular lymphoma
+7962041000006118	Paediatric follicular lymphoma
+4416251000006118	Immunoglobulin deposition disease
+4416271000006111	Primary amyloidosis
+4416261000006116	Systemic light chain disease
+5971051000006116	Primary CNS lymphoma
+5971061000006119	PCNSL - Primary CNS lymphoma
+5971031000006111	Primary central nervous system lymphoma
+5971041000006118	Microglioma
+6693381000006118	Primary cutaneous immunocytoma
+4415591000006117	Thymic large B-cell lymphoma
+4415581000006115	Mediastinal large B-cell lymphoma
+4420381000006114	Lymphoid leukemia - category
+292009010	[M]Subacute lymphoid leukaemia
+4420351000006118	Lymphoid leukaemia (category)
+12455761000006119	[M]Acute lymphoid leukaemia
+292005016	[M]Lymphoid leukaemias
+4420371000006111	Lymphoid leukaemia - category
+4420361000006116	Lymphoid leukemia (category)
+4042621000006113	Mixed cell type lymphosarcoma of lymph nodes of head, face, and neck
+7344181000006119	Lymphoma of fundus of stomach
+4005391000006115	Burkitt's tumour of intrathoracic lymph nodes
+4005401000006118	Burkitt's tumor of intrathoracic lymph nodes
+4005411000006115	Burkitt tumor of intrathoracic lymph nodes
+4009761000006110	Chronic myeloid leukemia in remission
+4009751000006113	Chronic myeloid leukaemia in remission
+7346081000006110	Lymphoma of cardia of stomach
+4029541000006110	Megakaryocytic leukemia in remission
+4029531000006117	Megakaryocytic leukaemia in remission
+4417161000006113	Acute myeloid leukemia with t(8;21)(q22;q22); RUNX1-RUNX1T1
+4417111000006110	FAB M2, AML1(CBF-alpha)/ETO
+4417151000006111	Acute myeloid leukaemia with t(8;21)(q22;q22); RUNX1-RUNX1T1
+4417141000006114	Acute myeloid leukaemia, AML1(CBF-alpha)/ETO
+4417101000006112	FAB M2, t(8;21)(q22;q22)
+4417091000006118	Acute myeloid leukaemia, t(8;21) (q22;q22)
+4417121000006119	Acute myeloid leukemia, AML1(CBF-alpha)/ETO
+4417131000006116	Acute myeloid leukemia, t(8;21) (q22;q22)
+6585521000006117	Therapy-related AML and myelodysplastic syndrome, alkylating agent-related type
+6585501000006110	Therapy-related acute myeloid leukaemia and myelodysplastic syndrome, alkylating agent-related type
+6585511000006113	Therapy-related acute myeloid leukemia and myelodysplastic syndrome, alkylating agent-related type
+6955611000006112	Malignant lymphoma of the eye region
+7574821000006114	Normal karyotype acute myeloid leukemia
+7574811000006118	Cytogenetically normal acute myeloid leukaemia
+7574841000006119	Acute myeloid leukemia with normal karyotype
+7574831000006112	Cytogenetically normal acute myeloid leukemia
+4021691000006115	Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face AND/OR neck
+4021701000006115	Hodgkin disease, lymphocytic depletion of lymph nodes of head, face AND/OR neck
+7353601000006119	Non-Hodgkin's lymphoma of intestine
+7353611000006116	Non-Hodgkin lymphoma of intestine
+7353621000006112	Non-Hodgkin's lymphoma of bowel
+4005531000006113	Burkitt tumor of lymph nodes of multiple sites
+4005511000006119	Burkitt's tumour of lymph nodes of multiple sites
+4005521000006110	Burkitt's tumor of lymph nodes of multiple sites
+7353881000006110	Non-Hodgkin lymphoma of nasopharynx
+7353871000006112	Non-Hodgkin's lymphoma of nasopharynx
+6585641000006113	Nodal marginal zone B-cell lymphoma
+3725061000006118	Lymphoma stage III 2
+2734841000000110	B-cell Hodgkin's lymphoma
+6936641000006119	Primary cutaneous lymphoma
+4015791000006119	Leukemic reticuloendotheliosis of extranodal AND/OR solid organ site
+4015781000006117	Leukaemic reticuloendotheliosis of extranodal AND/OR solid organ site
+7995731000006119	Refractory acute lymphoid leukemia
+7995721000006117	Refractory acute lymphoid leukaemia
+7510961000006113	Acute monoblastic leukemia in remission
+7510951000006111	Acute monoblastic leukaemia in remission
+4005471000006112	Burkitt tumor of lymph nodes of head, face AND/OR neck
+4005451000006119	Burkitt's tumour of lymph nodes of head, face AND/OR neck
+4005461000006117	Burkitt's tumor of lymph nodes of head, face AND/OR neck
+7385741000006117	B lymphoblastic leukemia lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+7385731000006110	B lymphoblastic leukaemia lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+6864641000006110	Multiple solitary plasmacytomas
+4419971000006111	Extramedullary plasmacytoma
+4419961000006116	Plasmacytoma, extramedullary (not occurring in bone)
+4416941000006114	Chronic myelogenous leukaemia, t(9;22)(q34;q11)
+4416931000006116	Chronic granulocytic leukaemia, Philadelphia chromosome (Ph1) positive
+4416881000006110	Chronic granulocytic leukemia, t(9;22)(q34;q11)
+4416901000006112	Chronic granulocytic leukemia, BCR/ABL
+4416861000006117	Chronic myelogenous leukemia, t(9;22)(q34;q11)
+4416891000006113	Chronic granulocytic leukemia, Philadelphia chromosome (Ph1) positive
+4416851000006119	Chronic myelogenous leukaemia, BCR/ABL positive
+4416961000006113	Chronic granulocytic leukaemia, t(9;22)(q34;q11)
+11930231000006110	Chronic myelogenous leukemia, BCR/ABL positive
+4416951000006111	Chronic myelogenous leukaemia, Philadelphia chromosome (Ph1) positive
+4416921000006119	Chronic granulocytic leukaemia, BCR/ABL
+4416871000006112	Chronic myelogenous leukemia, Philadelphia chromosome (Ph1) positive
+4751741000006116	Hodgkin paragranuloma of intrapelvic lymph nodes
+289624015	Hodgkin's paragranuloma of intrapelvic lymph nodes
+7735631000006112	Interdigitating cell sarcoma
+7735641000006119	Reticulum cell sarcoma
+7735621000006114	Interdigitating dendritic cell sarcoma
+4016401000006111	Malignant mast cell tumour of intra-abdominal lymph nodes
+4016411000006114	Malignant mast cell tumor of intra-abdominal lymph nodes
+7815341000006118	Acute myeloid leukemia due to recurrent genetic abnormality
+7815331000006111	Acute myeloid leukaemia due to recurrent genetic abnormality
+6693921000006116	Malignant histiocytosis involving skin
+6693931000006118	Aleukaemic reticulosis involving skin
+6693951000006113	Histiocytic reticulosis involving skin
+6693941000006111	Aleukemic reticulosis involving skin
+4042871000006113	Mycosis fungoides of extranodal AND/OR solid organ site
+6585621000006118	T-lymphoblastic lymphoma/leukaemia
+6585631000006115	T-lymphoblastic lymphoma/leukemia
+6585611000006114	Precursor T cell lymphoblastic leukemia/lymphoblastic lymphoma
+7357451000006112	Diffuse non-Hodgkin lymphoma of uterine cervix
+7357441000006110	Diffuse non-Hodgkin's lymphoma of uterine cervix
+7597941000006114	Childhood myelodysplastic syndrome
+7769051000006116	Primary pulmonary lymphoma
+7361211000006114	Follicular non-Hodgkin's lymphoma of skin
+7361221000006118	Follicular non-Hodgkin lymphoma of skin
+6924291000006116	Follicular mycosis fungoides
+6693091000006118	Leukaemic infiltration of skin (T-cell prolymphocytic leukaemia)
+6693101000006112	Leukemic infiltration of skin (T-cell prolymphocytic leukemia)
+7752071000006114	Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly
+8042011000006111	Lymphoma of colon
+6692721000006113	Parapsoriasis en plaques (mycosis fungoides)
+6692731000006111	Patch/plaque stage cutaneous T-cell lymphoma
+6692711000006117	Patch/plaque stage mycosis fungoides
+4172601000006112	Follicular non-Hodgkin's lymphoma, large cell (clinical)
+4172631000006116	Follicular lymphoma grade 3
+4172611000006110	Follicular non-Hodgkin's lymphoma, large cell
+4172621000006119	Follicular non-Hodgkin lymphoma, large cell
+7053641000006118	Hodgkin lymphoma in remission
+7053621000006113	Hodgkin's disease in remission
+7053631000006111	Hodgkin disease in remission
+7053651000006116	Hodgkin's lymphoma in remission
+12039151000006113	Acute myeloid leukemia and myelodysplastic syndrome related to alkylating agent
+12039141000006111	Acute myeloid leukaemia and myelodysplastic syndrome related to alkylating agent
+6693391000006115	Primary cutaneous plasmacytoma
+6693401000006118	Primary cutaneous plasmacytic B-cell lymphoma
+7959721000006110	Primary cutaneous gamma-delta-positive T-cell lymphoma
+289618014	Hodgkin's paragranuloma of intrathoracic lymph nodes
+4751671000006119	Hodgkin paragranuloma of intrathoracic lymph nodes
+6969131000006119	Primary lymphoma of brain associated with AIDS
+6969141000006112	Primary lymphoma of brain associated with acquired immunodeficiency syndrome
+6692841000006113	Granulomatous cutaneous T-cell lymphoma
+6692831000006115	Granulomatous mycosis fungoides
+7356781000006114	Follicular non-Hodgkin lymphoma of extranodal site
+7356771000006111	Follicular non-Hodgkin's lymphoma of extranodal site
+4416291000006112	Acute bilineal leukemia
+4416281000006114	Acute biphenotypic leukaemia
+4416311000006111	Acute bilineal leukaemia
+4416301000006113	Acute biphenotypic leukemia
+8263011000006116	Follicular lymphoma grade 3a
+6947641000006117	Sporadic Burkitt lymphoma
+6947631000006110	Non-endemic Burkitt's lymphoma
+6947621000006112	Sporadic Burkitt's lymphoma
+7362991000006119	Follicular non-Hodgkin's lymphoma of central nervous system
+7363001000006118	Follicular non-Hodgkin lymphoma of central nervous system
+7995811000006116	B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Hodgkin lymphoma
+2825001000006111	Plasma cell dyscrasia with polyneuropathy AND sclerotic bone lesions
+2824991000006116	Plasma cell dyscrasia with polyneuropathy
+4042831000006110	Mycosis fungoides of lymph nodes of head, face AND/OR neck
+683721000006115	Mycosis fungoides of the lymph nodes of head, face and neck
+3363241000006115	Anaplastic large cell lymphoma, T cell and Null cell type
+3363251000006118	Anaplastic large cell lymphoma (ALCL) CD30+
+3363281000006114	Anaplastic large cell lymphoma
+3363271000006111	Anaplastic large cell lymphoma, CD30+
+3363261000006116	Large cell (Ki-1+) lymphoma [obs]
+6997041000006117	Lymphoma of retroperitoneal space
+7077131000006113	Acute myelomonocytic leukemia, FAB M4, in remission
+7077121000006110	Acute myelomonocytic leukaemia, FAB M4, in remission
+7881991000006111	Nodal marginal zone B-cell lymphoma
+7368231000006112	Non-Hodgkin's lymphoma of prostate
+7368241000006119	Non-Hodgkin lymphoma of prostate
+414174013	Monoclonal gammopathy of uncertain significance
+678881000006114	Neoplasm of uncertain behaviour of plasma cells
+5601531000006114	MGUS - Monoclonal gammopathy of uncertain significance
+5601541000006116	Monoclonal gammopathy of undetermined significance
+6693071000006119	Leukaemic infiltration of skin (chronic T-cell lymphocytic leukaemia)
+6693081000006116	Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)
+4052991000006116	Plasma cell leukemia in remission
+4052981000006119	Plasma cell leukaemia in remission
+6934901000006118	Primary cutaneous T-cell lymphoma - category
+5701171000006111	IgA monoclonal gammopathy of uncertain significance
+5701181000006114	Immunoglobulin A monoclonal gammopathy of uncertain significance
+4416991000006117	Atypical chronic myeloid leukemia, BCR/ABL negative
+4416981000006115	Atypical chronic myeloid leukemia, Philadelphia chromosome (Ph1) negative
+11930241000006117	Atypical chronic myeloid leukaemia, BCR/ABL negative
+4417001000006113	Atypical chronic myeloid leukaemia, Philadelphia chromosome (Ph1) negative
+7299951000006114	Acute myeloid leukemia with t(9:11)(p22;q23); MLLT3-MLL
+7299921000006117	Acute myeloid leukaemia with t(9:11)(p22;q23); MLLT3-MLL
+7299941000006112	Acute myeloid leukemia with 11q23 abnormality
+7299931000006119	Acute myeloid leukaemia with 11q23 abnormality
+6939331000006114	Primary cutaneous T-cell lymphoma, pleomorphic small/medium-sized
+6939341000006116	Cutaneous T-cell lymphoma, pleomorphic small/medium-sized
+7355191000006119	Non-Hodgkin lymphoma of skin
+7355181000006117	Non-Hodgkin's lymphoma of skin
+6930801000006118	Mature T-cell AND/OR NK cell neoplasm
+6930811000006115	Mature T-cell AND/OR natural killer-cell neoplasm
+12022371000006112	Acute myeloid leukaemia with CEBPA somatic mutations
+12022401000006110	Acute myeloid leukaemia with CCAAT/enhancer binding protein alpha somatic mutation
+12022381000006110	Acute myeloid leukemia with CEBPA somatic mutations
+12022391000006113	Acute myeloid leukemia with CCAAT/enhancer binding protein alpha somatic mutation
+7582471000006113	Acute myeloid leukaemia with mutated CEBPA
+7582481000006111	Acute myeloid leukemia with mutated CEBPA
+4021741000006118	Hodgkin disease, lymphocytic depletion of extranodal AND/OR solid organ site
+4021731000006111	Hodgkin's disease, lymphocytic depletion of extranodal AND/OR solid organ site
+8263021000006112	Follicular lymphoma grade 3b
+4022351000006110	Hodgkin's granuloma of lymph nodes of head, face AND/OR neck
+4022361000006112	Hodgkin granuloma of lymph nodes of head, face AND/OR neck
+4005571000006111	Burkitt's tumour of extranodal AND/OR solid organ site
+4005581000006114	Burkitt's tumor of extranodal AND/OR solid organ site
+4005591000006112	Burkitt tumor of extranodal AND/OR solid organ site
+6847711000006116	Chronic eosinophilic leukaemia
+6847721000006112	Chronic eosinophilic leukemia
+7995651000006116	Acute lymphoid leukemia relapse
+7995641000006118	Acute lymphoid leukaemia relapse
+4021861000006112	Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region AND/OR lower limb
+4021851000006110	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region AND/OR lower limb
+4016441000006113	Malignant mast cell tumour of intrathoracic lymph nodes
+4016451000006110	Malignant mast cell tumor of intrathoracic lymph nodes
+6671241000006110	Hodgkin's disease affecting skin
+6671251000006112	Hodgkin disease affecting skin
+7354181000006116	Non-Hodgkin lymphoma of testis
+7354171000006119	Non-Hodgkin's lymphoma of testis
+7049031000006116	Subacute myeloid leukemia in remission
+7049021000006119	Subacute myeloid leukaemia in remission
+7579001000006113	Anaplastic large cell lymphoma, T/Null cell, primary systemic type
+4022381000006119	Hodgkin granuloma of lymph nodes of inguinal region AND/OR lower limb
+4022371000006117	Hodgkin's granuloma of lymph nodes of inguinal region AND/OR lower limb
+2535668013	Refractory anaemia with sideroblasts
+4173381000006115	Refractory anemia with sideroblasts
+1815761000006115	Refractory anaemia with ringed sideroblasts
+4173401000006115	Refractory anemia with ringed sideroblasts
+4173361000006113	Refractory anaemia with ringed sideroblasts (clinical)
+4173371000006118	Refractory anemia with ringed sideroblasts (clinical)
+7822671000006117	Adult T-cell leukemia/lymphoma - primary cutaneous
+7822661000006112	Adult T-cell leukemia/lymphoma of skin
+7822651000006110	Adult T-cell leukaemia/lymphoma of skin
+7385711000006116	B lymphoblastic leukaemia lymphoma with t(v;11q23); MLL rearranged
+7385721000006112	B lymphoblastic leukemia lymphoma with t(v;11q23); MLL rearranged
+4022001000006114	Hodgkin disease, mixed cellularity of extranodal AND/OR solid organ site
+4021991000006112	Hodgkin's disease, mixed cellularity of extranodal AND/OR solid organ site
+7356751000006118	Diffuse non-Hodgkin's lymphoma of extranodal site
+7356761000006116	Diffuse non-Hodgkin lymphoma of extranodal site
+291905016	[M]Malignant lymphoma, centrocytic
+291907012	[M]Malignant lymphoma, follicular centre cell, cleaved NOS
+291909010	[M]Prolymphocytic lymphosarcoma
+291943018	[M]Malignant lymphoma, centroblastic-centrocytic, follicular
+403759017	[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS
+1222219012	[M]Lymphocytic lymphoma NOS
+315911000006118	[M]Reticulolymphosarcoma NOS
+315921000006114	[M]Reticulolymphosarcoma, diffuse
+311561000006112	[M]Malignant lymphoma, follicular centre cell, cleaved, follicular
+311571000006117	[M]Malignant lymphoma, lymphocytic, intermediate differentiation, nodular
+311601000006112	[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS
+291892013	[M]Malignant lymphoma, undifferentiated cell type NOS
+291894014	[M]Malignant lymphoma, convoluted cell type NOS
+1222220018	[M]Lymphocytic lymphosarcoma NOS
+309031000006113	[M]Germinoblastoma, follicular
+311351000006119	[M]Lymphoblastic lymphosarcoma NOS
+4255921000006118	Malignant lymphoma - category
+311521000006118	[M]Lymphosarcoma NOS
+215912012	[M]Malignant lymphoma, small cleaved cell, diffuse
+291910017	[M]Malignant lymphoma, centroblastic type NOS
+1222221019	[M]Lymphoblastic lymphoma NOS
+306111000006112	[M]Brill - Symmers' disease
+309021000006110	[M]Germinoblastoma, diffuse
+309181000006110	[M]Giant follicular lymphoma
+291891018	[M]Malignant lymphoma, diffuse NOS
+1222222014	[M]Germinoblastic sarcoma NOS
+311361000006117	[M]Lymphoblastoma NOS
+311581000006119	[M]Malignant lymphoma, lymphocytic, poorly differentiated, nodular
+311811000006111	[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS
+291902018	[M]Malignant lymphoma, follicular centre cell NOS
+403761014	[M]Malignant lymphoma, nodular NOS
+311591000006116	[M]Malig lymp,follicular centre cell,noncleaved,follicular
+311611000006110	[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS
+311621000006119	[M]Malignant lymphoma, lymphocytic, well differentiated, nodular
+291900014	[M]Malignant lymphoma, centroblastic-centrocytic, diffuse
+291903011	[M]Malignant lymphoma, lymphocytic, well differentiated NOS
+291914014	[M]Malignant lymphoma, large cell, cleaved, diffuse
+308801000006118	[M]Follicular lymphosarcoma NOS
+311801000006113	[M]Malignant lymphoma, large cell, noncleaved, diffuse
+311881000006116	[M]Malignant lymphoma, small cell, noncleaved, diffuse
+314041000006116	[M]Nodular lymphosarcoma NOS
+7257671000006111	Large cell lymphoma of intrapelvic lymph nodes
+97982010	Lethal midline granuloma
+3457851000006113	Malignant granuloma of face
+3457861000006110	Lethal midline granuloma of face
+4042751000006114	Multiple myeloma in remission
+5967141000006117	Monosomy 7 syndrome
+7961321000006115	Pediatric nodal marginal zone lymphoma
+7961311000006111	Paediatric nodal marginal zone lymphoma
+288762017	Fibrosarcoma of spleen
+292032014	[M]Myeloid leukaemias
+292035011	[M]Subacute myeloid leukaemia
+4420311000006119	Myeloid leukaemia (category)
+4420321000006110	Myeloid leukemia (category)
+292041016	[M]Other myeloid leukaemia NOS
+4420341000006115	Myeloid leukaemia - category
+4420331000006113	Myeloid leukemia - category
+6626111000006114	Intravascular large B-cell lymphoma
+7963741000006110	Splenic diffuse red pulp small B-cell lymphoma
+6693171000006118	CD-30 negative anaplastic large T-cell cutaneous lymphoma
+7849031000006117	B lymphoblastic leukaemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1
+7849041000006110	B lymphoblastic leukemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1
+7582521000006111	T lymphoblastic leukemia/lymphoma
+7582511000006115	T lymphoblastic leukaemia/lymphoma
+4417181000006115	Acute myeloid leukemia, MLL
+4417221000006112	Acute myeloid leukemia with t(9;11)(p22;q23); MLLT3-MLL
+4417171000006118	Acute myeloid leukaemia, 11q23 abnormalities
+4417191000006117	Acute myeloid leukemia, 11q23 abnormalities
+4417211000006116	Acute myeloid leukaemia with t(9;11)(p22;q23); MLLT3-MLL
+4417201000006119	Acute myeloid leukaemia, MLL
+4022551000006119	Hodgkin paragranuloma of extranodal AND/OR solid organ site
+4022541000006116	Hodgkin's paragranuloma of extranodal AND/OR solid organ site
+6349601000006118	Malignant lymphoma, large cell, polymorphous, immunoblastic
+4015531000006111	Letterer-Siwe disease of extranodal AND/OR solid organ site
+6844721000006118	Blast crisis stage of chronic myeloid leukaemia
+6844711000006114	Blast crisis stage of chronic myeloid leukemia
+6844691000006111	Blastic phase chronic myeloid leukaemia
+6844701000006111	Blastic phase chronic myeloid leukemia
+7346071000006112	Lymphoma of greater curvature of stomach
+4416361000006114	T-cell large granular lymphocytic leukemia
+4416351000006112	Large granular lymphocytosis
+4416371000006119	NK-cell large granular lymphocytic leukaemia
+4416341000006110	NK-cell large granular lymphocytic leukemia
+4416331000006117	T-cell large granular lymphocytosis
+4416321000006115	T-cell large granular lymphocytic leukaemia
+6693181000006115	CD-30 negative pleomorphic large T-cell cutaneous lymphoma
+7358331000006113	Follicular non-Hodgkin's lymphoma of bone
+7358341000006115	Follicular non-Hodgkin lymphoma of bone
+4395121000006117	Malignant lymphoma of lymph nodes
+4022431000006110	Hodgkin's paragranuloma of lymph nodes of axilla AND/OR upper limb
+4022451000006115	Hodgkin paragranuloma of lymph nodes of axilla AND/OR upper limb
+826741000006115	Hodgkin's paragranuloma of lymph nodes of axilla and upper limb
+6587371000006119	Follicular lymphoma, diffuse follicle centre sub-type, grade 1
+6587381000006116	Follicular lymphoma, diffuse follicle center sub-type, grade 1
+3992531000006111	Acute leukaemia in remission
+3992541000006118	Acute leukemia in remission
+6585441000006111	Acute myeloid leukaemia with multilineage dysplasia following a myelodysplastic syndrome or myelodysplastic syndrome/myeloproliferative disorder
+6585461000006110	AML with multilineage dysplasia following a myelodysplastic syndrome or myelodysplastic syndrome/myeloproliferative disorder
+6585451000006113	Acute myeloid leukemia with multilineage dysplasia following a myelodysplastic syndrome or myelodysplastic syndrome/myeloproliferative disorder
+7357491000006118	Diffuse non-Hodgkin's lymphoma of ovary
+7357501000006114	Diffuse non-Hodgkin lymphoma of ovary
+7702471000006110	Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection
+6693111000006110	Leukaemic infiltration of skin (T-cell lymphoblastic leukaemia)
+6693121000006119	Leukemic infiltration of skin (T-cell lymphoblastic leukemia)
+11814531000006119	[M]Other myeloid leukemia NOS
+11908381000006110	[M]Other myeloid leukaemia NOS
+880941000006112	Leukaemia - unspec. cell acute
+12724391000006118	Acute leukaemia NOS
+11907581000006118	[M]Malignant lymphoma, lymphocytic, intermediate differentiation, nodular
+11907531000006119	[M]Lymphomas, NOS or diffuse
+11907511000006113	[M]Lymphoma, diffuse or NOS
+11905901000006112	[M] Gamma heavy chain disease
+11909101000006113	[M]Subacute myeloid leukaemia
+11873471000006110	[M]Subacute myeloid leukemia
+11923211000006114	Ayala's disease
+5337131000006110	Ayala disease
+11782211000006119	[M]Basophilic leukemias
+11906271000006116	[M]Basophilic leukaemias
+11906731000006114	[M]Eosinophilic leukaemias
+11873331000006117	[M]Eosinophilic leukemias
+11782241000006115	[M]Compound leukemia
+11906591000006117	[M]Compound leukaemia
+8168871000006114	[M]Malignant lymphoma, small cell, non-cleaved, diffuse
+4015691000006114	Leukemic reticuloendotheliosis of lymph nodes of head, face AND/OR neck
+4015681000006111	Leukaemic reticuloendotheliosis of lymph nodes of head, face AND/OR neck
+11907701000006116	[M]Malignant lymphoma, follicular centre cell NOS
+11814491000006119	[M]Malignant lymphoma, follicular center cell NOS
+11907671000006117	[M]Malignant lymphoma, centrocytic
+11782281000006114	[M]Leukemia unspecified, NOS
+11907381000006114	[M]Leukaemia unspecified, NOS
+11786491000006112	[M]Erythroleukemias
+8129741000006112	[M]Erythroleukaemias
+11908051000006116	[M]Monocytoid B-cell lymphoma
+880951000006114	Leukaemia -unspec.cell chronic
+12724401000006116	Chronic leukaemia NOS
+11907721000006114	[M]Malignant lymphoma, large cell, cleaved, diffuse
+11907221000006115	[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity
+8138191000006112	[M]Hodgkin's disease, nodular sclerosis, mixed cellularity
+11782291000006112	[M]Leukemias unspecified
+11907391000006112	[M]Leukaemias unspecified
+8184861000006110	[M]Malignant lymphoma, large cell, non-cleaved, diffuse
+11918341000006119	[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue
+11777871000006119	[X]Malignant neoplasms of lymphoid, hematopoietic and related tissue
+4020831000006111	Erythroleukemia in remission
+4020821000006113	Erythroleukaemia in remission
+11782251000006118	[M]Compound leukemia NOS
+11906601000006113	[M]Compound leukaemia NOS
+11873461000006115	[M]Subacute leukemia NOS
+11909081000006117	[M]Subacute leukaemia NOS
+8262961000006111	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+11930211000006116	Anaplastic large cell lymphoma, ALK-positive
+11812111000006114	[M]Aleukemic lymphoid leukemia
+11906131000006113	[M]Aleukaemic lymphoid leukaemia
+11814501000006110	[M]Malignant lymphoma, follicular center cell, cleaved NOS
+11907711000006118	[M]Malignant lymphoma, follicular centre cell, cleaved NOS
+12455751000006116	[M] Peripheral T-cell lymphoma NOS
+11907191000006110	[M]Hodgkin's disease, nodular sclerosis NOS
+11908691000006117	[M]Plasma cell tumours
+11812261000006117	[M]Plasma cell tumors
+11907471000006115	[M]Lymphocytic lymphoma NOS
+11907481000006117	[M]Lymphocytic lymphosarcoma NOS
+11907751000006117	[M]Malignant lymphoma, lymphocytic, well differentiated NOS
+11907951000006119	[M]Miscellaneous leukaemias
+11873391000006118	[M]Miscellaneous leukemias
+11905881000006110	[M] Alpha heavy chain disease
+11908241000006111	[M]Neutrophilic leukaemia
+11782351000006112	[M]Neutrophilic leukemia
+11907641000006113	[M]Malignant lymphoma, centroblastic type NOS
+11906941000006118	[M]Germinoblastic sarcoma NOS
+11905991000006117	[M]Acute myelofibrosis
+11907811000006110	[M]Malignant lymphomatous polyposis
+11907661000006112	[M]Malignant lymphoma, centroblastic-centrocytic, follicular
+11907621000006118	[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS
+11907761000006115	[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS
+11907501000006110	[M]Lymphoid leukaemias
+11814471000006115	[M]Lymphoid leukemias
+11907491000006119	[M]Lymphogranuloma, malignant
+11782341000006110	[M]Myeloid leukemias
+11908091000006110	[M]Myeloid leukaemias
+11902571000006119	Osteoporosis in multiple myelomatosis
+11814001000006119	[M]Aleukemic leukemia NOS
+11906121000006110	[M]Aleukaemic leukaemia NOS
+11881121000006112	[M]Malignant lymphoma, follicular center cell, non-cleaved, follicular
+8135191000006116	[M]Malignant lymphoma, follicular centre cell, non-cleaved, follicular
+6693491000006113	Primary cutaneous diffuse large cell B-cell lymphoma of the leg
+11782201000006117	[M]Acute megakaryoblastic leukemia
+11905981000006115	[M]Acute megakaryoblastic leukaemia
+11907801000006112	[M]Malignant lymphoma, undifferentiated cell type NOS
+11907651000006110	[M]Malignant lymphoma, centroblastic-centrocytic, diffuse
+11907141000006118	[M]Histiocytic medullary reticulosis
+11907941000006116	[M]Miscellaneous leukaemia NOS
+11873381000006116	[M]Miscellaneous leukemia NOS
+4751721000006111	Hodgkin paragranuloma of intra-abdominal lymph nodes
+11926911000006112	Hodgkin's paragranuloma of intra-abdominal lymph nodes
+4015671000006113	Leukemic reticuloendotheliosis of lymph nodes of axilla AND/OR upper limb
+4015661000006118	Leukaemic reticuloendotheliosis of lymph nodes of axilla AND/OR upper limb
+11906161000006116	[M]Angioendotheliomatosis
+11782371000006119	[M]Plasma cell leukemias
+11908681000006115	[M]Plasma cell leukaemias
+11812121000006118	[M]Aleukemic myeloid leukemia
+11906141000006115	[M]Aleukaemic myeloid leukaemia
+11908721000006110	[M]Prolymphocytic lymphosarcoma
+11907591000006115	[M]Malignant lymphoma, lymphocytic, poorly differentiated, nodular
+11907631000006115	[M]Malignant lymphoma, lymphocytic, well differentiated, nodular
+11907371000006111	[M]Leukaemia NOS
+11782271000006111	[M]Leukemia NOS
+11906261000006111	[M]Basophilic leukaemia NOS
+11812131000006115	[M]Basophilic leukemia NOS
+11814481000006117	[M]Lymphosarcoma cell leukemia NOS
+11907551000006114	[M]Lymphosarcoma cell leukaemia NOS
+11907681000006119	[M]Malignant lymphoma, convoluted cell type NOS
+11907161000006119	[M]Hodgkin's disease NOS
+8172381000006111	[M]Hodgkin's disease, lymphocytic predominance, diffuse
+11907211000006111	[M]Hodgkin,s disease, lymphocytic predominance, diffuse
+11906361000006118	[M]Burkitt's tumour NOS
+11873311000006111	[M]Burkitt's tumor NOS
+11907771000006110	[M]Malignant lymphoma, nodular NOS
+11905971000006118	[M]Acute lymphoid leukaemia
+11873301000006113	[M]Acute lymphoid leukemia
+11907541000006112	[M]Lymphosarcoma cell leukaemia
+11812181000006119	[M]Lymphosarcoma cell leukemia
+12724411000006118	Subacute leukaemia NOS
+880961000006111	Leukaemia-unspec.cell subacute
+11907891000006117	[M]Microglioma
+11907201000006113	[M]Hodgkin's paragranuloma
+4015701000006114	Leukaemic reticuloendotheliosis of lymph nodes of inguinal region AND/OR lower limb
+4015711000006112	Leukemic reticuloendotheliosis of lymph nodes of inguinal region AND/OR lower limb
+11907181000006112	[M]Hodgkin's disease, lymphocytic predominance
+11905911000006110	[M] Large cell lymphoma
+11905921000006119	[M] Monoclonal gammopathy
+11907441000006111	[M]Lymphoblastic lymphoma NOS
+11907741000006119	[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS
+11812151000006110	[M]Burkitt's tumors
+11906371000006113	[M]Burkitt's tumours
+11907791000006111	[M]Malignant lymphoma, small cleaved cell, diffuse
+11907171000006114	[M]Hodgkin's disease, lymphocytic depletion NOS
+11907691000006116	[M]Malignant lymphoma, diffuse NOS
+11906791000006113	[M]Erythroleukaemia NOS
+11814441000006111	[M]Erythroleukemia NOS
+11907611000006114	[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS
+11782311000006111	[M]Malignant lymphoma, follicular center cell, non-cleaved NOS
+11907521000006117	[M]Lymphoma, nodular or follicular NOS
+11909091000006119	[M]Subacute lymphoid leukaemia
+11814581000006118	[M]Subacute lymphoid leukemia
+11907571000006116	[M]Malignant lymphoma, follicular centre cell, cleaved, follicular
+11812191000006116	[M]Malignant lymphoma, follicular center cell, cleaved, follicular
+11908041000006118	[M]Monocytic leukaemias
+11812201000006118	[M]Monocytic leukemias
+6937131000006118	Primary cutaneous large B-cell lymphoma of the leg
+4129041000006113	Lymphoma staging descriptors
+4129051000006110	Lymphoma staging descriptor
+845051000006111	Staging classification for lymphoma
+1231413015	[M] T-gamma lymphoproliferative disease
+3394031000006116	T-gamma lymphoproliferative disease
+1815691000006116	Myelodysplastic/myeloproliferative disease
+2645960018	Myeloproliferative disorder
+683351000006111	Myeloproliferative disease
+2870704010	Osteomyelofibrosis
+698821000006119	Megakaryocytic myelosclerosis
+5971121000006114	Primary myelofibrosis
+450987014	Myelosclerosis with myeloid metaplasia
+450988016	Megakaryocytic myelosclerosis
+5971131000006112	Myelofibrosis with myeloid metaplasia
+3358921000006118	Agnogenic myeloid metaplasia
+3358901000006111	MF - Myelofibrosis
+88121017	Myelofibrosis
+3358911000006114	Myelosclerosis
+5599631000006118	Lymphoproliferative disorder
+6045641000006119	Leukemic infiltrate of choroid
+6045631000006112	Leukaemic infiltrate of choroid
+6045731000006115	Leukaemic infiltrate of retina
+6045741000006113	Leukemic infiltrate of retina
+880921000006117	Leukaemia - specif. cell NOS
+880971000006116	Leukaemia - unspec. cell NOS
+988791000006114	Leukaemia - specif. cell NOS
+880911000006113	Leukaemia - specif.cell type
+880931000006119	Leukaemia - unspecified cell
+880981000006118	Lymphatic tissue Ca NOS
+880811000006118	Immunoproliferative neopl. NOS

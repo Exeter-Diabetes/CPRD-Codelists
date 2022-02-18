@@ -1,0 +1,57 @@
+medcodeid	term_medcode
+84981000006114	Type II diabetes mellitus with renal complications
+280531000006119	Non-insulin dependent diabetes mellitus with nephropathy
+914041000006111	Type II diabetes mellitus with renal complications
+616551000006111	Diabetes mellitus, adult onset, with renal manifestation
+84921000006110	Renal disorder due to type 2 diabetes mellitus
+914031000006118	Renal disorder associated with type II diabetes mellitus
+914271000006114	Type II diabetes mellitus with nephropathy
+84551000006113	Type 2 diabetes mellitus with nephropathy
+6951281000006117	Kidney disorder associated with type 2 diabetes mellitus
+587521000006111	Non-insulin-dependent diabetes mellitus with renal comps
+914261000006119	Diabetes type 2 with nephropathy
+84611000006113	Type 2 diabetes mellitus with renal complications
+1780311019	Type 1 diabetes mellitus with persistent microalbuminuria
+928491000006110	Type I diabetes mellitus with persistent microalbuminuria
+303846016	Nephrotic syndrome in diabetes mellitus
+303847013	Kimmelstiel - Wilson disease
+4788421000006117	Nephrotic syndrome due to diabetes mellitus
+881481000006117	Diabetes + nephropathy
+292495016	Other specified diabetes mellitus with renal complications
+616461000006112	Diabetes mellitus with renal manifestation
+771501000006119	Insulin-dependent diabetes mellitus with renal complications
+913831000006114	Insulin dependent diabetes mellitus with nephropathy
+4392181000006110	Renal disorder associated with diabetes mellitus
+292496015	Diabetes mellitus with nephropathy NOS
+293759015	Diabetic renal disease
+12703991000006112	[X]Unspecified diabetes mellitus with renal complications
+12218511000006112	Kidney disorder due to diabetes mellitus
+12218501000006114	Disorder of kidney co-occurrent and due to diabetes mellitus
+354316011	Kidney disorder due to diabetes mellitus
+913441000006119	Insulin-dependent diabetes mellitus with renal complications
+771391000006117	Insulin dependent diabetes mellitus with nephropathy
+205225016	Diabetic nephropathy
+84371000006110	Type 1 diabetes mellitus with nephropathy
+913851000006119	Type I diabetes mellitus with nephropathy
+6979991000006111	Renal disorder associated with type I diabetes mellitus
+6980001000006117	Kidney disorder associated with type 1 diabetes mellitus
+913841000006116	Renal disorder associated with type 1 diabetes mellitus
+84801000006111	Type I diabetes mellitus with renal complications
+84741000006118	Type I diabetes mellitus with nephropathy
+84431000006117	Type 1 diabetes mellitus with renal complications
+913461000006115	Type I diabetes mellitus with renal complications
+616661000006114	Diabetes mellitus, juvenile type, with renal manifestation
+913451000006117	Type 1 diabetes mellitus with renal complications
+6955501000006113	Persistent proteinuria associated with type I diabetes mellitus
+928471000006114	Type I diabetes mellitus with persistent proteinuria
+928461000006119	Persistent proteinuria associated with type 1 diabetes mellitus
+6981621000006113	Persistent proteinuria associated with type II diabetes mellitus
+928541000006117	Persistent proteinuria associated with type 2 diabetes mellitus
+928551000006115	Type II diabetes mellitus with persistent proteinuria
+928571000006113	Type II diabetes mellitus with persistent microalbuminuria
+928561000006118	Persistent microalbuminuria associated with type 2 diabetes mellitus
+6959091000006114	Persistent microalbuminuria associated with type II diabetes mellitus
+719571000006115	Malnutrition-related diabetes mellitus with renal complications
+8022381000006115	Nephrotic syndrome due to type 2 diabetes mellitus
+8022431000006111	Nephrotic syndrome due to type 1 diabetes mellitus
+398848019	Renal glycosuria
