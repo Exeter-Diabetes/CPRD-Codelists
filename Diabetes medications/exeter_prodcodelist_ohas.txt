@@ -1,311 +1,315 @@
 ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release	INS	TZD	SU	DPP4	MFN	GLP1	Glinide	Acarbose	SGLT2
-10042541000033117		Exenatide Prolonged release suspension for injection 2 mg device	Exenatide Prolonged release suspension for injection 2 mg device							0	0	0	0	0	1	0	0	0
-10042641000033116		Bydureon Prolonged release suspension for injection 2 mg pen	Bydureon Prolonged release suspension for injection 2 mg pen							0	0	0	0	0	1	0	0	0
-10043341000033116	28420711000001107	Vamju 30mg modified-release tablets (Advanz Pharma)	Vamju 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-10043441000033110	28420911000001109	Vamju 60mg modified-release tablets (Advanz Pharma)	Vamju 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg			0	0	1	0	0	0	0	0	0
-10044541000033113	28279611000001109	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin degludec/ Liraglutide	100.000unit/1.000ml + 3.600mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-10044641000033114	28054311000001106	Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Insulin degludec/ Liraglutide	100.000unit/1.000ml + 3.600mg/1.000ml	6010203		1	0	0	0	0	1	0	0	0
-1017141000033110		Orabet Tablets 500 mg	Orabet Tablets 500 mg							0	0	1	0	0	0	0	0	0
-1017241000033115		Orabet Tablets 850 mg	Orabet Tablets 850 mg							0	0	1	0	0	0	0	0	0
-10207841000033118	28789611000001108	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Solution for injection	Subcutaneous	Dulaglutide	1.500mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-10207941000033114	28789711000001104	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Solution for injection	Subcutaneous	Dulaglutide	3.000mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-10208041000033112	28461011000001109	Trulicity 0.75mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd)	Trulicity 0.75mg/0.5ml solution for injection pre-filled pens	Solution for injection	Subcutaneous	Dulaglutide	1.500mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-10208141000033111	28462311000001103	Trulicity 1.5mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd)	Trulicity 1.5mg/0.5ml solution for injection pre-filled pens	Solution for injection	Subcutaneous	Dulaglutide	3.000mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-10251341000033112	28940811000001104	Glidipion 15mg tablets (Actavis UK Ltd)	Glidipion 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg			0	1	0	0	0	0	0	0	0
-10336941000033112	29742811000001105	Diabiom 15mg tablets (Tillomed Laboratories Ltd)	Diabiom 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg			0	1	0	0	0	0	0	0	0
-10337041000033113	29743011000001108	Diabiom 30mg tablets (Tillomed Laboratories Ltd)	Diabiom 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg			0	1	0	0	0	0	0	0	0
-10337141000033112	29743211000001103	Diabiom 45mg tablets (Tillomed Laboratories Ltd)	Diabiom 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg			0	1	0	0	0	0	0	0	0
-10598841000033113	30012111000001105	Glucient SR 750mg tablets (Consilient Health Ltd)	Glucient SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-10598941000033117	30012311000001107	Glucient SR 1000mg tablets (Consilient Health Ltd)	Glucient SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-10614141000033116	30318411000001104	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin 5mg / Metformin 850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-10614241000033111	30318311000001106	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin 5mg / Metformin 1g tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-10614341000033118	30318211000001103	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin 12.5mg / Metformin 850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-10614441000033112	30318111000001109	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin 12.5mg / Metformin 1g tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-10614541000033113	30173411000001107	Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-10614641000033114	30174111000001100	Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/1000mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-10614741000033117	30175011000001102	Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-10614841000033110	30175711000001100	Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/1000mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-10701641000033116	30982411000001107	Bilxona 30mg modified-release tablets (Accord Healthcare Ltd)	Bilxona 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-10701741000033113	37618711000001109	Bilxona 60mg modified-release tablets (Accord Healthcare Ltd)	Bilxona 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg			0	0	1	0	0	0	0	0	0
-10951041000033114	31015711000001109	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	30.000mg	6010203		0	0	0	0	0	1	0	0	0
-10951141000033113	31015811000001101	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	50.000mg	6010203		0	0	0	0	0	1	0	0	0
-10952341000033119	31014311000001106	Eperzan 30mg powder and solvent for solution for injection pre-filled pens (GlaxoSmithKline UK Ltd)	Eperzan 30mg powder and solvent for solution for injection pre-filled pens	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	30.000mg	6010203		0	0	0	0	0	1	0	0	0
-10953041000033113	31014611000001101	Eperzan 50mg powder and solvent for solution for injection pre-filled pens (GlaxoSmithKline UK Ltd)	Eperzan 50mg powder and solvent for solution for injection pre-filled pens	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	50.000mg	6010203		0	0	0	0	0	1	0	0	0
-1136741000033112		Pramidex Tablets 500 mg	Pramidex Tablets 500 mg							0	0	1	0	0	0	0	0	0
-11441000033114	326038002	Acarbose 100mg tablets	Acarbose 100mg tablets	Tablet	Oral	Acarbose	100.000mg	6010203		0	0	0	0	0	0	0	1	0
-1153441000033112		Rastinon Tablets 500 mg	Rastinon Tablets 500 mg							0	0	1	0	0	0	0	0	0
-11541000033110	326037007	Acarbose 50mg tablets	Acarbose 50mg tablets	Tablet	Oral	Acarbose	50.000mg	6010203		0	0	0	0	0	0	0	1	0
-11781341000033117	33550811000001105	Metformin 1g/5ml oral solution sugar free	Metformin 1g/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	200.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-11781441000033111	33550911000001100	Metformin 850mg/5ml oral solution sugar free	Metformin 850mg/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	170.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-1184741000033113		Romozin Tablets 200 mg	Romozin Tablets 200 mg							0	1	0	0	0	0	0	0	0
-1184841000033115		Romozin Tablets 300 mg	Romozin Tablets 300 mg							0	1	0	0	0	0	0	0	0
-1184941000033111		Romozin Tablets 400 mg	Romozin Tablets 400 mg							0	1	0	0	0	0	0	0	0
-11898041000033111	33745311000001109	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	6010203		0	0	0	1	0	0	0	0	1
-11898141000033110	33682311000001103	Qtern 5mg/10mg tablets (AstraZeneca UK Ltd)	Qtern 5mg/10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	6010203		0	0	0	1	0	0	0	0	1
-11918941000033116	33766211000001100	Zicron PR 30mg tablets (Bristol Laboratories Ltd)	Zicron PR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-11919041000033113	33747711000001102	Saxenda 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Saxenda 6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml			0	0	0	0	0	1	0	0	0
-12326541000033110	34552411000001107	Meijumet 500mg modified-release tablets (Medreich Plc)	Meijumet 500mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-12326641000033111	34552811000001109	Meijumet 750mg modified-release tablets (Medreich Plc)	Meijumet 750mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-12326741000033119	34553311000001105	Meijumet 1000mg modified-release tablets (Medreich Plc)	Meijumet 1000mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-12593141000033115	35547511000001101	Yaltormin SR 500mg tablets (Wockhardt UK Ltd)	Yaltormin SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-12593241000033110	35548011000001105	Yaltormin SR 750mg tablets (Wockhardt UK Ltd)	Yaltormin SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-12593341000033117	35548311000001108	Yaltormin SR 1000mg tablets (Wockhardt UK Ltd)	Yaltormin SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-12641000033116		Acetohexamide Tablets 500 mg	Acetohexamide Tablets 500 mg							0	0	1	0	0	0	0	0	0
-12664441000033115	35849011000001104	Metuxtan SR 500mg tablets (Accord Healthcare Ltd)	Metuxtan SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-1278041000033114	140711000001103	Semi-Daonil 2.5mg tablets (Sanofi)	Semi-Daonil 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg			0	0	1	0	0	0	0	0	0
-12876141000033116	36491111000001100	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12876241000033111	36490911000001109	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12876341000033118	36491011000001101	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12876441000033112	36471411000001101	Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12876541000033113	36470811000001107	Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12876641000033114	36471111000001106	Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml			0	0	0	0	0	1	0	0	0
-12880941000033111	36529511000001109	Ertugliflozin 5mg tablets	Ertugliflozin 5mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg			0	0	0	0	0	0	0	0	1
-12881041000033118	36529411000001105	Ertugliflozin 15mg tablets	Ertugliflozin 15mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg			0	0	0	0	0	0	0	0	1
-12881141000033119	36514811000001101	Steglatro 5mg tablets (Merck Sharp & Dohme Ltd)	Steglatro 5mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg			0	0	0	0	0	0	0	0	1
-12881241000033114	36515111000001107	Steglatro 15mg tablets (Merck Sharp & Dohme Ltd)	Steglatro 15mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg			0	0	0	0	0	0	0	0	1
-12902541000033110	36620611000001107	Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 33.000microgram/1.000ml			1	0	0	0	0	1	0	0	0
-12902641000033111	36618311000001109	Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 50.000microgram/1.000ml			1	0	0	0	0	1	0	0	0
-12902741000033119	36630511000001105	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 33.000microgram/1.000ml			0	0	0	0	0	1	0	0	0
-12902841000033112	36630611000001109	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 50.000microgram/1.000ml			0	0	0	0	0	1	0	0	0
-12998941000033116	36914911000001102	Gliclazide 160mg tablets	Gliclazide 160mg tablets	Tablet	Oral	Gliclazide	160.000mg			0	0	1	0	0	0	0	0	0
-12999041000033113	36910511000001100	Glydex 160mg tablets (Medreich Plc)	Glydex 160mg tablets	Tablet	Oral	Gliclazide	160.000mg			0	0	1	0	0	0	0	0	0
-13116741000033112	37280311000001109	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin 10mg / Linagliptin 5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg			0	0	0	1	0	0	0	0	1
-13116841000033119	37280511000001103	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin 25mg / Linagliptin 5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg			0	0	0	1	0	0	0	0	1
-13116941000033110	37225211000001100	Glyxambi 10mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 10mg/5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg			0	0	0	1	0	0	0	0	1
-13117041000033111	37225511000001102	Glyxambi 25mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 25mg/5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg			0	0	0	1	0	0	0	0	1
-13122541000033112	37405911000001104	Glibenclamide 600micrograms/ml oral suspension sugar free	Glibenclamide 600micrograms/ml oral suspension sugar free	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml			0	0	1	0	0	0	0	0	0
-13122641000033113	37406011000001107	Glibenclamide 6mg/ml oral suspension sugar free	Glibenclamide 6mg/ml oral suspension sugar free	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-13122741000033116	37337011000001106	Amglidia 0.6mg/ml oral suspension with 1ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 0.6mg/ml oral suspension with 1ml oral syringe	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml			0	0	1	0	0	0	0	0	0
-13122841000033114	37337211000001101	Amglidia 0.6mg/ml oral suspension with 5ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 0.6mg/ml oral suspension with 5ml oral syringe	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml			0	0	1	0	0	0	0	0	0
-13122941000033118	37337511000001103	Amglidia 6mg/ml oral suspension with 1ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 6mg/ml oral suspension with 1ml oral syringe	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-13123041000033111	37337711000001108	Amglidia 6mg/ml oral suspension with 5ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 6mg/ml oral suspension with 5ml oral syringe	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-13345241000033110	38018211000001100	Lamzarin 30mg modified-release tablets (Key Pharmaceuticals Ltd)	Lamzarin 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-13345341000033117	38018511000001102	Lamzarin 60mg modified-release tablets (Key Pharmaceuticals Ltd)	Lamzarin 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg			0	0	1	0	0	0	0	0	0
-13427341000033118	28440211000001102	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203		0	0	0	0	0	1	0	0	0
-13427441000033112	28426011000001108	Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd)	Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203		0	0	0	0	0	1	0	0	0
-13427541000033113	38082811000001104	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Prolonged-release suspension for injection	Subcutaneous	Exenatide	2.353mg/1.000ml			0	0	0	0	0	1	0	0	0
-13427641000033114	38060511000001101	Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd)	Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens	Prolonged-release suspension for injection	Subcutaneous	Exenatide	2.353mg/1.000ml			0	0	0	0	0	1	0	0	0
-13429041000033112	38238111000001109	Sukkarto SR 750mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-1450941000033113	325267004	Tolbutamide 500mg tablets	Tolbutamide 500mg tablets	Tablet	Oral	Tolbutamide	500.000mg	6010201		0	0	1	0	0	0	0	0	0
-1452241000033117		Tolanase Tablets 100 mg	Tolanase Tablets 100 mg							0	0	1	0	0	0	0	0	0
-1452341000033110		Tolanase Tablets 250 mg	Tolanase Tablets 250 mg							0	0	1	0	0	0	0	0	0
-1452741000033111		Tolazamide Tablets 100 mg	Tolazamide Tablets 100 mg							0	0	1	0	0	0	0	0	0
-1452841000033118		Tolazamide Tablets 250 mg	Tolazamide Tablets 250 mg							0	0	1	0	0	0	0	0	0
-1472141000033110		Troglitazone Tablets 200 mg	Troglitazone Tablets 200 mg							0	1	0	0	0	0	0	0	0
-1472241000033115		Troglitazone Tablets 300 mg	Troglitazone Tablets 300 mg							0	1	0	0	0	0	0	0	0
-1472341000033113		Troglitazone Tablets 400 mg	Troglitazone Tablets 400 mg							0	1	0	0	0	0	0	0	0
-1602941000033117	49111000001103	Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd)	Diaglyk 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201		0	0	1	0	0	0	0	0	0
-1659941000033116	152311000001101	NovoNorm 500microgram tablets (Novo Nordisk Ltd)	NovoNorm 500microgram tablets	Tablet	Oral	Repaglinide	500.000microgram			0	0	0	0	0	0	1	0	0
-1660041000033118	494111000001103	NovoNorm 1mg tablets (Novo Nordisk Ltd)	NovoNorm 1mg tablets	Tablet	Oral	Repaglinide	1.000mg			0	0	0	0	0	0	1	0	0
-1660141000033119	840811000001100	NovoNorm 2mg tablets (Novo Nordisk Ltd)	NovoNorm 2mg tablets	Tablet	Oral	Repaglinide	2.000mg			0	0	0	0	0	0	1	0	0
-1672741000033112	326048000	Repaglinide 1mg tablets	Repaglinide 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	6010203		0	0	0	0	0	0	1	0	0
-1672841000033119	326049008	Repaglinide 2mg tablets	Repaglinide 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	6010203		0	0	0	0	0	0	1	0	0
-1672941000033110	326047005	Repaglinide 500microgram tablets	Repaglinide 500microgram tablets	Tablet	Oral	Repaglinide	500.000microgram	6010203		0	0	0	0	0	0	1	0	0
-209341000033112		Calabren Tablets 2.5 mg	Calabren Tablets 2.5 mg							0	0	1	0	0	0	0	0	0
-2147541000033115	326057006	Rosiglitazone 4mg tablets	Rosiglitazone 4mg tablets	Tablet	Oral	Rosiglitazone maleate	4.000mg			0	1	0	0	0	0	0	0	0
-2147641000033119	326056002	Rosiglitazone 8mg tablets	Rosiglitazone 8mg tablets	Tablet	Oral	Rosiglitazone maleate	8.000mg			0	1	0	0	0	0	0	0	0
-2147741000033111	922211000001106	Avandia 4mg tablets (GlaxoSmithKline UK Ltd)	Avandia 4mg tablets	Tablet	Oral	Rosiglitazone maleate	4.000mg			0	1	0	0	0	0	0	0	0
-2147841000033118	270611000001105	Avandia 8mg tablets (GlaxoSmithKline UK Ltd)	Avandia 8mg tablets	Tablet	Oral	Rosiglitazone maleate	8.000mg			0	1	0	0	0	0	0	0	0
-218441000033114		Calabren Tablets 5 mg	Calabren Tablets 5 mg							0	0	1	0	0	0	0	0	0
-2190741000033115	326062007	Pioglitazone 15mg tablets	Pioglitazone 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	6010203		0	1	0	0	0	0	0	0	0
-2190841000033113	326061000	Pioglitazone 30mg tablets	Pioglitazone 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	6010203		0	1	0	0	0	0	0	0	0
-2190941000033117	58011000001106	Actos 15mg tablets (Takeda UK Ltd)	Actos 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	6010203		0	1	0	0	0	0	0	0	0
-2191041000033110	446711000001101	Actos 30mg tablets (Takeda UK Ltd)	Actos 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	6010203		0	1	0	0	0	0	0	0	0
-2288241000033112	134610002	Nateglinide 60mg tablets	Nateglinide 60mg tablets	Tablet	Oral	Nateglinide	60.000mg	6010203		0	0	0	0	0	0	1	0	0
-2288341000033119	134609007	Nateglinide 120mg tablets	Nateglinide 120mg tablets	Tablet	Oral	Nateglinide	120.000mg	6010203		0	0	0	0	0	0	1	0	0
-2288441000033113	134608004	Nateglinide 180mg tablets	Nateglinide 180mg tablets	Tablet	Oral	Nateglinide	180.000mg	6010203		0	0	0	0	0	0	1	0	0
-2288541000033114	3650611000001102	Starlix 60mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 60mg tablets	Tablet	Oral	Nateglinide	60.000mg	6010203		0	0	0	0	0	0	1	0	0
-2288641000033110	3651211000001105	Starlix 120mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 120mg tablets	Tablet	Oral	Nateglinide	120.000mg	6010203		0	0	0	0	0	0	1	0	0
-2288741000033118	3883511000001107	Starlix 180mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 180mg tablets	Tablet	Oral	Nateglinide	180.000mg	6010203		0	0	0	0	0	0	1	0	0
-2289441000033115	134587001	Gliclazide 30mg modified-release tablets	Gliclazide 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	6010201		0	0	1	0	0	0	0	0	0
-2289941000033113	3661311000001107	Diamicron 30mg MR tablets (Servier Laboratories Ltd)	Diamicron 30mg MR tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	6010201		0	0	1	0	0	0	0	0	0
-249441000033114	325213005	Chlorpropamide 100mg tablets	Chlorpropamide 100mg tablets	Tablet	Oral	Chlorpropamide	100.000mg			0	0	1	0	0	0	0	0	0
-249541000033110	325214004	Chlorpropamide 250mg tablets	Chlorpropamide 250mg tablets	Tablet	Oral	Chlorpropamide	250.000mg			0	0	1	0	0	0	0	0	0
-2620241000033119	8664411000001102	Metformin 500mg/5ml oral suspension	Metformin 500mg/5ml oral suspension	Oral suspension	Oral	Metformin hydrochloride	100.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-2995141000033110	5302911000001102	Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 1mg/500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 1.000mg			0	1	0	0	1	0	0	0	0
-2995241000033115	5303611000001103	Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 2mg/500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 2.000mg			0	1	0	0	1	0	0	0	0
-2995941000033112	374897009	Pioglitazone 45mg tablets	Pioglitazone 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	6010203		0	1	0	0	0	0	0	0	0
-2996041000033119	5199411000001105	Actos 45mg tablets (Takeda UK Ltd)	Actos 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	6010203		0	1	0	0	0	0	0	0	0
-3191341000033115	409121008	Rosiglitazone 1mg / Metformin 500mg tablets	Rosiglitazone 1mg / Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 1.000mg			0	1	0	0	1	0	0	0	0
-3191441000033114	409122001	Rosiglitazone 2mg / Metformin 500mg tablets	Rosiglitazone 2mg / Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 2.000mg			0	1	0	0	1	0	0	0	0
-3200541000033116	409124000	Rosiglitazone 2mg / Metformin 1g tablets	Rosiglitazone 2mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 2.000mg			0	1	0	0	1	0	0	0	0
-3200641000033115	409125004	Rosiglitazone 4mg / Metformin 1g tablets	Rosiglitazone 4mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 4.000mg			0	1	0	0	1	0	0	0	0
-3200741000033112	8176311000001105	Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 2mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 2.000mg			0	1	0	0	1	0	0	0	0
-3200841000033119	8174611000001109	Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 4mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 4.000mg			0	1	0	0	1	0	0	0	0
-3228141000033117	386047000	Metformin 500mg modified-release tablets	Metformin 500mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202		0	0	0	0	1	0	0	0	0
-3228241000033112	8990711000001100	Glucophage SR 500mg tablets (Merck Serono Ltd)	Glucophage SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202		0	0	0	0	1	0	0	0	0
-3890941000033116		Metformin Hydrochloride Sugar free suspension 500 mg/5 ml	Metformin Hydrochloride Sugar free suspension 500 mg/5 ml							0	0	0	0	1	0	0	0	0
-3953041000033113	8524311000001105	Gliclazide 80mg/5ml oral suspension	Gliclazide 80mg/5ml oral suspension	Oral suspension	Oral	Gliclazide	16.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-3982341000033110	10750111000001100	Metformin 500mg/5ml oral solution sugar free	Metformin 500mg/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-3982441000033116	10741611000001100	Metsol 500mg/5ml oral solution (Kappin Ltd)	Metsol 500mg/5ml oral solution	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-3983941000033115	419873003	Pioglitazone 15mg / Metformin 850mg tablets	Pioglitazone 15mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Pioglitazone hydrochloride	850.000mg + 15.000mg	6010203		0	1	0	0	1	0	0	0	0
-3984241000033114	10922311000001108	Competact 15mg/850mg tablets (Takeda UK Ltd)	Competact 15mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Pioglitazone hydrochloride	850.000mg + 15.000mg	6010203		0	1	0	0	1	0	0	0	0
-3993941000033119	10952411000001100	Prandin 0.5mg tablets (Novo Nordisk Ltd)	Prandin 0.5mg tablets	Tablet	Oral	Repaglinide	500.000microgram	6010203		0	0	0	0	0	0	1	0	0
-3994041000033117	10956911000001107	Prandin 1mg tablets (Novo Nordisk Ltd)	Prandin 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	6010203		0	0	0	0	0	0	1	0	0
-3994141000033118	10957811000001100	Prandin 2mg tablets (Novo Nordisk Ltd)	Prandin 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	6010203		0	0	0	0	0	0	1	0	0
-406741000033116		Daonil Tablets 2.5 mg	Daonil Tablets 2.5 mg							0	0	1	0	0	0	0	0	0
-406841000033114	234011000001108	Daonil 5mg tablets (Sanofi)	Daonil 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg			0	0	1	0	0	0	0	0	0
-4133241000033117	424345005	Sitagliptin 100mg tablets	Sitagliptin 100mg tablets	Tablet	Oral	Sitagliptin phosphate	100.000mg	6010203		0	0	0	1	0	0	0	0	0
-4133341000033110	11473711000001108	Januvia 100mg tablets (Merck Sharp & Dohme Ltd)	Januvia 100mg tablets	Tablet	Oral	Sitagliptin phosphate	100.000mg	6010203		0	0	0	1	0	0	0	0	0
-4149341000033111	11494211000001108	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-4149441000033117	11494111000001102	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-4149541000033116	11494811000001109	Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens (AstraZeneca UK Ltd)	Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-4149641000033115	11494611000001105	Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens (AstraZeneca UK Ltd)	Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-4269741000033117	13412911000001100	Vildagliptin 50mg tablets	Vildagliptin 50mg tablets	Tablet	Oral	Vildagliptin	50.000mg	6010203		0	0	0	1	0	0	0	0	0
-4269841000033110		Vildagliptin Tablets 100 mg	Vildagliptin Tablets 100 mg							0	0	0	1	0	0	0	0	0
-4269941000033119	13411611000001100	Galvus 50mg tablets (Novartis Pharmaceuticals UK Ltd)	Galvus 50mg tablets	Tablet	Oral	Vildagliptin	50.000mg	6010203		0	0	0	1	0	0	0	0	0
-4270041000033118		Galvus Tablets 100 mg	Galvus Tablets 100 mg							0	0	0	1	0	0	0	0	0
-4452341000033119	13413111000001109	Vildagliptin 50mg / Metformin 850mg tablets	Vildagliptin 50mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	850.000mg + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-4452441000033113	13413011000001108	Vildagliptin 50mg / Metformin 1g tablets	Vildagliptin 50mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	1.000gram + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-4452541000033114	13412311000001101	Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd)	Eucreas 50mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	1.000gram + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-4452641000033110	13412611000001106	Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd)	Eucreas 50mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	850.000mg + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-4522041000033113	13626011000001107	Niddaryl 1mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 1mg tablets	Tablet	Oral	Glimepiride	1.000mg			0	0	1	0	0	0	0	0	0
-4522141000033112	13626511000001104	Niddaryl 2mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 2mg tablets	Tablet	Oral	Glimepiride	2.000mg			0	0	1	0	0	0	0	0	0
-4522241000033117	13626911000001106	Niddaryl 3mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 3mg tablets	Tablet	Oral	Glimepiride	3.000mg			0	0	1	0	0	0	0	0	0
-4522341000033110	13627211000001100	Niddaryl 4mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 4mg tablets	Tablet	Oral	Glimepiride	4.000mg			0	0	1	0	0	0	0	0	0
-4549141000033118	409361001	Metformin 750mg modified-release tablets	Metformin 750mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-4549241000033113	13748611000001107	Glucophage SR 750mg tablets (Merck Serono Ltd)	Glucophage SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg			0	0	0	0	1	0	0	0	0
-462041000033119	13511000001103	Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd)	Diabetamide 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg			0	0	1	0	0	0	0	0	0
-462141000033115	287811000001101	Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Diabetamide 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg			0	0	1	0	0	0	0	0	0
-463541000033118	745911000001103	Diamicron 80mg tablets (Servier Laboratories Ltd)	Diamicron 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201		0	0	1	0	0	0	0	0	0
-463941000033112		Dimelor Tablets 500 mg	Dimelor Tablets 500 mg							0	0	1	0	0	0	0	0	0
-465841000033115		Diabinese Tablets 100 mg	Diabinese Tablets 100 mg							0	0	1	0	0	0	0	0	0
-465941000033111		Diabinese Tablets 250 mg	Diabinese Tablets 250 mg							0	0	1	0	0	0	0	0	0
-4941241000033119	13456711000001106	Nazdol MR 30mg tablets (Consilient Health Ltd)	Nazdol MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-4945241000033117	411533003	Metformin 1g modified-release tablets	Metformin 1g modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-4945341000033110	15367811000001105	Glucophage SR 1000mg tablets (Merck Serono Ltd)	Glucophage SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-4957741000033118	14183911000001108	Bolamyn SR 500mg tablets (Teva UK Ltd)	Bolamyn SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202		0	0	0	0	1	0	0	0	0
-5007641000033119	15411311000001103	Metformin 500mg oral powder sachets sugar free	Metformin 500mg oral powder sachets sugar free	Powder	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-5007741000033111	15411211000001106	Metformin 1g oral powder sachets sugar free	Metformin 1g oral powder sachets sugar free	Powder	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-5007841000033118	15373711000001104	Glucophage 500mg oral powder sachets (Merck Serono Ltd)	Glucophage 500mg oral powder sachets	Powder	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-5007941000033114	15374311000001101	Glucophage 1000mg oral powder sachets (Merck Serono Ltd)	Glucophage 1000mg oral powder sachets	Powder	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-5128241000033116		Glucophage Tablets 1000 mg	Glucophage Tablets 1000 mg							0	0	0	0	1	0	0	0	0
-5131241000033110	15859111000001102	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-5131341000033117	15858611000001101	Victoza 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Victoza 6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-5132141000033111		Janumet Tablets 50 mg + 500 mg	Janumet Tablets 50 mg + 500 mg							0	0	0	1	1	0	0	0	0
-5132241000033116	17060511000001108	Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd)	Janumet 50mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Sitagliptin phosphate	1.000gram + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-5316641000033118	443713000	Saxagliptin 5mg tablets	Saxagliptin 5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	5.000mg	6010203		0	0	0	1	0	0	0	0	0
-5316741000033110	15993011000001101	Onglyza 5mg tablets (AstraZeneca UK Ltd)	Onglyza 5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	5.000mg	6010203		0	0	0	1	0	0	0	0	0
-5378141000033117	16536211000001102	Dacadis MR 30mg tablets (Mylan)	Dacadis MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-5491941000033110		Amaryl M Tablets 1 mg + 250 mg	Amaryl M Tablets 1 mg + 250 mg							0	0	1	0	1	0	0	0	0
-5492041000033116		Amaryl M Tablets 2 mg + 500 mg	Amaryl M Tablets 2 mg + 500 mg							0	0	1	0	1	0	0	0	0
-557241000033113	233411000001102	Euglucon 2.5mg tablets (Aventis Pharma)	Euglucon 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg			0	0	1	0	0	0	0	0	0
-557341000033115	322511000001103	Euglucon 5mg tablets (Sanofi)	Euglucon 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg			0	0	1	0	0	0	0	0	0
-5576041000033115	17071811000001108	Metformin 1g / Sitagliptin 50mg tablets	Metformin 1g / Sitagliptin 50mg tablets	Tablet	Oral	Metformin hydrochloride/ Sitagliptin phosphate	1.000gram + 50.000mg	6010203		0	0	0	1	1	0	0	0	0
-5709741000033116	16702011000001102	Gliclazide 40mg tablets	Gliclazide 40mg tablets	Tablet	Oral	Gliclazide	40.000mg			0	0	1	0	0	0	0	0	0
-5709841000033114	16677511000001108	Zicron 40mg tablets (Bristol Laboratories Ltd)	Zicron 40mg tablets	Tablet	Oral	Gliclazide	40.000mg			0	0	1	0	0	0	0	0	0
-5815341000033115	15334511000001109	Edicil MR 30mg tablets (Teva UK Ltd)	Edicil MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-5869241000033114	8524211000001102	Gliclazide 40mg/5ml oral suspension	Gliclazide 40mg/5ml oral suspension	Oral suspension	Oral	Gliclazide	8.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-58841000033113	938211000001105	Amaryl 2mg tablets (Zentiva)	Amaryl 2mg tablets	Tablet	Oral	Glimepiride	2.000mg	6010201		0	0	1	0	0	0	0	0	0
-59541000033116	228111000001101	Amaryl 1mg tablets (Zentiva)	Amaryl 1mg tablets	Tablet	Oral	Glimepiride	1.000mg	6010201		0	0	1	0	0	0	0	0	0
-59641000033115	164511000001108	Amaryl 3mg tablets (Zentiva)	Amaryl 3mg tablets	Tablet	Oral	Glimepiride	3.000mg	6010201		0	0	1	0	0	0	0	0	0
-5968741000033115	8523711000001107	Glibenclamide 5mg/5ml oral solution	Glibenclamide 5mg/5ml oral solution	Oral solution	Oral	Glibenclamide	1.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-5968841000033113	8523811000001104	Glibenclamide 5mg/5ml oral suspension	Glibenclamide 5mg/5ml oral suspension	Oral suspension	Oral	Glibenclamide	1.000mg/1.000ml			0	0	1	0	0	0	0	0	0
-59741000033112	259611000001101	Amaryl 4mg tablets (Zentiva)	Amaryl 4mg tablets	Tablet	Oral	Glimepiride	4.000mg	6010201		0	0	1	0	0	0	0	0	0
-5997041000033115	409197000	Metformin 500mg/5ml oral solution	Metformin 500mg/5ml oral solution	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml			0	0	0	0	1	0	0	0	0
-6029841000033115	18141911000001101	Metabet SR 500mg tablets (Morningside Healthcare Ltd)	Metabet SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-6123241000033112	443067000	Saxagliptin 2.5mg tablets	Saxagliptin 2.5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	2.500mg			0	0	0	1	0	0	0	0	0
-6123341000033119	18596311000001108	Onglyza 2.5mg tablets (AstraZeneca UK Ltd)	Onglyza 2.5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	2.500mg			0	0	0	1	0	0	0	0	0
-6135341000033117	18678711000001108	Vitile XL 30mg tablets (Actavis UK Ltd)	Vitile XL 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg			0	0	1	0	0	0	0	0	0
-6279741000033117	18885611000001108	Metabet SR 1000mg tablets (Morningside Healthcare Ltd)	Metabet SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-6388241000033117	19275411000001107	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203		0	0	0	0	0	1	0	0	0
-6388341000033110	19274811000001108	Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (AstraZeneca UK Ltd)	Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203		0	0	0	0	0	1	0	0	0
-6391041000033117	19308111000001109	Glucient SR 500mg tablets (Consilient Health Ltd)	Glucient SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-6391141000033118	19306711000001106	Enyglid 0.5mg tablets (Consilient Health Ltd)	Enyglid 0.5mg tablets	Tablet	Oral	Repaglinide	500.000microgram			0	0	0	0	0	0	1	0	0
-6391241000033113	19306911000001108	Enyglid 1mg tablets (Consilient Health Ltd)	Enyglid 1mg tablets	Tablet	Oral	Repaglinide	1.000mg			0	0	0	0	0	0	1	0	0
-6391341000033115	19307311000001105	Enyglid 2mg tablets (Consilient Health Ltd)	Enyglid 2mg tablets	Tablet	Oral	Repaglinide	2.000mg			0	0	0	0	0	0	1	0	0
-6444041000033117	19525211000001103	Linagliptin 5mg tablets	Linagliptin 5mg tablets	Tablet	Oral	Linagliptin	5.000mg	6010203		0	0	0	1	0	0	0	0	0
-6444141000033118	19492811000001108	Trajenta 5mg tablets (Boehringer Ingelheim Ltd)	Trajenta 5mg tablets	Tablet	Oral	Linagliptin	5.000mg	6010203		0	0	0	1	0	0	0	0	0
-644541000033111	325218001	Glibenclamide 2.5mg tablets	Glibenclamide 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg	6010201		0	0	1	0	0	0	0	0	0
-644641000033112	325219009	Glibenclamide 5mg tablets	Glibenclamide 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg	6010201		0	0	1	0	0	0	0	0	0
-644741000033115	515111000001108	Glibenese 5mg tablets (Pfizer Ltd)	Glibenese 5mg tablets	Tablet	Oral	Glipizide	5.000mg			0	0	1	0	0	0	0	0	0
-644841000033113	325243007	Glipizide 5mg tablets	Glipizide 5mg tablets	Tablet	Oral	Glipizide	5.000mg	6010201		0	0	1	0	0	0	0	0	0
-644941000033117	363211000001102	Glucophage 500mg tablets (Merck Serono Ltd)	Glucophage 500mg tablets	Tablet	Oral	Metformin hydrochloride	500.000mg	6010202		0	0	0	0	1	0	0	0	0
-645041000033117	365111000001109	Glucophage 850mg tablets (Merck Serono Ltd)	Glucophage 850mg tablets	Tablet	Oral	Metformin hydrochloride	850.000mg	6010202		0	0	0	0	1	0	0	0	0
-645241000033113	444311000001106	Glucobay 100mg tablets (Bayer Plc)	Glucobay 100mg tablets	Tablet	Oral	Acarbose	100.000mg	6010203		0	0	0	0	0	0	0	1	0
-645341000033115	781411000001104	Glucobay 50mg tablets (Bayer Plc)	Glucobay 50mg tablets	Tablet	Oral	Acarbose	50.000mg	6010203		0	0	0	0	0	0	0	1	0
-645541000033110		Glucamet Tablets 500 mg	Glucamet Tablets 500 mg							0	0	0	0	1	0	0	0	0
-645641000033111		Glucamet Tablets 850 mg	Glucamet Tablets 850 mg							0	0	0	0	1	0	0	0	0
-645841000033112	325259007	Glimepiride 2mg tablets	Glimepiride 2mg tablets	Tablet	Oral	Glimepiride	2.000mg	6010201		0	0	1	0	0	0	0	0	0
-645941000033116	325261003	Glimepiride 1mg tablets	Glimepiride 1mg tablets	Tablet	Oral	Glimepiride	1.000mg	6010201		0	0	1	0	0	0	0	0	0
-646041000033114	325262005	Glimepiride 3mg tablets	Glimepiride 3mg tablets	Tablet	Oral	Glimepiride	3.000mg	6010201		0	0	1	0	0	0	0	0	0
-646141000033113	325263000	Glimepiride 4mg tablets	Glimepiride 4mg tablets	Tablet	Oral	Glimepiride	4.000mg	6010201		0	0	1	0	0	0	0	0	0
-646241000033118		Glyconon Tablets 500 mg	Glyconon Tablets 500 mg							0	0	1	0	0	0	0	0	0
-646341000033111		Glymese Tablets 250 mg	Glymese Tablets 250 mg							0	0	1	0	0	0	0	0	0
-646441000033117	325242002	Gliclazide 80mg tablets	Gliclazide 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201		0	0	1	0	0	0	0	0	0
-646541000033116	325248003	Glipizide 2.5mg tablets	Glipizide 2.5mg tablets	Tablet	Oral	Glipizide	2.500mg	6010201		0	0	1	0	0	0	0	0	0
-646741000033112		Glymidine Tablets 500 mg	Glymidine Tablets 500 mg							0	0	1	0	0	0	0	0	0
-646841000033119	3763311000001102	Glurenorm 30mg tablets (Sanofi)	Glurenorm 30mg tablets	Tablet	Oral	Gliquidone	30.000mg			0	0	1	0	0	0	0	0	0
-646941000033110	325251005	Gliquidone 30mg tablets	Gliquidone 30mg tablets	Tablet	Oral	Gliquidone	30.000mg			0	0	1	0	0	0	0	0	0
-650141000033114		Gondafon Tablets 500 mg	Gondafon Tablets 500 mg							0	0	1	0	0	0	0	0	0
-6525941000033110	20022911000001104	Glizofar 15mg tablets (Arrow Generics Ltd)	Glizofar 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg			0	1	0	0	0	0	0	0	0
-6526041000033117	20023111000001108	Glizofar 30mg tablets (Arrow Generics Ltd)	Glizofar 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg			0	1	0	0	0	0	0	0	0
-6526141000033118	20023411000001103	Glizofar 45mg tablets (Arrow Generics Ltd)	Glizofar 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg			0	1	0	0	0	0	0	0	0
-654041000033116		Grenamide Tablets 2.5 mg	Grenamide Tablets 2.5 mg							0	0	1	0	0	0	0	0	0
-654141000033117		Grenamide Tablets 5 mg	Grenamide Tablets 5 mg							0	0	1	0	0	0	0	0	0
-7687241000033110	424513004	Sitagliptin 50mg tablets	Sitagliptin 50mg tablets	Tablet	Oral	Sitagliptin phosphate	50.000mg			0	0	0	1	0	0	0	0	0
-7687341000033117	20114811000001100	Januvia 50mg tablets (Merck Sharp & Dohme Ltd)	Januvia 50mg tablets	Tablet	Oral	Sitagliptin phosphate	50.000mg			0	0	0	1	0	0	0	0	0
-7687441000033111	423962004	Sitagliptin 25mg tablets	Sitagliptin 25mg tablets	Tablet	Oral	Sitagliptin phosphate	25.000mg			0	0	0	1	0	0	0	0	0
-7687541000033112	20115111000001106	Januvia 25mg tablets (Merck Sharp & Dohme Ltd)	Januvia 25mg tablets	Tablet	Oral	Sitagliptin phosphate	25.000mg			0	0	0	1	0	0	0	0	0
-7874941000033110	20552511000001105	Diagemet XL 500mg tablets (Thornton & Ross Ltd)	Diagemet XL 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-8027541000033116		Diamicron M/R tablets 60 mg	Diamicron M/R tablets 60 mg							0	0	1	0	0	0	0	0	0
-8028441000033116		Galvus Met Tablets 850 mg + 50 mg	Galvus Met Tablets 850 mg + 50 mg							0	0	0	1	0	0	0	0	0
-8028541000033115		Galvus Met Tablets 1 gram + 50 mg	Galvus Met Tablets 1 gram + 50 mg							0	0	0	1	0	0	0	0	0
-8115741000033119	21245011000001106	Linagliptin 2.5mg / Metformin 1g tablets	Linagliptin 2.5mg / Metformin 1g tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 1000.000mg	6010203		0	0	0	1	1	0	0	0	0
-8115841000033112	21245111000001107	Linagliptin 2.5mg / Metformin 850mg tablets	Linagliptin 2.5mg / Metformin 850mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 850.000mg	6010203		0	0	0	1	1	0	0	0	0
-8115941000033116	21208511000001102	Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Jentadueto 2.5mg/1000mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 1000.000mg	6010203		0	0	0	1	1	0	0	0	0
-8116041000033114	21208211000001100	Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Jentadueto 2.5mg/850mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 850.000mg	6010203		0	0	0	1	1	0	0	0	0
-8125241000033119	21366911000001103	Glimepiride 6mg/5ml oral suspension	Glimepiride 6mg/5ml oral suspension	Oral suspension	Oral	Glimepiride	1.200mg/1.000ml			0	0	1	0	0	0	0	0	0
-8199341000033118	703679006	Dapagliflozin 5mg tablets	Dapagliflozin 5mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	6010203		0	0	0	0	0	0	0	0	1
-8199441000033112	703680009	Dapagliflozin 10mg tablets	Dapagliflozin 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	6010203		0	0	0	0	0	0	0	0	1
-8199541000033113	21609511000001105	Forxiga 5mg tablets (AstraZeneca UK Ltd)	Forxiga 5mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	6010203		0	0	0	0	0	0	0	0	1
-8199641000033114	21609811000001108	Forxiga 10mg tablets (AstraZeneca UK Ltd)	Forxiga 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	6010203		0	0	0	0	0	0	0	0	1
-8242541000033112	21711511000001101	Saxagliptin 2.5mg / Metformin 850mg tablets	Saxagliptin 2.5mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	850.000mg + 2.500mg	6010203		0	0	0	1	1	0	0	0	0
-8242641000033113	21711411000001100	Saxagliptin 2.5mg / Metformin 1g tablets	Saxagliptin 2.5mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	1.000gram + 2.500mg	6010203		0	0	0	1	1	0	0	0	0
-8242741000033116	21705311000001107	Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd)	Komboglyze 2.5mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	850.000mg + 2.500mg	6010203		0	0	0	1	1	0	0	0	0
-8242841000033114	21705611000001102	Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd)	Komboglyze 2.5mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	1.000gram + 2.500mg	6010203		0	0	0	1	1	0	0	0	0
-8267341000033110	21994611000001106	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Lixisenatide	50.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-8267441000033116	21994811000001105	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Lixisenatide	100.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-8267541000033115	21941511000001102	Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi)	Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Lixisenatide	50.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-8267641000033119	21941011000001105	Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi)	Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Lixisenatide	100.000microgram/1.000ml	6010203		0	0	0	0	0	1	0	0	0
-8268441000033115	21994711000001102	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Not applicable	Route of administration not applicable			6010203		0	0	0	0	0	1	0	0	0
-8268641000033118	21953711000001106	Lyxumia 10micrograms/20micrograms treatment initiation pack (Sanofi)	Lyxumia 10micrograms/20micrograms treatment initiation pack	Not applicable				6010203		0	0	0	0	0	1	0	0	0
-8298141000033113	22226111000001104	Gliclazide 60mg modified-release tablets	Gliclazide 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg			0	0	1	0	0	0	0	0	0
-8298241000033118	22225011000001109	Laaglyda MR 60mg tablets (Consilient Health Ltd)	Laaglyda MR 60mg tablets	Modified-release tablet	Oral	Gliclazide	60.000mg			0	0	1	0	0	0	0	0	0
-8348941000033113	22308811000001109	Bolamyn SR 1000mg tablets (Teva UK Ltd)	Bolamyn SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-837041000033115		Libanil Tablets 2.5 mg	Libanil Tablets 2.5 mg							0	0	1	0	0	0	0	0	0
-837141000033116		Libanil Tablets 5 mg	Libanil Tablets 5 mg							0	0	1	0	0	0	0	0	0
-869841000033114		Malix Tablets 2.5 mg	Malix Tablets 2.5 mg							0	0	1	0	0	0	0	0	0
-869941000033118		Malix Tablets 5 mg	Malix Tablets 5 mg							0	0	1	0	0	0	0	0	0
-8839341000033116	23369611000001106	Glidipion 30mg tablets (Actavis UK Ltd)	Glidipion 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg			0	1	0	0	0	0	0	0	0
-8839441000033110	23372211000001107	Glidipion 45mg tablets (Actavis UK Ltd)	Glidipion 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg			0	1	0	0	0	0	0	0	0
-8959241000033118	23637511000001104	Alogliptin 6.25mg tablets	Alogliptin 6.25mg tablets	Tablet	Oral	Alogliptin benzoate	6.250mg	6010203		0	0	0	1	0	0	0	0	0
-8959341000033111	23637311000001105	Alogliptin 12.5mg tablets	Alogliptin 12.5mg tablets	Tablet	Oral	Alogliptin benzoate	12.500mg	6010203		0	0	0	1	0	0	0	0	0
-8959441000033117	23637411000001103	Alogliptin 25mg tablets	Alogliptin 25mg tablets	Tablet	Oral	Alogliptin benzoate	25.000mg	6010203		0	0	0	1	0	0	0	0	0
-8959541000033116	23634111000001103	Vipidia 6.25mg tablets (Takeda UK Ltd)	Vipidia 6.25mg tablets	Tablet	Oral	Alogliptin benzoate	6.250mg	6010203		0	0	0	1	0	0	0	0	0
-8959641000033115	23636011000001109	Vipidia 12.5mg tablets (Takeda UK Ltd)	Vipidia 12.5mg tablets	Tablet	Oral	Alogliptin benzoate	12.500mg	6010203		0	0	0	1	0	0	0	0	0
-8959741000033112	23636311000001107	Vipidia 25mg tablets (Takeda UK Ltd)	Vipidia 25mg tablets	Tablet	Oral	Alogliptin benzoate	25.000mg	6010203		0	0	0	1	0	0	0	0	0
-8959841000033119	23637211000001102	Alogliptin 12.5mg / Metformin 1g tablets	Alogliptin 12.5mg / Metformin 1g tablets	Tablet	Oral	Alogliptin benzoate/ Metformin hydrochloride	12.500mg + 1.000gram	6010203		0	0	0	1	1	0	0	0	0
-8959941000033110	23632611000001103	Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd)	Vipdomet 12.5mg/1000mg tablets	Tablet	Oral	Alogliptin benzoate/ Metformin hydrochloride	12.500mg + 1.000gram	6010203		0	0	0	1	1	0	0	0	0
-896941000033112	325278007	Metformin 500mg tablets	Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride	500.000mg	6010202		0	0	0	0	1	0	0	0	0
-897041000033113	325279004	Metformin 850mg tablets	Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride	850.000mg	6010202		0	0	0	0	1	0	0	0	0
-9106041000033110	24054611000001100	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin 5mg / Metformin 1g tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-9106141000033114	24054711000001109	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin 5mg / Metformin 850mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-9106241000033119	24018511000001102	Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/1000mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-9106341000033112	24018111000001106	Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/850mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-9110341000033112	703682001	Canagliflozin 100mg tablets	Canagliflozin 100mg tablets	Tablet	Oral	Canagliflozin hemihydrate	100.000mg	6010203		0	0	0	0	0	0	0	0	1
-9110441000033118	24104511000001103	Canagliflozin 300mg tablets	Canagliflozin 300mg tablets	Tablet	Oral	Canagliflozin hemihydrate	300.000mg	6010203		0	0	0	0	0	0	0	0	1
-9110541000033117	24088611000001101	Invokana 100mg tablets (Napp Pharmaceuticals Ltd)	Invokana 100mg tablets	Tablet	Oral	Canagliflozin hemihydrate	100.000mg	6010203		0	0	0	0	0	0	0	0	1
-9110641000033116	24088311000001106	Invokana 300mg tablets (Napp Pharmaceuticals Ltd)	Invokana 300mg tablets	Tablet	Oral	Canagliflozin hemihydrate	300.000mg	6010203		0	0	0	0	0	0	0	0	1
-920141000033112	808711000001104	Minodiab 2.5mg tablets (Pfizer Ltd)	Minodiab 2.5mg tablets	Tablet	Oral	Glipizide	2.500mg	6010201		0	0	1	0	0	0	0	0	0
-920241000033117	652411000001107	Minodiab 5mg tablets (Pfizer Ltd)	Minodiab 5mg tablets	Tablet	Oral	Glipizide	5.000mg	6010201		0	0	1	0	0	0	0	0	0
-9230641000033113	24568411000001100	Sukkarto SR 500mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg			0	0	0	0	1	0	0	0	0
-9230841000033114	24568211000001104	Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram			0	0	0	0	1	0	0	0	0
-9336641000033119	25290511000001101	Empagliflozin 10mg tablets	Empagliflozin 10mg tablets	Tablet	Oral	Empagliflozin	10.000mg	6010203		0	0	0	0	0	0	0	0	1
-9336841000033118	25290611000001102	Empagliflozin 25mg tablets	Empagliflozin 25mg tablets	Tablet	Oral	Empagliflozin	25.000mg	6010203		0	0	0	0	0	0	0	0	1
-9337141000033114	25238811000001107	Jardiance 10mg tablets (Boehringer Ingelheim Ltd)	Jardiance 10mg tablets	Tablet	Oral	Empagliflozin	10.000mg	6010203		0	0	0	0	0	0	0	0	1
-9337241000033119	25239711000001108	Jardiance 25mg tablets (Boehringer Ingelheim Ltd)	Jardiance 25mg tablets	Tablet	Oral	Empagliflozin	25.000mg	6010203		0	0	0	0	0	0	0	0	1
-9851541000033114	28049211000001101	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin 50mg / Metformin 1g tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
-9851641000033110	28049311000001109	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin 50mg / Metformin 850mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-9851741000033118	28022511000001109	Vokanamet 50mg/850mg tablets (Napp Pharmaceuticals Ltd)	Vokanamet 50mg/850mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	6010203		0	0	0	0	1	0	0	0	1
-9851841000033111	28024411000001103	Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd)	Vokanamet 50mg/1000mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	6010203		0	0	0	0	1	0	0	0	1
+10042541000033117	NA	Exenatide Prolonged release suspension for injection 2 mg device	Exenatide Prolonged release suspension for injection 2 mg device	NA	NA	NA	NA	NA	NA	0	0	0	0	0	1	0	0	0
+10042641000033116	NA	Bydureon Prolonged release suspension for injection 2 mg pen	Bydureon Prolonged release suspension for injection 2 mg pen	NA	NA	NA	NA	NA	NA	0	0	0	0	0	1	0	0	0
+10043341000033116	28420711000001107	Vamju 30mg modified-release tablets (Advanz Pharma)	Vamju 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+10043441000033110	28420911000001109	Vamju 60mg modified-release tablets (Advanz Pharma)	Vamju 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+10044541000033113	28279611000001109	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin degludec/ Liraglutide	100.000unit/1.000ml + 3.600mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+10044641000033114	28054311000001106	Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Insulin degludec/ Liraglutide	100.000unit/1.000ml + 3.600mg/1.000ml	6010203	NA	1	0	0	0	0	1	0	0	0
+1017141000033110	NA	Orabet Tablets 500 mg	Orabet Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+1017241000033115	NA	Orabet Tablets 850 mg	Orabet Tablets 850 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+10207841000033118	28789611000001108	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Solution for injection	Subcutaneous	Dulaglutide	1.500mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+10207941000033114	28789711000001104	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Solution for injection	Subcutaneous	Dulaglutide	3.000mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+10208041000033112	28461011000001109	Trulicity 0.75mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd)	Trulicity 0.75mg/0.5ml solution for injection pre-filled pens	Solution for injection	Subcutaneous	Dulaglutide	1.500mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+10208141000033111	28462311000001103	Trulicity 1.5mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd)	Trulicity 1.5mg/0.5ml solution for injection pre-filled pens	Solution for injection	Subcutaneous	Dulaglutide	3.000mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+10251341000033112	28940811000001104	Glidipion 15mg tablets (Actavis UK Ltd)	Glidipion 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+10336941000033112	29742811000001105	Diabiom 15mg tablets (Tillomed Laboratories Ltd)	Diabiom 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+10337041000033113	29743011000001108	Diabiom 30mg tablets (Tillomed Laboratories Ltd)	Diabiom 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+10337141000033112	29743211000001103	Diabiom 45mg tablets (Tillomed Laboratories Ltd)	Diabiom 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+10598841000033113	30012111000001105	Glucient SR 750mg tablets (Consilient Health Ltd)	Glucient SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+10598941000033117	30012311000001107	Glucient SR 1000mg tablets (Consilient Health Ltd)	Glucient SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+10614141000033116	30318411000001104	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin 5mg / Metformin 850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+10614241000033111	30318311000001106	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin 5mg / Metformin 1g tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+10614341000033118	30318211000001103	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin 12.5mg / Metformin 850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+10614441000033112	30318111000001109	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin 12.5mg / Metformin 1g tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+10614541000033113	30173411000001107	Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+10614641000033114	30174111000001100	Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/1000mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+10614741000033117	30175011000001102	Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/850mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+10614841000033110	30175711000001100	Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/1000mg tablets	Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+10701641000033116	30982411000001107	Bilxona 30mg modified-release tablets (Accord Healthcare Ltd)	Bilxona 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+10701741000033113	37618711000001109	Bilxona 60mg modified-release tablets (Accord Healthcare Ltd)	Bilxona 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+10951041000033114	31015711000001109	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	30.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+10951141000033113	31015811000001101	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	50.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+10952341000033119	31014311000001106	Eperzan 30mg powder and solvent for solution for injection pre-filled pens (GlaxoSmithKline UK Ltd)	Eperzan 30mg powder and solvent for solution for injection pre-filled pens	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	30.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+10953041000033113	31014611000001101	Eperzan 50mg powder and solvent for solution for injection pre-filled pens (GlaxoSmithKline UK Ltd)	Eperzan 50mg powder and solvent for solution for injection pre-filled pens	Powder and solvent for solution for injection	Subcutaneous	Albiglutide	50.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+1136741000033112	NA	Pramidex Tablets 500 mg	Pramidex Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+11441000033114	326038002	Acarbose 100mg tablets	Acarbose 100mg tablets	Tablet	Oral	Acarbose	100.000mg	6010203	NA	0	0	0	0	0	0	0	1	0
+1153441000033112	NA	Rastinon Tablets 500 mg	Rastinon Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+11541000033110	326037007	Acarbose 50mg tablets	Acarbose 50mg tablets	Tablet	Oral	Acarbose	50.000mg	6010203	NA	0	0	0	0	0	0	0	1	0
+11781341000033117	33550811000001105	Metformin 1g/5ml oral solution sugar free	Metformin 1g/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	200.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+11781441000033111	33550911000001100	Metformin 850mg/5ml oral solution sugar free	Metformin 850mg/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	170.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+1184741000033113	NA	Romozin Tablets 200 mg	Romozin Tablets 200 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+1184841000033115	NA	Romozin Tablets 300 mg	Romozin Tablets 300 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+1184941000033111	NA	Romozin Tablets 400 mg	Romozin Tablets 400 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+11898041000033111	33745311000001109	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	6010203	NA	0	0	0	1	0	0	0	0	1
+11898141000033110	33682311000001103	Qtern 5mg/10mg tablets (AstraZeneca UK Ltd)	Qtern 5mg/10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	6010203	NA	0	0	0	1	0	0	0	0	1
+11918941000033116	33766211000001100	Zicron PR 30mg tablets (Bristol Laboratories Ltd)	Zicron PR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+11919041000033113	33747711000001102	Saxenda 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Saxenda 6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12326541000033110	34552411000001107	Meijumet 500mg modified-release tablets (Medreich Plc)	Meijumet 500mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+12326641000033111	34552811000001109	Meijumet 750mg modified-release tablets (Medreich Plc)	Meijumet 750mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+12326741000033119	34553311000001105	Meijumet 1000mg modified-release tablets (Medreich Plc)	Meijumet 1000mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+12593141000033115	35547511000001101	Yaltormin SR 500mg tablets (Wockhardt UK Ltd)	Yaltormin SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+12593241000033110	35548011000001105	Yaltormin SR 750mg tablets (Wockhardt UK Ltd)	Yaltormin SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+12593341000033117	35548311000001108	Yaltormin SR 1000mg tablets (Wockhardt UK Ltd)	Yaltormin SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+12641000033116	NA	Acetohexamide Tablets 500 mg	Acetohexamide Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+12664441000033115	35849011000001104	Metuxtan SR 500mg tablets (Accord Healthcare Ltd)	Metuxtan SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+1278041000033114	140711000001103	Semi-Daonil 2.5mg tablets (Sanofi)	Semi-Daonil 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg	NA	NA	0	0	1	0	0	0	0	0	0
+12876141000033116	36491111000001100	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12876241000033111	36490911000001109	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12876341000033118	36491011000001101	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12876441000033112	36471411000001101	Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12876541000033113	36470811000001107	Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12876641000033114	36471111000001106	Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd)	Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens	Solution for injection	Subcutaneous	Semaglutide	1.340mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12880941000033111	36529511000001109	Ertugliflozin 5mg tablets	Ertugliflozin 5mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg	NA	NA	0	0	0	0	0	0	0	0	1
+12881041000033118	36529411000001105	Ertugliflozin 15mg tablets	Ertugliflozin 15mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg	NA	NA	0	0	0	0	0	0	0	0	1
+12881141000033119	36514811000001101	Steglatro 5mg tablets (Merck Sharp & Dohme Ltd)	Steglatro 5mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg	NA	NA	0	0	0	0	0	0	0	0	1
+12881241000033114	36515111000001107	Steglatro 15mg tablets (Merck Sharp & Dohme Ltd)	Steglatro 15mg tablets	Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg	NA	NA	0	0	0	0	0	0	0	0	1
+12902541000033110	36620611000001107	Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 33.000microgram/1.000ml	NA	NA	1	0	0	0	0	1	0	0	0
+12902641000033111	36618311000001109	Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 50.000microgram/1.000ml	NA	NA	1	0	0	0	0	1	0	0	0
+12902741000033119	36630511000001105	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 33.000microgram/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12902841000033112	36630611000001109	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 50.000microgram/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+12998941000033116	36914911000001102	Gliclazide 160mg tablets	Gliclazide 160mg tablets	Tablet	Oral	Gliclazide	160.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+12999041000033113	36910511000001100	Glydex 160mg tablets (Medreich Plc)	Glydex 160mg tablets	Tablet	Oral	Gliclazide	160.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+13116741000033112	37280311000001109	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin 10mg / Linagliptin 5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg	NA	NA	0	0	0	1	0	0	0	0	1
+13116841000033119	37280511000001103	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin 25mg / Linagliptin 5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg	NA	NA	0	0	0	1	0	0	0	0	1
+13116941000033110	37225211000001100	Glyxambi 10mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 10mg/5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg	NA	NA	0	0	0	1	0	0	0	0	1
+13117041000033111	37225511000001102	Glyxambi 25mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 25mg/5mg tablets	Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg	NA	NA	0	0	0	1	0	0	0	0	1
+13122541000033112	37405911000001104	Glibenclamide 600micrograms/ml oral suspension sugar free	Glibenclamide 600micrograms/ml oral suspension sugar free	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13122641000033113	37406011000001107	Glibenclamide 6mg/ml oral suspension sugar free	Glibenclamide 6mg/ml oral suspension sugar free	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13122741000033116	37337011000001106	Amglidia 0.6mg/ml oral suspension with 1ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 0.6mg/ml oral suspension with 1ml oral syringe	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13122841000033114	37337211000001101	Amglidia 0.6mg/ml oral suspension with 5ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 0.6mg/ml oral suspension with 5ml oral syringe	Oral suspension	Oral	Glibenclamide	600.000microgram/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13122941000033118	37337511000001103	Amglidia 6mg/ml oral suspension with 1ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 6mg/ml oral suspension with 1ml oral syringe	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13123041000033111	37337711000001108	Amglidia 6mg/ml oral suspension with 5ml oral syringe (Amring Pharmaceuticals Ltd)	Amglidia 6mg/ml oral suspension with 5ml oral syringe	Oral suspension	Oral	Glibenclamide	6.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+13345241000033110	38018211000001100	Lamzarin 30mg modified-release tablets (Key Pharmaceuticals Ltd)	Lamzarin 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+13345341000033117	38018511000001102	Lamzarin 60mg modified-release tablets (Key Pharmaceuticals Ltd)	Lamzarin 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+13427341000033118	28440211000001102	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+13427441000033112	28426011000001108	Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd)	Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+13427541000033113	38082811000001104	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Prolonged-release suspension for injection	Subcutaneous	Exenatide	2.353mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+13427641000033114	38060511000001101	Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd)	Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens	Prolonged-release suspension for injection	Subcutaneous	Exenatide	2.353mg/1.000ml	NA	NA	0	0	0	0	0	1	0	0	0
+13429041000033112	38238111000001109	Sukkarto SR 750mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+1450941000033113	325267004	Tolbutamide 500mg tablets	Tolbutamide 500mg tablets	Tablet	Oral	Tolbutamide	500.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+1452241000033117	NA	Tolanase Tablets 100 mg	Tolanase Tablets 100 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+1452341000033110	NA	Tolanase Tablets 250 mg	Tolanase Tablets 250 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+1452741000033111	NA	Tolazamide Tablets 100 mg	Tolazamide Tablets 100 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+1452841000033118	NA	Tolazamide Tablets 250 mg	Tolazamide Tablets 250 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+1472141000033110	NA	Troglitazone Tablets 200 mg	Troglitazone Tablets 200 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+1472241000033115	NA	Troglitazone Tablets 300 mg	Troglitazone Tablets 300 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+1472341000033113	NA	Troglitazone Tablets 400 mg	Troglitazone Tablets 400 mg	NA	NA	NA	NA	NA	NA	0	1	0	0	0	0	0	0	0
+1602941000033117	49111000001103	Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd)	Diaglyk 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+1659941000033116	152311000001101	NovoNorm 500microgram tablets (Novo Nordisk Ltd)	NovoNorm 500microgram tablets	Tablet	Oral	Repaglinide	500.000microgram	NA	NA	0	0	0	0	0	0	1	0	0
+1660041000033118	494111000001103	NovoNorm 1mg tablets (Novo Nordisk Ltd)	NovoNorm 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	NA	NA	0	0	0	0	0	0	1	0	0
+1660141000033119	840811000001100	NovoNorm 2mg tablets (Novo Nordisk Ltd)	NovoNorm 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	NA	NA	0	0	0	0	0	0	1	0	0
+1672741000033112	326048000	Repaglinide 1mg tablets	Repaglinide 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+1672841000033119	326049008	Repaglinide 2mg tablets	Repaglinide 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+1672941000033110	326047005	Repaglinide 500microgram tablets	Repaglinide 500microgram tablets	Tablet	Oral	Repaglinide	500.000microgram	6010203	NA	0	0	0	0	0	0	1	0	0
+209341000033112	NA	Calabren Tablets 2.5 mg	Calabren Tablets 2.5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+2147541000033115	326057006	Rosiglitazone 4mg tablets	Rosiglitazone 4mg tablets	Tablet	Oral	Rosiglitazone maleate	4.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+2147641000033119	326056002	Rosiglitazone 8mg tablets	Rosiglitazone 8mg tablets	Tablet	Oral	Rosiglitazone maleate	8.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+2147741000033111	922211000001106	Avandia 4mg tablets (GlaxoSmithKline UK Ltd)	Avandia 4mg tablets	Tablet	Oral	Rosiglitazone maleate	4.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+2147841000033118	270611000001105	Avandia 8mg tablets (GlaxoSmithKline UK Ltd)	Avandia 8mg tablets	Tablet	Oral	Rosiglitazone maleate	8.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+218441000033114	NA	Calabren Tablets 5 mg	Calabren Tablets 5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+2190741000033115	326062007	Pioglitazone 15mg tablets	Pioglitazone 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+2190841000033113	326061000	Pioglitazone 30mg tablets	Pioglitazone 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+2190941000033117	58011000001106	Actos 15mg tablets (Takeda UK Ltd)	Actos 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+2191041000033110	446711000001101	Actos 30mg tablets (Takeda UK Ltd)	Actos 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+2288241000033112	134610002	Nateglinide 60mg tablets	Nateglinide 60mg tablets	Tablet	Oral	Nateglinide	60.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2288341000033119	134609007	Nateglinide 120mg tablets	Nateglinide 120mg tablets	Tablet	Oral	Nateglinide	120.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2288441000033113	134608004	Nateglinide 180mg tablets	Nateglinide 180mg tablets	Tablet	Oral	Nateglinide	180.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2288541000033114	3650611000001102	Starlix 60mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 60mg tablets	Tablet	Oral	Nateglinide	60.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2288641000033110	3651211000001105	Starlix 120mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 120mg tablets	Tablet	Oral	Nateglinide	120.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2288741000033118	3883511000001107	Starlix 180mg tablets (Novartis Pharmaceuticals UK Ltd)	Starlix 180mg tablets	Tablet	Oral	Nateglinide	180.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+2289441000033115	134587001	Gliclazide 30mg modified-release tablets	Gliclazide 30mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+2289941000033113	3661311000001107	Diamicron 30mg MR tablets (Servier Laboratories Ltd)	Diamicron 30mg MR tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+249441000033114	325213005	Chlorpropamide 100mg tablets	Chlorpropamide 100mg tablets	Tablet	Oral	Chlorpropamide	100.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+249541000033110	325214004	Chlorpropamide 250mg tablets	Chlorpropamide 250mg tablets	Tablet	Oral	Chlorpropamide	250.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+2620241000033119	8664411000001102	Metformin 500mg/5ml oral suspension	Metformin 500mg/5ml oral suspension	Oral suspension	Oral	Metformin hydrochloride	100.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+2995141000033110	5302911000001102	Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 1mg/500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 1.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+2995241000033115	5303611000001103	Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 2mg/500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 2.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+2995941000033112	374897009	Pioglitazone 45mg tablets	Pioglitazone 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+2996041000033119	5199411000001105	Actos 45mg tablets (Takeda UK Ltd)	Actos 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	6010203	NA	0	1	0	0	0	0	0	0	0
+3191341000033115	409121008	Rosiglitazone 1mg / Metformin 500mg tablets	Rosiglitazone 1mg / Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 1.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3191441000033114	409122001	Rosiglitazone 2mg / Metformin 500mg tablets	Rosiglitazone 2mg / Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 2.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3200541000033116	409124000	Rosiglitazone 2mg / Metformin 1g tablets	Rosiglitazone 2mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 2.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3200641000033115	409125004	Rosiglitazone 4mg / Metformin 1g tablets	Rosiglitazone 4mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 4.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3200741000033112	8176311000001105	Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 2mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 2.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3200841000033119	8174611000001109	Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd)	Avandamet 4mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 4.000mg	NA	NA	0	1	0	0	1	0	0	0	0
+3228141000033117	386047000	Metformin 500mg modified-release tablets	Metformin 500mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+3228241000033112	8990711000001100	Glucophage SR 500mg tablets (Merck Serono Ltd)	Glucophage SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+3890941000033116	NA	Metformin Hydrochloride Sugar free suspension 500 mg/5 ml	Metformin Hydrochloride Sugar free suspension 500 mg/5 ml	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0	0	0
+3953041000033113	8524311000001105	Gliclazide 80mg/5ml oral suspension	Gliclazide 80mg/5ml oral suspension	Oral suspension	Oral	Gliclazide	16.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+3982341000033110	10750111000001100	Metformin 500mg/5ml oral solution sugar free	Metformin 500mg/5ml oral solution sugar free	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+3982441000033116	10741611000001100	Metsol 500mg/5ml oral solution (Kappin Ltd)	Metsol 500mg/5ml oral solution	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+3983941000033115	419873003	Pioglitazone 15mg / Metformin 850mg tablets	Pioglitazone 15mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Pioglitazone hydrochloride	850.000mg + 15.000mg	6010203	NA	0	1	0	0	1	0	0	0	0
+3984241000033114	10922311000001108	Competact 15mg/850mg tablets (Takeda UK Ltd)	Competact 15mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Pioglitazone hydrochloride	850.000mg + 15.000mg	6010203	NA	0	1	0	0	1	0	0	0	0
+3993941000033119	10952411000001100	Prandin 0.5mg tablets (Novo Nordisk Ltd)	Prandin 0.5mg tablets	Tablet	Oral	Repaglinide	500.000microgram	6010203	NA	0	0	0	0	0	0	1	0	0
+3994041000033117	10956911000001107	Prandin 1mg tablets (Novo Nordisk Ltd)	Prandin 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+3994141000033118	10957811000001100	Prandin 2mg tablets (Novo Nordisk Ltd)	Prandin 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	6010203	NA	0	0	0	0	0	0	1	0	0
+406741000033116	NA	Daonil Tablets 2.5 mg	Daonil Tablets 2.5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+406841000033114	234011000001108	Daonil 5mg tablets (Sanofi)	Daonil 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4133241000033117	424345005	Sitagliptin 100mg tablets	Sitagliptin 100mg tablets	Tablet	Oral	Sitagliptin phosphate	100.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+4133341000033110	11473711000001108	Januvia 100mg tablets (Merck Sharp & Dohme Ltd)	Januvia 100mg tablets	Tablet	Oral	Sitagliptin phosphate	100.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+4149341000033111	11494211000001108	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+4149441000033117	11494111000001102	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+4149541000033116	11494811000001109	Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens (AstraZeneca UK Ltd)	Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+4149641000033115	11494611000001105	Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens (AstraZeneca UK Ltd)	Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens	Solution for injection	Subcutaneous	Exenatide	250.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+4269741000033117	13412911000001100	Vildagliptin 50mg tablets	Vildagliptin 50mg tablets	Tablet	Oral	Vildagliptin	50.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+4269841000033110	NA	Vildagliptin Tablets 100 mg	Vildagliptin Tablets 100 mg	NA	NA	NA	NA	NA	NA	0	0	0	1	0	0	0	0	0
+4269941000033119	13411611000001100	Galvus 50mg tablets (Novartis Pharmaceuticals UK Ltd)	Galvus 50mg tablets	Tablet	Oral	Vildagliptin	50.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+4270041000033118	NA	Galvus Tablets 100 mg	Galvus Tablets 100 mg	NA	NA	NA	NA	NA	NA	0	0	0	1	0	0	0	0	0
+4452341000033119	13413111000001109	Vildagliptin 50mg / Metformin 850mg tablets	Vildagliptin 50mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	850.000mg + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+4452441000033113	13413011000001108	Vildagliptin 50mg / Metformin 1g tablets	Vildagliptin 50mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	1.000gram + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+4452541000033114	13412311000001101	Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd)	Eucreas 50mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	1.000gram + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+4452641000033110	13412611000001106	Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd)	Eucreas 50mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Vildagliptin	850.000mg + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+4522041000033113	13626011000001107	Niddaryl 1mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 1mg tablets	Tablet	Oral	Glimepiride	1.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4522141000033112	13626511000001104	Niddaryl 2mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 2mg tablets	Tablet	Oral	Glimepiride	2.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4522241000033117	13626911000001106	Niddaryl 3mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 3mg tablets	Tablet	Oral	Glimepiride	3.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4522341000033110	13627211000001100	Niddaryl 4mg tablets (Dee Pharmaceuticals Ltd)	Niddaryl 4mg tablets	Tablet	Oral	Glimepiride	4.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4549141000033118	409361001	Metformin 750mg modified-release tablets	Metformin 750mg modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+4549241000033113	13748611000001107	Glucophage SR 750mg tablets (Merck Serono Ltd)	Glucophage SR 750mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	750.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+462041000033119	13511000001103	Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd)	Diabetamide 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg	NA	NA	0	0	1	0	0	0	0	0	0
+462141000033115	287811000001101	Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Diabetamide 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+463541000033118	745911000001103	Diamicron 80mg tablets (Servier Laboratories Ltd)	Diamicron 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+463941000033112	NA	Dimelor Tablets 500 mg	Dimelor Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+465841000033115	NA	Diabinese Tablets 100 mg	Diabinese Tablets 100 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+465941000033111	NA	Diabinese Tablets 250 mg	Diabinese Tablets 250 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+4941241000033119	13456711000001106	Nazdol MR 30mg tablets (Consilient Health Ltd)	Nazdol MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+4945241000033117	411533003	Metformin 1g modified-release tablets	Metformin 1g modified-release tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+4945341000033110	15367811000001105	Glucophage SR 1000mg tablets (Merck Serono Ltd)	Glucophage SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+4957741000033118	14183911000001108	Bolamyn SR 500mg tablets (Teva UK Ltd)	Bolamyn SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+5007641000033119	15411311000001103	Metformin 500mg oral powder sachets sugar free	Metformin 500mg oral powder sachets sugar free	Powder	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+5007741000033111	15411211000001106	Metformin 1g oral powder sachets sugar free	Metformin 1g oral powder sachets sugar free	Powder	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+5007841000033118	15373711000001104	Glucophage 500mg oral powder sachets (Merck Serono Ltd)	Glucophage 500mg oral powder sachets	Powder	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+5007941000033114	15374311000001101	Glucophage 1000mg oral powder sachets (Merck Serono Ltd)	Glucophage 1000mg oral powder sachets	Powder	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+5128241000033116	NA	Glucophage Tablets 1000 mg	Glucophage Tablets 1000 mg	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0	0	0
+5131241000033110	15859111000001102	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+5131341000033117	15858611000001101	Victoza 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Victoza 6mg/ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Liraglutide	6.000mg/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+5132141000033111	NA	Janumet Tablets 50 mg + 500 mg	Janumet Tablets 50 mg + 500 mg	NA	NA	NA	NA	NA	NA	0	0	0	1	1	0	0	0	0
+5132241000033116	17060511000001108	Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd)	Janumet 50mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Sitagliptin phosphate	1.000gram + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+5316641000033118	443713000	Saxagliptin 5mg tablets	Saxagliptin 5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	5.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+5316741000033110	15993011000001101	Onglyza 5mg tablets (AstraZeneca UK Ltd)	Onglyza 5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	5.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+5378141000033117	16536211000001102	Dacadis MR 30mg tablets (Mylan)	Dacadis MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+5491941000033110	NA	Amaryl M Tablets 1 mg + 250 mg	Amaryl M Tablets 1 mg + 250 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	1	0	0	0	0
+5492041000033116	NA	Amaryl M Tablets 2 mg + 500 mg	Amaryl M Tablets 2 mg + 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	1	0	0	0	0
+557241000033113	233411000001102	Euglucon 2.5mg tablets (Aventis Pharma)	Euglucon 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg	NA	NA	0	0	1	0	0	0	0	0	0
+557341000033115	322511000001103	Euglucon 5mg tablets (Sanofi)	Euglucon 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+5576041000033115	17071811000001108	Metformin 1g / Sitagliptin 50mg tablets	Metformin 1g / Sitagliptin 50mg tablets	Tablet	Oral	Metformin hydrochloride/ Sitagliptin phosphate	1.000gram + 50.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+5709741000033116	16702011000001102	Gliclazide 40mg tablets	Gliclazide 40mg tablets	Tablet	Oral	Gliclazide	40.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+5709841000033114	16677511000001108	Zicron 40mg tablets (Bristol Laboratories Ltd)	Zicron 40mg tablets	Tablet	Oral	Gliclazide	40.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+5815341000033115	15334511000001109	Edicil MR 30mg tablets (Teva UK Ltd)	Edicil MR 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+5869241000033114	8524211000001102	Gliclazide 40mg/5ml oral suspension	Gliclazide 40mg/5ml oral suspension	Oral suspension	Oral	Gliclazide	8.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+58841000033113	938211000001105	Amaryl 2mg tablets (Zentiva)	Amaryl 2mg tablets	Tablet	Oral	Glimepiride	2.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+59541000033116	228111000001101	Amaryl 1mg tablets (Zentiva)	Amaryl 1mg tablets	Tablet	Oral	Glimepiride	1.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+59641000033115	164511000001108	Amaryl 3mg tablets (Zentiva)	Amaryl 3mg tablets	Tablet	Oral	Glimepiride	3.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+5968741000033115	8523711000001107	Glibenclamide 5mg/5ml oral solution	Glibenclamide 5mg/5ml oral solution	Oral solution	Oral	Glibenclamide	1.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+5968841000033113	8523811000001104	Glibenclamide 5mg/5ml oral suspension	Glibenclamide 5mg/5ml oral suspension	Oral suspension	Oral	Glibenclamide	1.000mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+59741000033112	259611000001101	Amaryl 4mg tablets (Zentiva)	Amaryl 4mg tablets	Tablet	Oral	Glimepiride	4.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+5997041000033115	409197000	Metformin 500mg/5ml oral solution	Metformin 500mg/5ml oral solution	Oral solution	Oral	Metformin hydrochloride	100.000mg/1.000ml	NA	NA	0	0	0	0	1	0	0	0	0
+6029841000033115	18141911000001101	Metabet SR 500mg tablets (Morningside Healthcare Ltd)	Metabet SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+6123241000033112	443067000	Saxagliptin 2.5mg tablets	Saxagliptin 2.5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	2.500mg	NA	NA	0	0	0	1	0	0	0	0	0
+6123341000033119	18596311000001108	Onglyza 2.5mg tablets (AstraZeneca UK Ltd)	Onglyza 2.5mg tablets	Tablet	Oral	Saxagliptin hydrochloride	2.500mg	NA	NA	0	0	0	1	0	0	0	0	0
+6135341000033117	18678711000001108	Vitile XL 30mg tablets (Actavis UK Ltd)	Vitile XL 30mg tablets	Modified-release tablet	Oral	Gliclazide	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+6279741000033117	18885611000001108	Metabet SR 1000mg tablets (Morningside Healthcare Ltd)	Metabet SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+6388241000033117	19275411000001107	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+6388341000033110	19274811000001108	Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (AstraZeneca UK Ltd)	Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	Exenatide	2.000mg	6010203	NA	0	0	0	0	0	1	0	0	0
+6391041000033117	19308111000001109	Glucient SR 500mg tablets (Consilient Health Ltd)	Glucient SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+6391141000033118	19306711000001106	Enyglid 0.5mg tablets (Consilient Health Ltd)	Enyglid 0.5mg tablets	Tablet	Oral	Repaglinide	500.000microgram	NA	NA	0	0	0	0	0	0	1	0	0
+6391241000033113	19306911000001108	Enyglid 1mg tablets (Consilient Health Ltd)	Enyglid 1mg tablets	Tablet	Oral	Repaglinide	1.000mg	NA	NA	0	0	0	0	0	0	1	0	0
+6391341000033115	19307311000001105	Enyglid 2mg tablets (Consilient Health Ltd)	Enyglid 2mg tablets	Tablet	Oral	Repaglinide	2.000mg	NA	NA	0	0	0	0	0	0	1	0	0
+6444041000033117	19525211000001103	Linagliptin 5mg tablets	Linagliptin 5mg tablets	Tablet	Oral	Linagliptin	5.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+6444141000033118	19492811000001108	Trajenta 5mg tablets (Boehringer Ingelheim Ltd)	Trajenta 5mg tablets	Tablet	Oral	Linagliptin	5.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+644541000033111	325218001	Glibenclamide 2.5mg tablets	Glibenclamide 2.5mg tablets	Tablet	Oral	Glibenclamide	2.500mg	6010201	NA	0	0	1	0	0	0	0	0	0
+644641000033112	325219009	Glibenclamide 5mg tablets	Glibenclamide 5mg tablets	Tablet	Oral	Glibenclamide	5.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+644741000033115	515111000001108	Glibenese 5mg tablets (Pfizer Ltd)	Glibenese 5mg tablets	Tablet	Oral	Glipizide	5.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+644841000033113	325243007	Glipizide 5mg tablets	Glipizide 5mg tablets	Tablet	Oral	Glipizide	5.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+644941000033117	363211000001102	Glucophage 500mg tablets (Merck Serono Ltd)	Glucophage 500mg tablets	Tablet	Oral	Metformin hydrochloride	500.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+645041000033117	365111000001109	Glucophage 850mg tablets (Merck Serono Ltd)	Glucophage 850mg tablets	Tablet	Oral	Metformin hydrochloride	850.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+645241000033113	444311000001106	Glucobay 100mg tablets (Bayer Plc)	Glucobay 100mg tablets	Tablet	Oral	Acarbose	100.000mg	6010203	NA	0	0	0	0	0	0	0	1	0
+645341000033115	781411000001104	Glucobay 50mg tablets (Bayer Plc)	Glucobay 50mg tablets	Tablet	Oral	Acarbose	50.000mg	6010203	NA	0	0	0	0	0	0	0	1	0
+645541000033110	NA	Glucamet Tablets 500 mg	Glucamet Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0	0	0
+645641000033111	NA	Glucamet Tablets 850 mg	Glucamet Tablets 850 mg	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0	0	0
+645841000033112	325259007	Glimepiride 2mg tablets	Glimepiride 2mg tablets	Tablet	Oral	Glimepiride	2.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+645941000033116	325261003	Glimepiride 1mg tablets	Glimepiride 1mg tablets	Tablet	Oral	Glimepiride	1.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+646041000033114	325262005	Glimepiride 3mg tablets	Glimepiride 3mg tablets	Tablet	Oral	Glimepiride	3.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+646141000033113	325263000	Glimepiride 4mg tablets	Glimepiride 4mg tablets	Tablet	Oral	Glimepiride	4.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+646241000033118	NA	Glyconon Tablets 500 mg	Glyconon Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+646341000033111	NA	Glymese Tablets 250 mg	Glymese Tablets 250 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+646441000033117	325242002	Gliclazide 80mg tablets	Gliclazide 80mg tablets	Tablet	Oral	Gliclazide	80.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+646541000033116	325248003	Glipizide 2.5mg tablets	Glipizide 2.5mg tablets	Tablet	Oral	Glipizide	2.500mg	6010201	NA	0	0	1	0	0	0	0	0	0
+646741000033112	NA	Glymidine Tablets 500 mg	Glymidine Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+646841000033119	3763311000001102	Glurenorm 30mg tablets (Sanofi)	Glurenorm 30mg tablets	Tablet	Oral	Gliquidone	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+646941000033110	325251005	Gliquidone 30mg tablets	Gliquidone 30mg tablets	Tablet	Oral	Gliquidone	30.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+650141000033114	NA	Gondafon Tablets 500 mg	Gondafon Tablets 500 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+6525941000033110	20022911000001104	Glizofar 15mg tablets (Arrow Generics Ltd)	Glizofar 15mg tablets	Tablet	Oral	Pioglitazone hydrochloride	15.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+6526041000033117	20023111000001108	Glizofar 30mg tablets (Arrow Generics Ltd)	Glizofar 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+6526141000033118	20023411000001103	Glizofar 45mg tablets (Arrow Generics Ltd)	Glizofar 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+654041000033116	NA	Grenamide Tablets 2.5 mg	Grenamide Tablets 2.5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+654141000033117	NA	Grenamide Tablets 5 mg	Grenamide Tablets 5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+7687241000033110	424513004	Sitagliptin 50mg tablets	Sitagliptin 50mg tablets	Tablet	Oral	Sitagliptin phosphate	50.000mg	NA	NA	0	0	0	1	0	0	0	0	0
+7687341000033117	20114811000001100	Januvia 50mg tablets (Merck Sharp & Dohme Ltd)	Januvia 50mg tablets	Tablet	Oral	Sitagliptin phosphate	50.000mg	NA	NA	0	0	0	1	0	0	0	0	0
+7687441000033111	423962004	Sitagliptin 25mg tablets	Sitagliptin 25mg tablets	Tablet	Oral	Sitagliptin phosphate	25.000mg	NA	NA	0	0	0	1	0	0	0	0	0
+7687541000033112	20115111000001106	Januvia 25mg tablets (Merck Sharp & Dohme Ltd)	Januvia 25mg tablets	Tablet	Oral	Sitagliptin phosphate	25.000mg	NA	NA	0	0	0	1	0	0	0	0	0
+7874941000033110	20552511000001105	Diagemet XL 500mg tablets (Thornton & Ross Ltd)	Diagemet XL 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+8027541000033116	NA	Diamicron M/R tablets 60 mg	Diamicron M/R tablets 60 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+8028441000033116	NA	Galvus Met Tablets 850 mg + 50 mg	Galvus Met Tablets 850 mg + 50 mg	NA	NA	NA	NA	NA	NA	0	0	0	1	0	0	0	0	0
+8028541000033115	NA	Galvus Met Tablets 1 gram + 50 mg	Galvus Met Tablets 1 gram + 50 mg	NA	NA	NA	NA	NA	NA	0	0	0	1	0	0	0	0	0
+8115741000033119	21245011000001106	Linagliptin 2.5mg / Metformin 1g tablets	Linagliptin 2.5mg / Metformin 1g tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 1000.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8115841000033112	21245111000001107	Linagliptin 2.5mg / Metformin 850mg tablets	Linagliptin 2.5mg / Metformin 850mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 850.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8115941000033116	21208511000001102	Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Jentadueto 2.5mg/1000mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 1000.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8116041000033114	21208211000001100	Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Jentadueto 2.5mg/850mg tablets	Tablet	Oral	Linagliptin/ Metformin hydrochloride	2.500mg + 850.000mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8125241000033119	21366911000001103	Glimepiride 6mg/5ml oral suspension	Glimepiride 6mg/5ml oral suspension	Oral suspension	Oral	Glimepiride	1.200mg/1.000ml	NA	NA	0	0	1	0	0	0	0	0	0
+8199341000033118	703679006	Dapagliflozin 5mg tablets	Dapagliflozin 5mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+8199441000033112	703680009	Dapagliflozin 10mg tablets	Dapagliflozin 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+8199541000033113	21609511000001105	Forxiga 5mg tablets (AstraZeneca UK Ltd)	Forxiga 5mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+8199641000033114	21609811000001108	Forxiga 10mg tablets (AstraZeneca UK Ltd)	Forxiga 10mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+8242541000033112	21711511000001101	Saxagliptin 2.5mg / Metformin 850mg tablets	Saxagliptin 2.5mg / Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	850.000mg + 2.500mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8242641000033113	21711411000001100	Saxagliptin 2.5mg / Metformin 1g tablets	Saxagliptin 2.5mg / Metformin 1g tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	1.000gram + 2.500mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8242741000033116	21705311000001107	Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd)	Komboglyze 2.5mg/850mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	850.000mg + 2.500mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8242841000033114	21705611000001102	Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd)	Komboglyze 2.5mg/1000mg tablets	Tablet	Oral	Metformin hydrochloride/ Saxagliptin hydrochloride	1.000gram + 2.500mg	6010203	NA	0	0	0	1	1	0	0	0	0
+8267341000033110	21994611000001106	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Lixisenatide	50.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+8267441000033116	21994811000001105	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Solution for injection	Subcutaneous	Lixisenatide	100.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+8267541000033115	21941511000001102	Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi)	Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Lixisenatide	50.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+8267641000033119	21941011000001105	Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi)	Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens	Solution for injection	Subcutaneous	Lixisenatide	100.000microgram/1.000ml	6010203	NA	0	0	0	0	0	1	0	0	0
+8268441000033115	21994711000001102	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Not applicable	Route of administration not applicable	NA	NA	6010203	NA	0	0	0	0	0	1	0	0	0
+8268641000033118	21953711000001106	Lyxumia 10micrograms/20micrograms treatment initiation pack (Sanofi)	Lyxumia 10micrograms/20micrograms treatment initiation pack	Not applicable	NA	NA	NA	6010203	NA	0	0	0	0	0	1	0	0	0
+8298141000033113	22226111000001104	Gliclazide 60mg modified-release tablets	Gliclazide 60mg modified-release tablets	Modified-release tablet	Oral	Gliclazide	60.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+8298241000033118	22225011000001109	Laaglyda MR 60mg tablets (Consilient Health Ltd)	Laaglyda MR 60mg tablets	Modified-release tablet	Oral	Gliclazide	60.000mg	NA	NA	0	0	1	0	0	0	0	0	0
+8348941000033113	22308811000001109	Bolamyn SR 1000mg tablets (Teva UK Ltd)	Bolamyn SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+837041000033115	NA	Libanil Tablets 2.5 mg	Libanil Tablets 2.5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+837141000033116	NA	Libanil Tablets 5 mg	Libanil Tablets 5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+869841000033114	NA	Malix Tablets 2.5 mg	Malix Tablets 2.5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+869941000033118	NA	Malix Tablets 5 mg	Malix Tablets 5 mg	NA	NA	NA	NA	NA	NA	0	0	1	0	0	0	0	0	0
+8839341000033116	23369611000001106	Glidipion 30mg tablets (Actavis UK Ltd)	Glidipion 30mg tablets	Tablet	Oral	Pioglitazone hydrochloride	30.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+8839441000033110	23372211000001107	Glidipion 45mg tablets (Actavis UK Ltd)	Glidipion 45mg tablets	Tablet	Oral	Pioglitazone hydrochloride	45.000mg	NA	NA	0	1	0	0	0	0	0	0	0
+8959241000033118	23637511000001104	Alogliptin 6.25mg tablets	Alogliptin 6.25mg tablets	Tablet	Oral	Alogliptin benzoate	6.250mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959341000033111	23637311000001105	Alogliptin 12.5mg tablets	Alogliptin 12.5mg tablets	Tablet	Oral	Alogliptin benzoate	12.500mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959441000033117	23637411000001103	Alogliptin 25mg tablets	Alogliptin 25mg tablets	Tablet	Oral	Alogliptin benzoate	25.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959541000033116	23634111000001103	Vipidia 6.25mg tablets (Takeda UK Ltd)	Vipidia 6.25mg tablets	Tablet	Oral	Alogliptin benzoate	6.250mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959641000033115	23636011000001109	Vipidia 12.5mg tablets (Takeda UK Ltd)	Vipidia 12.5mg tablets	Tablet	Oral	Alogliptin benzoate	12.500mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959741000033112	23636311000001107	Vipidia 25mg tablets (Takeda UK Ltd)	Vipidia 25mg tablets	Tablet	Oral	Alogliptin benzoate	25.000mg	6010203	NA	0	0	0	1	0	0	0	0	0
+8959841000033119	23637211000001102	Alogliptin 12.5mg / Metformin 1g tablets	Alogliptin 12.5mg / Metformin 1g tablets	Tablet	Oral	Alogliptin benzoate/ Metformin hydrochloride	12.500mg + 1.000gram	6010203	NA	0	0	0	1	1	0	0	0	0
+8959941000033110	23632611000001103	Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd)	Vipdomet 12.5mg/1000mg tablets	Tablet	Oral	Alogliptin benzoate/ Metformin hydrochloride	12.500mg + 1.000gram	6010203	NA	0	0	0	1	1	0	0	0	0
+896941000033112	325278007	Metformin 500mg tablets	Metformin 500mg tablets	Tablet	Oral	Metformin hydrochloride	500.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+897041000033113	325279004	Metformin 850mg tablets	Metformin 850mg tablets	Tablet	Oral	Metformin hydrochloride	850.000mg	6010202	NA	0	0	0	0	1	0	0	0	0
+9106041000033110	24054611000001100	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin 5mg / Metformin 1g tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+9106141000033114	24054711000001109	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin 5mg / Metformin 850mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+9106241000033119	24018511000001102	Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/1000mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+9106341000033112	24018111000001106	Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/850mg tablets	Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+9110341000033112	703682001	Canagliflozin 100mg tablets	Canagliflozin 100mg tablets	Tablet	Oral	Canagliflozin hemihydrate	100.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9110441000033118	24104511000001103	Canagliflozin 300mg tablets	Canagliflozin 300mg tablets	Tablet	Oral	Canagliflozin hemihydrate	300.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9110541000033117	24088611000001101	Invokana 100mg tablets (Napp Pharmaceuticals Ltd)	Invokana 100mg tablets	Tablet	Oral	Canagliflozin hemihydrate	100.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9110641000033116	24088311000001106	Invokana 300mg tablets (Napp Pharmaceuticals Ltd)	Invokana 300mg tablets	Tablet	Oral	Canagliflozin hemihydrate	300.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+920141000033112	808711000001104	Minodiab 2.5mg tablets (Pfizer Ltd)	Minodiab 2.5mg tablets	Tablet	Oral	Glipizide	2.500mg	6010201	NA	0	0	1	0	0	0	0	0	0
+920241000033117	652411000001107	Minodiab 5mg tablets (Pfizer Ltd)	Minodiab 5mg tablets	Tablet	Oral	Glipizide	5.000mg	6010201	NA	0	0	1	0	0	0	0	0	0
+9230641000033113	24568411000001100	Sukkarto SR 500mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 500mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	500.000mg	NA	NA	0	0	0	0	1	0	0	0	0
+9230841000033114	24568211000001104	Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd)	Sukkarto SR 1000mg tablets	Modified-release tablet	Oral	Metformin hydrochloride	1.000gram	NA	NA	0	0	0	0	1	0	0	0	0
+9336641000033119	25290511000001101	Empagliflozin 10mg tablets	Empagliflozin 10mg tablets	Tablet	Oral	Empagliflozin	10.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9336841000033118	25290611000001102	Empagliflozin 25mg tablets	Empagliflozin 25mg tablets	Tablet	Oral	Empagliflozin	25.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9337141000033114	25238811000001107	Jardiance 10mg tablets (Boehringer Ingelheim Ltd)	Jardiance 10mg tablets	Tablet	Oral	Empagliflozin	10.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9337241000033119	25239711000001108	Jardiance 25mg tablets (Boehringer Ingelheim Ltd)	Jardiance 25mg tablets	Tablet	Oral	Empagliflozin	25.000mg	6010203	NA	0	0	0	0	0	0	0	0	1
+9851541000033114	28049211000001101	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin 50mg / Metformin 1g tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+9851641000033110	28049311000001109	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin 50mg / Metformin 850mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+9851741000033118	28022511000001109	Vokanamet 50mg/850mg tablets (Napp Pharmaceuticals Ltd)	Vokanamet 50mg/850mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	6010203	NA	0	0	0	0	1	0	0	0	1
+9851841000033111	28024411000001103	Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd)	Vokanamet 50mg/1000mg tablets	Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	6010203	NA	0	0	0	0	1	0	0	0	1
+13712241000033110	38840211000001106	Semaglutide 3mg tablets	Semaglutide 3mg tablets	Tablet	Oral	Semaglutide	3.000mg	NA	NA	0	0	0	0	0	1	0	0	0
+13712341000033117	38840311000001103	Semaglutide 7mg tablets	Semaglutide 7mg tablets	Tablet	Oral	Semaglutide	7.000mg	NA	NA	0	0	0	0	0	1	0	0	0
+13712541000033112	38731811000001101	Rybelsus 3mg tablets (Novo Nordisk Ltd)	Rybelsus 3mg tablets	Tablet	Oral	Semaglutide	3.000mg	NA	NA	0	0	0	0	0	1	0	0	0
+13712641000033113	38732111000001103	Rybelsus 7mg tablets (Novo Nordisk Ltd)	Rybelsus 7mg tablets	Tablet	Oral	Semaglutide	7.000mg	NA	NA	0	0	0	0	0	1	0	0	0
