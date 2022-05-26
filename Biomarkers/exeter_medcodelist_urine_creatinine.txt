@@ -1,0 +1,4 @@
+MedCodeId	Term
+75441000006115	Urine creatinine level
+5522661000006114	Urine creatinine measurement
+5522651000006112	Creatinine measurement, urine
