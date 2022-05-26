@@ -1,0 +1,38 @@
+medcodeid	term_medcode
+38677017	Tuberculous bronchiectasis
+2867041000006113	Post-tuberculous bronchiectasis
+301526011	Bronchiectasis NOS
+21163015	Bronchiectasis
+301524014	Recurrent bronchiectasis
+301525010	Post-infective bronchiectasis
+4781641000006119	Postinfectious bronchiectasis
+3762481000006115	Developmental bronchiectasis
+128792019	Congenital bronchiectasis
+5053661000006115	Congenital cystic bronchiectasis
+5053671000006110	Acquired bronchiectasis
+5053681000006113	Idiopathic bronchiectasis
+5053691000006111	Obstructive bronchiectasis
+5053701000006111	Toxin-induced bronchiectasis
+5053721000006118	Bronchiectasis caused by toxic aspiration
+5053711000006114	Bronchiectasis due to toxic aspiration
+5053731000006115	Bronchiectasis due to toxic inhalation
+5053741000006113	Bronchiectasis caused by toxic inhalation
+5053751000006110	Post-lung transplantation bronchiectasis
+2696011000006118	Childhood bronchiectasis
+2709771000006113	Fusiform bronchiectasis
+2806691000006111	Traction bronchiectasis
+755691000006114	Kartageners syndrome
+3183591000006116	Bronchiectasis, chronic sinusitis AND dextrocardia syndrome
+3183581000006119	Kartagener syndrome
+3183601000006112	Siewert syndrome
+3327421000006113	Adult bronchiectasis
+3351181000006110	Saccular bronchiectasis
+3858081000006116	Cylindrical bronchiectasis
+3901471000006118	ICS - Immotile cilia syndrome
+3901501000006113	Polynesian bronchiectasis
+3901451000006111	Immotile cilia syndrome
+1659531000006118	Primary ciliary dyskinesia
+3901491000006117	Dysmotile cilia syndrome
+3901481000006115	PCD - Primary ciliary dyskinesia
+7307141000006111	Acute exacerbation of bronchiectasis
+7715861000006113	Acute bronchitis co-occurrent with bronchiectasis

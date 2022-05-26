@@ -1,0 +1,169 @@
+medcodeid	term_medcode
+254002014	O/E - fibrosis of lung
+254003016	O/E - fibrosis of lung present
+4555561000006111	On examination - fibrosis of lung present
+211391000006118	Post-inflammatory pulmonary fibrosis
+85961019	Cirrhosis of lung
+5492481000006115	Postinflammatory pulmonary fibrosis
+2475606014	Usual interstitial pneumonitis
+4782361000006119	UIP - Usual interstitial pneumonitis
+621121000006112	Diffuse interstitial pulmonary fibrosis
+4782341000006118	Fibrosing alveolitis
+4782331000006111	DIPF - Diffuse interstitial pulmonary fibrosis
+196654011	Cryptogenic fibrosing alveolitis
+301709019	Idiopathic fibrosing alveolitis NOS
+7532701000006115	Usual interstitial pneumonia
+1786131000006116	Idiopathic pulmonary fibrosis
+75302014	Idiopathic fibrosing alveolitis
+5092491000006112	Acute interstitial pneumonia
+815341000006115	Hamman Rich syndrome
+885491000006116	Pulmonary fibrosis
+3336391000006117	Fibrosis of lung
+85960018	Pulmonary fibrosis
+3336411000006117	Cirrhosis of lung
+149374011	Tuberculous fibrosis of lung
+301555015	Massive silicotic fibrosis
+3154161000006113	Massive fibrosis of lung co-occurrent and due to silicosis
+3154151000006111	Massive silicotic fibrosis of lung
+301575012	Chronic pulmonary fibrosis due to chemical fumes
+4781861000006119	Chronic pulmonary fibrosis caused by chemical fumes
+556271000006115	Chronic radiation pulmonary fibrosis
+3657911000006119	Radiation fibrosis of lung
+3657901000006117	Fibrosis of lung following radiation
+885431000006115	Radiation lung fibrosis
+207831000006116	Interstitial pulmonary fibrosis of prematurity
+5054921000006119	Toxic diffuse interstitial pulmonary fibrosis
+5054931000006116	Chemical-induced diffuse interstitial pulmonary fibrosis
+5054941000006114	Drug-induced diffuse interstitial pulmonary fibrosis
+5054961000006113	Localized pulmonary fibrosis
+5054951000006111	Localised pulmonary fibrosis
+5054971000006118	Mediastinal radiation fibrosis
+301705013	Alveolar capillary block
+1772931000006114	Desquamative interstitial pneumonia
+2636481000006110	DIP - Desquamative interstitial pneumonitis
+2636471000006112	Desquamative interstitial pneumonitis
+1772941000006116	Lymphoid interstitial pneumonitis
+3213191000006112	Lymphoid interstitial pneumonia
+3213231000006119	Idiopathic lymphocytic interstitial pneumonia
+3213221000006117	LIP - Lymphoid interstitial pneumonitis
+3213201000006110	Lymphocytic interstitial pneumonia
+4767781000006111	GIP - Giant cell interstitial pneumonitis
+4767791000006114	Giant cell interstitial pneumonitis
+301712016	Other alveolar and parietoalveolar disease NOS
+301713014	Alveolar and parietoalveolar disease NOS
+413231000006111	[X]Other resp diseases principally affecting interstitium
+38841000006113	Other alveolar and parietoalveolar disease
+301758015	Interstitial lung disease
+5054591000006110	ILD - Interstitial lung disease
+301699016	Other alveolar and parietoalveolar disease
+301852014	[X]Other interstitial pulmonary diseases with fibrosis
+301853016	[X]Other specified interstitial pulmonary diseases
+5054601000006119	Diffuse parenchymal lung disease
+2411019	Silicosis
+141591000006118	Silica and silicate pneumoconiosis
+301838012	[X]Pneumoconiosis due to other dust containing silica
+2511271000006119	Pneumoconiosis caused by silica
+2511261000006114	Silicatosis
+2511231000006117	Pneumoconiosis due to silica
+2511251000006112	Nodular silicosis
+301556019	Silica pneumoconiosis NOS
+2527061000006119	Radiation fibromatosis
+2527041000006118	Radiation injury with fibrosis
+2527051000006116	Radiation injury with proliferation
+2554951000006110	Peribronchial fibrosis of lung
+2710541000006117	Atrophic fibrosis of lung
+2732781000006111	Bauxite pneumoconiosis
+2732791000006114	Bauxite workers' disease
+2732831000006119	Bauxite fibrosis
+2732811000006113	Bauxite lung
+24973018	Bauxite fibrosis of lung
+2732801000006110	Corundum smelters' lung
+2732761000006118	Bauxite fibrosis of lung
+2732841000006112	Shavers' disease
+2732821000006117	Bauxite pulmonary fibrosis
+2732771000006113	Bauxite fume pneumoconiosis
+2776011000006116	Graphite pneumoconiosis
+2776021000006112	Graphite lung disease
+29395011	Graphite fibrosis of lung
+2776031000006110	Graphite fibrosis
+2776001000006119	Graphitosis
+2775991000006115	Graphite fibrosis of lung
+2983601000006118	Confluent fibrosis of lung
+3039801000006114	Anthracosilicosis
+3047501000006116	Hematite pneumoconiosis
+3047521000006114	Hematite miners' lung disease
+3047511000006118	Silicosiderosis
+3047531000006112	Haematite miners' lung disease
+3047491000006112	Haematite pneumoconiosis
+3047481000006114	Siderosilicosis
+3057501000006119	Decreased D>L<
+3057491000006110	Alveolar-capillary block
+3057481000006112	Decreased diffusion capacity of lung
+3064351000006114	Acute interstitial pneumonitis
+3064361000006111	Atypical bronchopneumonia
+3064341000006112	Primary atypical pneumonia
+3064321000006117	Primary atypical interstitial pneumonia
+3064331000006119	Atypical interstitial pneumonia
+3089991000006115	Chronic fibrosis of lung
+12716191000006115	Idiopathic interstitial pneumonia
+12757781000006113	Idiopathic fibrosing alveolitis
+885481000006119	Idiopath. fibrosing alveolitis
+79212010	Simple silicosis
+83019014	Complicated silicosis
+3313091000006115	Perialveolar fibrosis of lung
+3423211000006118	Massive fibrosis of lung
+3434211000006119	Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors
+3434201000006117	Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours
+3551861000006113	Interstitial pneumonitis
+107470010	Interstitial pneumonia
+189221016	Hypersensitivity pneumonitis
+301532018	Allergic alveolitis and pneumonitis NOS
+301534017	Hypersensitivity pneumonitis NOS
+477131000006116	Allergic alveolitis and pneumonitis NOS
+3103621000006115	Allergic interstitial pneumonitis
+3103601000006113	Allergic alveolitis
+3103641000006110	EAA - Extrinsic allergic alveolitis
+3103651000006112	Bagpipe lung
+301528012	Other allergic alveolitis
+3103611000006111	Allergic pneumonitis
+3103581000006115	Extrinsic allergic bronchiolo-alveolitis
+301531013	Other allergic alveolitis NOS
+301533011	Allergic extrinsic alveolitis NOS
+3103591000006117	Hypersensitivity pneumonia
+178500017	Extrinsic allergic alveolitis
+5053651000006117	Giant cell pneumonia
+5054911000006110	BIP - Bronchiolitis obliterans with usual interstitial pneumonitis
+5054901000006112	Bronchiolitis obliterans with usual interstitial pneumonitis
+5055391000006119	Alveolar silicolipoproteinosis
+5055381000006117	Acute silicosis
+5055411000006119	Active silicosis
+5055401000006117	Subacute silicosis
+5055421000006110	Chronic silicosis
+5055561000006115	Stage 4 pulmonary sarcoidosis
+5055571000006110	Pulmonary fibrosis due to sarcoidosis
+5477311000006112	Irradiation fibrosis
+6715591000006119	Post-radiotherapy pulmonary fibrosis
+7059121000006115	Familial idiopathic pulmonary fibrosis
+7532761000006119	Subacute idiopathic pulmonary fibrosis
+7532771000006114	Scadding syndrome
+7532781000006112	Idiopathic fibrosing alveolitis, subacute form
+7532751000006116	Cryptogenic fibrosing alveolitis
+7532731000006111	Chronic idiopathic pulmonary fibrosis
+7532741000006118	CFA - Cryptogenic fibrosing alveolitis
+7617491000006117	Pulmonary fibrosis due to Hermansky-Pudlak syndrome
+7627151000006113	CPFE - combined pulmonary fibrosis and emphysema
+7627161000006110	Combined pulmonary fibrosis and emphysema syndrome
+7627141000006111	Pulmonary emphysema co-occurrent with fibrosis of lung
+7635761000006116	Idiopathic pulmonary fibrosis, acute fatal form
+7635751000006118	Acute idiopathic pulmonary fibrosis
+7701591000006116	Drug induced pulmonary fibrosis
+474819014	Cryptogenic organising pneumonia
+11778031000006112	BOOP - Bronchiolitis obliterans organizing pneumonia
+11777991000006114	Bronchiolitis obliterans organizing pneumonia
+11778021000006114	Bronchiolitis obliterans with usual interstitial pneumonitis
+7783521000006118	COP - Cryptogenic organizing pneumonitis
+7783511000006114	COP - Cryptogenic organising pneumonitis
+7783501000006111	Cryptogenic organizing pneumonia
+474828010	Bronchiolitis obliterans organising pneumonia
+11778011000006118	BOOP - Bronchiolitis obliterans organising pneumonia
+287032015	HIV disease resulting in lymphoid interstitial pneumonitis
