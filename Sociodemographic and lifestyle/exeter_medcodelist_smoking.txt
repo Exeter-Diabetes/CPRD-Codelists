@@ -1,195 +1,195 @@
-medcodeid	term_medcode	category
-5495901000006112	Amount and type of tobacco smoked	Active smoker
-102921000006112	Tobacco smoking consumption	Active smoker
-137721000006115	Smoker - amount smoked	Active smoker
-250387019	Tobacco consumption NOS	Active smoker
-5495941000006114	Occasional smoker	Active smoker
-88471000006112	Trivial cigarette smoker (less than one cigarette/day)	Active smoker
-5495951000006111	Occasional cigarette smoker (less than one cigarette/day)	Active smoker
-8153381000006119	Occasional smoker	Active smoker
-397733018	Occasional smoker	Active smoker
-8153371000006117	Occasional tobacco smoker	Active smoker
-743331000006116	Light cigarette smoker (1-9 cigs/day)	Active smoker
-700121000006118	Moderate cigarette smoker (10-19 cigs/day)	Active smoker
-819331000006110	Heavy cigarette smoker (20-39 cigs/day)	Active smoker
-67621000006112	Very heavy cigarette smoker (40+ cigs/day)	Active smoker
-344795016	Pipe tobacco consumption	Active smoker
-1488577017	Ready to stop smoking	Active smoker
-1488576014	Thinking about stopping smoking	Active smoker
-250368013	Keeps trying to stop smoking	Active smoker
-1488578010	Not interested in stopping smoking	Active smoker
-137791000006118	Smoking restarted	Active smoker
-2670126018	Smoking restarted	Active smoker
-1780360012	Reason for restarting smoking	Active smoker
-1780396011	Cigarette pack-years	Active smoker
-250372012	Trying to give up smoking	Active smoker
-2474719011	Minutes from waking to first tobacco consumption	Active smoker
-136515019	Pipe smoker	Active smoker
-99639019	Cigar smoker	Active smoker
-1592611000000110	Failed attempt to stop smoking	Active smoker
-250375014	Rolls own cigarettes	Active smoker
-108938018	Cigarette smoker	Active smoker
-503483019	Current smoker	Active smoker
-128130017	Smoker	Active smoker
-2669652019	Smoking started	Active smoker
-216212011	Smoking reduced	Active smoker
-344793011	Cigarette consumption	Active smoker
-344794017	Cigar consumption	Active smoker
-4939241000006115	Advice on effects of smoking on health	Active smoker
-4939251000006118	Advice on smoking	Active smoker
-338608011	Smoking cessation advice	Active smoker
-818061000006111	Smoking cessation education	Active smoker
-4939261000006116	Smoking effects education	Active smoker
-936011000006114	Advice on effects of smoking on health	Active smoker
-1489355012	Referral to smoking cessation advisor	Active smoker
-459722017	Referral to stop-smoking clinic	Active smoker
-1780273014	Seen by smoking cessation advisor	Active smoker
-498831000006118	Attends stop smoking monitoring	Active smoker
-12024761000006112	Monitoring of smoking cessation therapy declined	Active smoker
-285792013	Monitoring of smoking cessation therapy refused	Active smoker
-285793015	Stop smoking monitor default	Active smoker
-128311000006112	Stop smoking monitoring first letter	Active smoker
-128321000006116	Stop smoking monitoring second letter	Active smoker
-128331000006118	Stop smoking monitoring third letter	Active smoker
-128371000006115	Stop smoking monitoring verbal invite	Active smoker
-128361000006110	Stop smoking monitoring telephone invite	Active smoker
-285805010	Stop smoking monitoring delete	Active smoker
-128381000006117	Stop smoking monitoring check done	Active smoker
-78013015	Smokers' cough	Active smoker
-3256651000006113	Cigarette cough	Active smoker
-6282351000006119	Smoking	Active smoker
-6282331000006114	Tobacco smoking behaviour - finding	Active smoker
-6282341000006116	Tobacco smoking behavior - finding	Active smoker
-6282361000006117	Finding of tobacco smoking behavior	Active smoker
-11904991000006116	Occasional cigarette smoker	Active smoker
-5003141000006118	Trivial cigarette smoker	Active smoker
-5003151000006116	Light cigarette smoker	Active smoker
-5003161000006119	Moderate cigarette smoker	Active smoker
-5003171000006114	Heavy cigarette smoker	Active smoker
-5003181000006112	Very heavy cigarette smoker	Active smoker
-5003191000006110	Chain smoker	Active smoker
-5999811000006115	Smoking monitoring invitation	Active smoker
-2170961000000116	Waterpipe tobacco consumption	Active smoker
-1125741000000111	Brief intervention for smoking cessation	Active smoker
-1750931000000118	Stop smoking service opportunity signposted	Active smoker
-1123541000000118	Stop smoking face to face follow-up	Active smoker
-8190531000006112	Referral to NHS (National Health Service) stop smoking service	Active smoker
-1715591000006117	Referral to National Health Service stop smoking service	Active smoker
-1176421000000118	Smoking cessation advice declined	Active smoker
-1175011000000112	Smoking cessation programme declined	Active smoker
-2141561000000115	Smoking cessation drug therapy declined	Active smoker
-2251871000000112	Referral to smoking cessation service declined	Active smoker
-2251911000000114	Referral to smoking cessation service	Active smoker
-1704561000006112	Referred for chronic obstructive pulmonary disease structured smoking assessment	Active smoker
-1704551000006110	Referred for COPD structured smoking assessment	Active smoker
-62881000000117	DNA - Did not attend smoking cessation clinic	Active smoker
-8012751000006116	Did not attend smoking cessation clinic	Active smoker
-1709641000000115	Referral for smoking cessation service offered	Active smoker
-1694421000006112	Stop smoking monitoring admin.	Active smoker
-21681000000118	Anti-smoking monitoring admin.	Active smoker
-16261000000110	Stop smoking monitoring administration	Active smoker
-21691000000116	Anti-smoking monitoring administration	Active smoker
-25281000000119	Stop smoking clinic administration	Active smoker
-8244731000006115	Stop smoking invitation text message	Active smoker
-1751721000000113	Stop smoking invitation short message service text message	Active smoker
-8244751000006110	Stop smoking invitation first text message	Active smoker
-1785671000006116	Stop smoking invitation first short message service text message	Active smoker
-8244771000006117	Stop smoking invitation second text message	Active smoker
-1785681000006118	Stop smoking invitation second short message service text message	Active smoker
-8244791000006116	Stop smoking invitation third text message	Active smoker
-1785691000006115	Stop smoking invitation third short message service text message	Active smoker
-736241000000116	Smoking cessation enhanced services administration	Active smoker
-8299271000006119	Number of previous attempts to stop smoking	Active smoker
-8063181000006116	Wants to stop smoking	Active smoker
-1704581000006119	COPD structured smoking assessment declined	Active smoker
-1704571000006117	Chronic obstructive pulmonary disease structured smoking assessment declined	Active smoker
-2670581000006114	Smoker's respiratory syndrome	Active smoker
-3419101000006116	Moderate smoker (20 or less per day)	Active smoker
-3422221000006116	Heavy smoker (over 20 per day)	Active smoker
-265092010	Pregnancy smoking advice	Active smoker
-4640171000006113	Pregnancy smoking education	Active smoker
-4640191000006114	Smoking in pregnancy education	Active smoker
-12452041000006114	Refuses stop smoking monitor	Active smoker
-5979541000006112	Smoking monitoring call	Active smoker
-5979551000006114	Smoking monitoring status	Active smoker
-6282381000006110	Finding of tobacco smoking consumption	Active smoker
-6282371000006112	Tobacco smoking consumption - finding	Active smoker
-6427931000006116	Smoking cessation assistance	Active smoker
-11793611000006110	Smoking cessation behaviour support	Active smoker
-1773560017	Smoking cessation programme start date	Active smoker
-6649431000006116	Smoking cessation program start date	Active smoker
-7507191000006117	Water pipe smoker	Active smoker
-7507181000006115	Hookah pipe smoker	Active smoker
-2982426011	Provision of smoking cessation leaflet	Active smoker
-7650811000006116	Assessment of readiness for smoking cessation	Active smoker
-492511000000117	Smoking cessation therapy	Active smoker
-482871000000111	Other specified smoking cessation therapy	Active smoker
-489931000000114	Smoking cessation therapy NOS	Active smoker
-7696001000006118	Patient request for smoking cessation information	Active smoker
-482771000000118	Smoking cessation drug therapy	Active smoker
-7979581000006117	Tobacco cessation education not done	Active smoker
-12024741000006113	Monitoring of smoking cessation therapy	Active smoker
-12482301000006115	Admitted tobacco cons untrue ?	Active smoker
-250369017	Admitted tobacco consumption possibly untrue	Active smoker
-4533531000006119	Admitted tobacco consumption possibly untrue	Active smoker
-4948531000006116	Smokes in bed	Active smoker
-7375991000006118	Smokes tobacco daily	Active smoker
-1563081000000115	Practice based smoking cessation programme start date	Active smoker
-1662911000000114	Consent given for follow-up by smoking cessation team	Active smoker
-1662951000000113	Declined consent for follow-up by smoking cessation team	Active smoker
-5496021000006114	Tobacco smoking consumption unknown	Active smoker
-12625101000006116	QOF (Quality and Outcomes Framework) quality indicator-related care invitation	Active smoker
-12626391000006117	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation	Active smoker
-12734401000006119	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation using preferred method of communication	Active smoker
-250363016	Ex-trivial cigarette smoker (<1/day)	Ex-smoker
-250364010	Ex-light cigarette smoker (1-9/day)	Ex-smoker
-250365011	Ex-moderate cigarette smoker (10-19/day)	Ex-smoker
-250366012	Ex-heavy cigarette smoker (20-39/day)	Ex-smoker
-250367015	Ex-very heavy cigarette smoker (40+/day)	Ex-smoker
-298701000000114	History of tobacco use	Ex-smoker
-250371017	Ex-smoker - amount unknown	Ex-smoker
-2636041000006110	Cessation of smoking	Ex-smoker
-649841000006110	Ex-smoker	Ex-smoker
-418914010	Ex-cigarette smoker	Ex-smoker
-250373019	Stopped smoking	Ex-smoker
-649831000006117	Ex-pipe smoker	Ex-smoker
-649821000006115	Ex-cigar smoker	Ex-smoker
-250385010	Date ceased smoking	Ex-smoker
-4980561000006117	Time since stopped smoking	Ex-smoker
-7368961000006112	Stopped smoking during pregnancy	Ex-smoker
-7368971000006117	Stopped smoking before pregnancy	Ex-smoker
-7368651000006119	Smoked before confirmation of pregnancy	Ex-smoker
-7368661000006117	Smoker before confirmation of pregnancy	Ex-smoker
-903041000006110	EX-Smoker NOS	Ex-smoker
-5496031000006112	Ex-cigarette smoker amount unknown	Ex-smoker
-1151791000000117	Recently stopped smoking	Ex-smoker
-1059701000000119	Ex roll-up cigarette smoker	Ex-smoker
-3374141000006117	Tolerant ex-smoker	Ex-smoker
-6217151000006116	Intolerant ex-smoker	Ex-smoker
-6217281000006116	Aggressive ex-smoker	Ex-smoker
-1484932017	Smoking cessation milestones	Ex-smoker
-1488873010	Smoking free weeks	Ex-smoker
-7967851000006114	Age at smoking cessation	Ex-smoker
-8017571000006117	Ex-smoker for more than 1 year	Ex-smoker
-3513199018	Ex-smoker for less than 1 year	Ex-smoker
-2735181000000113	Ex-smoker amount unknown	Ex-smoker
-2735201000000112	Ex-very heavy smoker (40+/day)	Ex-smoker
-2735281000000119	Ex-heavy smoker (20-39/day)	Ex-smoker
-2735331000000112	Ex-moderate smoker (10-19/day)	Ex-smoker
-2735381000000111	Ex-light smoker (1-9/day)	Ex-smoker
-2735421000000119	Ex-trivial smoker (<1/day)	Ex-smoker
-3513101011	Date ceased using moist tobacco	Ex-smoker
-5495921000006119	Never smoked	Non-smoker
-397732011	Never smoked tobacco	Non-smoker
-14866014	Non-smoker	Non-smoker
-903051000006112	Tobacco Consumption Nil	Non-smoker
-250374013	Current non-smoker	Non-smoker
-3926051000006118	Tolerant non-smoker	Non-smoker
-4120281000006117	Non-smoker for personal reasons	Non-smoker
-4120291000006119	Non-smoker for religious reasons	Non-smoker
-4120301000006118	Non-smoker for medical reasons	Non-smoker
-6217461000006110	Aggressive non-smoker	Non-smoker
-6217561000006111	Intolerant non-smoker	Non-smoker
-6718071000006115	Current non smoker but past smoking history unknown	Non-smoker
-7965041000006111	Never smoked any substance	Non-smoker
-7690211000006112	No known exposure to tobacco smoke	Non-smoker
+MedCodeId	term_medcode	category	qrisk2_cat
+5495901000006112	Amount and type of tobacco smoked	Active smoker	2
+102921000006112	Tobacco smoking consumption	Active smoker	2
+137721000006115	Smoker - amount smoked	Active smoker	2
+250387019	Tobacco consumption NOS	Active smoker	2
+5495941000006114	Occasional smoker	Active smoker	2
+88471000006112	Trivial cigarette smoker (less than one cigarette/day)	Active smoker	2
+5495951000006111	Occasional cigarette smoker (less than one cigarette/day)	Active smoker	2
+8153381000006119	Occasional smoker	Active smoker	2
+397733018	Occasional smoker	Active smoker	2
+8153371000006117	Occasional tobacco smoker	Active smoker	2
+743331000006116	Light cigarette smoker (1-9 cigs/day)	Active smoker	2
+700121000006118	Moderate cigarette smoker (10-19 cigs/day)	Active smoker	3
+819331000006110	Heavy cigarette smoker (20-39 cigs/day)	Active smoker	4
+67621000006112	Very heavy cigarette smoker (40+ cigs/day)	Active smoker	4
+344795016	Pipe tobacco consumption	Active smoker	2
+1488577017	Ready to stop smoking	Active smoker	2
+1488576014	Thinking about stopping smoking	Active smoker	2
+250368013	Keeps trying to stop smoking	Active smoker	2
+1488578010	Not interested in stopping smoking	Active smoker	2
+137791000006118	Smoking restarted	Active smoker	2
+2670126018	Smoking restarted	Active smoker	2
+1780360012	Reason for restarting smoking	Active smoker	2
+1780396011	Cigarette pack-years	Active smoker	2
+250372012	Trying to give up smoking	Active smoker	2
+2474719011	Minutes from waking to first tobacco consumption	Active smoker	2
+136515019	Pipe smoker	Active smoker	2
+99639019	Cigar smoker	Active smoker	2
+1592611000000110	Failed attempt to stop smoking	Active smoker	2
+250375014	Rolls own cigarettes	Active smoker	2
+108938018	Cigarette smoker	Active smoker	2
+503483019	Current smoker	Active smoker	2
+128130017	Smoker	Active smoker	2
+2669652019	Smoking started	Active smoker	2
+216212011	Smoking reduced	Active smoker	2
+344793011	Cigarette consumption	Active smoker	2
+344794017	Cigar consumption	Active smoker	2
+4939241000006115	Advice on effects of smoking on health	Active smoker	2
+4939251000006118	Advice on smoking	Active smoker	2
+338608011	Smoking cessation advice	Active smoker	2
+818061000006111	Smoking cessation education	Active smoker	2
+4939261000006116	Smoking effects education	Active smoker	2
+936011000006114	Advice on effects of smoking on health	Active smoker	2
+1489355012	Referral to smoking cessation advisor	Active smoker	2
+459722017	Referral to stop-smoking clinic	Active smoker	2
+1780273014	Seen by smoking cessation advisor	Active smoker	2
+498831000006118	Attends stop smoking monitoring	Active smoker	2
+12024761000006112	Monitoring of smoking cessation therapy declined	Active smoker	2
+285792013	Monitoring of smoking cessation therapy refused	Active smoker	2
+285793015	Stop smoking monitor default	Active smoker	2
+128311000006112	Stop smoking monitoring first letter	Active smoker	2
+128321000006116	Stop smoking monitoring second letter	Active smoker	2
+128331000006118	Stop smoking monitoring third letter	Active smoker	2
+128371000006115	Stop smoking monitoring verbal invite	Active smoker	2
+128361000006110	Stop smoking monitoring telephone invite	Active smoker	2
+285805010	Stop smoking monitoring delete	Active smoker	2
+128381000006117	Stop smoking monitoring check done	Active smoker	2
+78013015	Smokers' cough	Active smoker	2
+3256651000006113	Cigarette cough	Active smoker	2
+6282351000006119	Smoking	Active smoker	2
+6282331000006114	Tobacco smoking behaviour - finding	Active smoker	2
+6282341000006116	Tobacco smoking behavior - finding	Active smoker	2
+6282361000006117	Finding of tobacco smoking behavior	Active smoker	2
+11904991000006116	Occasional cigarette smoker	Active smoker	2
+5003141000006118	Trivial cigarette smoker	Active smoker	2
+5003151000006116	Light cigarette smoker	Active smoker	2
+5003161000006119	Moderate cigarette smoker	Active smoker	3
+5003171000006114	Heavy cigarette smoker	Active smoker	4
+5003181000006112	Very heavy cigarette smoker	Active smoker	4
+5003191000006110	Chain smoker	Active smoker	4
+5999811000006115	Smoking monitoring invitation	Active smoker	2
+2170961000000116	Waterpipe tobacco consumption	Active smoker	2
+1125741000000111	Brief intervention for smoking cessation	Active smoker	2
+1750931000000118	Stop smoking service opportunity signposted	Active smoker	2
+1123541000000118	Stop smoking face to face follow-up	Active smoker	2
+8190531000006112	Referral to NHS (National Health Service) stop smoking service	Active smoker	2
+1715591000006117	Referral to National Health Service stop smoking service	Active smoker	2
+1176421000000118	Smoking cessation advice declined	Active smoker	2
+1175011000000112	Smoking cessation programme declined	Active smoker	2
+2141561000000115	Smoking cessation drug therapy declined	Active smoker	2
+2251871000000112	Referral to smoking cessation service declined	Active smoker	2
+2251911000000114	Referral to smoking cessation service	Active smoker	2
+1704561000006112	Referred for chronic obstructive pulmonary disease structured smoking assessment	Active smoker	2
+1704551000006110	Referred for COPD structured smoking assessment	Active smoker	2
+62881000000117	DNA - Did not attend smoking cessation clinic	Active smoker	2
+8012751000006116	Did not attend smoking cessation clinic	Active smoker	2
+1709641000000115	Referral for smoking cessation service offered	Active smoker	2
+1694421000006112	Stop smoking monitoring admin.	Active smoker	2
+21681000000118	Anti-smoking monitoring admin.	Active smoker	2
+16261000000110	Stop smoking monitoring administration	Active smoker	2
+21691000000116	Anti-smoking monitoring administration	Active smoker	2
+25281000000119	Stop smoking clinic administration	Active smoker	2
+8244731000006115	Stop smoking invitation text message	Active smoker	2
+1751721000000113	Stop smoking invitation short message service text message	Active smoker	2
+8244751000006110	Stop smoking invitation first text message	Active smoker	2
+1785671000006116	Stop smoking invitation first short message service text message	Active smoker	2
+8244771000006117	Stop smoking invitation second text message	Active smoker	2
+1785681000006118	Stop smoking invitation second short message service text message	Active smoker	2
+8244791000006116	Stop smoking invitation third text message	Active smoker	2
+1785691000006115	Stop smoking invitation third short message service text message	Active smoker	2
+736241000000116	Smoking cessation enhanced services administration	Active smoker	2
+8299271000006119	Number of previous attempts to stop smoking	Active smoker	2
+8063181000006116	Wants to stop smoking	Active smoker	2
+1704581000006119	COPD structured smoking assessment declined	Active smoker	2
+1704571000006117	Chronic obstructive pulmonary disease structured smoking assessment declined	Active smoker	2
+2670581000006114	Smoker's respiratory syndrome	Active smoker	2
+3419101000006116	Moderate smoker (20 or less per day)	Active smoker	3
+3422221000006116	Heavy smoker (over 20 per day)	Active smoker	4
+265092010	Pregnancy smoking advice	Active smoker	2
+4640171000006113	Pregnancy smoking education	Active smoker	2
+4640191000006114	Smoking in pregnancy education	Active smoker	2
+12452041000006114	Refuses stop smoking monitor	Active smoker	2
+5979541000006112	Smoking monitoring call	Active smoker	2
+5979551000006114	Smoking monitoring status	Active smoker	2
+6282381000006110	Finding of tobacco smoking consumption	Active smoker	2
+6282371000006112	Tobacco smoking consumption - finding	Active smoker	2
+6427931000006116	Smoking cessation assistance	Active smoker	2
+11793611000006110	Smoking cessation behaviour support	Active smoker	2
+1773560017	Smoking cessation programme start date	Active smoker	2
+6649431000006116	Smoking cessation program start date	Active smoker	2
+7507191000006117	Water pipe smoker	Active smoker	2
+7507181000006115	Hookah pipe smoker	Active smoker	2
+2982426011	Provision of smoking cessation leaflet	Active smoker	2
+7650811000006116	Assessment of readiness for smoking cessation	Active smoker	2
+492511000000117	Smoking cessation therapy	Active smoker	2
+482871000000111	Other specified smoking cessation therapy	Active smoker	2
+489931000000114	Smoking cessation therapy NOS	Active smoker	2
+7696001000006118	Patient request for smoking cessation information	Active smoker	2
+482771000000118	Smoking cessation drug therapy	Active smoker	2
+7979581000006117	Tobacco cessation education not done	Active smoker	2
+12024741000006113	Monitoring of smoking cessation therapy	Active smoker	2
+12482301000006115	Admitted tobacco cons untrue ?	Active smoker	2
+250369017	Admitted tobacco consumption possibly untrue	Active smoker	2
+4533531000006119	Admitted tobacco consumption possibly untrue	Active smoker	2
+4948531000006116	Smokes in bed	Active smoker	2
+7375991000006118	Smokes tobacco daily	Active smoker	2
+1563081000000115	Practice based smoking cessation programme start date	Active smoker	2
+1662911000000114	Consent given for follow-up by smoking cessation team	Active smoker	2
+1662951000000113	Declined consent for follow-up by smoking cessation team	Active smoker	2
+5496021000006114	Tobacco smoking consumption unknown	Active smoker	2
+12625101000006116	QOF (Quality and Outcomes Framework) quality indicator-related care invitation	Active smoker	2
+12626391000006117	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation	Active smoker	2
+12734401000006119	QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation using preferred method of communication	Active smoker	2
+250363016	Ex-trivial cigarette smoker (<1/day)	Ex-smoker	1
+250364010	Ex-light cigarette smoker (1-9/day)	Ex-smoker	1
+250365011	Ex-moderate cigarette smoker (10-19/day)	Ex-smoker	1
+250366012	Ex-heavy cigarette smoker (20-39/day)	Ex-smoker	1
+250367015	Ex-very heavy cigarette smoker (40+/day)	Ex-smoker	1
+298701000000114	History of tobacco use	Ex-smoker	1
+250371017	Ex-smoker - amount unknown	Ex-smoker	1
+2636041000006110	Cessation of smoking	Ex-smoker	1
+649841000006110	Ex-smoker	Ex-smoker	1
+418914010	Ex-cigarette smoker	Ex-smoker	1
+250373019	Stopped smoking	Ex-smoker	1
+649831000006117	Ex-pipe smoker	Ex-smoker	1
+649821000006115	Ex-cigar smoker	Ex-smoker	1
+250385010	Date ceased smoking	Ex-smoker	1
+4980561000006117	Time since stopped smoking	Ex-smoker	1
+7368961000006112	Stopped smoking during pregnancy	Ex-smoker	1
+7368971000006117	Stopped smoking before pregnancy	Ex-smoker	1
+7368651000006119	Smoked before confirmation of pregnancy	Ex-smoker	1
+7368661000006117	Smoker before confirmation of pregnancy	Ex-smoker	1
+903041000006110	EX-Smoker NOS	Ex-smoker	1
+5496031000006112	Ex-cigarette smoker amount unknown	Ex-smoker	1
+1151791000000117	Recently stopped smoking	Ex-smoker	1
+1059701000000119	Ex roll-up cigarette smoker	Ex-smoker	1
+3374141000006117	Tolerant ex-smoker	Ex-smoker	1
+6217151000006116	Intolerant ex-smoker	Ex-smoker	1
+6217281000006116	Aggressive ex-smoker	Ex-smoker	1
+1484932017	Smoking cessation milestones	Ex-smoker	1
+1488873010	Smoking free weeks	Ex-smoker	1
+7967851000006114	Age at smoking cessation	Ex-smoker	1
+8017571000006117	Ex-smoker for more than 1 year	Ex-smoker	1
+3513199018	Ex-smoker for less than 1 year	Ex-smoker	1
+2735181000000113	Ex-smoker amount unknown	Ex-smoker	1
+2735201000000112	Ex-very heavy smoker (40+/day)	Ex-smoker	1
+2735281000000119	Ex-heavy smoker (20-39/day)	Ex-smoker	1
+2735331000000112	Ex-moderate smoker (10-19/day)	Ex-smoker	1
+2735381000000111	Ex-light smoker (1-9/day)	Ex-smoker	1
+2735421000000119	Ex-trivial smoker (<1/day)	Ex-smoker	1
+3513101011	Date ceased using moist tobacco	Ex-smoker	1
+5495921000006119	Never smoked	Non-smoker	0
+397732011	Never smoked tobacco	Non-smoker	0
+14866014	Non-smoker	Non-smoker	0
+903051000006112	Tobacco Consumption Nil	Non-smoker	0
+250374013	Current non-smoker	Non-smoker	0
+3926051000006118	Tolerant non-smoker	Non-smoker	0
+4120281000006117	Non-smoker for personal reasons	Non-smoker	0
+4120291000006119	Non-smoker for religious reasons	Non-smoker	0
+4120301000006118	Non-smoker for medical reasons	Non-smoker	0
+6217461000006110	Aggressive non-smoker	Non-smoker	0
+6217561000006111	Intolerant non-smoker	Non-smoker	0
+6718071000006115	Current non smoker but past smoking history unknown	Non-smoker	0
+7965041000006111	Never smoked any substance	Non-smoker	0
+7690211000006112	No known exposure to tobacco smoke	Non-smoker	0
