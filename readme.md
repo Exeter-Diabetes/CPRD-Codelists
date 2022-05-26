@@ -4,7 +4,7 @@ CPRD Aurum codelists from the Exeter Diabetes team
 &nbsp;
 
 ## General notes on implementation
-* Only codes with 'valid' dates used unless otherwise stated ('any date'). A valid date is an obsdate (for medcodes) or issuedate (for prodcodes) which is no earlier than the patient's date of birth (no earlier than the month of birth if date of birth is not available; no earlier than full date of birth if this is available), no later than the patient's date of death (earliest of cprd_ddeath (Patient table) and dod/dor where dod not available (ONS death data)) where this is present, no later than deregistration where this is present, and no later than the last collection date from the Practice.
+* Only codes with 'valid' dates used unless otherwise stated ('any date'). A valid date is an obsdate (for medcodes), issuedate (for prodcodes), epistart (for ICD10 codes) or evdate (for OPCS4 codes) which is no earlier than the patient's date of birth (no earlier than the month of birth if date of birth is not available; no earlier than full date of birth if this is available), no later than the patient's date of death (earliest of cprd_ddeath (Patient table) and dod/dor where dod not available (ONS death data)) where this is present, no later than deregistration where this is present, and no later than the last collection date from the Practice.
 * Patient date of birth = 15th of month of birth (where month of birth and year of birth available), and 1st July where only year of birth available.
 * Biomarker tests before 1990 removed as most not developed by then.
 
@@ -18,7 +18,7 @@ CPRD Aurum codelists from the Exeter Diabetes team
 &nbsp;
 
 ## Co-morbidity algorithms
-* Earliest (valid) medcode date used as date of diagnosis
+* Earliest (valid) medcode/ICD10 code/OPCS4 code date used as date of diagnosis
 
 &nbsp;
 
