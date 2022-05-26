@@ -1,0 +1,21 @@
+ICD10	Term_description
+J00	Acute nasopharyngitis [common cold]
+J01	Acute sinusitis
+J02	Acute pharyngitis
+J03	Acute tonsillitis
+J04	Acute laryngitis and tracheitis
+J05	Acute obstructive laryngitis [croup] and epiglottitis
+J06	Acute upper respiratory infections of multiple and unspecified sites
+J09	Influenza due to identified zoonotic or pandemic influenza virus
+J10	influenza due to identified seasonal influenza virus
+J11	Influenza, virus not identified
+J12	Viral pneumonia, not elsewhere classified
+J13	Pneumonia due to Streptococcus pneumoniae
+J14	Pneumonia due to Haemophilus influenzae
+J15	Bacterial pneumonia, not elsewhere classified
+J16	Pneumonia due to other infectious organisms, not elsewhere classified
+J17	Pneumonia in diseases classified elsewhere
+J18	Pneumonia, organism unspecified
+J20	Acute bronchitis
+J21	Acute bronchiolitis
+J22	Unspecified acute lower respiratory infection

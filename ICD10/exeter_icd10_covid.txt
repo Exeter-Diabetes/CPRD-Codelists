@@ -1,0 +1,3 @@
+ICD10	Term_description
+U07.1	COVID-19, confirmed by lab testing
+U07.2	COVID-19, not confirmed by lab testing (includes clinically-epidemiologically diagnosed, probable and suspected)
