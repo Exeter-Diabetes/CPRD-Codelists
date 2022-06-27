@@ -17,8 +17,31 @@ CPRD Aurum codelists from the Exeter Diabetes team
 
 &nbsp;
 
+### BMI
+* Where height and weight recorded on same obsdate, calculate bmi
+* Take most recent BMI value (coded or calculated as above, prioritise coded) within last 2 years
+* Note: this only applies for adults/ over 18s
+
+&nbsp;
+
+### eGFR (estimated glomerular filtration rate)
+*
+
+&nbsp;
+
+### ACR (Albumin Creatinine Ratio)
+* Where urine albumin and creatinine measurements recorded on same obsdate, calculate acr
+* Take most recent ACR value (coded or calculated as above, prioritise coded) ever
+
+&nbsp;
+
 ## Co-morbidity algorithms
 * Earliest (valid) medcode/ICD10 code/OPCS4 code date used as date of diagnosis
+
+&nbsp;
+
+### CKD (Chronic Kidney Disease)
+*
 
 &nbsp;
 
@@ -53,3 +76,29 @@ Diagnosis date is earliest of:
       * If diagnosed <35 years of age and on insulin within 1 year of diagnosis, Type 1, otherwise Type 2
     * If time between diagnosis date and start of insulin treatment is not available (i.e. diagnosis date < start of registration):
       * If diagnosed <35 years and not currently taking a non-insulin glucose lowering medication (no prescription for a non-insulin glucose lowering medication within 6 months of end of records (earliest of death/deregistration/last collection date from Practice)), Type 1, otherwise Type 2
+      
+&nbsp;
+
+## Sociodemographics algorithms
+
+### Ethnicity
+* Take most commonly recorded ethnicity category (eth5, or eth16, excluding all 'unknown' ethnicity codes)
+* If more than one most commonly recorded ethnicity, take most recently recorded ethnicity category
+* Everyone else categorised as unknown
+
+&nbsp;
+
+### Smoking
+* Take most commonly recorded smoking category (non-smoker, ex-smoker, active smoker)
+* If most recent is 'non-smoker' but have previously been recorded as active smoker, then categorise as 'ex-smoker'
+* Look next most recent date if more than one category is coded on most recent date
+
+&nbsp;
+
+### Alcohol consumption
+* Take most recently recorded alcohol consumption level (0 = none, 1 = within limits, 2 = excess, 3 = harmful)
+* If ever coded with a level3 code then categorise as level3
+* If multiple levels coded on most recent date, take the highest level
+
+&nbsp;
+
