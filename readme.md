@@ -18,8 +18,8 @@ CPRD Aurum codelists from the Exeter Diabetes team
 &nbsp;
 
 ### BMI
-* Where height and weight recorded on same obsdate, calculate bmi
-* Take most recent BMI value (coded or calculated as above, prioritise coded) within last 2 years
+* Take coded BMI value
+* If no coded value, where height and weight recorded on same obsdate, calculate bmi
 * Note: this only applies for adults/ over 18s
 
 &nbsp;
@@ -30,8 +30,8 @@ CPRD Aurum codelists from the Exeter Diabetes team
 &nbsp;
 
 ### ACR (Albumin Creatinine Ratio)
-* Where urine albumin and creatinine measurements recorded on same obsdate, calculate acr
-* Take most recent ACR value (coded or calculated as above, prioritise coded) ever
+* Take coded ACR value
+* If no coded value, where urine albumin and creatinine measurements recorded on same obsdate, calculate acr
 
 &nbsp;
 
