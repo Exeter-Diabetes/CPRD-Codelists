@@ -89,7 +89,7 @@ Diagnosis date is earliest of:
 &nbsp;
 
 ### Smoking
-* Take most commonly recorded smoking category (non-smoker, ex-smoker, active smoker)
+* Take most recently recorded smoking category (non-smoker, ex-smoker, active smoker)
 * If most recent is 'non-smoker' but have previously been recorded as active smoker, then categorise as 'ex-smoker'
 * Look next most recent date if more than one category is coded on most recent date
 
