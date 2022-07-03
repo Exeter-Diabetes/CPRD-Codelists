@@ -88,7 +88,7 @@ Diagnosis date is earliest of:
 ### Ethnicity
 * Take most commonly recorded ethnicity category (eth5, or eth16, excluding all 'unknown' ethnicity codes)
 * If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
-* Everyone else categorised as unknown (secondary care (HES) ethnicity can be used for these people)
+* Everyone else categorised as unknown (secondary care [HES] ethnicity can be used for these people)
 
 &nbsp;
 
