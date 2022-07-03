@@ -18,20 +18,19 @@ CPRD Aurum codelists from the Exeter Diabetes team
 &nbsp;
 
 ### BMI
-* Take coded BMI value
-* If no coded value, where height and weight recorded on same obsdate, calculate bmi
-* Note: this only applies for adults/ over 18s
+* Preferentially use coded BMI value
+* If no coded value, where height and weight recorded on same obsdate, use these to calculate BMI (for adults only)
 
 &nbsp;
 
 ### eGFR (estimated glomerular filtration rate)
-*
+* Use cleaned serum creatinine readings, age at reading and sex to calculate eGFR as per CKD-EPI Creatinine Equation 2021 (https://www.kidney.org/professionals/kdoqi/gfr_calculator/formula; ethnicity not used in this equation)
 
 &nbsp;
 
 ### ACR (Albumin Creatinine Ratio)
-* Take coded ACR value
-* If no coded value, where urine albumin and creatinine measurements recorded on same obsdate, calculate acr
+* Preferentially use coded ACR value
+* If no coded value, where urine albumin and urine creatinine measurements recorded on same obsdate, calculate ACR
 
 &nbsp;
 
@@ -40,7 +39,7 @@ CPRD Aurum codelists from the Exeter Diabetes team
 
 &nbsp;
 
-### CKD (Chronic Kidney Disease)
+### CKD (Chronic Kidney Disease) stage
 *
 
 &nbsp;
@@ -83,21 +82,21 @@ Diagnosis date is earliest of:
 
 ### Ethnicity
 * Take most commonly recorded ethnicity category (eth5, or eth16, excluding all 'unknown' ethnicity codes)
-* If more than one most commonly recorded ethnicity, take most recently recorded ethnicity category
-* Everyone else categorised as unknown
+* If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
+* Everyone else categorised as unknown (secondary care (HES) ethnicity can be used for these people)
 
 &nbsp;
 
 ### Smoking
 * Take most recently recorded smoking category (non-smoker, ex-smoker, active smoker)
 * If most recent is 'non-smoker' but have previously been recorded as active smoker, then categorise as 'ex-smoker'
-* Look next most recent date if more than one category is coded on most recent date
+* Look at the next most recent date if more than one category is coded on the most recent date
 
 &nbsp;
 
 ### Alcohol consumption
 * Take most recently recorded alcohol consumption level (0 = none, 1 = within limits, 2 = excess, 3 = harmful)
-* If ever coded with a level3 code then categorise as level3
+* If ever coded with a level 3 code then categorise as level 3
 * If multiple levels coded on most recent date, take the highest level
 
 &nbsp;
