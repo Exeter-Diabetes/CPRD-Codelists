@@ -74,7 +74,7 @@ Diagnosis date is earliest of:
   * With multiple Type 1- and/or Type 2-specific medcodes with any date (exeter_medcodelist_all_diabetes, category="type 1" or "type 2"):
     * If number of Type 1 medcodes >=2 x number of Type 2 medcodes, Type 1, otherwise Type 2
   * With one Type 1- or Type 2-specific medcode with any date:
-    * Patient is categorise according to this medcode
+    * Patient is categorised according to this medcode
   * With no one Type 1- or Type 2-specific medcodes:
     * If time between diagnosis date and start of insulin treatment is available (i.e. diagnosis date >= start of registration):
       * If diagnosed <35 years of age and on insulin within 1 year of diagnosis, Type 1, otherwise Type 2
