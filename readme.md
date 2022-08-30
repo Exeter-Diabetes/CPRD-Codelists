@@ -96,7 +96,7 @@ Diagnosis date is earliest of:
 * Take most recently recorded smoking category (non-smoker, ex-smoker, active smoker)
 * If most recent is 'non-smoker' but have previously been recorded as active smoker, then categorise as 'ex-smoker'
 * Look at the next most recent date if more than one category is coded on the most recent date
-* (NB: different algorithm used for smoking variable used in QRISK2: use most recent medcode and QRISK2 category associated with that code (0=non-smoker, 1=ex-smoker, 2=light smoker (1-10 cig/day), 3=moderate smoker(11-19 cig/day), 4=heavy smoker (20+ cig/day). However, if medcode has a value associated with it and a valid numunitid (see biomarker_valid_units), assume value is number of cigarettes per day, and use to re-assign those in category 0, 2, 3, and 4 (assume values associated with ex-smoking codes are cig/day that person used to smoke). Ignore values associated with medcode '1780396011' (Cigarette pack/years).
+* (NB: different algorithm used for smoking variable used in QRISK2: use most recent medcode and QRISK2 category associated with that code (0=non-smoker, 1=ex-smoker, 2=light smoker (1-10 cig/day), 3=moderate smoker(11-19 cig/day), 4=heavy smoker (20+ cig/day). However, if medcode has a value associated with it and a valid numunitid (see biomarker_valid_units), assume value is number of cigarettes per day, and use to re-assign those in category 0, 2, 3, and 4 (assume values associated with ex-smoking codes are cig/day that person used to smoke). Ignore values associated with medcode '1780396011' (Cigarette pack/years).)
 
 &nbsp;
 
