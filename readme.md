@@ -1,5 +1,5 @@
 # Exeter Diabetes codelists
-CPRD Aurum codelists from the Exeter Diabetes team
+CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a Novomber 2020 download of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
 
 &nbsp;
 
