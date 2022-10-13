@@ -1,0 +1,9 @@
+MedCodeId	Term
+110181000006112	Test request : Urinary Microalbumin
+74951000006111	Urine albumin level
+2474458019	Urine microalbumin profile
+494597013	Urine microalbumin level
+6833411000006118	Urine microalbumin profile
+3254671000006113	Urine microalbumin
+3254661000006118	Microalbuminuria measurement
+3254681000006111	Urine microalbumin level
