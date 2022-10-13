@@ -1,0 +1,31 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+217371000000119	FH: Myocardial infarction < 60	12C2-1	12C2.11	275122004	411054019	NA	7
+6648081000006119	Family history: Angina in first degree female relative less than 65 years	^ESCTFA664808	NA	401065001	3038526013	NA	7
+7226991000006117	Family history of cardiovascular disease (CVD) in first degree male relative less than 55 years of age	^ESCTFA722699	NA	439724007	2792403016	NA	7
+5495451000006117	Family history: Ischaemic heart disease at less than 60 years	^ESCTFA549545	NA	266895004	2838291017	NA	7
+5495431000006112	FH: Ischemic heart disease at less than 60 years	^ESCTFH549543	NA	266895004	397696015	NA	7
+6648131000006119	Family history: Myocardial infarct in first degree male relative 55 years	^ESCTFA664813	NA	401067009	2973367018	NA	7
+6648811000006115	Family history: Angina in first degree male relative less than 55 years	^ESCTFA664881	NA	401122004	3036946016	NA	7
+5578771000006111	Family history: Angina at less than 60 years	^ESCTFA557877	NA	275932007	2669985013	NA	7
+5495411000006118	FH: Ischaemic heart disease at less than 60 years	^ESCTFH549541	NA	266895004	397695016	NA	7
+1676941000006112	Family history of cardiovascular disease in first degree female relative less than 65 years of age	12CW	12CW.00	438825005	2794956014	NA	7
+5569681000006115	Family history: Myocardial infarction at less than 60	^ESCTFA556968	NA	275122004	2669866014	NA	7
+7214691000006114	Family history of cardiovascular disease (CVD) in first degree female relative less than 65 years of age	^ESCTFA721469	NA	438825005	2794955013	NA	7
+6648121000006117	Family history: Myocardial infarct in 1st degree male relative <55 years	^ESCTFA664812	NA	401067009	1787436011	NA	7
+397694017	FH: Ischaemic heart dis. <60	12C2	12C2.00	266895004	397694017	NA	7
+217381000000117	FH: Myocardial infarction at less than 60	12C2-2	12C2.12	275122004	411054019	NA	7
+6648801000006118	Family history: Angina in first degree male relative 55 years	^ESCTFA664880	NA	401122004	2973528013	NA	7
+12489601000006117	FH: Myocardial infarct in 1st degree female relative <65 yrs	^ESCT1248960	NA	401066000	1780271011	NA	7
+6648091000006116	Family history of myocardial infarct in first degree female relative less than 65 years of age	^ESCTFA664809	NA	401066000	6648091000006116	NA	7
+6648141000006112	Family history: Myocardial infarct in first degree male relative less than 55 years	^ESCTFA664814	NA	401067009	3037150015	NA	7
+6648791000006119	Family history: Angina in 1st degree male relative <55 years	^ESCTFA664879	NA	401122004	1787447016	NA	7
+1780271011	Family history of myocardial infarct in first degree female relative less than 65 years of age	12CN	12CN.00	401066000	2839705011	NA	7
+1676931000006119	Family history of cardiovascular disease in first degree male relative less than 55 years of age	12CV	12CV.00	439724007	2792404010	NA	7
+217391000000115	FH: Angina at less than 60 years	12C2-3	12C2.13	275932007	411905011	NA	7
+1780270012	FH: Angina in 1st degree female relative <65 years	12CL	12CL.00	401065001	1780270012	NA	7
+1780323013	FH: Angina in 1st degree male relative <55 years	12CM	12CM.00	401122004	1780323013	NA	7
+1780272016	FH: Myocardial infarct in 1st degree male relative <55 years	12CP	12CP.00	401067009	1780272016	NA	7
+6648071000006117	Family history: Angina in 1st degree female relative <65 years	^ESCTFA664807	NA	401065001	1787434014	NA	7
+5495441000006119	Family history: Ischemic heart disease at less than 60 years	^ESCTFA549544	NA	266895004	2669637014	NA	7
+1669601000006118	FH: Cardiovascular dis. in 1st degree female relative < 65 years	EMISNQFH7	NA	1669601000006102	1669601000006118	NA	7
+1669611000006115	FH: Cardiovascular disease 1st degree male relative < 55 years	EMISNQFH8	NA	1669611000006104	1669611000006115	NA	7
