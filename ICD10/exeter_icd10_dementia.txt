@@ -1,0 +1,7 @@
+ICD10	Term_description
+F00	Dementia in Alzheimer's disease
+F01	Vascular dementia
+F03	Unspecified dementia
+F05.1	Delirium superimposed on dementia
+G30	Alzheimer's disease
+F02	Dementia in other diseases classified elsewhere

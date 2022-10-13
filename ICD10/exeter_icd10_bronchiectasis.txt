@@ -1,0 +1,3 @@
+ICD10	Term_description
+J47	Bronchiectasis
+Q33.4	Congenital bronchiectasis

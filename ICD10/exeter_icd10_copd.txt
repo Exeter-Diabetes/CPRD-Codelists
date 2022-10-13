@@ -1,0 +1,5 @@
+ICD10	Term_description
+J41	Simple and mucopurulent chronic bronchitis
+J42	Unspecified chronic bronchitis
+J43	Emphysema
+J44	Other chronic obstructive pulmonary disease

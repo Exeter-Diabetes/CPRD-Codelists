@@ -1,0 +1,15 @@
+ICD10	Term_description
+A81.0	Creutzfeldt-Jakob disease
+A81.1	Subacute sclerosing panencephalitis
+A81.2	Progressive multifocal leukoencephalopathy
+F02.3	Dementia in Parkinson's disease
+G10	Huntington's Disease
+G12.2	Motor neuron disease
+G20	Parkinson's disease
+G35	Multiple sclerosis
+G70.0	Myasthenia gravis
+G71.0	Muscular dystrophy
+G80	Cerebral palsy
+G81	Hemiplegia
+G82	Paraplegia and tetraplegia
+

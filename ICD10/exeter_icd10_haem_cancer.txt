@@ -1,0 +1,15 @@
+ICD10	Term_description
+C81	Hodgkin's disease
+C82	Follicular [nodular] non-Hodgkin's lymphoma
+C83	Diffuse non-Hodgkin's lymphoma
+C84	Peripheral and cutaneous T-cell lymphomas
+C85	Other and unspecified types of non-Hodgkin's lymphoma
+C88	Malignant immunoproliferative diseases
+C90	Multiple myeloma and malignant plasma cell neoplasms
+C91	Lymphoid leukaemia NOS
+C92	Myeloid leukaemia
+C93	Monocytic leukaemia
+C94	Other leukaemias of specified cell type
+C95	Leukaemia of unspecified cell type
+C96	Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue
+

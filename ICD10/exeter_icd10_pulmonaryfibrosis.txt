@@ -1,0 +1,2 @@
+ICD10	Term_description
+J84.1	Other interstitial pulmonary diseases with fibrosis

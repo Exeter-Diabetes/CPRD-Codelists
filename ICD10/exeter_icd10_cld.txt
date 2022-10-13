@@ -1,0 +1,15 @@
+ICD10	Term_description
+B15.0	Hepatitis A with hepatic coma
+B16.0	Acute hepatitis B with delta-agent (coinfection) with hepatic coma
+B19.0	Unspecified viral hepatitis with hepatic coma
+B18	Chronic viral hepatitis
+K70	Alcoholic liver disease
+K71.1	Toxic liver disease with hepatic necrosis
+K71.7	Toxic liver disease with fibrosis and cirrhosis of liver
+K72	Hepatic failure, not elsewhere classified
+K74	Fibrosis and cirrhosis of liver
+K75.4	Autoimmune hepatitis
+K75.8	Other specified inflammatory liver diseases
+K76.0	Fatty (change of) liver, not elsewhere classified
+K76.2	Central haemorrhagic necrosis of liver
+K76.3	Infarction of liver

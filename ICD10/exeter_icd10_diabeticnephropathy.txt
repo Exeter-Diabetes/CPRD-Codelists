@@ -1,0 +1,7 @@
+ICD10	Term_description
+E10.2	Insulin-dependent diabetes mellitus - With renal complications
+E11.2	Non-insulin-dependent diabetes mellitus - With renal complications
+E12.2	Malnutrition-related diabetes mellitus - With renal complications
+E13.2	Other specified diabetes mellitus - With renal complications
+E14.2	Unspecified diabetes mellitus - With renal complications
+R80.9	Proteinuria, unspecified

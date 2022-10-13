@@ -1,0 +1,3 @@
+ICD10	Term_description
+I27.0	Primary pulmonary hypertension
+I27.2	Other secondary pulmonary hypertension
