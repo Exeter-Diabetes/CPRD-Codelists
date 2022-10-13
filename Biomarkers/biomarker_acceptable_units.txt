@@ -74,6 +74,18 @@ pcr	2273
 sbp	210
 sbp	216
 sbp	212
+smoking	
+smoking	39
+smoking	118
+smoking	247
+smoking	98
+smoking	120
+smoking	237
+smoking	478
+smoking	1496
+smoking	1394
+smoking	1202
+smoking	38
 totalcholesterol	218
 totalcholesterol	
 triglyceride	218
