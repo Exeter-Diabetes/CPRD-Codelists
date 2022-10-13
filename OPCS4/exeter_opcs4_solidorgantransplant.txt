@@ -1,0 +1,20 @@
+OPCS4	Term_description
+B17	Transplantation of thymus gland
+E53	Transplantation of lung
+G26	Transplantation of stomach
+G68	Transplantation of ileum
+G788	Other specified other open operations on ileum
+J01	Transplantation of liver
+J54	Transplantation of pancreas
+J721	Transplantation of spleen
+K01	Transplantation of heart and lung
+K02	Other transplantation of heart
+M01	Transplantation of kidney
+M17	Interventions associated with transplantation of kidney
+Y012	Alloreplacement of organ NOC
+Y014	Alloreplacement of organ from cadaver heart beating NOC
+Y015	Alloreplacement of organ from cadaver heart non-beating NOC
+Y016	Alloreplacement of organ from cadaver NOC
+Y018	Other specified replacement of organ NOC
+Y019	Unspecified replacement of organ NOC
+

@@ -1,0 +1,24 @@
+OPCS4	Term_description
+L746	Creation of graft fistula for dialysis
+M011	Autotransplantation of kidney
+M012	Allotransplantation of kidney from live donor
+M013	Allotransplantation of kidney from cadaver NEC
+M014	Allotransplantation of kidney from cadaver heart beating
+M015	Allotransplantation of kidney from cadaver heart non-beating
+M018	Other specified transplantation of kidney
+M019	Unspecified transplantation of kidney
+M026	Excision of rejected transplanted kidney
+M027	Excision of transplanted kidney NEC
+M084	Exploration of transplanted kidney
+M172	Pre-transplantation of kidney work-up - recipient
+M174	Post-transplantation of kidney examination - recipient
+M178	Other specified interventions associated with transplantation of kidney
+M179	Unspecified interventions associated with transplantation of kidney
+X401	Renal dialysis
+X402	Peritoneal dialysis NEC
+X403	Haemodialysis NEC
+X405	Automated peritoneal dialysis
+X406	Continuous ambulatory peritoneal dialysis
+X411	Insertion of ambulatory peritoneal dialysis catheter
+X412	Removal of ambulatory peritoneal dialysis catheter
+X421	Insertion of temporary peritoneal dialysis catheter
