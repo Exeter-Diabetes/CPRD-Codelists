@@ -1,0 +1,26 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+2835341000033112	407837006	Memantine 10mg tablets	Memantine 10mg tablets	Tablet	Oral	Memantine hydrochloride	10.000mg	4110000	NA
+2835541000033117	3013111000001101	Ebixa 10mg tablets (Lundbeck Ltd)	Ebixa 10mg tablets	Tablet	Oral	Memantine hydrochloride	10.000mg	4110000	NA
+2835641000033116	4628711000001107	Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd)	Ebixa 5mg/0.5ml pump actuation oral solution	Oral solution	Oral	Memantine hydrochloride	10.000mg/1.000ml	4110000	NA
+2835441000033118	4652211000001101	Memantine 10mg/ml oral solution sugar free	Memantine 10mg/ml oral solution sugar free	Oral solution	Oral	Memantine hydrochloride	10.000mg/1.000ml	4110000	NA
+12331641000033115	10694911000001108	Memantine 10mg soluble tablets sugar free	Memantine 10mg soluble tablets sugar free	Soluble tablet	Oral	Memantine hydrochloride	10.000mg	NA	NA
+12331741000033112	10695111000001109	Memantine 20mg soluble tablets sugar free	Memantine 20mg soluble tablets sugar free	Soluble tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+4607941000033110	13914311000001106	Ebixa 20mg tablets (Lundbeck Ltd)	Ebixa 20mg tablets	Tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+4607841000033119	13939111000001104	Memantine 20mg tablets	Memantine 20mg tablets	Tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+11721041000033114	22428011000001100	Marixino 10mg tablets (Consilient Health Ltd)	Marixino 10mg tablets	Tablet	Oral	Memantine hydrochloride	10.000mg	NA	NA
+11720941000033116	22428211000001105	Marixino 20mg tablets (Consilient Health Ltd)	Marixino 20mg tablets	Tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+8535641000033114	22663211000001105	Nemdatine 10mg tablets (Actavis UK Ltd)	Nemdatine 10mg tablets	Tablet	Oral	Memantine hydrochloride	10.000mg	NA	NA
+8535741000033117	22663511000001108	Nemdatine 20mg tablets (Actavis UK Ltd)	Nemdatine 20mg tablets	Tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+11492941000033115	32486211000001101	Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg	4110000	NA
+11493041000033113	32486511000001103	Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)	Valios 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg	4110000	NA
+11492741000033118	32499611000001108	Memantine 10mg orodispersible tablets sugar free	Memantine 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	10.000mg	4110000	NA
+11492841000033111	32499711000001104	Memantine 20mg orodispersible tablets sugar free	Memantine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Memantine hydrochloride	20.000mg	4110000	NA
+12331841000033119	34532311000001101	Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	Alzhok 10mg soluble tablets	Soluble tablet	Oral	Memantine hydrochloride	10.000mg	NA	NA
+12331941000033110	34532611000001106	Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd)	Alzhok 20mg soluble tablets	Soluble tablet	Oral	Memantine hydrochloride	20.000mg	NA	NA
+8349641000033110	NA	Maruxa Tablets 20 mg	NA	NA	NA	NA	NA	NA	NA
+8349541000033114	NA	Maruxa Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
+4608041000033113	14065311000001101	Ebixa tablets treatment initiation pack (Lundbeck Ltd)	Ebixa tablets treatment initiation pack	Not applicable	NA	NA	NA	NA	NA
+12532241000033110	14159211000001107	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack	Not applicable	Route of administration not applicable	NA	NA	NA	NA
+12331541000033116	34558011000001100	Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd)	Alzhok soluble tablets treatment initiation pack	Not applicable	NA	NA	NA	NA	NA
+12484541000033118	35199611000001105	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd)	Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack	Not applicable	NA	NA	NA	NA	NA
+13316541000033110	35204911000001100	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free	Not applicable	Route of administration not applicable	NA	NA	NA	NA
