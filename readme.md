@@ -45,7 +45,7 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 * Only keep CKD stages confirmed by multiple readings separated by >=90 days (without a measurement corresponding to a different stage within this 90 day period). This is to exclude readings corresponding to acute kidney injury (AKI).
 * Remove any instances where patients appear to regress to a less severe CKD stage e.g. if they move from stage 4 to 3b, remove the 3b measurements
 * Diagnosis date for CKD stage is the earliest eGFR measurement corresponding to this stage once values have been cleaned as above.
-* CKD stage 5 (end stage renal disease [ESRD]) is defined using eGFR as above OR by the presence of a CKD5 medcode (see Comorbidities/exeter_medcodelist_ckd5.txt)
+* CKD stage 5 (end stage renal disease [ESRD]) is defined using eGFR as above OR by the presence of a CKD5 medcode/ICD10/OPCS4 code
 
 &nbsp;
 
