@@ -1,0 +1,215 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+1135041000033117	318352004	Propranolol 10mg tablets	Propranolol 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg	2040000	NA
+1135241000033113	318353009	Propranolol 40mg tablets	Propranolol 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg	2040000	NA
+1135341000033115	318354003	Propranolol 80mg tablets	Propranolol 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg	2040000	NA
+1135141000033118	318355002	Propranolol 160mg tablets	Propranolol 160mg tablets	Tablet	Oral	Propranolol hydrochloride	160.000mg	2040000	NA
+3041000033115	318412000	Acebutolol 100mg capsules	Acebutolol 100mg capsules	Capsule	Oral	Acebutolol hydrochloride	100.000mg	2040000	NA
+3141000033116	318413005	Acebutolol 200mg capsules	Acebutolol 200mg capsules	Capsule	Oral	Acebutolol hydrochloride	200.000mg	2040000	NA
+10741000033112	318414004	Acebutolol 400mg tablets	Acebutolol 400mg tablets	Tablet	Oral	Acebutolol hydrochloride	400.000mg	2040000	NA
+91141000033119	318420003	Atenolol 50mg tablets	Atenolol 50mg tablets	Tablet	Oral	Atenolol	50.000mg	2100100	NA
+91041000033118	318421004	Atenolol 100mg tablets	Atenolol 100mg tablets	Tablet	Oral	Atenolol	100.000mg	2100100	NA
+90641000033116	318434003	Atenolol 25mg tablets	Atenolol 25mg tablets	Tablet	Oral	Atenolol	25.000mg	2100100	NA
+814041000033119	318445000	Labetalol 100mg tablets	Labetalol 100mg tablets	Tablet	Oral	Labetalol hydrochloride	100.000mg	2040000	NA
+818641000033117	318446004	Labetalol 200mg tablets	Labetalol 200mg tablets	Tablet	Oral	Labetalol hydrochloride	200.000mg	2040000	NA
+818741000033114	318447008	Labetalol 400mg tablets	Labetalol 400mg tablets	Tablet	Oral	Labetalol hydrochloride	400.000mg	2040000	NA
+818841000033116	318458004	Labetalol 50mg tablets	Labetalol 50mg tablets	Tablet	Oral	Labetalol hydrochloride	50.000mg	2040000	NA
+897741000033111	318474009	Metoprolol 100mg tablets	Metoprolol 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg	2040000	NA
+897841000033118	318475005	Metoprolol 50mg tablets	Metoprolol 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg	2040000	NA
+956341000033113	318480001	Nadolol 40mg tablets	Nadolol 40mg tablets	Tablet	Oral	Nadolol	40.000mg	NA	NA
+956541000033118	318481002	Nadolol 80mg tablets	Nadolol 80mg tablets	Tablet	Oral	Nadolol	80.000mg	2040000	NA
+1026141000033119	318483004	Oxprenolol 20mg tablets	Oxprenolol 20mg tablets	Tablet	Oral	Oxprenolol hydrochloride	20.000mg	2040000	NA
+1026241000033114	318484005	Oxprenolol 40mg tablets	Oxprenolol 40mg tablets	Tablet	Oral	Oxprenolol hydrochloride	40.000mg	2040000	NA
+1026341000033116	318485006	Oxprenolol 80mg tablets	Oxprenolol 80mg tablets	Tablet	Oral	Oxprenolol hydrochloride	80.000mg	2040000	NA
+1091241000033112	318512002	Pindolol 5mg tablets	Pindolol 5mg tablets	Tablet	Oral	Pindolol	5.000mg	2040000	NA
+1091141000033117	318513007	Pindolol 15mg tablets	Pindolol 15mg tablets	Tablet	Oral	Pindolol	15.000mg	2040000	NA
+1367441000033117	318525005	Sotalol 40mg tablets	Sotalol 40mg tablets	Tablet	Oral	Sotalol hydrochloride	40.000mg	2040000	NA
+1367541000033116	318526006	Sotalol 80mg tablets	Sotalol 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	NA
+1367241000033118	318527002	Sotalol 200mg tablets	Sotalol 200mg tablets	Tablet	Oral	Sotalol hydrochloride	200.000mg	2040000	NA
+1367141000033113	318528007	Sotalol 160mg tablets	Sotalol 160mg tablets	Tablet	Oral	Sotalol hydrochloride	160.000mg	2040000	NA
+1444541000033113	318534000	Timolol 10mg tablets	Timolol 10mg tablets	Tablet	Oral	Timolol maleate	10.000mg	2040000	NA
+151341000033117	318590006	Bisoprolol 5mg tablets	Bisoprolol 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+514741000033117	318591005	Bisoprolol 10mg tablets	Bisoprolol 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	NA
+1951641000033111	318604001	Bisoprolol 1.25mg tablets	Bisoprolol 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg	2040000	NA
+1951741000033119	318605000	Bisoprolol 2.5mg tablets	Bisoprolol 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg	2040000	NA
+1951841000033112	318606004	Bisoprolol 3.75mg tablets	Bisoprolol 3.75mg tablets	Tablet	Oral	Bisoprolol fumarate	3.750mg	2040000	NA
+1951941000033116	318607008	Bisoprolol 7.5mg tablets	Bisoprolol 7.5mg tablets	Tablet	Oral	Bisoprolol fumarate	7.500mg	2040000	NA
+236041000033111	318619000	Celiprolol 200mg tablets	Celiprolol 200mg tablets	Tablet	Oral	Celiprolol hydrochloride	200.000mg	2040000	NA
+233341000033116	318622003	Celiprolol 400mg tablets	Celiprolol 400mg tablets	Tablet	Oral	Celiprolol hydrochloride	400.000mg	2040000	NA
+209941000033111	318631003	Carvedilol 12.5mg tablets	Carvedilol 12.5mg tablets	Tablet	Oral	Carvedilol	12.500mg	2040000	NA
+210041000033115	318632005	Carvedilol 25mg tablets	Carvedilol 25mg tablets	Tablet	Oral	Carvedilol	25.000mg	2040000	NA
+1581241000033110	318633000	Carvedilol 3.125mg tablets	Carvedilol 3.125mg tablets	Tablet	Oral	Carvedilol	3.125mg	2040000	NA
+1581341000033117	318635007	Carvedilol 6.25mg tablets	Carvedilol 6.25mg tablets	Tablet	Oral	Carvedilol	6.250mg	2040000	NA
+1796041000033113	318640004	Nebivolol 5mg tablets	Nebivolol 5mg tablets	Tablet	Oral	Nebivolol hydrochloride	5.000mg	2040000	NA
+5565341000033115	432118006	Nebivolol 2.5mg tablets	Nebivolol 2.5mg tablets	Tablet	Oral	Nebivolol hydrochloride	2.500mg	NA	NA
+8961141000033117	432159000	Nebivolol 10mg tablets	Nebivolol 10mg tablets	Tablet	Oral	Nebivolol hydrochloride	10.000mg	NA	NA
+1952541000033117	19711000001106	Cardicor 5mg tablets (Merck Serono Ltd)	Cardicor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+2267541000033111	28711000001109	Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 10mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	2.000mg/1.000ml	2040000	NA
+144441000033111	31811000001105	Betaloc 50mg tablets (AstraZeneca UK Ltd)	Betaloc 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg	NA	NA
+1469341000033110	42611000001104	Trandate 50mg tablets (RPH Pharmaceuticals AB)	Trandate 50mg tablets	Tablet	Oral	Labetalol hydrochloride	50.000mg	2040000	NA
+144741000033116	72811000001104	Betim 10mg tablets (Meda Pharmaceuticals Ltd)	Betim 10mg tablets	Tablet	Oral	Timolol maleate	10.000mg	NA	NA
+1469141000033112	77311000001105	Trandate 200mg tablets (RPH Pharmaceuticals AB)	Trandate 200mg tablets	Tablet	Oral	Labetalol hydrochloride	200.000mg	2040000	NA
+144141000033115	104011000001101	Beta-Cardone 80mg tablets (Focus Pharmaceuticals Ltd)	Beta-Cardone 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	NA
+514141000033116	106611000001104	Emcor 10mg tablets (Merck Serono Ltd)	Emcor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	NA	NA
+850941000033119	113511000001109	Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg	2040000	NA
+756541000033113	154311000001108	Inderal LA 160mg capsules (AstraZeneca UK Ltd)	Inderal LA 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	NA	NA
+1426441000033116	162411000001102	Tenormin 100mg tablets (AstraZeneca UK Ltd)	Tenormin 100mg tablets	Tablet	Oral	Atenolol	100.000mg	2040000	NA
+90541000033117	181611000001107	Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 100 tablets	Tablet	Oral	Atenolol	100.000mg	2040000	NA
+144541000033112	185111000001102	Betaloc-SA 200mg tablets (AstraZeneca UK Ltd)	Betaloc-SA 200mg tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg	NA	NA
+144341000033117	193911000001101	Betaloc 100mg tablets (AstraZeneca UK Ltd)	Betaloc 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg	NA	NA
+658241000033117	226211000001106	Half Inderal LA 80mg capsules (AstraZeneca UK Ltd)	Half Inderal LA 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	NA	NA
+92541000033118	271911000001106	Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 50 tablets	Tablet	Oral	Atenolol	50.000mg	2040000	NA
+2267441000033110	295911000001102	Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 5mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	1.000mg/1.000ml	2040000	NA
+1278241000033118	298111000001105	Sectral 400mg tablets (Sanofi)	Sectral 400mg tablets	Tablet	Oral	Acebutolol hydrochloride	400.000mg	2040000	NA
+1428741000033112	317111000001101	Tenormin 25mg tablets (AstraZeneca UK Ltd)	Tenormin 25mg tablets	Tablet	Oral	Atenolol	25.000mg	2040000	NA
+939241000033113	329611000001106	Monocor 10mg tablets (Wyeth Pharmaceuticals)	Monocor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	NA	NA
+556941000033118	334711000001101	Eucardic 12.5mg tablets (Roche Products Ltd)	Eucardic 12.5mg tablets	Tablet	Oral	Carvedilol	12.500mg	NA	NA
+939141000033118	349611000001108	Monocor 5mg tablets (Wyeth Pharmaceuticals)	Monocor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	NA	NA
+1424541000033110	373311000001100	Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd)	Tenormin 25mg/5ml syrup	Oral solution	Oral	Atenolol	5.000mg/1.000ml	2040000	NA
+1952641000033116	404511000001105	Cardicor 7.5mg tablets (Merck Serono Ltd)	Cardicor 7.5mg tablets	Tablet	Oral	Bisoprolol fumarate	7.500mg	2040000	NA
+1426541000033115	423911000001107	Tenormin LS 50mg tablets (AstraZeneca UK Ltd)	Tenormin LS 50mg tablets	Tablet	Oral	Atenolol	50.000mg	2040000	NA
+1366041000033112	446211000001108	Sotacor 160mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Sotacor 160mg tablets	Tablet	Oral	Sotalol hydrochloride	160.000mg	2040000	NA
+143941000033116	447111000001104	Beta-Cardone 200mg tablets (Advanz Pharma)	Beta-Cardone 200mg tablets	Tablet	Oral	Sotalol hydrochloride	200.000mg	2040000	NA
+1366141000033111	463811000001109	Sotacor 80mg tablets (Cheplapharm Arzneimittel GmbH)	Sotacor 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	NA
+1347441000033114	473011000001107	Slow-Trasicor 160mg tablets (Advanz Pharma)	Slow-Trasicor 160mg tablets	Modified-release tablet	Oral	Oxprenolol hydrochloride	160.000mg	2040000	NA
+233241000033114	479211000001100	Celectol 400mg tablets (Cheplapharm Arzneimittel GmbH)	Celectol 400mg tablets	Tablet	Oral	Celiprolol hydrochloride	400.000mg	2040000	NA
+91841000033113	482511000001101	Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 25 tablets	Tablet	Oral	Atenolol	25.000mg	2040000	NA
+513941000033117	483911000001101	Emcor LS 5mg tablets (Merck Serono Ltd)	Emcor LS 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+133141000033117	510611000001108	Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd)	Beta-Prograne 160mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	NA
+124241000033112	549611000001106	Bedranol SR 160mg capsules (Sandoz Ltd)	Bedranol SR 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	NA
+768741000033110	567911000001100	Inderal 10mg tablets (AstraZeneca UK Ltd)	Inderal 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg	NA	NA
+2711841000033114	573711000001104	Bedranol SR 80mg capsules (Sandoz Ltd)	Bedranol SR 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	NA
+1469741000033111	592911000001104	Trasicor 40mg tablets (Amdipharm Plc)	Trasicor 40mg tablets	Tablet	Oral	Oxprenolol hydrochloride	40.000mg	NA	NA
+1952341000033112	628711000001102	Cardicor 2.5mg tablets (Merck Serono Ltd)	Cardicor 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg	2040000	NA
+1268141000033119	632811000001105	Sectral 100mg capsules (Sanofi)	Sectral 100mg capsules	Capsule	Oral	Acebutolol hydrochloride	100.000mg	2040000	NA
+1469041000033113	639011000001106	Trandate 100mg tablets (RPH Pharmaceuticals AB)	Trandate 100mg tablets	Tablet	Oral	Labetalol hydrochloride	100.000mg	2040000	NA
+1469241000033117	674711000001109	Trandate 400mg tablets (RPH Pharmaceuticals AB)	Trandate 400mg tablets	Tablet	Oral	Labetalol hydrochloride	400.000mg	2040000	NA
+557041000033117	709911000001107	Eucardic 25mg tablets (Roche Products Ltd)	Eucardic 25mg tablets	Tablet	Oral	Carvedilol	25.000mg	NA	NA
+1952241000033119	712511000001106	Cardicor 1.25mg tablets (Merck Serono Ltd)	Cardicor 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg	2040000	NA
+660741000033115	724111000001103	Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd)	Half Beta-Prograne 80mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	NA
+1796141000033112	726011000001109	Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Nebilet 5mg tablets	Tablet	Oral	Nebivolol hydrochloride	5.000mg	2040000	NA
+850841000033110	756911000001107	Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg	2040000	NA
+768941000033113	821011000001100	Inderal 80mg tablets (AstraZeneca UK Ltd)	Inderal 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg	NA	NA
+1952441000033118	823111000001103	Cardicor 3.75mg tablets (Merck Serono Ltd)	Cardicor 3.75mg tablets	Tablet	Oral	Bisoprolol fumarate	3.750mg	2040000	NA
+2267641000033112	823311000001101	Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 50mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	10.000mg/1.000ml	2040000	NA
+2801941000033119	859411000001109	Soloc 5mg tablets (Mercury Pharma Group Ltd)	Soloc 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+236141000033110	864811000001100	Celectol 200mg tablets (Cheplapharm Arzneimittel GmbH)	Celectol 200mg tablets	Tablet	Oral	Celiprolol hydrochloride	200.000mg	2040000	NA
+69441000033112	877011000001106	Antipressan 25mg tablets (Teva UK Ltd)	Antipressan 25mg tablets	Tablet	Oral	Atenolol	25.000mg	NA	NA
+1952741000033113	890111000001100	Cardicor 10mg tablets (Merck Serono Ltd)	Cardicor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	NA
+144041000033119	900511000001103	Beta-Cardone 40mg tablets (Focus Pharmaceuticals Ltd)	Beta-Cardone 40mg tablets	Tablet	Oral	Sotalol hydrochloride	40.000mg	2040000	NA
+851041000033112	916111000001108	Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor SR 200mg tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg	2040000	NA
+1268241000033114	925711000001108	Sectral 200mg capsules (Sanofi)	Sectral 200mg capsules	Capsule	Oral	Acebutolol hydrochloride	200.000mg	2040000	NA
+768841000033117	930211000001107	Inderal 40mg tablets (AstraZeneca UK Ltd)	Inderal 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg	NA	NA
+2839941000033114	2899011000001105	Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd)	Rapranol SR 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	NA	NA
+375341000033112	3687411000001106	Corgard 80mg tablets (Sanofi)	Corgard 80mg tablets	Tablet	Oral	Nadolol	80.000mg	2040000	NA
+1524041000033111	3706111000001105	Visken 5mg tablets (Advanz Pharma)	Visken 5mg tablets	Tablet	Oral	Pindolol	5.000mg	2040000	NA
+1525141000033111	3887411000001101	Visken 15mg tablets (Advanz Pharma)	Visken 15mg tablets	Tablet	Oral	Pindolol	15.000mg	2040000	NA
+5898341000033113	8304811000001108	Bisoprolol 5mg/5ml oral suspension	Bisoprolol 5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	1.000mg/1.000ml	NA	NA
+5898241000033115	8304911000001103	Bisoprolol 5mg/5ml oral solution	Bisoprolol 5mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	1.000mg/1.000ml	NA	NA
+5898141000033110	8305211000001108	Bisoprolol 1.25mg/5ml oral suspension	Bisoprolol 1.25mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	250.000microgram/1.000ml	NA	NA
+5898041000033111	8305311000001100	Bisoprolol 1.25mg/5ml oral solution	Bisoprolol 1.25mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	250.000microgram/1.000ml	NA	NA
+5288741000033116	8356811000001107	Carvedilol 5mg/5ml oral suspension	Carvedilol 5mg/5ml oral suspension	Oral suspension	Oral	Carvedilol	1.000mg/1.000ml	NA	NA
+6487941000033119	8582311000001109	Labetalol 50mg/5ml oral solution	Labetalol 50mg/5ml oral solution	Oral solution	Oral	Labetalol hydrochloride	10.000mg/1.000ml	NA	NA
+2616041000033116	8668211000001107	Metoprolol 12.5mg/5ml oral solution	Metoprolol 12.5mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	2.500mg/1.000ml	NA	NA
+4815641000033117	8668411000001106	Metoprolol 12.5mg/5ml oral suspension	Metoprolol 12.5mg/5ml oral suspension	Oral suspension	Oral	Metoprolol tartrate	2.500mg/1.000ml	NA	NA
+5575541000033119	8668711000001100	Metoprolol 25mg/5ml oral solution	Metoprolol 25mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	5.000mg/1.000ml	NA	NA
+5972841000033117	8668911000001103	Metoprolol 50mg/5ml oral solution	Metoprolol 50mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	10.000mg/1.000ml	NA	NA
+5972941000033113	8669111000001108	Metoprolol 50mg/5ml oral suspension	Metoprolol 50mg/5ml oral suspension	Oral suspension	Oral	Metoprolol tartrate	10.000mg/1.000ml	NA	NA
+1750241000033113	8672711000001106	Propranolol 40mg/5ml oral solution	Propranolol 40mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml	NA	NA
+5998141000033117	8672811000001103	Propranolol 40mg/5ml oral suspension	Propranolol 40mg/5ml oral suspension	Oral suspension	Oral	Propranolol hydrochloride	8.000mg/1.000ml	NA	NA
+4957141000033117	8672911000001108	Propranolol 80mg/5ml oral solution	Propranolol 80mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	16.000mg/1.000ml	NA	NA
+3953441000033116	8726811000001107	Sotalol 25mg/5ml oral solution	Sotalol 25mg/5ml oral solution	Oral solution	Oral	Sotalol hydrochloride	5.000mg/1.000ml	NA	NA
+9776441000033119	8726911000001102	Sotalol 25mg/5ml oral suspension	Sotalol 25mg/5ml oral suspension	Oral suspension	Oral	Sotalol hydrochloride	5.000mg/1.000ml	NA	NA
+3984541000033111	10241311000001102	Congescor 1.25mg tablets (Tillomed Laboratories Ltd)	Congescor 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg	NA	NA
+3984641000033112	10241511000001108	Congescor 2.5mg tablets (Tillomed Laboratories Ltd)	Congescor 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg	NA	NA
+8536441000033115	12287411000001103	Bisoprolol 10mg/5ml oral suspension	Bisoprolol 10mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	2.000mg/1.000ml	NA	NA
+5991041000033111	12287511000001104	Bisoprolol 2.5mg/5ml oral solution	Bisoprolol 2.5mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	500.000microgram/1.000ml	NA	NA
+4507941000033117	12287611000001100	Bisoprolol 2.5mg/5ml oral suspension	Bisoprolol 2.5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	500.000microgram/1.000ml	NA	NA
+5378241000033112	12300811000001107	Nadolol 40mg/5ml oral suspension	Nadolol 40mg/5ml oral suspension	Oral suspension	Oral	Nadolol	8.000mg/1.000ml	NA	NA
+4267141000033111	14159111000001101	Bisoprolol 7.5mg/5ml oral suspension	Bisoprolol 7.5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	1.500mg/1.000ml	NA	NA
+5898441000033119	15160211000001100	Bisoprolol 625micrograms/5ml oral solution	Bisoprolol 625micrograms/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	125.000microgram/1.000ml	NA	NA
+5898541000033118	15160311000001108	Bisoprolol 625micrograms/5ml oral suspension	Bisoprolol 625micrograms/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	125.000microgram/1.000ml	NA	NA
+4955941000033111	15307311000001100	Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 40mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml	NA	NA
+4955841000033115	15356211000001102	Propranolol 40mg/5ml oral solution sugar free	Propranolol 40mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml	NA	NA
+7871341000033114	16109911000001102	Nadolol 30mg/5ml oral solution	Nadolol 30mg/5ml oral solution	Oral solution	Oral	Nadolol	6.000mg/1.000ml	NA	NA
+10650141000033117	16110011000001107	Nadolol 30mg/5ml oral suspension	Nadolol 30mg/5ml oral suspension	Oral suspension	Oral	Nadolol	6.000mg/1.000ml	NA	NA
+5814141000033119	16130911000001101	Nadolol 20mg/5ml oral solution	Nadolol 20mg/5ml oral solution	Oral solution	Oral	Nadolol	4.000mg/1.000ml	NA	NA
+10650041000033116	16131011000001109	Nadolol 20mg/5ml oral suspension	Nadolol 20mg/5ml oral suspension	Oral suspension	Oral	Nadolol	4.000mg/1.000ml	NA	NA
+10025241000033112	28365311000001102	Bisoprolol 10mg / Aspirin 100mg capsules	Bisoprolol 10mg / Aspirin 100mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	100.000mg + 10.000mg	NA	NA
+10025141000033117	28365411000001109	Bisoprolol 10mg / Aspirin 75mg capsules	Bisoprolol 10mg / Aspirin 75mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	75.000mg + 10.000mg	NA	NA
+10025041000033116	28365611000001107	Bisoprolol 5mg / Aspirin 100mg capsules	Bisoprolol 5mg / Aspirin 100mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	100.000mg + 5.000mg	NA	NA
+10024941000033116	28365711000001103	Bisoprolol 5mg / Aspirin 75mg capsules	Bisoprolol 5mg / Aspirin 75mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	75.000mg + 5.000mg	NA	NA
+90441000033118	35903211000001107	Atenolol 25mg/5ml oral solution sugar free	Atenolol 25mg/5ml oral solution sugar free	Oral solution	Oral	Atenolol	5.000mg/1.000ml	2100100	NA
+1125341000033118	35932311000001101	Propranolol 10mg/5ml oral solution sugar free	Propranolol 10mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	2.000mg/1.000ml	2040000	NA
+1125541000033113	35932711000001102	Propranolol 50mg/5ml oral solution sugar free	Propranolol 50mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	10.000mg/1.000ml	2040000	NA
+1125441000033112	35932811000001105	Propranolol 5mg/5ml oral solution sugar free	Propranolol 5mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	1.000mg/1.000ml	2040000	NA
+1026041000033118	36023011000001102	Oxprenolol 160mg modified-release tablets	Oxprenolol 160mg modified-release tablets	Modified-release tablet	Oral	Oxprenolol hydrochloride	160.000mg	2040000	NA
+891641000033111	36035411000001108	Metoprolol 200mg modified-release tablets	Metoprolol 200mg modified-release tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg	2040000	NA
+12682341000033117	36106311000001108	Bedranol 10mg tablets (Ennogen Pharma Ltd)	Bedranol 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg	NA	NA
+12682441000033111	36106511000001102	Bedranol 40mg tablets (Ennogen Pharma Ltd)	Bedranol 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg	NA	NA
+12682641000033113	36106711000001107	Bedranol 80mg tablets (Ennogen Pharma Ltd)	Bedranol 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg	NA	NA
+12682741000033116	36107111000001109	Bedranol 160mg tablets (Ennogen Pharma Ltd)	Bedranol 160mg tablets	Tablet	Oral	Propranolol hydrochloride	160.000mg	NA	NA
+210141000033116	NA	Carvedilol Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
+1027241000033112	NA	Oxprenolol Hydrochloride Tablets 160 mg	NA	NA	NA	NA	NA	NA	NA
+1111441000033118	NA	Propranolol Hydrochloride Capsules 160 mg	NA	NA	NA	NA	NA	NA	NA
+903641000033115	NA	Metoprolol Tartrate Tablets 200 mg	NA	NA	NA	NA	NA	NA	NA
+890741000033112	NA	Metoprolol Fumarate S/r tablets 95 mg	NA	NA	NA	NA	NA	NA	NA
+1128041000033113	NA	Propranolol Hydrochloride M/R tablets 160 mg	NA	NA	NA	NA	NA	NA	NA
+1112341000033115	NA	Propranolol Hydrochloride Capsules 80 mg	NA	NA	NA	NA	NA	NA	NA
+151441000033111	NA	Bisoprolol Fumarate Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
+3161341000033118	318546001	Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets	Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	12.500mg + 100.000mg	NA	NA
+3163141000033117	318552000	Pindolol 10mg / Clopamide 5mg tablets	Pindolol 10mg / Clopamide 5mg tablets	Tablet	Oral	Clopamide/ Pindolol	5.000mg + 10.000mg	2040000	NA
+3346641000033118	318556002	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Tablet	Oral	Bendroflumethiazide/ Timolol maleate	2.500mg + 10.000mg	2040000	NA
+3162941000033114	318586009	Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets	Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Acebutolol hydrochloride/ Hydrochlorothiazide	200.000mg + 12.500mg	NA	NA
+5376441000033114	16458411000001107	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd)	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	NA
+3246941000033118	35903311000001104	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
+13577541000033118	38659211000001107	Nebivolol 1.25mg tablets	Nebivolol 1.25mg tablets	Tablet	Oral	Nebivolol hydrochloride	1.250mg	NA	NA
+1130041000033112	38751111000001107	Propranolol 80mg modified-release capsules	Propranolol 80mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	NA
+1124041000033116	38751211000001101	Propranolol 160mg modified-release capsules	Propranolol 160mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	NA
+376441000033110	318575007	Co-tenidone 50mg/12.5mg tablets	Co-tenidone 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	NA
+376541000033111	377211005	Co-tenidone 100mg/25mg tablets	Co-tenidone 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	NA
+935341000033118	74311000001101	Moducren tablets (Merck Sharp & Dohme Ltd)	Moducren tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	NA
+1132741000033111	98411000001109	Prestim tablets (Meda Pharmaceuticals Ltd)	Prestim tablets	Tablet	Oral	Bendroflumethiazide/ Timolol maleate	2.500mg + 10.000mg	2040000	NA
+90741000033113	101411000001108	Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix Co 100 tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	NA
+793741000033117	237011000001100	Kalten capsules (M & A Pharmachem Ltd)	Kalten capsules	Capsule	Oral	Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide	2.500mg + 50.000mg + 25.000mg	2040000	NA
+2929141000033117	240711000001100	Slo-Pro 160mg capsules (Mylan)	Slo-Pro 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	NA
+1426341000033110	288711000001105	Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd)	Tenoretic 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	NA
+1425541000033114	298311000001107	Tenchlor 100mg/25mg tablets (Teva UK Ltd)	Tenchlor 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	NA	NA
+756641000033114	333111000001104	Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd)	Inderetic 80mg/2.5mg capsules	Capsule	Oral	Bendroflumethiazide/ Propranolol hydrochloride	2.500mg + 80.000mg	NA	NA
+756741000033117	350811000001100	Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd)	Inderex 160mg/5mg modified-release capsules	Modified-release capsule	Oral	Bendroflumethiazide/ Propranolol hydrochloride	5.000mg + 160.000mg	NA	NA
+2638141000033114	405411000001107	Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Bipranix 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	NA
+1425441000033113	439411000001104	Tenchlor 50mg/12.5mg tablets (Teva UK Ltd)	Tenchlor 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	NA	NA
+2638041000033110	501211000001103	Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Bipranix 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+2802041000033113	544711000001103	Soloc 10mg tablets (Mercury Pharma Group Ltd)	Soloc 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	NA
+1469841000033118	568511000001106	Trasicor 80mg tablets (Amdipharm Plc)	Trasicor 80mg tablets	Tablet	Oral	Oxprenolol hydrochloride	80.000mg	NA	NA
+92441000033119	629011000001109	Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix Co 50 tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	NA
+1609041000033112	690511000001101	Eucardic 6.25mg tablets (Roche Products Ltd)	Eucardic 6.25mg tablets	Tablet	Oral	Carvedilol	6.250mg	NA	NA
+1414241000033117	721411000001106	Tenben 25mg/1.25mg capsules (Galen Ltd)	Tenben 25mg/1.25mg capsules	Capsule	Oral	Atenolol/ Bendroflumethiazide	25.000mg + 1.250mg	NA	NA
+70941000033117	734011000001102	Antipressan 100mg tablets (Teva UK Ltd)	Antipressan 100mg tablets	Tablet	Oral	Atenolol	100.000mg	NA	NA
+1426241000033117	825011000001103	Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd)	Tenoret 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	NA
+1608941000033115	873111000001104	Eucardic 3.125mg tablets (Roche Products Ltd)	Eucardic 3.125mg tablets	Tablet	Oral	Carvedilol	3.125mg	NA	NA
+71041000033110	874711000001101	Antipressan 50mg tablets (Teva UK Ltd)	Antipressan 50mg tablets	Tablet	Oral	Atenolol	50.000mg	NA	NA
+1274641000033111	878911000001106	Secadrex 200mg/12.5mg tablets (Sanofi)	Secadrex 200mg/12.5mg tablets	Tablet	Oral	Acebutolol hydrochloride/ Hydrochlorothiazide	200.000mg + 12.500mg	NA	NA
+2839841000033118	2899211000001100	Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd)	Rapranol SR 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	NA	NA
+372741000033116	2977611000001106	Co-Betaloc tablets (Pfizer Ltd)	Co-Betaloc tablets	Tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	12.500mg + 100.000mg	NA	NA
+1414941000033114	3142511000001102	Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd)	Tenif 50mg/20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
+124341000033119	3142711000001107	Beta-Adalat modified-release capsules (Bayer Plc)	Beta-Adalat modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
+1469641000033119	3379011000001106	Trasicor 20mg tablets (Amdipharm Plc)	Trasicor 20mg tablets	Tablet	Oral	Oxprenolol hydrochloride	20.000mg	NA	NA
+1469941000033114	3444411000001107	Trasidrex modified-release tablets (Mercury Pharma Group Ltd)	Trasidrex modified-release tablets	Modified-release tablet	Oral	Cyclopenthiazide/ Oxprenolol hydrochloride	250.000microgram + 160.000mg	NA	NA
+1523941000033114	3638411000001101	Viskaldix tablets (Advanz Pharma)	Viskaldix tablets	Tablet	Oral	Clopamide/ Pindolol	5.000mg + 10.000mg	2040000	NA
+375241000033119	3686511000001108	Corgard 40mg tablets (Sanofi-Synthelabo Ltd)	Corgard 40mg tablets	Tablet	Oral	Nadolol	40.000mg	NA	NA
+372841000033114	3853411000001104	Co-Betaloc SA tablets (Pfizer Ltd)	Co-Betaloc SA tablets	Modified-release tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	25.000mg + 200.000mg	NA	NA
+375441000033118	3886211000001102	Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd)	Corgaretic 40mg tablets	Tablet	Oral	Bendroflumethiazide/ Nadolol	5.000mg + 40.000mg	NA	NA
+375541000033117	4057911000001102	Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd)	Corgaretic 80mg tablets	Tablet	Oral	Bendroflumethiazide/ Nadolol	5.000mg + 80.000mg	NA	NA
+937341000033111	4542911000001104	Monozide 10 tablets (Wyeth Pharmaceuticals)	Monozide 10 tablets	Tablet	Oral	Bisoprolol fumarate/ Hydrochlorothiazide	10.000mg + 6.250mg	NA	NA
+2866041000033110	9105811000001100	Vivacor 5mg tablets (Lexon (UK) Ltd)	Vivacor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	NA
+2866141000033114	9739311000001105	Vivacor 10mg tablets (Lexon (UK) Ltd)	Vivacor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	NA
+5052641000033111	15413311000001102	Hypoloc 5mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Hypoloc 5mg tablets	Tablet	Oral	Nebivolol hydrochloride	5.000mg	NA	NA
+377341000033119	36091611000001101	Co-prenozide 160mg/0.25mg modified-release tablets	Co-prenozide 160mg/0.25mg modified-release tablets	Modified-release tablet	Oral	Cyclopenthiazide/ Oxprenolol hydrochloride	250.000microgram + 160.000mg	NA	NA
+557141000033118	NA	Eucardic Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
+849941000033112	NA	Lopresoretic Tablets	NA	NA	NA	NA	NA	NA	NA
+1132841000033118	NA	Prestim Forte Tablets	NA	NA	NA	NA	NA	NA	NA
+5333041000033112	NA	Lopresor Retard M/R tablets 200 mg	NA	NA	NA	NA	NA	NA	NA
+92341000033113	NA	Atenixco 50 Tablets 12.5 mg	NA	NA	NA	NA	NA	NA	NA
+1469541000033115	NA	Trasicor Tablets 160 mg	NA	NA	NA	NA	NA	NA	NA
+1366241000033116	NA	Sotazide Tablets	NA	NA	NA	NA	NA	NA	NA
+1374441000033117	NA	Spiroprop Tablets	NA	NA	NA	NA	NA	NA	NA
