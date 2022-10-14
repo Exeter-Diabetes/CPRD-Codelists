@@ -1,0 +1,10 @@
+ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+1325141000033113	892311000001104	Singulair Paediatric 5mg chewable tablets (Merck Sharp & Dohme Ltd)	Singulair Paediatric 5mg chewable tablets	Chewable tablet	Oral	Montelukast sodium	5.000mg	3030200	NA
+1296441000033114	719811000001104	Singulair 10mg tablets (Merck Sharp & Dohme Ltd)	Singulair 10mg tablets	Tablet	Oral	Montelukast sodium	10.000mg	3030200	NA
+2272541000033115	863011000001109	Singulair Paediatric 4mg chewable tablets (Merck Sharp & Dohme Ltd)	Singulair Paediatric 4mg chewable tablets	Chewable tablet	Oral	Montelukast sodium	4.000mg	3030200	NA
+3037941000033113	6741711000001104	Singulair Paediatric 4mg granules sachets (Merck Sharp & Dohme Ltd)	Singulair Paediatric 4mg granules sachets	Granules	Oral	Montelukast sodium	4.000mg	3030200	NA
+932241000033115	320885001	Montelukast 5mg chewable tablets sugar free	Montelukast 5mg chewable tablets sugar free	Chewable tablet	Oral	Montelukast sodium	5.000mg	3030200	NA
+923641000033111	320884002	Montelukast 10mg tablets	Montelukast 10mg tablets	Tablet	Oral	Montelukast sodium	10.000mg	3030200	NA
+2272441000033116	134510006	Montelukast 4mg chewable tablets sugar free	Montelukast 4mg chewable tablets sugar free	Chewable tablet	Oral	Montelukast sodium	4.000mg	3030200	NA
+3037841000033117	410944008	Montelukast 4mg granules sachets sugar free	Montelukast 4mg granules sachets sugar free	Granules	Oral	Montelukast sodium	4.000mg	3030200	NA
+1713441000033111	320889007	Zafirlukast 20mg tablets	Zafirlukast 20mg tablets	Tablet	Oral	Zafirlukast	20.000mg	3030200	NA
