@@ -1,0 +1,98 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+3092241000033113	317971007	Furosemide 20mg tablets	Furosemide 20mg tablets	Tablet	Oral	Furosemide	20.000mg	2020200	NA
+3092341000033115	317972000	Furosemide 40mg tablets	Furosemide 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	NA
+3092441000033114	317973005	Furosemide 500mg tablets	Furosemide 500mg tablets	Tablet	Oral	Furosemide	500.000mg	2020200	NA
+172441000033118	318021009	Bumetanide 1mg tablets	Bumetanide 1mg tablets	Tablet	Oral	Bumetanide	1.000mg	2020200	NA
+172541000033117	318022002	Bumetanide 5mg tablets	Bumetanide 5mg tablets	Tablet	Oral	Bumetanide	5.000mg	2020200	NA
+169041000033112	318023007	Bumetanide 1mg/5ml oral solution sugar free	Bumetanide 1mg/5ml oral solution sugar free	Oral solution	Oral	Bumetanide	200.000microgram/1.000ml	2020200	NA
+1450241000033116	318040003	Torasemide 2.5mg tablets	Torasemide 2.5mg tablets	Tablet	Oral	Torasemide	2.500mg	2020200	NA
+1450341000033114	318041004	Torasemide 5mg tablets	Torasemide 5mg tablets	Tablet	Oral	Torasemide	5.000mg	2020200	NA
+1450141000033111	318042006	Torasemide 10mg tablets	Torasemide 10mg tablets	Tablet	Oral	Torasemide	10.000mg	2020200	NA
+1845641000033119	318097001	Amiloride 5mg / Bumetanide 1mg tablets	Amiloride 5mg / Bumetanide 1mg tablets	Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	2020400	NA
+3092741000033119	318101005	Triamterene 50mg / Furosemide 40mg tablets	Triamterene 50mg / Furosemide 40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	NA
+3162541000033115	318102003	Spironolactone 50mg / Furosemide 20mg capsules	Spironolactone 50mg / Furosemide 20mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	NA
+376841000033113	318135008	Co-amilofruse 2.5mg/20mg tablets	Co-amilofruse 2.5mg/20mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	NA
+376641000033112	318136009	Co-amilofruse 5mg/40mg tablets	Co-amilofruse 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
+376741000033115	318137000	Co-amilofruse 10mg/80mg tablets	Co-amilofruse 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	NA
+811841000033111	9611000001104	Lasix 20mg/2ml solution for injection ampoules (Sanofi)	Lasix 20mg/2ml solution for injection ampoules	Solution for injection	Intramuscular/ Intravenous	Furosemide	10.000mg/1.000ml	2020200	NA
+615041000033112	25411000001108	Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd)	Frusene 50mg/40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	NA
+172341000033112	33911000001104	Burinex A 5mg/1mg tablets (LEO Pharma)	Burinex A 5mg/1mg tablets	Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	NA	NA
+816441000033118	79411000001107	Lasix 40mg tablets (Sanofi)	Lasix 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	NA
+615641000033118	82611000001106	Frumil Forte 10mg/80mg tablets (Sanofi)	Frumil Forte 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	NA
+615141000033111	99311000001108	Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Frusid 40mg tablets	Tablet	Oral	Furosemide	40.000mg	NA	NA
+1611441000033117	331311000001103	Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
+614641000033117	427411000001106	Frumil 40mg/5mg tablets (Sanofi)	Frumil 40mg/5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
+1731641000033119	494811000001105	Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 40mg/5ml oral solution	Oral solution	Gastroenteral/ Oral	Furosemide	8.000mg/1.000ml	2020200	NA
+172841000033115	521811000001107	Burinex 5mg tablets (LEO Pharma)	Burinex 5mg tablets	Tablet	Oral	Bumetanide	5.000mg	NA	NA
+614341000033113	550711000001106	Frumil LS 20mg/2.5mg tablets (Sanofi)	Frumil LS 20mg/2.5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	NA
+1731541000033115	602811000001100	Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 20mg/5ml oral solution	Oral solution	Oral	Furosemide	4.000mg/1.000ml	2020200	NA
+818941000033112	678511000001106	Lasoride 5mg/40mg tablets (Sanofi)	Lasoride 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
+812041000033114	701111000001105	Lasix 5mg/5ml oral solution (Borg Medicare)	Lasix 5mg/5ml oral solution	Oral solution	Oral	Furosemide	1.000mg/1.000ml	NA	NA
+816341000033112	701611000001102	Lasix 20mg tablets (Borg Medicare)	Lasix 20mg tablets	Tablet	Oral	Furosemide	20.000mg	2020200	NA
+615541000033119	714311000001107	Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	NA
+615241000033116	818511000001106	Fru-Co 5mg/40mg tablets (Teva UK Ltd)	Fru-Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
+816541000033117	829911000001102	Lasix 500mg tablets (Sanofi)	Lasix 500mg tablets	Tablet	Oral	Furosemide	500.000mg	2020200	NA
+172741000033113	846411000001100	Burinex 1mg tablets (LEO Pharma)	Burinex 1mg tablets	Tablet	Oral	Bumetanide	1.000mg	NA	NA
+1731741000033111	855611000001109	Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 50mg/5ml oral solution	Oral solution	Oral	Furosemide	10.000mg/1.000ml	2020200	NA
+3092641000033111	2898811000001106	Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd)	Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes	Solution for injection	Intramuscular/ Intravenous	Furosemide	10.000mg/1.000ml	NA	NA
+172941000033111	3290211000001109	Burinex K modified-release tablets (LEO Pharma)	Burinex K modified-release tablets	Modified-release tablet	Oral	Bumetanide/ Potassium chloride	500.000microgram + 573.000mg	NA	NA
+808841000033119	3645811000001107	Lasilactone 20mg/50mg capsules (Sanofi)	Lasilactone 20mg/50mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	NA
+1449941000033115	3699711000001107	Torem 2.5mg tablets (Mylan)	Torem 2.5mg tablets	Tablet	Oral	Torasemide	2.500mg	2020200	NA
+1450041000033112	3700311000001109	Torem 5mg tablets (Mylan)	Torem 5mg tablets	Tablet	Oral	Torasemide	5.000mg	2020200	NA
+1449841000033111	3700811000001100	Torem 10mg tablets (Mylan)	Torem 10mg tablets	Tablet	Oral	Torasemide	10.000mg	2020200	NA
+816141000033114	3704811000001105	Lasikal modified-release tablets (Borg Medicare)	Lasikal modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	20.000mg + 750.000mg	NA	NA
+470541000033117	4540011000001102	Diumide-K Continus tablets (Teofarma)	Diumide-K Continus tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	40.000mg + 600.000mg	NA	NA
+3161841000033110	4557711000001102	Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets	Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	40.000mg + 600.000mg	NA	NA
+5710441000033117	8427011000001108	Co-amilofruse 5mg/40mg/5ml oral suspension	Co-amilofruse 5mg/40mg/5ml oral suspension	Oral suspension	Oral	Amiloride hydrochloride/ Furosemide	1.000mg/1.000ml + 8.000mg/1.000ml	NA	NA
+3924941000033113	13893411000001108	Furosemide 5mg/5ml oral solution	Furosemide 5mg/5ml oral solution	Oral solution	Oral	Furosemide	1.000mg/1.000ml	NA	NA
+5993341000033112	13893511000001107	Furosemide 5mg/5ml oral suspension	Furosemide 5mg/5ml oral suspension	Oral suspension	Oral	Furosemide	1.000mg/1.000ml	NA	NA
+9808241000033110	27992311000001106	Diuresal 500mg tablets (Ennogen Pharma Ltd)	Diuresal 500mg tablets	Tablet	Oral	Furosemide	500.000mg	NA	NA
+10713941000033113	30798811000001102	Bumetanide 5mg/5ml oral suspension	Bumetanide 5mg/5ml oral suspension	Oral suspension	Oral	Bumetanide	1.000mg/1.000ml	NA	NA
+3954441000033119	34193711000001108	Furosemide 250mg/25ml solution for injection ampoules	Furosemide 250mg/25ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Furosemide	10.000mg/1.000ml	NA	NA
+3858741000033112	35912911000001108	Bumetanide 2mg/4ml solution for injection ampoules	Bumetanide 2mg/4ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Bumetanide	500.000microgram/1.000ml	2020200	NA
+1845741000033111	35913011000001100	Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets	Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets	Modified-release tablet	Oral	Bumetanide/ Potassium chloride	500.000microgram + 573.000mg	NA	NA
+3162441000033116	36061311000001109	Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets	Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	20.000mg + 750.000mg	NA	NA
+3091841000033115	36061411000001102	Furosemide 20mg/2ml solution for injection ampoules	Furosemide 20mg/2ml solution for injection ampoules	Solution for injection	Intramuscular/ Intravenous	Furosemide	10.000mg/1.000ml	2020200	NA
+3091741000033113	36061511000001103	Furosemide 50mg/5ml solution for injection ampoules	Furosemide 50mg/5ml solution for injection ampoules	Solution for injection	Intramuscular/ Intravenous	Furosemide	10.000mg/1.000ml	NA	NA
+3092541000033110	36061611000001104	Furosemide 80mg/8ml solution for injection pre-filled syringes	Furosemide 80mg/8ml solution for injection pre-filled syringes	Solution for injection	Intravenous/ Intramuscular	Furosemide	10.000mg/1.000ml	NA	NA
+3092141000033118	36564411000001102	Furosemide 50mg/5ml oral solution sugar free	Furosemide 50mg/5ml oral solution sugar free	Oral solution	Oral	Furosemide	10.000mg/1.000ml	2020200	NA
+3092041000033117	39021211000001101	Furosemide 40mg/5ml oral solution sugar free	Furosemide 40mg/5ml oral solution sugar free	Oral solution	Gastroenteral/ Oral	Furosemide	8.000mg/1.000ml	2020200	NA
+3091941000033111	39108611000001107	Furosemide 20mg/5ml oral solution sugar free	Furosemide 20mg/5ml oral solution sugar free	Oral solution	Oral	Furosemide	4.000mg/1.000ml	2020200	NA
+550041000033116	NA	Ethacrynic Acid Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
+1083941000033117	NA	Piretanide Capsules 6 mg	NA	NA	NA	NA	NA	NA	NA
+1446341000033113	NA	Torasemide Injection 10 mg/2 ml	NA	NA	NA	NA	NA	NA	NA
+1446441000033119	NA	Torasemide Injection 20 mg/4 ml	NA	NA	NA	NA	NA	NA	NA
+171941000033116	NA	Bumetanide K Tablets	NA	NA	NA	NA	NA	NA	NA
+167341000033118	NA	Bumetanide Injection 500 micrograms/ml	NA	NA	NA	NA	NA	NA	NA
+547841000033110	NA	Ethacrynic Acid Injection 50 mg	NA	NA	NA	NA	NA	NA	NA
+450241000033116	NA	Diuresal Injection 10 mg/ml	NA	NA	NA	NA	NA	NA	NA
+482941000033115	NA	Dryptal Injection 20 mg/2 ml	NA	NA	NA	NA	NA	NA	NA
+612341000033119	NA	Frusemide Paediatric Liquid Sugar Free 1 mg/ml	NA	NA	NA	NA	NA	NA	NA
+610741000033119	NA	Frusemide Injection 50 mg/5 ml ampoule	NA	NA	NA	NA	NA	NA	NA
+614741000033114	NA	Frusemide Tablets 20 mg	NA	NA	NA	NA	NA	NA	NA
+614841000033116	NA	Frusemide Tablets 40 mg	NA	NA	NA	NA	NA	NA	NA
+816241000033119	NA	Lasipressin Tablets	NA	NA	NA	NA	NA	NA	NA
+1446141000033110	NA	Torem Injection 10 mg/2 ml	NA	NA	NA	NA	NA	NA	NA
+1446241000033115	NA	Torem Injection 20 mg/4 ml	NA	NA	NA	NA	NA	NA	NA
+2068141000033114	NA	Min-I-Jet Frusemide Injection 10 mg/ml, 8 ml syringe	NA	NA	NA	NA	NA	NA	NA
+816641000033116	NA	Lasix + K Tablets	NA	NA	NA	NA	NA	NA	NA
+1846841000033111	NA	Triamterene And Frusemide Tablets 50 mg + 40 mg	NA	NA	NA	NA	NA	NA	NA
+496641000033110	NA	Edecrin Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
+485141000033111	NA	Dryptal Tablets 500 mg	NA	NA	NA	NA	NA	NA	NA
+614041000033111	NA	Frusemide Oral solution Sugar Free 8 mg/ml	NA	NA	NA	NA	NA	NA	NA
+470641000033116	NA	Diuresal Tablets 40 mg	NA	NA	NA	NA	NA	NA	NA
+483041000033113	NA	Dryptal Injection 50 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
+614941000033112	NA	Frusemide Tablets 500 mg	NA	NA	NA	NA	NA	NA	NA
+2068041000033110	NA	Frusemide Injection 10 mg/ml, 8 ml syringe	NA	NA	NA	NA	NA	NA	NA
+811941000033115	NA	Lasix Injection 10 mg/ml	NA	NA	NA	NA	NA	NA	NA
+77541000033112	NA	Arelix Capsules 6 mg	NA	NA	NA	NA	NA	NA	NA
+484741000033114	NA	Dryptal Tablets 40 mg	NA	NA	NA	NA	NA	NA	NA
+496441000033113	NA	Edecrin Injection 50 mg	NA	NA	NA	NA	NA	NA	NA
+610641000033111	NA	Frusemide Injection 250 mg/25 ml ampoule	NA	NA	NA	NA	NA	NA	NA
+613941000033114	NA	Frusemide Oral solution Sugar Free 4 mg/ml	NA	NA	NA	NA	NA	NA	NA
+811141000033117	NA	Lasix Injection 250 mg/25 ml	NA	NA	NA	NA	NA	NA	NA
+811241000033112	NA	Lasix Injection 50 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
+169141000033111	NA	Burinex Liquid 1 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
+611741000033112	NA	Frusemide Injection 20 mg/2 ml ampoule	NA	NA	NA	NA	NA	NA	NA
+167541000033113	NA	Burinex Injection 500 micrograms/ml	NA	NA	NA	NA	NA	NA	NA
+613841000033118	NA	Frusemide Oral solution Sugar Free 10 mg/ml	NA	NA	NA	NA	NA	NA	NA
