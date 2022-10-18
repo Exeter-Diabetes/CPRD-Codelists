@@ -1,0 +1,31 @@
+medcodeid	term_medcode
+317533012	[D]Nocturia
+11625011	Nocturia
+217701000000114	Urinary frequency
+11811671000006119	Frequent urination
+317529017	Increased frequency of urination
+4546651000006115	Passes water too often
+4546681000006111	Urinary frequency
+4546671000006113	Pollakisuria
+4546641000006117	Pollakiuria
+12704781000006114	Frequency of micturition
+4546631000006110	Increased frequency of micturition
+317534018	[D]Frequency of micturition or polyuria NOS
+317528013	Micturition frequency and polyuria
+2956851000006119	Passes too much urine
+317532019	[D]Polyuria
+47612016	Polyuria
+215531000006114	Polyuria
+1490597011	Frequency of micturition
+252783013	Micturition frequency NOS
+794711000006117	Frequency of micturition
+5880471000006112	Finding of frequency of urination
+5880491000006113	Frequency of urination
+217691000000114	Observation of frequency of urination
+5880511000006119	Periodicity of micturition
+5880501000006117	FOM - Frequency of micturition
+8036881000006112	Urinary frequency due to benign prostatic hypertrophy
+7970051000006113	Nocturia due to benign prostatic hypertrophy
+5269651000006116	Infrequent urination
+5269661000006119	Does not urinate often enough
+6255291000006115	Frequency of urination
