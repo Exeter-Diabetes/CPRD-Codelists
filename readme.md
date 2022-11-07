@@ -107,3 +107,8 @@ Diagnosis date is earliest of:
 
 &nbsp;
 
+### Townsend Deprivation Scores
+* 2015 Index of Multiple Deprivation (IMD) deciles were converted to 2011 Townsend Deprivation Scores (TDS) by matching on 2011 Lower Super Output Area (LSOA) and using the median TDS score of LSOAs with the same IMD decile of the patient
+
+&nbsp;
+
