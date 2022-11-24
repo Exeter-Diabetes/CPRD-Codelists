@@ -80,6 +80,7 @@ Diagnosis date is earliest of:
       * If diagnosed <35 years of age and on insulin within 1 year of diagnosis, Type 1, otherwise Type 2
     * If time between diagnosis date and start of insulin treatment is not available (i.e. diagnosis date < start of registration):
       * If diagnosed <35 years and not currently taking a non-insulin glucose lowering medication (no prescription for a non-insulin glucose lowering medication within 6 months of end of records (earliest of death/deregistration/last collection date from Practice)), Type 1, otherwise Type 2
+See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4 for how this compares to other methods for classifying Type 1 and Type 2 diabetes.
       
 &nbsp;
 
