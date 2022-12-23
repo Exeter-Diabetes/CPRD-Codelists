@@ -1,0 +1,86 @@
+medcodeid	term_medcode
+2904011	Candidiasis of vulva
+2515651000006112	Vulval candidosis
+2515641000006110	Vulval thrush
+2515631000006117	Vulval candidiasis
+287555014	Other urogenital candida NOS
+287547019	Candidiasis of urogenital site
+304276013	Candidal urethritis
+304749014	Vulvovaginitis in diseases EC
+4791751000006111	Vulvovaginitis associated with another disorder
+5103171000006119	Cervical candidosis
+5103161000006114	Candidiasis of cervix
+533491000006110	Candidiasis cervix
+5093017	Acute gonococcal vulvovaginitis
+360541011	Anogenital candidosis
+5151051000006115	Genital candidosis
+5151011000006116	Anogenital thrush
+5151041000006117	Anogenital candida infection
+360545019	Anogenital candidiasis
+5151031000006110	Genital candidiasis
+5151081000006111	Monilial infection of penis
+5151091000006114	Penile candida
+5151101000006115	Penile candidosis
+5151071000006113	Penile thrush
+237911000006111	Penile candidiasis
+304754017	Vaginitis and vulvovaginitis NOS
+304746019	Vulvovaginitis
+304741012	Vaginitis and vulvovaginitis
+120590012	Candidal vulvovaginitis
+120591011	Monilial vulvovaginitis
+395436014	Candidal vulvovaginitis NOS
+3680711000006111	Vulvovaginal thrush
+1233568012	Vaginal thrush
+3686511000006118	Monilial infection of vagina
+3686501000006116	Vaginal candida
+3686521000006114	Candida of vagina
+121148017	Candidiasis of vagina
+3686491000006112	Vaginal candidosis
+3686471000006111	Vaginal candidiasis
+9321871000006117	Subacute vaginitis
+8034021000006112	Desquamative inflammatory vaginitis
+8034811000006110	Reactive arthritis co-occurrent and due to nonspecific urethritis
+8034821000006119	Bacterial vaginosis in pregnancy
+8034831000006116	Bacterial vaginitis in pregnancy
+3513973014	Candidiasis of vagina in pregnancy
+20535018	Chronic gonococcal vulvovaginitis
+2725681000006113	Chronic vaginitis
+887181000006115	Vaginitis/vulvovaginitis
+11902781000006111	Vaginitis and vulvovaginitis
+304747011	Vaginitis in diseases EC
+4791711000006110	Vaginitis associated with another disorder
+304750014	Subacute and chronic vaginitis
+5103251000006116	Infective vaginitis
+5103271000006114	PV - Vaginal infection
+5103261000006119	Vaginal infection
+5103281000006112	Prepubertal vaginitis
+5103301000006111	Gonococcal vulvovaginitis
+5150991000006115	Candida infection of genital region
+2891341000006115	Acute vaginitis
+2996451000006114	Inflammation of vagina
+304742017	Vaginitis
+6669001000006112	Infective dermatosis of male genitalia
+6669011000006110	Infective dermatosis of female genitalia
+6937801000006117	Gardnerella vaginalis infection
+6937791000006118	Gardnerella infection
+6937811000006119	Vaginitis due to Gardnerella vaginalis
+6937781000006116	Gardnerella vaginitis
+2580234013	Bacterial vaginitis
+106489015	Gardnerella vaginalis
+6942631000006112	Nonspecific vaginitis
+6942621000006114	NSV - Nonspecific vaginitis
+11875901000006111	Nonspecific bacterial vaginosis
+6942591000006112	AV - Anaerobic vaginosis
+2577731014	Bacterial vaginosis
+6942601000006116	BV - Bacterial vaginosis
+7085641000006112	Vaginitis in pregnancy
+879541000006116	Penile candida
+3353521000006116	Candida balanitis
+87611012	Candidal balanitis
+2609831000006110	Chronic vulvovaginitis
+7612301000006118	Genital tract infection in puerperium
+453237013	[X]Cervicitis following delivery
+453238015	[X]Vaginitis following delivery
+7628891000006111	Recurrent candidiasis of vagina
+3966351000006111	Acute vulvovaginitis
+431631000006118	[X]Vaginits,vulvits+vulvovaginitis/infect+parasitc diseas CE

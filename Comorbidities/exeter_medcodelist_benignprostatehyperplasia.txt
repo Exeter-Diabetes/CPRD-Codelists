@@ -1,0 +1,46 @@
+medcodeid	term_medcode
+304383016	Prostatic hyperplasia of the lateral lobe
+304384010	Prostatic hyperplasia of the medial lobe
+5493331000006118	Prostatic area hypertrophy
+5493351000006113	BPH - Benign prostatic hypertrophy
+5493301000006114	Benign enlargement of prostate
+5493281000006110	Prostatic hypertrophy
+5493291000006113	Benign myoma of prostate
+645331000006112	Benign prostatic hyperplasia
+5493361000006110	Nodular hyperplasia of prostate gland
+5493321000006116	Benign fibroma of prostate
+396738018	Benign prostatic hypertrophy
+11851221000006114	BPH - benign prostatic hyperplasia
+396742015	BPH - Benign prostatic hypertrophy
+5493341000006111	BEP - Benign enlargement of prostate
+5097061000006111	Benign prostatic hypertrophy with outflow obstruction
+5352601000006114	Benign prostatic hypertrophy without outflow obstruction
+304385011	Prostatic hyperplasia NOS
+304382014	Hyperplasia of prostate
+35587011	Adenoma of prostate
+35586019	Benign adenoma of prostate
+78361016	Fibroma of prostate
+504861000006113	Benign fibroma of prostate
+505011000006115	Benign myoma of prostate
+134409015	Myoma of prostate
+19794011	Prostatism
+203421000006110	Prostatism
+7298191000006111	Benign localized hyperplasia of prostate
+7298201000006114	Localized BPH (benign prostatic hyperplasia)
+7298211000006112	Localised BPH (benign prostatic hyperplasia)
+7298181000006113	Benign localised hyperplasia of prostate
+7970051000006113	Nocturia due to benign prostatic hypertrophy
+8036871000006114	Weak urinary stream due to benign prostatic hypertrophy
+8036841000006118	Straining on urination due to benign prostatic hypertrophy
+8036851000006116	Urinary hesitancy due to benign prostatic hypertrophy
+8014281000006114	Lower urinary tract symptoms due to benign prostatic hypertrophy
+8036881000006112	Urinary frequency due to benign prostatic hypertrophy
+8036901000006114	Urinary retention due to benign prostatic hypertrophy
+8036911000006112	Incomplete emptying of bladder due to benign prostatic hypertrophy
+8036861000006119	Urinary urgency due to benign prostatic hypertrophy
+8036891000006110	Urinary incontinence due to benign prostatic hypertrophy
+7695881000006112	Benign localized hyperplasia of prostate without outflow obstruction
+7695871000006114	Benign localized prostatic hyperplasia without outflow obstruction
+7695861000006119	Benign localised hyperplasia of prostate without outflow obstruction
+7827101000006117	Obstructive nephropathy due to prostatic hypertrophy
+7827111000006119	Obstructive nephropathy due to benign prostatic hyperplasia
