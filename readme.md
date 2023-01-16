@@ -53,7 +53,6 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
-* 'acceptable' patient flag (Patient table) = 1
 * At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes)
 * No diabetes exclusion medcodes (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date
 
@@ -61,9 +60,11 @@ Include participants with:
 
 ### Defining the diagnosis date of diabetes
 Diagnosis date is earliest of:
-* Any diabetes medcode (Diabetes/exeter_medcodelist_all_diabetes) except those with obstypeid=4 (family history)
+* Any diabetes medcode (Diabetes/exeter_medcodelist_all_diabetes) except those with obstypeid=4 (family history), or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below).
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
 * Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (values <=20 assumed to be in % units and converted to mmol/mol)
+
+Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescription for a glucose-lowering medication or HbA1c >=47.5 mmol/mol in their year of birth are excluded from further analysis as presumably there are coding errors.
 
 
 &nbsp;
@@ -80,6 +81,8 @@ Diagnosis date is earliest of:
       * If diagnosed <35 years of age and on insulin within 1 year of diagnosis, Type 1, otherwise Type 2
     * If time between diagnosis date and start of insulin treatment is not available (i.e. diagnosis date < start of registration):
       * If diagnosed <35 years and not currently taking a non-insulin glucose lowering medication (no prescription for a non-insulin glucose lowering medication within 6 months of end of records (earliest of death/deregistration/last collection date from Practice)), Type 1, otherwise Type 2
+      
+Since diabetes type is used to inform whether diabetes medcodes in year of birth should be excluded or not (see above 'Defining the diagnosis date of diabetes'), this can create a circular problem where someone is classified as Type 1 if diabetes medcodes in year of birth are included, and Type 2 if diabetes medcodes in year of birth are excluded. These people are classed as 'unclassified'.
 
 See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4 for how this compares to other methods for classifying Type 1 and Type 2 diabetes.
       
