@@ -1,0 +1,73 @@
+OPCS4	Term_description
+K40	Saphenous vein graft replacement of coronary artery
+K401	Saphenous vein graft replacement of one coronary artery
+K402	Saphenous vein graft replacement of two coronary arteries
+K403	Saphenous vein graft replacement of three coronary arteries
+K404	Saphenous vein graft replacement of four or more coronary arteries
+K408	Other specified saphenous vein graft replacement of coronary artery
+K409	Unspecified saphenous vein graft replacement of coronary artery
+K41	 Other autograft replacement of coronary artery
+K411	Autograft replacement of one coronary artery NEC
+K412	Autograft replacement of two coronary arteries NEC
+K413	Autograft replacement of three coronary arteries NEC
+K414	Autograft replacement of four or more coronary arteries NEC
+K418	Other specified autograft replacement of coronary artery NEC
+K419	Unspecified autograft replacement of coronary artery NEC
+K42	Allograft replacement of coronary artery
+K421	Allograft replacement of one coronary artery
+K422	Allograft replacement of two coronary arteries
+K423	Allograft replacement of three coronary arteries
+K424	Allograft replacement of four or more coronary arteries
+K428	Other specified allograft replacement of coronary artery
+K429	Unspecified allograft replacement of coronary artery
+K43	Prosthetic replacement of coronary artery
+K431	Prosthetic replacement of one coronary artery
+K432	Prosthetic replacement of two coronary arteries
+K433	Prosthetic replacement of three coronary arteries
+K434	Prosthetic replacement of four or more coronary arteries
+K438	Other specified prosthetic replacement of coronary artery
+K439	Unspecified prosthetic replacement of coronary artery
+K44	Other replacement of coronary artery
+K441	Replacement of coronary arteries using multiple methods
+K442	Revision of replacement of coronary artery
+K448	Other specified replacement of coronary artery
+K449	Unspecified replacement of coronary artery
+K45	Connection of thoracic artery to coronary artery
+K451	Double anastomosis of mammary arteries to coronary arteries
+K452	Double anastomosis of thoracic arteries to coronary arteries NEC
+K453	Anastomosis of mammary artery to left anterior descending coronary artery
+K454	Anastomosis of mammary artery to coronary artery NEC
+K455	Anastomosis of thoracic artery to coronary artery NEC
+K456	Revision of connection of thoracic artery to coronary artery
+K458	Other specified connection of thoracic artery to coronary artery
+K459	Unspecified connection of thoracic artery to coronary artery
+K46	Other bypass of coronary artery
+K461	Double implantation of mammary arteries into heart
+K462	Double implantation of thoracic arteries into heart NEC
+K463	Implantation of mammary artery into heart NEC
+K464	Implantation of thoracic artery into heart NEC
+K465	Revision of implantation of thoracic artery into heart
+K468	Other specified bypass of coronary artery
+K469	Unspecified bypass of coronary artery
+K471	Endarterectomy of coronary artery
+K49	Transluminal balloon angioplasty of coronary artery
+K491	Percutaneous transluminal balloon angioplasty of one coronary artery
+K492	Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+K493	Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+K494	Percutaneous transluminal cutting balloon angioplasty of coronary artery
+K498	Other specified transluminal balloon angioplasty of coronary artery
+K499	Unspecified transluminal balloon angioplasty of coronary artery
+K50	Other therapeutic transluminal operations on coronary artery
+K501	Percutaneous transluminal laser coronary angioplasty
+K502	Percutaneous transluminal coronary thrombolysis using streptokinase
+K503	Percutaneous transluminal injection of therapeutic substance into coronary artery NEC
+K504	Percutaneous transluminal atherectomy of coronary artery
+K508	Other specified therapeutic transluminal operations on coronary artery
+K509	Unspecified therapeutic transluminal operations on coronary artery
+K75	Percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+K751	Percutaneous transluminal balloon angioplasty and insertion of 1-2 drug-eluting stents into coronary artery
+K752	Percutaneous transluminal balloon angioplasty and insertion of 3 or more drug-eluting stents into coronary artery
+K753	Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery
+K754	Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC
+K758	Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+K759	Unspecified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery

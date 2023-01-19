@@ -1,0 +1,72 @@
+OPCS4	Term_description
+L50	Other emergency bypass of iliac artery
+L501	Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L502	Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L503	Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L504	Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L505	Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L506	Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L508	Other specified emergency bypass of iliac artery
+L509	Unspecified emergency bypass of iliac artery
+L51	Other bypass of iliac artery
+L511	Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L512	Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L513	Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L514	Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L515	Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L516	Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L518	Other specified
+L519	Unspecified
+L52	Reconstruction of iliac artery NCCS 
+L521	Endarterectomy of iliac artery and patch repair of iliac artery
+L522	Endarterectomy of iliac artery NEC
+L528	Other specified
+L529	Unspecified
+L53	Other open operations on iliac artery
+L531	Repair of iliac artery NEC
+L532	Open embolectomy of iliac artery
+L54.1	Percutaneous transluminal angioplasty of iliac artery
+L54.2	Percutaneous transluminal embolectomy of iliac artery
+L54.4	Percutaneous transluminal insertion of stent into iliac artery
+L54.8	Other specified
+L54.9	Unspecified
+L58	Other emergency bypass of femoral artery
+L58.1	Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L58.2	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L58.3	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L58.4	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L58.5	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L58.6	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L58.7	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L58.8	Other specified
+L58.9	Unspecified
+L59	Other bypass of femoral artery
+L59.1	Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L59.2	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L59.3	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L59.4	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L59.5	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L59.6	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L59.7	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L59.8	Other specified
+L59.9	Unspecified
+L60	Reconstruction of femoral artery NCCS 
+L60.1	Endarterectomy of femoral artery and patch repair of femoral artery
+L60.2	Endarterectomy of femoral artery NEC
+L60.3	Profundoplasty of femoral artery and patch repair of deep femoral artery
+L60.4	Profundoplasty of femoral artery NEC
+L60.8	Other specified
+L60.9	Unspecified
+L62	Other open operations on femoral artery NCCS 
+L62.1	Repair of femoral artery NEC
+L62.2	Open embolectomy of femoral artery
+L62.8	Other specified
+L62.9	Unspecified
+L63.1	Percutaneous transluminal angioplasty of femoral artery
+L63.2	Percutaneous transluminal embolectomy of femoral artery
+L63.3	Percutaneous transluminal embolisation of femoral artery
+L63.5	Percutaneous transluminal insertion of stent into femoral artery
+L65	Revision of reconstruction of artery
+L65.1	Revision of reconstruction involving aorta
+L65.2	Revision of reconstruction involving iliac artery
+L65.3	Revision of reconstruction involving femoral artery
