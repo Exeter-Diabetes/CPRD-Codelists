@@ -1,0 +1,10 @@
+MedCodeId	Term
+2501971000000115	Serum islet antigen 2 antibody concentration
+3543031000006113	Islet cell antibody measurement
+3543061000006116	Islet cell cytoplasma antibody
+3543071000006111	Islet cell antibody level
+8364201000006119	Serum islet antigen 2 antibody concentration
+3543041000006115	Antibody to islet cells of pancreas measurement
+134341000000110	Islet cell antibody level
+8364191000006117	Serum islet antigen 2 antibody concentration measurement
+3543051000006118	ICA

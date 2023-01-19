@@ -1,0 +1,4 @@
+MedCodeId	Term
+2501971000000115	Serum islet antigen 2 antibody concentration
+8364201000006119	Serum islet antigen 2 antibody concentration
+8364191000006117	Serum islet antigen 2 antibody concentration measurement

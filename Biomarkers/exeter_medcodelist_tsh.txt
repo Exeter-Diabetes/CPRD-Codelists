@@ -1,0 +1,56 @@
+MedCodeId	Term
+1864181000006112	Test request : Serum TSH level
+6038991000006112	Measurement of plasma thyroid stimulating hormone concentration 90 minutes after challenge
+6039851000006115	30 minute serum TSH measurement
+6038021000006111	Measurement of serum thyroid stimulating hormone concentration 90 minutes after challenge
+6030131000006113	Plasma TSH level
+6038161000006118	Measurement of plasma thyroid stimulating hormone concentration 150 minutes after challenge
+6030121000006110	Plasma TSH measurement
+6038971000006111	90 minute plasma TSH measurement
+6038091000006113	60 minute plasma TSH level
+6648591000006110	Blood spot TSH level
+6038041000006116	90 minute serum TSH measurement
+6037991000006111	Measurement of serum thyroid stimulating hormone concentration 60 minutes after challenge
+6038941000006115	Measurement of serum thyroid stimulating hormone concentration 120 minutes after challenge
+457336018	Serum TSH (thyroid stimulating hormone) level
+458045010	60 minute serum thyroid stimulating hormone level
+458046011	90 minute serum thyroid stimulating hormone level
+458050016	60 minute plasma thyroid stimulating hormone level
+458105015	120 minute serum thyroid stimulating hormone level
+458167013	30 minute serum thyroid stimulating hormone level
+1780303012	Blood spot TSH (thyroid stimulating hormone) level
+6038141000006117	150 minute plasma TSH measurement
+6030101000006117	Measurement of serum thyroid stimulating hormone
+6030141000006115	Measurement of plasma thyroid stimulating hormone
+6038011000006115	60 minute serum TSH level
+6038081000006110	60 minute plasma TSH measurement
+6038151000006115	150 minute plasma TSH level
+6038121000006112	120 minute plasma TSH level
+6038101000006119	Measurement of plasma thyroid stimulating hormone concentration 60 minutes after challenge
+458054013	150 minute plasma thyroid stimulating hormone level
+6038001000006118	60 minute serum TSH measurement
+6039171000006117	30 minute plasma TSH level
+6648601000006119	Blood spot thyroid stimulating hormone level
+458053019	120 minute plasma thyroid stimulating hormone level
+458118011	30 minute plasma thyroid stimulating hormone level
+6038071000006112	150 minute serum TSH level
+6038961000006116	120 minute serum TSH level
+6038981000006114	90 minute plasma TSH level
+6038951000006118	120 minute serum TSH measurement
+6038061000006117	150 minute serum TSH measurement
+6030111000006119	Serum thyroid stimulating hormone measurement
+458049016	150 minute serum thyroid stimulating hormone level
+458106019	90 minute plasma thyroid stimulating hormone level
+88771000006117	TSH (thyroid stimulating hormone) level
+6039861000006118	30 minute serum TSH level
+6038051000006119	Measurement of serum thyroid stimulating hormone concentration 150 minutes after challenge
+457339013	Plasma TSH (thyroid stimulating hormone) level
+6038111000006116	120 minute plasma TSH measurement
+6039841000006117	Measurement of serum thyroid stimulating hormone concentration 30 minutes after challenge
+6030091000006111	Serum TSH level
+6038131000006110	Measurement of plasma thyroid stimulating hormone concentration 120 minutes after challenge
+6030151000006118	Plasma thyroid stimulating hormone measurement
+6030081000006113	Serum TSH measurement
+6039161000006112	Measurement of plasma thyroid stimulating hormone concentration 30 minutes after challenge
+6038031000006114	90 minute serum TSH level
+6039181000006119	30 minute plasma TSH measurement

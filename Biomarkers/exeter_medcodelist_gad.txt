@@ -1,0 +1,13 @@
+MedCodeId	Term
+1485448017	Serum anti-glutamic decarboxylase level
+2501821000000112	Serum glutamic acid decarboxylase antibody concentration
+6522401000006114	Serum anti-glutamic decarboxylase level
+6523681000006114	Glut acid decarboxylase ab lev
+8364161000006113	Serum glutamic acid decarboxylase antibody concentration
+8364151000006111	Serum glutamic acid decarboxylase antibody concentration measurement
+1485550010	Glutamic acid decarboxylase antibody level
+6523671000006111	Glutamic acid decarboxylase antibody level
+6523691000006112	Anti-glutamic decarboxylase antibody level
+6523701000006112	GAD (glutamic acid decarboxylase) antibody measurement
+6522411000006112	Ser anti-glut decarboxlase lev
+6523661000006116	Glutamic acid decarboxylase antibody measurement
