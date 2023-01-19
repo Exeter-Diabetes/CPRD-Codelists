@@ -1,0 +1,10 @@
+ICD10	Term_description
+M05.0	Felty syndrome
+M05.1	Rheumatoid lung disease
+M05.2	Rheumatoid vasculitis
+M05.3	Rheumatoid arthritis with involvement of other organs and systems
+M05.8	Other seropositive rheumatoid arthritis
+M05.9	Seropositive rheumatoid arthritis, unspecified
+M06.0	Seronegative rheumatoid arthritis
+M06.8	Other specified rheumatoid arthritis
+M06.9	Rheumatoid arthritis, unspecified

@@ -1,0 +1,2 @@
+ICD10	Term_description
+B37.9	Candidiasis, unspecified

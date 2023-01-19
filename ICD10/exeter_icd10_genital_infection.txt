@@ -1,0 +1,16 @@
+ICD10	Term_description
+A18.1	Tuberculosis of genitourinary system
+A54.0	Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess
+A56.0	Chlamydial infection of lower genitourinary tract
+A59.0	Urogenital trichomoniasis
+A60.0	Herpesviral infection of genitalia and urogenital tract
+B37.3	Candidiasis of vulva and vagina
+B37.4	Candidiasis of other urogenital sites
+N51	Disorders of male genital organs in diseases classified elsewhere
+N76.0	Acute vaginitis
+N76.1	Subacute and chronic vaginitis
+N76.2	Acute vulvitis
+N76.3	Subacute and chronic vulvitis
+N77.1	Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere
+O23.5	Infections of the genital tract in pregnancy
+O86.1	Other infection of genital tract following delivery

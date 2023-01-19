@@ -1,0 +1,6 @@
+ICD10	Term_description
+F40.0	Agoraphobia
+F40.1	Social phobias
+F40.8	Other phobic anxiety disorders
+F40.9	Phobic anxiety disorder, unspecified
+F41	Other anxiety disorders

@@ -1,0 +1,25 @@
+ICD10	Term_description
+T12	Fracture of lower limb, level unspecified
+T02.5	Fractures involving multiple regions of both lower limbs
+T02.6	Fractures involving multiple regions of upper limb(s) with lower limb(s)
+S72	Fracture of femur
+S72.0	Fracture of neck of femur
+S72.1	Pertrochanteric fracture
+S72.2	Subtrochanteric fracture
+S72.3	Fracture of shaft of femur
+S72.4	Fracture of lower end of femur
+S72.7	Multiple fractures of femur
+S72.8	Fractures of other parts of femur
+S72.9	Fracture of femur, part unspecified
+S82	Fracture of lower leg, including ankle
+S82.0	Fracture of patella
+S82.1	Fracture of upper end of tibia
+S82.2	Fracture of shaft of tibia
+S82.3	Fracture of lower end of tibia
+S82.4	Fracture of fibula alone
+S82.5	Fracture of medial malleolus
+S82.6	Fracture of lateral malleolus
+S82.7	Multiple fractures of lower leg
+S82.8	Fractures of other parts of lower leg
+S82.9	Fracture of lower leg, part unspecified
+S92.1	Fracture of talus

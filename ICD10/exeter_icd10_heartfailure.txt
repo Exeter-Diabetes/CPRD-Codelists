@@ -1,0 +1,5 @@
+ICD10	Term_description
+I11.0	Hypertensive heart disease with (congestive) heart failure
+I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+I50	Heart failure

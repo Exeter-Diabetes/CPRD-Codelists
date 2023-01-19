@@ -1,0 +1,4 @@
+ICD10	Term_description
+E16.0	Drug-induced hypoglycaemia without coma
+E16.1	Other hypoglycaemia
+E16.2	Hypoglycaemia, unspecified

@@ -1,0 +1,8 @@
+ICD10	Term_description
+I70.2	Atherosclerosis of arteries of extremities
+I70.3	Atherosclerosis of unspecified type of bypass graft(s) of the extremities
+I72.4	Aneurysm and dissection of artery of lower extremity
+I73	Other peripheral vascular diseases
+I74.3	Embolism and thrombosis of arteries of lower extremities
+I74.4	Embolism and thrombosis of arteries of extremities, unspecified
+I74.5	Embolism and thrombosis of iliac artery

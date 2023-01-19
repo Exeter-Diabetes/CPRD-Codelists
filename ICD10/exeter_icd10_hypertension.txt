@@ -1,0 +1,7 @@
+ICD10	Term_description
+I10	Essential (primary) hypertension
+I11	Hypertensive heart disease
+I12	Hypertensive renal disease
+I13	Hypertensive heart and renal disease
+I15	Secondary hypertension
+I67.4	Hypertensive encephalopathy

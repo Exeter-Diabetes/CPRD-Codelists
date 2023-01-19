@@ -1,0 +1,2 @@
+ICD10	Term_description
+I21	Acute myocardial infarction

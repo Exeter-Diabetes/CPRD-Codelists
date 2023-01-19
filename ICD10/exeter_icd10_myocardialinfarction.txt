@@ -1,0 +1,7 @@
+ICD10	Term_description
+I21	Acute myocardial infarction
+I22	Subsequent myocardial infarction
+I23	Certain current complications following acute myocardial infarction
+I24.1	Dressler syndrome
+I25.2	Old myocardial infarction
+I25.6	Silent myocardial ischaemia

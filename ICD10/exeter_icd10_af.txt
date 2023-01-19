@@ -1,0 +1,2 @@
+ICD10	Term_description
+I48	Atrial fibrillation and flutter

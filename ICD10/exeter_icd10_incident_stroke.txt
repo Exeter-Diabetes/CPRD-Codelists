@@ -1,0 +1,3 @@
+ICD10	Term_description
+I63 Cerebral infarction
+I64 Stroke, not specified as haemorrhage or infarction

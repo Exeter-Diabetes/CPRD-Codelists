@@ -1,0 +1,14 @@
+ICD10	Term_description
+W00	Fall on same level involving ice and snow
+W01	Fall on same level from slipping, tripping and stumbling
+W03	Other fall on same level due to collision with, or pushing by, another person
+W04	Fall while being carried or supported by other persons
+W05	Fall involving wheelchair
+W06	Fall involving bed
+W07	Fall involving chair
+W08	Fall involving other furniture
+W10	Fall on and from stairs and steps
+W17	Other fall from one level to another
+W18	Other fall on same level
+W19	Unspecified fall
+R29.6	Tendency to fall, not elsewhere classified

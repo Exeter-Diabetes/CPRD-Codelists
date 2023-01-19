@@ -1,0 +1,5 @@
+ICD10	Term_description
+I20.0	Unstable angina
+I20.1	Angina pectoris with documented spasm
+I20.8	Other forms of angina pectoris
+I20.9	Angina pectoris, unspecified
