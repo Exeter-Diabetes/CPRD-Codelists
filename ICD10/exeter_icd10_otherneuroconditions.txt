@@ -12,4 +12,3 @@ G71.0	Muscular dystrophy
 G80	Cerebral palsy
 G81	Hemiplegia
 G82	Paraplegia and tetraplegia
-

@@ -68,5 +68,3 @@ C72	Malignant neoplasm of spinal cord, cranial nerves and other parts of central
 C73	Malignant neoplasm of thyroid gland
 C74	Malignant neoplasm of adrenal gland
 C75	Malignant neoplasm of other endocrine glands and related structures
-
-

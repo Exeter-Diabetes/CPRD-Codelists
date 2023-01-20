@@ -12,4 +12,3 @@ C93	Monocytic leukaemia
 C94	Other leukaemias of specified cell type
 C95	Leukaemia of unspecified cell type
 C96	Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue
-
