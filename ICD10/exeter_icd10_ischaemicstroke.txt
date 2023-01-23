@@ -1,11 +1,9 @@
 ICD10	Term_description
-I60	Subarachnoid haemorrhage
-I61	Intracerebral haemorrhage
-I62.9	Intracranial haemorrhage (nontraumatic), unspecified
-S06.6	Traumatic subarachnoid haemorrhage
 I63	Cerebral infarction
 I64	Stroke, not specified as haemorrhage or infarction
 G46	Vascular syndromes of brain in cerebrovascular diseases
-I69	Sequelae of cerebrovascular disease
+I69.3	Sequelae of cerebral infarction
+I69.4	Sequelae of stroke, not specified as haemorrhage or infarction
+I69.8	Sequelae of other and unspecified cerebrovascular diseases
 O22.5	Cerebral venous thombosis in pregnancy
 O87.3	Cerebral venous thombosis in puerperium
