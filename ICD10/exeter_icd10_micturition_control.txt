@@ -1,0 +1,5 @@
+ICD10	Term_description
+N39.3	Stress incontinence
+N39.4	Other specified urinary incontinence
+R32	Unspecified urinary incontinence
+F98.0	Nonorganic enuresis
