@@ -1,0 +1,4 @@
+ICD10	Term_description
+K86.0	Alcohol-induced chronic pancreatitis
+K86.1	Other chronic pancreatitis
+K86.3	Pseudocyst of pancreas
