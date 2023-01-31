@@ -17,6 +17,11 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 &nbsp;
 
+### HbA1c
+* 
+
+&nbsp;
+
 ### BMI
 * Preferentially use coded BMI value
 * If no coded value, where height and weight recorded on same obsdate, use these to calculate BMI (for adults only)
