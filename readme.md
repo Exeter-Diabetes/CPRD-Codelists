@@ -17,8 +17,9 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 &nbsp;
 
-### HbA1c
-* 
+### ACR (Albumin Creatinine Ratio)
+* Preferentially use coded ACR value
+* If no coded value, where urine albumin and urine creatinine measurements recorded on same obsdate, calculate ACR
 
 &nbsp;
 
@@ -33,9 +34,20 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 &nbsp;
 
-### ACR (Albumin Creatinine Ratio)
-* Preferentially use coded ACR value
-* If no coded value, where urine albumin and urine creatinine measurements recorded on same obsdate, calculate ACR
+
+### Haematocrit
+* Convert all to proportion by dividing those >1 by 100
+
+&nbsp;
+
+### Haemoglobin
+* Convert all to g/L (some in g/dL) by multiplying values <30 by 10
+
+&nbsp;
+
+### HbA1c
+* Remove if before 1990 as HbA1c not widely used before then
+* Convert all to mmol/mol by converting values <=20 (assume these are in % units)
 
 &nbsp;
 
