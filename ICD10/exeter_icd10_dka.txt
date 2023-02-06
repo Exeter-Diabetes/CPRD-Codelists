@@ -1,0 +1,6 @@
+ICD10	Term_description
+E10.1	Insulin-dependent diabetes mellitus with ketoacidosis
+E11.1	Non-insulin-dependent diabetes mellitus with ketoacidosis
+E12.1	Malnutrition-related diabetes mellitus with ketoacidosis
+E13.1	Other specified diabetes mellitus with ketoacidosis
+E14.1	Unspecified diabetes mellitus with ketoacidosis
