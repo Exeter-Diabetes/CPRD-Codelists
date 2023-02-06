@@ -1,156 +1,156 @@
-MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
-356085010	Maturity onset diabetes in youth type 2	C10D-1	C10D.11	237604008	356085010		32
-189711000000119	Lipoatrophic diabetes mellitus without complication	C10M0	C10M000	112991000000101	189711000000119		32
-622221000000118	Maternally inherited diabetes mellitus	C10FS	C10FS00	335621000000101	622221000000118		32
-894461000006112	Diabetic mother syndrome	Q440-99	Q440.99	21584002	894461000006112		32
-1786715019	Bronzed diabetes	C3500-1	C350011	399144008	1786715019		32
-356118015	Diabetes-deafness syndrome maternally transmitted	ESCTDI21		237619009	356118015		32
-1775531012	Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	ESCTHY2		237616002	1775531012		32
-356099014	Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction	ESCTPH1		237612000	356099014		32
-356111014	Insulin-dependent diabetes mellitus secretory diarrhoea syndrome	ESCTIN27		237618001	356111014		32
-2156000010	Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus	ESCTLI13		237608006	2156000010		32
-356115017	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhoea	ESCTIN27-1		237618001	356115017		32
-483882011	Diabetes mellitus autosomal dominant	C10C	C10C.00	609561005	2967884018		32
-2476117016	Maturity onset diabetes in youth type 1	C10C-2	C10C.12	609562003	2967867012		32
-1968641000006114	Maturity onset diabetes of the young type 5	C10Q	C10Q.00	609572000	2967853015		32
-5109541000006118	Transient neonatal diabetes mellitus	^ESCTTR510954		237603002	2967847015		32
-7500521000006111	Diabetes mellitus, transient neonatal 2	^ESCTDI750052		609580007	2967886016		32
-7500541000006116	Diabetes mellitus, transient neonatal 3	^ESCTDI750054		609581006	2967830016		32
-3862421000006116	Diabetes mellitus, Addison's disease and myxedema	^ESCTDI386242		83728000	505755018		32
-6618061000006116	Bronze diabetes	^ESCTBR661806		399144008	1778601012		32
-5109851000006119	Insulin-dependent diabetes mellitus secretory diarrhea syndrome	^ESCTIN510985		237618001	356116016		31
-7500361000006112	RCAD (renal cysts and diabetes) syndrome	^ESCTRC750036		609572000	2714541000000116		32
-5109831000006114	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhea	^ESCTCO510983		237618001	356112019		31
-5109621000006112	MODY - Maturity onset diabetes glucokinase-related	^ESCTMO510962		237604008	356087019		32
-5109581000006112	Maturity onset diabetes in youth type II	^ESCTMA510958		237604008	356083015		32
-7500351000006110	Renal cysts and diabetes syndrome	^ESCTRE750035		609572000	3435009012		32
-3812041000006116	Dwarfism-hepatomegaly-obesity-juvenile diabetes syndrome	^ESCTDW381204		80660001	133810014		31
-7063141000006118	Diabetes mellitus co-occurrent and due to cystic fibrosis	^ESCTDI706314		426705001	3440582013		32
-5687751000006119	Lipoatrophic diabetes mellitus	^ESCTLI568775		284449005	1495355018		31
-4392151000006119	Lipodystrophic diabetes	^ESCTLI439215		127012008	205214013		32
-7500191000006118	Maturity onset diabetes of the young, type 1	^ESCTMA750019		609562003	2967867012		32
-3048221000006110	Diabetic-bearded woman syndrome	^ESCTDI304822		34041001	56854017		32
-5109561000006119	Maturity onset diabetes of the young, type 2	^ESCTMA510956		237604008	2967875018		32
-82979011	Neonatal diabetes mellitus	Q441	Q441.00	49817004	82979011		32
-5109551000006116	Transitory neonatal diabetes mellitus	^ESCTTR510955		237603002	356081018		32
-5109801000006118	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	^ESCTME510980		237617006	356108013		31
-3039941000006118	Pineal hyperplasia AND diabetes mellitus syndrome	^ESCTPI303994		33559001	55997018		32
-7500341000006113	MODY5 - maturity-onset diabetes of the young type 5	^ESCTMO750034		609572000	3435008016		32
-2843291000006110	Maternal diabetes syndrome	^ESCTMA284329		21584002	481067011		32
-10928019	Diabetes mellitus associated with genetic syndrome	ESCTDI18		5969009	10928019		32
-483886014	Maturity onset diabetes in youth	C10C-1	C10C.11	609561005	2967884018		32
-494831000000119	Cystic fibrosis related diabetes mellitus	C10N1	C10N100	426705001	2674608014		32
-840971000006112	Diabetes mellitus autosomal dominant type 2	C10D	C10D.00	237604008	356082013		32
-7811801000006113	Developmental delay, epilepsy, neonatal diabetes syndrome	^ESCTDE781180		721088003	3323445011		32
-5109611000006116	MODY - Maturity onset diabetes in youth type 2	^ESCTMO510961		237604008	356086011		32
-3730121000006115	Lipodystrophic diabetes with partial lipoatrophy	^ESCTLI373012		75659004	125663012		32
-3862341000006115	Diabetes mellitus, Addison's disease and myxoedema	^ESCTDI386234		83728000	505747013		32
-498512013	Genetic syndromes of diabetes mellitus	ESCTDI18-1		5969009	498512013		32
-1803751000006119	DIDMOAD - Diabetes insip, diabetes mell, optic atrophy, deafness	EMISNQDI79		70694009	1803751000006119		32
-5109591000006110	MODY - Maturity onset diabetes in youth type II	^ESCTMO510959		237604008	356084014		32
-7500501000006118	Diabetes mellitus, transient neonatal 1	^ESCTDI750050		609579009	2967822017		32
-7811811000006111	DEND (developmental delay, epilepsy, neonatal diabetes) syndrome	^ESCTDE781181		721088003	3323447015		32
-967701000006116	Lipoatrophic diabetes mellitus	C10M	C10M.00	127012008	300015		32
-4392141000006116	Lipoatrophic diabetes	^ESCTLI439214		127012008	300015		32
-3039971000006114	Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities	^ESCTPI303997		33559001	1228082013		32
-1233307015	Wolfram syndrome	PKyP-1	PKyP.11	70694009	1233307015		32
-199471000000118	Type A insulin resistance without complication	C10K0	C10K000	237651005	356181016		32
-5109631000006110	MODY2	^ESCTMO510963		237604008	2967834013		32
-7500201000006115	MODY1	^ESCTMO750020		609562003	2967828018		32
-56000018	Rabson-Mendenhall syndrome	C1zy6	C1zy600	33559001	56000018		32
-2475901019	Type A insulin resistance	C10K	C10K.00	237651005	2475901019		32
-498950010	Congenital nephrogenic diabetes insipidus	K0811	K081100	61165007	498950010		32
-3649841000006116	DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	^ESCTDI364984		70694009	3028979016		32
-9986011	Drug-induced diabetes mellitus	ESCTDR3		5368009	9986011		5
-356078011	Secondary endocrine diabetes mellitus	ESCTSE11		237601000	356078011		32
-189721000000113	Secondary diabetes mellitus without complication	C10N0	C10N000	8801005	15518018		32
-198461000000116	Secondary pancreatic diabetes mellitus without complication	C10G0	C10G000	51002006	84990019		32
-616241000006112	Diabetes mellitus induced by steroids	C10B	C10B.00	190447002	292667010		32
-8120401000006111	Hyperosmolar coma due to secondary diabetes mellitus	^ESCTHY812040		368601000119102	3288475010		32
-6763731000006114	DM induced by non-steroid drug	^ESCTDM676373		408540003	2163991011		32
-6763751000006119	Diabetes mellitus caused by non-steroid drugs	^ESCTDI676375		408540003	3290374011		32
-6763741000006116	DM caused by non-steroid drug	^ESCTDM676374		408540003	3290289016		32
-15518018	Secondary diabetes mellitus	C10N	C10N.00	8801005	15518018		32
-1230929011	Secondary pancreatic diabetes mellitus	C10G	C10G.00	51002006	1230929011		32
-2160090014	Diabetes mellitus induced by non-steroid drugs	C10H	C10H.00	408540003	2160090014		32
-127041000006110	Steroid induced diabetes	C11y0	C11y000	190447002	292667010		5
-127051000006112	Steroid induced diabetes mellitus without complication	C10B0	C10B000	190416008	292616012		32
-967631000006115	DM induced by non-steroid drugs without complication	C10H0	C10H000	413183008	2474729016		32
-6837991000006112	Diabetes mellitus caused by non-steroid drugs without complication	^ESCTDI683799		413183008	3290307015		32
-967681000006119	Fibrocalculous pancreatopathy	C10L	C10L.00	2751001	5649018		32
-2474730014	Fibrocalculous pancreatopathy without complication	C10L0	C10L000	413184002	2474730014		32
-3232101000006118	Diabetes insipidus secondary to vasopressin deficiency	^ESCTDI323210		45369008	494189014		32
-292606016	Malnutrition-related diabetes mellitus with ketoacidosis	C10A1	C10A100	190406000	292606016		32
-292612014	Malnutrition-related diabetes mellitus without complications	C10A7	C10A700	190412005	292612014		32
-1550571000000114	Jamaica type diabetes	C10A-1	C10A.11	75524006	1550571000000114		32
-356077018	Malnutrition-related diabetes mellitus - fibrocalculous	ESCTMA7		237600004	356077018		32
-396671000006110	[X]Malnutrit-related diabetes mellitus with unspec complics	Cyu22	Cyu2200	190411003	292611019		32
-719471000006119	Malnutrit-related diabetes mellitus with unspec complics	C10AW	C10AW00	190411003	292611019		32
-719531000006118	Malnutrition-related diabetes mellitus	C10A	C10A.00	75524006	125439011		32
-719571000006115	Malnutrition-related diabetes mellitus with renal complicatn	C10A2	C10A200	190407009	292607013		32
-719591000006119	Malnutrition-related diabetes mellitus wth neuro complicatns	C10A4	C10A400	420683009	2618198011		32
-719601000006110	Malnutritn-relat diabetes melitus wth periph circul complctn	C10A5	C10A500	190410002	292610018		32
-720311000006119	Malnutrit-relat diabetes mellitus with other spec comps	C10AX	C10AX00	190411003	292611019		32
-6968641000006111	Ophthalmic complication of malnutrition-related diabetes mellitus	^ESCTOP696864		421256007	2618239014		32
-719541000006111	Malnutrition-related diabetes mellitus with coma	C10A0	C10A000	420996007	2618229015		32
-719561000006110	Malnutrition-related diabetes mellitus with multiple comps	C10A6	C10A600	190411003	292611019		32
-1231774017	Malnutrition-related diabetes mellitus - protein-deficient	ESCTPR17-1		57886004	1231774017		32
-396661000006115	[X]Malnutrit-relat diabetes mellitus with other spec comps	Cyu21	Cyu2100	190411003	292611019		32
-306114012	Pre-existing malnutrition-related diabetes mellitus	L1807	L180700	199231005	306114012		32
-719481000006116	Malnutrit-related diabetes mellitus wth ophthalmic complicat	C10A3	C10A300	421256007	2618239014		32
-6958521000006110	Neurological disorder associated with malnutrition-related diabetes mellitus	^ESCTNE695852		420683009	2618198011		32
-6964251000006119	Coma associated with malnutrition-related diabetes mellitus	^ESCTCO696425		420996007	2618229015		32
-1786841000006118	Gestational diabetes mellitus annual review	EMISNQGE34		1786841000006102	1786841000006118		1
-622051000000118	[V]Personal history of gestational diabetes mellitus	ZV13F	ZV13F00	472971004	2955501019		32
-801901000006119	Gestational diabetes mellitus	L1808-1	L180811	11687002	20191016		32
-5587071000006119	Diabetes mellitus in neonate small for gestational age	^ESCTDI558707		276560009	2532367019		32
-8016611000006112	Gestational diabetes, delivered	^ESCTGE801661		40791000119105	3005798015		32
-8016621000006116	Gestational diabetes mellitus complicating pregnancy	^ESCTGE801662		40801000119106	3301670017		32
-8016601000006114	Postpartum gestational diabetes mellitus	^ESCTPO801660		40791000119105	3005715016		32
-3719631000006112	Gestational diabetes mellitus, class A>1<	^ESCTGE371963		75022004	124602011		32
-7480721000006111	H/O gestational diabetes mellitus	^ESCTHO748072		472971004	2242171000000111		32
-2686071000006114	Gestational diabetes	^ESCTGE268607		11687002	1220319015		32
-2128081000000111	Gestational diabetes mellitus annual review	66Ay	66Ay.00	816711000000104	2128081000000111		1
-1220321013	Diabetes mellitus arising in pregnancy	L1808	L180800	11687002	1220321013		32
-3258001000006116	Gestational diabetes mellitus, class A>2<	^ESCTGE325800		46894009	78158011		32
-2686101000006116	GDM - Gestational diabetes mellitus	^ESCTGD268610		11687002	1220322018		32
-1703761000000114	Gestational diabetes information leaflet given	8CE00	8CE0000	764921000000102	1703761000000114		32
-8016631000006118	Gestational DM antepartum	^ESCTGE801663		40801000119106	3289671017		32
-20191016	Gestational diabetes mellitus	L1809	L180900	11687002	20191016		32
-3296773014	DM caused by insulin receptor ab	ESCTDI19-2		75682002	3296773014		32
-2164134013	DM due to insulin receptor ab	ESCTDI19-3		75682002	2164134013		32
-125705011	Diabetes mellitus due to insulin receptor antibodies	ESCTDI19		75682002	125705011		32
-3291658019	Diabetes mellitus caused by insulin receptor antibodies	ESCTDI19-1		75682002	3291658019		32
-292495016	Other specified diabetes mellitus with renal complications	C104y	C104y00	127013003	301016		32
-293756010	[X]Other specified diabetes mellitus	Cyu20	Cyu2000	73211009	121589010		32
-13751000006117	Other specified diabetes mellitus with multiple comps	C108y	C108y00	385041000000108	760111000000115		32
-13811000006110	Other specified diabetes mellitus with unspecified comps	C10zy	C10zy00	74627003	123939015		32
-12725191000006116	Other specified diabetes mellitus with coma	^ESCT1272519		630521000000101	1390421000000119		31
-13761000006115	Other specified diabetes mellitus with neurological comps	C106y	C106y00	422088007	2618195014		32
-13771000006110	Other specified diabetes mellitus with ophthalmic complicatn	C105y	C105y00	25093002	42062018		32
-13781000006113	Other specified diabetes mellitus with other spec comps	C10yy	C10yy00	73211009	121589010		32
-292488013	Other specified diabetes mellitus with coma	C103y	C103y00	420662003	2618230013		32
-292478012	Other specified diabetes mellitus with ketoacidosis	C101y	C101y00	420422005	2616611010		32
-13791000006111	Other specified diabetes mellitus with periph circ comps	C107y	C107y00	421895002	2618203015		32
-354316011	Renal diabetes	C314-1	C314.11	127013003	3688488015		32
-75638010	Cranial diabetes insipidus	C1350	C135000	45369008	75638010		32
-119846018	Nephrogenic diabetes insipidus	K081	K081.00	111395007	119846018		32
-494186019	Diabetes insipidus - pituitary	C135-2	C135.12	45369008	494186019		32
-1848531000006116	Diab insipidus,diab mell,optic atrophy and deafness	PKyP	PKyP.00	70694009	3028935019		32
-4195241000006114	NDI - Nephrogenic diabetes insipidus	^ESCTND419524		111395007	361940010		32
-3232041000006115	Primary central diabetes insipidus	^ESCTPR323204		45369008	75636014		32
-3493931000006113	ADH-resistant diabetes insipidus	^ESCTAD349393		61165007	101643016		32
-3232051000006118	Neurogenic diabetes insipidus	^ESCTNE323205		45369008	75637017		32
-3649791000006119	Diabetes mellitus AND insipidus with optic atrophy AND deafness	^ESCTDI364979		70694009	117422014		32
-3493951000006118	Renal diabetes insipidus	^ESCTRE349395		61165007	101645011		32
-3493921000006110	Vasopressin-resistant diabetes insipidus	^ESCTVA349392		61165007	101642014		32
-3232031000006113	Pituitary diabetes insipidus	^ESCTPI323203		45369008	75635013		32
-3493901000006117	Familial nephrogenic diabetes insipidus	^ESCTFA349390		61165007	101640018		32
-3493941000006115	Adiuretin-resistant diabetes insipidus	^ESCTAD349394		61165007	101644010		32
-3493891000006116	Hereditary nephrogenic diabetes insipidus	^ESCTHE349389		61165007	101638011		32
-2750071000006113	DI - Diabetes insipidus	^ESCTDI275007		15771004	477505014		32
-3232091000006112	Central diabetes insipidus	^ESCTCE323209		45369008	494188018		32
-3493981000006114	Primary nephrogenic diabetes insipidus	^ESCTPR349398		61165007	498951014		32
-135166013	Acquired nephrogenic diabetes insipidus	K0810	K081000	81475007	135166013		32
-3232021000006110	Neurohypophyseal diabetes insipidus	^ESCTNE323202		45369008	75633018		32
-26721014	Diabetes insipidus	C135	C135.00	15771004	26721014		32
+MedCodeId	Term	other/unspec genetic inc syndromic	mody	secondary	malnutrition	gestational	other/unspec	diabetes insipidus
+189711000000119	Lipoatrophic diabetes mellitus without complication	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+622221000000118	Maternally inherited diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+894461000006112	Diabetic mother syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+1786715019	Bronzed diabetes	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+356118015	Diabetes-deafness syndrome maternally transmitted	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+1775531012	Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+356099014	Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+356111014	Insulin-dependent diabetes mellitus secretory diarrhoea syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+2156000010	Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+356115017	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhoea	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+483882011	Diabetes mellitus autosomal dominant	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5109541000006118	Transient neonatal diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7500521000006111	Diabetes mellitus, transient neonatal 2	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7500541000006116	Diabetes mellitus, transient neonatal 3	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3862421000006116	Diabetes mellitus, Addison's disease and myxedema	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+6618061000006116	Bronze diabetes	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5109851000006119	Insulin-dependent diabetes mellitus secretory diarrhea syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7500361000006112	RCAD (renal cysts and diabetes) syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5109831000006114	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhea	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7500351000006110	Renal cysts and diabetes syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3812041000006116	Dwarfism-hepatomegaly-obesity-juvenile diabetes syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7063141000006118	Diabetes mellitus co-occurrent and due to cystic fibrosis	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5687751000006119	Lipoatrophic diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+4392151000006119	Lipodystrophic diabetes	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3048221000006110	Diabetic-bearded woman syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+82979011	Neonatal diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5109551000006116	Transitory neonatal diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+5109801000006118	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3039941000006118	Pineal hyperplasia AND diabetes mellitus syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+2843291000006110	Maternal diabetes syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+10928019	Diabetes mellitus associated with genetic syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+494831000000119	Cystic fibrosis related diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+840971000006112	Diabetes mellitus autosomal dominant type 2	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7811801000006113	Developmental delay, epilepsy, neonatal diabetes syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3730121000006115	Lipodystrophic diabetes with partial lipoatrophy	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3862341000006115	Diabetes mellitus, Addison's disease and myxoedema	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+498512013	Genetic syndromes of diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+1803751000006119	DIDMOAD - Diabetes insip, diabetes mell, optic atrophy, deafness	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7500501000006118	Diabetes mellitus, transient neonatal 1	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+7811811000006111	DEND (developmental delay, epilepsy, neonatal diabetes) syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+967701000006116	Lipoatrophic diabetes mellitus	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+4392141000006116	Lipoatrophic diabetes	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3039971000006114	Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+1233307015	Wolfram syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+199471000000118	Type A insulin resistance without complication	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+56000018	Rabson-Mendenhall syndrome	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+2475901019	Type A insulin resistance	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	NA
+3649841000006116	DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	other/unspec genetic inc syndromic	NA	NA	NA	NA	NA	diabetes insipidus
+356085010	Maturity onset diabetes in youth type 2	NA	mody	NA	NA	NA	NA	NA
+2476117016	Maturity onset diabetes in youth type 1	NA	mody	NA	NA	NA	NA	NA
+1968641000006114	Maturity onset diabetes of the young type 5	NA	mody	NA	NA	NA	NA	NA
+5109621000006112	MODY - Maturity onset diabetes glucokinase-related	NA	mody	NA	NA	NA	NA	NA
+5109581000006112	Maturity onset diabetes in youth type II	NA	mody	NA	NA	NA	NA	NA
+7500191000006118	Maturity onset diabetes of the young, type 1	NA	mody	NA	NA	NA	NA	NA
+5109561000006119	Maturity onset diabetes of the young, type 2	NA	mody	NA	NA	NA	NA	NA
+7500341000006113	MODY5 - maturity-onset diabetes of the young type 5	NA	mody	NA	NA	NA	NA	NA
+483886014	Maturity onset diabetes in youth	NA	mody	NA	NA	NA	NA	NA
+5109611000006116	MODY - Maturity onset diabetes in youth type 2	NA	mody	NA	NA	NA	NA	NA
+5109591000006110	MODY - Maturity onset diabetes in youth type II	NA	mody	NA	NA	NA	NA	NA
+5109631000006110	MODY2	NA	mody	NA	NA	NA	NA	NA
+7500201000006115	MODY1	NA	mody	NA	NA	NA	NA	NA
+9986011	Drug-induced diabetes mellitus	NA	NA	secondary	NA	NA	NA	NA
+356078011	Secondary endocrine diabetes mellitus	NA	NA	secondary	NA	NA	NA	NA
+189721000000113	Secondary diabetes mellitus without complication	NA	NA	secondary	NA	NA	NA	NA
+198461000000116	Secondary pancreatic diabetes mellitus without complication	NA	NA	secondary	NA	NA	NA	NA
+616241000006112	Diabetes mellitus induced by steroids	NA	NA	secondary	NA	NA	NA	NA
+8120401000006111	Hyperosmolar coma due to secondary diabetes mellitus	NA	NA	secondary	NA	NA	NA	NA
+6763731000006114	DM induced by non-steroid drug	NA	NA	secondary	NA	NA	NA	NA
+6763751000006119	Diabetes mellitus caused by non-steroid drugs	NA	NA	secondary	NA	NA	NA	NA
+6763741000006116	DM caused by non-steroid drug	NA	NA	secondary	NA	NA	NA	NA
+15518018	Secondary diabetes mellitus	NA	NA	secondary	NA	NA	NA	NA
+1230929011	Secondary pancreatic diabetes mellitus	NA	NA	secondary	NA	NA	NA	NA
+2160090014	Diabetes mellitus induced by non-steroid drugs	NA	NA	secondary	NA	NA	NA	NA
+127041000006110	Steroid induced diabetes	NA	NA	secondary	NA	NA	NA	NA
+127051000006112	Steroid induced diabetes mellitus without complication	NA	NA	secondary	NA	NA	NA	NA
+967631000006115	DM induced by non-steroid drugs without complication	NA	NA	secondary	NA	NA	NA	NA
+6837991000006112	Diabetes mellitus caused by non-steroid drugs without complication	NA	NA	secondary	NA	NA	NA	NA
+967681000006119	Fibrocalculous pancreatopathy	NA	NA	secondary	NA	NA	NA	NA
+2474730014	Fibrocalculous pancreatopathy without complication	NA	NA	secondary	NA	NA	NA	NA
+292606016	Malnutrition-related diabetes mellitus with ketoacidosis	NA	NA	NA	malnutrition	NA	NA	NA
+292612014	Malnutrition-related diabetes mellitus without complications	NA	NA	NA	malnutrition	NA	NA	NA
+1550571000000114	Jamaica type diabetes	NA	NA	NA	malnutrition	NA	NA	NA
+356077018	Malnutrition-related diabetes mellitus - fibrocalculous	NA	NA	NA	malnutrition	NA	NA	NA
+396671000006110	[X]Malnutrit-related diabetes mellitus with unspec complics	NA	NA	NA	malnutrition	NA	NA	NA
+719471000006119	Malnutrit-related diabetes mellitus with unspec complics	NA	NA	NA	malnutrition	NA	NA	NA
+719531000006118	Malnutrition-related diabetes mellitus	NA	NA	NA	malnutrition	NA	NA	NA
+719571000006115	Malnutrition-related diabetes mellitus with renal complicatn	NA	NA	NA	malnutrition	NA	NA	NA
+719591000006119	Malnutrition-related diabetes mellitus wth neuro complicatns	NA	NA	NA	malnutrition	NA	NA	NA
+719601000006110	Malnutritn-relat diabetes melitus wth periph circul complctn	NA	NA	NA	malnutrition	NA	NA	NA
+720311000006119	Malnutrit-relat diabetes mellitus with other spec comps	NA	NA	NA	malnutrition	NA	NA	NA
+6968641000006111	Ophthalmic complication of malnutrition-related diabetes mellitus	NA	NA	NA	malnutrition	NA	NA	NA
+719541000006111	Malnutrition-related diabetes mellitus with coma	NA	NA	NA	malnutrition	NA	NA	NA
+719561000006110	Malnutrition-related diabetes mellitus with multiple comps	NA	NA	NA	malnutrition	NA	NA	NA
+1231774017	Malnutrition-related diabetes mellitus - protein-deficient	NA	NA	NA	malnutrition	NA	NA	NA
+396661000006115	[X]Malnutrit-relat diabetes mellitus with other spec comps	NA	NA	NA	malnutrition	NA	NA	NA
+306114012	Pre-existing malnutrition-related diabetes mellitus	NA	NA	NA	malnutrition	NA	NA	NA
+719481000006116	Malnutrit-related diabetes mellitus wth ophthalmic complicat	NA	NA	NA	malnutrition	NA	NA	NA
+6958521000006110	Neurological disorder associated with malnutrition-related diabetes mellitus	NA	NA	NA	malnutrition	NA	NA	NA
+6964251000006119	Coma associated with malnutrition-related diabetes mellitus	NA	NA	NA	malnutrition	NA	NA	NA
+1786841000006118	Gestational diabetes mellitus annual review	NA	NA	NA	NA	gestational	NA	NA
+622051000000118	[V]Personal history of gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+801901000006119	Gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+5587071000006119	Diabetes mellitus in neonate small for gestational age	NA	NA	NA	NA	gestational	NA	NA
+8016611000006112	Gestational diabetes, delivered	NA	NA	NA	NA	gestational	NA	NA
+8016621000006116	Gestational diabetes mellitus complicating pregnancy	NA	NA	NA	NA	gestational	NA	NA
+8016601000006114	Postpartum gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+3719631000006112	Gestational diabetes mellitus, class A>1<	NA	NA	NA	NA	gestational	NA	NA
+7480721000006111	H/O gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+2686071000006114	Gestational diabetes	NA	NA	NA	NA	gestational	NA	NA
+2128081000000111	Gestational diabetes mellitus annual review	NA	NA	NA	NA	gestational	NA	NA
+1220321013	Diabetes mellitus arising in pregnancy	NA	NA	NA	NA	gestational	NA	NA
+3258001000006116	Gestational diabetes mellitus, class A>2<	NA	NA	NA	NA	gestational	NA	NA
+2686101000006116	GDM - Gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+1703761000000114	Gestational diabetes information leaflet given	NA	NA	NA	NA	gestational	NA	NA
+8016631000006118	Gestational DM antepartum	NA	NA	NA	NA	gestational	NA	NA
+20191016	Gestational diabetes mellitus	NA	NA	NA	NA	gestational	NA	NA
+3296773014	DM caused by insulin receptor ab	NA	NA	NA	NA	NA	other/unspec	NA
+2164134013	DM due to insulin receptor ab	NA	NA	NA	NA	NA	other/unspec	NA
+125705011	Diabetes mellitus due to insulin receptor antibodies	NA	NA	NA	NA	NA	other/unspec	NA
+3291658019	Diabetes mellitus caused by insulin receptor antibodies	NA	NA	NA	NA	NA	other/unspec	NA
+292495016	Other specified diabetes mellitus with renal complications	NA	NA	NA	NA	NA	other/unspec	NA
+293756010	[X]Other specified diabetes mellitus	NA	NA	NA	NA	NA	other/unspec	NA
+13751000006117	Other specified diabetes mellitus with multiple comps	NA	NA	NA	NA	NA	other/unspec	NA
+13811000006110	Other specified diabetes mellitus with unspecified comps	NA	NA	NA	NA	NA	other/unspec	NA
+12725191000006116	Other specified diabetes mellitus with coma	NA	NA	NA	NA	NA	other/unspec	NA
+13761000006115	Other specified diabetes mellitus with neurological comps	NA	NA	NA	NA	NA	other/unspec	NA
+13771000006110	Other specified diabetes mellitus with ophthalmic complicatn	NA	NA	NA	NA	NA	other/unspec	NA
+13781000006113	Other specified diabetes mellitus with other spec comps	NA	NA	NA	NA	NA	other/unspec	NA
+292488013	Other specified diabetes mellitus with coma	NA	NA	NA	NA	NA	other/unspec	NA
+292478012	Other specified diabetes mellitus with ketoacidosis	NA	NA	NA	NA	NA	other/unspec	NA
+13791000006111	Other specified diabetes mellitus with periph circ comps	NA	NA	NA	NA	NA	other/unspec	NA
+354316011	Renal diabetes	NA	NA	NA	NA	NA	NA	diabetes insipidus
+75638010	Cranial diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+119846018	Nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+494186019	Diabetes insipidus - pituitary	NA	NA	NA	NA	NA	NA	diabetes insipidus
+498950010	Congenital nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+1848531000006116	Diab insipidus,diab mell,optic atrophy and deafness	NA	NA	NA	NA	NA	NA	diabetes insipidus
+4195241000006114	NDI - Nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232041000006115	Primary central diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493931000006113	ADH-resistant diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232051000006118	Neurogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3649791000006119	Diabetes mellitus AND insipidus with optic atrophy AND deafness	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493951000006118	Renal diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493921000006110	Vasopressin-resistant diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232031000006113	Pituitary diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493901000006117	Familial nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493941000006115	Adiuretin-resistant diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493891000006116	Hereditary nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+2750071000006113	DI - Diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232091000006112	Central diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3493981000006114	Primary nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+135166013	Acquired nephrogenic diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232101000006118	Diabetes insipidus secondary to vasopressin deficiency	NA	NA	NA	NA	NA	NA	diabetes insipidus
+3232021000006110	Neurohypophyseal diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
+26721014	Diabetes insipidus	NA	NA	NA	NA	NA	NA	diabetes insipidus
