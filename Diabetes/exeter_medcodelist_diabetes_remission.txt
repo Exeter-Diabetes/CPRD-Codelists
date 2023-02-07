@@ -1,0 +1,8 @@
+MedCodeId	Term	category
+2287971000000119	Diabetes mellitus in remission	unspecified
+2288011000000114	Type I diabetes mellitus in remission	unspecified
+2288071000000116	Type 2 diabetes mellitus in remission	type 2
+2288041000000110	Type 1 diabetes mellitus in remission	type 1
+459520010	Diabetes resolved	unspecified
+2288061000000111	Type II diabetes mellitus in remission	unspecified
+616801000006114	Diabetes resolved	unspecified
