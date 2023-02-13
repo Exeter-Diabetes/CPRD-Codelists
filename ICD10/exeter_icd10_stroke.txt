@@ -1,11 +1,13 @@
-ICD10	Term_description
-I60	Subarachnoid haemorrhage
+ICD10
+G46.3	Brain stem stroke syndrome
+G46.4	Cerebellar stroke syndrome
+G46.5	Pure motor lacunar syndrome
+G46.6	Pure sensory lacunar syndrome
+G46.7	Other lacunar syndromes
+G46.8	Other vascular syndromes of brain in cerebrovascular diseases
 I61	Intracerebral haemorrhage
-I62.9	Intracranial haemorrhage (nontraumatic), unspecified
-S06.6	Traumatic subarachnoid haemorrhage
 I63	Cerebral infarction
 I64	Stroke, not specified as haemorrhage or infarction
-G46	Vascular syndromes of brain in cerebrovascular diseases
-I69	Sequelae of cerebrovascular disease
-O22.5	Cerebral venous thombosis in pregnancy
-O87.3	Cerebral venous thombosis in puerperium
+I69.1	Sequelae of intracerebral haemorrhage
+I69.3	Sequelae of cerebral infarction
+I69.4	Sequelae of stroke, not specified as haemorrhage or infarction
