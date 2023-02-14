@@ -46,7 +46,9 @@ MedCodeId	Term	category
 199471000000118	Type A insulin resistance without complication	other/unspec genetic inc syndromic
 56000018	Rabson-Mendenhall syndrome	other/unspec genetic inc syndromic
 2475901019	Type A insulin resistance	other/unspec genetic inc syndromic
+1848531000006116	Diab insipidus,diab mell,optic atrophy and deafness	other/unspec genetic inc syndromic
 3649841000006116	DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	other/unspec genetic inc syndromic
+3649791000006119	Diabetes mellitus AND insipidus with optic atrophy AND deafness	other/unspec genetic inc syndromic
 356085010	Maturity onset diabetes in youth type 2	mody
 2476117016	Maturity onset diabetes in youth type 1	mody
 1968641000006114	Maturity onset diabetes of the young type 5	mody
