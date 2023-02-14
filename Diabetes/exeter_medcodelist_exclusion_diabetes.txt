@@ -137,12 +137,10 @@ MedCodeId	Term	category
 119846018	Nephrogenic diabetes insipidus	diabetes insipidus
 494186019	Diabetes insipidus - pituitary	diabetes insipidus
 498950010	Congenital nephrogenic diabetes insipidus	diabetes insipidus
-1848531000006116	Diab insipidus,diab mell,optic atrophy and deafness	diabetes insipidus
 4195241000006114	NDI - Nephrogenic diabetes insipidus	diabetes insipidus
 3232041000006115	Primary central diabetes insipidus	diabetes insipidus
 3493931000006113	ADH-resistant diabetes insipidus	diabetes insipidus
 3232051000006118	Neurogenic diabetes insipidus	diabetes insipidus
-3649791000006119	Diabetes mellitus AND insipidus with optic atrophy AND deafness	diabetes insipidus
 3493951000006118	Renal diabetes insipidus	diabetes insipidus
 3493921000006110	Vasopressin-resistant diabetes insipidus	diabetes insipidus
 3232031000006113	Pituitary diabetes insipidus	diabetes insipidus
