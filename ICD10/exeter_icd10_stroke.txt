@@ -1,4 +1,4 @@
-ICD10
+ICD10	Term_description
 G46.3	Brain stem stroke syndrome
 G46.4	Cerebellar stroke syndrome
 G46.5	Pure motor lacunar syndrome
