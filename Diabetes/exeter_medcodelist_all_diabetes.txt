@@ -32,9 +32,9 @@ MedCodeId	Term	category
 292482014	Diabetes mellitus, juvenile type, with hyperosmolar coma	unspecified
 292483016	Diabetes mellitus, adult onset, with hyperosmolar coma	unspecified
 292540012	Type 1 diabetes mellitus with ulcer	type 1
-292551012	Type I diabetes mellitus maturity onset	unspecified
+292551012	Type I diabetes mellitus maturity onset	type 1
 292553010	Type 1 diabetes mellitus maturity onset	type 1
-292576013	Type II diabetes mellitus with multiple complications	unspecified
+292576013	Type II diabetes mellitus with multiple complications	type 2
 292577016	Type 2 diabetes mellitus with multiple complications	type 2
 297492014	Diabetic mononeuritis multiplex	unspecified
 297550019	Acute painful diabetic neuropathy	unspecified
@@ -66,13 +66,13 @@ MedCodeId	Term	category
 456686014	Attending diabetes clinic	unspecified
 457231013	Seen in diabetic eye clinic	unspecified
 457326014	Type 1 diabetes mellitus without complication	type 1
-459163017	Type I diabetes mellitus with hypoglycaemic coma	unspecified
+459163017	Type I diabetes mellitus with hypoglycaemic coma	type 1
 459292011	Type 1 diabetes mellitus with arthropathy	type 1
-459294012	Type I diabetes mellitus with arthropathy	unspecified
+459294012	Type I diabetes mellitus with arthropathy	type 1
 459308015	Type 2 diabetes mellitus with peripheral angiopathy	type 2
 459309011	Non-insulin dependent diabetes mellitus with arthropathy	unspecified
 459310018	Type 2 diabetes mellitus with arthropathy	type 2
-494564012	Type I diabetes mellitus	unspecified
+494564012	Type I diabetes mellitus	type 1
 1223148019	Insulin treated non-insulin dependent diabetes mellitus	unspecified
 1484867016	Non proliferative diabetic retinopathy	unspecified
 1484888013	O/E - diabetic maculopathy absent both eyes	unspecified
@@ -172,8 +172,8 @@ MedCodeId	Term	category
 1583921000006113	Ineligibility for diabetic eye screening: Deceased	unspecified
 1621011000006115	No evidence of diabetic peripheral neuropathy	unspecified
 1658821000000117	Diabetic dietary review	unspecified
-1658861000000113	Type I diabetic dietary review	unspecified
-1658901000000118	Type II diabetic dietary review	unspecified
+1658861000000113	Type I diabetic dietary review	type 1
+1658901000000118	Type II diabetic dietary review	type 2
 1666931000000117	O/E - Right diabetic foot at increased risk	unspecified
 1673581000006117	Ineligibility for diabetic eye screening: Physical disability	unspecified
 1690631000000113	Did not attend diabetes foot screening	unspecified
@@ -219,7 +219,7 @@ MedCodeId	Term	category
 2283241000000113	Diabetes structured education programme not available	unspecified
 2287311000000111	Diabetes Year of Care annual review	unspecified
 2287971000000119	Diabetes mellitus in remission	unspecified
-2288011000000114	Type I diabetes mellitus in remission	unspecified
+2288011000000114	Type I diabetes mellitus in remission	type 1
 2288071000000116	Type 2 diabetes mellitus in remission	type 2
 2368911000000117	Diabetic foot care education	unspecified
 2369111000000112	Lifestyle education for diabetes	unspecified
@@ -243,8 +243,8 @@ MedCodeId	Term	category
 292489017	Diabetes mellitus NOS with ketoacidotic coma	unspecified
 292496015	Diabetes mellitis with nephropathy NOS	unspecified
 292548017	Type 1 diabetes mellitus - poor control	type 1
-292550013	Type I diabetes mellitus - poor control	unspecified
-292589019	Type II diabetes mellitus - poor control	unspecified
+292550013	Type I diabetes mellitus - poor control	type 1
+292589019	Type II diabetes mellitus - poor control	type 2
 292626017	Diabetes mellitus NOS with unspecified complication	unspecified
 297758012	Diabetic retinopathy NOS	unspecified
 305158015	[X]Glomerular disorders in diabetes mellitus	unspecified
@@ -254,7 +254,7 @@ MedCodeId	Term	category
 404444016	Hb. A1C - diabetic control	unspecified
 453910015	HbA1 - diabetic control	unspecified
 459167016	Type 2 diabetes mellitus with hypoglycaemic coma	type 2
-459295013	Type I diabetes mellitus with neuropathic arthropathy	unspecified
+459295013	Type I diabetes mellitus with neuropathic arthropathy	type 1
 1484954015	DNA - Did not attend diabetic clinic	unspecified
 2693189019	Health education - diabetes	unspecified
 21631000000117	Diabetes monitoring admin.	unspecified
@@ -276,17 +276,17 @@ MedCodeId	Term	category
 84611000006113	Type 2 diabetes mellitus with renal complications	type 2
 84631000006119	Type 2 diabetes mellitus with ulcer	type 2
 84641000006112	Type 2 diabetes mellitus without complication	type 2
-84711000006117	Type I diabetes mellitus with hypoglycaemic coma	unspecified
-84731000006111	Type I diabetes mellitus with multiple complications	unspecified
-84801000006111	Type I diabetes mellitus with renal complications	unspecified
-84821000006118	Type I diabetes mellitus with ulcer	unspecified
-84831000006115	Type I diabetes mellitus without complication	unspecified
-84841000006113	Type II diabetes mellitus	unspecified
-84861000006112	Type II diabetes mellitus with arthropathy	unspecified
-84921000006110	Type II diabetes mellitus with nephropathy	unspecified
-84961000006116	Type II diabetes mellitus with peripheral angiopathy	unspecified
-84981000006114	Type II diabetes mellitus with renal complications	unspecified
-85001000006117	Type II diabetes mellitus with ulcer	unspecified
+84711000006117	Type I diabetes mellitus with hypoglycaemic coma	type 1
+84731000006111	Type I diabetes mellitus with multiple complications	type 1
+84801000006111	Type I diabetes mellitus with renal complications	type 1
+84821000006118	Type I diabetes mellitus with ulcer	type 1
+84831000006115	Type I diabetes mellitus without complication	type 1
+84841000006113	Type II diabetes mellitus	type 2
+84861000006112	Type II diabetes mellitus with arthropathy	type 2
+84921000006110	Type II diabetes mellitus with nephropathy	type 2
+84961000006116	Type II diabetes mellitus with peripheral angiopathy	type 2
+84981000006114	Type II diabetes mellitus with renal complications	type 2
+85001000006117	Type II diabetes mellitus with ulcer	type 2
 139001000000110	Exception reporting: diabetes quality indicators	unspecified
 139121000000119	Excepted from diabetes quality indicators: Informed dissent	unspecified
 169731000006118	Retinal abnormality - diabetes related	unspecified
@@ -320,26 +320,26 @@ MedCodeId	Term	category
 841011000006112	High risk non proliferative diabetic retinopathy	unspecified
 841351000006110	Insulin treated Type II diabetes mellitus	type 2
 850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	type 2
-913551000006116	Type I diabetes mellitus with multiple complications	unspecified
+913551000006116	Type I diabetes mellitus with multiple complications	type 1
 913811000006115	Type 1 diabetes mellitus with polyneuropathy	type 1
 913841000006116	Type 1 diabetes mellitus with nephropathy	type 1
-913851000006119	Type I diabetes mellitus with nephropathy	unspecified
+913851000006119	Type I diabetes mellitus with nephropathy	type 1
 914031000006118	Type 2 diabetes mellitus with renal complications	type 2
-914041000006111	Type II diabetes mellitus with renal complications	unspecified
-914251000006116	Type II diabetes mellitus with polyneuropathy	unspecified
-914271000006114	Type II diabetes mellitus with nephropathy	unspecified
+914041000006111	Type II diabetes mellitus with renal complications	type 2
+914251000006116	Type II diabetes mellitus with polyneuropathy	type 2
+914271000006114	Type II diabetes mellitus with nephropathy	type 2
 928461000006119	Type 1 diabetes mellitus with persistent proteinuria	type 1
-928471000006114	Type I diabetes mellitus with persistent proteinuria	unspecified
-928491000006110	Type I diabetes mellitus with persistent microalbuminuria	unspecified
-928511000006116	Type I diabetes mellitus with ketoacidosis	unspecified
-928531000006110	Type I diabetes mellitus with ketoacidotic coma	unspecified
+928471000006114	Type I diabetes mellitus with persistent proteinuria	type 1
+928491000006110	Type I diabetes mellitus with persistent microalbuminuria	type 1
+928511000006116	Type I diabetes mellitus with ketoacidosis	type 1
+928531000006110	Type I diabetes mellitus with ketoacidotic coma	type 1
 928541000006117	Type 2 diabetes mellitus with persistent proteinuria	type 2
-928551000006115	Type II diabetes mellitus with persistent proteinuria	unspecified
+928551000006115	Type II diabetes mellitus with persistent proteinuria	type 2
 928561000006118	Type 2 diabetes mellitus with persistent microalbuminuria	type 2
-928571000006113	Type II diabetes mellitus with persistent microalbuminuria	unspecified
+928571000006113	Type II diabetes mellitus with persistent microalbuminuria	type 2
 928581000006111	Type 2 diabetes mellitus with ketoacidosis	type 2
-928591000006114	Type II diabetes mellitus with ketoacidosis	unspecified
-938311000006112	Type I diabetes mellitus with exudative maculopathy	unspecified
+928591000006114	Type II diabetes mellitus with ketoacidosis	type 2
+938311000006112	Type I diabetes mellitus with exudative maculopathy	type 1
 975261000006113	O/E - left eye stable treated prolif diabetic retinopathy	unspecified
 1627291000006113	Did not complete DESMOND diabetes structured educat program	unspecified
 1628311000006111	Did not complete XPERT diabetes structured education program	unspecified
@@ -370,7 +370,7 @@ MedCodeId	Term	category
 459162010	Insulin dependent diabetes mellitus with hypoglycaemic coma	unspecified
 459293018	Insulin dependent diabetes mellitus with arthropathy	unspecified
 72651000006114	Unstable insulin dependent diabetes mellitus	unspecified
-84781000006112	Type I diabetes mellitus with peripheral angiopathy	unspecified
+84781000006112	Type I diabetes mellitus with peripheral angiopathy	type 1
 616611000006111	Diabetes mellitus, juvenile type, + unspecified complication	unspecified
 616621000006115	Diabetes mellitus, juvenile type, no mention of complication	unspecified
 746791000006111	Insulin-dependent diabetes without complication	unspecified
@@ -398,8 +398,8 @@ MedCodeId	Term	category
 913981000006115	Insulin dependent diab mell with neuropathic arthropathy	unspecified
 2474334019	Diabetes clinical management plan	unspecified
 2338051000000112	Diabetes Distress Scale 17 item	unspecified
-459169018	Type II diabetes mellitus with hypoglycaemic coma	unspecified
-84891000006116	Type II diabetes mellitus with hypoglycaemic coma	unspecified
+459169018	Type II diabetes mellitus with hypoglycaemic coma	type 2
+84891000006116	Type II diabetes mellitus with hypoglycaemic coma	type 2
 771421000006113	Insulin dependent diabetes mellitus with ulcer	unspecified
 3636751012	Acute complication with diabetes mellitus	unspecified
 2906401000006113	Diabetic retinal microaneurysm	unspecified
@@ -593,7 +593,7 @@ MedCodeId	Term	category
 12166111000006116	Retinopathy due to diabetes mellitus	unspecified
 12186011000006117	Autonomic neuropathy with diabetes mellitus	unspecified
 7804621000006115	Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) program	unspecified
-6050061000006116	Type I diabetes mellitus with hypoglycemic coma	unspecified
+6050061000006116	Type I diabetes mellitus with hypoglycemic coma	type 1
 6977421000006110	Ketoacidosis in type II diabetes mellitus	type 2
 6980001000006117	Kidney disorder associated with type 1 diabetes mellitus	type 1
 12482051000006118	Admit diabetic emergency	unspecified
@@ -621,7 +621,7 @@ MedCodeId	Term	category
 3253231000006110	Diabetes mellitus type I	type 1
 4392181000006110	Renal disorder associated with diabetes mellitus	unspecified
 6546261000006110	On examination - Right diabetic foot at high risk	unspecified
-7287621000006117	Type I diabetes mellitus uncontrolled	unspecified
+7287621000006117	Type I diabetes mellitus uncontrolled	type 1
 7708121000006119	Polyneuropathy due to diabetes mellitus type II	type 2
 8022461000006119	Diabetic neuropathic arthropathy due to type 1 diabetes mellitus	type 1
 12086301000006112	Disorder of right macula co-occurrent and due to diabetes mellitus	unspecified
@@ -644,7 +644,7 @@ MedCodeId	Term	category
 12705081000006111	Gastroparesis due to type 2 diabetes mellitus	type 2
 12704971000006113	Neurologic disorder associated with type 2 diabetes mellitus	type 2
 12703991000006112	[X]Unspecified diabetes mellitus with renal complications	unspecified
-12702411000006115	Type II diabetes mellitus with neurological complications	unspecified
+12702411000006115	Type II diabetes mellitus with neurological complications	type 2
 12491561000006117	Diabetic radiculoplexus neuropathy	unspecified
 12626341000006114	QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation	unspecified
 12704961000006118	Diabetic oculopathy associated with type 2 diabetes mellitus	type 2
@@ -656,10 +656,10 @@ MedCodeId	Term	category
 84561000006110	Type 2 diabetes mellitus with neurological complications	type 2
 84581000006117	Type 2 diabetes mellitus with ophthalmic complications	type 2
 84621000006117	Type 2 diabetes mellitus with retinopathy	type 2
-84691000006115	Type I diabetes mellitus with diabetic cataract	unspecified
-84721000006113	Type I diabetes mellitus with mononeuropathy	unspecified
-84751000006116	Type I diabetes mellitus with neurological complications	unspecified
-84991000006112	Type II diabetes mellitus with retinopathy	unspecified
+84691000006115	Type I diabetes mellitus with diabetic cataract	type 1
+84721000006113	Type I diabetes mellitus with mononeuropathy	type 1
+84751000006116	Type I diabetes mellitus with neurological complications	type 1
+84991000006112	Type II diabetes mellitus with retinopathy	type 2
 280521000006117	Non-insulin dependent diabetes mellitus with mononeuropathy	unspecified
 299621000000117	Type 2 diabetes mellitus with gastroparesis	type 2
 468191000006114	Adverse reaction to insulins and antidiabetic agents	unspecified
@@ -674,24 +674,24 @@ MedCodeId	Term	category
 616651000006112	Diabetes mellitus, juvenile type, with ketoacidotic coma	unspecified
 913541000006118	Type 1 diabetes mellitus with multiple complications	type 1
 913661000006118	Type 1 diabetes mellitus with retinopathy	type 1
-913671000006113	Type I diabetes mellitus with retinopathy	unspecified
+913671000006113	Type I diabetes mellitus with retinopathy	type 1
 914051000006113	Type 2 diabetes mellitus with ophthalmic complications	type 2
-914081000006117	Type II diabetes mellitus with neurological complications	unspecified
-914161000006114	Type II diabetes mellitus with retinopathy	unspecified
-914231000006111	Type II diabetes mellitus with mononeuropathy	unspecified
+914081000006117	Type II diabetes mellitus with neurological complications	type 2
+914161000006114	Type II diabetes mellitus with retinopathy	type 2
+914231000006111	Type II diabetes mellitus with mononeuropathy	type 2
 938301000006114	Type 1 diabetes mellitus with exudative maculopathy	type 1
-938331000006118	Type II diabetes mellitus with exudative maculopathy	unspecified
-1667921000000117	Type II diabetes mellitus with gastroparesis	unspecified
-1667941000000112	Type I diabetes mellitus with gastroparesis	unspecified
+938331000006118	Type II diabetes mellitus with exudative maculopathy	type 2
+1667921000000117	Type II diabetes mellitus with gastroparesis	type 2
+1667941000000112	Type I diabetes mellitus with gastroparesis	type 1
 771481000006112	Insulin-dependent diabetes mellitus with neurological comps	unspecified
-84771000006114	Type I diabetes mellitus with ophthalmic complications	unspecified
+84771000006114	Type I diabetes mellitus with ophthalmic complications	type 1
 292541011	Type 1 diabetes mellitus with gangrene	type 1
-292582011	Type II diabetes mellitus with gangrene	unspecified
+292582011	Type II diabetes mellitus with gangrene	type 2
 292503016	Diabetes mellitus NOS with ophthalmic manifestation	unspecified
 292512019	Diabetes mellitus NOS with neurological manifestation	unspecified
 84331000006112	Type 1 diabetes mellitus with gangrene	type 1
 84511000006112	Type 2 diabetes mellitus with gangrene	type 2
-84881000006119	Type II diabetes mellitus with gangrene	unspecified
+84881000006119	Type II diabetes mellitus with gangrene	type 2
 616491000006116	Diabetes mellitus, adult onset, + ophthalmic manifestation	unspecified
 913901000006112	Type 1 diabetes mellitus with diabetic cataract	type 1
 914221000006113	Type 2 diabetes mellitus with mononeuropathy	type 2
@@ -716,11 +716,11 @@ MedCodeId	Term	category
 7863801000006113	Lumbosacral plexopathy co-occurrent and due to diabetes mellitus	unspecified
 7863811000006111	Lumbosacral plexopathy with diabetes mellitus	unspecified
 12762301000006111	Diabetic oculopathy associated with type 2 diabetes mellitus	type 2
-12702421000006111	Type II diabetes mellitus with ophthalmic complications	unspecified
+12702421000006111	Type II diabetes mellitus with ophthalmic complications	type 2
 292583018	Type 2 diabetes mellitus with gangrene	type 2
 84351000006117	Type 1 diabetes mellitus with mononeuropathy	type 1
 84381000006113	Type 1 diabetes mellitus with neurological complications	type 1
-84701000006115	Type I diabetes mellitus with gangrene	unspecified
+84701000006115	Type I diabetes mellitus with gangrene	type 1
 913511000006117	Type 1 diabetes mellitus with neurological complications	type 1
 12332101000006118	Cataract due to diabetes mellitus type 2	type 2
 12336851000006113	Nervous system disorder due to diabetes mellitus	unspecified
@@ -734,12 +734,12 @@ MedCodeId	Term	category
 12491581000006110	Lumbosacral plexopathy with diabetes mellitus	unspecified
 330806013	Adverse reaction to insulins and antidiabetic agents NOS	unspecified
 84501000006114	Type 2 diabetes mellitus with diabetic cataract	type 2
-84811000006114	Type I diabetes mellitus with retinopathy	unspecified
+84811000006114	Type I diabetes mellitus with retinopathy	type 1
 299601000000114	Type 1 diabetes mellitus with gastroparesis	type 1
 616421000006118	Diabetes mellitus with ophthalmic manifestation	unspecified
 616661000006114	Diabetes mellitus, juvenile type, with renal manifestation	unspecified
 913451000006117	Type 1 diabetes mellitus with renal complications	type 1
-914061000006110	Type II diabetes mellitus with ophthalmic complications	unspecified
+914061000006110	Type II diabetes mellitus with ophthalmic complications	type 2
 913501000006115	Insulin-dependent diabetes mellitus with neurological comps	unspecified
 2460251000000115	Diabetic on non-insulin injectable medication	unspecified
 2500921000000110	Diabetic carbohydrate counting diet	unspecified
@@ -777,7 +777,7 @@ MedCodeId	Term	category
 2548430017	Discharged from care of diabetes specialist nurse	unspecified
 459161015	Type 1 diabetes mellitus with hypoglycaemic coma	type 1
 459296014	Type 1 diabetes mellitus with neuropathic arthropathy	type 1
-459311019	Type II diabetes mellitus with arthropathy	unspecified
+459311019	Type II diabetes mellitus with arthropathy	type 2
 459694018	Diabetic lipid lowering diet	unspecified
 459695017	Diabetic weight reducing diet	unspecified
 1223147012	Insulin treated Type II diabetes mellitus	type 2
@@ -799,16 +799,16 @@ MedCodeId	Term	category
 292590011	Type 2 diabetes mellitus - poor control	type 2
 72721000006113	Unstable type I diabetes mellitus	type 1
 84541000006111	Type 2 diabetes mellitus with multiple complications	type 2
-84651000006114	Type I diabetes mellitus	unspecified
-84671000006116	Type I diabetes mellitus maturity onset	unspecified
-84761000006119	Type I diabetes mellitus with neuropathic arthropathy	unspecified
-84851000006110	Type II diabetes mellitus - poor control	unspecified
-84941000006115	Type II diabetes mellitus with neuropathic arthropathy	unspecified
+84651000006114	Type I diabetes mellitus	type 1
+84671000006116	Type I diabetes mellitus maturity onset	type 1
+84761000006119	Type I diabetes mellitus with neuropathic arthropathy	type 1
+84851000006110	Type II diabetes mellitus - poor control	type 2
+84941000006115	Type II diabetes mellitus with neuropathic arthropathy	type 2
 214921000006116	Polyneuropathy in diabetes	unspecified
-913821000006111	Type I diabetes mellitus with polyneuropathy	unspecified
+913821000006111	Type I diabetes mellitus with polyneuropathy	type 1
 914241000006118	Type 2 diabetes mellitus with polyneuropathy	type 2
 928521000006112	Type 1 diabetes mellitus with ketoacidotic coma	type 1
-928611000006115	Type II diabetes mellitus with ketoacidotic coma	unspecified
+928611000006115	Type II diabetes mellitus with ketoacidotic coma	type 2
 931191000006110	Excepted from diabetes qual indicators: Patient unsuitable	unspecified
 1704781000006114	Excluded frm diabetic retinopathy screen as terminal illness	unspecified
 1946701000006110	Provision written information abt diabetes & high HbA1c levl	unspecified
@@ -897,7 +897,7 @@ MedCodeId	Term	category
 406351000000114	Referral for diabetic retinopathy screening	unspecified
 2474309019	Diabetic foot examination declined	unspecified
 2549896013	O/E - sight threatening diabetic retinopathy	unspecified
-459306016	Type II diabetes mellitus with peripheral angiopathy	unspecified
+459306016	Type II diabetes mellitus with peripheral angiopathy	type 2
 459520010	Diabetes resolved	unspecified
 493773010	NIDDM - Non-insulin dependent diabetes mellitus	unspecified
 1484875010	Seen by diabetologist	unspecified
@@ -906,24 +906,24 @@ MedCodeId	Term	category
 1488406011	Diabetic pre-pregnancy counselling	unspecified
 401531012	Diabetic - poor control	unspecified
 449540010	Discharge by diabetic liaison nurse	unspecified
-457325013	Type I diabetes mellitus without complication	unspecified
+457325013	Type I diabetes mellitus without complication	type 1
 457328010	Non-insulin-dependent diabetes mellitus without complication	unspecified
 345487013	Diabetes mellitus with neuropathy	unspecified
 264718013	Diabetic-uncooperative patient	unspecified
 264720011	Date diabetic treatment start	unspecified
 121589010	Diabetes mellitus	unspecified
 250447011	Diabetic diet	unspecified
-84871000006117	Type II diabetes mellitus with diabetic cataract	unspecified
-84901000006117	Type II diabetes mellitus with mononeuropathy	unspecified
-84931000006113	Type II diabetes mellitus with neurological complications	unspecified
+84871000006117	Type II diabetes mellitus with diabetic cataract	type 2
+84901000006117	Type II diabetes mellitus with mononeuropathy	type 2
+84931000006113	Type II diabetes mellitus with neurological complications	type 2
 354661000006118	[X] Adverse reaction to insulins and antidiabetic agents	unspecified
 354671000006113	[X] Adverse reaction to insulins and antidiabetic agents NOS	unspecified
 616591000006117	Diabetes mellitus, juvenile +peripheral circulatory disorder	unspecified
-913521000006113	Type I diabetes mellitus with neurological complications	unspecified
-913791000006119	Type I diabetes mellitus with mononeuropathy	unspecified
-914311000006114	Type II diabetes mellitus with diabetic cataract	unspecified
+913521000006113	Type I diabetes mellitus with neurological complications	type 1
+913791000006119	Type I diabetes mellitus with mononeuropathy	type 1
+914311000006114	Type II diabetes mellitus with diabetic cataract	type 2
 771491000006110	Insulin-dependent diabetes mellitus with ophthalmic comps	unspecified
-913491000006111	Type I diabetes mellitus with ophthalmic complications	unspecified
+913491000006111	Type I diabetes mellitus with ophthalmic complications	type 1
 84321000006114	Type 1 diabetes mellitus with diabetic cataract	type 1
 84531000006118	Type 2 diabetes mellitus with mononeuropathy	type 2
 913781000006117	Type 1 diabetes mellitus with mononeuropathy	type 1
@@ -940,14 +940,14 @@ MedCodeId	Term	category
 72711000006117	Unstable type 1 diabetes mellitus	type 1
 84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy	type 2
 84591000006119	Type 2 diabetes mellitus with peripheral angiopathy	type 2
-84661000006111	Type I diabetes mellitus - poor control	unspecified
-84681000006118	Type I diabetes mellitus with arthropathy	unspecified
-84971000006111	Type II diabetes mellitus with polyneuropathy	unspecified
+84661000006111	Type I diabetes mellitus - poor control	type 1
+84681000006118	Type I diabetes mellitus with arthropathy	type 1
+84971000006111	Type II diabetes mellitus with polyneuropathy	type 2
 616711000006115	Diabetes monitor.verbal invite	unspecified
 616731000006114	Diabetes monitoring 1st letter	unspecified
 616751000006119	Diabetes monitoring 3rd letter	unspecified
 737031000000119	Declined diabetic retinopathy screening	unspecified
-913461000006115	Type I diabetes mellitus with renal complications	unspecified
+913461000006115	Type I diabetes mellitus with renal complications	type 1
 914391000006116	Insulin treated Type 2 diabetes mellitus	type 2
 928501000006119	Type 1 diabetes mellitus with ketoacidosis	type 1
 1164191000000111	Education in self management of diabetes	unspecified
@@ -962,7 +962,7 @@ MedCodeId	Term	category
 787101000006114	IDDM with peripheral circulatory disorder	unspecified
 913441000006119	Insulin-dependent diabetes mellitus with renal complications	unspecified
 913681000006111	Insulin dependent diabetes mellitus - poor control	unspecified
-913941000006114	Type I diabetes mellitus with peripheral angiopathy	unspecified
+913941000006114	Type I diabetes mellitus with peripheral angiopathy	type 1
 2337941000000112	Diabetes Distress Scale 2 item	unspecified
 8118151000006112	Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus	unspecified
 7644681000006117	Gingivitis co-occurrent with diabetes mellitus	unspecified
@@ -1007,7 +1007,7 @@ MedCodeId	Term	category
 2182651000000118	Referral to community diabetes clinic	unspecified
 2230301000000116	Diabetic foot screening invitation third letter	unspecified
 2249871000000113	In-house diabetic foot screening first appointment	unspecified
-2288061000000111	Type II diabetes mellitus in remission	unspecified
+2288061000000111	Type II diabetes mellitus in remission	type 2
 2461101000000116	Has diabetes identity card	unspecified
 1960621000006117	Diabetic foot examination - no action required	unspecified
 1984081000006115	Manchester triage - Diabetes	unspecified
@@ -1051,7 +1051,7 @@ MedCodeId	Term	category
 6975221000006116	Gangrene associated with type II diabetes mellitus	type 2
 6951281000006117	Kidney disorder associated with type 2 diabetes mellitus	type 2
 12335681000006111	Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus	type 2
-493774016	Type II diabetes mellitus	unspecified
+493774016	Type II diabetes mellitus	type 2
 1484886012	O/E - no left diabetic retinopathy	unspecified
 2159955012	Under care of diabetologist	unspecified
 2159974016	O/E - left eye background diabetic retinopathy	unspecified
@@ -1059,15 +1059,15 @@ MedCodeId	Term	category
 2474726011	Pan retinal photocoagulation for diabetes	unspecified
 453050019	Education score - diabetes	unspecified
 457329019	Type 2 diabetes mellitus without complication	type 2
-457330012	Type II diabetes mellitus without complication	unspecified
+457330012	Type II diabetes mellitus without complication	type 2
 458512016	Diabetic on insulin and oral treatment	unspecified
-459312014	Type II diabetes mellitus with neuropathic arthropathy	unspecified
+459312014	Type II diabetes mellitus with neuropathic arthropathy	type 2
 459313016	Type 2 diabetes mellitus with neuropathic arthropathy	type 2
 284124018	Private referral to diabetologist	unspecified
 285751016	Attends diabetes monitoring	unspecified
-292538019	Type I diabetes mellitus with ulcer	unspecified
+292538019	Type I diabetes mellitus with ulcer	type 1
 292579018	Type 2 diabetes mellitus with ulcer	type 2
-292581016	Type II diabetes mellitus with ulcer	unspecified
+292581016	Type II diabetes mellitus with ulcer	type 2
 297754014	Preproliferative diabetic retinopathy	unspecified
 297755010	Advanced diabetic maculopathy	unspecified
 251187019	Diabetic association member	unspecified
@@ -1076,10 +1076,10 @@ MedCodeId	Term	category
 197984010	Type 1 diabetes mellitus	type 1
 216201011	Diabetic retinopathy screening	unspecified
 84461000006114	Type 1 diabetes mellitus without complication	type 1
-84741000006118	Type I diabetes mellitus with nephropathy	unspecified
-84791000006110	Type I diabetes mellitus with polyneuropathy	unspecified
-84911000006119	Type II diabetes mellitus with multiple complications	unspecified
-85011000006119	Type II diabetes mellitus without complication	unspecified
+84741000006118	Type I diabetes mellitus with nephropathy	type 1
+84791000006110	Type I diabetes mellitus with polyneuropathy	type 1
+84911000006119	Type II diabetes mellitus with multiple complications	type 2
+85011000006119	Type II diabetes mellitus without complication	type 2
 280541000006112	Non-insulin dependent diabetes mellitus with polyneuropathy	unspecified
 281161000006114	Non-insulin depend diabetes mellitus with diabetic cataract	unspecified
 5975321000006113	On examination - Left diabetic foot at risk	unspecified
@@ -1122,7 +1122,7 @@ MedCodeId	Term	category
 4788421000006117	Nephrotic syndrome due to diabetes mellitus	unspecified
 2683561000006119	Brittle diabetes mellitus	unspecified
 8098951000006115	Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme	unspecified
-12489851000006117	Type II diabetes mellitus with exudative maculopathy	unspecified
+12489851000006117	Type II diabetes mellitus with exudative maculopathy	type 2
 8323641000006110	DDS2 (Diabetes Distress Scale 2) score	unspecified
 12186021000006113	Autonomic neuropathy co-occurrent and due to diabetes mellitus	unspecified
 12220641000006117	Mononeuritis multiplex co-occurrent and due to diabetes mellitus	unspecified
@@ -1138,17 +1138,17 @@ MedCodeId	Term	category
 12702391000006115	Diabetic cataract associated with type 2 diabetes mellitus	type 2
 12718861000006118	Diabetes mellitus, adult onset, with no mention of complication	unspecified
 12704981000006111	Diabetic retinopathy associated with type 2 diabetes mellitus	type 2
-84951000006118	Type II diabetes mellitus with ophthalmic complications	unspecified
+84951000006118	Type II diabetes mellitus with ophthalmic complications	type 2
 587521000006111	Non-insulin-dependent diabetes mellitus with renal comps	unspecified
 616441000006113	Diabetes mellitus with peripheral circulatory disorder	unspecified
 616581000006115	Diabetes mellitus, adult, + peripheral circulatory disorder	unspecified
-913911000006110	Type I diabetes mellitus with diabetic cataract	unspecified
+913911000006110	Type I diabetes mellitus with diabetic cataract	type 1
 914071000006115	Type 2 diabetes mellitus with neurological complications	type 2
 914151000006112	Type 2 diabetes mellitus with retinopathy	type 2
 914301000006111	Type 2 diabetes mellitus with diabetic cataract	type 2
 928601000006118	Type 2 diabetes mellitus with ketoacidotic coma	type 2
 913471000006110	Insulin-dependent diabetes mellitus with ophthalmic comps	unspecified
-292543014	Type I diabetes mellitus with gangrene	unspecified
+292543014	Type I diabetes mellitus with gangrene	type 1
 2533107019	Patient diabetes education review	unspecified
 616671000006119	Diabetes mellitus, juvenile, + neurological manifestation	unspecified
 12218511000006112	Kidney disorder due to diabetes mellitus	unspecified
