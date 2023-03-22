@@ -115,10 +115,10 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 &nbsp;
 
 ### Smoking
-* Take most recently recorded smoking category (non-smoker, ex-smoker, active smoker)
+* Take most recently recorded smoking category (non-smoker, ex-smoker, active smoker); if both non-smoker and ex-smoker recorded then choose ex-smoker
 * If most recent is 'non-smoker' but have previously been recorded as active smoker, then categorise as 'ex-smoker'
-* Look at the next most recent date if more than one category is coded on the most recent date
-* (NB: different algorithm used for smoking variable used in QRISK2/QDiabetes-Heart Failure: use most recent medcode within last 5 years and QRISK2 category associated with that code (0=non-smoker, 1=ex-smoker, 2=light smoker [1-10 cig/day], 3=moderate smoker [11-19 cig/day], 4=heavy smoker [20+ cig/day]). However, if medcode has a value associated with it and a valid numunitid (see 'smoking' in biomarker_acceptable_units.txt file in Biomarker directory), assume value is number of cigarettes per day, and use to re-assign those in category 0, 2, 3, and 4 (assume values associated with ex-smoking codes are cig/day that person used to smoke). Ignore values associated with medcode '1780396011' (Cigarette pack/years).)
+* Look at the next most recent date if conflicting categories (ex-smoker and active smoker or non-smoker and active smoker) are recorded on the most recent date
+* (NB: different algorithm used for smoking variable used in QRISK2/QDiabetes-Heart Failure: use most recent medcode within last 5 years and QRISK2 category associated with that code (0=non-smoker, 1=ex-smoker, 2=light smoker [1-10 cig/day], 3=moderate smoker [11-19 cig/day], 4=heavy smoker [20+ cig/day]). If both non-smoker and ex-smoker are recorded then choose ex-smoker. However, if medcode has a value associated with it and a valid numunitid (see 'smoking' in biomarker_acceptable_units.txt file in Biomarker directory), assume value is number of cigarettes per day, and use to re-assign those in category 0, 2, 3, and 4 (assume values associated with ex-smoking codes are cig/day that person used to smoke). Ignore values associated with medcode '1780396011' (Cigarette pack/years). If conflicting categories (0 and 2/3/4 or 1 and 2/3/4) recorded on the same day, use minimum.)
 
 &nbsp;
 
