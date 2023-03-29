@@ -1,0 +1,29 @@
+medcodeid	term_medcode
+352985010	Chronic pancreatitis
+303793019	[X]Other chronic pancreatitis
+5081061000006116	CP - Chronic pancreatitis
+5087751000006113	Chronic pancreatitis due to acute alcohol intoxication
+353698013	Alcohol-induced chronic pancreatitis
+353697015	Gallstone chronic pancreatitis
+4194881000006115	Pancreatic pseudocyst
+178612013	Pseudocyst of pancreas
+303644016	Pancreatic cyst and pseudocyst NOS
+303643010	Cyst and pseudocyst of pancreas
+5087761000006110	Idiopathic chronic pancreatitis
+5087771000006115	Obstructive chronic pancreatitis
+5087781000006117	Drug-induced chronic pancreatitis
+5888001000006111	Calcific chronic pancreatitis
+6650481000006113	Drainage of pancreatic pseudocyst
+404881000000118	History of chronic pancreatitis
+1227462017	Pancreatic cyst
+3003961000006113	Cyst of pancreas
+2727361000006118	Incision and drainage of pseudocyst of pancreas
+2756191000006113	Drainage of pseudocyst of pancreas by anastomosis
+3673691000006111	External drainage of pseudocyst of pancreas
+3718891000006117	Chronic fibrosing pancreatitis
+5119631000006113	Drainage of peritoneal pseudocyst
+6715491000006118	Infected pancreatic pseudocyst
+8048151000006113	Chronic pancreatitis due to chronic alcoholism
+7821821000006110	Acute on chronic pancreatitis
+7857561000006112	Tropical calcific chronic pancreatitis
+12054431000006113	Chronic pancreatitis due to acute alcohol intoxication
