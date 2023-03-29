@@ -1,0 +1,4 @@
+ICD10	Term_description
+K85	Acute pancreatitis
+B26.3	Mumps pancreatitis
+B25.2	Cytomegaloviral pancreatitis

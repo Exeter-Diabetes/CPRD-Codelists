@@ -1,0 +1,2 @@
+ICD10	Term_description
+C25	Malignant neoplasm of pancreas
