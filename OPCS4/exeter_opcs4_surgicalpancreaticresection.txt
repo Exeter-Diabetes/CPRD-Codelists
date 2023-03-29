@@ -1,0 +1,23 @@
+OPCS4	Term_description
+J55	Total excision of pancreas
+J551	Total pancreatectomy and excision of surrounding tissue
+J552	Total pancreatectomy NEC
+J553	Excision of transplanted pancreas
+J558	Other specified total excision of pancreas
+J559	Unspecified total excision of pancreas
+J56	Excision of head of pancreas
+J561	Pancreaticoduodenectomy and excision of surrounding tissue
+J562	Pancreaticoduodenectomy and resection of antrum of stomach
+J563	Pancreaticoduodenectomy NEC
+J564	Subtotal excision of head of pancreas with preservation of duodenum and drainage HFQ
+J568	Other specified excision of head of pancreas
+J569	Unspecified excision of head of pancreas
+J57	Other partial excision of pancreas
+J571	Subtotal pancreatectomy
+J572	Left pancreatectomy and drainage of pancreatic duct
+J573	Left pancreatectomy NEC
+J574	Excision of tail of pancreas and drainage of pancreatic duct
+J575	Excision of tail of pancreas NEC
+J576	Pancreatic necrosectomy
+J578	Other specified other partial excision of pancreas
+J579	Unspecified other partial excision of pancreas
