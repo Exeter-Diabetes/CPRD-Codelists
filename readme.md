@@ -69,7 +69,7 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
-* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. Codes for non-Type 1/non-Type 2 diabetes mellitus were removed, but these codes are also in the 'exclusion_diabetes' codelist, so people with these codes are removed anyway (see next bullet point).
+* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, but these codes are also in the 'exclusion_diabetes' codelist, so people with these codes are removed (see next bullet point).
 * No diabetes exclusion medcodes (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date
 
 &nbsp;
