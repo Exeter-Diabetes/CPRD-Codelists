@@ -154,3 +154,4 @@ MedCodeId	Term	category
 3232101000006118	Diabetes insipidus secondary to vasopressin deficiency	diabetes insipidus
 3232021000006110	Neurohypophyseal diabetes insipidus	diabetes insipidus
 26721014	Diabetes insipidus	diabetes insipidus
+1495356017	Total lipoatrophy	other/unspec
