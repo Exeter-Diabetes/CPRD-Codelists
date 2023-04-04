@@ -69,7 +69,7 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 ## Diabetes algorithms
 
-A flow diagram of the overall process of defining a mixed Type 1/Type 2 diabetes cohort can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts#background).
+A flow diagram of the overall process of defining a mixed Type 1/Type 2 diabetes cohort can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts#introduction).
 
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
