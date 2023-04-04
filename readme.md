@@ -1,5 +1,7 @@
 # Exeter Diabetes codelists
-CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a November 2020 download of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
+CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on an October 2020 extract of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
+
+Our scripts which use these codelists and the below algorithms to define cohorts and pull in relevant biomarker/comorbidity/sociodemographic information from CPRD Aurum can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts).
 
 &nbsp;
 
@@ -67,6 +69,8 @@ CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on a
 
 ## Diabetes algorithms
 
+A flow diagram of the overall process of defining a mixed Type 1/Type 2 diabetes cohort can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts#background).
+
 ### Defining a cohort of mixed Type 1 and Type 2 diabetes
 Include participants with:
 * At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, but these codes are also in the 'exclusion_diabetes' codelist, so people with these codes are removed (see next bullet point).
@@ -81,7 +85,6 @@ Diagnosis date is earliest of:
 * Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (values <=20 assumed to be in % units and converted to mmol/mol)
 
 Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescription for a glucose-lowering medication or HbA1c >=47.5 mmol/mol in their year of birth are excluded from further analysis as presumably there are coding errors.
-
 
 &nbsp;
 
@@ -98,7 +101,7 @@ Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescr
     * If time between diagnosis date and start of insulin treatment is not available (i.e. diagnosis date < start of registration):
       * If diagnosed <35 years and not currently taking a non-insulin glucose lowering medication (no prescription for a non-insulin glucose lowering medication within 6 months of end of records (earliest of death/deregistration/last collection date from Practice)), Type 1, otherwise Type 2
       
-Since diabetes type is used to inform whether diabetes medcodes in year of birth should be excluded or not (see above 'Defining the diagnosis date of diabetes'), this can create a circular problem in those with no Type 1 or Type 2-specific codes, where someone is classified as Type 1 if diabetes medcodes in year of birth are included, and Type 2 if diabetes medcodes in year of birth are excluded (or vice versa, if time to insulin from diagnosis is affected). These people are classed as 'unclassified', and need further investigation to establish diabetes type and date/age of diagnosis.
+Since diabetes type is used to inform whether diabetes medcodes in year of birth should be excluded or not (see above 'Defining the diagnosis date of diabetes'), this can create a circular problem in those with no Type 1 or Type 2-specific codes, where someone is classified as Type 1 if diabetes medcodes in year of birth are included, and Type 2 if diabetes medcodes in year of birth are excluded (or vice versa, if time to insulin from diagnosis is affected). These people are classed as 'unclassified', and need further investigation to establish diabetes type and date/age of diagnosis (we have excluded from our general Type 1/Type 2 cohort).
 
 See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4 for how this compares to other methods for classifying Type 1 and Type 2 diabetes.
       
