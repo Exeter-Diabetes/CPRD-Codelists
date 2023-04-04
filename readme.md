@@ -84,7 +84,7 @@ Diagnosis date is earliest of:
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
 * Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (values <=20 assumed to be in % units and converted to mmol/mol)
 
-Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescription for a glucose-lowering medication or HbA1c >=47.5 mmol/mol in their year of birth are excluded from further analysis as presumably there are coding errors.
+Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescription for a glucose-lowering medication or HbA1c >=47.5 mmol/mol in their year of birth, or with no diabetes medcodes/prescriptions for glucose-lowering medications/HbA1cs >=47.5 mmol/mol after the year of birth are excluded from further analysis as presumably there are coding errors.
 
 &nbsp;
 
