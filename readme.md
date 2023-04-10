@@ -111,23 +111,23 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 
 ### Ethnicity
 * Three different ethnicity variables are produced: 5-category, 16-category, and QRISK2-category. Each is determined separately by:
- * Taking the most commonly recorded ethnicity category, excluding all 'unknown' ethnicity codes
- * If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
+  * Taking the most commonly recorded ethnicity category, excluding all 'unknown' ethnicity codes
+  * If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
 * For each person, if the 16-category or QRISK2-category category conflicts with the 5-category ethnicity\*, the 16-/QRISK2-category ethnicity is set to unknown
 * For any unknown ethnicities, secondary care [HES] ethnicity is used where available
 
 \*Conflicts:
 * If 5-category ethnicity is 'White' and
- * 16-category ethnicity is 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', 'Black Caribbean', 'Black African', 'Other Black', or 'Chinese'
- * QRISK2-category ethnicity is 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', 'Black Caribbean', 'Black African', or 'Chinese'
+  * 16-category ethnicity is 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', 'Black Caribbean', 'Black African', 'Other Black', or 'Chinese'
+  * QRISK2-category ethnicity is 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', 'Black Caribbean', 'Black African', or 'Chinese'
 
 * If 5-category ethnicity is 'South Asian' and
- * 16-category ethnicity is 'White British', 'White Irish', 'Other White', 'White and Black Caribbean', 'White and Black African', 'Black Caribbean', 'Black African', 'Other Black', or 'Chinese'
+  * 16-category ethnicity is 'White British', 'White Irish', 'Other White', 'White and Black Caribbean', 'White and Black African', 'Black Caribbean', 'Black African', 'Other Black', or 'Chinese'
  * QRISK2-category ethnicity is 'White', 'Black Caribbean', 'Black African', or 'Chinese'
 
 * If 5-category ethnicity is 'Black' and
- * 16-category ethnicity is 'White British', 'White Irish', 'Other White', 'White and Asian', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
- * QRISK2-category ethnicity is 'White', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
+  * 16-category ethnicity is 'White British', 'White Irish', 'Other White', 'White and Asian', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
+  * QRISK2-category ethnicity is 'White', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
 
 
 &nbsp;
