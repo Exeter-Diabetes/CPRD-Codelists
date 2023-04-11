@@ -71,14 +71,15 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 A flow diagram of the overall process of defining a diabetes cohort can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts#introduction).
 
-### Defining a cohort of mixed Type 1 and Type 2 diabetes
+### Defining a cohort of mixed Type 1/Type 2/'other' diabetes
 Include participants with:
 * At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, but these codes are also in the 'exclusion_diabetes' codelist, so people with these codes are removed (see next bullet point).
-* No diabetes exclusion medcodes (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date; people with these codes are defined as having 'Other' diabetes type.
+
+Those with any diabetes exclusion medcode (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date are defined as having 'Other' diabetes type (i.e. not Type 1 or 2).
 
 &nbsp;
 
-### Defining the diagnosis date of diabetes (for Type 1, Type 2 and 'Other' [see above])
+### Defining the diagnosis date of diabetes
 Diagnosis date is earliest of:
 * Any diabetes medcode (Diabetes/exeter_medcodelist_all_diabetes) except those with obstypeid=4 (family history), or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below)
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
