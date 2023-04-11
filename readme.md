@@ -73,7 +73,7 @@ A flow diagram of the overall process of defining a diabetes cohort can be found
 
 ### Defining a cohort of mixed Type 1/Type 2/'other' diabetes
 Include participants with:
-* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, so people with non-Type 1/non-Type 2 diabetes mellitus will not be excluded (note that gestational diabetes is not in QOF so people with gestational diabetes only may be excluded).
+* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. This includes QOF codes for non-Type 1/non-Type 2 diabetes mellitus (note that gestational diabetes is not in QOF so people with gestational diabetes only may be excluded at this stage).
 
 &nbsp;
 
