@@ -73,9 +73,7 @@ A flow diagram of the overall process of defining a diabetes cohort can be found
 
 ### Defining a cohort of mixed Type 1/Type 2/'other' diabetes
 Include participants with:
-* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, but these codes are also in the 'exclusion_diabetes' codelist, so people with these codes are removed (see next bullet point).
-
-Those with any diabetes exclusion medcode (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date are defined as having 'Other' diabetes type (i.e. not Type 1 or 2).
+* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. QOF codes for non-Type 1/non-Type 2 diabetes mellitus were not excluded, so people with non-Type 1/non-Type 2 diabetes mellitus will not be excluded (note that gestational diabetes is not in QOF so people with gestational diabetes only may be excluded).
 
 &nbsp;
 
@@ -89,7 +87,11 @@ Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescr
 
 &nbsp;
 
-### Defining Type 1 vs Type 2 in a mixed Type 1/Type 2 cohort
+### Defining diabetes type
+
+Those with any diabetes exclusion medcode (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date are defined as having 'Other' diabetes type (i.e. not Type 1 or 2).
+
+For those with no diabetes exclusion medcodes:
 * No insulin prescriptions: Type 2
 * With at least one insulin prescription:
   * With multiple Type 1- and/or Type 2-specific medcodes with any date (exeter_medcodelist_all_diabetes, category="type 1" or "type 2"):
