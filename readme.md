@@ -79,7 +79,7 @@ Include participants with:
 
 ### Defining the diagnosis date of diabetes
 Diagnosis date is earliest of:
-* Any diabetes medcode (Diabetes/exeter_medcodelist_all_diabetes) except those with obstypeid=4 (family history), or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below)
+* Any diabetes medcode (including 'exclusion' i.e. non_type 1/Type 2 types; Diabetes/exeter_medcodelist_all_diabetes and Diabetes/exeter_medcodelist_diabetes_exclusion) except those with obstypeid=4 (family history), or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below)
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
 * Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (values <=20 assumed to be in % units and converted to mmol/mol)
 
