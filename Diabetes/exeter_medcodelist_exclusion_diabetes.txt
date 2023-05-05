@@ -117,10 +117,10 @@ MedCodeId	Term	category
 1703761000000114	Gestational diabetes information leaflet given	gestational
 8016631000006118	Gestational DM antepartum	gestational
 20191016	Gestational diabetes mellitus	gestational
-3296773014	DM caused by insulin receptor ab	other unspec
-2164134013	DM due to insulin receptor ab	other unspec
-125705011	Diabetes mellitus due to insulin receptor antibodies	other unspec
-3291658019	Diabetes mellitus caused by insulin receptor antibodies	other unspec
+3296773014	DM caused by insulin receptor ab	insulin receptor abs
+2164134013	DM due to insulin receptor ab	insulin receptor abs
+125705011	Diabetes mellitus due to insulin receptor antibodies	insulin receptor abs
+3291658019	Diabetes mellitus caused by insulin receptor antibodies	insulin receptor abs
 292495016	Other specified diabetes mellitus with renal complications	other unspec
 293756010	[X]Other specified diabetes mellitus	other unspec
 13751000006117	Other specified diabetes mellitus with multiple comps	other unspec
