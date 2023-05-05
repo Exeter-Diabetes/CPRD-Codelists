@@ -101,14 +101,14 @@ MedCodeId	Term	category
 6958521000006110	Neurological disorder associated with malnutrition-related diabetes mellitus	malnutrition
 6964251000006119	Coma associated with malnutrition-related diabetes mellitus	malnutrition
 1786841000006118	Gestational diabetes mellitus annual review	gestational
-622051000000118	[V]Personal history of gestational diabetes mellitus	gestational
+622051000000118	[V]Personal history of gestational diabetes mellitus	gestational history
 801901000006119	Gestational diabetes mellitus	gestational
 5587071000006119	Diabetes mellitus in neonate small for gestational age	gestational
 8016611000006112	Gestational diabetes, delivered	gestational
 8016621000006116	Gestational diabetes mellitus complicating pregnancy	gestational
 8016601000006114	Postpartum gestational diabetes mellitus	gestational
 3719631000006112	Gestational diabetes mellitus, class A>1<	gestational
-7480721000006111	H/O gestational diabetes mellitus	gestational
+7480721000006111	H/O gestational diabetes mellitus	gestational history
 2686071000006114	Gestational diabetes	gestational
 2128081000000111	Gestational diabetes mellitus annual review	gestational
 1220321013	Diabetes mellitus arising in pregnancy	gestational
@@ -117,21 +117,21 @@ MedCodeId	Term	category
 1703761000000114	Gestational diabetes information leaflet given	gestational
 8016631000006118	Gestational DM antepartum	gestational
 20191016	Gestational diabetes mellitus	gestational
-3296773014	DM caused by insulin receptor ab	other/unspec
-2164134013	DM due to insulin receptor ab	other/unspec
-125705011	Diabetes mellitus due to insulin receptor antibodies	other/unspec
-3291658019	Diabetes mellitus caused by insulin receptor antibodies	other/unspec
-292495016	Other specified diabetes mellitus with renal complications	other/unspec
-293756010	[X]Other specified diabetes mellitus	other/unspec
-13751000006117	Other specified diabetes mellitus with multiple comps	other/unspec
-13811000006110	Other specified diabetes mellitus with unspecified comps	other/unspec
-12725191000006116	Other specified diabetes mellitus with coma	other/unspec
-13761000006115	Other specified diabetes mellitus with neurological comps	other/unspec
-13771000006110	Other specified diabetes mellitus with ophthalmic complicatn	other/unspec
-13781000006113	Other specified diabetes mellitus with other spec comps	other/unspec
-292488013	Other specified diabetes mellitus with coma	other/unspec
-292478012	Other specified diabetes mellitus with ketoacidosis	other/unspec
-13791000006111	Other specified diabetes mellitus with periph circ comps	other/unspec
+3296773014	DM caused by insulin receptor ab	other unspec
+2164134013	DM due to insulin receptor ab	other unspec
+125705011	Diabetes mellitus due to insulin receptor antibodies	other unspec
+3291658019	Diabetes mellitus caused by insulin receptor antibodies	other unspec
+292495016	Other specified diabetes mellitus with renal complications	other unspec
+293756010	[X]Other specified diabetes mellitus	other unspec
+13751000006117	Other specified diabetes mellitus with multiple comps	other unspec
+13811000006110	Other specified diabetes mellitus with unspecified comps	other unspec
+12725191000006116	Other specified diabetes mellitus with coma	other unspec
+13761000006115	Other specified diabetes mellitus with neurological comps	other unspec
+13771000006110	Other specified diabetes mellitus with ophthalmic complicatn	other unspec
+13781000006113	Other specified diabetes mellitus with other spec comps	other unspec
+292488013	Other specified diabetes mellitus with coma	other unspec
+292478012	Other specified diabetes mellitus with ketoacidosis	other unspec
+13791000006111	Other specified diabetes mellitus with periph circ comps	other unspec
 354316011	Renal diabetes	diabetes insipidus
 75638010	Cranial diabetes insipidus	diabetes insipidus
 119846018	Nephrogenic diabetes insipidus	diabetes insipidus
@@ -154,4 +154,4 @@ MedCodeId	Term	category
 3232101000006118	Diabetes insipidus secondary to vasopressin deficiency	diabetes insipidus
 3232021000006110	Neurohypophyseal diabetes insipidus	diabetes insipidus
 26721014	Diabetes insipidus	diabetes insipidus
-1495356017	Total lipoatrophy	other/unspec
+1495356017	Total lipoatrophy	other/unspec genetic inc syndromic
