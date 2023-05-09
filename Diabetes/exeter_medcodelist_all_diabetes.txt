@@ -26,7 +26,6 @@ MedCodeId	Term	category
 283584016	Non-urgent diabetic admission	unspecified
 283620017	Referral to diabetologist	unspecified
 283889016	Diabetology D.V. requested	unspecified
-285223014	Seen in diabetic clinic	unspecified
 285752011	Refuses diabetes monitoring	unspecified
 285759019	Diabetes monitoring deleted	unspecified
 292482014	Diabetes mellitus, juvenile type, with hyperosmolar coma	unspecified
