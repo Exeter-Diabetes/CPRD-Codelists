@@ -1,0 +1,8 @@
+ICD10	Term_description
+I60	Subarachnoid haemorrhage
+I61	Intracerebral haemorrhage
+I62.9	Intracranial haemorrhage (nontraumatic), unspecified
+I69.0	Sequelae of subarachnoid haemorrhage
+I69.1	Sequelae of intracerebral haemorrhage
+I69.2	Sequelae of other nontraumatic intracranial haemorrhage
+S06.6	Traumatic subarachnoid haemorrhage
