@@ -86,6 +86,8 @@ Diagnosis date is earliest of:
 
 Type 2 patients (see Type 1/Type 2 classification algorithm below) with a prescription for a glucose-lowering medication or HbA1c >=47.5 mmol/mol in their year of birth, or with no diabetes medcodes/prescriptions for glucose-lowering medications/HbA1cs >=47.5 mmol/mol after the year of birth are excluded from further analysis as presumably there are coding errors.
 
+Diagnosis dates within -30 to +90 days (inclusive) of registration start are set to missing as they may be unreliable (similar to (https://bmjopen.bmj.com/content/7/10/e017989)[https://bmjopen.bmj.com/content/7/10/e017989] except we also excluded diagnoses up to 30 days before registration as our analysis showed an excess of diagnoses in this period).
+
 &nbsp;
 
 ### Defining diabetes type
