@@ -1,0 +1,11 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+2274541000033111	3396611000001103	GlucaGen Hypokit 1mg powder and solvent for solution for injection (Novo Nordisk Ltd)	GlucaGen Hypokit 1mg powder and solvent for solution for injection	Powder and solvent for solution for injection	Intravenous/ Subcutaneous/ Intramuscular	Glucagon hydrochloride	1.000mg	6010400	NA
+639241000033114	36051511000001105	Glucagon 1mg powder and solvent for solution for injection vials	Glucagon 1mg powder and solvent for solution for injection vials	Powder and solvent for solution for injection	Intramuscular/ Subcutaneous/ Intravenous	Glucagon hydrochloride	1.000mg	6010400	NA
+639841000033113	NA	Glucagon Injection 10 units/vial	NA	NA	NA	NA	NA	NA	NA
+640341000033114	NA	Glucagon Lilly Injection 1 unit/vial	NA	NA	NA	NA	NA	NA	NA
+640541000033119	NA	Glucagon Novo Injection 10 units/vial	NA	NA	NA	NA	NA	NA	NA
+1732441000033112	NA	Glucagen Kit Pre-Filled Syringe 1 mg/syringe	NA	NA	NA	NA	NA	NA	NA
+1732541000033113	NA	Glucagon (Rys) Hydrochloride Pre-Filled Syringe 1 mg/syringe	NA	NA	NA	NA	NA	NA	NA
+640441000033115	NA	Glucagon Novo Injection 1 unit/syringe	NA	NA	NA	NA	NA	NA	NA
+638741000033112	NA	Glucagon Injection 1 unit/vial	NA	NA	NA	NA	NA	NA	NA
+639141000033119	NA	Glucagen Injection 1 mg/vial	NA	NA	NA	NA	NA	NA	NA

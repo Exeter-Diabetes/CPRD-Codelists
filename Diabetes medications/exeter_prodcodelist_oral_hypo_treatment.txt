@@ -1,0 +1,17 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+3344841000033111	4255211000001108	GlucoGel 40% gel original (BBI Healthcare Ltd)	GlucoGel 40% gel original	Oral gel	NA	Glucose	400.000mg/1.000gram	6010400	NA
+5292241000033113	4255811000001109	Glucose 40% oral gel	Glucose 40% oral gel	Oral gel	Oral	Glucose	400.000mg/1.000gram	6010400	NA
+5080741000033111	15607411000001102	Dextrogel 40% gel (Neoceuticals Ltd)	Dextrogel 40% gel	Oral gel	NA	Glucose	400.000mg/1.000gram	6010400	NA
+6430241000033119	19476811000001102	Rapilose 40% gel (Galen Ltd)	Rapilose 40% gel	Oral gel	Oral	Glucose	400.000mg/1.000gram	6010400	NA
+7859641000033117	20489611000001101	GlucoBoost 40% gel (Ennogen Healthcare Ltd)	GlucoBoost 40% gel	Oral gel	NA	Glucose	400.000mg/1.000gram	NA	NA
+13301841000033118	22214711000001103	GlucoGel 40% gel berry (BBI Healthcare Ltd)	GlucoGel 40% gel berry	Oral gel	NA	Glucose	400.000mg/1.000gram	NA	NA
+11693441000033119	32880811000001106	YourGLUCO 40% gel (Your Products Ltd)	YourGLUCO 40% gel	Oral gel	NA	Glucose	400.000mg/1.000gram	NA	NA
+638141000033113	328302009	Glucose powder for oral use BP 1980	Glucose powder for oral use BP 1980	Powder	Oral	NA	NA	NA	NA
+3995641000033110	3465911000001108	Glucose tablets	Glucose tablets	Not applicable	Route of administration not applicable	NA	NA	NA	NA
+13146141000033116	19807211000001100	Lift Glucose Shot liquid lemon & lime (BBI Healthcare Ltd)	Lift Glucose Shot liquid lemon & lime	Liquid	NA	NA	NA	NA	NA
+13145841000033117	19959011000001103	Lift Glucose tablets raspberry (BBI Healthcare Ltd)	Lift Glucose tablets raspberry	Not applicable	NA	NA	NA	NA	NA
+13145741000033110	19959411000001107	Lift Glucose tablets orange (BBI Healthcare Ltd)	Lift Glucose tablets orange	Not applicable	NA	NA	NA	NA	NA
+13145541000033119	23363611000001109	Lift Glucose tablets blueberry (BBI Healthcare Ltd)	Lift Glucose tablets blueberry	Not applicable	NA	NA	NA	NA	NA
+13145641000033118	23363811000001108	Lift Glucose tablets lemon and lime (BBI Healthcare Ltd)	Lift Glucose tablets lemon and lime	Not applicable	NA	NA	NA	NA	NA
+13146041000033115	36950911000001101	Lift Glucose Shot liquid berry (BBI Healthcare Ltd)	Lift Glucose Shot liquid berry	Liquid	NA	NA	NA	NA	NA
+13145941000033113	37515011000001107	Lift Glucose Shot liquid (Flavour Not Specified)	Lift Glucose Shot liquid	Liquid	NA	NA	NA	NA	NA
