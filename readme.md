@@ -163,3 +163,10 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 * 3 digit ICD10 and OPCS4 codes should be used to find matching 3 digit and 4 digit codes (i.e. those which start with the matching 3 digits)
 * ICD10 and OPCS4 codes do not contain lowercase letters, so case sensitive matching is not required
 * Episode start date used as date of diagnosis
+
+&nbsp;
+
+## Code list generation process
+
+<img src="https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/Images/codelist_generation_pipeline.png?" width="1000">
+
