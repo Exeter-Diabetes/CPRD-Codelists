@@ -167,6 +167,8 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 &nbsp;
 
 ## Code list generation process
+In order to generate medcode lists for use in our CPRD Aurum dataset, we developed a flexible pipeline that is adaptable to any condition, biomarker, or sociodemographic feature (as detailed in the flow diagram below). This process generates Read and SNOMED code lists, as GP systems are switching from using Read codes to SNOMED codes, and maps them to medcodes (CPRD’s own coding format). The pipeline uses published code lists from online repositories as inputs where available, as well as term searching and mapping from Read to SNOMED codes. All code lists generated using this pipeline are reviewed by a clinician. 
 
 <img src="https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/Images/codelist_generation_pipeline.png?" width="1000">
 
+Our prodcode, ICD-10, and OPCS-4 code lists do not use this pipeline, but are all put together with input from a clinician. 
