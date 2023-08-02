@@ -173,4 +173,4 @@ In order to generate medcode lists for use in our CPRD Aurum dataset, we develop
 <img src="https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/Images/codelist_generation_pipeline.png?" width="1000">
 
 ### Other
-Our prodcode, ICD-10, and OPCS-4 code lists do not use this pipeline, but are all put together with input from a clinician. 
+Our prodcode, ICD-10, and OPCS-4 code lists do not use this pipeline, but are all put together with input from a clinician. For prodcodes, we generated a list of all generic and brand names for the medication of interest and searched for these in the CPRD Product Dictionary.
