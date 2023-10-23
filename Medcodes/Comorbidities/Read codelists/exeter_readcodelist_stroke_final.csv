@@ -1,0 +1,273 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14A7.#,H/O: CVA/stroke,1,1,2,809421000006116#,History of cerebrovascular accident,14A7,14A7.00,275526006,2986886017,NA,32,14A7.00#
+14A7.#,H/O: CVA/stroke,1,1,2,411518010#,H/O: CVA,14A7-1,14A7.11,275526006,411518010,NA,32,14A7.11#
+14A7.#,H/O: CVA/stroke,1,1,2,2476091017#,H/O: stroke,14A7-2,14A7.12,275526006,2476091017,NA,32,14A7.12#
+662M.#,Stroke monitoring,1,1,2,264499015#,Stroke monitoring,662M,662M.00,170600009,264499015,NA,1,662M.00#
+Fyu56#,[X]Other lacunar syndromes,1,1,2,299342019#,Lacunar infarction,Fyu56,Fyu5600,230698000,345651012,NA,32,Fyu5600#
+G663.#,Brain stem stroke syndrome,1,1,2,524511000006116#,Brainstem stroke syndrome,G663,G663.00,195212005,300365015,NA,32,G663.00#
+G664.#,Cerebellar stroke syndrome,1,1,2,300366019#,Cerebellar stroke syndrome,G664,G664.00,195213000,300366019,NA,32,G664.00#
+G667.#,Left sided CVA,1,1,2,300370010#,Left sided CVA,G667,G667.00,195216008,300370010,NA,32,G667.00#
+G668.#,Right sided CVA,1,1,2,300371014#,Right sided CVA,G668,G668.00,195217004,300371014,NA,32,G668.00#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,405339016#,Cerebrovascular accident,G66,G66..00,230690007,345637012,NA,32,G66..00#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,605491000006113#,CVA - Cerebrovascular accident,G66-3,G66..13,230690007,345635016,NA,32,G66..13#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,884531000006117#,Stroke,G66-99,G66..99,685631000000102,884531000006117,NA,32,G66..99#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,605501000006117#,CVA unspecified,G66-1,G66..11,230690007,345637012,NA,32,G66..11#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,884521000006115#,Stroke/CVA - undefined,G66-98,G66..98,685631000000102,884521000006115,NA,32,G66..98#
+G66..#,Stroke and cerebrovascular accident unspecified,1,1,2,122401000006115#,Stroke unspecified,G66-2,G66..12,230690007,345637012,NA,32,G66..12#
+Gyu6C#,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",1,1,2,426321000006116#,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",Gyu6C,Gyu6C00,195239002,300403014,NA,32,Gyu6C00#
+L440.#,CVA - cerebrovascular accident in the puerperium,1,1,2,411416011#,Stroke in the puerperium,L440-2,L440.12,275434003,411416011,NA,32,L440.12#
+L440.#,CVA - cerebrovascular accident in the puerperium,1,1,2,605481000006110#,CVA - cerebrovascular accident in the puerperium,L440-1,L440.11,275434003,411416011,NA,32,L440.11#
+L440.#,CVA - cerebrovascular accident in the puerperium,1,1,2,543251000006116#,Cerebrovascular disorder in the puerperium,L440,L440.00,6594005,11941010,NA,32,L440.00#
+G63..#,Infarction - precerebral,1,1,2,345639010#,Infarction - precerebral,G63-1,G63..11,230692004,345639010,NA,32,G63..11#
+G63..#,Infarction - precerebral,1,1,2,395777014#,Precerebral arterial occlusion,G63,G63..00,266253001,395777014,NA,32,G63..00#
+G63..#,Infarction - precerebral,1,1,2,126301000006113#,Stenosis of precerebral artery,G63-2,G63..12,1055001,2858018,NA,32,G63..12#
+G63y0#,Cerebral infarct due to thrombosis of precerebral arteries,1,1,2,300312010#,Cerebral infarct due to thrombosis of precerebral arteries,G63y0,G63y000,195185009,300312010,NA,32,G63y000#
+G63y1#,Cerebral infarction due to embolism of precerebral arteries,1,1,2,300313017#,Cerebral infarction due to embolism of precerebral arteries,G63y1,G63y100,195186005,300313017,NA,32,G63y100#
+G6400#,Cerebral infarction due to thrombosis of cerebral arteries,1,1,2,300321011#,Cerebral infarction due to thrombosis of cerebral arteries,G6400,G640000,195189003,300321011,NA,32,G640000#
+G640.#,Cerebral thrombosis,1,1,2,118689010#,Cerebral thrombosis,G640,G640.00,71444005,118689010,NA,32,G640.00#
+G6410#,Cerebral infarction due to embolism of cerebral arteries,1,1,2,300322016#,Cerebral infarction due to embolism of cerebral arteries,G6410,G641000,195190007,300322016,NA,32,G641000#
+G641.#,Cerebral embolism,1,1,2,125470015#,Cerebral embolism,G641,G641.00,75543006,125470015,NA,32,G641.00#
+G641.#,Cerebral embolism,1,1,2,542831000006116#,Cerebral embolus,G641-1,G641.11,75543006,125470015,NA,32,G641.11#
+G64..#,Cerebral arterial occlusion,1,1,2,218511000000117#,Infarction - cerebral,G64-2,G64..12,432504007,2770034014,NA,32,G64..12#
+G64..#,Cerebral arterial occlusion,1,1,2,1222398015#,Cerebral arterial occlusion,G64,G64..00,20059004,1222398015,NA,32,G64..00#
+G64..#,Cerebral arterial occlusion,1,1,2,122361000006113#,Stroke due to cerebral arterial occlusion,G64-3,G64..13,230691006,345638019,NA,32,G64..13#
+G64..#,Cerebral arterial occlusion,1,1,2,605461000006117#,CVA - cerebrovascular accident due to cerebral artery occlusion,G64-1,G64..11,230691006,345638019,NA,32,G64..11#
+G64z1#,Wallenberg syndrome,1,1,2,57341000006119#,Wallenberg's syndrome,G64z1,G64z100,78569004,130374019,NA,32,G64z100#
+G64z1#,Wallenberg syndrome,1,1,2,130375018#,Lateral medullary syndrome,G64z1-1,G64z111,78569004,130375018,NA,32,G64z111#
+G64z.#,Cerebral infarction NOS,1,1,2,345650013#,Brainstem infarction NOS,G64z-1,G64z.11,95457000,158113017,NA,32,G64z.11#
+G64z.#,Cerebral infarction NOS,1,1,2,884501000006113#,Cerebral A. occlusion NOS,G64z-99,G64z.99,682621000000105,884501000006113,NA,32,G64z.99#
+G64z.#,Cerebral infarction NOS,1,1,2,158118014#,Cerebellar infarction,G64z-2,G64z.12,95460007,158118014,NA,32,G64z.12#
+G64z.#,Cerebral infarction NOS,1,1,2,395780010#,Cerebral infarction,G64z,G64z.00,432504007,2770034014,NA,32,G64z.00#
+G683.#,Sequelae of cerebral infarction,1,1,2,300411016#,Sequelae of cerebral infarction,G683,G683.00,195243003,300411016,NA,32,G683.00#
+G6X..#,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1,1,2,543141000006110#,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,G6X,G6X..00,20059004,33759015,NA,32,G6X..00#
+Gyu63#,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,1,1,2,370701000006118#,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,Gyu63,Gyu6300,20059004,33759015,NA,32,Gyu6300#
+Gyu64#,[X]Other cerebral infarction,1,1,2,300941014#,[X]Other cerebral infarction,Gyu64,Gyu6400,432504007,2770034014,NA,32,Gyu6400#
+Gyu6G#,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,1,1,2,370661000006114#,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,Gyu6G,Gyu6G00,125081000119106,3042974014,NA,32,Gyu6G00#
+14AK.#,H/O: Stroke in last year,1,0,1,451371010#,H/O: Stroke in last year,14AK,14AK.00,308067002,451371010,NA,32,14AK.00#
+1M4..#,Central post-stroke pain,1,0,1,413750011#,Central post-stroke pain,1M4,1M4..00,277286006,413750011,NA,27,1M4..00#
+661M7#,Stroke self-management plan agreed,1,0,1,2118011000000114#,Stroke self-management plan agreed,661M7,661M700,812041000000104,2118011000000114,NA,1,661M700#
+661N7#,Stroke self-management plan review,1,0,1,2115821000000118#,Stroke self-management plan review,661N7,661N700,810991000000109,2115821000000118,NA,1,661N700#
+662e.#,Stroke/CVA annual review,1,0,1,2126181000000114#,Stroke annual review,662e-1,662e.11,699270006,2983500010,NA,1,662e.11#
+662e.#,Stroke/CVA annual review,1,0,1,1780304018#,CVA annual review,662e,662e.00,699270006,2983515011,NA,1,662e.00#
+662M1#,Stroke 6 month review,1,0,1,1160471000000111#,Stroke 6 month review,662M1,662M100,519751000000106,1160471000000111,NA,1,662M100#
+662M2#,Stroke initial post discharge review,1,0,1,2127781000000110#,Stroke initial post discharge review,662M2,662M200,816561000000108,2127781000000110,NA,1,662M200#
+7P242#,Delivery of rehabilitation for stroke,1,0,1,371641000000112#,Delivery of rehabilitation for stroke,7P242,7P24200,231231000000107,371641000000112,NA,32,7P24200#
+8HHM.#,Ref to multidisciplinary stroke function improvement service,1,0,1,966981000006112#,Referral to multidisciplinary stroke function improvement service,8HHM,8HHM.00,112901000000108,199461000000113,NA,40,8HHM.00#
+8IEC.#,Ref multidisciplinary stroke function improvement declined,1,0,1,1784651000006110#,Referral for multidisciplinary stroke function improvement declined,8IEC,8IEC.00,781731000000103,1747751000000110,NA,32,8IEC.00#
+9h21.#,Excepted from stroke quality indicators: Patient unsuitable,1,0,1,139081000000117#,Excepted from stroke quality indicators - patient unsuitable,9h21,9h21.00,716581000000101,1569131000000118,NA,37,9h21.00#
+9h22.#,Excepted from stroke quality indicators: Informed dissent,1,0,1,139091000000115#,Excepted from stroke quality indicators - informed dissent,9h22,9h22.00,716021000000109,1568581000000116,NA,37,9h22.00#
+9h2..#,Exception reporting: stroke quality indicators,1,0,1,138981000000113#,Exception reporting - stroke quality indicators,9h2,9h2..00,716331000000108,1568881000000119,NA,37,9h2..00#
+G665.#,Pure motor lacunar syndrome,1,0,1,345655015#,Pure motor lacunar syndrome,G665,G665.00,230699008,345655015,NA,32,G665.00#
+G666.#,Pure sensory lacunar syndrome,1,0,1,345658018#,Pure sensory lacunar syndrome,G666,G666.00,230700009,345658018,NA,32,G666.00#
+G68X.#,"Sequelae of stroke,not specfd as h'morrhage or infarction",1,0,1,149571000006118#,"Sequelae of stroke,not specfd as h'morrhage or infarction",G68X,G68X.00,195239002,300403014,NA,32,G68X.00#
+ZV125#,[V]Personal history of stroke,1,0,1,1227591017#,[V]Personal history of stroke,ZV125-1,ZV12511,275526006,2476091017,NA,32,ZV12511#
+ZV125#,[V]Personal history of stroke,1,0,1,460286014#,[V]Personal history of circulatory system disease,ZV125,ZV12500,266995000,397829016,NA,32,ZV12500#
+ZV125#,[V]Personal history of stroke,1,0,1,1227592012#,[V]Personal history of cerebrovascular accident (CVA),ZV125-2,ZV12512,266995000,397829016,NA,32,ZV12512#
+G64z0#,Brainstem infarction,1,0,1,524541000006117#,Brain stem infarction,G64z0,G64z000,95457000,158113017,NA,32,G64z000#
+G64z2#,Left sided cerebral infarction,1,0,1,451133011#,Left sided cerebral infarction,G64z2,G64z200,307766002,451133011,NA,32,G64z200#
+G64z3#,Right sided cerebral infarction,1,0,1,451134017#,Right sided cerebral infarction,G64z3,G64z300,307767006,451134017,NA,32,G64z300#
+G64z4#,Infarction of basal ganglia,1,0,1,2474651019#,Infarction of basal ganglia,G64z4,G64z400,413102000,2474651019,NA,32,G64z400#
+G6W..#,Cereb infarct due unsp occlus/stenos precerebr arteries,1,0,1,542261000006114#,Cerebral infarction due to occlusion of precerebral artery,G6W,G6W..00,125081000119106,3042974014,NA,32,G6W..00#
+XE0X2#,(Cereb infarc)(cerebrovas acc)(undef stroke/CVA)(stroke NOS),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0X2#
+XaAsJ#,Admission to stroke unit,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaAsJ#
+SP100#,Anoxic brain damage complication,0,1,1,325050015#,Anoxic brain damage complication,SP100,SP10000,213208008,325050015,NA,32,SP10000#
+G661.#,Anterior cerebral artery syndrome,0,1,1,300363010#,Anterior cerebral artery syndrome,G661,G661.00,195210002,300363010,NA,32,G661.00#
+X00DJ#,Anterior cerebral circulation haemorrhagic infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DJ#
+X00D5#,Anterior cerebral circulation infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D5#
+X00DS#,Anterior circulation stroke of uncertain pathology,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DS#
+G612.#,Basal ganglia haemorrhage,0,1,1,503791000006114#,Basal ganglia haemorrhage,G612,G612.00,195165005,300272017,NA,32,G612.00#
+G630.#,Basilar artery occlusion,0,1,1,300303013#,Basilar artery occlusion,G630,G630.00,195180004,300303013,NA,32,G630.00#
+G630.#,Basilar artery occlusion,0,1,1,884461000006113#,Basilar artery occluded,G630-99,G630.99,195180004,884461000006113,NA,32,G630.99#
+G650.#,Basilar artery syndrome,0,1,1,106392017#,Basilar artery syndrome,G650,G650.00,64009001,106392017,NA,32,G650.00#
+G650.#,Basilar artery syndrome,0,1,1,499739014#,Insufficiency - basilar artery,G650-1,G650.11,64009001,499739014,NA,32,G650.11#
+X00DQ#,Brainstem haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DQ#
+Xa00K#,Brainstem infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa00K#
+X00D9#,Brainstem infarction NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D9#
+G615.#,Bulbar haemorrhage,0,1,1,483988011#,Bulbar haemorrhage,G615,G615.00,732923001,3467313018,NA,32,G615.00#
+X00D3#,CVA - cerebral artery occlusion,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D3#
+G653.#,Carotid artery syndrome hemispheric,0,1,1,300344014#,Carotid artery syndrome hemispheric,G653,G653.00,195200006,300344014,NA,32,G653.00#
+Xa0Ml#,Central post-stroke pain,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Ml#
+XaIRJ#,Cereb autosom dominant arteriop subcort infarcts leukoenceph,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIRJ#
+G6760#,"Cereb infarct due cerebral venous thrombosis, non-pyogenic",0,1,1,542251000006112#,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",G6760,G676000,195230003,300393016,NA,32,G676000#
+G613.#,Cerebellar haemorrhage,0,1,1,502878012#,Cerebellar haemorrhage,G613,G613.00,75038005,502878012,NA,32,G613.00#
+Xa00J#,Cerebellar infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa00J#
+XE0VI#,Cerebral arterial occlusion,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VI#
+Xa3fV#,Cerebral artery occlusion NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3fV#
+XM0rV#,Cerebral haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM0rV#
+XE0Wy#,Cerebral haemorrhage NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Wy#
+S62z.#,Cerebral haemorrhage following injury NOS,0,1,1,320852013#,Cerebral haemorrhage following injury NOS,S62z,S62z.00,450418003,2916363013,NA,32,S62z.00#
+Xa0kZ#,Cerebral infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0kZ#
+XE0VJ#,Cerebral infarction NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VJ#
+XE0VF#,Cerebral parenchymal haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VF#
+X00D1#,Cerebrovascular accident,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D1#
+G6...#,Cerebrovascular disease,0,1,1,884421000006119#,Cerebral haemorrhage,G6-99,G6...99,274100004,884421000006119,NA,32,G6...99#
+G6...#,Cerebrovascular disease,0,1,1,104563015#,Cerebrovascular disease,G6,G6...00,62914000,104563015,NA,32,G6...00#
+G610.#,Cortical haemorrhage,0,1,1,495394013#,Cortical haemorrhage,G610,G610.00,49422009,495394013,NA,32,G610.00#
+XaLtA#,Delivery of rehabilitation for stroke,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLtA#
+Xa1hE#,Extension of cerebrovascular accident,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1hE#
+G616.#,External capsule haemorrhage,0,1,1,300276019#,External capsule haemorrhage,G616,G616.00,195167002,300276019,NA,32,G616.00#
+XM1R2#,H/O: CVA,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1R2#
+XE2te#,H/O: CVA/stroke,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2te#
+XaBL3#,H/O: Stroke in last year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBL3#
+XM1R3#,H/O: stroke,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1R3#
+S620.#,Haemorrh: [closed traum subarach] or [mid mening follow inj],0,1,1,702641000006119#,Middle meningeal haemmorhage following injury,S620-1,S620.11,30400005,484576014,NA,32,S620.11#
+S620.#,Haemorrh: [closed traum subarach] or [mid mening follow inj],0,1,1,402929011#,Subarachnoid haemorrhage following injury without open intracranial wound,S620,S620.00,28048009,483737017,NA,32,S620.00#
+X00DI#,Haemorrhagic cerebral infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DI#
+X00Ds#,Heredit cerebral haemorrhage with amyloidosis - Dutch type,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Ds#
+X00D4#,Infarction - precerebral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D4#
+XaJgQ#,Infarction of basal ganglia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJgQ#
+G611.#,Internal capsule haemorrhage,0,1,1,496232015#,Internal capsule haemorrhage,G611,G611.00,52201006,496232015,NA,32,G611.00#
+Xa0Bj#,Intracerebellar and posterior fossa haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Bj#
+G61..#,Intracerebral haemorrhage (& [cerebrovasc accident due to]),0,1,1,605471000006112#,Cerebral hemorrhage,G61-1,G61..11,274100004,409859018,NA,32,G61..11#
+G61..#,Intracerebral haemorrhage (& [cerebrovasc accident due to]),0,1,1,122371000006118#,Cerebral haemorrhage,G61-2,G61..12,274100004,409860011,NA,32,G61..12#
+G61..#,Intracerebral haemorrhage (& [cerebrovasc accident due to]),0,1,1,989211000006119#,Cerebral haemorrhage NOS,G61-98,G61..98,274100004,989211000006119,NA,32,G61..98#
+G61..#,Intracerebral haemorrhage (& [cerebrovasc accident due to]),0,1,1,744901000006114#,Intracerebral haemorrhage (ICH),G61,G61..00,274100004,2819959010,NA,32,G61..00#
+G61..#,Intracerebral haemorrhage (& [cerebrovasc accident due to]),0,1,1,989201000006117#,Cerebral haemorrhage,G61-99,G61..99,274100004,989201000006117,NA,32,G61..99#
+G61z.#,Intracerebral haemorrhage NOS,0,1,1,300287010#,Intracerebral haemorrhage NOS,G61z,G61z.00,274100004,2819959010,NA,32,G61z.00#
+G617.#,"Intracerebral haemorrhage, intraventricular",0,1,1,300277011#,"Intracerebral haemorrhage, intraventricular",G617,G617.00,195168007,300277011,NA,32,G617.00#
+G618.#,"Intracerebral haemorrhage, multiple localised",0,1,1,746571000006116#,"Intracerebral haemorrhage, multiple localized",G618,G618.00,195169004,300280012,NA,32,G618.00#
+G62z.#,Intracranial haemorrhage NOS,0,1,1,884451000006111#,Cerebral haemorrhage NOS,G62z-99,G62z.99,700251000000105,884451000006111,NA,32,G62z.99#
+G62z.#,Intracranial haemorrhage NOS,0,1,1,300298011#,Intracranial haemorrhage,G62z,G62z.00,1386000,475553012,NA,32,G62z.00#
+X00DP#,Lacunar haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DP#
+X00DA#,Lacunar infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DA#
+XaBEC#,Left sided cerebral infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBEC#
+XaBM4#,"Left sided intracerebral haemorrhage, unspecified",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBM4#
+X00DM#,Lobar cerebral haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DM#
+X00DL#,Massive supratentorial cerebral haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DL#
+G660.#,Middle cerebral artery syndrome,0,1,1,300362017#,Middle cerebral artery syndrome,G660,G660.00,195209007,300362017,NA,32,G660.00#
+XA0B9#,Middle meningeal haemorrhage following injury,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XA0B9#
+X00DG#,Multi-infarct state,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DG#
+G633.#,Multiple and bilateral precerebral arterial occlusion,0,1,1,300310019#,Multiple and bilateral precerebral arterial occlusion,G633,G633.00,195183002,300310019,NA,32,G633.00#
+G654.#,Multiple and bilateral precerebral artery syndromes,0,1,1,300345010#,Multiple and bilateral precerebral artery syndromes,G654,G654.00,195201005,300345010,NA,32,G654.00#
+XaB4Z#,Multiple lacunar infarcts,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaB4Z#
+Xa00I#,Occipital cerebral infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa00I#
+G6771#,Occlusion and stenosis of anterior cerebral artery,0,1,1,300396012#,Occlusion and stenosis of anterior cerebral artery,G6771,G677100,195233001,300396012,NA,32,G677100#
+G6773#,Occlusion and stenosis of cerebellar arteries,0,1,1,300399017#,Occlusion and stenosis of cerebellar arteries,G6773,G677300,195235008,300399017,NA,32,G677300#
+G6770#,Occlusion and stenosis of middle cerebral artery,0,1,1,300395011#,Occlusion and stenosis of middle cerebral artery,G6770,G677000,195232006,300395011,NA,32,G677000#
+G6772#,Occlusion and stenosis of posterior cerebral artery,0,1,1,300398013#,Occlusion and stenosis of posterior cerebral artery,G6772,G677200,195234007,300398013,NA,32,G677200#
+G6774#,Occlusion+stenosis of multiple and bilat cerebral arteries,0,1,1,267311000006118#,Occlusion and stenosis of multiple and bilateral cerebral arteries,G6774,G677400,195236009,300400012,NA,32,G677400#
+G677.#,Occlusion/stenosis cerebral arts not result cerebral infarct,0,1,1,267321000006114#,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",G677,G677.00,195231004,300394010,NA,32,G677.00#
+S6314#,Oth cereb h'ge inj + open intracran wnd+>24hr LOC + recovery,0,1,1,39691000006110#,Oth cereb h'ge inj + open intracran wnd+>24hr LOC + recovery,S6314,S631400,450418003,2915288012,NA,32,S631400#
+S6315#,Oth cereb h'ge inj + open intracran wnd+>24hr LOC -restored,0,1,1,39701000006110#,Oth cereb h'ge inj + open intracran wnd+>24hr LOC -restored,S6315,S631500,450418003,2915288012,NA,32,S631500#
+S6316#,Oth cereb h'ge inj + open intracran wnd+LOC unspec duration,0,1,1,39721000006117#,Oth cereb h'ge inj + open intracran wnd+LOC unspec duration,S6316,S631600,450418003,2915288012,NA,32,S631600#
+S631z#,Oth cereb h'ge inj + open intracran wnd+concussion unspec,0,1,1,39711000006113#,Oth cereb h'ge inj + open intracran wnd+concussion unspec,S631z,S631z00,450418003,2915288012,NA,32,S631z00#
+S6304#,Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery,0,1,1,39731000006119#,Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery,S6304,S630400,450418003,2915288012,NA,32,S630400#
+S6305#,Oth cereb h'ge inj no open intracran wnd+>24hr LOC -restored,0,1,1,39741000006112#,Oth cereb h'ge inj no open intracran wnd+>24hr LOC -restored,S6305,S630500,450418003,2915288012,NA,32,S630500#
+S6306#,Oth cereb h'ge inj no open intracran wnd+LOC unspec duration,0,1,1,39761000006111#,Oth cereb h'ge inj no open intracran wnd+LOC unspec duration,S6306,S630600,450418003,2915288012,NA,32,S630600#
+S630z#,Oth cereb h'ge inj no open intracran wnd+concussion unspec,0,1,1,39751000006114#,Oth cereb h'ge inj no open intracran wnd+concussion unspec,S630z,S630z00,450418003,2915288012,NA,32,S630z00#
+S6310#,Oth cerebral h'ge inj + open intracran wnd + unspec consc,0,1,1,39771000006116#,Oth cerebral h'ge inj + open intracran wnd + unspec consc,S6310,S631000,450418003,2915288012,NA,32,S631000#
+S6313#,Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc,0,1,1,39791000006115#,Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc,S6313,S631300,450418003,2915288012,NA,32,S631300#
+S6312#,Oth cerebral h'ge inj + open intracran wnd+<1hr loss consc,0,1,1,39781000006118#,Oth cerebral h'ge inj + open intracran wnd+<1hr loss consc,S6312,S631200,450418003,2915288012,NA,32,S631200#
+S6311#,Oth cerebral h'ge inj + open intracranial wnd+no loss consc,0,1,1,39801000006119#,Oth cerebral h'ge inj + open intracranial wnd+no loss consc,S6311,S631100,450418003,2915288012,NA,32,S631100#
+S6303#,Oth cerebral h'ge inj no open intracran wnd+1-24hr LOC,0,1,1,39821000006112#,Oth cerebral h'ge inj no open intracran wnd+1-24hr LOC,S6303,S630300,450418003,2915288012,NA,32,S630300#
+S6302#,Oth cerebral h'ge inj no open intracran wnd+<1hr loss consc,0,1,1,39811000006116#,Oth cerebral h'ge inj no open intracran wnd+<1hr loss consc,S6302,S630200,450418003,2915288012,NA,32,S630200#
+S6300#,Oth cerebral h'ge inj no open intracran wnd+unspec consc,0,1,1,30981000006112#,Oth cerebral h'ge inj no open intracran wnd+unspec consc,S6300,S630000,450418003,2915288012,NA,32,S630000#
+S6301#,Oth cerebral h'ge inj no open intracranial wnd+no loss consc,0,1,1,39831000006110#,Oth cerebral h'ge inj no open intracranial wnd+no loss consc,S6301,S630100,450418003,2915288012,NA,32,S630100#
+G62..#,Other and unspecified intracranial haemorrhage,0,1,1,300290016#,Other and unspecified intracranial haemorrhage,G62,G62..00,62914000,104563015,NA,32,G62..00#
+S631.#,Other cerebral h'ge after injury + open intracranial wound,0,1,1,35791000006117#,Other cerebral h'ge after injury + open intracranial wound,S631,S631.00,450418003,2915288012,NA,32,S631.00#
+S63..#,Other cerebral haemorrhage following injury,0,1,1,320853015#,Other cerebral haemorrhage following injury,S63,S63..00,450418003,2916363013,NA,32,S63..00#
+S63z.#,Other cerebral haemorrhage following injury NOS,0,1,1,320897016#,Other cerebral haemorrhage following injury NOS,S63z,S63z.00,450418003,2916363013,NA,32,S63z.00#
+G63y.#,Other precerebral artery occlusion,0,1,1,300311015#,Other precerebral artery occlusion,G63y,G63y.00,266253001,395777014,NA,32,G63y.00#
+X00D7#,Partial anterior cerebral circulation infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D7#
+Q411.#,Perinatal intraventricular haemorrhage,0,1,1,501622012#,Perinatal intraventricular haemorrhage,Q411,Q411.00,70611002,501622012,NA,32,Q411.00#
+Q411.#,Perinatal intraventricular haemorrhage,0,1,1,894331000006110#,Fetal cerebral haemorrhage,Q411-99,Q411.99,70611002,894331000006110,NA,32,Q411.99#
+G614.#,Pontine haemorrhage,0,1,1,503469016#,Pontine haemorrhage,G614,G614.00,7713009,503469016,NA,32,G614.00#
+G662.#,Posterior cerebral artery syndrome,0,1,1,300364016#,Posterior cerebral artery syndrome,G662,G662.00,195211003,300364016,NA,32,G662.00#
+X00DK#,Posterior cerebral circulation haemorrhagic infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DK#
+X00D8#,Posterior cerebral circulation infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D8#
+X00DT#,Posterior circulation stroke of uncertain pathology,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DT#
+G63z.#,Precerebral artery occlusion NOS,0,1,1,884491000006117#,Precerebral A. occlusion NOS,G63z-99,G63z.99,584161000000109,884491000006117,NA,32,G63z.99#
+G63z.#,Precerebral artery occlusion NOS,0,1,1,300314011#,Precerebral artery occlusion NOS,G63z,G63z.00,266253001,395777014,NA,32,G63z.00#
+X00DB#,Pure motor lacunar infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DB#
+XaQbK#,Pure motor lacunar syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaQbK#
+X00DD#,Pure sensorimotor lacunar infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DD#
+X00DC#,Pure sensory lacunar infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DC#
+XaQbM#,Pure sensory lacunar syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaQbM#
+Y1fa4#,Quality and Outcomes Framework stroke and transient ischaemic attack quality indicator-related care invitation (procedure),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y1fa4#
+XaJi5#,Ref to multidisciplinary stroke function improvement service,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJi5#
+XaBED#,Right sided cerebral infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBED#
+XaBM5#,"Right sided intracerebral haemorrhage, unspecified",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBM5#
+Xa0NW#,Rupt intern carotid-posterior communicat art zone aneurysm,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NW#
+Xa0NV#,Rupturd intern carotid-anter communic art zone aneurysm,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NV#
+A94y6#,Rupture of syphilitic cerebral aneurysm,0,1,1,287283010#,Rupture of syphilitic cerebral aneurysm,A94y6,A94y600,186893003,287283010,NA,32,A94y600#
+Xa0NJ#,Ruptured aneurysm of anterior cerebral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NJ#
+Xa0NO#,Ruptured aneurysm of anterior communicating artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NO#
+Xa0NR#,Ruptured aneurysm of basilar artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NR#
+Xa0NK#,Ruptured aneurysm of middle cerebral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NK#
+Xa0NN#,Ruptured aneurysm of posterior cerebral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NN#
+Xa0NQ#,Ruptured aneurysm of posterior communicating artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NQ#
+Xa0NS#,Ruptured aneurysm of posterior inferior cerebellar artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NS#
+G600.#,Ruptured berry aneurysm,0,1,1,300242011#,Ruptured berry aneurysm,G600,G600.00,195154000,300242011,NA,32,G600.00#
+X204F#,Ruptured cerebral aneurysm,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X204F#
+Xa0N3#,Ruptured cerebral arteriovenous malformation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0N3#
+Xa0NX#,Ruptured internal carotid bifurcation aneurysm,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0NX#
+G681.#,Sequelae of intracerebral haemorrhage,0,1,1,300407010#,Sequelae of intracerebral haemorrhage,G681,G681.00,195241001,300407010,NA,32,G681.00#
+G682.#,Sequelae of other non-traumatic intracranial haemorrhage,0,1,1,149551000006111#,Sequelae of other nontraumatic intracranial haemorrhage,G682,G682.00,363302008,482447013,NA,32,G682.00#
+G680.#,Sequelae of subarachnoid haemorrhage,0,1,1,300406018#,Sequelae of subarachnoid haemorrhage,G680,G680.00,195240000,300406018,NA,32,G680.00#
+XE2bF#,Spontaneous subarachnoid haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2bF#
+XaR68#,Stroke 6 month review,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaR68#
+XaEGq#,Stroke NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEGq#
+XE2aB#,Stroke and cerebrovascular accident unspecified,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2aB#
+XaIzF#,Stroke annual review,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIzF#
+XM1PL#,Stroke in the puerperium,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1PL#
+X00DR#,Stroke of uncertain pathology,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DR#
+XaYbE#,Stroke self-management plan agreed,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYbE#
+XaYZQ#,Stroke self-management plan review,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYZQ#
+G60z.#,Subarachnoid haemorrhage NOS,0,1,1,300257016#,Subarachnoid haemorrhage NOS,G60z,G60z.00,21454007,481028017,NA,32,G60z.00#
+G601.#,Subarachnoid haemorrhage from carotid siphon and bifurcation,0,1,1,300244012#,Subarachnoid haemorrhage from carotid siphon and bifurcation,G601,G601.00,195155004,300244012,NA,32,G601.00#
+X00Df#,Subarachnoid haemorrhage from rupt arteriovenous malformat,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Df#
+G606.#,Subarachnoid haemorrhage from vertebral artery,0,1,1,300253017#,Subarachnoid haemorrhage from vertebral artery,G606,G606.00,195160000,300253017,NA,32,G606.00#
+X00DN#,Subcortical cerebral haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DN#
+Q200.#,Subdural and cerebral haemorrhage due to birth trauma,0,1,1,894091000006111#,Cerebral haemorrhage - birth,Q200-99,Q200.99,206196005,894091000006111,NA,32,Q200.99#
+Q200.#,Subdural and cerebral haemorrhage due to birth trauma,0,1,1,316130010#,Subdural and cerebral haemorrhage due to birth trauma,Q200,Q200.00,206188000,316130010,NA,32,Q200.00#
+X00DO#,Thalamic haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DO#
+X00D6#,Total anterior cerebral circulation infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00D6#
+XA0BG#,Traumatic intracerebral haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XA0BG#
+XE1m2#,Traumatic intracranial haemorrhage,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE1m2#
+G632.#,Vertebral artery occlusion,0,1,1,884481000006115#,Vertebral artery occluded,G632-99,G632.99,195182007,884481000006115,NA,32,G632.99#
+G632.#,Vertebral artery occlusion,0,1,1,300309012#,Vertebral artery occlusion,G632,G632.00,195182007,300309012,NA,32,G632.00#
+G651.#,Vertebral artery syndrome,0,1,1,58046010#,Vertebral artery syndrome,G651,G651.00,34781003,58046010,NA,32,G651.00#
+G6510#,Vertebrobasilar artery syndrome,0,1,1,67501000006115#,Vertebrobasilar artery syndrome,G6510,G651000,195199008,300343015,NA,32,G651000#
+Gyu6F#,"[X]Intracerebral haemorrhage in hemisphere, unspecified",0,1,1,300956017#,"[X]Intracerebral haemorrhage in hemisphere, unspecified",Gyu6F,Gyu6F00,274100004,409860011,NA,32,Gyu6F00#
+Gyu66#,[X]Occlusion and stenosis of other cerebral arteries,0,1,1,300943012#,Cerebral artery occlusion,Gyu66,Gyu6600,20059004,33759015,NA,32,Gyu6600#
+Gyu65#,[X]Occlusion and stenosis of other precerebral arteries,0,1,1,300942019#,[X]Occlusion and stenosis of other precerebral arteries,Gyu65,Gyu6500,266253001,395777014,NA,32,Gyu6500#
+Gyu62#,[X]Other intracerebral haemorrhage,0,1,1,300939013#,Cerebral haemorrhage,Gyu62,Gyu6200,274100004,409860011,NA,32,Gyu6200#
+Fyu57#,[X]Other vascular syndroms/brain in cerebrovasculr diseases,0,1,1,417171000006111#,[X]Other vascular syndroms/brain in cerebrovasculr diseases,Fyu57,Fyu5700,62914000,104563015,NA,32,Fyu5700#
+F4K7.#,Retrobulbar haemorrhage,0,1,1,298916015#,Retrobulbar haemorrhage,F4K7,F4K7.00,194179009,298916015,NA,32,F4K7.00#
+Gyu60#,[X]Subarachnoid haemorrhage from other intracranial arteries,0,1,1,300935019#,[X]Subarachnoid haemorrhage from other intracranial arteries,Gyu60,Gyu6000,21454007,36011016,NA,32,Gyu6000#
+Gyu61#,[X]Other subarachnoid haemorrhage,0,1,1,300936018#,[X]Other subarachnoid haemorrhage,Gyu61,Gyu6100,21454007,481028017,NA,32,Gyu6100#
+Gyu6E#,"[X]Subarachnoid haemorrh from intracranial artery, unspecif",0,1,1,428181000006115#,Subarachnoid hemorrhage,Gyu6E,Gyu6E00,21454007,481028017,NA,32,Gyu6E00#
+L4400#,Puerperal cerebrovascular disorder unspecified,0,1,1,307879017#,Puerperal cerebrovascular disorder unspecified,L4400,L440000,6594005,11941010,NA,32,L440000#
+L4401#,Puerperal cerebrovascular disorder - delivered,0,1,1,307880019#,Puerperal cerebrovascular disorder - delivered,L4401,L440100,200330000,307880019,NA,32,L440100#
+L4402#,Puerperal cerebrovascular disorder - delivered with p/n comp,0,1,1,200591000006119#,Puerperal cerebrovascular disorder - delivered with postnatal complication,L4402,L440200,200331001,307881015,NA,32,L440200#
+L4403#,Puerperal cerebrovascular disorder with antenatal comp,0,1,1,200621000006117#,Puerperal cerebrovascular disorder with antenatal complication,L4403,L440300,200332008,307882010,NA,32,L440300#
+L4404#,Puerperal cerebrovascular disorder with postnatal comp,0,1,1,200631000006119#,Puerperal cerebrovascular disorder with postnatal complication,L4404,L440400,200333003,307883017,NA,32,L440400#
+L440z#,Puerperal cerebrovascular disorder NOS,0,1,1,307884011#,Puerperal cerebrovascular disorder NOS,L440z,L440z00,6594005,11941010,NA,32,L440z00#
+Q412.#,Perinatal subarachnoid haemorrhage,0,1,1,480952017#,Perinatal subarachnoid haemorrhage,Q412,Q412.00,21202004,480952017,NA,32,Q412.00#
+Q4120#,Subarachnoid haemorrhage due to birth injury,0,1,1,316519019#,Subarachnoid haemorrhage due to birth injury,Q4120,Q412000,206399009,316519019,NA,32,Q412000#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,320836010#,Subdural haemorrhage following injury,S62-3,S62..13,209987007,320836010,NA,32,S62..13#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,896531000006110#,Cerebral h'ge after injury,S62-99,S62..99,82894007,896531000006110,NA,32,S62..99#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,391042012#,Subarachnoid haemorrhage following injury,S62-2,S62..12,450375008,2915309017,NA,32,S62..12#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,505322013#,Cerebral haemorrhage following injury,S62,S62..00,450418003,2916363013,NA,32,S62..00#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,505324014#,Traumatic cerebral haemorrhage,S62-4,S62..14,450418003,2916058017,NA,32,S62..14#
+S62..#,(Haemor foll inj: [named variants]) or (traum cerebral haem),0,1,1,660121000006113#,Traumatic intracranial haemorrhage,S62-1,S62..11,450410005,2915482010,NA,32,S62..11#
+S6200#,Subarachnoid h'ge inj no open intracran wound + unspec consc,0,1,1,123431000006119#,Subarachnoid h'ge inj no open intracran wound + unspec consc,S6200,S620000,28048009,46957015,NA,32,S620000#
+S6201#,Subarachnoid h'ge inj no open intracran wnd+no loss consc,0,1,1,123411000006113#,Subarachnoid h'ge inj no open intracran wnd+no loss consc,S6201,S620100,28048009,46957015,NA,32,S620100#
+S6202#,Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc,0,1,1,123391000006113#,Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc,S6202,S620200,28048009,46957015,NA,32,S620200#
+S6203#,Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC,0,1,1,123421000006117#,Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC,S6203,S620300,28048009,46957015,NA,32,S620300#
+S6204#,Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery,0,1,1,123401000006110#,Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery,S6204,S620400,28048009,46957015,NA,32,S620400#
+S6205#,Subarach h'ge inj no open intracran wnd+>24hrs LOC-restored,0,1,1,123321000006111#,Subarach h'ge inj no open intracran wnd+>24hrs LOC-restored,S6205,S620500,28048009,46957015,NA,32,S620500#
+S6206#,Subarach h'ge inj no open intracran wnd+LOC unspec duration,0,1,1,123331000006114#,Subarach h'ge inj no open intracran wnd+LOC unspec duration,S6206,S620600,28048009,46957015,NA,32,S620600#
+S620z#,Subarach h'ge inj no open intracran wnd + concussion unspec,0,1,1,123311000006115#,Subarach h'ge inj no open intracran wnd + concussion unspec,S620z,S620z00,28048009,46957015,NA,32,S620z00#
+S621.#,Open traumatic subarachnoid haemorrhage,0,1,1,320735017#,Subarachnoid haemorrhage following injury with open intracranial wound,S621,S621.00,5251007,496337012,NA,32,S621.00#
+S6210#,Subarachnoid h'ge inj + open intracran wound + unspec consc,0,1,1,123361000006117#,Subarachnoid h'ge inj + open intracran wound + unspec consc,S6210,S621000,5251007,9804011,NA,32,S621000#
+S6211#,Subarachnoid h'ge inj + open intracranial wound + no LOC,0,1,1,123381000006110#,"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness",S6211,S621100,209940000,320739011,NA,32,S621100#
+S6212#,Subarachnoid h'ge inj + open intracran wound+<1hr loss consc,0,1,1,123371000006112#,Subarachnoid haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour),S6212,S621200,59633005,498500014,NA,32,S621200#
+S6213#,Subarachnoid h'ge inj + open intracran wnd+1-24hr loss consc,0,1,1,123341000006116#,Subarachnoid haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours),S6213,S621300,87253004,507490011,NA,32,S621300#
+S6214#,Subarach h'ge inj + open intracran wnd +>24hr LOC + recovery,0,1,1,123281000006117#,Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level,S6214,S621400,73439007,502436011,NA,32,S621400#
+S6215#,Subarach h'ge inj + open intracran wnd+>24hr LOC -restored,0,1,1,123291000006119#,Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level,S6215,S621500,69178005,501220014,NA,32,S621500#
+S6216#,Subarach h'ge inj + open intracran wnd+LOC unspec duration,0,1,1,123301000006118#,Subarach h'ge inj + open intracran wnd+LOC unspec duration,S6216,S621600,5251007,9804011,NA,32,S621600#
+S621z#,Subarachnoid h'ge inj + open intracran wnd+concussion unspec,0,1,1,123351000006119#,Subarachnoid h'ge inj + open intracran wnd+concussion unspec,S621z,S621z00,5251007,9804011,NA,32,S621z00#
+X00DE#,Lacunar ataxic hemiparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DE#
+X00DF#,Dysarthria-clumsy hand syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DF#
+X00Dg#,Subarachnoid haemorrhage due to ruptured aneurysm,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Dg#

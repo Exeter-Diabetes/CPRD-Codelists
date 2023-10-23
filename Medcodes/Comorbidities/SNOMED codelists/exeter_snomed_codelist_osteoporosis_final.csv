@@ -1,0 +1,207 @@
+snomedcode,Description,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+203879001#,[X]Osteoporosis in other disorders classified elsewhere (disorder),NA#,NA,NA,NA,NA#,NA,NA
+203878009#,[X]Other osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+203877004#,[X]Other osteoporosis with pathological fracture (disorder),NA#,NA,NA,NA,NA#,NA,NA
+203885008#,[X]Unspecified osteoporosis with pathological fracture,NA#,NA,NA,NA,NA#,NA,NA
+240155001#,Adult idiopathic generalised osteoporosis,5144171000006114#,Adult idiopathic generalized osteoporosis,^ESCTAD514417,NA,359782015#,NA,31
+240155001#,Adult idiopathic generalised osteoporosis,5144161000006119#,Adult idiopathic generalised osteoporosis,^ESCTAD514416,NA,359781010#,NA,31
+18040001#,Age related osteoporosis,2786171000006119#,Type II osteoporosis,^ESCTTY278617,NA,478468010#,NA,32
+18040001#,Age related osteoporosis,2786191000006118#,Age related osteoporosis,^ESCTAG278619,NA,3035869014#,NA,32
+18040001#,Age related osteoporosis,30475015#,Senile osteoporosis,N3301,N330100,30475015#,NA,32
+18040001#,Age related osteoporosis,2786181000006116#,Involutional osteoporosis,^ESCTIN278618,NA,478469019#,NA,32
+897308007#,Chronic kidney disease with osteoporosis (disorder),NA#,NA,NA,NA,NA#,NA,NA
+203459002#,Collapse of cervical vertebra due to osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+311806008#,Collapse of cervical vertebra due to osteoporosis (disorder),455433012#,Collapse of cervical vertebra due to osteoporosis,N331H,N331H00,455433012#,NA,32
+311890007#,Collapse of lumbar vertebra due to osteoporosis,455534015#,Collapse of lumbar vertebra due to osteoporosis,N331J,N331J00,455534015#,NA,32
+203460007#,Collapse of lumbar vertebra due to osteoporosis (disorder),NA#,NA,NA,NA,NA#,NA,NA
+203461006#,Collapse of thoracic vertebra due to osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+311891006#,Collapse of thoracic vertebra due to osteoporosis (disorder),455535019#,Collapse of thoracic vertebra due to osteoporosis,N331K,N331K00,455535019#,NA,32
+240198002#,Collapse of vertebra due to osteoporosis,359833013#,Osteoporotic vertebral collapse,N331-4,N331.14,359833013#,NA,32
+240198002#,Collapse of vertebra due to osteoporosis,455536018#,Collapse of vertebra due to osteoporosis,N331L,N331L00,2920899019#,NA,32
+311892004#,Collapse of vertebra due to osteoporosis NOS,NA#,NA,NA,NA,NA#,NA,NA
+203462004#,Collapse of vertebra due to osteoporosis NOS (disorder),NA#,NA,NA,NA,NA#,NA,NA
+82351006#,Congenital cranial osteoporosis,680781000006110#,Neonatal 'craniotabes',Q48y4-1,Q48y411,136601011#,NA,32
+82351006#,Congenital cranial osteoporosis,3839741000006115#,Congenital cranial osteoporosis,^ESCTCO383974,NA,2536476011#,NA,32
+82351006#,Congenital cranial osteoporosis,3839731000006113#,Craniotabes,^ESCTCR383973,NA,136601011#,NA,32
+203430002#,Disuse osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+203491001#,Disuse osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+53174001#,Disuse osteoporosis,3362291000006115#,Disuse osteoporosis,^ESCTDI336229,NA,88440018#,NA,32
+53174001#,Disuse osteoporosis,625381000006110#,Dissuse osteoporosis,N3304,N330400,88440018#,NA,32
+53174001#,Disuse osteoporosis,496578010#,Disuse atrophy of bone,N3370,N337000,496578010#,NA,32
+783620009#,Dominant hypophosphatemia with nephrolithiasis and/or osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+203432005#,Drug-induced osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+14651005#,Drug-induced osteoporosis (disorder),24883018#,Drug-induced osteoporosis,N3305,N330500,24883018#,NA,5
+203447001#,Drug-induced osteoporosis with pathological fracture,312159013#,Drug-induced osteoporosis with pathological fracture,N3315,N331500,312159013#,NA,5
+278454001#,Fetal osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+78354004#,Fetal osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+391019001#,Follow-up osteoporosis assessment,1485048012#,Follow-up osteoporosis assessment,66a1,66a1.00,1485048012#,NA,1
+134400000#,Fragility fracture due to unspecified osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+366913005#,Fragility fracture due to unspecified osteoporosis (disorder),NA#,NA,NA,NA,NA#,NA,NA
+394010001#,Health education - osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+393054003#,Health education - osteoporosis (procedure),NA#,NA,NA,NA,NA#,NA,NA
+473120007#,History of osteoporosis,1137811000000114#,History of osteoporosis,14GB,14GB.00,2955852014#,NA,32
+203429007#,Idiopathic generalized osteoporosis (disorder),4820801000006119#,Idiopathic generalized osteoporosis,^ESCTID482080,NA,312125014#,NA,32
+203429007#,Idiopathic generalized osteoporosis (disorder),786501000006117#,Idiopathic generalised osteoporosis,N3303,N330300,312126010#,NA,32
+3345002#,Idiopathic osteoporosis,2552271000006117#,Idiopathic osteoporosis,^ESCTID255227,NA,6641011#,NA,31
+240154002#,Idiopathic osteoporosis in pregnancy (disorder),5144151000006116#,Idiopathic osteoporosis in pregnancy,^ESCTID514415,NA,359780011#,NA,31
+203448006#,Idiopathic osteoporosis with pathological fracture (disorder),312160015#,Idiopathic osteoporosis with pathological fracture,N3316,N331600,312160015#,NA,32
+240156000#,Juvenile idiopathic generalized osteoporosis (disorder),5144181000006112#,Juvenile idiopathic generalised osteoporosis,^ESCTJU514418,NA,359784019#,NA,31
+240156000#,Juvenile idiopathic generalized osteoporosis (disorder),5144191000006110#,Juvenile idiopathic generalized osteoporosis,^ESCTJU514419,NA,359783013#,NA,31
+44876001#,Juvenile osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+268028001#,Localised disuse osteoporosis,5502971000006118#,Localized disuse osteoporosis,^ESCTLO550297,NA,400337016#,NA,31
+268028001#,Localised disuse osteoporosis,5502961000006113#,Localised disuse osteoporosis,^ESCTLO550296,NA,400336013#,NA,31
+203435007#,Localized osteoporosis - Lequesne (disorder),4820851000006115#,Localized osteoporosis - Lequesne,^ESCTLO482085,NA,312136019#,NA,32
+203435007#,Localized osteoporosis - Lequesne (disorder),312136019#,Localised osteoporosis - Lequesne,N3308,N330800,312135015#,NA,32
+32369003#,Menopausal osteoporosis (disorder),3021401000006110#,Type 1 osteoporosis,^ESCTTY302140,NA,485200014#,NA,32
+32369003#,Menopausal osteoporosis (disorder),3021391000006113#,Type I osteoporosis,^ESCTTY302139,NA,485199011#,NA,32
+32369003#,Menopausal osteoporosis (disorder),3021381000006110#,Menopausal osteoporosis,^ESCTME302138,NA,54057013#,NA,31
+156825006#,Osteoporosis,NA#,NA,NA,NA,NA#,NA,NA
+391030003#,Osteoporosis - no treatment response (regime/therapy),1485059015#,Osteoporosis - no treatment response,66aB,66aB.00,1485059015#,NA,1
+391028000#,Osteoporosis - treatment response,1485057018#,Osteoporosis - treatment response,66aA,66aA.00,1485057018#,NA,1
+64859006#,Osteoporosis (disorder),312124013#,"Osteoporosis, unspecified",N3300,N330000,107806013#,NA,32
+64859006#,Osteoporosis (disorder),312142015#,Osteoporosis NOS,N330z,N330z00,107806013#,NA,32
+64859006#,Osteoporosis (disorder),312682011#,[X]Other osteoporosis,NyuB1,NyuB100,107806013#,NA,32
+64859006#,Osteoporosis (disorder),3555091000006111#,OP - Osteoporosis,^ESCTOP355509,NA,499977011#,NA,32
+64859006#,Osteoporosis (disorder),312683018#,[X]Osteoporosis in other disorders classified elsewhere,NyuB2,NyuB200,107806013#,NA,32
+64859006#,Osteoporosis (disorder),107806013#,Osteoporosis,N330,N330.00,107806013#,NA,32
+716189005#,Osteoporosis and macrocephaly with blindness and joint hypermobility syndrome (disorder),7743641000006119#,Osteoporosis and macrocephaly with blindness and joint hyperlaxity syndrome,^ESCTOS774364,NA,3305029011#,NA,31
+716189005#,Osteoporosis and macrocephaly with blindness and joint hypermobility syndrome (disorder),7743631000006112#,Osteoporosis and macrocephaly with blindness and joint hypermobility syndrome,^ESCTOS774363,NA,3305028015#,NA,31
+716189005#,Osteoporosis and macrocephaly with blindness and joint hypermobility syndrome (disorder),7743621000006114#,Heide syndrome,^ESCTHE774362,NA,3305025017#,NA,31
+722113001#,Osteoporosis and oculocutaneous hypopigmentation syndrome,7827501000006112#,Osteoporosis and oculocutaneous hypopigmentation syndrome,^ESCTOS782750,NA,3330755016#,NA,31
+722113001#,Osteoporosis and oculocutaneous hypopigmentation syndrome,7827511000006110#,Hernandez Fragoso syndrome,^ESCTHE782751,NA,3330756015#,NA,31
+698047001#,Osteoporosis circumscripta,7503781000006114#,Osteoporosis circumscripta,^ESCTOS750378,NA,2969220014#,NA,31
+702895002#,Osteoporosis clinic (environment),7567881000006113#,Osteoporosis clinic,^ESCTOS756788,NA,3006469014#,NA,31
+739301006#,Osteoporosis co-occurrent and due to multiple myeloma,312137011#,Osteoporosis in multiple myelomatosis,N3309,N330900,3536112014#,NA,32
+739301006#,Osteoporosis co-occurrent and due to multiple myeloma,3535828010#,Osteoporosis co-occurrent and due to multiple myeloma,^ESCT1168329,NA,3535828010#,NA,32
+707419009#,Osteoporosis due to cystic fibrosis,7617261000006112#,Osteoporosis due to cystic fibrosis,^ESCTOS761726,NA,3030101011#,NA,31
+707419009#,Osteoporosis due to cystic fibrosis,7617271000006117#,Osteoporosis in classical cystic fibrosis,^ESCTOS761727,NA,3030132012#,NA,31
+735618008#,Osteoporosis due to malabsorption (disorder),3515008018#,Osteoporosis due to malabsorption,^ESCT1165739,NA,3515008018#,NA,31
+394936006#,Osteoporosis health education,1488638010#,Health education - osteoporosis,679F,679F.00,1488638010#,NA,17
+394936006#,Osteoporosis health education,6549131000006116#,Osteoporosis health education,^ESCTOS654913,NA,2576202018#,NA,17
+203437004#,Osteoporosis in endocrine disorders (disorder),312138018#,Osteoporosis in endocrine disorders,N330A,N330A00,312138018#,NA,32
+203436008#,Osteoporosis in multiple myelomatosis,11902571000006119#,Osteoporosis in multiple myelomatosis,^ESCT1190257,NA,312137011#,NA,31
+203439001#,Osteoporosis localised to spine (disorder),NA#,NA,NA,NA,NA#,NA,NA
+309745002#,Osteoporosis localized to spine (disorder),453226012#,Osteoporosis localised to spine,N330C,N330C00,453225011#,NA,32
+309745002#,Osteoporosis localized to spine (disorder),5992471000006115#,Osteoporosis localized to spine,^ESCTOS599247,NA,453226012#,NA,32
+203440004#,Osteoporosis NOS,NA#,NA,NA,NA,NA#,NA,NA
+203445009#,Osteoporosis of disuse with pathological fracture,312157010#,Osteoporosis of disuse with pathological fracture,N3313,N331300,312157010#,NA,32
+391022004#,Osteoporosis treatment changed (situation),1485051017#,Osteoporosis treatment changed,66a4,66a4.00,1485051017#,NA,1
+391020007#,Osteoporosis treatment started (regime/therapy),1485049016#,Osteoporosis treatment started,66a2,66a2.00,1485049016#,NA,1
+391021006#,Osteoporosis treatment stopped,1485050016#,Osteoporosis treatment stopped,66a3,66a3.00,1485050016#,NA,1
+203452006#,Osteoporosis with pathological fracture of cervical vertebrae,40871000006119#,Osteoporosis with pathological fracture of cervical vertebrae,N331A,N331A00,312164012#,NA,32
+203450003#,Osteoporosis with pathological fracture of lumbar vertebrae,40881000006116#,Osteoporosis with pathological fracture of lumbar vertebrae,N3318,N331800,312162011#,NA,32
+203451004#,Osteoporosis with pathological fracture of thoracic vertebrae (disorder),40891000006118#,Osteoporosis with pathological fracture of thoracic vertebrae,N3319,N331900,312163018#,NA,32
+254112001#,Osteoporosis with pseudoglioma (disorder),5337891000006116#,Osteoporosis with pseudoglioma,^ESCTOS533789,NA,378273015#,NA,31
+391024003#,Osteoporosis dietary education (procedure),6517621000006110#,Osteoporosis dietary education,^ESCTOS651762,NA,2576221014#,NA,1
+391024003#,Osteoporosis dietary education (procedure),1485053019#,Osteoporosis - dietary advice,66a6,66a6.00,1485053019#,NA,1
+391026001#,Osteoporosis exercise education (procedure),6517651000006118#,Osteoporosis exercise education,^ESCTOS651765,NA,2576222019#,NA,1
+391026001#,Osteoporosis exercise education (procedure),1485055014#,Osteoporosis - exercise advice,66a8,66a8.00,1485055014#,NA,1
+505141000000108#,Osteoporosis enhanced services administration (procedure),1122231000000117#,Osteoporosis enhanced services administration,9kj,9kj..00,1152181000000113#,NA,37
+109346000#,Osteoporotic bone marrow defect (disorder),4162971000006117#,Osteoporotic bone marrow defect,^ESCTOS416297,NA,173898012#,NA,31
+203428004#,"Osteoporosis, unspecified",NA#,NA,NA,NA,NA#,NA,NA
+431030000#,Pathologic fracture of femur associated with osteoporosis,7130271000006114#,Pathologic fracture of femur associated with osteoporosis,^ESCTPA713027,NA,2765427017#,NA,31
+203446005#,Pathological fracture co-occurrent and due to post-surgical malabsorption osteoporosis,212441000006112#,Post-surgical malabsorption osteoporosis with pathological fracture,N3314,N331400,312158017#,NA,32
+443165006#,Pathological fracture due to osteoporosis,312681016#,[X]Other osteoporosis with pathological fracture,NyuB0,NyuB000,2837900019#,NA,32
+443165006#,Pathological fracture due to osteoporosis,216206018#,Pathological fracture due to osteoporosis,N331M,N331M00,2837900019#,NA,32
+443165006#,Pathological fracture due to osteoporosis,312689019#,[X]Unspecified osteoporosis with pathological fracture,NyuB8,NyuB800,2837900019#,NA,32
+443165006#,Pathological fracture due to osteoporosis,556881000000111#,Minimal trauma fracture due to unspecified osteoporosis,N331M-1,N331M11,2837900019#,NA,32
+11314841000119105#,Pathological fracture due to secondary osteoporosis,9384621000006114#,Pathological fracture due to secondary osteoporosis,^ESCTPA938462,NA,3012706014#,NA,31
+704328003#,Pathological fracture of ankle due to osteoporosis,7589381000006112#,Pathological fracture of ankle due to osteoporosis,^ESCTPA758938,NA,3012801012#,NA,31
+704328003#,Pathological fracture of ankle due to osteoporosis,7589391000006110#,Osteoporotic fracture of ankle,^ESCTOS758939,NA,3012792017#,NA,31
+704293000#,Pathological fracture of ankle due to secondary osteoporosis (disorder),7588941000006114#,Pathological fracture of ankle due to secondary osteoporosis,^ESCTPA758894,NA,3012663014#,NA,31
+704293000#,Pathological fracture of ankle due to secondary osteoporosis (disorder),7588951000006111#,Secondary osteoporotic fracture of ankle,^ESCTSE758895,NA,3012648011#,NA,31
+11311521000119104#,Pathological fracture of cervical vertebra due to secondary osteoporosis,9383901000006111#,Pathological fracture of cervical vertebra due to secondary osteoporosis,^ESCTPA938390,NA,3012661011#,NA,31
+11311521000119104#,Pathological fracture of cervical vertebra due to secondary osteoporosis,9383911000006114#,Secondary osteoporotic fracture of cervical vertebra,^ESCTSE938391,NA,3012742018#,NA,31
+704329006#,Pathological fracture of clavicle due to osteoporosis (disorder),7589411000006110#,Osteoporotic fracture of clavicle,^ESCTOS758941,NA,3012816010#,NA,31
+704329006#,Pathological fracture of clavicle due to osteoporosis (disorder),7589401000006112#,Pathological fracture of clavicle due to osteoporosis,^ESCTPA758940,NA,3012835010#,NA,31
+704292005#,Pathological fracture of clavicle due to secondary osteoporosis (disorder),7588931000006116#,Secondary osteoporotic fracture of clavicle,^ESCTSE758893,NA,3012729018#,NA,31
+704292005#,Pathological fracture of clavicle due to secondary osteoporosis (disorder),7588921000006119#,Pathological fracture of clavicle due to secondary osteoporosis,^ESCTPA758892,NA,3012758015#,NA,31
+704330001#,Pathological fracture of femur due to osteoporosis,7589431000006116#,Osteoporotic fracture of femur,^ESCTOS758943,NA,3012824017#,NA,31
+704330001#,Pathological fracture of femur due to osteoporosis,7589421000006119#,Pathological fracture of femur due to osteoporosis,^ESCTPA758942,NA,3012770016#,NA,31
+704291003#,Pathological fracture of femur due to secondary osteoporosis (disorder),7588901000006112#,Pathological fracture of femur due to secondary osteoporosis,^ESCTPA758890,NA,3012724011#,NA,31
+704291003#,Pathological fracture of femur due to secondary osteoporosis (disorder),7588911000006110#,Secondary osteoporotic fracture of femur,^ESCTSE758891,NA,3012741013#,NA,31
+704331002#,Pathological fracture of fibula due to osteoporosis,7589441000006114#,Pathological fracture of fibula due to osteoporosis,^ESCTPA758944,NA,3012784014#,NA,31
+704331002#,Pathological fracture of fibula due to osteoporosis,7589451000006111#,Osteoporotic fracture of fibula,^ESCTOS758945,NA,3012854010#,NA,31
+704290002#,Pathological fracture of fibula due to secondary osteoporosis,7588881000006110#,Pathological fracture of fibula due to secondary osteoporosis,^ESCTPA758888,NA,3012681012#,NA,31
+704290002#,Pathological fracture of fibula due to secondary osteoporosis,7588891000006113#,Secondary osteoporotic fracture of fibula,^ESCTSE758889,NA,3012696011#,NA,31
+704332009#,Pathological fracture of foot due to osteoporosis,7589471000006118#,Osteoporotic fracture of foot,^ESCTOS758947,NA,3012911016#,NA,31
+704332009#,Pathological fracture of foot due to osteoporosis,7589461000006113#,Pathological fracture of foot due to osteoporosis,^ESCTPA758946,NA,3012895013#,NA,31
+704289006#,Pathological fracture of foot due to secondary osteoporosis,7588861000006117#,Pathological fracture of foot due to secondary osteoporosis,^ESCTPA758886,NA,3012679010#,NA,31
+704289006#,Pathological fracture of foot due to secondary osteoporosis,7588871000006112#,Secondary osteoporotic fracture of foot,^ESCTSE758887,NA,3012721015#,NA,31
+704333004#,Pathological fracture of hand due to osteoporosis (disorder),7589491000006117#,Osteoporotic fracture of hand,^ESCTOS758949,NA,3012905019#,NA,31
+704333004#,Pathological fracture of hand due to osteoporosis (disorder),7589481000006115#,Pathological fracture of hand due to osteoporosis,^ESCTPA758948,NA,3012907010#,NA,31
+704288003#,Pathological fracture of hand due to secondary osteoporosis (disorder),7588851000006119#,Secondary osteoporotic fracture of hand,^ESCTSE758885,NA,3012667010#,NA,31
+704288003#,Pathological fracture of hand due to secondary osteoporosis (disorder),7588841000006116#,Pathological fracture of hand due to secondary osteoporosis,^ESCTPA758884,NA,3012734019#,NA,31
+704335006#,Pathological fracture of humerus due to osteoporosis (disorder),7589521000006115#,Pathological fracture of humerus due to osteoporosis,^ESCTPA758952,NA,3012927011#,NA,31
+704335006#,Pathological fracture of humerus due to osteoporosis (disorder),7589531000006117#,Osteoporotic fracture of humerus,^ESCTOS758953,NA,3012934013#,NA,31
+704286004#,Pathological fracture of humerus due to secondary osteoporosis,7588801000006118#,Pathological fracture of humerus due to secondary osteoporosis,^ESCTPA758880,NA,3012685015#,NA,31
+704286004#,Pathological fracture of humerus due to secondary osteoporosis,7588811000006115#,Secondary osteoporotic fracture of humerus,^ESCTSE758881,NA,3012656014#,NA,31
+11874341000119106#,Pathological fracture of left rib due to osteoporosis (disorder),NA#,NA,NA,NA,NA#,NA,NA
+11311441000119109#,Pathological fracture of lumbar vertebra due to secondary osteoporosis (disorder),9383851000006118#,Secondary osteoporotic fracture of lumbar vertebra,^ESCTSE938385,NA,3012676015#,NA,31
+11311441000119109#,Pathological fracture of lumbar vertebra due to secondary osteoporosis (disorder),9383841000006115#,Pathological fracture of lumbar vertebra due to secondary osteoporosis,^ESCTPA938384,NA,3012658010#,NA,31
+431031001#,Pathological fracture of neck of femur associated with osteoporosis (disorder),7130281000006112#,Pathological fracture of neck of femur associated with osteoporosis,^ESCTPA713028,NA,2770901010#,NA,31
+704334005#,Pathological fracture of proximal femur due to osteoporosis,7589501000006113#,Pathological fracture of proximal femur due to osteoporosis,^ESCTPA758950,NA,3012879013#,NA,31
+704334005#,Pathological fracture of proximal femur due to osteoporosis,7589511000006111#,Osteoporotic fracture of hip,^ESCTOS758951,NA,3012964017#,NA,31
+704287008#,Pathological fracture of proximal femur due to secondary osteoporosis,7588821000006111#,Pathological fracture of proximal femur due to secondary osteoporosis,^ESCTPA758882,NA,3012751014#,NA,31
+704287008#,Pathological fracture of proximal femur due to secondary osteoporosis,7588831000006114#,Secondary osteoporotic fracture of hip,^ESCTSE758883,NA,3012659019#,NA,31
+704336007#,Pathological fracture of radius due to osteoporosis,7589551000006112#,Osteoporotic fracture of radius,^ESCTOS758955,NA,3012965016#,NA,31
+704336007#,Pathological fracture of radius due to osteoporosis,7589541000006110#,Pathological fracture of radius due to osteoporosis,^ESCTPA758954,NA,3012901011#,NA,31
+704285000#,Pathological fracture of radius due to secondary osteoporosis (disorder),7588791000006119#,Secondary osteoporotic fracture of radius,^ESCTSE758879,NA,3012673011#,NA,31
+704285000#,Pathological fracture of radius due to secondary osteoporosis (disorder),7588781000006117#,Pathological fracture of radius due to secondary osteoporosis,^ESCTPA758878,NA,3012653018#,NA,31
+11874381000119101#,Pathological fracture of right rib due to osteoporosis (disorder),NA#,NA,NA,NA,NA#,NA,NA
+11311841000119107#,Pathological fracture of sacral vertebra due to secondary osteoporosis (disorder),9384111000006110#,Pathological fracture of sacral vertebra due to secondary osteoporosis,^ESCTPA938411,NA,3012759011#,NA,31
+11311841000119107#,Pathological fracture of sacral vertebra due to secondary osteoporosis (disorder),9384121000006119#,Secondary osteoporotic fracture of sacral vertebra,^ESCTSE938412,NA,3012728014#,NA,31
+704337003#,Pathological fracture of scapula due to osteoporosis (disorder),7589561000006114#,Pathological fracture of scapula due to osteoporosis,^ESCTPA758956,NA,3012910015#,NA,31
+704337003#,Pathological fracture of scapula due to osteoporosis (disorder),7589571000006119#,Osteoporotic fracture of scapula,^ESCTOS758957,NA,3012891016#,NA,31
+704284001#,Pathological fracture of scapula due to secondary osteoporosis (disorder),7588761000006110#,Pathological fracture of scapula due to secondary osteoporosis,^ESCTPA758876,NA,3012744017#,NA,31
+704284001#,Pathological fracture of scapula due to secondary osteoporosis (disorder),7588771000006115#,Secondary osteoporotic fracture of scapula,^ESCTSE758877,NA,3012715019#,NA,31
+11311361000119103#,Pathological fracture of thoracic vertebra due to secondary osteoporosis,9383791000006118#,Secondary osteoporotic fracture of thoracic vertebra,^ESCTSE938379,NA,3012680013#,NA,31
+11311361000119103#,Pathological fracture of thoracic vertebra due to secondary osteoporosis,9383781000006116#,Pathological fracture of thoracic vertebra due to secondary osteoporosis,^ESCTPA938378,NA,3012670014#,NA,31
+704338008#,Pathological fracture of tibia due to osteoporosis (disorder),7589581000006116#,Pathological fracture of tibia due to osteoporosis,^ESCTPA758958,NA,3012949017#,NA,31
+704338008#,Pathological fracture of tibia due to osteoporosis (disorder),7589591000006118#,Osteoporotic fracture of tibia,^ESCTOS758959,NA,3012885018#,NA,31
+704283007#,Pathological fracture of tibia due to secondary osteoporosis (disorder),7588751000006113#,Secondary osteoporotic fracture of tibia,^ESCTSE758875,NA,3012762014#,NA,31
+704283007#,Pathological fracture of tibia due to secondary osteoporosis (disorder),7588741000006111#,Pathological fracture of tibia due to secondary osteoporosis,^ESCTPA758874,NA,3012649015#,NA,31
+704339000#,Pathological fracture of ulna due to osteoporosis,7589611000006112#,Osteoporotic fracture of ulna,^ESCTOS758961,NA,3012898010#,NA,31
+704339000#,Pathological fracture of ulna due to osteoporosis,7589601000006114#,Pathological fracture of ulna due to osteoporosis,^ESCTPA758960,NA,3012933019#,NA,31
+704282002#,Pathological fracture of ulna due to secondary osteoporosis,7588731000006118#,Secondary osteoporotic fracture of ulna,^ESCTSE758873,NA,3012689014#,NA,31
+704282002#,Pathological fracture of ulna due to secondary osteoporosis,7588721000006116#,Pathological fracture of ulna due to secondary osteoporosis,^ESCTPA758872,NA,3012651016#,NA,31
+11311601000119109#,Pathological fracture of vertebra due to osteoporosis,9383961000006112#,Osteoporotic fracture of vertebra,^ESCTOS938396,NA,3012921012#,NA,31
+11311601000119109#,Pathological fracture of vertebra due to osteoporosis,9383951000006110#,Pathological fracture of vertebra due to osteoporosis,^ESCTPA938395,NA,3012941019#,NA,31
+240164006#,Post-irradiation osteoporosis (disorder),5144291000006118#,Post-irradiation osteoporosis,^ESCTPO514429,NA,359794012#,NA,31
+203434006#,Post-surgical malabsorption osteoporosis,212431000006119#,Postsurgical malabsorption osteoporosis,N3307,N330700,312134016#,NA,32
+203434006#,Post-surgical malabsorption osteoporosis,4820831000006110#,Post-surgical malabsorption osteoporosis,^ESCTPO482083,NA,312134016#,NA,32
+102447009#,Postmenopausal osteoporosis,54058015#,Postmenopausal osteoporosis,N3302,N330200,165682016#,NA,32
+203453001#,Postmenopausal osteoporosis with pathological fracture (disorder),312165013#,Postmenopausal osteoporosis with pathological fracture,N331B,N331B00,312165013#,NA,32
+203433000#,Postoophorectomy osteoporosis (disorder),312133010#,Postoophorectomy osteoporosis,N3306,N330600,312133010#,NA,32
+203444008#,Postoophorectomy osteoporosis with pathological fracture (disorder),312156018#,Postoophorectomy osteoporosis with pathological fracture,N3312,N331200,312156018#,NA,32
+15743005#,Posttraumatic osteoporosis (disorder),2749641000006119#,Posttraumatic osteoporosis,^ESCTPO274964,NA,2749641000006119#,NA,32
+15743005#,Posttraumatic osteoporosis (disorder),2749651000006117#,Sudeck's atrophy,^ESCTSU274965,NA,26678010#,NA,32
+15743005#,Posttraumatic osteoporosis (disorder),2749661000006115#,Posttraumatic atrophy of bone,^ESCTPO274966,NA,26679019#,NA,32
+15743005#,Posttraumatic osteoporosis (disorder),2475469012#,Posttraumatic osteoporosis,N3371,N337100,26677017#,NA,32
+15743005#,Posttraumatic osteoporosis (disorder),11903461000006116#,Sudek's atrophy,^ESCT1190346,NA,119301000006112#,NA,32
+735617003#,Premenopausal idiopathic osteoporosis (disorder),3515006019#,Premenopausal idiopathic osteoporosis,^ESCT1165738,NA,3515006019#,NA,31
+276661002#,Primary osteoporosis (disorder),5588811000006116#,Age-related osteoporosis,^ESCTAG558881,NA,412914015#,NA,31
+276661002#,Primary osteoporosis (disorder),5588801000006119#,Primary osteoporosis,^ESCTPR558880,NA,412913014#,NA,31
+391033001#,Refer to osteoporosis specialist,1485061012#,Refer to osteoporosis specialist,66aE,66aE.00,1485061012#,NA,1
+412717001#,Referral to osteoporosis clinic (procedure),2474275011#,Referral to osteoporosis clinic,8HTS,8HTS.00,2474275011#,NA,40
+240158004#,Regional migrating osteoporosis (disorder),5144221000006115#,Regional migrating osteoporosis,^ESCTRE514422,NA,359787014#,NA,31
+281387004#,Regional osteoporosis (disorder),5650941000006111#,Regional osteoporosis,^ESCTRE565094,NA,419383011#,NA,31
+300004007#,Screening for osteoporosis,5873741000006111#,Screening for osteoporosis,^ESCTSC587374,NA,440991014#,NA,31
+240157009#,Secondary generalised osteoporosis,5144211000006111#,Secondary generalized osteoporosis,^ESCTSE514421,NA,359786017#,NA,31
+240157009#,Secondary generalised osteoporosis,5144201000006113#,Secondary generalised osteoporosis,^ESCTSE514420,NA,359785018#,NA,31
+240162005#,Secondary localised osteoporosis,5144271000006119#,Secondary localized osteoporosis,^ESCTSE514427,NA,359792011#,NA,31
+240162005#,Secondary localised osteoporosis,5144261000006114#,Secondary localised osteoporosis,^ESCTSE514426,NA,359791016#,NA,31
+703264005#,Secondary osteoporosis,7573061000006112#,Pathologic osteoporosis,^ESCTPA757306,NA,3008154014#,NA,31
+703264005#,Secondary osteoporosis,7573051000006110#,Secondary osteoporosis,^ESCTSE757305,NA,3008167012#,NA,31
+391037000#,Seen in osteoporosis clinic (finding),1485065015#,Seen in osteoporosis clinic,9N0h,9N0h.00,1485065015#,NA,37
+699528002#,Transient osteoporosis,7523331000006116#,Transient osteoporosis,^ESCTTR752333,NA,2984551010#,NA,31
+240159007#,Transient osteoporosis of hip,5144231000006117#,Transient osteoporosis of hip,^ESCTTR514423,NA,359788016#,NA,31
+240160002#,Transient osteoporosis of hip in pregnancy (disorder),5144241000006110#,Transient osteoporosis of hip in pregnancy,^ESCTTR514424,NA,359789012#,NA,31
+720745005#,Treatment for osteoporosis,7807571000006110#,Osteoporosis treatment,^ESCTOS780757,NA,3321969014#,NA,31
+720745005#,Treatment for osteoporosis,7807561000006115#,Treatment for osteoporosis,^ESCTTR780756,NA,3307986017#,NA,31
+203438009#,Vertebral osteoporosis,312139014#,Vertebral osteoporosis,N330B,N330B00,312139014#,NA,32
+782785002#,X-linked osteoporosis with fractures (disorder),NA#,NA,NA,NA,NA#,NA,NA
+18040001#,Senile osteoporosis (disorder),2786171000006119#,Type II osteoporosis,^ESCTTY278617,NA,478468010#,NA,32
+18040001#,Senile osteoporosis (disorder),2786191000006118#,Age related osteoporosis,^ESCTAG278619,NA,3035869014#,NA,32
+18040001#,Senile osteoporosis (disorder),30475015#,Senile osteoporosis,N3301,N330100,30475015#,NA,32
+18040001#,Senile osteoporosis (disorder),2786181000006116#,Involutional osteoporosis,^ESCTIN278618,NA,478469019#,NA,32

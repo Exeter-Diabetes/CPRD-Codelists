@@ -1,0 +1,61 @@
+readcode,term_readcode,cal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+8H2V.#,Admit ischaemic heart disease emergency,1,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,699245006,3082941013,NA,40,8H2V.00#
+G3...#,Ischaemic heart disease,1,2536393012#,Arteriosclerotic heart disease,G3-1,G3...11,443502000,2842265012,NA,32,G3...11#
+G3...#,Ischaemic heart disease,1,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,414545008,2537480011,NA,32,G3...13#
+G3...#,Ischaemic heart disease,1,2534664018#,Ischaemic heart disease,G3,G3...00,414545008,2534664018,NA,32,G3...00#
+G3...#,Ischaemic heart disease,1,89332015#,Atherosclerotic heart disease,G3-2,G3...12,443502000,2842265012,NA,32,G3...12#
+G31..#,Other acute and subacute ischaemic heart disease,1,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,414545008,2534663012,NA,32,G31..00#
+G31..#,Other acute and subacute ischaemic heart disease,1,884161000006117#,Acute/subacute IHD NOS,G31-99,G31..99,6.44E+14,8.84E+14,NA,32,G31..99#
+G31y.#,Other acute and subacute ischaemic heart disease,1,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,414545008,2534663012,NA,32,G31y.00#
+G31y2#,Subendocardial ischaemia,1,494438016#,Subendocardial ischaemia,G31y2,G31y200,46109009,494438016,NA,32,G31y200#
+G31yz#,Other acute and subacute ischaemic heart disease NOS,1,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,414545008,2534663012,NA,32,G31yz00#
+G34..#,Other chronic ischaemic heart disease,1,884171000006112#,Chr. ischaemic heart dis. NOS,G34-99,G34..99,6.22E+14,8.84E+14,NA,32,G34..99#
+G34..#,Other chronic ischaemic heart disease,1,299776014#,Chronic ischaemic heart disease,G34,G34..00,413838009,2534672016,NA,32,G34..00#
+G340.#,Coronary atherosclerosis,1,350346019#,Triple vessel disease of the heart,G340-1,G340.11,233817007,350346019,NA,32,G340.11#
+G340.#,Coronary atherosclerosis,1,2536395017#,Coronary artery disease,G340-2,G340.12,53741008,2536395017,NA,32,G340.12#
+G340.#,Coronary atherosclerosis,1,595731000006114#,Coronary atherosclerosis,G340,G340.00,443502000,2842265012,NA,32,G340.00#
+G344.#,Silent myocardial ischaemia,1,350354017#,Silent myocardial ischaemia,G344,G344.00,233823002,350354017,NA,32,G344.00#
+G34y.#,Other specified chronic ischaemic heart disease,1,299800012#,Other specified chronic ischaemic heart disease,G34y,G34y.00,413838009,2534671011,NA,32,G34y.00#
+G34y1#,Chronic myocardial ischaemia,1,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,413844008,2534674015,NA,32,G34y100#
+G34yz#,Other specified chronic ischaemic heart disease NOS,1,299804015#,Other specified chronic ischaemic heart disease NOS,G34yz,G34yz00,413838009,2534671011,NA,32,G34yz00#
+G34z.#,Other chronic ischaemic heart disease NOS,1,299805019#,Other chronic ischaemic heart disease NOS,G34z,G34z.00,413838009,2534672016,NA,32,G34z.00#
+G34z0#,Asymptomatic coronary heart disease,1,459859010#,Asymptomatic coronary heart disease,G34z0,G34z000,315348000,459859010,NA,32,G34z000#
+G3y..#,Other specified ischaemic heart disease,1,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,414545008,2534664018,NA,32,G3y..00#
+G3z..#,Ischaemic heart disease NOS,1,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,414545008,2534664018,NA,32,G3z..00#
+Gyu3.#,[X]Ischaemic heart diseases,1,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,414545008,2534664018,NA,32,Gyu3.00#
+Gyu32#,[X]Other forms of acute ischaemic heart disease,1,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,414545008,2534663012,NA,32,Gyu3200#
+Gyu33#,[X]Other forms of chronic ischaemic heart disease,1,300879015#,[X]Other forms of chronic ischaemic heart disease,Gyu33,Gyu3300,413838009,2534671011,NA,32,Gyu3300#
+G30y1#,Acute papillary muscle infarction,0,1218860015#,Acute papillary muscle infarction,G30y1,G30y100,10273003,1218860015,NA,32,G30y100#
+G31y1#,Microinfarction of heart,0,1229885017#,Microinfarction of heart,G31y1,G31y100,42531007,1229885017,NA,32,G31y100#
+X200D#,Silent myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,X200D#
+Xa1dP#,Ischaemic myocardial dysfunction,0,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1dP#
+G31y0#,Acute coronary insufficiency,0,299745015#,Acute coronary insufficiency,G31y0,G31y000,194823009,299745015,NA,32,G31y000#
+G31y0#,Acute coronary insufficiency,0,931961000006117#,Acute coronary syndrome,G31y0-99,G31y099,194823009,9.32E+14,NA,32,G31y099#
+Y201T#,Ischaemic heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201T#
+Y202C#,Myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y202C#
+Yah39#,Transient myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,Yah39#
+Y202D#,Chronic myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y202D#
+Y202F#,Subendocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y202F#
+YaYAN#,Single coronary vessel disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,YaYAN#
+YaYAO#,Double coronary vessel disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,YaYAO#
+Y201g#,Triple vessel disease of the heart,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201g#
+YSLav#,Coronary artery atheroma,0,NA#,NA,NA,NA,NA,NA,NA,NA,YSLav#
+Y201b#,Other acute and subacute ischaemic heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201b#
+Y201d#,Microinfarction of heart,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201d#
+Y201e#,Other acute and subacute ischaemic heart disease NOS,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201e#
+YMAkD#,Coronary thrombosis not resulting in myocardial infarction,0,NA#,NA,NA,NA,NA,NA,NA,NA,YMAkD#
+Y201k#,Other specified ischaemic heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201k#
+Y201l#,Ischaemic heart disease NOS,0,NA#,NA,NA,NA,NA,NA,NA,NA,Y201l#
+YahGt#,Asymptomatic coronary heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,YahGt#
+XE2uV#,Ischaemic heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,XE2uV#
+X200C#,Myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,X200C#
+XaFsH#,Transient myocardial ischaemia,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaFsH#
+G3400#,Single coronary vessel disease,0,299782012#,Single coronary vessel disease,G3400,G340000,194842008,299782012,NA,32,G340000#
+G3401#,Double coronary vessel disease,0,299783019#,Double coronary vessel disease,G3401,G340100,194843003,299783019,NA,32,G340100#
+X2006#,Triple vessel disease of the heart,0,NA#,NA,NA,NA,NA,NA,NA,NA,X2006#
+XSDT6#,Coronary artery atheroma,0,NA#,NA,NA,NA,NA,NA,NA,NA,XSDT6#
+G312.#,Coronary thrombosis not resulting in myocardial infarction,0,299742017#,Coronary thrombosis not resulting in myocardial infarction,G312,G312.00,194821006,299742017,NA,32,G312.00#
+XaG1Q#,Asymptomatic coronary heart disease,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaG1Q#
+G31y3#,Transient myocardial ischaemia,0,459488019#,Transient myocardial ischaemia,G31y3,G31y300,315026000,459488019,NA,32,G31y300#
+G34y0#,Chronic coronary insufficiency,0,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,413844008,2537483013,NA,32,G34y000#
+G39..#,Coronary microvascular disease,0,2115181000000110#,Coronary microvascular disease,G39,G39..00,810681000000101,2115181000000110,NA,32,G39..00#

@@ -1,0 +1,499 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+699245006#,Admit ischemic heart disease emergency (procedure),2983041012#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Admit ischemic heart disease emergency (procedure),2983041012#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Admit ischemic heart disease emergency (procedure),2983041012#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Admit ischemic heart disease emergency (procedure),2983041012#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+699245006#,Admit ischaemic heart disease emergency,2983101018#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Admit ischaemic heart disease emergency,2983101018#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Admit ischaemic heart disease emergency,2983101018#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Admit ischaemic heart disease emergency,2983101018#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+699245006#,Admit ischemic heart disease emergency,2983138018#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Admit ischemic heart disease emergency,2983138018#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Admit ischemic heart disease emergency,2983138018#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Admit ischemic heart disease emergency,2983138018#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease (procedure),3082854017#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease (procedure),3082854017#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease (procedure),3082854017#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease (procedure),3082854017#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease,3082868012#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease,3082868012#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease,3082868012#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Emergency hospital admission for ischemic heart disease,3082868012#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+699245006#,Emergency hospital admission for ischaemic heart disease,3082941013#,1,1,2,7519001000006115#,Emergency hospital admission for ischemic heart disease,^ESCTEM751900,NA,3082868012,NA,40
+699245006#,Emergency hospital admission for ischaemic heart disease,3082941013#,1,1,2,12490701000006116#,Admit ischaemic heart disease emergency,^ESCT1249070,NA,2983101018,NA,40
+699245006#,Emergency hospital admission for ischaemic heart disease,3082941013#,1,1,2,585631000000113#,Emergency hospital admission for ischaemic heart disease,8H2V,8H2V.00,3082941013,NA,40
+699245006#,Emergency hospital admission for ischaemic heart disease,3082941013#,1,1,2,7518981000006118#,Emergency hospital admission for ischaemic heart disease,^ESCTEM751898,NA,751898e10,NA,40
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,2534664018,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,6860261000006118#,IHD - Ischemic heart disease,^ESCTIH686026,NA,2537479013,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,2534663012,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,2534663012,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,2534663012,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,2537480011,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,2534664018,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,2534664018#,Ischaemic heart disease,G3,G3...00,2534664018,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,2534663012,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,6860251000006115#,Ischemic heart disease,^ESCTIS686025,NA,2534663012,NA,32
+414545008#,Ischemic heart disease (disorder),2531167010#,1,1,2,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,2534664018,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,2534664018,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,6860261000006118#,IHD - Ischemic heart disease,^ESCTIH686026,NA,2537479013,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,2534663012,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,2534663012,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,2534663012,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,2537480011,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,2534664018,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,2534664018#,Ischaemic heart disease,G3,G3...00,2534664018,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,2534663012,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,6860251000006115#,Ischemic heart disease,^ESCTIS686025,NA,2534663012,NA,32
+414545008#,Ischemic heart disease,2534663012#,1,1,2,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,2534664018,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,2534664018,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,6860261000006118#,IHD - Ischemic heart disease,^ESCTIH686026,NA,2537479013,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,2534663012,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,2534663012,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,2534663012,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,2537480011,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,2534664018,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,2534664018#,Ischaemic heart disease,G3,G3...00,2534664018,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,2534663012,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,6860251000006115#,Ischemic heart disease,^ESCTIS686025,NA,2534663012,NA,32
+414545008#,Ischaemic heart disease,2534664018#,1,1,2,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,2534664018,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,2534664018,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,6860261000006118#,IHD - Ischemic heart disease,^ESCTIH686026,NA,2537479013,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,2534663012,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,2534663012,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,2534663012,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,2537480011,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,2534664018,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,2534664018#,Ischaemic heart disease,G3,G3...00,2534664018,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,2534663012,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,6860251000006115#,Ischemic heart disease,^ESCTIS686025,NA,2534663012,NA,32
+414545008#,IHD - Ischemic heart disease,2537479013#,1,1,2,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,2534664018,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,394541000006112#,[X]Ischaemic heart diseases,Gyu3,Gyu3.00,2534664018,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,6860261000006118#,IHD - Ischemic heart disease,^ESCTIH686026,NA,2537479013,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,300876010#,[X]Other forms of acute ischaemic heart disease,Gyu32,Gyu3200,2534663012,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,39111000006114#,Other acute and subacute ischaemic heart disease,G31,G31..00,2534663012,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,299750014#,Other acute and subacute ischaemic heart disease NOS,G31yz,G31yz00,2534663012,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,2537480011#,IHD - Ischaemic heart disease,G3-3,G3...13,2537480011,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,299835014#,Ischaemic heart disease NOS,G3z,G3z..00,2534664018,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,2534664018#,Ischaemic heart disease,G3,G3...00,2534664018,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,299723016#,Other acute and subacute ischaemic heart disease,G31y,G31y.00,2534663012,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,6860251000006115#,Ischemic heart disease,^ESCTIS686025,NA,2534663012,NA,32
+414545008#,IHD - Ischaemic heart disease,2537480011#,1,1,2,299834013#,Other specified ischaemic heart disease,G3y,G3y..00,2534664018,NA,32
+443502000#,Coronary atherosclerosis,2842265012#,1,1,2,7278491000006111#,Atherosclerosis of coronary artery,^ESCTAT727849,NA,2842574013,NA,32
+443502000#,Coronary atherosclerosis,2842265012#,1,1,2,2536393012#,Arteriosclerotic heart disease,G3-1,G3...11,2842265012,NA,32
+443502000#,Coronary atherosclerosis,2842265012#,1,1,2,595731000006114#,Coronary atherosclerosis,G340,G340.00,2842265012,NA,32
+443502000#,Coronary atherosclerosis,2842265012#,1,1,2,89332015#,Atherosclerotic heart disease,G3-2,G3...12,2842265012,NA,32
+443502000#,Atherosclerosis of coronary artery,2842574013#,1,1,2,7278491000006111#,Atherosclerosis of coronary artery,^ESCTAT727849,NA,2842574013,NA,32
+443502000#,Atherosclerosis of coronary artery,2842574013#,1,1,2,2536393012#,Arteriosclerotic heart disease,G3-1,G3...11,2842265012,NA,32
+443502000#,Atherosclerosis of coronary artery,2842574013#,1,1,2,595731000006114#,Coronary atherosclerosis,G340,G340.00,2842265012,NA,32
+443502000#,Atherosclerosis of coronary artery,2842574013#,1,1,2,89332015#,Atherosclerotic heart disease,G3-2,G3...12,2842265012,NA,32
+46109009#,Subendocardial ischemia,76878014#,1,1,2,494438016#,Subendocardial ischaemia,G31y2,G31y200,494438016,NA,32
+46109009#,Subendocardial ischemia,76878014#,1,1,2,3244701000006112#,Subendocardial ischemia,^ESCTSU324470,NA,76878014,NA,32
+46109009#,Subendocardial ischaemia,494438016#,1,1,2,494438016#,Subendocardial ischaemia,G31y2,G31y200,494438016,NA,32
+46109009#,Subendocardial ischaemia,494438016#,1,1,2,3244701000006112#,Subendocardial ischemia,^ESCTSU324470,NA,76878014,NA,32
+46109009#,Subendocardial ischemia (disorder),783422013#,1,1,2,494438016#,Subendocardial ischaemia,G31y2,G31y200,494438016,NA,32
+46109009#,Subendocardial ischemia (disorder),783422013#,1,1,2,3244701000006112#,Subendocardial ischemia,^ESCTSU324470,NA,76878014,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,299805019#,Other chronic ischaemic heart disease NOS,G34z,G34z.00,2534672016,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,299800012#,Other specified chronic ischaemic heart disease,G34y,G34y.00,2534671011,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,300879015#,[X]Other forms of chronic ischaemic heart disease,Gyu33,Gyu3300,2534671011,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,299804015#,Other specified chronic ischaemic heart disease NOS,G34yz,G34yz00,2534671011,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,6847761000006118#,Chronic ischemic heart disease,^ESCTCH684776,NA,2534671011,NA,32
+413838009#,Chronic ischemic heart disease (disorder),2531171013#,1,1,2,299776014#,Chronic ischaemic heart disease,G34,G34..00,2534672016,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,299805019#,Other chronic ischaemic heart disease NOS,G34z,G34z.00,2534672016,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,299800012#,Other specified chronic ischaemic heart disease,G34y,G34y.00,2534671011,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,300879015#,[X]Other forms of chronic ischaemic heart disease,Gyu33,Gyu3300,2534671011,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,299804015#,Other specified chronic ischaemic heart disease NOS,G34yz,G34yz00,2534671011,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,6847761000006118#,Chronic ischemic heart disease,^ESCTCH684776,NA,2534671011,NA,32
+413838009#,Chronic ischemic heart disease,2534671011#,1,1,2,299776014#,Chronic ischaemic heart disease,G34,G34..00,2534672016,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,299805019#,Other chronic ischaemic heart disease NOS,G34z,G34z.00,2534672016,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,299800012#,Other specified chronic ischaemic heart disease,G34y,G34y.00,2534671011,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,300879015#,[X]Other forms of chronic ischaemic heart disease,Gyu33,Gyu3300,2534671011,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,299804015#,Other specified chronic ischaemic heart disease NOS,G34yz,G34yz00,2534671011,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,6847761000006118#,Chronic ischemic heart disease,^ESCTCH684776,NA,2534671011,NA,32
+413838009#,Chronic ischaemic heart disease,2534672016#,1,1,2,299776014#,Chronic ischaemic heart disease,G34,G34..00,2534672016,NA,32
+233817007#,Triple vessel disease of the heart,350346019#,1,1,2,350346019#,Triple vessel disease of the heart,G340-1,G340.11,350346019,NA,32
+233817007#,Triple vessel disease of the heart,350346019#,1,1,2,5056201000006111#,Triple vessel coronary artery disease,^ESCTTR505620,NA,2535923015,NA,32
+233817007#,Triple vessel disease of the heart (disorder),622054010#,1,1,2,350346019#,Triple vessel disease of the heart,G340-1,G340.11,350346019,NA,32
+233817007#,Triple vessel disease of the heart (disorder),622054010#,1,1,2,5056201000006111#,Triple vessel coronary artery disease,^ESCTTR505620,NA,2535923015,NA,32
+233817007#,Triple vessel coronary artery disease,2535923015#,1,1,2,350346019#,Triple vessel disease of the heart,G340-1,G340.11,350346019,NA,32
+233817007#,Triple vessel coronary artery disease,2535923015#,1,1,2,5056201000006111#,Triple vessel coronary artery disease,^ESCTTR505620,NA,2535923015,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Coronary arteriosclerosis,89331010#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Atherosclerotic heart disease,89332015#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Coronary arteriosclerosis (disorder),791895015#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,ASHD - Atherosclerotic heart disease,2536392019#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Arteriosclerotic heart disease,2536393012#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,CAD - Coronary artery disease,2536394018#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Coronary artery disease,2536395017#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Coronary sclerosis,2536396016#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,CHD - Coronary heart disease,2536397013#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,2536395017#,Coronary artery disease,G340-2,G340.12,2536395017,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371421000006117#,Coronary heart disease,^ESCTCO337142,NA,2536398015,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371381000006110#,CAD - Coronary artery disease,^ESCTCA337138,NA,2536394018,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371371000006112#,Arteriosclerotic heart disease,^ESCTAR337137,NA,2536393012,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371411000006113#,CHD - Coronary heart disease,^ESCTCH337141,NA,2536397013,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371401000006110#,Coronary sclerosis,^ESCTCO337140,NA,2536396016,NA,32
+53741008#,Coronary heart disease,2536398015#,1,1,2,3371361000006117#,Coronary arteriosclerosis,^ESCTCO337136,NA,89331010,NA,32
+233823002#,Silent myocardial ischemia,350353011#,1,1,2,5056251000006110#,Asymptomatic ischemia,^ESCTAS505625,NA,350355016,NA,32
+233823002#,Silent myocardial ischemia,350353011#,1,1,2,5056241000006113#,Silent myocardial ischemia,^ESCTSI505624,NA,350353011,NA,32
+233823002#,Silent myocardial ischemia,350353011#,1,1,2,5056261000006112#,Asymptomatic ischaemia,^ESCTAS505626,NA,350356015,NA,32
+233823002#,Silent myocardial ischemia,350353011#,1,1,2,350354017#,Silent myocardial ischaemia,G344,G344.00,350354017,NA,32
+233823002#,Silent myocardial ischaemia,350354017#,1,1,2,5056251000006110#,Asymptomatic ischemia,^ESCTAS505625,NA,350355016,NA,32
+233823002#,Silent myocardial ischaemia,350354017#,1,1,2,5056241000006113#,Silent myocardial ischemia,^ESCTSI505624,NA,350353011,NA,32
+233823002#,Silent myocardial ischaemia,350354017#,1,1,2,5056261000006112#,Asymptomatic ischaemia,^ESCTAS505626,NA,350356015,NA,32
+233823002#,Silent myocardial ischaemia,350354017#,1,1,2,350354017#,Silent myocardial ischaemia,G344,G344.00,350354017,NA,32
+233823002#,Asymptomatic ischemia,350355016#,1,1,2,5056251000006110#,Asymptomatic ischemia,^ESCTAS505625,NA,350355016,NA,32
+233823002#,Asymptomatic ischemia,350355016#,1,1,2,5056241000006113#,Silent myocardial ischemia,^ESCTSI505624,NA,350353011,NA,32
+233823002#,Asymptomatic ischemia,350355016#,1,1,2,5056261000006112#,Asymptomatic ischaemia,^ESCTAS505626,NA,350356015,NA,32
+233823002#,Asymptomatic ischemia,350355016#,1,1,2,350354017#,Silent myocardial ischaemia,G344,G344.00,350354017,NA,32
+233823002#,Asymptomatic ischaemia,350356015#,1,1,2,5056251000006110#,Asymptomatic ischemia,^ESCTAS505625,NA,350355016,NA,32
+233823002#,Asymptomatic ischaemia,350356015#,1,1,2,5056241000006113#,Silent myocardial ischemia,^ESCTSI505624,NA,350353011,NA,32
+233823002#,Asymptomatic ischaemia,350356015#,1,1,2,5056261000006112#,Asymptomatic ischaemia,^ESCTAS505626,NA,350356015,NA,32
+233823002#,Asymptomatic ischaemia,350356015#,1,1,2,350354017#,Silent myocardial ischaemia,G344,G344.00,350354017,NA,32
+233823002#,Silent myocardial ischemia (disorder),622061014#,1,1,2,5056251000006110#,Asymptomatic ischemia,^ESCTAS505625,NA,350355016,NA,32
+233823002#,Silent myocardial ischemia (disorder),622061014#,1,1,2,5056241000006113#,Silent myocardial ischemia,^ESCTSI505624,NA,350353011,NA,32
+233823002#,Silent myocardial ischemia (disorder),622061014#,1,1,2,5056261000006112#,Asymptomatic ischaemia,^ESCTAS505626,NA,350356015,NA,32
+233823002#,Silent myocardial ischemia (disorder),622061014#,1,1,2,350354017#,Silent myocardial ischaemia,G344,G344.00,350354017,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+315348000#,Asymptomatic coronary heart disease,459859010#,1,1,2,459859010#,Asymptomatic coronary heart disease,G34z0,G34z000,459859010,NA,32
+315348000#,Asymptomatic coronary heart disease (disorder),712228014#,1,1,2,459859010#,Asymptomatic coronary heart disease,G34z0,G34z000,459859010,NA,32
+42531007#,Microinfarct of heart,70952012#,1,1,2,1229885017#,Microinfarction of heart,G31y1,G31y100,1229885017,NA,32
+42531007#,Microinfarct of heart,70952012#,1,1,2,3185771000006112#,Microinfarct of heart,^ESCTMI318577,NA,70952012,NA,32
+42531007#,Microinfarct of heart (disorder),779441011#,1,1,2,1229885017#,Microinfarction of heart,G31y1,G31y100,1229885017,NA,32
+42531007#,Microinfarct of heart (disorder),779441011#,1,1,2,3185771000006112#,Microinfarct of heart,^ESCTMI318577,NA,70952012,NA,32
+42531007#,Microinfarction of heart,1229885017#,1,1,2,1229885017#,Microinfarction of heart,G31y1,G31y100,1229885017,NA,32
+42531007#,Microinfarction of heart,1229885017#,1,1,2,3185771000006112#,Microinfarct of heart,^ESCTMI318577,NA,70952012,NA,32
+281091000#,Ischemic myocardial dysfunction,419012015#,1,1,2,5647301000006111#,Ischemic myocardial dysfunction,^ESCTIS564730,NA,419012015,NA,31
+281091000#,Ischemic myocardial dysfunction,419012015#,1,1,2,5647291000006110#,Ischaemic myocardial dysfunction,^ESCTIS564729,NA,419013013,NA,31
+281091000#,Ischaemic myocardial dysfunction,419013013#,1,1,2,5647301000006111#,Ischemic myocardial dysfunction,^ESCTIS564730,NA,419012015,NA,31
+281091000#,Ischaemic myocardial dysfunction,419013013#,1,1,2,5647291000006110#,Ischaemic myocardial dysfunction,^ESCTIS564729,NA,419013013,NA,31
+281091000#,Ischemic myocardial dysfunction (disorder),674582014#,1,1,2,5647301000006111#,Ischemic myocardial dysfunction,^ESCTIS564730,NA,419012015,NA,31
+281091000#,Ischemic myocardial dysfunction (disorder),674582014#,1,1,2,5647291000006110#,Ischaemic myocardial dysfunction,^ESCTIS564729,NA,419013013,NA,31
+194823009#,Acute coronary insufficiency,299745015#,1,1,2,299745015#,Acute coronary insufficiency,G31y0,G31y000,299745015,NA,32
+194823009#,Acute coronary insufficiency,299745015#,1,1,2,931961000006117#,Acute coronary syndrome,G31y0-99,G31y099,931961000000000,NA,32
+194823009#,Acute coronary insufficiency (disorder),578853014#,1,1,2,299745015#,Acute coronary insufficiency,G31y0,G31y000,299745015,NA,32
+194823009#,Acute coronary insufficiency (disorder),578853014#,1,1,2,931961000006117#,Acute coronary syndrome,G31y0-99,G31y099,931961000000000,NA,32
+414795007#,Myocardial ischemia (disorder),2531168017#,1,1,2,6864801000006114#,Cardiac ischemia,^ESCTCA686480,NA,2537481010,NA,31
+414795007#,Myocardial ischemia (disorder),2531168017#,1,1,2,6864781000006110#,Myocardial ischaemia,^ESCTMY686478,NA,2534666016,NA,31
+414795007#,Myocardial ischemia (disorder),2531168017#,1,1,2,6864791000006113#,Myocardial ischemia,^ESCTMY686479,NA,2534665017,NA,31
+414795007#,Myocardial ischemia,2534665017#,1,1,2,6864801000006114#,Cardiac ischemia,^ESCTCA686480,NA,2537481010,NA,31
+414795007#,Myocardial ischemia,2534665017#,1,1,2,6864781000006110#,Myocardial ischaemia,^ESCTMY686478,NA,2534666016,NA,31
+414795007#,Myocardial ischemia,2534665017#,1,1,2,6864791000006113#,Myocardial ischemia,^ESCTMY686479,NA,2534665017,NA,31
+414795007#,Myocardial ischaemia,2534666016#,1,1,2,6864801000006114#,Cardiac ischemia,^ESCTCA686480,NA,2537481010,NA,31
+414795007#,Myocardial ischaemia,2534666016#,1,1,2,6864781000006110#,Myocardial ischaemia,^ESCTMY686478,NA,2534666016,NA,31
+414795007#,Myocardial ischaemia,2534666016#,1,1,2,6864791000006113#,Myocardial ischemia,^ESCTMY686479,NA,2534665017,NA,31
+414795007#,Cardiac ischemia,2537481010#,1,1,2,6864801000006114#,Cardiac ischemia,^ESCTCA686480,NA,2537481010,NA,31
+414795007#,Cardiac ischemia,2537481010#,1,1,2,6864781000006110#,Myocardial ischaemia,^ESCTMY686478,NA,2534666016,NA,31
+414795007#,Cardiac ischemia,2537481010#,1,1,2,6864791000006113#,Myocardial ischemia,^ESCTMY686479,NA,2534665017,NA,31
+315026000#,Transient myocardial ischaemia,459488019#,1,1,2,6053071000006117#,Transient myocardial ischemia,^ESCTTR605307,NA,459489010,NA,32
+315026000#,Transient myocardial ischaemia,459488019#,1,1,2,459488019#,Transient myocardial ischaemia,G31y3,G31y300,459488019,NA,32
+315026000#,Transient myocardial ischemia,459489010#,1,1,2,6053071000006117#,Transient myocardial ischemia,^ESCTTR605307,NA,459489010,NA,32
+315026000#,Transient myocardial ischemia,459489010#,1,1,2,459488019#,Transient myocardial ischaemia,G31y3,G31y300,459488019,NA,32
+315026000#,Transient myocardial ischemia (disorder),711875017#,1,1,2,6053071000006117#,Transient myocardial ischemia,^ESCTTR605307,NA,459489010,NA,32
+315026000#,Transient myocardial ischemia (disorder),711875017#,1,1,2,459488019#,Transient myocardial ischaemia,G31y3,G31y300,459488019,NA,32
+194842008#,Single coronary vessel disease,299782012#,1,1,2,299782012#,Single coronary vessel disease,G3400,G340000,299782012,NA,32
+194842008#,Single coronary vessel disease,299782012#,1,1,2,4776051000006110#,Single vessel coronary artery disease,^ESCTSI477605,NA,2535853014,NA,32
+194842008#,Single coronary vessel disease (disorder),578874010#,1,1,2,299782012#,Single coronary vessel disease,G3400,G340000,299782012,NA,32
+194842008#,Single coronary vessel disease (disorder),578874010#,1,1,2,4776051000006110#,Single vessel coronary artery disease,^ESCTSI477605,NA,2535853014,NA,32
+194842008#,Single vessel coronary artery disease,2535853014#,1,1,2,299782012#,Single coronary vessel disease,G3400,G340000,299782012,NA,32
+194842008#,Single vessel coronary artery disease,2535853014#,1,1,2,4776051000006110#,Single vessel coronary artery disease,^ESCTSI477605,NA,2535853014,NA,32
+194843003#,Double coronary vessel disease,299783019#,1,1,2,299783019#,Double coronary vessel disease,G3401,G340100,299783019,NA,32
+194843003#,Double coronary vessel disease,299783019#,1,1,2,4776071000006117#,Two coronary vessel disease,^ESCTTW477607,NA,299784013,NA,32
+194843003#,Double coronary vessel disease,299783019#,1,1,2,4776081000006119#,Double vessel coronary artery disease,^ESCTDO477608,NA,2535854015,NA,32
+194843003#,Two coronary vessel disease,299784013#,1,1,2,299783019#,Double coronary vessel disease,G3401,G340100,299783019,NA,32
+194843003#,Two coronary vessel disease,299784013#,1,1,2,4776071000006117#,Two coronary vessel disease,^ESCTTW477607,NA,299784013,NA,32
+194843003#,Two coronary vessel disease,299784013#,1,1,2,4776081000006119#,Double vessel coronary artery disease,^ESCTDO477608,NA,2535854015,NA,32
+194843003#,Double coronary vessel disease (disorder),578875011#,1,1,2,299783019#,Double coronary vessel disease,G3401,G340100,299783019,NA,32
+194843003#,Double coronary vessel disease (disorder),578875011#,1,1,2,4776071000006117#,Two coronary vessel disease,^ESCTTW477607,NA,299784013,NA,32
+194843003#,Double coronary vessel disease (disorder),578875011#,1,1,2,4776081000006119#,Double vessel coronary artery disease,^ESCTDO477608,NA,2535854015,NA,32
+194843003#,Double vessel coronary artery disease,2535854015#,1,1,2,299783019#,Double coronary vessel disease,G3401,G340100,299783019,NA,32
+194843003#,Double vessel coronary artery disease,2535854015#,1,1,2,4776071000006117#,Two coronary vessel disease,^ESCTTW477607,NA,299784013,NA,32
+194843003#,Double vessel coronary artery disease,2535854015#,1,1,2,4776081000006119#,Double vessel coronary artery disease,^ESCTDO477608,NA,2535854015,NA,32
+67682002#,Coronary artery atheroma,112404017#,1,1,2,3600701000006114#,Coronary artery atheroma,^ESCTCO360070,NA,112404017,NA,31
+67682002#,Coronary artery atheroma (disorder),807433014#,1,1,2,3600701000006114#,Coronary artery atheroma,^ESCTCO360070,NA,112404017,NA,31
+194821006#,Coronary thrombosis not resulting in myocardial infarction,299742017#,1,1,2,4775931000006111#,Aborted myocardial infarction,^ESCTAB477593,NA,2619483012,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction,299742017#,1,1,2,2619484018#,MI - Myocardial infarction aborted,G3110-1,G311011,2619484018,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction,299742017#,1,1,2,299742017#,Coronary thrombosis not resulting in myocardial infarction,G312,G312.00,299742017,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction,299742017#,1,1,2,682481000006118#,Myocardial infarction aborted,G3110,G311000,2619484018,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction (disorder),578851011#,1,1,2,4775931000006111#,Aborted myocardial infarction,^ESCTAB477593,NA,2619483012,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction (disorder),578851011#,1,1,2,2619484018#,MI - Myocardial infarction aborted,G3110-1,G311011,2619484018,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction (disorder),578851011#,1,1,2,299742017#,Coronary thrombosis not resulting in myocardial infarction,G312,G312.00,299742017,NA,32
+194821006#,Coronary thrombosis not resulting in myocardial infarction (disorder),578851011#,1,1,2,682481000006118#,Myocardial infarction aborted,G3110,G311000,2619484018,NA,32
+194821006#,Aborted myocardial infarction,2619483012#,1,1,2,4775931000006111#,Aborted myocardial infarction,^ESCTAB477593,NA,2619483012,NA,32
+194821006#,Aborted myocardial infarction,2619483012#,1,1,2,2619484018#,MI - Myocardial infarction aborted,G3110-1,G311011,2619484018,NA,32
+194821006#,Aborted myocardial infarction,2619483012#,1,1,2,299742017#,Coronary thrombosis not resulting in myocardial infarction,G312,G312.00,299742017,NA,32
+194821006#,Aborted myocardial infarction,2619483012#,1,1,2,682481000006118#,Myocardial infarction aborted,G3110,G311000,2619484018,NA,32
+194821006#,MI - Myocardial infarction aborted,2619484018#,1,1,2,4775931000006111#,Aborted myocardial infarction,^ESCTAB477593,NA,2619483012,NA,32
+194821006#,MI - Myocardial infarction aborted,2619484018#,1,1,2,2619484018#,MI - Myocardial infarction aborted,G3110-1,G311011,2619484018,NA,32
+194821006#,MI - Myocardial infarction aborted,2619484018#,1,1,2,299742017#,Coronary thrombosis not resulting in myocardial infarction,G312,G312.00,299742017,NA,32
+194821006#,MI - Myocardial infarction aborted,2619484018#,1,1,2,682481000006118#,Myocardial infarction aborted,G3110,G311000,2619484018,NA,32
+414024009#,Disorder of coronary artery (disorder),2531156014#,0,1,1,6850801000006111#,Disorder of coronary artery,^ESCTDI685080,NA,2534646013,NA,32
+414024009#,Disorder of coronary artery,2534646013#,0,1,1,6850801000006111#,Disorder of coronary artery,^ESCTDI685080,NA,2534646013,NA,32
+810681000000101#,NA,"NA#",0,1,1,2115181000000110#,Coronary microvascular disease,G39,G39..00,211518e10,NA,32
+2610009#,"Ischaemic heart disease, NOS",5447011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+32598000#,Acute coronary insufficiency,54421013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,Coronary atherosclerosis,69567011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+84537008#,Chronic coronary insufficiency,140170017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+138788000#,H/O: Treatment for ischaemic heart disease,220182018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142021007#,ECG: myocardial ischaemia,224354014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142023005#,ECG:shows myocardial ischaemia,224358012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142024004#,ECG: myocardial ischaemia NOS,224359016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155303000#,Ischaemic heart disease,241787017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155304006#,Myocardial infarction (& [acute]) or coronary thrombosis,241788010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155304006#,Coronary thrombosis,241789019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155305007#,Acute/subacute ischaemic heart disease NOS,241796017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155315001#,Chronic ischaemic heart disease NOS,241812010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155316000#,Coronary atherosclerosis,241814011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155318004#,Chronic ischaemic heart disease NOS,241816013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155320001#,Transient myocardial ischaemia,241820012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155322009#,Ischaemic heart disease NOS,241822016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+161519003#,H/O: Treatment for ischaemic heart disease,251705018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+164864009#,ECG: myocardial ischaemia NOS,256451015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194795001#,IHD - Ischaemic heart disease,299693019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194795001#,Ischaemic heart disease,299694013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194795001#,Ischaemic heart disease (& [arteriosclerotic]),299695014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194796000#,Coronary thrombosis,299696010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194796000#,(Myocardial infarction (& [acute] or [silent] or [cardiac rupture following])) or (coronary thrombosis),299706013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194812005#,Other acute and subacute ischaemic heart disease,299723016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194815007#,Coronary thrombosis not leading to myocardial infarction,299736016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194822004#,Other acute and subacute ischaemic heart disease,299744016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194824003#,Microinfarction of heart,299746019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194825002#,Transient myocardial ischaemia,299747011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194826001#,Other acute and subacute ischaemic heart disease NOS,299750014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,0,1,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194840000#,Other chronic ischaemic heart disease,299776014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194841001#,Triple vessel disease of the heart,299779019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194841001#,Coronary atherosclerosis,299780016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194841001#,Coronary (atherosclerosis or artery disease) or triple vessel disease of the heart,299781017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194849004#,Generalised ischaemic myocardial dysfunction,299795019#,1,0,1,299796018#,Ischaemic cardiomyopathy,G343,G343.00,299796018,NA,32
+194849004#,Generalised ischaemic myocardial dysfunction,299795019#,1,0,1,4776131000006119#,Generalized ischemic myocardial dysfunction,^ESCTGE477613,NA,299793014,NA,32
+194849004#,Generalised ischaemic myocardial dysfunction,299795019#,1,0,1,4776121000006117#,Generalised ischaemic myocardial dysfunction,^ESCTGE477612,NA,299795019,NA,32
+194849004#,Generalised ischaemic myocardial dysfunction,299795019#,1,0,1,4776141000006112#,Ischemic cardiomyopathy,^ESCTIS477614,NA,299794015,NA,32
+194850004#,Silent myocardial ischaemia,299797010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194851000#,Other specified chronic ischaemic heart disease,299800012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194852007#,Chronic myocardial ischaemia,299801011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194853002#,Other specified chronic ischaemic heart disease NOS,299804015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194854008#,Other chronic ischaemic heart disease NOS,299805019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194855009#,Asymptomatic coronary heart disease,299807010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194877008#,Other specified ischaemic heart disease,299834013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194878003#,Ischaemic heart disease NOS,299835014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195540001#,Ischaemic heart disease,300873019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195543004#,[X]Other forms of acute ischaemic heart disease,300876010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195544005#,[X]Other forms of chronic ischaemic heart disease,300879015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+206599005#,Transient myocardial ischaemia of newborn,316852016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233822007#,Myocardial ischaemia,350351013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266231003#,Coronary atherosclerosis,395754014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266288001#,Coronary thrombosis,395859010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266288001#,Myocardial infarction (& [acute]) or coronary thrombosis,395864014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266289009#,Acute/subacute ischaemic heart disease NOS,395865010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266290000#,Chronic ischaemic heart disease NOS,395873018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266291001#,Chronic ischaemic heart disease NOS,395874012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+271430002#,Ischaemic heart disease,406213013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+308068007#,H/O: Treatment for ischaemic heart disease,451372015#,1,0,1,451372015#,H/O: Treatment for ischaemic heart disease,14AL,14AL.00,451372015,NA,32
+308068007#,H/O: Treatment for ischaemic heart disease,451372015#,1,0,1,5974541000006111#,H/O: Treatment for ischemic heart disease,^ESCTHO597454,NA,451373013,NA,32
+308068007#,H/O: Treatment for ischaemic heart disease,451372015#,1,0,1,5974551000006113#,History of treatment for ischemic heart disease,^ESCTHI597455,NA,2986368010,NA,32
+308068007#,H/O: Treatment for ischaemic heart disease,451372015#,1,0,1,5974561000006110#,History of treatment for ischaemic heart disease,^ESCTHI597456,NA,2986970011,NA,32
+2610009#,Ischaemic heart disease,483116018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+32598000#,Acute ischaemic heart disease,485265018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,Coronary heart disease,493066012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,CHD - Coronary heart disease,493068013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,Myocardial ischaemia,493072012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,Ischaemic heart disease,493073019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,IHD - Ischaemic heart disease,493075014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+66514008#,CT - Coronary thrombosis,500451014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+66514008#,Coronary thrombosis,500453012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+84537008#,Chronic ischaemic heart disease,506103018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+84537008#,Chronic myocardial ischaemia,506104012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+138788000#,H/O: Treatment for ischaemic heart disease,517287013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142021007#,ECG: myocardial ischaemia,520876010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142023005#,ECG:shows myocardial ischaemia,520878011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142024004#,ECG: myocardial ischaemia NOS,520879015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155303000#,Ischaemic heart disease,535618010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155304006#,Myocardial infarction (& [acute]) or coronary thrombosis,535619019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155305007#,Acute/subacute ischaemic heart disease NOS,535620013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155316000#,Coronary atherosclerosis,535632012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155318004#,Chronic ischaemic heart disease NOS,535635014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155320001#,Transient myocardial ischaemia,535637018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155322009#,Ischaemic heart disease NOS,535639015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+161519003#,H/O: Treatment for ischaemic heart disease,542556013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194795001#,Ischaemic heart disease (& [arteriosclerotic]),578820016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194796000#,(Myocardial infarction (& [acute] or [silent] or [cardiac rupture following])) or (coronary thrombosis),578821017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194822004#,Other acute and subacute ischaemic heart disease,578852016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194824003#,Microinfarction of heart (disorder),578854015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194825002#,Transient myocardial ischaemia,578855019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194841001#,Coronary (atherosclerosis or artery disease) or triple vessel disease of the heart,578873016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194850004#,Silent myocardial ischaemia,578883017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194852007#,Chronic myocardial ischaemia,578885012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194855009#,Asymptomatic coronary heart disease,578888014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195540001#,Ischaemic heart disease,579653018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233822007#,Myocardial ischaemia,622060010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266231003#,Coronary atherosclerosis,658699014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266288001#,Myocardial infarction (& [acute]) or coronary thrombosis,658764015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+271430002#,Ischaemic heart disease,663822011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+41702007#,Coronary atherosclerosis (disorder),778521014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,256451015#,ECG: myocardial ischaemia NOS,322Z,322Z.00,1205556017,NA,3
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,4585961000006114#,Electrocardiographic myocardial ischemia,^ESCTEL458596,NA,3300411010,NA,3
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,4585971000006119#,Electrocardiographic myocardial ischaemia,^ESCTEL458597,NA,3300412015,NA,3
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,4585951000006112#,EKG myocardial ischemia,^ESCTEK458595,NA,3300410011,NA,3
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,634751000006116#,ECG myocardial ischaemia,322,322..00,1205556017,NA,3
+164861001#,ECG myocardial ischaemia,1205556017#,1,0,1,635641000006111#,ECG:shows myocardial ischaemia,3222,3222,1205556017,NA,3
+164863003#,ECG shows myocardial ischaemia,1205558016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+371824008#,Myocardial ischaemia manifest on stress test status post myocardial infarction,1207334015#,1,0,1,6360611000006116#,Myocardial ischemia manifest on stress test status post myocardial infarction,^ESCTMY636061,NA,1208146013,NA,31
+371824008#,Myocardial ischaemia manifest on stress test status post myocardial infarction,1207334015#,1,0,1,6360601000006119#,Myocardial ischaemia manifest on stress test status post myocardial infarction,^ESCTMY636060,NA,1207334015,NA,31
+398274000#,CT - Coronary thrombosis,1786196012#,1,0,1,6601121000006118#,Coronary artery thrombosis,^ESCTCO660112,NA,1777817018,NA,32
+398274000#,CT - Coronary thrombosis,1786196012#,1,0,1,6601131000006115#,CT - Coronary thrombosis,^ESCTCT660113,NA,1786196012,NA,32
+398274000#,CT - Coronary thrombosis,1786196012#,1,0,1,1786197015#,Coronary thrombosis,G30-2,G30..12,1786197015,NA,32
+398274000#,CT - Coronary thrombosis,1786196012#,1,0,1,1786198013#,Thrombosis - coronary,G30-6,G30..16,1786198013,NA,32
+398274000#,Coronary thrombosis,1786197015#,1,0,1,6601121000006118#,Coronary artery thrombosis,^ESCTCO660112,NA,1777817018,NA,32
+398274000#,Coronary thrombosis,1786197015#,1,0,1,6601131000006115#,CT - Coronary thrombosis,^ESCTCT660113,NA,1786196012,NA,32
+398274000#,Coronary thrombosis,1786197015#,1,0,1,1786197015#,Coronary thrombosis,G30-2,G30..12,1786197015,NA,32
+398274000#,Coronary thrombosis,1786197015#,1,0,1,1786198013#,Thrombosis - coronary,G30-6,G30..16,1786198013,NA,32
+32598000#,Myocardial ischaemia,2161460016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+413439005#,Acute ischaemic heart disease,2534668015#,1,0,1,6841231000006113#,Acute ischaemic heart disease,^ESCTAC684123,NA,2534668015,NA,31
+413439005#,Acute ischaemic heart disease,2534668015#,1,0,1,6841241000006115#,Acute ischemic heart disease,^ESCTAC684124,NA,2534667013,NA,31
+413444003#,Acute myocardial ischaemia,2534670012#,1,0,1,6841391000006118#,Acute myocardial ischaemia,^ESCTAC684139,NA,2534670012,NA,31
+413444003#,Acute myocardial ischaemia,2534670012#,1,0,1,6841401000006116#,Acute myocardial ischemia,^ESCTAC684140,NA,2534669011,NA,31
+413444003#,Acute coronary insufficiency,2537482015#,1,0,1,6841391000006118#,Acute myocardial ischaemia,^ESCTAC684139,NA,2534670012,NA,31
+413444003#,Acute coronary insufficiency,2537482015#,1,0,1,6841401000006116#,Acute myocardial ischemia,^ESCTAC684140,NA,2534669011,NA,31
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,256451015#,ECG: myocardial ischaemia NOS,322Z,322Z.00,1205556017,NA,3
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,4585961000006114#,Electrocardiographic myocardial ischemia,^ESCTEL458596,NA,3300411010,NA,3
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,4585971000006119#,Electrocardiographic myocardial ischaemia,^ESCTEL458597,NA,3300412015,NA,3
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,4585951000006112#,EKG myocardial ischemia,^ESCTEK458595,NA,3300410011,NA,3
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,634751000006116#,ECG myocardial ischaemia,322,322..00,1205556017,NA,3
+164861001#,Electrocardiogram: myocardial ischaemia,2619207012#,1,0,1,635641000006111#,ECG:shows myocardial ischaemia,3222,3222,1205556017,NA,3
+164863003#,Electrocardiogram shows myocardial ischaemia,2619211018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+164864009#,Electrocardiogram: myocardial ischaemia NOS,2619212013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+429477006#,Increased myocardial ischaemia compared to prior study,2692972018#,1,0,1,7103901000006114#,Increased myocardial ischaemia compared to prior study,^ESCTIN710390,NA,2692972018,NA,31
+429477006#,Increased myocardial ischaemia compared to prior study,2692972018#,1,0,1,7103911000006112#,Increased myocardial ischemia compared to prior study,^ESCTIN710391,NA,2692973011,NA,31
+428824000#,Resolution of myocardial ischaemia,2694650019#,1,0,1,7094241000006114#,Resolution of myocardial ischemia,^ESCTRE709424,NA,2693429010,NA,31
+428824000#,Resolution of myocardial ischaemia,2694650019#,1,0,1,7094231000006116#,Resolution of myocardial ischaemia,^ESCTRE709423,NA,2694650019,NA,31
+428196007#,Mixed myocardial ischaemia and infarction,2694710011#,1,0,1,7084811000006110#,Mixed myocardial ischemia and infarction,^ESCTMI708481,NA,2695591016,NA,31
+428196007#,Mixed myocardial ischaemia and infarction,2694710011#,1,0,1,7084801000006112#,Mixed myocardial ischaemia and infarction,^ESCTMI708480,NA,2694710011,NA,31
+429232006#,Decreased myocardial ischaemia compared to prior study,2696000010#,1,0,1,7100211000006111#,Decreased myocardial ischemia compared to prior study,^ESCTDE710021,NA,2696001014,NA,31
+429232006#,Decreased myocardial ischaemia compared to prior study,2696000010#,1,0,1,7100201000006113#,Decreased myocardial ischaemia compared to prior study,^ESCTDE710020,NA,2696000010,NA,31
+428927006#,New myocardial ischaemia compared to prior study,2696073011#,1,0,1,7095701000006119#,New myocardial ischaemia compared to prior study,^ESCTNE709570,NA,2696073011,NA,31
+428927006#,New myocardial ischaemia compared to prior study,2696073011#,1,0,1,7095711000006116#,New myocardial ischemia compared to prior study,^ESCTNE709571,NA,2692771015,NA,31
+194796000#,(Myocardial infarction (& [acute] or [silent] or [cardiac rupture following])) or (coronary thrombosis) (disorder),2712106014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194795001#,Ischaemic heart disease (& [arteriosclerotic]) (disorder),2713357010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194841001#,Coronary (atherosclerosis or artery disease) or triple vessel disease of the heart (disorder),2713706014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155304006#,Myocardial infarction (& [acute]) or coronary thrombosis (disorder),2714714010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194822004#,Other acute and subacute ischaemic heart disease (disorder),2721158019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195540001#,Ischaemic heart disease (disorder),2721168012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155316000#,Coronary atherosclerosis (disorder),2721250016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194855009#,Asymptomatic coronary heart disease (disorder),2721536010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155303000#,Ischaemic heart disease (disorder),2722109015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155322009#,Ischaemic heart disease NOS (disorder),2724629019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233822007#,Myocardial ischaemia (disorder),2737495011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155320001#,Transient myocardial ischaemia (disorder),2739506011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142024004#,ECG: myocardial ischaemia NOS (finding),2739956010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155318004#,Chronic ischaemic heart disease NOS (disorder),2740995016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266231003#,Coronary atherosclerosis (disorder),2742840017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194825002#,Transient myocardial ischaemia (disorder),2748294012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155305007#,Acute/subacute ischaemic heart disease NOS (disorder),2753684015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194850004#,Silent myocardial ischaemia (disorder),2753688017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+271430002#,Ischaemic heart disease (disorder),2755521015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142021007#,ECG: myocardial ischaemia (finding),2758165016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266288001#,Myocardial infarction (& [acute]) or coronary thrombosis (disorder),2759895018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194852007#,Chronic myocardial ischaemia (disorder),2760515015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+142023005#,ECG:shows myocardial ischaemia (finding),2761020016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+275931000#,Aspirin prophylaxis for ischaemic heart disease,2770029010#,1,0,1,411904010#,Aspirin prophylaxis for ischaemic heart disease,8B63-1,8B63.11,2770029010,NA,32
+275931000#,Aspirin prophylaxis for ischaemic heart disease,2770029010#,1,0,1,12482781000006111#,Aspirin prophylaxis - IHD,^ESCT1248278,NA,411904010,NA,32
+275931000#,Aspirin prophylaxis for ischaemic heart disease,2770029010#,1,0,1,5578751000006118#,Aspirin prophylaxis for ischemic heart disease,^ESCTAS557875,NA,2770030017,NA,32
+275931000#,Aspirin prophylaxis for ischaemic heart disease,2770029010#,1,0,1,5578731000006113#,Aspirin prophylaxis for ischaemic heart disease,^ESCTAS557873,NA,557873e10,NA,32
+308068007#,History of - Treatment for ischaemic heart disease,2773720017#,1,0,1,451372015#,H/O: Treatment for ischaemic heart disease,14AL,14AL.00,451372015,NA,32
+308068007#,History of - Treatment for ischaemic heart disease,2773720017#,1,0,1,5974541000006111#,H/O: Treatment for ischemic heart disease,^ESCTHO597454,NA,451373013,NA,32
+308068007#,History of - Treatment for ischaemic heart disease,2773720017#,1,0,1,5974551000006113#,History of treatment for ischemic heart disease,^ESCTHI597455,NA,2986368010,NA,32
+308068007#,History of - Treatment for ischaemic heart disease,2773720017#,1,0,1,5974561000006110#,History of treatment for ischaemic heart disease,^ESCTHI597456,NA,2986970011,NA,32
+308068007#,History of treatment for ischaemic heart disease,2986970011#,1,0,1,451372015#,H/O: Treatment for ischaemic heart disease,14AL,14AL.00,451372015,NA,32
+308068007#,History of treatment for ischaemic heart disease,2986970011#,1,0,1,5974541000006111#,H/O: Treatment for ischemic heart disease,^ESCTHO597454,NA,451373013,NA,32
+308068007#,History of treatment for ischaemic heart disease,2986970011#,1,0,1,5974551000006113#,History of treatment for ischemic heart disease,^ESCTHI597455,NA,2986368010,NA,32
+308068007#,History of treatment for ischaemic heart disease,2986970011#,1,0,1,5974561000006110#,History of treatment for ischaemic heart disease,^ESCTHI597456,NA,2986970011,NA,32
+713405002#,Subacute ischaemic heart disease,3289285016#,1,0,1,7703511000006110#,Subacute ischaemic heart disease,^ESCTSU770351,NA,3289285016,NA,31
+713405002#,Subacute ischaemic heart disease,3289285016#,1,0,1,7703521000006119#,Subacute ischemic heart disease,^ESCTSU770352,NA,3289323011,NA,31
+712866001#,Resting ischaemia co-occurrent and due to ischaemic heart disease,3297314016#,1,0,1,7696531000006118#,Resting ischemia co-occurrent and due to ischemic heart disease,^ESCTRE769653,NA,3297326014,NA,31
+712866001#,Resting ischaemia co-occurrent and due to ischaemic heart disease,3297314016#,1,0,1,7696521000006116#,Resting ischaemia co-occurrent and due to ischaemic heart disease,^ESCTRE769652,NA,3297314016,NA,31
+712866001#,Resting ischaemia co-occurrent and due to ischaemic heart disease,3297314016#,1,0,1,7696501000006114#,Resting ischaemia,^ESCTRE769650,NA,3286157013,NA,31
+712866001#,Resting ischaemia co-occurrent and due to ischaemic heart disease,3297314016#,1,0,1,7696511000006112#,Resting ischemia,^ESCTRE769651,NA,3286162014,NA,31
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,256451015#,ECG: myocardial ischaemia NOS,322Z,322Z.00,1205556017,NA,3
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,4585961000006114#,Electrocardiographic myocardial ischemia,^ESCTEL458596,NA,3300411010,NA,3
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,4585971000006119#,Electrocardiographic myocardial ischaemia,^ESCTEL458597,NA,3300412015,NA,3
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,4585951000006112#,EKG myocardial ischemia,^ESCTEK458595,NA,3300410011,NA,3
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,634751000006116#,ECG myocardial ischaemia,322,322..00,1205556017,NA,3
+164861001#,Electrocardiographic myocardial ischaemia,3300412015#,1,0,1,635641000006111#,ECG:shows myocardial ischaemia,3222,3222,1205556017,NA,3
+719678003#,Non-obstructive coronary atherosclerosis,3317409010#,1,0,1,2609111000000119#,Non-obstructive coronary atherosclerosis,G704,NA,3317409010,NA,32
+719678003#,Non-obstructive coronary atherosclerosis,3317409010#,1,0,1,7789771000006114#,Non-obstructive atherosclerosis of coronary artery,^ESCTNO778977,NA,3317410017,NA,32
+233845001#,Coronary microvascular disease,3775837019#,1,0,1,350379019#,Cardiac syndrome X,G37,G37..00,350379019,NA,32
+233845001#,Coronary microvascular disease,3775837019#,1,0,1,5056491000006117#,Chest pain with normal coronary angiography,^ESCTCH505649,NA,350380016,NA,32

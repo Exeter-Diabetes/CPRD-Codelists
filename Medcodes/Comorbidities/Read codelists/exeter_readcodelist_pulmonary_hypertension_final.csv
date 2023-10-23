@@ -1,0 +1,26 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+X2033#,Pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2033#
+X2034#,Solitary pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2034#
+X2035#,Small vessel pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2035#
+G410.#,Primary pulmonary hypertension,43850011#,Pulmonary arterial hypertension,G410,G410.00,11399002,2968228010,NA,32,G410.00#
+X2036#,Sporadic primary pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2036#
+X2037#,Familial primary pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2037#
+X2038#,Drug-induced pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2038#
+X2039#,Large vessel pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X2039#
+X203A#,Thromboembolic pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X203A#
+X203B#,Post-arteritic pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X203B#
+X203C#,Pulmonary veno-occlusive disease,NA#,NA,NA,NA,NA,NA,NA,NA,X203C#
+X203D#,Pulmonary capillary haemangiomatosis,NA#,NA,NA,NA,NA,NA,NA,NA,X203D#
+X203F#,Pulmonary hypertension associated with chronic underventilation,NA#,NA,NA,NA,NA,NA,NA,NA,X203F#
+Xa0Cx#,Pulmonary hypertension with extreme obesity,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Cx#
+X203H#,Eisenmenger's syndrome,NA#,NA,NA,NA,NA,NA,NA,NA,X203H#
+Xa0Cz#,Facultative pulmonary hypertension with shunt at atrial level,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Cz#
+X203I#,Pulmonary hypertension secondary to left sided heart disease,NA#,NA,NA,NA,NA,NA,NA,NA,X203I#
+Xa0Cy#,Pulmonary hypertension with occult mitral stenosis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Cy#
+X203J#,High altitude pulmonary hypertension,NA#,NA,NA,NA,NA,NA,NA,NA,X203J#
+G41y0#,Secondary pulmonary hypertension,146259010#,Secondary pulmonary hypertension,G41y0,G41y000,88223008,146259010,NA,32,G41y000#
+X203G#,Pulmonary hypertension associated with septal defect / shunt,NA#,NA,NA,NA,NA,NA,NA,NA,X203G#
+G410.#,Primary pulmonary hypertension,43850011#,Pulmonary arterial hypertension,G410,G410.00,11399002,2968228010,NA,32,G410.00#
+G41y0#,Secondary pulmonary hypertension,146259010#,Secondary pulmonary hypertension,G41y0,G41y000,88223008,146259010,NA,32,G41y000#
+G41y1#,Thromboembolic pulmonary hypertension,350517010#,Thromboembolic pulmonary hypertension,G41y1,G41y100,233947005,350517010,NA,32,G41y100#
+P543.#,Eisenmenger's complex,137888010#,Eisenmenger's complex,P543,P543.00,204311009,313298019,NA,32,P543.00#

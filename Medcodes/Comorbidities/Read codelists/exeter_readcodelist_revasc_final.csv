@@ -1,0 +1,128 @@
+readcode,term_readcode,angina_subset,coronary_table,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+792..#,Coronary artery operations,1,1,2,348644016#,Coronary artery bypass graft operations,792-1,792..11,232717009,348644016,NA,32,792..11#
+792..#,Coronary artery operations,1,1,2,220231000000118#,Coronary artery operation,792,792..00,31413008,484868016,NA,32,792..00#
+792..#,Coronary artery operations,1,1,2,865171000006113#,Coronary artery operation NOS,792-99,792..99,31413008,865171000006113,NA,32,792..99#
+7920.#,Saphenous vein graft replacement of coronary artery,1,1,2,865181000006111#,Coronary artery venous graft,7920-99,7920.99,3546002,865181000006111,NA,32,7920.99#
+7920.#,Saphenous vein graft replacement of coronary artery,1,1,2,161451000006116#,Saphenous vein graft replacement of coronary artery,7920-1,7920.11,3546002,1228282017,NA,32,7920.11#
+7920.#,Saphenous vein graft replacement of coronary artery,1,1,2,1228282017#,Saphenous vein graft replacement of coronary artery,7920,7920.00,3546002,6979016,NA,32,7920.00#
+79200#,Saphenous vein graft replacement of one coronary artery,1,1,2,271073015#,Saphenous vein graft replacement of one coronary artery,79200,7920000,736967001,3525967012,NA,32,7920000#
+79201#,Saphenous vein graft replacement of two coronary arteries,1,1,2,271074014#,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft,79201,7920100,736969003,3525975018,NA,32,7920100#
+79202#,Saphenous vein graft replacement of three coronary arteries,1,1,2,271075010#,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft,79202,7920200,736968006,3525971010,NA,32,7920200#
+79203#,Saphenous vein graft replacement of four or more coronary arteries,1,1,2,161491000006110#,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft,79203,7920300,736966005,3525965016,NA,32,7920300#
+7920y#,Other specified saphenous vein graft replacement of coronary artery,1,1,2,161481000006112#,Aortocoronary artery bypass graft with saphenous vein graft,7920y,7920y00,3546002,6979016,NA,32,7920y00#
+7920z#,Saphenous vein graft replacement coronary artery NOS,1,1,2,271079016#,Saphenous vein graft replacement coronary artery NOS,7920z,7920z00,3546002,6979016,NA,32,7920z00#
+7921.#,Other autograft replacement of coronary artery,1,1,2,271080018#,Other autograft replacement of coronary artery,7921,7921.00,232717009,348640013,NA,32,7921.00#
+7921.#,Other autograft replacement of coronary artery,1,1,2,1221554018#,Other autograft bypass of coronary artery,7921-1,7921.11,232717009,348640013,NA,32,7921.11#
+79210#,Autograft replacement of one coronary artery NEC,1,1,2,271081019#,Autograft replacement of one coronary artery NEC,79210,7921000,232719007,348647011,NA,32,7921000#
+79211#,Autograft replacement of two coronary arteries NEC,1,1,2,271082014#,Autograft replacement of two coronary arteries NEC,79211,7921100,232720001,348649014,NA,32,7921100#
+79212#,Autograft replacement of three coronary arteries NEC,1,1,2,271083016#,Autograft replacement of three coronary arteries NEC,79212,7921200,232721002,348651013,NA,32,7921200#
+79213#,Autograft replacement of four of more coronary arteries NEC,1,1,2,271084010#,Autograft replacement of four of more coronary arteries NEC,79213,7921300,232722009,348654017,NA,32,7921300#
+7921y#,Other specified other autograft replacement of coronary artery,1,1,2,36861000006113#,Other autograft replacement of coronary artery OS,7921y,7921y00,232717009,348640013,NA,32,7921y00#
+7921z#,Other autograft replacement of coronary artery NOS,1,1,2,271086012#,Other autograft replacement of coronary artery NOS,7921z,7921z00,232717009,348640013,NA,32,7921z00#
+7922.#,Allograft replacement of coronary artery,1,1,2,271088013#,Allograft replacement of coronary artery,7922,7922.00,175021005,271087015,NA,32,7922.00#
+7922.#,Allograft replacement of coronary artery,1,1,2,271087015#,Allograft bypass of coronary artery,7922-1,7922.11,175021005,271087015,NA,32,7922.11#
+79220#,Allograft replacement of one coronary artery,1,1,2,271089017#,Allograft replacement of one coronary artery,79220,7922000,736971003,3525979012,NA,32,7922000#
+79221#,Allograft replacement of two coronary arteries,1,1,2,271092018#,Allograft replacement of two coronary arteries,79221,7922100,736973000,3525983012,NA,32,7922100#
+79222#,Allograft replacement of three coronary arteries,1,1,2,271093011#,Allograft replacement of three coronary arteries,79222,7922200,736972005,3525981014,NA,32,7922200#
+79223#,Allograft replacement of four or more coronary arteries,1,1,2,271094017#,Allograft replacement of four or more coronary arteries,79223,7922300,736970002,3525977014,NA,32,7922300#
+7922y#,Other specified allograft replacement of coronary artery,1,1,2,271095016#,Other specified allograft replacement of coronary artery,7922y,7922y00,175021005,271087015,NA,32,7922y00#
+7922z#,Allograft replacement of coronary artery NOS,1,1,2,271096015#,Allograft replacement of coronary artery NOS,7922z,7922z00,175021005,271087015,NA,32,7922z00#
+7923.#,Prosthetic replacement of coronary artery,1,1,2,271098019#,Prosthetic replacement of coronary artery,7923,7923.00,175029007,271097012,NA,32,7923.00#
+7923.#,Prosthetic replacement of coronary artery,1,1,2,271097012#,Prosthetic bypass of coronary artery,7923-1,7923.11,175029007,271097012,NA,32,7923.11#
+7923.#,Prosthetic replacement of coronary artery,1,1,2,865191000006114#,Insertn coronary artery stent,7923-99,7923.99,175029007,865191000006114,NA,32,7923.99#
+79230#,Prosthetic replacement of one coronary artery,1,1,2,271099010#,Prosthetic replacement of one coronary artery,79230,7923000,736963002,3525947015,NA,32,7923000#
+79231#,Prosthetic replacement of two coronary arteries,1,1,2,271100019#,Prosthetic replacement of two coronary arteries,79231,7923100,736965009,3525955010,NA,32,7923100#
+79232#,Prosthetic replacement of three coronary arteries,1,1,2,271101015#,Prosthetic replacement of three coronary arteries,79232,7923200,736964008,3525952013,NA,32,7923200#
+79233#,Prosthetic replacement of four or more coronary arteries,1,1,2,271102010#,Prosthetic replacement of four or more coronary arteries,79233,7923300,736962007,3525944010,NA,32,7923300#
+7923z#,Prosthetic replacement of coronary artery NOS,1,1,2,271104011#,Prosthetic replacement of coronary artery NOS,7923z,7923z00,175029007,271097012,NA,32,7923z00#
+7925.#,Connection of mammary artery to coronary artery,1,1,2,987711000006115#,Int.mammary coronary A by-pass,7925-98,7925.98,175045009,987711000006115,NA,32,7925.98#
+7925.#,Connection of mammary artery to coronary artery,1,1,2,865211000006110#,Heart: int. mammary A implant,7925-99,7925.99,175045009,865211000006110,NA,32,7925.99#
+7925.#,Connection of mammary artery to coronary artery,1,1,2,271114019#,Connection of mammary artery to coronary artery,7925,7925.00,175045009,271114019,NA,32,7925.00#
+7925.#,Connection of mammary artery to coronary artery,1,1,2,271115018#,Creation of bypass from mammary artery to coronary artery,7925-1,7925.11,175045009,271115018,NA,32,7925.11#
+79250#,Double anastomosis of mammary arteries to coronary arteries,1,1,2,411213017#,RIMA sequential anastomosis,79250-2,7925012,275253006,411213017,NA,32,7925012#
+79250#,Double anastomosis of mammary arteries to coronary arteries,1,1,2,394286010#,Double anastomosis of mammary arteries to coronary arteries,79250,7925000,265481001,394286010,NA,32,7925000#
+79250#,Double anastomosis of mammary arteries to coronary arteries,1,1,2,411212010#,LIMA sequential anastomosis,79250-1,7925011,275252001,411212010,NA,32,7925011#
+79251#,Double implantation of mammary arteries into coronary arteries,1,1,2,628021000006118#,Double implantation of mammary arteries into coronary arteries,79251,7925100,175047001,271120018,NA,32,7925100#
+79253#,Single anastomosis of mammary artery to coronary artery NEC,1,1,2,411160017#,RIMA single anastomosis,79253-2,7925312,275216000,411160017,NA,32,7925312#
+79253#,Single anastomosis of mammary artery to coronary artery NEC,1,1,2,405092018#,Single anastomosis of mammary artery to coronary artery NEC,79253,7925300,232719007,348647011,NA,32,7925300#
+79253#,Single anastomosis of mammary artery to coronary artery NEC,1,1,2,411159010#,LIMA single anastomosis,79253-1,7925311,275215001,411159010,NA,32,7925311#
+79254#,Single implantation of mammary artery into coronary artery,1,1,2,271126012#,Single implantation of mammary artery into coronary artery,79254,7925400,175050003,271126012,NA,32,7925400#
+7925y#,Other specified connection of mammary artery to coronary artery,1,1,2,589721000006114#,Connection of mammary artery to coronary artery OS,7925y,7925y00,175045009,271114019,NA,32,7925y00#
+7925z#,Connection of mammary artery to coronary artery NOS,1,1,2,865221000006119#,Int.mammary coronary A by-pass,7925z-99,7925z99,588811000000108,865221000006119,NA,32,7925z99#
+7925z#,Connection of mammary artery to coronary artery NOS,1,1,2,271128013#,Connection of mammary artery to coronary artery NOS,7925z,7925z00,175045009,271114019,NA,32,7925z00#
+7926.#,Connection of other thoracic artery to coronary artery,1,1,2,865231000006116#,Heart: arterial implant,7926-99,7926.99,581151000000108,865231000006116,NA,32,7926.99#
+7926.#,Connection of other thoracic artery to coronary artery,1,1,2,271129017#,Connection of other thoracic artery to coronary artery,7926,7926.00,232717009,348640013,NA,32,7926.00#
+79260#,Double anastomosis of thoracic arteries to coronary arteries NEC,1,1,2,627951000006112#,Double anastom thoracic arteries to coronary arteries NEC,79260,7926000,232720001,348649014,NA,32,7926000#
+79262#,Single anastomosis of thoracic artery to coronary artery NEC,1,1,2,271132019#,Single anastomosis of thoracic artery to coronary artery NEC,79262,7926200,232719007,348647011,NA,32,7926200#
+79263#,Single implantation of thoracic artery into coronary artery NEC,1,1,2,142431000006114#,Single implantation thoracic artery into coronary artery NEC,79263,7926300,232719007,348647011,NA,32,7926300#
+7926z#,Connection of other thoracic artery to coronary artery NOS,1,1,2,865251000006111#,Heart: arterial implant NOS,7926z-99,7926z99,596331000000108,865251000006111,NA,32,7926z99#
+7926z#,Connection of other thoracic artery to coronary artery NOS,1,1,2,271135017#,Connection of other thoracic artery to coronary artery NOS,7926z,7926z00,232717009,348640013,NA,32,7926z00#
+79275#,Open angioplasty of coronary artery,1,1,2,1221061012#,Open angioplasty of coronary artery,79275,7927500,14201006,1221061012,NA,32,7927500#
+79275#,Open angioplasty of coronary artery,1,1,2,865281000006115#,Angioplasty of coronary artery,79275-99,7927599,14201006,865281000006115,NA,32,7927599#
+7928.#,Transluminal balloon angioplasty of coronary artery,1,1,2,238821000006111#,Percutaneous balloon coronary angioplasty,7928-1,7928.11,11101003,19234014,NA,32,7928.11#
+7928.#,Transluminal balloon angioplasty of coronary artery,1,1,2,89711000006118#,Percutaneous transluminal coronary angioplasty,7928,7928.00,11101003,19234014,NA,32,7928.00#
+7928.#,Transluminal balloon angioplasty of coronary artery,1,1,2,865291000006117#,Coronary Angioplasty,7928-99,7928.99,11101003,865291000006117,NA,32,7928.99#
+79280#,Percutaneous transluminal balloon angioplasty of one coronary artery,1,1,2,238641000006117#,Percutaneous transluminal balloon angioplasty of one coronary artery,79280,7928000,68466008,1233048011,NA,32,7928000#
+79280#,Percutaneous transluminal balloon angioplasty of one coronary artery,1,1,2,865301000006116#,Percut angiopl coronary artery,79280-99,7928099,68466008,865301000006116,NA,32,7928099#
+79281#,Percutaneous transluminal balloon angioplasty of multiple coronary arteries,1,1,2,238571000006114#,Percutaneous transluminal balloon angioplasty of multiple coronary arteries,79281,7928100,85053006,506356013,NA,32,7928100#
+79282#,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery,1,1,2,238561000006119#,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery,79282,7928200,175066001,271142017,NA,32,7928200#
+79283#,Percutaneous transluminal cutting balloon angioplasty of coronary artery,1,1,2,1547311000006116#,Percutaneous transluminal cutting balloon angioplasty of coronary artery,79283,7928300,707828002,3032475016,NA,32,7928300#
+7928y#,Other specified transluminal balloon angioplasty of coronary artery,1,1,2,89731000006112#,Transluminal balloon angioplasty of coronary artery OS,7928y,7928y00,11101003,19234014,NA,32,7928y00#
+7928z#,Transluminal balloon angioplasty of coronary artery NOS,1,1,2,271148018#,Transluminal balloon angioplasty of coronary artery NOS,7928z,7928z00,11101003,19234014,NA,32,7928z00#
+79290#,Percutaneous transluminal laser coronary angioplasty,1,1,2,484402013#,Percutaneous transluminal laser coronary angioplasty,79290,7929000,29843007,484402013,NA,32,7929000#
+79293#,Rotary blade coronary angioplasty,1,1,2,1785743019#,Rotary blade coronary angioplasty,79293,7929300,397193006,1785743019,NA,32,7929300#
+79294#,Insertion of coronary artery stent,1,1,2,2536354015#,Insertion of coronary artery stent,79294,7929400,36969009,2536354015,NA,32,7929400#
+79295#,Insertion of drug-eluting coronary artery stent,1,1,2,311461000000116#,Insertion of drug-eluting coronary artery stent,79295,7929500,203741000000101,311461000000116,NA,32,7929500#
+79296#,Percutaneous transluminal atherectomy of coronary artery,1,1,2,354901000000117#,Percutaneous transluminal atherectomy of coronary artery,79296,7929600,232726007,354901000000117,NA,32,7929600#
+792B0#,Endarterectomy of coronary artery NEC,1,1,2,865311000006118#,Coronary endarterectomy,792B0-99,792B099,538891000000107,865311000006118,NA,32,792B099#
+792B0#,Endarterectomy of coronary artery NEC,1,1,2,271162013#,Endarterectomy of coronary artery,792B0,792B000,20738002,34888017,NA,32,792B000#
+792C.#,Other replacement of coronary artery,1,1,2,271165010#,Other replacement of coronary artery,792C,792C.00,232717009,348640013,NA,32,792C.00#
+792C0#,Replacement of coronary arteries using multiple methods,1,1,2,271166011#,Replacement of coronary arteries using multiple methods,792C0,792C000,175085003,271166011,NA,32,792C000#
+792Cy#,Other specified replacement of coronary artery,1,1,2,271167019#,Other specified replacement of coronary artery,792Cy,792Cy00,232717009,348640013,NA,32,792Cy00#
+792Cz#,Replacement of coronary artery NOS,1,1,2,271168012#,Replacement of coronary artery NOS,792Cz,792Cz00,232717009,348640013,NA,32,792Cz00#
+792D.#,Other bypass of coronary artery,1,1,2,987721000006111#,Aorto-coronary by-pass anastam,792D-99,792D.99,537001000000108,987721000006111,NA,32,792D.99#
+792D.#,Other bypass of coronary artery,1,1,2,987731000006114#,Coronary A by-pass anastam NOS,792D-98,792D.98,537001000000108,987731000006114,NA,32,792D.98#
+792D.#,Other bypass of coronary artery,1,1,2,271169016#,Coronary artery bypass graft,792D,792D.00,232717009,348640013,NA,32,792D.00#
+792Dy#,Other specified other bypass of coronary artery,1,1,2,271170015#,Other specified other bypass of coronary artery,792Dy,792Dy00,232717009,348640013,NA,32,792Dy00#
+792Dz#,Other bypass of coronary artery NOS,1,1,2,865321000006114#,Aorto-coronary by-pass anastam,792Dz-99,792Dz99,582901000000101,865321000006114,NA,32,792Dz99#
+792Dz#,Other bypass of coronary artery NOS,1,1,2,271171016#,Other bypass of coronary artery NOS,792Dz,792Dz00,232717009,348640013,NA,32,792Dz00#
+7923y#,Other specified prosthetic replacement of coronary artery,0,1,1,271103017#,Other specified prosthetic replacement of coronary artery,7923y,7923y00,175029007,271097012,NA,32,7923y00#
+7924.#,Revision of bypass for coronary artery,0,1,1,271105012#,Revision of bypass for coronary artery,7924,7924.00,175036008,271105012,NA,32,7924.00#
+7924.#,Revision of bypass for coronary artery,0,1,1,865201000006112#,Coronary A revasc. by-pass,7924-99,7924.99,175036008,865201000006112,NA,32,7924.99#
+79240#,Revision of bypass for one coronary artery,0,1,1,271106013#,Revision of bypass for one coronary artery,79240,7924000,175037004,271106013,NA,32,7924000#
+79241#,Revision of bypass for two coronary arteries,0,1,1,271107016#,Revision of bypass for two coronary arteries,79241,7924100,175038009,271107016,NA,32,7924100#
+79242#,Revision of bypass for three coronary arteries,0,1,1,271108014#,Revision of bypass for three coronary arteries,79242,7924200,175039001,271108014,NA,32,7924200#
+79243#,Revision of bypass for four or more coronary arteries,0,1,1,271109018#,Revision of bypass for four or more coronary arteries,79243,7924300,175040004,271109018,NA,32,7924300#
+79244#,Revision of connection of thoracic artery to coronary artery,0,1,1,271110011#,Revision of connection of thoracic artery to coronary artery,79244,7924400,175041000,271110011,NA,32,7924400#
+79245#,Revision of implantation of thoracic artery into heart,0,1,1,271111010#,Revision of implantation of thoracic artery into heart,79245,7924500,175042007,271111010,NA,32,7924500#
+7924y#,Other specified revision of bypass for coronary artery,0,1,1,271112015#,Other specified revision of bypass for coronary artery,7924y,7924y00,175036008,271105012,NA,32,7924y00#
+7924z#,Revision of bypass for coronary artery NOS,0,1,1,271113013#,Revision of bypass for coronary artery NOS,7924z,7924z00,175036008,271105012,NA,32,7924z00#
+79252#,Single anastomosis of mammary artery to left anterior descending coronary artery,0,1,1,142361000006111#,Single anastomosis of mammary artery to left anterior descending coronary artery,79252,7925200,175048006,271121019,NA,32,7925200#
+79261#,Double implantation of thoracic arteries into coronary arteries NEC,0,1,1,628031000006115#,Double implant thoracic arteries into coronary arteries NEC,79261,7926100,232720001,348649014,NA,32,7926100#
+7926y#,Other specified connection of other thoracic artery to coronary artery,0,1,1,865241000006114#,Heart: aortic branch implant,7926y-99,7926y99,591181000000101,865241000006114,NA,32,7926y99#
+7926y#,Other specified connection of other thoracic artery to coronary artery,0,1,1,589781000006113#,Connection of other thoracic artery to coronary artery OS,7926y,7926y00,232717009,348640013,NA,32,7926y00#
+7929.#,Other therapeutic transluminal operations on coronary artery,0,1,1,271149014#,Other therapeutic transluminal operations on coronary artery,7929,7929.00,31413008,52509013,NA,32,7929.00#
+7929y#,Other specified other therapeutic transluminal operation on coronary artery,0,1,1,250941000006110#,Other therapeutic transluminal op on coronary artery OS,7929y,7929y00,31413008,52509013,NA,32,7929y00#
+7929z#,Other therapeutic transluminal operation on coronary artery NOS,0,1,1,250931000006117#,Other therapeutic transluminal op on coronary artery NOS,7929z,7929z00,31413008,52509013,NA,32,7929z00#
+792A0#,Percutaneous transluminal angioscopy,0,1,1,1226090019#,Percutaneous transluminal angioscopy,792A0,792A000,28903008,1226090019,NA,32,792A000#
+792E.#,Percutaneous coronary intervention,0,1,1,2535176014#,Percutaneous coronary intervention,792E,792E.00,415070008,2535176014,NA,32,792E.00#
+792..#,Emergency percutaneous coronary intervention,0,1,1,348644016#,Coronary artery bypass graft operations,792-1,792..11,232717009,348644016,NA,32,792..11#
+792..#,Emergency percutaneous coronary intervention,0,1,1,220231000000118#,Coronary artery operation,792,792..00,31413008,484868016,NA,32,792..00#
+792..#,Emergency percutaneous coronary intervention,0,1,1,865171000006113#,Coronary artery operation NOS,792-99,792..99,31413008,865171000006113,NA,32,792..99#
+792y.#,Other specified operations on coronary artery,0,1,1,933021000006113#,Angioplasty of coronary artery,792y-99,792y.99,582911000000104,933021000006113,NA,32,792y.99#
+793G.#,Perc translumin balloon angioplasty stenting coronary artery,1,0,1,1547631000006117#,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery,793G,793G.00,429639007,2694928017,NA,32,793G.00#
+793G0#,Perc translum ball angio insert 1-2 drug elut stents cor art,1,0,1,1547641000006110#,Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery,793G0,793G000,936451000000108,2398371000000113,NA,32,793G000#
+793G1#,Perc tran ball angio ins 3 or more drug elut stents cor art,1,0,1,1547651000006112#,Perc tran ball angio ins 3 or more drug elut stents cor art,793G1,793G100,936451000000108,2398371000000113,NA,32,793G100#
+793G2#,Perc translum balloon angioplasty insert 1-2 stents cor art,1,0,1,1547661000006114#,Perc translum balloon angioplasty insert 1-2 stents cor art,793G2,793G200,429639007,2694928017,NA,32,793G200#
+793G3#,Percutaneous cor balloon angiop 3 more stents cor art NEC,1,0,1,1547671000006119#,Percutaneous cor balloon angiop 3 more stents cor art NEC,793G3,793G300,429639007,2694928017,NA,32,793G300#
+793Gy#,OS perc translumina balloon angioplast stenting coronary art,1,0,1,1547681000006116#,OS perc translumina balloon angioplast stenting coronary art,793Gy,793Gy00,429639007,2694928017,NA,32,793Gy00#
+793Gz#,Perc translum balloon angioplasty stenting coronary art NOS,1,0,1,1547691000006118#,Perc translum balloon angioplasty stenting coronary art NOS,793Gz,793Gz00,429639007,2694928017,NA,32,793Gz00#
+7A540#,Percutaneous transluminal angioplasty of artery NEC,1,0,1,272107018#,Percutaneous balloon angioplasty of artery,7A540,7A54000,276861004,413186016,NA,32,7A54000#
+7A545#,Rotary blade angioplasty,1,0,1,272117011#,Rotary blade angioplasty,7A545,7A54500,175764006,272117011,NA,32,7A54500#
+7A548#,Percutaneous transluminal atherectomy,1,0,1,1548361000006119#,Percutaneous endarterectomy,7A548,7A54800,415071007,2533528016,NA,32,7A54800#
+7A564#,Percutaneous transluminal balloon angioplasty of artery,1,0,1,2675882017#,Percutaneous transluminal balloon angioplasty of artery,7A564,7A56400,426674009,2675882017,NA,32,7A56400#
+7A6G1#,Peroperative angioplasty,1,0,1,272295013#,Peroperative angioplasty,7A6G1,7A6G100,175882004,272295013,NA,32,7A6G100#
+7A6H3#,Prosthetic graft patch angioplasty,1,0,1,456362017#,Prosthetic graft patch angioplasty,7A6H3,7A6H300,312610006,456362017,NA,32,7A6H300#
+7A6H4#,Percutaneous transluminal angioplasty of vascular graft,1,0,1,456363010#,Percutaneous transluminal angioplasty of vascular graft,7A6H4,7A6H400,312611005,456363010,NA,32,7A6H400#
+SP003#,Mechanical complication of coronary bypass,NA,NA,NA,900001000006119#,Bypass graft mech. complic.,SP003-99,SP00399,213037002,900001000000000,NA,32,SP00399#
+SP003#,Mechanical complication of coronary bypass,NA,NA,NA,324808010#,Mechanical complication of coronary bypass,SP003,SP00300,213037002,324808010,NA,32,SP00300#

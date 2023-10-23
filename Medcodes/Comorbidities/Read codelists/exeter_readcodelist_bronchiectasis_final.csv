@@ -1,0 +1,17 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+A115.#,Tuberculous bronchiectasis,1,1,2,38677017#,Tuberculous bronchiectasis,A115,A115.00,23022004,38677017,NA,32,A115.00#
+H34..#,Bronchiectasis,1,1,2,21163015#,Bronchiectasis,H34,H34..00,12295008,21163015,NA,32,H34..00#
+H340.#,Recurrent bronchiectasis,1,1,2,301524014#,Recurrent bronchiectasis,H340,H340.00,195984007,301524014,NA,32,H340.00#
+H341.#,Post-infective bronchiectasis,1,1,2,301525010#,Post-infective bronchiectasis,H341,H341.00,195985008,301525010,NA,32,H341.00#
+H34z.#,Bronchiectasis NOS,1,1,2,301526011#,Bronchiectasis NOS,H34z,H34z.00,12295008,21163015,NA,32,H34z.00#
+P861.#,Congenital bronchiectasis,1,1,2,128792019#,Congenital bronchiectasis,P861,P861.00,77593006,128792019,NA,32,P861.00#
+X100l#,Congenital cystic bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100l#
+X100m#,Acquired bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100m#
+X100n#,Idiopathic bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100n#
+X100o#,Obstructive bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100o#
+X100p#,Toxin-induced bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100p#
+X100q#,Bronchiectasis due to toxic aspiration,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100q#
+X100r#,Bronchiectasis due to toxic inhalation,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100r#
+X100t#,Post-lung transplantation bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X100t#
+XE1NO#,(Congenital resp anomalies NOS) or (bronchiectasis - congen),0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE1NO#
+Xabud#,H/O: bronchiectasis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xabud#

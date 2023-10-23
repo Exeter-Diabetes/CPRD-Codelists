@@ -1,0 +1,93 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+H3100#,Chronic catarrhal bronchitis,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,89549007,508562012,NA,32,H310000#
+H310.#,Simple chronic bronchitis,1,1,2,508561017#,Simple chronic bronchitis,H310,H310.00,61937009,102938011,NA,32,H310.00#
+H310z#,Simple chronic bronchitis NOS,1,1,2,301444018#,Simple chronic bronchitis NOS,H310z,H310z00,61937009,102938011,NA,32,H310z00#
+H3110#,Purulent chronic bronchitis,1,1,2,506053014#,Purulent chronic bronchitis,H3110,H311000,84409004,506053014,NA,32,H311000#
+H311.#,Mucopurulent chronic bronchitis,1,1,2,123588010#,Mucopurulent chronic bronchitis,H311,H311.00,74417001,123588010,NA,32,H311.00#
+H311.#,Mucopurulent chronic bronchitis,1,1,2,885281000006118#,Mucopurulent chr. bronchitis,H311-99,H311.99,74417001,885281000006118,NA,32,H311.99#
+H311z#,Mucopurulent chronic bronchitis NOS,1,1,2,301448015#,Mucopurulent chronic bronchitis NOS,H311z,H311z00,74417001,123588010,NA,32,H311z00#
+H3121#,Emphysematous bronchitis,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,185086009,285100019,NA,32,H312100#
+H3122#,Acute exacerbation of chronic obstructive airways disease,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,195951007,301453013,NA,32,H312200#
+H312z#,Obstructive chronic bronchitis NOS,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,185086009,285100019,NA,32,H312z00#
+H313.#,Mixed simple and mucopurulent chronic bronchitis,1,1,2,301456017#,Mixed simple and mucopurulent chronic bronchitis,H313,H313.00,195953005,301456017,NA,32,H313.00#
+H31..#,Chronic bronchitis,1,1,2,105519017#,Chronic bronchitis,H31,H31..00,63480004,105519017,NA,32,H31..00#
+H31y.#,Other chronic bronchitis,1,1,2,301457014#,Other chronic bronchitis,H31y,H31y.00,63480004,105519017,NA,32,H31y.00#
+H31yz#,Other chronic bronchitis NOS,1,1,2,301458016#,Other chronic bronchitis NOS,H31yz,H31yz00,63480004,105519017,NA,32,H31yz00#
+H31z.#,Chronic bronchitis NOS,1,1,2,301459012#,Chronic bronchitis NOS,H31z,H31z.00,63480004,105519017,NA,32,H31z.00#
+H3200#,Segmental bullous emphysema,1,1,2,301463017#,Segmental bullous emphysema,H3200,H320000,195958001,301463017,NA,32,H320000#
+H3201#,Zonal bullous emphysema,1,1,2,301464011#,Zonal bullous emphysema,H3201,H320100,195959009,301464011,NA,32,H320100#
+H3202#,Giant bullous emphysema,1,1,2,27096010#,Giant bullous emphysema,H3202,H320200,16003001,27096010,NA,32,H320200#
+H3203#,Bullous emphysema with collapse,1,1,2,109301000006114#,Tension pneumatocoele,H3203-1,H320311,275503004,411494013,NA,32,H320311#
+H3203#,Bullous emphysema with collapse,1,1,2,396108018#,Bullous emphysema with collapse,H3203,H320300,266355005,396108018,NA,32,H320300#
+H320.#,Chronic bullous emphysema,1,1,2,301460019#,Chronic bullous emphysema,H320,H320.00,195957006,301460019,NA,32,H320.00#
+H320z#,Chronic bullous emphysema NOS,1,1,2,301468014#,Chronic bullous emphysema NOS,H320z,H320z00,195957006,301460019,NA,32,H320z00#
+H321.#,Panlobular emphysema,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,4981000,9337016,NA,32,H321.00#
+H322.#,Centrilobular emphysema,1,1,2,113497011#,Centrilobular emphysema,H322,H322.00,68328006,113497011,NA,32,H322.00#
+H32..#,Emphysema,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,87433001,144964015,NA,32,H32..00#
+H32y0#,Acute vesicular emphysema,1,1,2,301470017#,Acute vesicular emphysema,H32y0,H32y000,195963002,301470017,NA,32,H32y000#
+H32y1#,Atrophic (senile) emphysema,1,1,2,396109014#,Atrophic (senile) emphysema,H32y1,H32y100,266356006,396109014,NA,32,H32y100#
+H32y1#,Atrophic (senile) emphysema,1,1,2,457581000006111#,Acute interstitial emphysema,H32y1-1,H32y111,77690003,503646013,NA,32,H32y111#
+H32y.#,Other emphysema,1,1,2,301469018#,Other emphysema,H32y,H32y.00,87433001,144964015,NA,32,H32y.00#
+H32z.#,Emphysema NOS,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,87433001,144964015,NA,32,H32z.00#
+H3...#,Chronic obstructive pulmonary disease,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,13645005,475431013,NA,32,H3...00#
+H3...#,Chronic obstructive pulmonary disease,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,13645005,990651000006112,NA,32,H3...98#
+H3...#,Chronic obstructive pulmonary disease,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,13645005,475423015,NA,32,H3...11#
+H3...#,Chronic obstructive pulmonary disease,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,13645005,990641000006110,NA,32,H3...99#
+H3y0.#,Chronic obstruct pulmonary dis with acute lower resp infectn,1,1,2,555461000006119#,Chronic obstructive pulmonary disease with acute lower respiratory infection,H3y0,H3y0.00,196001008,301542016,NA,32,H3y0.00#
+H3y1.#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,195951007,301453013,NA,32,H3y1.00#
+H3y..#,Other specified chronic obstructive airways disease,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,13645005,475431013,NA,32,H3y..11#
+H3y..#,Other specified chronic obstructive airways disease,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,13645005,475428012,NA,32,H3y..00#
+H3z..#,Chronic obstructive airways disease NOS,1,1,2,885311000006116#,Chronic obst. pulm. dis. NOS,H3z-99,H3z..99,611541000000106,885311000006116,NA,32,H3z..99#
+H3z..#,Chronic obstructive airways disease NOS,1,1,2,885301000006119#,Chr. airway obstruction NOS,H3z-98,H3z..98,611541000000106,885301000006119,NA,32,H3z..98#
+H3z..#,Chronic obstructive airways disease NOS,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,13645005,475431013,NA,32,H3z..11#
+H3z..#,Chronic obstructive airways disease NOS,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,13645005,475428012,NA,32,H3z..00#
+H4640#,Chronic emphysema due to chemical fumes,1,1,2,301572010#,Chronic emphysema due to chemical fumes,H4640,H464000,196026004,301572010,NA,32,H464000#
+Hyu30#,[X]Other emphysema,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,87433001,144964015,NA,32,Hyu3000#
+Hyu31#,[X]Other specified chronic obstructive pulmonary disease,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,13645005,475431013,NA,32,Hyu3100#
+14B3.#,History of chronic obstructive pulmonary disease,1,0,1,411520013#,H/O: bronchitis,14B3-1,14B3.11,275528007,411520013,NA,32,14B3.11#
+14B3.#,History of chronic obstructive pulmonary disease,1,0,1,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,270473001,1765681000000110,NA,32,14B3.00#
+14B3.#,History of chronic obstructive pulmonary disease,1,0,1,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,270473001,1765681000000110,NA,32,14B3.12#
+H3111#,Fetid chronic bronchitis,1,0,1,139979010#,Fetid chronic bronchitis,H3111,H311100,84409004,506053014,NA,32,H311100#
+H3120#,Chronic asthmatic bronchitis,1,0,1,301450011#,Chronic asthmatic bronchitis,H3120,H312000,195949008,301450011,NA,32,H312000#
+H3120#,Chronic asthmatic bronchitis,1,0,1,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,195949008,301451010,NA,32,H312011#
+H3123#,Bronchiolitis obliterans,1,0,1,492443010#,Bronchiolitis obliterans,H3123,H312300,40100001,492443010,NA,32,H312300#
+H312.#,Obstructive chronic bronchitis,1,0,1,285104011#,Obstructive chronic bronchitis,H312,H312.00,185086009,285100019,NA,32,H312.00#
+H31y1#,Chronic tracheobronchitis,1,0,1,87480013#,Chronic tracheobronchitis,H31y1,H31y100,52571006,87480013,NA,32,H31y100#
+H32y2#,MacLeod's unilateral emphysema,1,0,1,1230190015#,MacLeod's unilateral emphysema,H32y2,H32y200,45145000,1230190015,NA,32,H32y200#
+H32yz#,Other emphysema NOS,1,0,1,396110016#,Other emphysema NOS,H32yz,H32yz00,87433001,144964015,NA,32,H32yz00#
+H32yz#,Other emphysema NOS,1,0,1,161781000006116#,Sawyer - Jones syndrome,H32yz-1,H32yz11,45145000,75284014,NA,32,H32yz11#
+H36..#,Mild chronic obstructive pulmonary disease,1,0,1,457168017#,Mild chronic obstructive pulmonary disease,H36,H36..00,313296004,457168017,NA,32,H36..00#
+H37..#,Moderate chronic obstructive pulmonary disease,1,0,1,457169013#,Moderate chronic obstructive pulmonary disease,H37,H37..00,313297008,457169013,NA,32,H37..00#
+H38..#,Severe chronic obstructive pulmonary disease,1,0,1,457171013#,Severe chronic obstructive pulmonary disease,H38,H38..00,313299006,457171013,NA,32,H38..00#
+H39..#,Very severe chronic obstructive pulmonary disease,1,0,1,516801000000112#,Very severe chronic obstructive pulmonary disease,H39,H39..00,293991000000106,516801000000112,NA,32,H39..00#
+H3A..#,End stage chronic obstructive airways disease,1,0,1,216596014#,End stage chronic obstructive airways disease,H3A,H3A..00,135836000,216596014,NA,32,H3A..00#
+H4641#,Obliterative bronchiolitis due to chemical fumes,1,0,1,269761000006112#,Obliterative bronchiolitis due to chemical fumes,H4641,H464100,196027008,301573017,NA,32,H464100#
+H5832#,Eosinophilic bronchitis,1,0,1,2240631000000119#,Eosinophilic bronchitis,H5832,H583200,866901000000103,2240631000000119,NA,32,H583200#
+X101i#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101i#
+X101j#,Occupational chronic bronchitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101j#
+X101n#,Pulmonary emphysema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101n#
+X101o#,Pulmonary emphysema in alpha-1 PI deficiency,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101o#
+X101p#,Toxic emphysema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101p#
+X101r#,Scar emphysema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101r#
+XE0YP#,Other emphysema NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YP#
+XaEIV#,Mild chronic obstructive pulmonary disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEIV#
+XaEIW#,Moderate chronic obstructive pulmonary disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEIW#
+XaEIY#,Severe chronic obstructive pulmonary disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEIY#
+XaIND#,End stage chronic obstructive airways disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIND#
+XaIQg#,Interstitial pulmonary emphysema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIQg#
+XaJFu#,Admit COPD emergency,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJFu#
+XaK8Q#,Chronic obstructive pulmonary disease finding,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaK8Q#
+XaK8S#,Emergency COPD admission since last appointment,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaK8S#
+XaK8U#,Number of COPD exacerbations in past year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaK8U#
+XaKv8#,Chronic obstructive pulmonary disease disturbs sleep,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKv8#
+XaKv9#,Chronic obstructive pulmonary disease does not disturb sleep,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKv9#
+XaKzy#,Multiple COPD emergency hospital admissions,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKzy#
+XaN4a#,Very severe chronic obstructive pulmonary disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaN4a#
+XaPzu#,At risk of chronic obstructive pulmonary diseas exacerbation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPzu#
+XaZd1#,Acute non-infective exacerbation of COPD,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZd1#
+Xac33#,Asthma-chronic obstructive pulmonary disease overlap syndrom,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xac33#
+H582.#,Compensatory emphysema,0,1,1,55602016#,Compensatory emphysema,H582,H582.00,33325001,55602016,NA,32,H582.00#
+XE0YM#,Purulent chronic bronchitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YM#
+XE0ZN#,Chronic: [bronchitis NOS] or [tracheobronchitis],0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ZN#
+Xa35l#,Acute infective exacerbation chronic obstruct airway disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa35l#
+XE0YN#,Bullous emphysema with collapse,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YN#

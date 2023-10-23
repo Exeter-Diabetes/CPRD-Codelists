@@ -1,0 +1,160 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14B4.#,H/O: asthma,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,161527007,251716013,NA,32,14B4.00#
+173A.#,Exercise induced asthma,1,1,2,655601000006113#,Exercise-induced asthma,173A,173A.00,31387002,52467014,NA,32,173A.00#
+H3120#,Chronic asthmatic bronchitis,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,195949008,301450011,NA,32,H312000#
+H3120#,Chronic asthmatic bronchitis,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,195949008,301451010,NA,32,H312011#
+H3300#,Extrinsic asthma without status asthmaticus,1,1,2,104872017#,Extrinsic asthma without status asthmaticus,H3300,H330000,63088003,104872017,NA,32,H330000#
+H3300#,Extrinsic asthma without status asthmaticus,1,1,2,350153016#,Hay fever with asthma,H3300-1,H330011,233683003,350153016,NA,32,H330011#
+H3301#,Extrinsic asthma with status asthmaticus,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,708093000,3083642013,NA,32,H330111#
+H3301#,Extrinsic asthma with status asthmaticus,1,1,2,151338014#,Life threatening acute exacerbation of allergic asthma,H3301,H330100,1086701000000102,2722231000000112,NA,32,H330100#
+H330.#,Extrinsic (atopic) asthma,1,1,2,885291000006115#,Extrinsic asthma - atopy,H330-99,H330.99,389145006,885291000006115,NA,32,H330.99#
+H330.#,Extrinsic (atopic) asthma,1,1,2,350147016#,Childhood asthma,H330-2,H330.12,233678006,350147016,NA,32,H330.12#
+H330.#,Extrinsic (atopic) asthma,1,1,2,817361000006114#,Hay fever with asthma,H330-3,H330.13,233683003,350153016,NA,32,H330.13#
+H330.#,Extrinsic (atopic) asthma,1,1,2,1483199016#,Allergic asthma,H330-1,H330.11,389145006,1483199016,NA,32,H330.11#
+H330.#,Extrinsic (atopic) asthma,1,1,2,350154010#,Pollen asthma,H330-4,H330.14,233683003,350154010,NA,32,H330.14#
+H330.#,Extrinsic (atopic) asthma,1,1,2,660351000006118#,Allergic atopic asthma,H330,H330.00,389145006,1493645010,NA,32,H330.00#
+H330z#,Extrinsic asthma NOS,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,424643009,2648327010,NA,32,H330z00#
+H3310#,Intrinsic asthma without status asthmaticus,1,1,2,21390015#,Intrinsic asthma without status asthmaticus,H3310,H331000,12428000,21390015,NA,32,H331000#
+H3311#,Intrinsic asthma with status asthmaticus,1,1,2,98546013#,Life threatening acute exacerbation of intrinsic asthma,H3311,H331100,1086711000000100,2722261000000119,NA,32,H331100#
+H3311#,Intrinsic asthma with status asthmaticus,1,1,2,350156012#,Acute exacerbation of intrinsic asthma,H3311-1,H331111,708094006,3032866010,NA,32,H331111#
+H331.#,Intrinsic asthma,1,1,2,350148014#,Late onset asthma,H331-1,H331.11,233679003,350148014,NA,32,H331.11#
+H331.#,Intrinsic asthma,1,1,2,396114013#,Intrinsic asthma,H331,H331.00,266361008,396114013,NA,32,H331.00#
+H331z#,Intrinsic asthma NOS,1,1,2,301508013#,Intrinsic asthma NOS,H331z,H331z00,266361008,396114013,NA,32,H331z00#
+H332.#,Mixed asthma,1,1,2,301509017#,Mixed asthma,H332,H332.00,195977004,301509017,NA,32,H332.00#
+H33..#,Asthma,1,1,2,301485011#,Asthma,H33,H33..00,195967001,301485011,NA,32,H33..00#
+H33..#,Asthma,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,195967001,301480018,NA,32,H33..11#
+H33z0#,Status asthmaticus NOS,1,1,2,145961000006117#,Acute severe exacerbation of asthma,H33z0-1,H33z011,708090002,3033029011,NA,32,H33z011#
+H33z0#,Status asthmaticus NOS,1,1,2,396118011#,Life threatening acute exacerbation of asthma,H33z0,H33z000,734904007,3511368015,NA,32,H33z000#
+H33z1#,Asthma attack,1,1,2,409865018#,Asthma attack NOS,H33z1-1,H33z111,708038006,3032734012,NA,32,H33z111#
+H33z1#,Asthma attack,1,1,2,396119015#,Asthma attack,H33z1,H33z100,708038006,3032734012,NA,32,H33z100#
+H33z2#,Late-onset asthma,1,1,2,350149018#,Late-onset asthma,H33z2,H33z200,233679003,350148014,NA,32,H33z200#
+H33z.#,Asthma unspecified,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,195967001,301485011,NA,32,H33z.00#
+H33z.#,Asthma unspecified,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,195967001,2475605013,NA,32,H33z.11#
+H33zz#,Asthma NOS,1,1,2,477291000006114#,Allergic bronchitis NEC,H33zz-3,H33zz13,405720007,2157501011,NA,32,H33zz13#
+H33zz#,Asthma NOS,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,195967001,301485011,NA,32,H33zz00#
+H33zz#,Asthma NOS,1,1,2,655611000006111#,Exercise induced asthma,H33zz-1,H33zz11,31387002,52467014,NA,32,H33zz11#
+H33zz#,Asthma NOS,1,1,2,350152014#,Allergic asthma NEC,H33zz-2,H33zz12,389145006,1483199016,NA,32,H33zz12#
+173c.#,Occupational asthma,1,0,1,95786019#,Occupational asthma,173c,173c.00,57607007,95786019,NA,27,173c.00#
+173d.#,Work aggravated asthma,1,0,1,983771000006118#,Work aggravated asthma,173d,173d.00,57607007,95786019,NA,27,173d.00#
+1780.#,Aspirin induced asthma,1,0,1,929091000006111#,Aspirin-induced asthma,1780,1780.00,407674008,2159273015,NA,5,1780.00#
+1O2..#,Asthma confirmed,1,0,1,1780388018#,Asthma confirmed,1O2,1O2..00,401193004,1780388018,NA,27,1O2..00#
+21262#,Asthma resolved,1,0,1,496491000006117#,Asthma resolved,21262,2126200,162660004,253533013,NA,27,2126200#
+212G.#,Asthma resolved,1,0,1,253533013#,Asthma resolved,212G,212G.00,162660004,253533013,NA,27,212G.00#
+H333.#,Acute exacerbation of asthma,1,0,1,419211018#,Acute exacerbation of asthma,H333,H333.00,708038006,3032747019,NA,32,H333.00#
+H334.#,Brittle asthma,1,0,1,338238011#,Brittle asthma,H334,H334.00,225057002,338238011,NA,32,H334.00#
+H335.#,Chronic asthma with fixed airflow obstruction,1,0,1,2240591000000119#,Chronic asthma with fixed airflow obstruction,H335,H335.00,866881000000101,2240591000000119,NA,32,H335.00#
+663N.#,Asthma disturbing sleep,0,1,1,264540018#,Asthma disturbing sleep,663N,663N.00,170631002,264540018,NA,1,663N.00#
+663N0#,Asthma causing night waking,0,1,1,264541019#,Asthma causing night waking,663N0,663N000,170632009,264541019,NA,1,663N000#
+663N1#,Asthma disturbs sleep weekly,0,1,1,264542014#,Asthma disturbs sleep weekly,663N1,663N100,170633004,264542014,NA,1,663N100#
+663N2#,Asthma disturbs sleep frequently,0,1,1,264543016#,Asthma disturbs sleep frequently,663N2,663N200,170634005,264543016,NA,1,663N200#
+663O.#,Asthma not disturbing sleep,0,1,1,264544010#,Asthma not disturbing sleep,663O,663O.00,170635006,264544010,NA,1,663O.00#
+663O0#,Asthma never disturbs sleep,0,1,1,264545011#,Asthma never disturbs sleep,663O0,663O000,170636007,264545011,NA,1,663O000#
+663P.#,Asthma limiting activities,0,1,1,264546012#,Asthma limiting activities,663P,663P.00,170637003,264546012,NA,1,663P.00#
+663Q.#,Asthma not limiting activities,0,1,1,264547015#,Asthma not limiting activities,663Q,663Q.00,170638008,264547015,NA,1,663Q.00#
+663U.#,Asthma management plan given,0,1,1,264550017#,Asthma management,663U,663U.00,406162001,2157868010,NA,1,663U.00#
+663V.#,Asthma severity,0,1,1,264551018#,Asthma severity,663V,663V.00,170642006,264551018,NA,1,663V.00#
+663V0#,Occasional asthma,0,1,1,1208971012#,Occasional asthma,663V0,663V000,370220003,1208971012,NA,1,663V000#
+663V1#,Mild asthma,0,1,1,1208969012#,Mild asthma,663V1,663V100,370218001,1208969012,NA,1,663V100#
+663V2#,Moderate asthma,0,1,1,1208970013#,Moderate asthma,663V2,663V200,370219009,1208970013,NA,1,663V200#
+663V3#,Severe asthma,0,1,1,1208972017#,Severe asthma,663V3,663V300,370221004,1208972017,NA,1,663V300#
+663W.#,Asthma prophylactic medication used,0,1,1,264556011#,Asthma prophylactic medication used,663W,663W.00,170647000,264556011,NA,1,663W.00#
+663d.#,Emergency asthma admission since last appointment,0,1,1,264565016#,Emergency asthma admission since last encounter,663d,663d.00,708358003,3033971010,NA,1,663d.00#
+663e.#,Asthma restricts exercise,0,1,1,264566015#,Asthma restricts exercise,663e,663e.00,170655007,264566015,NA,1,663e.00#
+663e0#,Asthma sometimes restricts exercise,0,1,1,264567012#,Asthma sometimes restricts exercise,663e0,663e000,170656008,264567012,NA,1,663e000#
+663e1#,Asthma severely restricts exercise,0,1,1,264568019#,Asthma severely restricts exercise,663e1,663e100,170657004,264568019,NA,1,663e100#
+663f.#,Asthma never restricts exercise,0,1,1,264569010#,Asthma never restricts exercise,663f,663f.00,170658009,264569010,NA,1,663f.00#
+8H2P.#,"Emergency admission, asthma",0,1,1,283550015#,Emergency hospital admission for asthma,8H2P,8H2P.00,183478001,3082895019,NA,40,8H2P.00#
+H47y0#,Detergent asthma,0,1,1,69311016#,Detergent asthma,H47y0,H47y000,41553006,69311016,NA,32,H47y000#
+Ua1AX#,Brittle asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1AX#
+X101t#,Childhood asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101t#
+X101u#,Late onset asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101u#
+X101x#,Allergic asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101x#
+X101y#,Extrinsic asthma with asthma attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101y#
+X101z#,Allergic asthma NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X101z#
+X1020#,Hay fever with asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1020#
+X1021#,Allergic non-atopic asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1021#
+X1022#,Intrinsic asthma with asthma attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1022#
+X1023#,Drug-induced asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1023#
+X1024#,Aspirin-sensitive asthma with nasal polyps,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1024#
+X1025#,Occupational asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1025#
+X1026#,Baker's asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1026#
+X1027#,Colophony asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1027#
+X1028#,Grain worker's asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1028#
+X1029#,Sulphite-induced asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X1029#
+X102D#,Status asthmaticus,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X102D#
+X102G#,Asthmatic pulmonary eosinophilia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X102G#
+XE0YQ#,Allergic atopic asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YQ#
+XE0YR#,Extrinsic asthma without status asthmaticus,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YR#
+XE0YS#,Extrinsic asthma with status asthmaticus,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YS#
+XE0YT#,Non-allergic asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YT#
+XE0YU#,Intrinsic asthma with status asthmaticus,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YU#
+XE0YV#,Status asthmaticus NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YV#
+XE0YW#,Asthma attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YW#
+XE0YX#,Asthma NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0YX#
+XE0ZP#,Extrinsic asthma - atopy (& pollen),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ZP#
+XE0ZR#,Asthma: [intrinsic] or [late onset],0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ZR#
+XE0ZT#,Asthma: [NOS] or [attack],0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ZT#
+XE2Nb#,Asthma monitoring check done,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2Nb#
+XM0s2#,Asthma attack NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM0s2#
+Xa0lZ#,Asthmatic bronchitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0lZ#
+Xa1hD#,Exacerbation of asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1hD#
+Xa8Hn#,Asthma control steps,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa8Hn#
+Xa9zf#,Acute asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9zf#
+XaIIZ#,Asthma daytime symptoms,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIIZ#
+XaINZ#,Asthma causes night symptoms 1 to 2 times per month,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINZ#
+XaINa#,Asthma never causes daytime symptoms,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINa#
+XaINb#,Asthma causes daytime symptoms 1 to 2 times per month,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINb#
+XaINc#,Asthma causes daytime symptoms 1 to 2 times per week,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINc#
+XaINd#,Asthma causes daytime symptoms most days,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINd#
+XaINf#,Asthma limits walking up hills or stairs,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINf#
+XaINg#,Asthma limits walking on the flat,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINg#
+XaINh#,Number of asthma exacerbations in past year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaINh#
+XaIOV#,Asthma finding,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIOV#
+XaIR3#,Absent from work or school due to asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIR3#
+XaIoE#,Asthma night-time symptoms,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIoE#
+XaIuG#,Asthma confirmed,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIuG#
+XaIww#,Asthma trigger,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIww#
+XaJFG#,Aspirin-induced asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJFG#
+XaKdk#,Work aggravated asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKdk#
+XaLIm#,Asthma trigger - respiratory infection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLIm#
+XaLIn#,Asthma trigger - seasonal,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLIn#
+XaLIr#,Asthma trigger - animals,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLIr#
+XaLJS#,Asthma trigger - cold air,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLJS#
+XaLJT#,Asthma trigger - damp,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLJT#
+XaLJU#,Asthma trigger - emotion,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLJU#
+XaLPE#,Nocturnal asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLPE#
+XaObi#,Asthma trigger - airborne dust,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaObi#
+XaObj#,Asthma trigger - exercise,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaObj#
+XaObk#,Asthma trigger - pollen,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaObk#
+XaObl#,Asthma trigger - tobacco smoke,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaObl#
+XaObm#,Asthma trigger - warm air,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaObm#
+XaXZm#,Asthma causes night time symptoms 1 to 2 times per week,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXZm#
+XaXZp#,Asthma causes symptoms most nights,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXZp#
+XaXZs#,Asthma limits activities 1 to 2 times per month,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXZs#
+XaXZu#,Asthma limits activities 1 to 2 times per week,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXZu#
+XaXZx#,Asthma limits activities most days,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXZx#
+XaY2V#,Asthma never causes night symptoms,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaY2V#
+XaYZh#,Number days absent from school due to asthma in past 6 month,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYZh#
+XaYja#,Asthma trigger - wind,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYja#
+XaYpF#,Asthma trigger - perfume,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYpF#
+Xaa7B#,Chronic asthma with fixed airflow obstruction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7B#
+Xaa7Q#,No asthma trigger identified by subject,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7Q#
+Xac33#,Asthma-chronic obstructive pulmonary disease overlap syndrom,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xac33#
+XacXj#,At risk of severe asthma exacerbation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XacXj#
+Xafdj#,Acute severe exacerbation of asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xafdj#
+Xafdy#,Moderate acute exacerbation of asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xafdy#
+Xafdz#,Life threatening acute exacerbation of asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xafdz#
+Y0017#,Nocturnal Asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y0017#
+Y137f#,Indicators - worsening asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y137f#
+Y138a#,Indicators - asthma attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y138a#
+Y139c#,Indicators - worsening asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y139c#
+Y139d#,Indicators - asthma attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y139d#
+Y13a1#,Worsening asthma - preventer inhaler increased dose,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a1#
+Y13a2#,Worsening asthma - reliever inhaler increased dose 4 hourly,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a2#
+Y13a3#,Worsening asthma - steroid Rescue dose prednisolone,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a3#
+Y13a4#,Worsening asthma - steroid Rescue dose prednisolone no. 5mg tabs,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a4#
+Y13a5#,Worsening asthma - steroid Rescue dose prednisolone no. days treatment,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a5#
+Y13a7#,Peak flow - worsening asthma - less than,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a7#
+Y13a8#,Asthma attack - reliever use more frequent than every,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a8#
+Y13a9#,Asthma attack - peak flow less than,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y13a9#
+Y1b24#,Acute severe exacerbation of allergic asthma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y1b24#

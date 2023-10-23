@@ -1,0 +1,14 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+1A1..#,Micturition frequency,217701000000114#,Urinary frequency,1A1-3,1A1..13,162116003,252775019,NA,27,1A1..13#
+1A1..#,Micturition frequency,794711000006117#,Frequency of micturition,1A1-1,1A1..11,300471006,1490597011,NA,27,1A1..11#
+1A1..#,Micturition frequency,217691000000114#,Observation of frequency of urination,1A1,1A1..00,300471006,1226833018,NA,27,1A1..00#
+1A1..#,Micturition frequency,215531000006114#,Polyuria,1A1-2,1A1..12,28442001,47612016,NA,27,1A1..12#
+1A12.#,Frequency of micturition,1490597011#,Frequency of micturition,1A12,1A12.00,300471006,1490597011,NA,27,1A12.00#
+1A13.#,Nocturia,11625011#,Nocturia,1A13,1A13.00,139394000,221079019,NA,27,1A13.00#
+1A1Z.#,Micturition frequency NOS,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,300471006,1490597011,NA,27,1A1Z.00#
+1AC2.#,Polyuria,47612016#,Polyuria,1AC2,1AC2.00,28442001,47612016,NA,27,1AC2.00#
+R084.#,[D]Micturition frequency and polyuria,317528013#,Micturition frequency and polyuria,R084,R084.00,274734008,410581018,NA,32,R084.00#
+R0840#,"[D]Frequency of micturition, unspecified",317529017#,Increased frequency of urination,R0840,R084000,162116003,252775019,NA,27,R084000#
+R0841#,[D]Polyuria,317532019#,[D]Polyuria,R0841,R084100,28442001,47612016,NA,27,R084100#
+R0842#,[D]Nocturia,317533012#,[D]Nocturia,R0842,R084200,139394000,221079019,NA,27,R084200#
+R084z#,[D]Frequency of micturition or polyuria NOS,317534018#,[D]Frequency of micturition or polyuria NOS,R084z,R084z00,274734008,410581018,NA,32,R084z00#

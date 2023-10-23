@@ -1,0 +1,130 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14A3.#,H/O: myocardial infarct <60,1,1,2,810811000006116#,H/O: myocardial infarct at less than 60,14A3,14A3.00,161502000,251675010,NA,32,14A3.00#
+14A4.#,H/O: myocardial infarct >60,1,1,2,810821000006112#,H/O: myocardial infarct at greater than 60,14A4,14A4.00,161503005,251678012,NA,32,14A4.00#
+G310.#,Postmyocardial infarction syndrome,1,1,2,109915012#,Post-myocardial infarction syndrome,G310,G310.00,66189004,500341014,NA,32,G310.00#
+G310.#,Postmyocardial infarction syndrome,1,1,2,109916013#,Dressler's syndrome,G310-1,G310.11,66189004,109916013,NA,32,G310.11#
+G32..#,Old myocardial infarction,1,1,2,4031011#,Old myocardial infarction,G32,G32..00,1755008,4031011,NA,32,G32..00#
+G32..#,Old myocardial infarction,1,1,2,230021000006115#,Personal history of myocardial infarction,G32-2,G32..12,399211009,2986492018,NA,32,G32..12#
+G32..#,Old myocardial infarction,1,1,2,4032016#,Healed myocardial infarction,G32-1,G32..11,1755008,4032016,NA,32,G32..11#
+323..#,ECG: myocardial infarction,1,1,2,256452010#,ECG: myocardial infarction,323,323..00,164865005,256452010,NA,3,323..00#
+323Z.#,ECG: myocardial infarct NOS,1,1,2,256460011#,ECG: myocardial infarct NOS,323Z,323Z.00,164865005,256452010,NA,3,323Z.00#
+G300.#,Acute anterolateral infarction,1,1,2,455641000006112#,Acute anterolateral myocardial infarction,G300,G300.00,70211005,1233238016,NA,32,G300.00#
+G301.#,Other specified anterior myocardial infarction,1,1,2,299707016#,Acute anterior myocardial infarction,G301,G301.00,54329005,1231324017,NA,32,G301.00#
+G3010#,Acute anteroapical infarction,1,1,2,299708014#,Acute anteroapical infarction,G3010,G301000,52035003,3038718019,NA,32,G301000#
+G3011#,Acute anteroseptal infarction,1,1,2,455651000006114#,Acute anteroseptal myocardial infarction,G3011,G301100,62695002,104192010,NA,32,G301100#
+G301z#,Anterior myocardial infarction NOS,1,1,2,299709018#,Anterior myocardial infarction NOS,G301z,G301z00,54329005,1231324017,NA,32,G301z00#
+G302.#,Acute inferolateral infarction,1,1,2,457531000006110#,Acute inferolateral myocardial infarction,G302,G302.00,65547006,1232697013,NA,32,G302.00#
+G303.#,Acute inferoposterior infarction,1,1,2,1234005010#,Acute inferoposterior infarction,G303,G303.00,76593002,1234005010,NA,32,G303.00#
+G304.#,Posterior myocardial infarction NOS,1,1,2,299710011#,Acute posterior myocardial infarction,G304,G304.00,233838001,350371016,NA,32,G304.00#
+G305.#,Lateral myocardial infarction NOS,1,1,2,299711010#,Acute lateral myocardial infarction,G305,G305.00,58612006,1231860015,NA,32,G305.00#
+G306.#,True posterior myocardial infarction,1,1,2,299712015#,True posterior myocardial infarction,G306,G306.00,194802003,299712015,NA,32,G306.00#
+G307.#,Acute subendocardial infarction,1,1,2,116992017#,Acute subendocardial infarction,G307,G307.00,70422006,116992017,NA,32,G307.00#
+G308.#,Inferior myocardial infarction NOS,1,1,2,299714019#,Acute myocardial infarction of inferior wall,G308,G308.00,73795002,122557015,NA,32,G308.00#
+G30y.#,Other acute myocardial infarction,1,1,2,299718016#,Other acute myocardial infarction,G30y,G30y.00,57054005,94884017,NA,32,G30y.00#
+G30y0#,Acute atrial infarction,1,1,2,299719012#,Acute atrial infarction,G30y0,G30y000,194809007,299719012,NA,32,G30y000#
+G30y2#,Acute septal infarction,1,1,2,1234306015#,Acute septal infarction,G30y2,G30y200,79009004,1234306015,NA,32,G30y200#
+G30yz#,Other acute myocardial infarction NOS,1,1,2,299720018#,Other acute myocardial infarction NOS,G30yz,G30yz00,57054005,94884017,NA,32,G30yz00#
+G30z.#,Acute myocardial infarction NOS,1,1,2,299721019#,Acute myocardial infarction NOS,G30z,G30z.00,57054005,94884017,NA,32,G30z.00#
+Gyu34#,[X]Acute transmural myocardial infarction of unspecif site,1,1,2,362461000006119#,[X]Acute transmural myocardial infarction of unspecif site,Gyu34,Gyu3400,57054005,94884017,NA,32,Gyu3400#
+G35..#,Subsequent myocardial infarction,1,1,2,299808017#,Subsequent myocardial infarction,G35,G35..00,194856005,299808017,NA,32,G35..00#
+G350.#,Subsequent myocardial infarction of anterior wall,1,1,2,299811016#,Subsequent myocardial infarction of anterior wall,G350,G350.00,194857001,299811016,NA,32,G350.00#
+G351.#,Subsequent myocardial infarction of inferior wall,1,1,2,299812011#,Subsequent myocardial infarction of inferior wall,G351,G351.00,194858006,299812011,NA,32,G351.00#
+G353.#,Subsequent myocardial infarction of other sites,1,1,2,299813018#,Subsequent myocardial infarction of other sites,G353,G353.00,194856005,299808017,NA,32,G353.00#
+G36..#,Certain current complication follow acute myocardial infarct,1,1,2,543291000006110#,Myocardial infarction with complication,G36,G36..00,371068009,1209776017,NA,32,G36..00#
+G360.#,Haemopericardium/current comp folow acut myocard infarct,1,1,2,813961000006116#,Haemopericardium as current complication following acute myocardial infarction,G360,G360.00,194862000,299816014,NA,32,G360.00#
+G361.#,Atrial septal defect/curr comp folow acut myocardal infarct,1,1,2,498031000006112#,Atrial septal defect as current complication following acute myocardial infarction,G361,G361.00,194863005,299818010,NA,32,G361.00#
+G363.#,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,1,1,2,158601000006116#,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,G363,G363.00,194865003,299821012,NA,32,G363.00#
+G364.#,Ruptur chordae tendinae/curr comp fol acute myocard infarct,1,1,2,158611000006118#,Rupture of chordae tendinae as current complication following acute myocardial infarction,G364,G364.00,194866002,299822017,NA,32,G364.00#
+G365.#,Rupture papillary muscle/curr comp fol acute myocard infarct,1,1,2,159001000006119#,Rupture of papillary muscle as current complication following acute myocardial infarction,G365,G365.00,194867006,299823010,NA,32,G365.00#
+G366.#,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",1,1,2,100681000006116#,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",G366,G366.00,194868001,299824016,NA,32,G366.00#
+14AH.#,H/O: Myocardial infarction in last year,1,0,1,451369010#,H/O: Myocardial infarction in last year,14AH,14AH.00,308065005,451369010,NA,32,14AH.00#
+G33z5#,Post infarct angina,1,0,1,458410010#,Post infarct angina,G33z5,G33z500,314116003,458410010,NA,32,G33z500#
+G30X0#,Acute ST segment elevation myocardial infarction,1,0,1,1780491019#,Acute ST segment elevation myocardial infarction,G30X0,G30X000,401303003,1780491019,NA,32,G30X000#
+G3071#,Acute non-ST segment elevation myocardial infarction,1,0,1,1780501013#,Acute non-ST segment elevation myocardial infarction,G3071,G307100,401314000,1780501013,NA,32,G307100#
+3233.#,ECG: antero-septal infarct.,1,0,1,256455012#,ECG: antero-septal infarct.,3233,3233.00,164868007,256455012,NA,3,3233.00#
+3234.#,ECG:posterior/inferior infarct,1,0,1,256457016#,ECG:posterior/inferior infarct,3234,3234.00,164869004,256457016,NA,3,3234.00#
+3235.#,ECG: subendocardial infarct,1,0,1,256458014#,ECG: subendocardial infarct,3235,3235.00,164870003,256458014,NA,3,3235.00#
+3236.#,ECG: lateral infarction,1,0,1,256459018#,ECG: lateral infarction,3236,3236.00,164871004,256459018,NA,3,3236.00#
+889A.#,Diab mellit insulin-glucose infus acute myocardial infarct,1,0,1,616081000006113#,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction,889A,889A.00,315287002,459791015,NA,32,889A.00#
+G3070#,Acute non-Q wave infarction,1,0,1,450322013#,Acute non-Q wave infarction,G3070,G307000,307140009,450322013,NA,32,G307000#
+G309.#,Acute Q-wave infarct,1,0,1,447324018#,Acute Q-wave infarct,G309,G309.00,304914007,447324018,NA,32,G309.00#
+G30B.#,Acute posterolateral myocardial infarction,1,0,1,967931000006114#,Acute myocardial infarction of posterolateral wall,G30B,G30B.00,15990001,27071012,NA,32,G30B.00#
+G30X.#,Acute transmural myocardial infarction of unspecif site,1,0,1,460681000006116#,Acute transmural myocardial infarction of unspecif site,G30X,G30X.00,57054005,94884017,NA,32,G30X.00#
+G38..#,Postoperative myocardial infarction,1,0,1,208365015#,Postoperative myocardial infarction,G38,G38..00,129574000,208365015,NA,32,G38..00#
+G380.#,Postoperative transmural myocardial infarction anterior wall,1,0,1,212061000006119#,Postoperative transmural myocardial infarction of anterior wall,G380,G380.00,311792005,455418016,NA,32,G380.00#
+G381.#,Postoperative transmural myocardial infarction inferior wall,1,0,1,212071000006114#,Postoperative transmural myocardial infarction of inferior wall,G381,G381.00,311793000,455419012,NA,32,G381.00#
+G384.#,Postoperative subendocardial myocardial infarction,1,0,1,455422014#,Postoperative subendocardial myocardial infarction,G384,G384.00,311796008,455422014,NA,32,G384.00#
+G38z.#,"Postoperative myocardial infarction, unspecified",1,0,1,455423016#,"Postoperative myocardial infarction, unspecified",G38z,G38z.00,129574000,208365015,NA,32,G38z.00#
+G35X.#,Subsequent myocardial infarction of unspecified site,1,0,1,118831000006118#,Subsequent myocardial infarction of unspecified site,G35X,G35X.00,194856005,299808017,NA,32,G35X.00#
+G362.#,Ventric septal defect/curr comp fol acut myocardal infarctn,1,0,1,67081000006119#,Ventricular septal defect as current complication following acute myocardial infarction,G362,G362.00,233846000,350381017,NA,32,G362.00#
+G501.#,Post infarction pericarditis,1,0,1,216351000006118#,Post infarction pericarditis,G501,G501.00,233885007,350431013,NA,32,G501.00#
+3232.#,ECG: old myocardial infarction,0,1,1,256454011#,ECG: old myocardial infarction,3232,3232.00,164867002,256454011,NA,3,3232.00#
+3233.#,ECG: anteroseptal infarction,0,1,1,256455012#,ECG: antero-septal infarct.,3233,3233.00,164868007,256455012,NA,3,3233.00#
+3234.#,ECG:posterior/inferior infarct,0,1,1,256457016#,ECG:posterior/inferior infarct,3234,3234.00,164869004,256457016,NA,3,3234.00#
+3235.#,ECG: subendocardial infarct,0,1,1,256458014#,ECG: subendocardial infarct,3235,3235.00,164870003,256458014,NA,3,3235.00#
+3236.#,ECG: lateral infarction,0,1,1,256459018#,ECG: lateral infarction,3236,3236.00,164871004,256459018,NA,3,3236.00#
+Gyu31#,[X]Other current complicatns following acute myocard infarct,0,1,1,408571000006116#,[X]Other current complicatns following acute myocard infarct,Gyu31,Gyu3100,302049001,443587013,NA,32,Gyu3100#
+Gyu35#,[X]Subsequent myocardial infarction of other sites,0,1,1,300881018#,[X]Subsequent myocardial infarction of other sites,Gyu35,Gyu3500,194856005,299808017,NA,32,Gyu3500#
+Gyu36#,[X]Subsequent myocardial infarction of unspecified site,0,1,1,300882013#,[X]Subsequent myocardial infarction of unspecified site,Gyu36,Gyu3600,194856005,299808017,NA,32,Gyu3600#
+X200E#,Myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200E#
+X200G#,Acute Q wave infarction - anteroseptal,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200G#
+X200H#,Acute non-Q wave infarction - anteroseptal,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200H#
+X200I#,Acute Q wave infarction - anterolateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200I#
+X200J#,Acute non-Q wave infarction - anterolateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200J#
+X200K#,Acute inferior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200K#
+X200L#,Acute Q wave infarction - inferior,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200L#
+X200M#,Acute non-Q wave infarction - inferior,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200M#
+X200N#,Acute Q wave infarction - inferolateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200N#
+X200O#,Acute non-Q wave infarction - inferolateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200O#
+X200P#,Acute lateral myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200P#
+X200Q#,Acute Q wave infarction - lateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200Q#
+X200R#,Acute non-Q wave infarction - lateral,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200R#
+X200S#,Acute widespread myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200S#
+X200T#,Acute Q wave infarction - widespread,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200T#
+X200U#,Acute non-Q wave infarction - widespread,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200U#
+X200V#,Acute posterior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200V#
+X200W#,Old anterior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200W#
+X200X#,Old inferior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200X#
+X200Y#,Old lateral myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200Y#
+X200Z#,Old posterior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200Z#
+X200a#,Silent myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200a#
+X200d#,Post-infarction ventricular septal defect,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200d#
+X200e#,Cardiac rupture after acute myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200e#
+X200x#,Post-infarction mitral papillary muscle rupture,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200x#
+X201u#,Post-infarction pericarditis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X201u#
+XE0Uh#,Acute myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Uh#
+XE0WA#,Myocardial infarction (& [acute]) or coronary thrombosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0WA#
+XE2aA#,Old myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2aA#
+Xa0YL#,Acute anterior myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0YL#
+XaAC3#,Acute Q wave myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaAC3#
+XaAzi#,Acute non-Q wave infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaAzi#
+XaBL1#,H/O: Myocardial infarction in last year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBL1#
+XaD2b#,Postoperative myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2b#
+XaD2d#,Postoperative transmural myocardial infarction anterior wall,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2d#
+XaD2e#,Postoperative transmural myocardial infarction inferior wall,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2e#
+XaD2f#,Postoperative transmural myocardial infarction other sites,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2f#
+XaD2g#,Postoperative transmural myocardial infarction unspec site,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2g#
+XaD2h#,Postoperative subendocardial myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2h#
+XaD2i#,"Postoperative myocardial infarction, unspecified",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2i#
+XaEXt#,Post infarct angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEXt#
+XaEgZ#,Non-Q wave myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEgZ#
+XaFx7#,Diab mellit insulin-glucose infus acute myocardial infarct,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaFx7#
+XaIf1#,First myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIf1#
+XaIwM#,Acute ST segment elevation myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIwM#
+XaIwY#,Acute non-ST segment elevation myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIwY#
+XaJX0#,Acute posterolateral myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJX0#
+XaQk7#,History of myocardial infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaQk7#
+XaRFL#,Exception reporting: myocardial infarction quality indicator,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaRFL#
+XaRFO#,Exc myocard infarction quality indicators: informed dissent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaRFO#
+XaRFP#,Exc myocar infarction quality indicators: patient unsuitable,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaRFP#
+Y1eef#,Mixed myocardial ischaemia and infarction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y1eef#
+G30..#,Attack - heart,NA,NA,NA,94884017#,Acute myocardial infarction,G30,G30..00,57054005,94884017,NA,32,G30..00#
+G30..#,Attack - heart,NA,NA,NA,350376014#,Silent myocardial infarction,G30-7,G30..17,233843008,350376014,NA,32,G30..17#
+G30..#,Attack - heart,NA,NA,NA,537751000006115#,Cardiac rupture after acute myocardial infarction,G30-3,G30..13,233847009,350383019,NA,32,G30..13#
+G30..#,Attack - heart,NA,NA,NA,219521000000119#,Attack - heart,G30-1,G30..11,22298006,37443015,NA,32,G30..11#
+G30..#,Attack - heart,NA,NA,NA,37443015#,Heart attack,G30-4,G30..14,22298006,37443015,NA,32,G30..14#
+G30..#,Attack - heart,NA,NA,NA,1786197015#,Coronary thrombosis,G30-2,G30..12,398274000,1786197015,NA,32,G30..12#
+G30..#,Attack - heart,NA,NA,NA,884141000006116#,Coronary thrombosis,G30-98,G30..98,57054005,884141000000000,NA,32,G30..98#
+G30..#,Attack - heart,NA,NA,NA,1786198013#,Thrombosis - coronary,G30-6,G30..16,398274000,1786198013,NA,32,G30..16#
+G30..#,Attack - heart,NA,NA,NA,219531000000117#,MI - acute myocardial infarction,G30-5,G30..15,57054005,94884017,NA,32,G30..15#
+G30..#,Attack - heart,NA,NA,NA,884151000006119#,Myocardial Infarction,G30-99,G30..99,57054005,884151000000000,NA,32,G30..99#

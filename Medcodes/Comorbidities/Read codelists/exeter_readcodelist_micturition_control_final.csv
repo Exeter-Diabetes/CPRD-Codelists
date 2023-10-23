@@ -1,0 +1,34 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+1A2..#,Micturition control,1784723015#,Urinary control,1A2-1,1A2..11,366279009,489796018,NA,27,1A2..11#
+1A2..#,Micturition control,1784722013#,Bladder control - finding,1A2,1A2..00,366279009,489796018,NA,27,1A2..00#
+1A22.#,Enuresis,646261000006118#,Enuresis,1A22,1A22.00,8009008,14240017,NA,27,1A22.00#
+1A220#,Nocturnal enuresis,504334012#,Nocturnal enuresis,1A220,1A22000,8009008,504334012,NA,27,1A22000#
+1A220#,Nocturnal enuresis,504331016#,Bedwetting,1A220-1,1A22011,8009008,504331016,NA,27,1A22011#
+1A221#,Daytime enuresis,419993011#,Daytime enuresis,1A221,1A22100,281862002,419993011,NA,27,1A22100#
+1A23.#,Incontinence of urine,1494848017#,Incontinence of urine,1A23,1A23.00,165232002,1494848017,NA,27,1A23.00#
+1A230#,Functional urinary incontinence,208692015#,Functional urinary incontinence,1A230,1A23000,129847007,208692015,NA,27,1A23000#
+1A24.#,Stress incontinence,121721000006114#,Stress incontinence,1A24,1A24.00,22220005,37299019,NA,27,1A24.00#
+1A24.#,Stress incontinence,121751000006117#,Stress incontinence - symptom,1A24-1,1A24.11,22220005,37299019,NA,27,1A24.11#
+1A25.#,Urgency,124716012#,Urgency of micturition,1A25-1,1A25.11,75088002,124716012,NA,27,1A25.11#
+1A25.#,Urgency,74221000006110#,Urgent desire to urinate,1A25,1A25.00,75088002,502913011,NA,27,1A25.00#
+1A26.#,Urge incontinence of urine,507635014#,Urge incontinence of urine,1A26,1A26.00,87557004,507635014,NA,27,1A26.00#
+1A27.#,Urge to pass urine again shortly after finishing voiding,529651000000113#,Pis en deux,1A27-1,1A27.11,299271000000100,529651000000113,NA,27,1A27.11#
+1A27.#,Urge to pass urine again shortly after finishing voiding,529601000000112#,Urge to pass urine again shortly after finishing voiding,1A27,1A27.00,299271000000100,529601000000112,NA,27,1A27.00#
+1A2Z.#,Micturition control NOS,252794012#,Micturition control,1A2Z,1A2Z.00,129009001,1784722013,NA,27,1A2Z.00#
+R083.#,[D]Incontinence of urine,317523016#,[D]Incontinence of urine,R083,R083.00,165232002,1494848017,NA,27,R083.00#
+R0830#,[D]Enuresis NOS,317524010#,Urinary incontinence,R0830,R083000,165232002,1489736014,NA,27,R083000#
+R0831#,[D]Urethral sphincter incontinence,317525011#,[D]Urethral sphincter incontinence,R0831,R083100,165232002,1489736014,NA,27,R083100#
+R0832#,[D] Urge incontinence,317526012#,[D] Urge incontinence,R0832,R083200,87557004,507635014,NA,27,R083200#
+R083z#,[D]Incontinence of urine NOS,317527015#,[D]Incontinence of urine NOS,R083z,R083z00,165232002,256950013,NA,27,R083z00#
+R0862#,[D] Urgency of micturition,292171000006114#,[D] Urgency of micturition,R0862,R086200,75088002,124716012,NA,27,R086200#
+16F..#,Double incontinence,503840017#,Double incontinence,16F,16F..00,78459008,503840017,NA,27,16F..00#
+16F0.#,Functional urinary and faecal incontinence,2373691000000119#,Functional urinary and faecal incontinence,16F0,16F0.00,925701000000107,2373691000000119,NA,27,16F0.00#
+8D71.#,Incontinence control,397460012#,Incontinence control,8D71,8D71.00,266826009,397460012,NA,32,8D71.00#
+8D73.#,Nocturnal bladder warning syst,406330013#,Enuresis alarm,8D73-2,8D73.12,271524000,406330013,NA,32,8D73.12#
+8D73.#,Nocturnal bladder warning syst,406331012#,Enuretic alarm,8D73-1,8D73.11,271524000,406331012,NA,32,8D73.11#
+8D73.#,Nocturnal bladder warning syst,673501000006114#,Provision of nocturnal bladder warning system,8D73,8D73.00,313125000,456965012,NA,32,8D73.00#
+8D7Z.#,Urinary bladder control NOS,283236012#,Urinary bladder control NOS,8D7Z,8D7Z.00,37799002,63059015,NA,32,8D7Z.00#
+K586.#,Stress incontinence - female,121741000006119#,Female stress incontinence,K586,K586.00,60241006,100073015,NA,32,K586.00#
+3940.#,Bladder: incontinent,256950013#,Bladder: incontinent,3940,3940.00,165232002,256950013,NA,27,3940.00#
+3941.#,Bladder: occasional accident,256951012#,Bladder: occasional accident,3941,3941.00,165233007,256951012,NA,3,3941.00#
+K1654#,Unstable bladder,72601000006110#,Unstable bladder,K1654,K165400,61033006,101427019,NA,32,K165400#

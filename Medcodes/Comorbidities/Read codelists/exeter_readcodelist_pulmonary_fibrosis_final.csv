@@ -1,0 +1,35 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+23E5.#,O/E - fibrosis of lung present,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,162974009,254002014,NA,27,23E5.11#
+23E5.#,O/E - fibrosis of lung present,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,162974009,254003016,NA,27,23E5.00#
+H55..#,Postinflammatory pulmonary fibrosis,1,1,2,211391000006118#,Post-inflammatory pulmonary fibrosis,H55,H55..00,266368002,396123011,NA,32,H55..00#
+H55..#,Postinflammatory pulmonary fibrosis,1,1,2,85961019#,Cirrhosis of lung,H55-1,H55..11,266368002,396123011,NA,32,H55..11#
+H5631#,Diffuse pulmonary fibrosis,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,51615001,885491000000000,NA,32,H563199#
+H5631#,Diffuse pulmonary fibrosis,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,196125002,301706014,NA,32,H563100#
+Hyu50#,[X]Other interstitial pulmonary diseases with fibrosis,1,1,2,301852014#,[X]Other interstitial pulmonary diseases with fibrosis,Hyu50,Hyu5000,233703007,350185018,NA,32,Hyu5000#
+H563.#,Idiopathic fibrosing alveolitis,1,0,1,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,700250006,2989718018,NA,32,H563.12#
+H563.#,Idiopathic fibrosing alveolitis,1,0,1,815341000006115#,Hamman Rich syndrome,H563-1,H563.11,236302005,2579204016,NA,32,H563.11#
+H563.#,Idiopathic fibrosing alveolitis,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,45157009,885481000000000,NA,32,H563.99#
+H563.#,Idiopathic fibrosing alveolitis,1,0,1,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,700250006,2989760019,NA,32,H563.13#
+H563.#,Idiopathic fibrosing alveolitis,1,0,1,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,700250006,2989716019,NA,32,H563.00#
+H5632#,Pulmonary fibrosis,1,0,1,85960018#,Pulmonary fibrosis,H5632,H563200,51615001,85960018,NA,32,H563200#
+H5633#,Usual interstitial pneumonitis,1,0,1,2475606014#,Usual interstitial pneumonitis,H5633,H563300,196125002,2475606014,NA,32,H563300#
+H563z#,Idiopathic fibrosing alveolitis NOS,1,0,1,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,700250006,2989716019,NA,32,H563z00#
+A114.#,Tuberculous fibrosis of lung,0,1,1,149374011#,Tuberculous fibrosis of lung,A114,A114.00,90117007,149374011,NA,32,A114.00#
+H423.#,Massive silicotic fibrosis,0,1,1,301555015#,Massive silicotic fibrosis,H423,H423.00,40640008,67787015,NA,32,H423.00#
+H4642#,Chronic pulmonary fibrosis due to chemical fumes,0,1,1,301575012#,Chronic pulmonary fibrosis due to chemical fumes,H4642,H464200,196028003,301575012,NA,32,H464200#
+H4y10#,Radiation-induced diffuse interstitial pulmonary fibrosis,0,1,1,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,71193007,1233362012,NA,32,H4y1000#
+H4y10#,Radiation-induced diffuse interstitial pulmonary fibrosis,0,1,1,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,71193007,885431000000000,NA,32,H4y1099#
+Q3171#,Prematurity with interstitial pulmonary fibrosis,0,1,1,207831000006116#,Interstitial pulmonary fibrosis of prematurity,Q3171,Q317100,90610005,150170014,NA,32,Q317100#
+X102u#,Pulmonary fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X102u#
+X1030#,Toxic diffuse interstitial pulmonary fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X1030#
+X1031#,Drug-induced diffuse interstitial pulmonary fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X1031#
+X1032#,Localised pulmonary fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X1032#
+X1033#,Mediastinal radiation fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X1033#
+XE0Ya#,Post-inflammatory pulmonary fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE0Ya#
+A7899#,HIV disease resulting in lymphoid interstitial pneumonitis,0,0,0,287032015#,HIV disease resulting in lymphoid interstitial pneumonitis,A7899,A789900,421671002,2614782018,NA,32,A789900#
+H5630#,Alveolar capillary block,0,0,0,301705013#,Alveolar capillary block,H5630,H563000,196124003,301705013,NA,32,H563000#
+X102v#,Usual interstitial pneumonitis,0,0,0,"NA#",NA,NA,NA,NA,NA,NA,NA,X102v#
+X102w#,Desquamative interstitial pneumonitis,0,0,0,"NA#",NA,NA,NA,NA,NA,NA,NA,X102w#
+X102x#,Lymphoid interstitial pneumonitis,0,0,0,"NA#",NA,NA,NA,NA,NA,NA,NA,X102x#
+X102y#,Giant cell interstitial pneumonitis,0,0,0,"NA#",NA,NA,NA,NA,NA,NA,NA,X102y#
+XE0Yb#,Idiopathic pulmonary fibrosis/Cryptogenic fibrosing alveolitis/Idiopathic fibrosing alveolitis,0,0,0,"NA#",NA,NA,NA,NA,NA,NA,NA,XE0Yb#

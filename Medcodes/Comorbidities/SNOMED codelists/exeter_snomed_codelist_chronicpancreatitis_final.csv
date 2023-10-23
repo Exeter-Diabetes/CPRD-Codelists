@@ -1,0 +1,98 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+235494005#,Chronic pancreatitis,352985010#,1,1,2,352985010#,Chronic pancreatitis,J671,J671.00,352985010,NA,32
+235494005#,Chronic pancreatitis,352985010#,1,1,2,303793019#,[X]Other chronic pancreatitis,Jyu84,Jyu8400,352985010,NA,32
+235494005#,Chronic pancreatitis,352985010#,1,1,2,5081061000006116#,CP - Chronic pancreatitis,^ESCTCP508106,NA,352986011,NA,32
+235494005#,CP - Chronic pancreatitis,352986011#,1,1,2,352985010#,Chronic pancreatitis,J671,J671.00,352985010,NA,32
+235494005#,CP - Chronic pancreatitis,352986011#,1,1,2,303793019#,[X]Other chronic pancreatitis,Jyu84,Jyu8400,352985010,NA,32
+235494005#,CP - Chronic pancreatitis,352986011#,1,1,2,5081061000006116#,CP - Chronic pancreatitis,^ESCTCP508106,NA,352986011,NA,32
+235494005#,Chronic pancreatitis (disorder),623958018#,1,1,2,352985010#,Chronic pancreatitis,J671,J671.00,352985010,NA,32
+235494005#,Chronic pancreatitis (disorder),623958018#,1,1,2,303793019#,[X]Other chronic pancreatitis,Jyu84,Jyu8400,352985010,NA,32
+235494005#,Chronic pancreatitis (disorder),623958018#,1,1,2,5081061000006116#,CP - Chronic pancreatitis,^ESCTCP508106,NA,352986011,NA,32
+235952002#,Alcohol-induced chronic pancreatitis,353698013#,1,1,2,5087751000006113#,Chronic pancreatitis due to acute alcohol intoxication,^ESCTCH508775,NA,3078939011,NA,32
+235952002#,Alcohol-induced chronic pancreatitis,353698013#,1,1,2,353698013#,Alcohol-induced chronic pancreatitis,J6710,J671000,353698013,NA,32
+235952002#,Alcohol-induced chronic pancreatitis (disorder),624480018#,1,1,2,5087751000006113#,Chronic pancreatitis due to acute alcohol intoxication,^ESCTCH508775,NA,3078939011,NA,32
+235952002#,Alcohol-induced chronic pancreatitis (disorder),624480018#,1,1,2,353698013#,Alcohol-induced chronic pancreatitis,J6710,J671000,353698013,NA,32
+235952002#,Chronic pancreatitis due to acute alcohol intoxication,3078939011#,1,1,2,5087751000006113#,Chronic pancreatitis due to acute alcohol intoxication,^ESCTCH508775,NA,3078939011,NA,32
+235952002#,Chronic pancreatitis due to acute alcohol intoxication,3078939011#,1,1,2,353698013#,Alcohol-induced chronic pancreatitis,J6710,J671000,353698013,NA,32
+235951009#,Gallstone chronic pancreatitis,353697015#,1,1,2,353697015#,Gallstone chronic pancreatitis,J6711,J671100,353697015,NA,32
+235951009#,Gallstone chronic pancreatitis (disorder),624479016#,1,1,2,353697015#,Gallstone chronic pancreatitis,J6711,J671100,353697015,NA,32
+111374002#,Pseudocyst of pancreas,178612013#,1,1,2,4194881000006115#,Pancreatic pseudocyst,^ESCTPA419488,NA,1219641017,NA,32
+111374002#,Pseudocyst of pancreas,178612013#,1,1,2,178612013#,Pseudocyst of pancreas,J6721,J672100,178612013,NA,32
+111374002#,Pseudocyst of pancreas (disorder),630837015#,1,1,2,4194881000006115#,Pancreatic pseudocyst,^ESCTPA419488,NA,1219641017,NA,32
+111374002#,Pseudocyst of pancreas (disorder),630837015#,1,1,2,178612013#,Pseudocyst of pancreas,J6721,J672100,178612013,NA,32
+111374002#,Pancreatic pseudocyst,1219641017#,1,1,2,4194881000006115#,Pancreatic pseudocyst,^ESCTPA419488,NA,1219641017,NA,32
+111374002#,Pancreatic pseudocyst,1219641017#,1,1,2,178612013#,Pseudocyst of pancreas,J6721,J672100,178612013,NA,32
+197464001#,Cyst and pseudocyst of pancreas,303643010#,1,1,2,303644016#,Pancreatic cyst and pseudocyst NOS,J672z,J672z00,303643010,NA,32
+197464001#,Cyst and pseudocyst of pancreas,303643010#,1,1,2,303643010#,Cyst and pseudocyst of pancreas,J672,J672.00,303643010,NA,32
+197464001#,Cyst and pseudocyst of pancreas (disorder),581844018#,1,1,2,303644016#,Pancreatic cyst and pseudocyst NOS,J672z,J672z00,303643010,NA,32
+197464001#,Cyst and pseudocyst of pancreas (disorder),581844018#,1,1,2,303643010#,Cyst and pseudocyst of pancreas,J672,J672.00,303643010,NA,32
+235953007#,Idiopathic chronic pancreatitis,353699017#,1,1,2,5087761000006110#,Idiopathic chronic pancreatitis,^ESCTID508776,NA,353699017,NA,31
+235953007#,Idiopathic chronic pancreatitis (disorder),624482014#,1,1,2,5087761000006110#,Idiopathic chronic pancreatitis,^ESCTID508776,NA,353699017,NA,31
+235954001#,Obstructive chronic pancreatitis,353700016#,1,1,2,5087771000006115#,Obstructive chronic pancreatitis,^ESCTOB508777,NA,353700016,NA,31
+235954001#,Obstructive chronic pancreatitis (disorder),624483016#,1,1,2,5087771000006115#,Obstructive chronic pancreatitis,^ESCTOB508777,NA,353700016,NA,31
+235955000#,Drug-induced chronic pancreatitis,353701017#,1,1,2,5087781000006117#,Drug-induced chronic pancreatitis,^ESCTDR508778,NA,353701017,NA,31
+235955000#,Drug-induced chronic pancreatitis (disorder),624484010#,1,1,2,5087781000006117#,Drug-induced chronic pancreatitis,^ESCTDR508778,NA,353701017,NA,31
+266546006#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas),396696013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,Diseases of pancreas NOS,396697016#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,Pseudocyst of pancreas,396698014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,Pancreatic cyst,396699018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,Cyst of pancreas,396700017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas),659055012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266546006#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas) (disorder),2718784011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+301009006#,Calcific chronic pancreatitis,442239010#,1,1,2,5888001000006111#,Calcific chronic pancreatitis,^ESCTCA588800,NA,442239010,NA,31
+301009006#,Calcific chronic pancreatitis (disorder),696755014#,1,1,2,5888001000006111#,Calcific chronic pancreatitis,^ESCTCA588800,NA,442239010,NA,31
+401240008#,Drainage of pancreatic pseudocyst (procedure),1769162010#,1,1,2,6650481000006113#,Drainage of pancreatic pseudocyst,^ESCTDR665048,NA,1780434012,NA,31
+401240008#,Drainage of pancreatic pseudocyst,1780434012#,1,1,2,6650481000006113#,Drainage of pancreatic pseudocyst,^ESCTDR665048,NA,1780434012,NA,31
+247431000000103#,NA,NA#,0,1,1,404881000000118#,History of chronic pancreatitis,14CH,14CH.00,405000000000000,NA,32
+31258000#,Cyst of pancreas,52284017#,0,1,1,1227462017#,Pancreatic cyst,J6720,J672000,1227462017,NA,32
+31258000#,Cyst of pancreas,52284017#,0,1,1,3003961000006113#,Cyst of pancreas,^ESCTCY300396,NA,52284017,NA,32
+31258000#,Cyst of pancreas (disorder),762359012#,0,1,1,1227462017#,Pancreatic cyst,J6720,J672000,1227462017,NA,32
+31258000#,Cyst of pancreas (disorder),762359012#,0,1,1,3003961000006113#,Cyst of pancreas,^ESCTCY300396,NA,52284017,NA,32
+31258000#,Pancreatic cyst,1227462017#,0,1,1,1227462017#,Pancreatic cyst,J6720,J672000,1227462017,NA,32
+31258000#,Pancreatic cyst,1227462017#,0,1,1,3003961000006113#,Cyst of pancreas,^ESCTCY300396,NA,52284017,NA,32
+14352005#,Incision and drainage of pseudocyst of pancreas,24401014#,1,0,1,2727361000006118#,Incision and drainage of pseudocyst of pancreas,^ESCTIN272736,NA,24401014,NA,31
+15974001#,Chronic pancreatitis,27043018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+15974001#,"Chronic pancreatitis, NOS",27044012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16156002#,Drainage of pseudocyst of pancreas by anastomosis,27348016#,1,0,1,2756191000006113#,Drainage of pseudocyst of pancreas by anastomosis,^ESCTDR275619,NA,27348016,NA,31
+72144004#,External drainage of pseudocyst of pancreas,119885013#,1,0,1,3673691000006111#,External drainage of pseudocyst of pancreas,^ESCTEX367369,NA,119885013,NA,31
+74973004#,Chronic fibrosing pancreatitis,124517017#,1,0,1,3718891000006117#,Chronic fibrosing pancreatitis,^ESCTCH371889,NA,124517017,NA,31
+155835007#,Chronic pancreatitis,242901012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155836008#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas),242902017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155836008#,Pseudocyst of pancreas,242905015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197462002#,CP - Chronic pancreatitis,303640013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197462002#,Chronic pancreatitis,303641012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197463007#,Alcohol-induced chronic pancreatitis,303642017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197465000#,Pancreatic cyst and pseudocyst NOS,303644016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197565003#,[X]Other chronic pancreatitis,303793019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+238280007#,Drainage of pancreatic pseudocyst,357166019#,1,0,1,5119631000006113#,Drainage of peritoneal pseudocyst,^ESCTDR511963,NA,357165015,NA,31
+155835007#,Chronic pancreatitis,536208018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155836008#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas),536209014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197462002#,Chronic pancreatitis,581842019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197463007#,Alcohol-induced chronic pancreatitis,581843012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197465000#,Pancreatic cyst and pseudocyst NOS (disorder),581846016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197565003#,[X]Other chronic pancreatitis (disorder),581957010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+14352005#,Incision and drainage of pseudocyst of pancreas (procedure),740363017#,1,0,1,2727361000006118#,Incision and drainage of pseudocyst of pancreas,^ESCTIN272736,NA,24401014,NA,31
+15974001#,Chronic pancreatitis (disorder) [Ambiguous],742905010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16156002#,Drainage of pseudocyst of pancreas by anastomosis (procedure),743125017#,1,0,1,2756191000006113#,Drainage of pseudocyst of pancreas by anastomosis,^ESCTDR275619,NA,27348016,NA,31
+72144004#,External drainage of pseudocyst of pancreas (procedure),812389015#,1,0,1,3673691000006111#,External drainage of pseudocyst of pancreas,^ESCTEX367369,NA,119885013,NA,31
+74973004#,Chronic fibrosing pancreatitis (disorder),815531017#,1,0,1,3718891000006117#,Chronic fibrosing pancreatitis,^ESCTCH371889,NA,124517017,NA,31
+394520001#,Gallstone chronic pancreatitis,1468460011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394520001#,Gallstone chronic pancreatitis,1488253012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+405563007#,Infected pancreatic pseudocyst (disorder),2149393019#,1,0,1,6715491000006118#,Infected pancreatic pseudocyst,^ESCTIN671549,NA,2157360010,NA,31
+405563007#,Infected pancreatic pseudocyst,2157360010#,1,0,1,6715491000006118#,Infected pancreatic pseudocyst,^ESCTIN671549,NA,2157360010,NA,31
+197462002#,Chronic pancreatitis (disorder),2710697015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155836008#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas) (disorder),2714880019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155835007#,Chronic pancreatitis (disorder),2721264016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+15974001#,Chronic pancreatitis (disorder),2741899019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197463007#,Alcohol-induced chronic pancreatitis (disorder),2760750013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154211000119108#,Chronic pancreatitis due to chronic alcoholism,3008826016#,1,0,1,8048151000006113#,Chronic pancreatitis due to chronic alcoholism,^ESCTCH804815,NA,3008826016,NA,31
+154211000119108#,Chronic pancreatitis due to chronic alcoholism (disorder),3008840015#,1,0,1,8048151000006113#,Chronic pancreatitis due to chronic alcoholism,^ESCTCH804815,NA,3008826016,NA,31
+394520001#,Gallstone chronic pancreatitis (disorder),3084223010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+721724009#,Acute on chronic pancreatitis (disorder),3325854015#,1,0,1,7821821000006110#,Acute on chronic pancreatitis,^ESCTAC782182,NA,3325855019,NA,31
+721724009#,Acute on chronic pancreatitis,3325855019#,1,0,1,7821821000006110#,Acute on chronic pancreatitis,^ESCTAC782182,NA,3325855019,NA,31
+724540009#,Tropical calcific chronic pancreatitis (disorder),3439192017#,1,0,1,7857561000006112#,Tropical calcific chronic pancreatitis,^ESCTTR785756,NA,3439193010,NA,31
+724540009#,Tropical calcific chronic pancreatitis,3439193010#,1,0,1,7857561000006112#,Tropical calcific chronic pancreatitis,^ESCTTR785756,NA,3439193010,NA,31
+767291004#,Chronic pancreatitis due to acute alcohol intoxication,3670493010#,1,0,1,12054431000006113#,Chronic pancreatitis due to acute alcohol intoxication,^ESCT1205443,NA,3670493010,NA,31
+767291004#,Chronic pancreatitis due to acute alcohol intoxication (disorder),3670494016#,1,0,1,12054431000006113#,Chronic pancreatitis due to acute alcohol intoxication,^ESCT1205443,NA,3670493010,NA,31
+838375006#,Chronic infectious pancreatitis (disorder),3896614013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+838375006#,Chronic infectious pancreatitis,3896615014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,37 @@
+readcode,term_readcode,hdruk,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14CG.#,History of acute pancreatitis,1,404861000000110#,History of acute pancreatitis,14CG,14CG.00,247421000000000,404861000000000,NA,32,14CG.00#
+A723.#,Mumps pancreatitis,1,18532015#,Mumps pancreatitis,A723,A723.00,10665004,18532015,NA,32,A723.00#
+A7851#,Cytomegaloviral pancreatitis,1,353692014#,Cytomegaloviral pancreatitis,A7851,A785100,235947007,353692014,NA,32,A785100#
+D2016#,Pancytopenia with pancreatitis,1,399218019#,Pancytopenia with malformation,D2016-1,D201611,127034005,322010,NA,32,D201611#
+D2016#,Pancytopenia with pancreatitis,1,351123016#,Pancytopenia with pancreatitis,D2016-2,D201612,234367000,351123016,NA,32,D201612#
+D2016#,Pancytopenia with pancreatitis,1,399224013#,Pancytopenia,D2016,D201600,127034005,322010,NA,32,D201600#
+J670.#,Acute pancreatitis,1,303630010#,Acute pancreatitis,J670,J670.00,197456007,303630010,NA,32,J670.00#
+J6700#,Acute pancreatitis unspecified,1,303632019#,Acute pancreatitis unspecified,J6700,J670000,197456007,303630010,NA,32,J670000#
+J6701#,Acute recurrent pancreatitis,1,303633012#,Acute recurrent pancreatitis,J6701,J670100,197458008,303633012,NA,32,J670100#
+J6702#,Acute haemorrhagic pancreatitis,1,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,4399003,493743018,NA,32,J670200#
+J6703#,Acute suppurative pancreatitis,1,303636016#,Acute suppurative pancreatitis,J6703,J670300,197460005,303636016,NA,32,J670300#
+J6704#,Subacute pancreatitis,1,98289011#,Subacute pancreatitis,J6704,J670400,59154002,98289011,NA,32,J670400#
+J6705#,Gallstone acute pancreatitis,1,353686015#,Gallstone acute pancreatitis,J6705,J670500,235941008,353686015,NA,32,J670500#
+J6706#,Idiopathic acute pancreatitis,1,353688019#,Idiopathic acute pancreatitis,J6706,J670600,235943006,353688019,NA,32,J670600#
+J6707#,Biliary acute pancreatitis,1,2116751000000111#,Biliary acute pancreatitis,J6707,J670700,811431000000000,211675e10,NA,32,J670700#
+J6708#,Alcohol-induced acute pancreatitis,1,353687012#,Alcohol-induced acute pancreatitis,J6708,J670800,235942001,353687012,NA,32,J670800#
+J6709#,Drug-induced acute pancreatitis,1,353689010#,Drug-induced acute pancreatitis,J6709,J670900,235944000,353689010,NA,32,J670900#
+J670y#,Other acute pancreatitis,1,1816471000006113#,Other acute pancreatitis,J670y,J670y00,197456007,303630010,NA,32,J670y00#
+J670z#,Acute pancreatitis NOS,1,396402014#,Acute pancreatitis NOS,J670z,J670z00,197456007,303630010,NA,32,J670z00#
+J670z#,Acute pancreatitis NOS,1,125722013#,Pancreatitis,J670z-1,J670z11,75694006,125722013,NA,32,J670z11#
+X20CO#,Pancytopenia with pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X20CO#
+X308i#,Gallstone acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308i#
+X308j#,Alcohol-induced acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308j#
+X308k#,Idiopathic acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308k#
+X308l#,Drug-induced acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308l#
+X308m#,Acute pancreatitis due to infection,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308m#
+X308n#,Viral acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308n#
+X308p#,Cytomegaloviral pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308p#
+X308q#,Postoperative acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308q#
+X308r#,Familial acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308r#
+X308s#,Traumatic acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308s#
+XE0bH#,Acute pancreatitis NOS,0,NA#,NA,NA,NA,NA,NA,NA,NA,XE0bH#
+Xa0Rc#,Post-ERCP acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Rc#
+XaB1f#,Necrotising pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaB1f#
+XaLou#,History of acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaLou#
+XaYaK#,Biliary acute pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaYaK#

@@ -1,0 +1,367 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+S3AA.#,Fracture of tibia,NA#,NA,NA,NA,NA,NA,NA,NA,S3AA.#
+S3...#,Fracture of lower limb,78112010#,Fracture of bone of lower limb,S3,S3...00,46866001,1230400018,NA,32,S3...00#
+S3...#,Fracture of lower limb,1230401019#,Leg fracture,S3-1,S3...11,46866001,1230401019,NA,32,S3...11#
+S30..#,Fracture of neck of femur,895691000006117#,#Neck of femur,S30-99,S30..99,5913000,895691000006117,NA,32,S30..99#
+S30..#,Fracture of neck of femur,391384012#,Hip fracture,S30-1,S30..11,263225007,391384012,NA,32,S30..11#
+S30..#,Fracture of neck of femur,10843018#,Fracture of neck of femur,S30,S30..00,5913000,10843018,NA,32,S30..00#
+S300.#,"Closed fracture proximal femur, transcervical",319084014#,"Closed fracture proximal femur, transcervical",S300,S300.00,208521006,319084014,NA,32,S300.00#
+S3000#,"Cls # prox femur, intracapsular section, unspecified",570541000006112#,Closed fracture of intracapsular section of femur,S3000,S300000,20100009,33823015,NA,32,S300000#
+S3001#,"Closed fracture proximal femur, transepiphyseal",319086011#,"Closed fracture proximal femur, transepiphyseal",S3001,S300100,208523009,319086011,NA,32,S300100#
+S3002#,"Closed fracture proximal femur, midcervical section",319087019#,"Closed fracture proximal femur, midcervical section",S3002,S300200,208524003,319087019,NA,32,S300200#
+S3003#,"Closed fracture proximal femur, basicervical",565211000006111#,"Closed fracture, base of neck of femur",S3003-1,S300311,1705000,3954014,NA,32,S300311#
+S3003#,"Closed fracture proximal femur, basicervical",564391000006113#,Closed fracture of base of neck of femur,S3003,S300300,1705000,3954014,NA,32,S300300#
+S3004#,Closed fracture head of femur,319090013#,Closed fracture head of femur,S3004,S300400,208526001,319090013,NA,32,S300400#
+S3005#,"Cls # prox femur, subcapital, Garden grade unspec.",570551000006114#,"Cls # prox femur, subcapital, Garden grade unspec.",S3005,S300500,275338001,411305015,NA,32,S300500#
+S3006#,"Closed fracture proximal femur, subcapital, Garden grade I",319092017#,"Closed fracture proximal femur, subcapital, Garden grade I",S3006,S300600,208528000,319092017,NA,32,S300600#
+S3007#,"Closed fracture proximal femur, subcapital, Garden grade II",319093010#,"Closed fracture proximal femur, subcapital, Garden grade II",S3007,S300700,208529008,319093010,NA,32,S300700#
+S3008#,"Closed fracture proximal femur, subcapital, Garden grade III",319094016#,"Closed fracture proximal femur, subcapital, Garden grade III",S3008,S300800,208530003,319094016,NA,32,S300800#
+S3009#,"Closed fracture proximal femur, subcapital, Garden grade IV",319095015#,"Closed fracture proximal femur, subcapital, Garden grade IV",S3009,S300900,208531004,319095015,NA,32,S300900#
+S300A#,"Closed fracture of femur, upper epiphysis",299771000000110#,"Closed fracture of femur, upper epiphysis",S300A,S300A00,198741000000106,299771000000110,NA,32,S300A00#
+S300y#,"Closed fracture proximal femur, other transcervical",402869013#,"Closed fracture proximal femur, other transcervical",S300y,S300y00,208521006,319084014,NA,32,S300y00#
+S300y#,"Closed fracture proximal femur, other transcervical",411305015#,"Closed fracture of femur, subcapital",S300y-1,S300y11,275338001,411305015,NA,32,S300y11#
+S300z#,"Closed fracture proximal femur, transcervical NOS",564491000006115#,"Closed fracture proximal femur, transcervical, NOS",S300z,S300z00,208521006,319084014,NA,32,S300z00#
+S301.#,"Open fracture proximal femur, transcervical",319100018#,"Open fracture proximal femur, transcervical",S301,S301.00,12746007,3043023014,NA,32,S301.00#
+S3010#,"Opn # prox femur, intracapsular section, unspecified",44341000006111#,"Opn # proximal femur, intracapsular section, unspecified",S3010,S301000,5913000,10843018,NA,32,S301000#
+S3011#,"Open fracture proximal femur, transepiphyseal",319102014#,"Open fracture proximal femur, transepiphyseal",S3011,S301100,208536009,319102014,NA,32,S301100#
+S3012#,"Open fracture proximal femur, midcervical section",319103016#,"Open fracture proximal femur, midcervical section",S3012,S301200,208537000,319103016,NA,32,S301200#
+S3013#,"Open fracture proximal femur, basicervical",391394019#,Open fracture base of neck of femur,S3013-1,S301311,263231005,391394019,NA,32,S301311#
+S3013#,"Open fracture proximal femur, basicervical",2536030018#,"Open fracture proximal femur, basicervical",S3013,S301300,263231005,2536030018,NA,32,S301300#
+S3014#,Open fracture head of femur,259461000006112#,Open fracture of head of femur,S3014,S301400,41191003,68712015,NA,32,S301400#
+S3015#,"Opn # prox femur, subcapital, Garden grade unspec.",319108013#,"Open fracture proximal femur,subcapital, Garden grade unspec",S3015,S301500,208540000,319108013,NA,32,S301500#
+S3016#,"Open fracture proximal femur, subcapital, Garden grade I",319109017#,"Open fracture proximal femur,subcapital, Garden grade I",S3016,S301600,208541001,319109017,NA,32,S301600#
+S3017#,"Open fracture proximal femur, subcapital, Garden grade II",319110010#,"Open fracture proximal femur,subcapital, Garden grade II",S3017,S301700,208542008,319110010,NA,32,S301700#
+S3018#,"Open fracture proximal femur, subcapital, Garden grade III",319111014#,"Open fracture proximal femur,subcapital, Garden grade III",S3018,S301800,208543003,319111014,NA,32,S301800#
+S3019#,"Open fracture proximal femur, subcapital, Garden grade IV",319112019#,"Open fracture proximal femur,subcapital, Garden grade IV",S3019,S301900,208544009,319112019,NA,32,S301900#
+S301A#,"Open fracture of femur, upper epiphysis",299791000000114#,"Open fracture of femur, upper epiphysis",S301A,S301A00,198751000000109,299791000000114,NA,32,S301A00#
+S301y#,"Open fracture proximal femur, other transcervical",411306019#,"Open fracture of femur, subcapital",S301y-1,S301y11,275339009,411306019,NA,32,S301y11#
+S301y#,"Open fracture proximal femur, other transcervical",402871013#,"Open fracture proximal femur, other transcervical",S301y,S301y00,12746007,21881015,NA,32,S301y00#
+S301z#,"Open fracture proximal femur, transcervical NOS",257561000006119#,"Open fracture proximal femur, transcervical, NOS",S301z,S301z00,12746007,21881015,NA,32,S301z00#
+S302.#,"Closed fracture of proximal femur, pertrochanteric",319118015#,"Closed fracture of proximal femur, pertrochanteric",S302,S302.00,208548007,319118015,NA,32,S302.00#
+S3020#,"Cls # proximal femur trochanteric section, unspecified",570571000006116#,"Cls # proximal femur, trochanteric section, unspecified",S3020,S302000,208548007,319118015,NA,32,S302000#
+S3020#,"Cls # proximal femur trochanteric section, unspecified",411307011#,"Closed fracture of femur, greater trochanter",S3020-1,S302011,275340006,411307011,NA,32,S302011#
+S3020#,"Cls # proximal femur trochanteric section, unspecified",411308018#,"Closed fracture of femur, lesser trochanter",S3020-2,S302012,275341005,411308018,NA,32,S302012#
+S3021#,"Closed fracture proximal femur, intertrochanteric, two part",319123015#,"Closed fracture proximal femur, intertrochanteric, two part",S3021,S302100,208550004,319123015,NA,32,S302100#
+S3022#,"Closed fracture proximal femur, subtrochanteric",319124014#,"Closed fracture proximal femur, subtrochanteric",S3022,S302200,208551000,319124014,NA,32,S302200#
+S3023#,"Cls # proximal femur, intertrochanteric, comminuted",570561000006111#,"Closed fracture proximal femur, intertrochanteric, comminuted",S3023,S302300,208552007,319125010,NA,32,S302300#
+S3024#,"Closed fracture of femur, intertrochanteric",562981000006117#,Closed intertrochanteric fracture,S3024,S302400,89820008,148902010,NA,32,S302400#
+S302z#,"Cls # of proximal femur, pertrochanteric section NOS",570531000006119#,"Cls # of proximal femur, pertrochanteric section, NOS",S302z,S302z00,208548007,319118015,NA,32,S302z00#
+S303.#,"Open fracture of proximal femur, pertrochanteric",319128012#,"Open fracture of proximal femur, pertrochanteric",S303,S303.00,208555009,319128012,NA,32,S303.00#
+S3030#,"Opn # proximal femur trochanteric section, unspecified",265421000006113#,"Open # of proximal femur, trochanteric section, unspecified",S3030,S303000,5913000,10843018,NA,32,S303000#
+S3030#,"Opn # proximal femur trochanteric section, unspecified",411309014#,"Open fracture of femur, lesser trochanter",S3030-2,S303012,275342003,411309014,NA,32,S303012#
+S3030#,"Opn # proximal femur trochanteric section, unspecified",411310016#,"Open fracture of femur, greater trochanter",S3030-1,S303011,275343008,411310016,NA,32,S303011#
+S3031#,"Open fracture proximal femur, intertrochanteric, two part",319133011#,"Open fracture proximal femur, intertrochanteric, two part",S3031,S303100,208557001,319133011,NA,32,S303100#
+S3032#,"Open fracture proximal femur, subtrochanteric",319134017#,"Open fracture proximal femur, subtrochanteric",S3032,S303200,208558006,319134017,NA,32,S303200#
+S3033#,"Opn # proximal femur, intertrochanteric, comminuted",319135016#,"Open fracture proximal femur, intertrochanteric, comminuted",S3033,S303300,208559003,319135016,NA,32,S303300#
+S3034#,"Open fracture of femur, intertrochanteric",258471000006114#,Open intertrochanteric fracture,S3034,S303400,26938002,45058017,NA,32,S303400#
+S303z#,"Opn # of proximal femur, pertrochanteric section NOS",258191000006119#,"Open fracture of proximal femur, pertrochanteric, NOS",S303z,S303z00,208555009,319128012,NA,32,S303z00#
+S304.#,Peritrochanteric fracture,319138019#,Pertrochanteric fracture,S304,S304.00,208562000,319138019,NA,32,S304.00#
+S305.#,Subtrochanteric fracture,391392015#,Subtrochanteric fracture,S305,S305.00,263229001,391392015,NA,32,S305.00#
+S30w.#,Closed fracture of unspecified proximal femur,319140012#,Closed fracture of femur,S30w,S30w.00,25415003,42617018,NA,32,S30w.00#
+S30x.#,Open fracture of unspecified proximal femur,319141011#,Open fracture of femur,S30x,S30x.00,28576007,47832017,NA,32,S30x.00#
+S30y.#,Closed fracture of neck of femur NOS,391393013#,Hip fracture NOS,S30y-1,S30y.11,263225007,391384012,NA,32,S30y.11#
+S30y.#,Closed fracture of neck of femur NOS,402874017#,Closed fracture of neck of femur,S30y,S30y.00,359820003,475220015,NA,32,S30y.00#
+S30z.#,Open fracture of neck of femur NOS,319145019#,Open fracture of neck of femur,S30z,S30z.00,361119006,477343011,NA,32,S30z.00#
+S31..#,Other fracture of femur,895701000006117#,#Lower end of femur,S31-97,S31..97,605161000000102,895701000006117,NA,32,S31..97#
+S31..#,Other fracture of femur,895711000006119#,#Shaft of femur,S31-98,S31..98,605161000000102,895711000006119,NA,32,S31..98#
+S31..#,Other fracture of femur,895721000006110#,#Femur,S31-99,S31..99,605161000000102,895721000006110,NA,32,S31..99#
+S31..#,Other fracture of femur,319146018#,Fracture of femur,S31,S31..00,71620000,118977010,NA,32,S31..00#
+S31..#,Other fracture of femur,991061000006112#,#Femur NOS,S31-96,S31..96,605161000000102,991061000006112,NA,32,S31..96#
+S310.#,"Closed fracture of femur, shaft or unspecified part",319147010#,Closed fracture of shaft of femur,S310,S310.00,26442006,44288010,NA,32,S310.00#
+S3100#,"Closed fracture of femur, unspecified part",391382011#,Upper leg fracture NOS,S3100-2,S310012,71620000,118977010,NA,32,S310012#
+S3100#,"Closed fracture of femur, unspecified part",105741000006114#,Thigh fracture NOS,S3100-1,S310011,71620000,118977010,NA,32,S310011#
+S3100#,"Closed fracture of femur, unspecified part",402875016#,"Closed fracture of femur, unspecified part",S3100,S310000,25415003,42617018,NA,32,S310000#
+S3101#,Closed fracture shaft of femur,1225039011#,Closed fracture shaft of femur,S3101,S310100,26442006,1225039011,NA,32,S310100#
+S310z#,"Closed fracture of shaft or unspecified part, NOS",319152017#,"Closed fracture of shaft or unspecified part, NOS",S310z,S310z00,71620000,118977010,NA,32,S310z00#
+S311.#,"Open fracture of femur, shaft or unspecified part",319153010#,"Open fracture of femur, shaft or unspecified part",S311,S311.00,71620000,118977010,NA,32,S311.00#
+S3110#,"Open fracture of femur, unspecified part",319154016#,"Open fracture of femur, unspecified part",S3110,S311000,71620000,118977010,NA,32,S311000#
+S3111#,Open fracture shaft of femur,1232781014#,Open fracture shaft of femur,S3111,S311100,6628008,1232781014,NA,32,S311100#
+S311z#,"Open fracture of shaft or unspecified part, NOS",319155015#,"Open fracture of femur, shaft or unspecified part, NOS",S311z,S311z00,71620000,118977010,NA,32,S311z00#
+S312.#,Closed fracture distal femur,391397014#,"Closed fracture of femur, distal end",S312-1,S312.11,263233008,391397014,NA,32,S312.11#
+S312.#,Closed fracture distal femur,222331000000113#,Closed fracture of distal end of femur,S312,S312.00,263233008,2536032014,NA,32,S312.00#
+S3120#,"Closed fracture distal femur, unspecified",319159014#,"Closed fracture of distal femur, unspecified",S3120,S312000,263233008,391397014,NA,32,S312000#
+S3121#,"Closed fracture of femoral condyle, unspecified",319160016#,Closed fracture of femoral condyle of femur,S3121,S312100,66926007,111159013,NA,32,S312100#
+S3122#,"Closed fracture of femur, lower epiphysis",319161017#,"Closed fracture of femur, lower epiphysis",S3122,S312200,208578003,319161017,NA,32,S312200#
+S3123#,"Closed fracture distal femur, supracondylar",1227400011#,"Closed fracture distal femur, supracondylar",S3123,S312300,30905007,1227400011,NA,32,S312300#
+S3124#,"Closed fracture distal femur, medial condyle",319162012#,"Closed fracture distal femur, medial condyle",S3124,S312400,208579006,319162012,NA,32,S312400#
+S3125#,"Closed fracture distal femur, lateral condyle",319163019#,"Closed fracture distal femur, lateral condyle",S3125,S312500,208580009,319163019,NA,32,S312500#
+S3126#,"Closed fracture distal femur, bicondylar (T-Y fracture)",319164013#,"Closed fracture distal femur, bicondylar (T-Y fracture)",S3126,S312600,208581008,319164013,NA,32,S312600#
+S312x#,"Closed fracture distal femur, comminuted/intrarticular",319165014#,"Closed fracture distal femur, comminuted/intra-articular",S312x,S312x00,208582001,319165014,NA,32,S312x00#
+S312z#,Closed fracture of distal femur not otherwise specified,319166010#,Closed fracture of distal femur not otherwise specified,S312z,S312z00,263233008,391397014,NA,32,S312z00#
+S313.#,Open fracture distal femur,222341000000116#,Open fracture distal femur,S313,S313.00,263234002,391398016,NA,32,S313.00#
+S313.#,Open fracture distal femur,391398016#,"Open fracture of femur, distal end",S313-1,S313.11,263234002,391398016,NA,32,S313.11#
+S3130#,"Open fracture distal femur, unspecified",319170019#,"Open fracture distal femur, unspecified",S3130,S313000,263234002,391398016,NA,32,S313000#
+S3131#,"Open fracture of femoral condyle, unspecified",319171015#,Open fracture of femoral condyle of femur,S3131,S313100,19652000,33084011,NA,32,S313100#
+S3132#,"Open fracture of femur, lower epiphysis",319172010#,"Open fracture of femur, lower epiphysis",S3132,S313200,208587007,319172010,NA,32,S313200#
+S3133#,"Open fracture distal femur, supracondylar",1234424019#,"Open fracture distal femur, supracondylar",S3133,S313300,79978005,1234424019,NA,32,S313300#
+S3134#,"Open fracture distal femur, medial condyle",319173017#,"Open fracture distal femur, medial condyle",S3134,S313400,208588002,319173017,NA,32,S313400#
+S3135#,"Open fracture distal femur, lateral condyle",319174011#,"Open fracture distal femur, lateral condyle",S3135,S313500,208589005,319174011,NA,32,S313500#
+S3136#,"Open fracture distal femur, bicondylar (T-Y fracture)",319175012#,"Open fracture distal femur, bicondylar (T-Y fracture)",S3136,S313600,208590001,319175012,NA,32,S313600#
+S313x#,"Open fracture distal femur, comminuted/intrarticular",319176013#,"Open fracture distal femur, comminuted/intra-articular",S313x,S313x00,208591002,319176013,NA,32,S313x00#
+S313z#,Open fracture of distal femur not otherwise specified,319177016#,Open fracture of distal femur not otherwise specified,S313z,S313z00,263234002,391398016,NA,32,S313z00#
+S314.#,Fracture of shaft of femur,989541000006118#,#Shaft of femur,S314-99,S314.99,54441004,989541000006118,NA,32,S314.99#
+S314.#,Fracture of shaft of femur,90489010#,Fracture of shaft of femur,S314,S314.00,54441004,90489010,NA,32,S314.00#
+S315.#,Fracture of lower end of femur,391396017#,Fracture of lower end of femur,S315,S315.00,263232003,391396017,NA,32,S315.00#
+S315.#,Fracture of lower end of femur,989551000006116#,#Lower end of femur,S315-99,S315.99,263232003,989551000006116,NA,32,S315.99#
+S31z.#,"Fracture of femur, NOS",895731000006113#,#Femur NOS,S31z-99,S31z.99,592821000000104,895731000006113,NA,32,S31z.99#
+S31z.#,"Fracture of femur, NOS",319180015#,"Fracture of femur, NOS",S31z,S31z.00,71620000,118978017,NA,32,S31z.00#
+S32..#,Fracture of patella,85039010#,Fracture of patella,S32,S32..00,51037009,85039010,NA,32,S32..00#
+S32..#,Fracture of patella,895741000006115#,#Patella,S32-99,S32..99,51037009,895741000006115,NA,32,S32..99#
+S32..#,Fracture of patella,291981000006119#,#Knee-cap,S32-1,S32..11,51037009,85039010,NA,32,S32..11#
+S320.#,Closed fracture of patella,563861000006112#,Closed fracture of patella,S320,S320.00,80756009,133953010,NA,32,S320.00#
+S3200#,"Closed fracture patella, transverse",319181016#,"Closed fracture patella, transverse",S3200,S320000,208596007,319181016,NA,32,S320000#
+S3201#,"Closed fracture patella, proximal pole",319182011#,"Closed fracture patella, proximal pole",S3201,S320100,208597003,319182011,NA,32,S320100#
+S3202#,"Closed fracture patella, distal pole",319183018#,"Closed fracture patella, distal pole",S3202,S320200,208598008,319183018,NA,32,S320200#
+S3203#,"Closed fracture patella, vertical",319186014#,"Closed fracture patella, vertical",S3203,S320300,208600002,319186014,NA,32,S320300#
+S3204#,"Closed fracture patella, comminuted (stellate)",319188010#,"Closed fracture patella, comminuted (stellate)",S3204,S320400,208601003,319188010,NA,32,S320400#
+S321.#,Open fracture of patella,257771000006115#,Open fracture of patella,S321,S321.00,111643005,178870011,NA,32,S321.00#
+S3210#,"Open fracture patella, transverse",319189019#,"Open fracture patella, transverse",S3210,S321000,208602005,319189019,NA,32,S321000#
+S3211#,"Open fracture patella, proximal pole",319190011#,"Open fracture patella, proximal pole",S3211,S321100,208603000,319190011,NA,32,S321100#
+S3212#,"Open fracture patella, distal pole",319191010#,"Open fracture patella, distal pole",S3212,S321200,208604006,319191010,NA,32,S321200#
+S3213#,"Open fracture patella, vertical",319192015#,"Open fracture patella, vertical",S3213,S321300,208605007,319192015,NA,32,S321300#
+S3214#,"Open fracture patella, comminuted (stellate)",319193013#,"Open fracture patella, comminuted (stellate)",S3214,S321400,208606008,319193013,NA,32,S321400#
+S32z.#,Fracture of patella NOS,319194019#,"Fracture of patella, NOS",S32z,S32z.00,51037009,85039010,NA,32,S32z.00#
+S33..#,Fracture of tibia and fibula,895751000006118#,#Tibia/fibula - shaft,S33-95,S33..95,414293001,895751000006118,NA,32,S33..95#
+S33..#,Fracture of tibia and fibula,895781000006114#,#Tibia alone,S33-98,S33..98,414293001,895781000006114,NA,32,S33..98#
+S33..#,Fracture of tibia and fibula,895791000006112#,#Tibia/fibula,S33-99,S33..99,414293001,895791000006112,NA,32,S33..99#
+S33..#,Fracture of tibia and fibula,991701000006114#,#Tibia/fibula NOS,S33-94,S33..94,414293001,991701000006114,NA,32,S33..94#
+S33..#,Fracture of tibia and fibula,2533505017#,Fracture of tibia AND fibula,S33,S33..00,414293001,2533505017,NA,32,S33..00#
+S33..#,Fracture of tibia and fibula,895761000006116#,#Tibia/fibula - upper end,S33-96,S33..96,414293001,895761000006116,NA,32,S33..96#
+S33..#,Fracture of tibia and fibula,895771000006111#,#Fibula alone,S33-97,S33..97,414293001,895771000006111,NA,32,S33..97#
+S330.#,"Closed fracture of tibia and fibula, proximal",564011000006117#,"Closed fracture of tibia and fibula, proximal",S330,S330.00,111644004,364017010,NA,32,S330.00#
+S3300#,Closed fracture of proximal tibia,563891000006116#,Closed fracture of upper end of tibia,S3300,S330000,23900009,40149012,NA,32,S330000#
+S3300#,Closed fracture of proximal tibia,564111000006118#,Closed fracture of condyle of tibia,S3300-1,S330011,47848000,79735012,NA,32,S330011#
+S3300#,Closed fracture of proximal tibia,391401018#,Closed fracture of tibial tuberosity,S3300-2,S330012,263237009,391401018,NA,32,S330012#
+S3301#,Closed fracture of proximal fibula,1231985013#,Closed fracture proximal fibula,S3301,S330100,59639009,1231985013,NA,32,S330100#
+S3302#,"Closed fracture of proximal tibia and fibula, proximal",364017010#,"Closed fracture of tibia and fibula, proximal",S3302,S330200,111644004,364017010,NA,32,S330200#
+S3303#,"Closed fracture of proximal tibia, medial condyle (plateau)",319200010#,"Closed fracture proximal tibia, medial condyle (plateau)",S3303,S330300,208610006,319200010,NA,32,S330300#
+S3304#,"Closed fracture of proximal tibia, lateral condyle (plateau)",319201014#,"Closed fracture proximal tibia, lateral condyle (plateau)",S3304,S330400,208611005,319201014,NA,32,S330400#
+S3305#,"Closed fracture proximal tibia, bicondylar",319202019#,"Closed fracture proximal tibia, bicondylar",S3305,S330500,208612003,319202019,NA,32,S330500#
+S3306#,"Closed fracture spine, tibia",319203012#,"Closed fracture spine, tibia",S3306,S330600,208613008,3698576018,NA,32,S330600#
+S3307#,"Closed fracture tubercle, tibia",319204018#,"Closed fracture tubercle, tibia",S3307,S330700,263237009,391401018,NA,32,S330700#
+S3308#,"Closed fracture fibula, head",1225880017#,"Closed fracture fibula, head",S3308,S330800,28359007,1225880017,NA,32,S330800#
+S3309#,"Closed fracture fibula, neck",319205017#,"Closed fracture fibula, neck",S3309,S330900,208615001,319205017,NA,32,S330900#
+S330z#,"Closed fracture of tibia and fibula, proximal NOS",564031000006111#,"Closed fracture of tibia and fibula, proximal NOS",S330z,S330z00,69166006,114882014,NA,32,S330z00#
+S331.#,"Open fracture of tibia and fibula, proximal",257921000006119#,Open fracture of upper end of lower leg,S331,S331.00,9344009,16393016,NA,32,S331.00#
+S3310#,Open fracture of proximal tibia,257801000006118#,Open fracture proximal tibia,S3310,S331000,111645003,2969178012,NA,32,S331000#
+S3310#,Open fracture of proximal tibia,391402013#,Open fracture of tibial tuberosity,S3310-2,S331012,263238004,391402013,NA,32,S331012#
+S3310#,Open fracture of proximal tibia,391403015#,Open fracture of tibial condyles,S3310-1,S331011,263239007,391403015,NA,32,S331011#
+S3311#,Open fracture of proximal fibula,1231972010#,Open fracture proximal fibula,S3311,S331100,59556008,1231972010,NA,32,S331100#
+S3312#,"Open fracture of proximal tibia and fibula, proximal",257931000006116#,"Open fracture of tibia and fibula, proximal",S3312,S331200,9344009,16393016,NA,32,S331200#
+S3313#,"Open fracture of proximal tibia, medial condyle (plateau)",319212014#,"Open fracture proximal tibia, medial condyle (plateau)",S3313,S331300,208619007,319212014,NA,32,S331300#
+S3314#,"Open fracture of proximal tibia, lateral condyle (plateau)",319213016#,"Open fracture proximal tibia, lateral condyle (plateau)",S3314,S331400,208620001,319213016,NA,32,S331400#
+S3315#,"Open fracture proximal tibia, bicondylar",319214010#,"Open fracture proximal tibia, bicondylar",S3315,S331500,208621002,319214010,NA,32,S331500#
+S3316#,"Open fracture spine, tibia",319215011#,"Open fracture spine, tibia",S3316,S331600,208622009,3698581010,NA,32,S331600#
+S3317#,"Open fracture tubercle, tibia",319216012#,"Open fracture tubercle, tibia",S3317,S331700,263238004,391402013,NA,32,S331700#
+S3318#,"Open fracture fibula, head",319217015#,"Open fracture fibula, head",S3318,S331800,208624005,319217015,NA,32,S331800#
+S3319#,"Open fracture fibula, neck",319218013#,"Open fracture fibula, neck",S3319,S331900,208625006,319218013,NA,32,S331900#
+S331z#,"Open fracture of tibia and fibula, proximal NOS",319219017#,"Open fracture of tibia and fibula, proximal NOS",S331z,S331z00,9344009,16393016,NA,32,S331z00#
+S332.#,"Closed fracture of tibia and fibula, shaft",564101000006116#,"Closed fracture of tibia or fibula, shaft",S332,S332.00,208627003,319220011,NA,32,S332.00#
+S3320#,Closed fracture shaft of tibia,564861000006114#,Closed fracture of shaft of tibia,S3320,S332000,28012007,46894013,NA,32,S332000#
+S3321#,Closed fracture of shaft of fibula,1234168013#,Closed fracture shaft of fibula,S3321,S332100,77803008,1234168013,NA,32,S332100#
+S3322#,"Closed fracture of tibia and fibula, shaft",989571000006114#,#Tibia/fibula - shaft,S3322-99,S332299,208629000,989571000006114,NA,32,S332299#
+S3322#,"Closed fracture of tibia and fibula, shaft",319222015#,"Closed fracture of tibia and fibula, shaft",S3322,S332200,208629000,319222015,NA,32,S332200#
+S332z#,"Closed fracture of tibia and fibula, shaft, NOS",319223013#,"Closed fracture of tibia and fibula, shaft, NOS",S332z,S332z00,208629000,319222015,NA,32,S332z00#
+S333.#,"Open fracture of tibia and fibula, shaft",257211000006119#,"Open fracture of tibia or fibula, shaft",S333,S333.00,208631009,319224019,NA,32,S333.00#
+S3330#,Open fracture shaft of tibia,1222720019#,Open fracture shaft of tibia,S3330,S333000,22234005,1222720019,NA,32,S333000#
+S3331#,Open fracture of shaft of fibula,1219675016#,Open fracture shaft of fibula,S3331,S333100,111646002,1219675016,NA,32,S333100#
+S3332#,"Open fracture of tibia and fibula, shaft",319225018#,"Open fracture of tibia and fibula, shaft",S3332,S333200,208632002,319225018,NA,32,S333200#
+S333z#,"Open fracture of tibia and fibula, shaft, NOS",319226017#,"Open fracture of tibia and fibula, shaft, NOS",S333z,S333z00,208632002,319225018,NA,32,S333z00#
+S334.#,Closed fracture distal tibia,319227014#,Closed fracture distal tibia,S334,S334.00,208634001,319227014,NA,32,S334.00#
+S3340#,"Closed fracture distal tibia, extra-articular",319228016#,"Closed fracture distal tibia, extra-articular",S3340,S334000,208635000,319228016,NA,32,S334000#
+S3341#,"Closed fracture distal tibia, intra-articualr",319229012#,"Closed fracture distal tibia, intra-articular",S3341,S334100,208636004,319229012,NA,32,S334100#
+S335.#,Open fracture distal tibia,319230019#,Open fracture distal tibia,S335,S335.00,208637008,319230019,NA,32,S335.00#
+S3350#,"Open fracture distal tibia, extra-articular",319231015#,"Open fracture distal tibia, extra-articular",S3350,S335000,208638003,319231015,NA,32,S335000#
+S3351#,"Open fracture distal tibia, intra-articualr",319232010#,"Open fracture distal tibia, intra-articular",S3351,S335100,208639006,319232010,NA,32,S335100#
+S336.#,Fracture of upper end of tibia,34376013#,Fracture of upper end of tibia,S336,S336.00,20433007,34376013,NA,32,S336.00#
+S3360#,Fracture tibial plateau,1756451000006110#,Fracture of tibial plateau,S3360,S336000,428257007,2694844010,NA,32,S336000#
+S337.#,Fracture of shaft of tibia,12536011#,Fracture of shaft of tibia,S337,S337.00,6990005,12536011,NA,32,S337.00#
+S337.#,Fracture of shaft of tibia,989561000006119#,#Tibia alone,S337-99,S337.99,6990005,989561000006119,NA,32,S337.99#
+S338.#,Fracture of lower end of tibia,415489016#,Fracture of lower end of tibia,S338,S338.00,278537006,415489016,NA,32,S338.00#
+S339.#,Fracture of fibula alone,792711000006112#,Fracture of fibula,S339,S339.00,75591007,125543012,NA,32,S339.00#
+S3390#,Closed fracture of distal fibula,451471011#,Closed fracture of distal fibula,S3390,S339000,308153009,451471011,NA,32,S339000#
+S3391#,Open fracture of distal fibula,451079015#,Open fracture of distal fibula,S3391,S339100,307727005,451079015,NA,32,S339100#
+S33A.#,Fracture of tibia,53428014#,Fracture of tibia,S33A,S33A.00,31978002,53428014,NA,32,S33A.00#
+S33B.#,Open fracture of distal tibia and fibula,1175111000000113#,Open fracture of distal tibia and fibula,S33B,S33B.00,445311003,1666481000000110,NA,32,S33B.00#
+S33C.#,Closed fracture of distal tibia and fibula,1175081000000117#,Closed fracture of distal tibia and fibula,S33C,S33C.00,445410003,1666471000000113,NA,32,S33C.00#
+S33x.#,"Closed fracture of tibia and fibula, unspecified part NOS",564071000006114#,Closed fracture of tibia AND fibula,S33x,S33x.00,413877007,2533502019,NA,32,S33x.00#
+S33x.#,"Closed fracture of tibia and fibula, unspecified part NOS",391381016#,Lower leg fracture NOS,S33x-1,S33x.11,414292006,2533504018,NA,32,S33x.11#
+S33x0#,"Closed fracture of tibia, unspecified part, NOS",319241017#,Closed fracture of tibia,S33x0,S33x000,447139008,2883830012,NA,32,S33x000#
+S33x1#,"Closed fracture of fibula, unspecified part, NOS",319242012#,Closed fracture of fibula,S33x1,S33x100,447395005,2883200010,NA,32,S33x100#
+S33x2#,"Closed fracture of tibia and fibula, unspecified part",319243019#,"Closed fracture of tibia and fibula, unspecified part",S33x2,S33x200,413877007,2533502019,NA,32,S33x200#
+S33xz#,"Closed fracture of tibia and fibula, unspecified part, NOS",402876015#,"Closed fracture of tibia and fibula, unspecified part, NOS",S33xz,S33xz00,413877007,2533502019,NA,32,S33xz00#
+S33y.#,"Open fracture of tibia and fibula, unspecified part NOS",257181000006118#,"Open fracture of tibia and fibula, unspecified part, NOS",S33y,S33y.00,46866001,78112010,NA,32,S33y.00#
+S33y0#,"Open fracture of tibia, unspecified part, NOS",319246010#,Open fracture of tibia,S33y0,S33y000,446979005,2882648014,NA,32,S33y000#
+S33y1#,"Open fracture of fibula, unspecified part, NOS",319247018#,"Open fracture of fibula, unspecified part, NOS",S33y1,S33y100,75591007,125543012,NA,32,S33y100#
+S33y2#,"Open fracture of tibia and fibula, unspecified part",319248011#,Open fracture of tibia AND fibula,S33y2,S33y200,414943006,2533506016,NA,32,S33y200#
+S33yz#,"Open fracture of tibia and fibula, unspecified part, NOS",319249015#,"Open fracture of tibia and fibula, unspecified part, NOS",S33yz,S33yz00,46866001,78112010,NA,32,S33yz00#
+S33z.#,"Fracture of tibia and fibula, NOS",895801000006113#,#Tibia/fibula NOS,S33z-99,S33z.99,592951000000104,895801000006113,NA,32,S33z.99#
+S33z.#,"Fracture of tibia and fibula, NOS",319250015#,"Fracture of tibia and fibula, NOS",S33z,S33z.00,414293001,2533505017,NA,32,S33z.00#
+S34..#,Fracture of ankle,895811000006111#,#Ankle - trimalleolar,S34-94,S34..94,16114001,895811000006111,NA,32,S34..94#
+S34..#,Fracture of ankle,895841000006110#,#Ankle - medial malleolus,S34-97,S34..97,16114001,895841000006110,NA,32,S34..97#
+S34..#,Fracture of ankle,895861000006114#,Fracture Left Ankle,S34-99,S34..99,16114001,895861000006114,NA,32,S34..99#
+S34..#,Fracture of ankle,27272011#,Fracture of ankle,S34,S34..00,16114001,27272011,NA,32,S34..00#
+S34..#,Fracture of ankle,991041000006113#,#Ankle - NOS,S34-93,S34..93,16114001,991041000006113,NA,32,S34..93#
+S34..#,Fracture of ankle,895821000006115#,#Ankle - bimalleolar - Potts #,S34-95,S34..95,16114001,895821000006115,NA,32,S34..95#
+S34..#,Fracture of ankle,895851000006112#,#Ankle,S34-98,S34..98,16114001,895851000006112,NA,32,S34..98#
+S34..#,Fracture of ankle,895831000006117#,#Ankle - lateral malleolus,S34-96,S34..96,16114001,895831000006117,NA,32,S34..96#
+S340.#,"Closed fracture ankle, medial malleolus",1221187014#,"Closed fracture ankle, medial malleolus",S340,S340.00,15385006,1221187014,NA,32,S340.00#
+S340.#,"Closed fracture ankle, medial malleolus",989581000006112#,#Ankle - medial malleolus,S340-99,S340.99,15385006,989581000006112,NA,32,S340.99#
+S341.#,"Open fracture ankle, medial malleolus",1231346013#,"Open fracture ankle, medial malleolus",S341,S341.00,54530004,1231346013,NA,32,S341.00#
+S342.#,"Closed fracture ankle, lateral malleolus",1228159014#,"Closed fracture ankle, lateral malleolus",S342,S342.00,34268009,1228159014,NA,32,S342.00#
+S342.#,"Closed fracture ankle, lateral malleolus",989591000006110#,#Ankle - lateral malleolus,S342-99,S342.99,34268009,989591000006110,NA,32,S342.99#
+S3420#,"Closed fracture ankle, lateral malleolus, low",319252011#,"Closed fracture ankle, lateral malleolus, low",S3420,S342000,208657007,319252011,NA,32,S342000#
+S3421#,"Closed fracture ankle, lateral malleolus, high",319253018#,"Closed fracture ankle, lateral malleolus, high",S3421,S342100,208658002,319253018,NA,32,S342100#
+S343.#,"Open fracture ankle, lateral malleolus",1230391011#,"Open fracture ankle, lateral malleolus",S343,S343.00,4673003,1230391011,NA,32,S343.00#
+S3230#,"Open fracture ankle, lateral malleolus, low",NA#,NA,NA,NA,NA,NA,NA,NA,S3230#
+S3431#,"Open fracture ankle, lateral malleolus, high",319255013#,"Open fracture ankle, lateral malleolus, high",S3431,S343100,208660000,319255013,NA,32,S343100#
+S344.#,"Closed fracture ankle, bimalleolar",632621000006112#,"Dupuytren's fracture, fibula",S344-1,S344.11,25899002,43394011,NA,32,S344.11#
+S344.#,"Closed fracture ankle, bimalleolar",222361000000115#,Pott's fracture of ankle,S344-2,S344.12,263244000,391410014,NA,32,S344.12#
+S344.#,"Closed fracture ankle, bimalleolar",561441000006114#,Closed bimalleolar fracture,S344,S344.00,25899002,43394011,NA,32,S344.00#
+S344.#,"Closed fracture ankle, bimalleolar",989601000006119#,#Ankle - bimalleolar - Potts #,S344-99,S344.99,263244000,989601000006119,NA,32,S344.99#
+S3440#,"Closed fracture ankle, bimalleolar, low fibular fracture",319261011#,"Closed fracture ankle, bimalleolar, low fibular fracture",S3440,S344000,208662008,319261011,NA,32,S344000#
+S3441#,"Closed fracture ankle, bimalleolar, high fibular fracture",319262016#,"Closed fracture ankle, bimalleolar, high fibular fracture",S3441,S344100,208663003,319262016,NA,32,S344100#
+S345.#,"Open fracture ankle, bimalleolar",1225141010#,"Open fracture ankle, bimalleolar",S345,S345.00,26908008,1225141010,NA,32,S345.00#
+S3450#,"Open fracture ankle, bimalleolar, low fibular fracture",319263014#,"Open fracture ankle, bimalleolar, low fibular fracture",S3450,S345000,208664009,319263014,NA,32,S345000#
+S3451#,"Open fracture ankle, bimalleolar, high fibular fracture",319264015#,"Open fracture ankle, bimalleolar, high fibular fracture",S3451,S345100,208665005,319264015,NA,32,S345100#
+S346.#,"Closed fracture ankle, triimalleolar",989611000006116#,#Ankle - trimalleolar,S346-99,S346.99,6698000,989611000006116,NA,32,S346.99#
+S346.#,"Closed fracture ankle, triimalleolar",1232867019#,"Closed fracture ankle, trimalleolar",S346,S346.00,6698000,1232867019,NA,32,S346.00#
+S3460#,"Closed fracture ankle, triimalleolar, low fibular fracture",319265019#,"Closed fracture ankle, trimalleolar, low fibular fracture",S3460,S346000,208666006,319265019,NA,32,S346000#
+S3461#,"Closed fracture ankle, trimalleolar, high fibular fracture",319266018#,"Closed fracture ankle, trimalleolar, high fibular fracture",S3461,S346100,208667002,319266018,NA,32,S346100#
+S347.#,"Open fracture ankle, trimalleolar",1235556018#,"Open fracture ankle, trimalleolar",S347,S347.00,90338005,1235556018,NA,32,S347.00#
+S3470#,"Open fracture ankle, trimalleolar, low fibular fracture",319267010#,"Open fracture ankle, trimalleolar, low fibular fracture",S3470,S347000,208668007,319267010,NA,32,S347000#
+S3471#,"Open fracture ankle, trimalleolar, high fibular fracture",319268017#,"Open fracture ankle, trimalleolar, high fibular fracture",S3471,S347100,208669004,319268017,NA,32,S347100#
+S348.#,Fracture of medial malleolus,419562016#,Fracture of medial malleolus,S348,S348.00,281531008,419562016,NA,32,S348.00#
+S349.#,Fracture of lateral malleolus,419567010#,Fracture of lateral malleolus,S349,S349.00,281535004,419567010,NA,32,S349.00#
+S34x.#,"Closed fracture of ankle, unspecified",319271013#,Closed fracture of ankle,S34x,S34x.00,42188001,70403018,NA,32,S34x.00#
+S34y.#,"Open fracture of ankle, unspecified",319272018#,Open fracture of ankle,S34y,S34y.00,48187004,80287011,NA,32,S34y.00#
+S34z.#,"Fracture of ankle, NOS",319273011#,"Fracture of ankle, NOS",S34z,S34z.00,16114001,27273018,NA,32,S34z.00#
+S34z.#,"Fracture of ankle, NOS",895871000006119#,#Ankle - NOS,S34z-99,S34z.99,592981000000105,895871000006119,NA,32,S34z.99#
+S3521#,Closed fracture of talus,132104018#,Closed fracture of talus,S3521,S352100,79626009,132104018,NA,32,S352100#
+S3521#,Closed fracture of talus,132103012#,Closed fracture of astragalus,S3521-1,S352111,79626009,132103012,NA,32,S352111#
+S3528#,"Closed fracture talus, head",319293015#,"Closed fracture talus, head",S3528,S352800,208684008,319293015,NA,32,S352800#
+S3529#,"Closed fracture talus, neck",319294014#,"Closed fracture talus, neck",S3529,S352900,208685009,319294014,NA,32,S352900#
+S352A#,"Closed fracture talus, body",319295010#,"Closed fracture talus, body",S352A,S352A00,208686005,319295010,NA,32,S352A00#
+S352G#,"Closed talus fractures, multple",319301011#,"Closed tarsal fractures, multiple",S352G,S352G00,208692004,319301011,NA,32,S352G00#
+S3531#,Open fracture of talus,6700013#,Open fracture of astragalus,S3531-1,S353111,3381004,6700013,NA,32,S353111#
+S3531#,Open fracture of talus,6701012#,Open fracture of talus,S3531,S353100,3381004,6701012,NA,32,S353100#
+S3538#,"Open fracture talus, head",319305019#,"Open fracture talus, head",S3538,S353800,208696001,319305019,NA,32,S353800#
+S3539#,"Open fracture talus, neck",319306018#,"Open fracture talus, neck",S3539,S353900,208697005,319306018,NA,32,S353900#
+S353A#,"Open fracture talus, body",319307010#,"Open fracture talus, body",S353A,S353A00,208698000,319307010,NA,32,S353A00#
+S353G#,"Open talus fractures, multple",319313018#,"Open tarsal fractures, multiple",S353G,S353G00,208704000,319313018,NA,32,S353G00#
+S355.#,Fracture of talus,391413011#,Fracture of talus,S355,S355.00,263246003,391413011,NA,32,S355.00#
+S37..#,"Fracture of lower limb, level unspecified",319333019#,Fracture of lower limb,S37,S37..00,46866001,78112010,NA,32,S37..00#
+S370.#,"Closed Fracture of lower limb, level unspecified",455453011#,"Closed fracture of lower limb, level unspecified",S370,S370.00,46866001,78112010,NA,32,S370.00#
+S371.#,"Open Fracture of lower limb, level unspecified",455454017#,"Open fracture of lower limb, level unspecified",S371,S371.00,46866001,78112010,NA,32,S371.00#
+S3X..#,"Fracture of lower leg, part unspecified",792901000006112#,"Fracture of lower leg, part unspecified",S3X,S3X..00,414292006,2533504018,NA,32,S3X..00#
+S3x..#,"Other, multiple and ill defined fractures of lower limb",319337018#,Fractures of multiple bones of lower limb,S3x,S3x..00,32805004,54758014,NA,32,S3x..00#
+S3x0.#,"Other, multiple and ill defined fractures of closed lower limb",253061000006117#,Closed fractures of multiple bones of lower limb,S3x0,S3x0.00,64569008,107298010,NA,32,S3x0.00#
+S3x1.#,"Other, multiple and ill defined fractures of open lower limb",319339015#,Open fracture of multiple bones of lower limb,S3x1,S3x1.00,22225000,37308015,NA,32,S3x1.00#
+S3x2.#,Multiple fractures of femur,319340018#,Multiple fractures of femur,S3x2,S3x2.00,208731002,319340018,NA,32,S3x2.00#
+S3x3.#,Multiple fractures of lower leg,319341019#,Multiple fractures of lower leg,S3x3,S3x3.00,208732009,319341019,NA,32,S3x3.00#
+S3xz.#,Other multiple fractures of lower limb NOS,319343016#,"Other, multiple and ill-defined fractures of lower limb NOS",S3xz,S3xz.00,46866001,78112010,NA,32,S3xz.00#
+S3y..#,"Multiple # both lgs, leg and arm, leg and rib and sternum",696431000006119#,"Multiple #both legs, leg + arm ,leg + rib + sternum",S3y,S3y..00,46866001,78112010,NA,32,S3y..00#
+S3y..#,"Multiple # both lgs, leg and arm, leg and rib and sternum",895911000006116#,Multiple fractures,S3y-99,S3y..99,46866001,895911000006116,NA,32,S3y..99#
+S3y0.#,"Multiple closed # both lgs, leg and arm, leg and rib and sternum",696351000006119#,"Multiple closed #both legs, leg + arm, leg + rib + sternum",S3y0,S3y0.00,52603002,87542010,NA,32,S3y0.00#
+S3y1.#,"Multiple open # both lgs, leg and arm, leg and rib and sternum",695611000006115#,"Multiple open #both legs, leg + arm, leg + rib + sternum",S3y1,S3y1.00,50531009,84170010,NA,32,S3y1.00#
+S3yz.#,"Multiple # both lgs, leg and arm, leg and rib and sternum NOS",696441000006112#,"Multiple #both legs, leg + arm, leg + rib + sternum NOS",S3yz,S3yz.00,46866001,78112010,NA,32,S3yz.00#
+7K1L4#,Closed reduction of fracture of hip,277185016#,Closed reduction of fracture of hip,7K1L4,7K1L400,179159005,277185016,NA,32,7K1L400#
+S4E..#,Fracture-dislocation or subluxation hip,793901000006115#,Fracture dislocation or subluxation hip,S4E,S4E..00,209334003,320032013,NA,32,S4E..00#
+S4E0.#,"Closed fracture-dislocation, hip joint",565451000006113#,"Closed fracture dislocation, hip joint",S4E0,S4E0.00,209335002,320033015,NA,32,S4E0.00#
+S4E1.#,"Open fracture-dislocation, hip joint",256101000006113#,"Open fracture-dislocation, hip joint",S4E1,S4E1.00,209336001,320034014,NA,32,S4E1.00#
+S4E2.#,"Closed fracture-subluxation, hip joint",565801000006112#,"Closed fracture-subluxation, hip joint",S4E2,S4E2.00,209337005,320035010,NA,32,S4E2.00#
+S4E3.#,"Open fracture-subluxation, hip joint",255691000006116#,"Open fracture-subluxation, hip joint",S4E3,S4E3.00,209338000,320036011,NA,32,S4E3.00#
+7K1J7#,Primary internal fixation proximal femur # screw/nail+plate device,210931000006111#,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device,7K1J7,7K1J700,179098002,277118014,NA,32,7K1J700#
+7K1JA#,Revision internal fixation proximal femur # screw/nail+plate device,167981000006112#,Revision to internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device,7K1JA,7K1JA00,179102005,277122016,NA,32,7K1JA00#
+X601R#,Fixation of fracture using intramedullary nail,NA#,NA,NA,NA,NA,NA,NA,NA,X601R#
+XaB4z#,Kuntschner intramedullary fixation,NA#,NA,NA,NA,NA,NA,NA,NA,XaB4z#
+XaEJD#,Closed reduction of intracapsular # NOF internal fixation DHS,NA#,NA,NA,NA,NA,NA,NA,NA,XaEJD#
+7K1G2#,Primary open reduction and external fixation of femoral fracture,205371000006119#,Primary open reduction and external fixation of femoral fracture,7K1G2,7K1G200,179051005,277056013,NA,32,7K1G200#
+7K1H5#,Revision to open red + ext fxtn of proximal femoral fracture,166991000006112#,Revision to open reduction and external fixation of proximal femoral fracture,7K1H5,7K1H500,179064006,277077011,NA,32,7K1H500#
+7K1K3#,Primary external fixation (without reduction) prox femoral #,210531000006116#,Primary external fixation(without reduction) of proximal femoral fracture,7K1K3,7K1K300,179136004,277156010,NA,32,7K1K300#
+7K1K4#,Revision to ext fixation (without reduction) prox femoral #,166821000006118#,Revision to external fixation(without reduction) of proximal femoral fracture,7K1K4,7K1K400,179137008,277157018,NA,32,7K1K400#
+7K1K5#,Primary cls reduction + external fixation proximal femoral #,210151000006118#,Primary closed reduction and external fixation of proximal femoral fracture,7K1K5,7K1K500,179138003,277158011,NA,32,7K1K500#
+7K1K6#,Revision to cls reduction + external fixation proximal femoral #,166801000006111#,Revision to closed reduction and external fixation of proximal femoral fracture,7K1K6,7K1K600,179139006,277159015,NA,32,7K1K600#
+7K1LC#,Closed reduction of fracture of lower limb,499624016#,Closed reduction # leg,7K1LC-1,7K1LC11,150617003,235046017,NA,32,7K1LC11#
+7K1LC#,Closed reduction of fracture of lower limb,499625015#,Closed reduction of fracture of lower limb,7K1LC,7K1LC00,150617003,235046017,NA,32,7K1LC00#
+7K1LC#,Closed reduction of fracture of lower limb,875701000006114#,Lower limb #-closed reduct.NOS,7K1LC-99,7K1LC99,63563000,875701000006114,NA,32,7K1LC99#
+7K1L5#,Closed reduction fracture of femur,183865012#,Closed reduction of fracture of femur,7K1L5,7K1L500,112777008,183865012,NA,32,7K1L500#
+7K1L7#,Closed reduction of fracture of tibia and or fibula,875681000006111#,Closed reduction-#tibia/fibula,7K1L7-99,7K1L799,179161001,875681000006111,NA,32,7K1L799#
+7K1L7#,Closed reduction of fracture of tibia and or fibula,277187012#,Closed reduction of fracture of tibia and/or fibula,7K1L7,7K1L700,179161001,3010168012,NA,32,7K1L700#
+XM16r#,Closed reduction of fracture of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XM16r#
+Xa85k#,Closed reduction of fracture of tibia and fibula,NA#,NA,NA,NA,NA,NA,NA,NA,Xa85k#
+XM16s#,Closed reduction of fracture of tibia,NA#,NA,NA,NA,NA,NA,NA,NA,XM16s#
+7K1L6#,Closed reduction of fracture of knee,277186015#,Closed reduction of fracture of knee,7K1L6,7K1L600,179160000,277186015,NA,32,7K1L600#
+7K1L8#,Closed reduction of fracture of ankle,277188019#,Closed reduction of fracture of ankle,7K1L8,7K1L800,179162008,277188019,NA,32,7K1L800#
+Xa3zG#,Lower limb # closed reduct NOS,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3zG#
+SCO4.#,Sequelae of other fracture of lower limb,NA#,NA,NA,NA,NA,NA,NA,NA,SCO4.#
+SyuL4#,[X] Sequelae of other fractures of lower limb,325691019#,Late effect of fracture of lower extremities,SyuL4,SyuL400,36758002,61319016,NA,32,SyuL400#
+SC3D4#,Sequelae of fracture of femur,322038016#,Sequelae of fracture of femur,SC3D4,SC3D400,210967007,322038016,NA,32,SC3D400#
+XA0HC#,Fracture of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HC#
+XA0HE#,Fracture of proximal end of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HE#
+XaKyf#,"Open fracture of femur, upper epiphysis",NA#,NA,NA,NA,NA,NA,NA,NA,XaKyf#
+XaKye#,"Closed fracture of femur, upper epiphysis",NA#,NA,NA,NA,NA,NA,NA,NA,XaKye#
+XE113#,Fracture of neck of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XE113#
+XA0HF#,Subcapital fracture of neck of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HF#
+XM1Ne#,"Closed fracture of femur, subcapital",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Ne#
+XM1Nf#,"Open fracture of femur, subcapital",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Nf#
+XA0HG#,Midcervical fracture of neck of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HG#
+Xa7nz#,Fracture of greater trochanter,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7nz#
+XM1Ng#,"Closed fracture of femur, greater trochanter",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Ng#
+XM1Nj#,"Open fracture of femur, greater trochanter",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Nj#
+XA0HH#,Bascervical fracture of neck of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HH#
+XA0HL#,open fracture base of neck of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HL#
+XE115#,"open fracture proximal femur, basicervical",NA#,NA,NA,NA,NA,NA,NA,NA,XE115#
+XE114#,"Closed fracture proximal femur, other transcervical",NA#,NA,NA,NA,NA,NA,NA,NA,XE114#
+XE1l6#,"Open fracture proximal femur, other transcervical",NA#,NA,NA,NA,NA,NA,NA,NA,XE1l6#
+XE1l7#,"Cls # proximal femur, trochanteric section, unspecified",NA#,NA,NA,NA,NA,NA,NA,NA,XE1l7#
+XE1l8#,"Open # of proximal femur, trochanteric section, unspecified",NA#,NA,NA,NA,NA,NA,NA,NA,XE1l8#
+XE1l9#,"Closed fracture neck of femur, NOS",NA#,NA,NA,NA,NA,NA,NA,NA,XE1l9#
+XM1Nh#,"Closed fracture of femur, lesser trochanter",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Nh#
+XM1Ni#,"Open fracture of femur, greater trochanter",NA#,NA,NA,NA,NA,NA,NA,NA,XM1Ni#
+XA0HI#,Intertrochanteric fracture of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HI#
+XaBDT#,"Open fracture of femur, intertrochanteric",NA#,NA,NA,NA,NA,NA,NA,NA,XaBDT#
+XaBDU#,"Closed fracture of femur, intertrochanteric",NA#,NA,NA,NA,NA,NA,NA,NA,XaBDU#
+XA0HJ#,Subtrochanteric fracture of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HJ#
+XA0HN#,Fracture of shaft of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HN#
+XA0H0#,Fracture of distal end of femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0H0#
+XA0HR#,Supracondylar fracture femur,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HR#
+XA0HS#,Fracture of femoral condyle,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HS#
+XE2ru#,Closed fracture distal femur,NA#,NA,NA,NA,NA,NA,NA,NA,XE2ru#
+XA0HP#,"Closed fracture of femur, distal end",NA#,NA,NA,NA,NA,NA,NA,NA,XA0HP#
+XE2rv#,Open fracture distal femur,NA#,NA,NA,NA,NA,NA,NA,NA,XE2rv#
+XA0HQ#,"Open fracture of femur, distal end",NA#,NA,NA,NA,NA,NA,NA,NA,XA0HQ#
+XA0HD#,Upper leg fracture NOS,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HD#
+Syu72#,[X} Fractures of other parts of femur,325439014#,[X]Fractures of other parts of femur,Syu72,Syu7200,71620000,118977010,NA,32,Syu7200#
+XE1lA#,"Closed fracture of femur, unspecified part",NA#,NA,NA,NA,NA,NA,NA,NA,XE1lA#
+XaB0e#,Comminuted fracture of patella,NA#,NA,NA,NA,NA,NA,NA,NA,XaB0e#
+XA0HT#,Fracture of tibia,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HT#
+XA0HU#,Fracture of proximal end of tibia,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HU#
+Xa1u3#,Fracture of tibial spine,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1u3#
+Xa1u2#,Fracture tibial plateau,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1u2#
+XaX6E#,Open fracture tibial plateau,NA#,NA,NA,NA,NA,NA,NA,NA,XaX6E#
+XA0HV#,Closed fracture tibial condyles,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HV#
+XA0HY#,Open fracture tibial condyles,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HY#
+XE1lB#,Closed fracture proximal tibia,NA#,NA,NA,NA,NA,NA,NA,NA,XE1lB#
+XA0HW#,Closed fracture tibial tuberosity,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HW#
+XE1lC#,Open fracture proximal tibia,NA#,NA,NA,NA,NA,NA,NA,NA,XE1lC#
+XA0HX#,Open fracture tibial tuberosity,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HX#
+Xa0m8#,Fracture of distal end of tibia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0m8#
+Xa1mv#,Fracture of medial malleolus,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1mv#
+Xa1mw#,Fracture of posterior malleolus,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1mw#
+XA0Ha#,Tilleau fracture,NA#,NA,NA,NA,NA,NA,NA,NA,XA0Ha#
+XA0Hb#,Fracture of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XA0Hb#
+XA0Hc#,Fracture of proximal end of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XA0Hc#
+Xa1mx#,Fracture of head of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1mx#
+Xa1my#,Fracture of neck of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1my#
+XM0BE#,Fracture of shaft of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XM0BE#
+XA0Hd#,Fracture of distal end of fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XA0Hd#
+Xa1mz#,Fracture of lateral malleolus,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1mz#
+S3430#,"Open fracture ankle, lateral malleolus, low",319254012#,"Open fracture ankle, lateral malleolus, low",S3430,S343000,208659005,319254012,NA,32,S343000#
+XaBDV#,Open fracture distal fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XaBDV#
+XaBMY#,Closed fracture distal fibula,NA#,NA,NA,NA,NA,NA,NA,NA,XaBMY#
+S351.#,Open fracture talus,41818011#,Open fracture of calcaneus,S351,S351.00,24948002,41818011,NA,32,S351.00#
+XA0Hj#,Fracture of talus,NA#,NA,NA,NA,NA,NA,NA,NA,XA0Hj#
+XA0HK#,Hip fracture NOS,NA#,NA,NA,NA,NA,NA,NA,NA,XA0HK#
+XA0ED#,Fracture dislocation of hip joint,NA#,NA,NA,NA,NA,NA,NA,NA,XA0ED#
+Xa8AO#,Fracture subluxation of hip joint,NA#,NA,NA,NA,NA,NA,NA,NA,Xa8AO#

@@ -1,0 +1,74 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+N330.#,Osteoporosis,107806013#,Osteoporosis,N330,N330.00,64859006,107806013,NA,32,N330.00#
+N3300#,"Osteoporosis, unspecified",312124013#,"Osteoporosis, unspecified",N3300,N330000,64859006,107806013,NA,32,N330000#
+N3301#,Senile osteoporosis,30475015#,Senile osteoporosis,N3301,N330100,18040001,30475015,NA,32,N330100#
+N3302#,Postmenopausal osteoporosis,54058015#,Postmenopausal osteoporosis,N3302,N330200,102447009,165682016,NA,32,N330200#
+N3303#,Idiopathic osteoporosis,786501000006117#,Idiopathic generalised osteoporosis,N3303,N330300,203429007,312126010,NA,32,N330300#
+N3304#,Dissuse osteoporosis,625381000006110#,Dissuse osteoporosis,N3304,N330400,53174001,88440018,NA,32,N330400#
+N3305#,Drug-induced osteoporosis,24883018#,Drug-induced osteoporosis,N3305,N330500,14651005,24883018,NA,5,N330500#
+N3306#,Postoophorectomy osteoporosis,312133010#,Postoophorectomy osteoporosis,N3306,N330600,203433000,312133010,NA,32,N330600#
+N3307#,Postsurgical malabsorption osteoporosis,212431000006119#,Postsurgical malabsorption osteoporosis,N3307,N330700,203434006,312134016,NA,32,N330700#
+N3308#,Localized osteoporosis - Lequesne,312136019#,Localised osteoporosis - Lequesne,N3308,N330800,203435007,312135015,NA,32,N330800#
+N3309#,Osteoporosis in multiple myelomatosis,312137011#,Osteoporosis in multiple myelomatosis,N3309,N330900,739301006,3536112014,NA,32,N330900#
+N330A#,Osteoporosis in endocrine disorders,312138018#,Osteoporosis in endocrine disorders,N330A,N330A00,203437004,312138018,NA,32,N330A00#
+N330B#,Vertebral osteoporosis,312139014#,Vertebral osteoporosis,N330B,N330B00,203438009,312139014,NA,32,N330B00#
+N330C#,Osteoporosis localized to spine,453226012#,Osteoporosis localised to spine,N330C,N330C00,309745002,453225011,NA,32,N330C00#
+N330D#,Osteoporosis due to corticosteroids,1484866013#,Osteoporosis due to corticosteroids,N330D,N330D00,390833005,1484866013,NA,32,N330D00#
+N330z#,Osteoporosis NOS,312142015#,Osteoporosis NOS,N330z,N330z00,64859006,107806013,NA,32,N330z00#
+N331J#,Collapse of lumbar vertebra due to osteoporosis,455534015#,Collapse of lumbar vertebra due to osteoporosis,N331J,N331J00,311890007,455534015,NA,32,N331J00#
+N331H#,Collapse of cervical vertebra due to osteoporosis,455433012#,Collapse of cervical vertebra due to osteoporosis,N331H,N331H00,311806008,455433012,NA,32,N331H00#
+N3313#,Osteoporosis of disuse with pathological fracture,312157010#,Osteoporosis of disuse with pathological fracture,N3313,N331300,203445009,312157010,NA,32,N331300#
+N331K#,Collapse of thoracic vertebra due to osteoporosis,455535019#,Collapse of thoracic vertebra due to osteoporosis,N331K,N331K00,311891006,455535019,NA,32,N331K00#
+N3316#,Idiopathic osteoporosis with pathological fracture,312160015#,Idiopathic osteoporosis with pathological fracture,N3316,N331600,203448006,312160015,NA,32,N331600#
+N3315#,Drug-induced osteoporosis with pathological fracture,312159013#,Drug-induced osteoporosis with pathological fracture,N3315,N331500,203447001,312159013,NA,5,N331500#
+N3318#,Osteoporosis + pathological fracture lumbar vertebrae,40881000006116#,Osteoporosis with pathological fracture of lumbar vertebrae,N3318,N331800,203450003,312162011,NA,32,N331800#
+N331B#,Postmenopausal osteoporosis with pathological fracture,312165013#,Postmenopausal osteoporosis with pathological fracture,N331B,N331B00,203453001,312165013,NA,32,N331B00#
+N3319#,Osteoporosis + pathological fracture thoracic vertebrae,40891000006118#,Osteoporosis with pathological fracture of thoracic vertebrae,N3319,N331900,203451004,312163018,NA,32,N331900#
+N331A#,Osteoporosis + pathological fracture cervical vertebrae,40871000006119#,Osteoporosis with pathological fracture of cervical vertebrae,N331A,N331A00,203452006,312164012,NA,32,N331A00#
+N3312#,Postoophorectomy osteoporosis with pathological fracture,312156018#,Postoophorectomy osteoporosis with pathological fracture,N3312,N331200,203444008,312156018,NA,32,N331200#
+N3314#,Postsurgical malabsorption osteoporosis with pathological fracture,212441000006112#,Post-surgical malabsorption osteoporosis with pathological fracture,N3314,N331400,203446005,312158017,NA,32,N331400#
+66a..#,Osteoporosis monitoring,1485046011#,Osteoporosis monitoring,66a,66a..00,391017004,1485046011,NA,1,66a..00#
+66a2.#,Osteoporosis - treatment started,1485049016#,Osteoporosis treatment started,66a2,66a2.00,391020007,1485049016,NA,1,66a2.00#
+66a4.#,Osteoporosis - treatment changed,1485051017#,Osteoporosis treatment changed,66a4,66a4.00,391022004,1485051017,NA,1,66a4.00#
+66a6.#,Osteoporosis - dietary advice,1485053019#,Osteoporosis - dietary advice,66a6,66a6.00,391024003,1485053019,NA,1,66a6.00#
+66a7.#,Osteoporosis - dietary assessment,1485054013#,Osteoporosis - dietary assessment,66a7,66a7.00,391025002,1485054013,NA,1,66a7.00#
+66a8.#,Osteoporosis - exercise advice,1485055014#,Osteoporosis - exercise advice,66a8,66a8.00,391026001,1485055014,NA,1,66a8.00#
+66a9.#,Osteoporosis - falls prevention,1485056010#,Osteoporosis - falls prevention,66a9,66a9.00,391027005,1485056010,NA,1,66a9.00#
+66aA.#,Osteoporosis - treatment response,1485057018#,Osteoporosis - treatment response,66aA,66aA.00,391028000,1485057018,NA,1,66aA.00#
+66aB.#,Osteoporosis - no treatment response,1485059015#,Osteoporosis - no treatment response,66aB,66aB.00,391030003,1485059015,NA,1,66aB.00#
+66aD.#,Xray evidence of poor mineralisation,1476251011#,X-ray evidence of poor mineralisation,66aD,66aD.00,391032006,1476251011,NA,1,66aD.00#
+9kj0.#,Bone sparing drug treatment offered for osteoporosis - ESA,1715131000006113#,Bone sparing drug treatment offered for osteoporosis,9kj0,9kj0.00,505171000000102,1152201000000112,NA,37,9kj0.00#
+NyuB2#,[X]Osteoporosis in other disorders classified elsewhere,312683018#,[X]Osteoporosis in other disorders classified elsewhere,NyuB2,NyuB200,64859006,107806013,NA,32,NyuB200#
+NyuB1#,[X]Other osteoporosis,312682011#,[X]Other osteoporosis,NyuB1,NyuB100,64859006,107806013,NA,32,NyuB100#
+NyuB0#,[X]Other osteoporosis with pathological fracture,312681016#,[X]Other osteoporosis with pathological fracture,NyuB0,NyuB000,443165006,2837900019,NA,32,NyuB000#
+NyuB8#,[X]Unspecified osteoporosis with pathological fracture,312689019#,[X]Unspecified osteoporosis with pathological fracture,NyuB8,NyuB800,443165006,2837900019,NA,32,NyuB800#
+X70At#,Adult idiopathic generalised osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70At#
+XaD2s#,Collapse of cervical vertebra due to osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,XaD2s#
+XaD4J#,Collapse of thoracic vertebra due to osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,XaD4J#
+XaD4K#,Collapse of vertebra due to osteoporosis NOS,NA#,NA,NA,NA,NA,NA,NA,NA,XaD4K#
+X70Az#,Disappearing bone disease,NA#,NA,NA,NA,NA,NA,NA,NA,X70Az#
+X70As#,Idiopathic osteoporosis in pregnancy,NA#,NA,NA,NA,NA,NA,NA,NA,X70As#
+X70Au#,Juvenile idiopathic generalised osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70Au#
+XE1GA#,Localised disuse osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,XE1GA#
+XaIIp#,Minimal trauma fracture due to unspecified osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,XaIIp#
+XaIP4#,Osteoporosis due to corticosteroids,NA#,NA,NA,NA,NA,NA,NA,NA,XaIP4#
+XaC12#,Osteoporosis localised to spine,NA#,NA,NA,NA,NA,NA,NA,NA,XaC12#
+XaISX#,Osteoporosis monitoring telephone invitation,NA#,NA,NA,NA,NA,NA,NA,NA,XaISX#
+X70B1#,Post-irradiation osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70B1#
+Xa0AZ#,Primary osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0AZ#
+X70Aw#,Regional migrating osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70Aw#
+Xa1k0#,Regional osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1k0#
+X70Av#,Secondary generalised osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70Av#
+X70B0#,Secondary localised osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,X70B0#
+X70Ax#,Transient osteoporosis of hip,NA#,NA,NA,NA,NA,NA,NA,NA,X70Ax#
+X70Ay#,Transient osteoporosis of hip in pregnancy,NA#,NA,NA,NA,NA,NA,NA,NA,X70Ay#
+XaISj#,Osteoporosis - no treatment,NA#,NA,NA,NA,NA,NA,NA,NA,XaISj#
+XaISm#,Osteoporosis - exercise advice,NA#,NA,NA,NA,NA,NA,NA,NA,XaISm#
+XalSi#,Osteoporosis treatment changed,NA#,NA,NA,NA,NA,NA,NA,NA,XalSi#
+XaISg#,Osteoporosis treatment started,NA#,NA,NA,NA,NA,NA,NA,NA,XaISg#
+XaISh#,Osteoporosis treatment stopped,NA#,NA,NA,NA,NA,NA,NA,NA,XaISh#
+XaISn#,Osteoporosis - falls prevention,NA#,NA,NA,NA,NA,NA,NA,NA,XaISn#
+XaISQ#,Attends osteoporosis monitoring,NA#,NA,NA,NA,NA,NA,NA,NA,XaISQ#
+XaISI#,Osteoporosis - dietary assessment,NA#,NA,NA,NA,NA,NA,NA,NA,XaISI#
+XaISo#,Osteoporosis - treatment response,NA#,NA,NA,NA,NA,NA,NA,NA,XaISo#
+XaQRT#,Bone sparing drug treatment offered for osteoporosis,NA#,NA,NA,NA,NA,NA,NA,NA,XaQRT#

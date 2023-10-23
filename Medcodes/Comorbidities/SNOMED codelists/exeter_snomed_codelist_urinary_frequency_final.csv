@@ -1,0 +1,264 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+139394000#,Nocturia,221079019#,1,1,2,317533012#,[D]Nocturia,R0842,R084200,221079019,NA,27
+139394000#,Nocturia,221079019#,1,1,2,11625011#,Nocturia,1A13,1A13.00,221079019,NA,27
+139394000#,Nocturia,517960017#,1,1,2,317533012#,[D]Nocturia,R0842,R084200,221079019,NA,27
+139394000#,Nocturia,517960017#,1,1,2,11625011#,Nocturia,1A13,1A13.00,221079019,NA,27
+139394000#,Nocturia (finding),2762144019#,1,1,2,317533012#,[D]Nocturia,R0842,R084200,221079019,NA,27
+139394000#,Nocturia (finding),2762144019#,1,1,2,11625011#,Nocturia,1A13,1A13.00,221079019,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Increased frequency of urination,252775019#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Increased frequency of micturition,252776018#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Frequency of urination,252777010#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Pollakiuria,252778017#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,FOM - Frequency of micturition,252779013#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Passes water too often,252780011#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Frequency of micturition,252781010#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Pollakisuria,252782015#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Increased frequency of urination (finding),543223017#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,217701000000114#,Urinary frequency,1A1-3,1A1..13,252775019,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,11811671000006119#,Frequent urination,^ESCT1181167,NA,273e13,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,317529017#,Increased frequency of urination,R0840,R084000,252775019,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,4546651000006115#,Passes water too often,^ESCTPA454665,NA,252780011,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,4546681000006111#,Urinary frequency,^ESCTUR454668,NA,2920681012,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,4546671000006113#,Pollakisuria,^ESCTPO454667,NA,252782015,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,4546641000006117#,Pollakiuria,^ESCTPO454664,NA,252778017,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,12704781000006114#,Frequency of micturition,^ESCT1270478,NA,252781010,NA,27
+162116003#,Urinary frequency,2920681012#,1,1,2,4546631000006110#,Increased frequency of micturition,^ESCTIN454663,NA,252776018,NA,27
+274734008#,Micturition frequency and polyuria,410581018#,1,1,2,317534018#,[D]Frequency of micturition or polyuria NOS,R084z,R084z00,410581018,NA,32
+274734008#,Micturition frequency and polyuria,410581018#,1,1,2,317528013#,Micturition frequency and polyuria,R084,R084.00,410581018,NA,32
+274734008#,Micturition frequency and polyuria (finding),667523010#,1,1,2,317534018#,[D]Frequency of micturition or polyuria NOS,R084z,R084z00,410581018,NA,32
+274734008#,Micturition frequency and polyuria (finding),667523010#,1,1,2,317528013#,Micturition frequency and polyuria,R084,R084.00,410581018,NA,32
+28442001#,Increased urine volume,47611011#,1,1,2,2956851000006119#,Passes too much urine,^ESCTPA295685,NA,483877016,NA,27
+28442001#,Increased urine volume,47611011#,1,1,2,317532019#,[D]Polyuria,R0841,R084100,47612016,NA,27
+28442001#,Increased urine volume,47611011#,1,1,2,47612016#,Polyuria,1AC2,1AC2.00,47612016,NA,27
+28442001#,Increased urine volume,47611011#,1,1,2,215531000006114#,Polyuria,1A1-2,1A1..12,47612016,NA,27
+28442001#,Polyuria,47612016#,1,1,2,2956851000006119#,Passes too much urine,^ESCTPA295685,NA,483877016,NA,27
+28442001#,Polyuria,47612016#,1,1,2,317532019#,[D]Polyuria,R0841,R084100,47612016,NA,27
+28442001#,Polyuria,47612016#,1,1,2,47612016#,Polyuria,1AC2,1AC2.00,47612016,NA,27
+28442001#,Polyuria,47612016#,1,1,2,215531000006114#,Polyuria,1A1-2,1A1..12,47612016,NA,27
+28442001#,Passes too much urine,483877016#,1,1,2,2956851000006119#,Passes too much urine,^ESCTPA295685,NA,483877016,NA,27
+28442001#,Passes too much urine,483877016#,1,1,2,317532019#,[D]Polyuria,R0841,R084100,47612016,NA,27
+28442001#,Passes too much urine,483877016#,1,1,2,47612016#,Polyuria,1AC2,1AC2.00,47612016,NA,27
+28442001#,Passes too much urine,483877016#,1,1,2,215531000006114#,Polyuria,1A1-2,1A1..12,47612016,NA,27
+28442001#,Urine output high,483878014#,1,1,2,2956851000006119#,Passes too much urine,^ESCTPA295685,NA,483877016,NA,27
+28442001#,Urine output high,483878014#,1,1,2,317532019#,[D]Polyuria,R0841,R084100,47612016,NA,27
+28442001#,Urine output high,483878014#,1,1,2,47612016#,Polyuria,1AC2,1AC2.00,47612016,NA,27
+28442001#,Urine output high,483878014#,1,1,2,215531000006114#,Polyuria,1A1-2,1A1..12,47612016,NA,27
+28442001#,Polyuria (finding),759122017#,1,1,2,2956851000006119#,Passes too much urine,^ESCTPA295685,NA,483877016,NA,27
+28442001#,Polyuria (finding),759122017#,1,1,2,317532019#,[D]Polyuria,R0841,R084100,47612016,NA,27
+28442001#,Polyuria (finding),759122017#,1,1,2,47612016#,Polyuria,1AC2,1AC2.00,47612016,NA,27
+28442001#,Polyuria (finding),759122017#,1,1,2,215531000006114#,Polyuria,1A1-2,1A1..12,47612016,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Finding of frequency of urination,441540013#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Finding of frequency of urination (finding),696152019#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Observation of frequency of urination,1226833018#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Frequency of urination,1490594016#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,FOM - Frequency of micturition,1490595015#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Periodicity of micturition,1490596019#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,1490597011#,Frequency of micturition,1A12,1A12.00,1490597011,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,252783013#,Micturition frequency NOS,1A1Z,1A1Z.00,1490597011,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,794711000006117#,Frequency of micturition,1A1-1,1A1..11,1490597011,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,5880471000006112#,Finding of frequency of urination,^ESCTFI588047,NA,441540013,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,5880491000006113#,Frequency of urination,^ESCTFR588049,NA,1490594016,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,217691000000114#,Observation of frequency of urination,1A1,1A1..00,1226833018,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,5880511000006119#,Periodicity of micturition,^ESCTPE588051,NA,1490596019,NA,27
+300471006#,Frequency of micturition,1490597011#,1,1,2,5880501000006117#,FOM - Frequency of micturition,^ESCTFO588050,NA,1490595015,NA,27
+117531000119102#,Urinary frequency due to benign prostatic hypertrophy,3013549018#,1,0,1,8036881000006112#,Urinary frequency due to benign prostatic hypertrophy,^ESCTUR803688,NA,3013549018,NA,31
+117531000119102#,Urinary frequency due to benign prostatic hypertrophy (finding),3013560010#,1,0,1,8036881000006112#,Urinary frequency due to benign prostatic hypertrophy,^ESCTUR803688,NA,3013549018,NA,31
+139391008#,(Frequency of micturition) or (polyuria),221070015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,Micturition frequency,221071016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,Frequency of micturition,221072011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,Frequency of urination,221073018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,Urinary frequency,221074012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,Polyuria,221075013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,(Frequency of micturition) or (polyuria),517957012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139391008#,(Frequency of micturition) or (polyuria) (observable entity),2715792015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139392001#,Micturition frequency normal,221076014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139392001#,Micturition frequency normal,517958019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139392001#,Micturition frequency normal (finding),2717116012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139393006#,Frequency of micturition: [periodicity] or [increased],221077017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139393006#,Frequency of micturition,221078010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139393006#,Frequency of micturition: [periodicity] or [increased],517959010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139393006#,Frequency of micturition: [periodicity] or [increased] (observable entity),2754273011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139395004#,Micturition frequency NOS,221080016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139395004#,Micturition frequency NOS,517961018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139395004#,Micturition frequency NOS (observable entity),2739272010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139462009#,Polyuria,221167017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139462009#,Polyuria,518035017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139462009#,Polyuria (finding),2729420013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158473004#,[D]Micturition frequency and polyuria,247121017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158473004#,[D]Micturition frequency and polyuria,539138016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158473004#,[D]Micturition frequency and polyuria (situation),2735449017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158474005#,[D]Polyuria,247122012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158474005#,[D]Polyuria,539139012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158474005#,[D]Polyuria (situation),2733969016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158475006#,[D]Nocturia,247123019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158475006#,[D]Nocturia,539140014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158475006#,[D]Nocturia (situation),2753699015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158476007#,"[D]Frequency of micturition, unspecified",247124013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158476007#,"[D]Frequency of micturition, unspecified",539141013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158476007#,"[D]Frequency of micturition, unspecified (situation)",2753731014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,Frequency of urination,252768015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,Micturition frequency,252769011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,Urinary frequency,252770012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,Frequency of micturition,252771011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,Polyuria,252772016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,(Frequency of micturition) or (polyuria),252773014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,(Frequency of micturition) or (polyuria),543221015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162114000#,(Frequency of micturition) or (polyuria) (finding),2715239014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162117007#,Micturition frequency NOS,252783013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162117007#,Micturition frequency NOS (finding),543224011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+1711000119101#,Nocturia associated with benign prostatic hypertrophy,2967656013#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+1711000119101#,Nocturia due to benign prostatic hypertrophy,3013171017#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+1711000119101#,Nocturia due to benign prostatic hypertrophy (finding),3013235014#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+1711000119101#,Nocturia associated with benign prostatic hypertrophy (finding),13611000119111#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+207175005#,[D]Micturition frequency and polyuria,317528013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207175005#,[D]Micturition frequency and polyuria (context-dependent category),592754010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207175005#,Frequency of micturition  [D],1222517013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207175005#,Frequency of micturition [D],1494978010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207175005#,[D]Micturition frequency and polyuria (situation),2608377011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207176006#,"[D]Frequency of micturition, unspecified",317529017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207176006#,"[D]Frequency of micturition, unspecified (context-dependent category)",592755011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207176006#,"[D]Frequency of micturition, unspecified (situation)",2608378018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207177002#,[D]Polyuria,317532019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207177002#,[D]Polyuria (context-dependent category),592757015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207177002#,[D]Polyuria (situation),2608379014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207178007#,[D]Nocturia,317533012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207178007#,[D]Nocturia (context-dependent category),592758013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207178007#,[D]Nocturia (situation),2608380012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207179004#,[D]Frequency of micturition or polyuria NOS,317534018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207179004#,[D]Frequency of micturition or polyuria NOS (context-dependent category),592759017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207179004#,[D]Frequency of micturition or polyuria NOS (situation),2608381011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249290008#,Increased frequency of urination,371975011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249290008#,Increased frequency of urination,639700012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249290008#,Increased frequency of urination (finding),2745159011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+267063008#,FOM - Frequency of micturition,397933012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+267063008#,Frequency of micturition,397934018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+267063008#,Frequency of urination,397935017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270525008#,Frequency of micturition,405168012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270525008#,Frequency of micturition: [periodicity] or [increased],405169016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270525008#,Frequency of micturition: [periodicity] or [increased],663162012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270525008#,Frequency of micturition: [periodicity] or [increased] (finding),2717538018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+31462008#,Urinary frequency,52592010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+31462008#,Increased frequency of micturition,52594011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+31462008#,Frequency of urination,52596013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+31462008#,Urinary frequency (finding) [Ambiguous],762586013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+31462008#,Urinary frequency (finding),2742755015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+364198000#,Frequency of urination,487338014#,1,0,1,6255291000006115#,Frequency of urination,^ESCTFR625529,NA,487338014,NA,27
+364198000#,Frequency of urination (observable entity),770420013#,1,0,1,6255291000006115#,Frequency of urination,^ESCTFR625529,NA,487338014,NA,27
+6408001#,Nocturia,11625011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+6408001#,Nocturia - finding,499751011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+6408001#,Finding of nocturia (finding),803434016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+6408001#,Finding of nocturia,2772991014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

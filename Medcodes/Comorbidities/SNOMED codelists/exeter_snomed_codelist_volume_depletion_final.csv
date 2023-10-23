@@ -1,0 +1,433 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+162685008#,O/E - dehydrated,253563016#,1,1,2,4550381000006117#,On examination - dehydrated,^ESCTON455038,NA,2668436018,NA,27
+162685008#,O/E - dehydrated,253563016#,1,1,2,253563016#,O/E - dehydrated,2225,2225,253563016,NA,27
+162685008#,On examination - dehydrated (context-dependent category),543819016#,1,1,2,4550381000006117#,On examination - dehydrated,^ESCTON455038,NA,2668436018,NA,27
+162685008#,On examination - dehydrated (context-dependent category),543819016#,1,1,2,253563016#,O/E - dehydrated,2225,2225,253563016,NA,27
+162685008#,On examination - dehydrated (disorder),2561914016#,1,1,2,4550381000006117#,On examination - dehydrated,^ESCTON455038,NA,2668436018,NA,27
+162685008#,On examination - dehydrated (disorder),2561914016#,1,1,2,253563016#,O/E - dehydrated,2225,2225,253563016,NA,27
+162685008#,On examination - dehydrated,2668436018#,1,1,2,4550381000006117#,On examination - dehydrated,^ESCTON455038,NA,2668436018,NA,27
+162685008#,On examination - dehydrated,2668436018#,1,1,2,253563016#,O/E - dehydrated,2225,2225,253563016,NA,27
+163029008#,O/E - BP reading:postural drop,254074011#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,O/E - BP reading:postural drop,254074011#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,O/E - BP reading:postural drop,254074011#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+163029008#,On examination - BP reading:postural drop (context-dependent category),544202016#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,On examination - BP reading:postural drop (context-dependent category),544202016#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,On examination - BP reading:postural drop (context-dependent category),544202016#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+163029008#,On examination - BP reading:postural drop (finding),2561372019#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,On examination - BP reading:postural drop (finding),2561372019#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,On examination - BP reading:postural drop (finding),2561372019#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+163029008#,On examination - blood pressure reading: postural drop (finding),2659132016#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,On examination - blood pressure reading: postural drop (finding),2659132016#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,On examination - blood pressure reading: postural drop (finding),2659132016#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+163029008#,On examination - blood pressure reading: postural drop,2667436015#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,On examination - blood pressure reading: postural drop,2667436015#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,On examination - blood pressure reading: postural drop,2667436015#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+163029008#,On examination - BP reading:postural drop,2667437012#,1,1,2,254074011#,O/E - BP reading:postural drop,2468,2468,254074011,NA,2
+163029008#,On examination - BP reading:postural drop,2667437012#,1,1,2,4556561000006117#,On examination - blood pressure reading: postural drop,^ESCTON455656,NA,2667436015,NA,2
+163029008#,On examination - BP reading:postural drop,2667437012#,1,1,2,4556571000006112#,On examination - BP reading:postural drop,^ESCTON455657,NA,2667437012,NA,2
+17173007#,Polydipsia,29042017#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Polydipsia,29042017#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Excessive thirst,29043010#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Desperate to drink,478079010#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Always thirsty,478080013#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Keen for fluids,478081012#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,29043010#,Excessive thirst,1644,1644,29043010,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,214641000006119#,Polydipsia,1645-1,1645.11,29042017,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,2772561000006112#,Keen for fluids,^ESCTKE277256,NA,478081012,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,2772551000006110#,Always thirsty,^ESCTAL277255,NA,478080013,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,317252019#,[D]Polydipsia,R035,R035.00,29043010,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,2772541000006113#,Desperate to drink,^ESCTDE277254,NA,478079010,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,29042017#,Polydipsia,1644-1,1644.11,29042017,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,317254018#,[D]Polydipsia NOS,R035z,R035z00,29043010,NA,27
+17173007#,Excessive thirst (finding),744340017#,1,1,2,317253012#,[D]Excessive thirst,R0350,R035000,29043010,NA,27
+190894003#,Isonatremic dehydration,293510016#,1,1,2,881801000006112#,Dehydration,C3650-99,C365099,882000000000000,NA,32
+190894003#,Isonatremic dehydration,293510016#,1,1,2,4760401000006111#,Isonatremic dehydration,^ESCTIS476040,NA,293510016,NA,32
+190894003#,Isonatremic dehydration,293510016#,1,1,2,293511017#,Isonatraemic dehydration,C3650,C365000,293511017,NA,32
+190894003#,Isonatraemic dehydration,293511017#,1,1,2,881801000006112#,Dehydration,C3650-99,C365099,882000000000000,NA,32
+190894003#,Isonatraemic dehydration,293511017#,1,1,2,4760401000006111#,Isonatremic dehydration,^ESCTIS476040,NA,293510016,NA,32
+190894003#,Isonatraemic dehydration,293511017#,1,1,2,293511017#,Isonatraemic dehydration,C3650,C365000,293511017,NA,32
+190894003#,Isonatremic dehydration (disorder),574532015#,1,1,2,881801000006112#,Dehydration,C3650-99,C365099,882000000000000,NA,32
+190894003#,Isonatremic dehydration (disorder),574532015#,1,1,2,4760401000006111#,Isonatremic dehydration,^ESCTIS476040,NA,293510016,NA,32
+190894003#,Isonatremic dehydration (disorder),574532015#,1,1,2,293511017#,Isonatraemic dehydration,C3650,C365000,293511017,NA,32
+212970002#,Effects of thirst,324688010#,1,1,2,324688010#,Effects of thirst,SN43,SN43.00,324688010,NA,32
+212970002#,Effects of thirst,324688010#,1,1,2,324691010#,Effects of thirst NOS,SN43z,SN43z00,324688010,NA,32
+212970002#,Effects of thirst (disorder),598862018#,1,1,2,324688010#,Effects of thirst,SN43,SN43.00,324688010,NA,32
+212970002#,Effects of thirst (disorder),598862018#,1,1,2,324691010#,Effects of thirst NOS,SN43z,SN43z00,324688010,NA,32
+213258001#,Postoperative hypovolaemic shock,325122017#,1,1,2,325122017#,Postoperative hypovolaemic shock,SP202,SP20200,325122017,NA,32
+213258001#,Postoperative hypovolaemic shock,325122017#,1,1,2,4872531000006112#,Postoperative hypovolemic shock,^ESCTPO487253,NA,325123010,NA,32
+213258001#,Postoperative hypovolemic shock,325123010#,1,1,2,325122017#,Postoperative hypovolaemic shock,SP202,SP20200,325122017,NA,32
+213258001#,Postoperative hypovolemic shock,325123010#,1,1,2,4872531000006112#,Postoperative hypovolemic shock,^ESCTPO487253,NA,325123010,NA,32
+213258001#,Postoperative hypovolemic shock (disorder),599180015#,1,1,2,325122017#,Postoperative hypovolaemic shock,SP202,SP20200,325122017,NA,32
+213258001#,Postoperative hypovolemic shock (disorder),599180015#,1,1,2,4872531000006112#,Postoperative hypovolemic shock,^ESCTPO487253,NA,325123010,NA,32
+249475006#,Thirst symptom,372218010#,1,1,2,372218010#,Thirst symptom,164-1,164..11,372218010,NA,27
+249475006#,Thirst symptom (finding),639908010#,1,1,2,372218010#,Thirst symptom,164-1,164..11,372218010,NA,27
+268940004#,O/E - abd.skin dry-dehydration,402476013#,1,1,2,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,2669746010,NA,27
+268940004#,O/E - abd.skin dry-dehydration,402476013#,1,1,2,12455031000006114#,O/E - abdo. skin - dehydrated,^ESCT1245503,NA,402477016,NA,27
+268940004#,O/E - abd.skin dry-dehydration,402476013#,1,1,2,12455011000006115#,O/E - abd.skin dry-dehydration,^ESCT1245501,NA,402476013,NA,27
+268940004#,O/E - abd.skin dry-dehydration,402476013#,1,1,2,5508461000006117#,On examination - abdominal skin dry - dehydration,^ESCTON550846,NA,551e13,NA,27
+268940004#,O/E - abd.skin dry-dehydration,402476013#,1,1,2,402476013#,On examination - abdominal skin dry - dehydration,2587,2587,2669746010,NA,27
+268940004#,O/E - abdo. skin - dehydrated,402477016#,1,1,2,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,2669746010,NA,27
+268940004#,O/E - abdo. skin - dehydrated,402477016#,1,1,2,12455031000006114#,O/E - abdo. skin - dehydrated,^ESCT1245503,NA,402477016,NA,27
+268940004#,O/E - abdo. skin - dehydrated,402477016#,1,1,2,12455011000006115#,O/E - abd.skin dry-dehydration,^ESCT1245501,NA,402476013,NA,27
+268940004#,O/E - abdo. skin - dehydrated,402477016#,1,1,2,5508461000006117#,On examination - abdominal skin dry - dehydration,^ESCTON550846,NA,551e13,NA,27
+268940004#,O/E - abdo. skin - dehydrated,402477016#,1,1,2,402476013#,On examination - abdominal skin dry - dehydration,2587,2587,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (context-dependent category),661740014#,1,1,2,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (context-dependent category),661740014#,1,1,2,12455031000006114#,O/E - abdo. skin - dehydrated,^ESCT1245503,NA,402477016,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (context-dependent category),661740014#,1,1,2,12455011000006115#,O/E - abd.skin dry-dehydration,^ESCT1245501,NA,402476013,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (context-dependent category),661740014#,1,1,2,5508461000006117#,On examination - abdominal skin dry - dehydration,^ESCTON550846,NA,551e13,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (context-dependent category),661740014#,1,1,2,402476013#,On examination - abdominal skin dry - dehydration,2587,2587,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (finding),2571324016#,1,1,2,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (finding),2571324016#,1,1,2,12455031000006114#,O/E - abdo. skin - dehydrated,^ESCT1245503,NA,402477016,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (finding),2571324016#,1,1,2,12455011000006115#,O/E - abd.skin dry-dehydration,^ESCT1245501,NA,402476013,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (finding),2571324016#,1,1,2,5508461000006117#,On examination - abdominal skin dry - dehydration,^ESCTON550846,NA,551e13,NA,27
+268940004#,On examination - abdominal skin dry - dehydration (finding),2571324016#,1,1,2,402476013#,On examination - abdominal skin dry - dehydration,2587,2587,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration,2669746010#,1,1,2,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,2669746010,NA,27
+268940004#,On examination - abdominal skin dry - dehydration,2669746010#,1,1,2,12455031000006114#,O/E - abdo. skin - dehydrated,^ESCT1245503,NA,402477016,NA,27
+268940004#,On examination - abdominal skin dry - dehydration,2669746010#,1,1,2,12455011000006115#,O/E - abd.skin dry-dehydration,^ESCT1245501,NA,402476013,NA,27
+268940004#,On examination - abdominal skin dry - dehydration,2669746010#,1,1,2,5508461000006117#,On examination - abdominal skin dry - dehydration,^ESCTON550846,NA,551e13,NA,27
+268940004#,On examination - abdominal skin dry - dehydration,2669746010#,1,1,2,402476013#,On examination - abdominal skin dry - dehydration,2587,2587,2669746010,NA,27
+28560003#,Hypovolemia,47800017#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Hypovolemia,47800017#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Volume depletion,47801018#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Fluid volume depletion,47802013#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Depletion of volume of plasma or extracellular fluid,47803015#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Depletion of volume of plasma AND/OR extracellular fluid,47805010#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Hypovolaemia,483912015#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Hypovolemia (disorder),759252019#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Sodium and water depletion,1225954019#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Fluid depletion,1225955018#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,2958731000006119#,Fluid depletion,^ESCTFL295873,NA,1225955018,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,2958741000006112#,Fluid volume deficit,^ESCTFL295874,NA,2837450015,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,47801018#,Volume depletion,C365,C365.00,47801018,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,2958711000006113#,Depletion of volume of plasma AND/OR extracellular fluid,^ESCTDE295871,NA,47805010,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,2958681000006112#,Hypovolemia,^ESCTHY295868,NA,47800017,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,293515014#,Volume depletion NOS,C365z,C365z00,47800017,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,483912015#,Hypovolaemia,C3651,C365100,483912015,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,1225954019#,Sodium and water depletion,C3651-1,C365111,1225954019,NA,32
+28560003#,Fluid volume deficit,2837450015#,1,1,2,2958701000006110#,Fluid volume depletion,^ESCTFL295870,NA,47802013,NA,32
+28651003#,Orthostatic hypotension,47965014#,1,1,2,47965014#,Orthostatic hypotension,G870,G870.00,47965014,NA,32
+28651003#,Orthostatic hypotension,47965014#,1,1,2,47966010#,Postural hypotension,G870-1,G870.11,47966010,NA,32
+28651003#,Postural hypotension,47966010#,1,1,2,47965014#,Orthostatic hypotension,G870,G870.00,47965014,NA,32
+28651003#,Postural hypotension,47966010#,1,1,2,47966010#,Postural hypotension,G870-1,G870.11,47966010,NA,32
+28651003#,Orthostatic hypotension (disorder),759354016#,1,1,2,47965014#,Orthostatic hypotension,G870,G870.00,47965014,NA,32
+28651003#,Orthostatic hypotension (disorder),759354016#,1,1,2,47966010#,Postural hypotension,G870-1,G870.11,47966010,NA,32
+34095006#,Dehydration,56942018#,1,1,2,293514013#,Dehydration NEC,C3652,C365200,56942018,NA,32
+34095006#,Dehydration,56942018#,1,1,2,56942018#,Dehydration,C3653,C365300,56942018,NA,32
+34095006#,Dehydration,56942018#,1,1,2,3049171000006112#,Pure water depletion syndrome,^ESCTPU304917,NA,56943011,NA,32
+34095006#,Pure water depletion syndrome,56943011#,1,1,2,293514013#,Dehydration NEC,C3652,C365200,56942018,NA,32
+34095006#,Pure water depletion syndrome,56943011#,1,1,2,56942018#,Dehydration,C3653,C365300,56942018,NA,32
+34095006#,Pure water depletion syndrome,56943011#,1,1,2,3049171000006112#,Pure water depletion syndrome,^ESCTPU304917,NA,56943011,NA,32
+34095006#,Dehydration (disorder),765577011#,1,1,2,293514013#,Dehydration NEC,C3652,C365200,56942018,NA,32
+34095006#,Dehydration (disorder),765577011#,1,1,2,56942018#,Dehydration,C3653,C365300,56942018,NA,32
+34095006#,Dehydration (disorder),765577011#,1,1,2,3049171000006112#,Pure water depletion syndrome,^ESCTPU304917,NA,56943011,NA,32
+39419009#,Hypovolemic shock,66114019#,1,1,2,3134251000006119#,Hypovolemic shock,^ESCTHY313425,NA,66114019,NA,32
+39419009#,Hypovolemic shock,66114019#,1,1,2,3134261000006117#,Low volume shock,^ESCTLO313426,NA,1229521017,NA,32
+39419009#,Hypovolemic shock,66114019#,1,1,2,317355015#,Hypovolaemic shock,R0554,R055400,492070011,NA,32
+39419009#,Hypovolaemic shock,492070011#,1,1,2,3134251000006119#,Hypovolemic shock,^ESCTHY313425,NA,66114019,NA,32
+39419009#,Hypovolaemic shock,492070011#,1,1,2,3134261000006117#,Low volume shock,^ESCTLO313426,NA,1229521017,NA,32
+39419009#,Hypovolaemic shock,492070011#,1,1,2,317355015#,Hypovolaemic shock,R0554,R055400,492070011,NA,32
+39419009#,Hypovolemic shock (disorder),775867018#,1,1,2,3134251000006119#,Hypovolemic shock,^ESCTHY313425,NA,66114019,NA,32
+39419009#,Hypovolemic shock (disorder),775867018#,1,1,2,3134261000006117#,Low volume shock,^ESCTLO313426,NA,1229521017,NA,32
+39419009#,Hypovolemic shock (disorder),775867018#,1,1,2,317355015#,Hypovolaemic shock,R0554,R055400,492070011,NA,32
+39419009#,Low volume shock,1229521017#,1,1,2,3134251000006119#,Hypovolemic shock,^ESCTHY313425,NA,66114019,NA,32
+39419009#,Low volume shock,1229521017#,1,1,2,3134261000006117#,Low volume shock,^ESCTLO313426,NA,1229521017,NA,32
+39419009#,Low volume shock,1229521017#,1,1,2,317355015#,Hypovolaemic shock,R0554,R055400,492070011,NA,32
+59299002#,Thirst,98510016#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,Thirst,98510016#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,Thirst,98510016#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,Thirst,98510016#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+59299002#,Thirst (function),798125015#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,Thirst (function),798125015#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,Thirst (function),798125015#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,Thirst (function),798125015#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+59299002#,"Thirst, function (observable entity)",1203882015#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,"Thirst, function (observable entity)",1203882015#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,"Thirst, function (observable entity)",1203882015#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,"Thirst, function (observable entity)",1203882015#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+59299002#,Desire for drinks,1231940012#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,Desire for drinks,1231940012#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,Desire for drinks,1231940012#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,Desire for drinks,1231940012#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+59299002#,Desire for fluids,1231941011#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,Desire for fluids,1231941011#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,Desire for fluids,1231941011#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,Desire for fluids,1231941011#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+59299002#,"Thirst, function",2670980010#,1,1,2,3463141000006115#,Desire for drinks,^ESCTDE346314,NA,1231940012,NA,27
+59299002#,"Thirst, function",2670980010#,1,1,2,3463151000006118#,Desire for fluids,^ESCTDE346315,NA,1231941011,NA,27
+59299002#,"Thirst, function",2670980010#,1,1,2,3463161000006116#,"Thirst, function",^ESCTTH346316,NA,2670980010,NA,27
+59299002#,"Thirst, function",2670980010#,1,1,2,98510016#,Thirst,16P,16P..00,98510016,NA,27
+112421000119102#,Dehydration due to radiation (disorder),3010298013#,1,0,1,8035611000006113#,Dehydration due to radiation,^ESCTDE803561,NA,3010578016,NA,31
+112421000119102#,Dehydration due to radiation,3010578016#,1,0,1,8035611000006113#,Dehydration due to radiation,^ESCTDE803561,NA,3010578016,NA,31
+139103007#,Excessive thirst,220615011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139103007#,Excessive thirst,517637010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139103007#,Excessive thirst (finding),2753913017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139912005#,O/E - dehydrated,221736011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139912005#,O/E - dehydrated,518535012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139912005#,O/E - dehydrated (finding),2731626019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140242006#,O/E - BP reading:postural drop,222164014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140242006#,O/E - BP reading:postural drop,518901017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140242006#,O/E - BP reading:postural drop (finding),2739431010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140404003#,O/E - abdominal skin: [dehydrated] or [dry],222388016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140404003#,O/E - abdo. skin - dehydrated,222392011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140404003#,O/E - abd.skin dry-dehydration,222394012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140404003#,O/E - abdominal skin: [dehydrated] or [dry],519081014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140404003#,O/E - abdominal skin: [dehydrated] or [dry] (finding),2709395017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154759001#,Dehydration,240650011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154759001#,Dehydration,535014011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154759001#,Dehydration (disorder),2720440012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154763008#,Hypovolaemia,240658016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154763008#,Hypovolemia,240659012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154763008#,Hypovolaemia,535019018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154763008#,Hypovolaemia (disorder),2740638019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155488005#,Orthostatic hypotension,242167012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155488005#,Orthostatic hypotension,535823013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155488005#,Orthostatic hypotension (disorder),2753434019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+157743009#,(Deprivation of water) or (thirst),246252017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+157743009#,Thirst,246253010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+157743009#,(Deprivation of water) or (thirst),538327019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+157743009#,(Deprivation of water) or (thirst) (disorder),2713441014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158286006#,[D]Excessive thirst,246916013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158286006#,[D]Excessive thirst,538930017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158286006#,[D]Excessive thirst (situation),2753443011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158358001#,[D]Hypovolaemic shock,246989010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158358001#,[D]Hypovolemic shock,246990018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158358001#,[D]Hypovolaemic shock,539010014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158358001#,[D]Hypovolaemic shock (situation),2751388019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+1601000119105#,Moderate dehydration,2915662017#,1,0,1,7969481000006114#,Moderate dehydration,^ESCTMO796948,NA,2915662017,NA,31
+1601000119105#,Moderate dehydration (disorder),12731000119119#,1,0,1,7969481000006114#,Moderate dehydration,^ESCTMO796948,NA,2915662017,NA,31
+1611000119108#,Mild dehydration,2916630012#,1,0,1,7969551000006117#,Mild dehydration,^ESCTMI796955,NA,2916630012,NA,31
+1611000119108#,Mild dehydration (disorder),12811000119116#,1,0,1,7969551000006117#,Mild dehydration,^ESCTMI796955,NA,2916630012,NA,31
+161842004#,Thirst symptom,252206015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161842004#,Thirst symptoms,252208019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161842004#,[Fluid intake] or [thirst] symptom,542916018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161842004#,[Fluid intake] or [thirst] symptom (finding),2713670014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161847005#,(Excessive thirst) or (polydipsia),252218012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161847005#,Excessive thirst,252220010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161847005#,(Excessive thirst) or (polydipsia),542922010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161847005#,(Excessive thirst) or (polydipsia) (finding),2715464014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+163193001#,O/E - abdominal skin: [dehydrated] or [dry],254317015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+163193001#,O/E - abd.skin dry-dehydration,254319017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+163193001#,O/E - abdo. skin - dehydrated,254322015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+163193001#,O/E - abdominal skin: [dehydrated] or [dry],544383014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+163193001#,O/E - abdominal skin: [dehydrated] or [dry] (finding),2715669011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190895002#,Hypovolaemia,293512012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190895002#,Hypovolemia,293513019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190895002#,Hypovolaemia,574533013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190895002#,Hypovolaemia (disorder),2727853016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190896001#,Dehydration NEC,293514013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190896001#,Dehydration NEC (disorder),574534019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190897005#,Volume depletion NOS,293515014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190897005#,Volume depletion NOS (disorder),574535018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206935007#,[D]Excessive thirst,317253012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206935007#,[D]Excessive thirst (context-dependent category),592487013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206935007#,[D]Excessive thirst (situation),2608235014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207030009#,[D]Hypovolaemic shock,317355015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207030009#,[D]Hypovolemic shock,317356019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207030009#,[D]Hypovolemic shock (context-dependent category),592592013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+207030009#,[D]Hypovolemic shock (situation),2608571011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+212972005#,Effects of thirst NOS,324691010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+212972005#,Effects of thirst NOS (disorder),598865016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+234178003#,Absolute hypovolemia,350857017#,1,0,1,5061141000006118#,Absolute hypovolemia,^ESCTAB506114,NA,350857017,NA,31
+234178003#,Absolute hypovolemia,350857017#,1,0,1,5061131000006111#,Absolute hypovolaemia,^ESCTAB506113,NA,350858010,NA,31
+234178003#,Absolute hypovolaemia,350858010#,1,0,1,5061141000006118#,Absolute hypovolemia,^ESCTAB506114,NA,350857017,NA,31
+234178003#,Absolute hypovolaemia,350858010#,1,0,1,5061131000006111#,Absolute hypovolaemia,^ESCTAB506113,NA,350858010,NA,31
+234178003#,Absolute hypovolemia (disorder),622464010#,1,0,1,5061141000006118#,Absolute hypovolemia,^ESCTAB506114,NA,350857017,NA,31
+234178003#,Absolute hypovolemia (disorder),622464010#,1,0,1,5061131000006111#,Absolute hypovolaemia,^ESCTAB506113,NA,350858010,NA,31
+234179006#,Relative hypovolaemia,350859019#,1,0,1,5061161000006119#,Relative hypovolemia,^ESCTRE506116,NA,350860012,NA,31
+234179006#,Relative hypovolaemia,350859019#,1,0,1,5061151000006116#,Relative hypovolaemia,^ESCTRE506115,NA,350859019,NA,31
+234179006#,Relative hypovolemia,350860012#,1,0,1,5061161000006119#,Relative hypovolemia,^ESCTRE506116,NA,350860012,NA,31
+234179006#,Relative hypovolemia,350860012#,1,0,1,5061151000006116#,Relative hypovolaemia,^ESCTRE506115,NA,350859019,NA,31
+234179006#,Relative hypovolemia (disorder),622465011#,1,0,1,5061161000006119#,Relative hypovolemia,^ESCTRE506116,NA,350860012,NA,31
+234179006#,Relative hypovolemia (disorder),622465011#,1,0,1,5061151000006116#,Relative hypovolaemia,^ESCTRE506115,NA,350859019,NA,31
+249476007#,Thirst,372219019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249476007#,Thirst,639909019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249476007#,Thirst (finding),2732886017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+249477003#,Increased thirst,372220013#,1,0,1,5272211000006118#,Increased thirst,^ESCTIN527221,NA,372220013,NA,31
+249477003#,Increased thirst (finding),639910012#,1,0,1,5272211000006118#,Increased thirst,^ESCTIN527221,NA,372220013,NA,31
+2520005#,AIDS with volume depletion,5300015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+2520005#,AIDS with volume depletion (disorder),755491017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+269427006#,Thirst,403586019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+269427006#,(Deprivation of water) or (thirst),403587011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+269427006#,(Deprivation of water) or (thirst),662286013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+269427006#,(Deprivation of water) or (thirst) (disorder),2715376010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+269703005#,Accident due to dehydration,404241010#,1,0,1,334565012#,"[X]Lack of water, occurrence on street and highway",U1B44,U1B4400,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,5512921000006116#,Accident due to dehydration,^ESCTAC551292,NA,404241010,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,394871000006118#,"[X]Lack of water, occurrence at industrial and construction area",U1B46,U1B4600,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,394881000006115#,"[X]Lack of water, occurrence at school, other institution and public administrative area",U1B42,U1B4200,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334569018#,"[X]Lack of water, occurrence at other specified place",U1B4y,U1B4y00,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334570017#,"[X]Lack of water, occurrence at unspecified place",U1B4z,U1B4z00,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,404239014#,Accident due to lack of water,TE42,TE42.00,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334562010#,"[X]Lack of water, occurrence in residential institution",U1B41,U1B4100,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334564011#,"[X]Lack of water, occurrence at sports and athletics area",U1B43,U1B4300,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334568014#,"[X]Lack of water, occurrence on farm",U1B47,U1B4700,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,404240011#,Accident due to thirst,TE42-1,TE42.11,404240011,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334560019#,[X]Lack of water,U1B4,U1B4.00,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334561015#,"[X]Lack of water, occurrence at home",U1B40,U1B4000,404239014,NA,32
+269703005#,Accident due to dehydration,404241010#,1,0,1,334566013#,"[X]Lack of water, occurrence at trade and service area",U1B45,U1B4500,404239014,NA,32
+271648003#,Postural drop in blood pressure,406506012#,1,0,1,5527181000006111#,Postural drop in blood pressure,^ESCTPO552718,NA,406506012,NA,31
+271648003#,Postural drop in blood pressure (finding),664066016#,1,0,1,5527181000006111#,Postural drop in blood pressure,^ESCTPO552718,NA,406506012,NA,31
+289159000#,Thirst finding,428971014#,1,0,1,5742181000006112#,Thirst finding,^ESCTTH574218,NA,428971014,NA,31
+289159000#,Thirst finding,428971014#,1,0,1,5742191000006110#,Observations of thirst,^ESCTOB574219,NA,1226108019,NA,31
+289159000#,Thirst finding (finding),683572011#,1,0,1,5742181000006112#,Thirst finding,^ESCTTH574218,NA,428971014,NA,31
+289159000#,Thirst finding (finding),683572011#,1,0,1,5742191000006110#,Observations of thirst,^ESCTOB574219,NA,1226108019,NA,31
+289159000#,Observations of thirst,1226108019#,1,0,1,5742181000006112#,Thirst finding,^ESCTTH574218,NA,428971014,NA,31
+289159000#,Observations of thirst,1226108019#,1,0,1,5742191000006110#,Observations of thirst,^ESCTOB574219,NA,1226108019,NA,31
+300397004#,Dehydration of abdominal skin,441459013#,1,0,1,5879391000006115#,Loss of abdominal skin turgor,^ESCTLO587939,NA,441460015,NA,31
+300397004#,Dehydration of abdominal skin,441459013#,1,0,1,5879401000006118#,Dehydration of abdominal skin,^ESCTDE587940,NA,441459013,NA,31
+421473007#,Hypovolemia associated with AIDS (disorder),2614804010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Hypovolemia associated with AIDS,2617425013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Hypovolaemia associated with AIDS,2617426014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Volume depletion associated with AIDS,2622770012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Hypovolemia associated with acquired immunodeficiency syndrome,2971495014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Hypovolemia associated with acquired immunodeficiency syndrome (disorder),2972016016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+421473007#,Hypovolaemia associated with acquired immunodeficiency syndrome,3035767018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+427784006#,Hypernatremic dehydration (disorder),2690629016#,1,0,1,7078711000006116#,Hypernatremic dehydration,^ESCTHY707871,NA,2694801011,NA,31
+427784006#,Hypernatremic dehydration,2694801011#,1,0,1,7078711000006116#,Hypernatremic dehydration,^ESCTHY707871,NA,2694801011,NA,31
+44759006#,"Volume depletion, extrarenal loss",74668011#,1,0,1,3221791000006118#,"Volume depletion, extrarenal loss",^ESCTVO322179,NA,74668011,NA,31
+44759006#,"Volume depletion, extrarenal loss (disorder)",781923016#,1,0,1,3221791000006118#,"Volume depletion, extrarenal loss",^ESCTVO322179,NA,74668011,NA,31
+450316000#,Severe dehydration (disorder),2915327019#,1,0,1,7377081000006112#,Severe dehydration,^ESCTSE737708,NA,2916087016,NA,31
+450316000#,Severe dehydration,2916087016#,1,0,1,7377081000006112#,Severe dehydration,^ESCTSE737708,NA,2916087016,NA,31
+47417003#,"Volume depletion, gastrointestinal loss",79060019#,1,0,1,3266701000006114#,"Volume depletion, gastrointestinal loss",^ESCTVO326670,NA,79060019,NA,31
+47417003#,"Volume depletion, gastrointestinal loss (disorder)",784873018#,1,0,1,3266701000006114#,"Volume depletion, gastrointestinal loss",^ESCTVO326670,NA,79060019,NA,31
+54480007#,"Volume depletion, renal, due to output loss (renal deficit)",90560011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+54480007#,"Volume depletion, renal, due to output loss (renal deficit, disorder) (disorder)",792715011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+54480007#,"Volume depletion, renal, due to output loss (renal deficit, disorder)",2773513010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+707296001#,Xerostomia due to dehydration (disorder),3030468010#,1,0,1,7614961000006110#,Xerostomia due to dehydration,^ESCTXE761496,NA,3030472014,NA,31
+707296001#,Xerostomia due to dehydration,3030472014#,1,0,1,7614961000006110#,Xerostomia due to dehydration,^ESCTXE761496,NA,3030472014,NA,31
+718685006#,Orthostatic hypotension co-occurrent and due to Parkinson's disease (disorder),3313001016#,1,0,1,297043014#,Orthostatic hypotension co-occurrent and due to Parkinson's disease,F1303,F130300,3313002011,NA,32
+718685006#,Orthostatic hypotension co-occurrent and due to Parkinson's disease,3313002011#,1,0,1,297043014#,Orthostatic hypotension co-occurrent and due to Parkinson's disease,F1303,F130300,3313002011,NA,32
+722096006#,Acute kidney injury due to hypovolaemia,3330673010#,1,0,1,7827251000006114#,Acute kidney injury due to hypovolemia,^ESCTAC782725,NA,3330774012,NA,31
+722096006#,Acute kidney injury due to hypovolaemia,3330673010#,1,0,1,7827241000006112#,Acute kidney injury due to hypovolaemia,^ESCTAC782724,NA,3330673010,NA,31
+722096006#,Acute kidney injury due to hypovolemia (disorder),3330674016#,1,0,1,7827251000006114#,Acute kidney injury due to hypovolemia,^ESCTAC782725,NA,3330774012,NA,31
+722096006#,Acute kidney injury due to hypovolemia (disorder),3330674016#,1,0,1,7827241000006112#,Acute kidney injury due to hypovolaemia,^ESCTAC782724,NA,3330673010,NA,31
+722096006#,Acute kidney injury due to hypovolemia,3330774012#,1,0,1,7827251000006114#,Acute kidney injury due to hypovolemia,^ESCTAC782725,NA,3330774012,NA,31
+722096006#,Acute kidney injury due to hypovolemia,3330774012#,1,0,1,7827241000006112#,Acute kidney injury due to hypovolaemia,^ESCTAC782724,NA,3330673010,NA,31
+816081007#,Extracellular fluid volume depletion,3850166017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816081007#,Extracellular fluid volume depletion (finding),3850167014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816082000#,Hypovolemia (finding),3850171012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816082000#,Hypovolemia,3850172017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816082000#,Hypovolaemia,3850173010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816155005#,Absolute hypovolaemia,3850490012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816155005#,Absolute hypovolemia,3850491011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816155005#,Absolute hypovolemia (finding),3850492016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816156006#,Relative hypovolemia (finding),3850493014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816156006#,Relative hypovolaemia,3850494015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816156006#,Relative hypovolemia,3850495019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816162001#,Gastrointestinal fluid volume depletion,3850511012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816162001#,Gastrointestinal fluid volume depletion (finding),3850512017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816163006#,Extrarenal fluid volume depletion,3850513010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+816163006#,Extrarenal fluid volume depletion (finding),3850514016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+87571007#,"Volume depletion, renal, due to effector loss (hormonal deficit)",145180016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+87571007#,"Volume depletion, renal, due to effector loss (hormonal deficit, disorder) (disorder)",830073013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+87571007#,"Volume depletion, renal, due to effector loss (hormonal deficit, disorder)",2774155019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+89599006#,Effects of thirst,148553016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

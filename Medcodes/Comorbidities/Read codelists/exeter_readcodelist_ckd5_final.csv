@@ -1,0 +1,322 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14S2.#,H/O: kidney recipient,1,1,2,251923016#,H/O: kidney recipient,14S2,14S2.00,161665007,251923016,NA,32,14S2.00#
+7B001#,Transplantation of kidney from live donor,1,1,2,272320011#,Allotransplantation of kidney from live donor,7B001-1,7B00111,175901007,272320011,NA,32,7B00111#
+7B001#,Transplantation of kidney from live donor,1,1,2,90471000006113#,Live donor renal transplant,7B001,7B00100,175901007,272318013,NA,32,7B00100#
+7B002#,Transplantation of kidney from cadaver,1,1,2,272325018#,Cadaveric renal transplant,7B002-2,7B00212,175902000,272325018,NA,32,7B00212#
+7B002#,Transplantation of kidney from cadaver,1,1,2,478131000006115#,Allotransplantation of kidney from cadaver,7B002-1,7B00211,175902000,272325018,NA,32,7B00211#
+7B002#,Transplantation of kidney from cadaver,1,1,2,90461000006118#,Transplantation of kidney from cadaver,7B002,7B00200,175902000,272325018,NA,32,7B00200#
+7B00.#,Transplantation of kidney,1,1,2,117168016#,Renal transplant,7B00-98,7B00.98,70536003,117168016,NA,32,7B00.98#
+7B00.#,Transplantation of kidney,1,1,2,866751000006110#,Kidney replacement,7B00-99,7B00.99,70536003,866751000006110,NA,32,7B00.99#
+7B00.#,Transplantation of kidney,1,1,2,501594013#,Transplantation of kidney,7B00,7B00.00,70536003,501594013,NA,32,7B00.00#
+7B00.#,Transplantation of kidney,1,1,2,866731000006115#,Kidney replacement NOS,7B00-97,7B00.97,70536003,866731000006115,NA,32,7B00.97#
+7B00y#,Other specified transplantation of kidney,1,1,2,272326017#,Other specified transplantation of kidney,7B00y,7B00y00,70536003,117163013,NA,32,7B00y00#
+7B00z#,Transplantation of kidney NOS,1,1,2,272327014#,Transplantation of kidney NOS,7B00z,7B00z00,70536003,501594013,NA,32,7B00z00#
+7L1A0#,Renal dialysis,1,1,2,106291000006118#,Thomas intravascular shunt for dialysis,7L1A0-1,7L1A011,302497006,444203017,NA,32,7L1A011#
+7L1A0#,Renal dialysis,1,1,2,877641000006113#,Extracorporeal kidney,7L1A0-99,7L1A099,265764009,877641000006113,NA,32,7L1A099#
+7L1A0#,Renal dialysis,1,1,2,394640016#,Renal dialysis,7L1A0,7L1A000,265764009,394640016,NA,32,7L1A000#
+7L1A1#,Peritoneal dialysis,1,1,2,118218017#,Peritoneal dialysis,7L1A1,7L1A100,71192002,118218017,NA,32,7L1A100#
+7L1A2#,Haemodialysis NEC,1,1,2,278832011#,Haemodialysis,7L1A2,7L1A200,302497006,444203017,NA,32,7L1A200#
+7L1A.#,Dialysis for renal failure,1,1,2,394639018#,Compensation for renal failure,7L1A,7L1A.00,265763003,394639018,NA,32,7L1A.00#
+7L1A.#,Dialysis for renal failure,1,1,2,619541000006116#,Dialysis for renal failure,7L1A-1,7L1A.11,265764009,394640016,NA,32,7L1A.11#
+7L1B0#,Insertion of ambulatory peritoneal dialysis catheter,1,1,2,773041000006111#,Insertion of chronic ambulatory peritoneal dialysis catheter,7L1B0,7L1B000,180272001,278839019,NA,32,7L1B000#
+7L1B1#,Removal of ambulatory peritoneal dialysis catheter,1,1,2,181021000006119#,Removal of ambulatory peritoneal dialysis catheter,7L1B1,7L1B100,180273006,278840017,NA,32,7L1B100#
+7L1B.#,Placement ambulatory dialysis apparatus - compens renal fail,1,1,2,228131000006117#,Placement ambulatory dialysis apparatus - compens renal fail,7L1B-1,7L1B.11,180272001,278839019,NA,32,7L1B.11#
+7L1B.#,Placement ambulatory dialysis apparatus - compens renal fail,1,1,2,228101000006113#,Placement ambulatory apparatus compensation renal failure,7L1B,7L1B.00,180272001,278839019,NA,32,7L1B.00#
+7L1C0#,Insertion of temporary peritoneal dialysis catheter,1,1,2,278844014#,Insertion of temporary peritoneal dialysis catheter,7L1C0,7L1C000,180277007,278844014,NA,32,7L1C000#
+8882.#,Intestinal dialysis,1,1,2,282526013#,Intestinal dialysis,8882,8882.00,182753006,282526013,NA,32,8882.00#
+TA020#,"Accid cut,puncture,perf,h'ge - kidney dialysis",1,1,2,446291000006111#,Accidental cut/puncture/perf/haem'ge during renal dialysis,TA020-1,TA02011,216878005,329026014,NA,32,TA02011#
+TA020#,"Accid cut,puncture,perf,h'ge - kidney dialysis",1,1,2,441151000006115#,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis",TA020,TA02000,216878005,329026014,NA,32,TA02000#
+TA220#,Failure of sterile precautions during kidney dialysis,1,1,2,329116017#,Failure of sterile precautions during kidney dialysis,TA220,TA22000,216933008,329116017,NA,32,TA22000#
+TA220#,Failure of sterile precautions during kidney dialysis,1,1,2,663551000006118#,Failure of sterile precautions during renal dialysis,TA220-1,TA22011,216933008,329116017,NA,32,TA22011#
+TB11.#,"Kidney dialysis with complication, without blame",1,1,2,754781000006116#,"Kidney dialysis with complication, without blame",TB11,TB11.00,116223007,178923014,NA,32,TB11.00#
+TB11.#,"Kidney dialysis with complication, without blame",1,1,2,176711000006111#,"Renal dialysis with complication, without blame",TB11-1,TB11.11,116223007,178923014,NA,32,TB11.11#
+ZV420#,[V]Kidney transplanted,1,1,2,460644012#,History of renal transplant,ZV420,ZV42000,161665007,2793932016,NA,32,ZV42000#
+ZV451#,[V]Renal dialysis status,1,1,2,460680012#,Dialysis finding,ZV451,ZV45100,251859005,375186018,NA,32,ZV45100#
+ZV560#,[V]Aftercare involving extracorporeal dialysis,1,1,2,460911015#,[V]Aftercare involving extracorporeal dialysis,ZV560,ZV56000,410511000000103,1008481000000119,NA,32,ZV56000#
+ZV560#,[V]Aftercare involving extracorporeal dialysis,1,1,2,1227722017#,[V]Aftercare involving renal dialysis NOS,ZV560-1,ZV56011,410511000000103,1008481000000119,NA,32,ZV56011#
+ZV56y#,[V]Other specified aftercare involving intermittent dialysis,1,1,2,1227723010#,[V]Aftercare involving peritoneal dialysis,ZV56y-1,ZV56y11,426351000000102,1008501000000111,NA,32,ZV56y11#
+ZV56y#,[V]Other specified aftercare involving intermittent dialysis,1,1,2,460913017#,[V]Other specified aftercare involving intermittent dialysis,ZV56y,ZV56y00,426351000000102,1008501000000111,NA,32,ZV56y00#
+ZV56.#,[V]Aftercare involving intermittent dialysis,1,1,2,460910019#,[V]Aftercare involving intermittent dialysis,ZV56,ZV56.00,398471000000102,1008471000000116,NA,32,ZV56.00#
+ZV56z#,[V]Unspecified aftercare involving intermittent dialysis,1,1,2,460914011#,[V]Unspecified aftercare involving intermittent dialysis,ZV56z,ZV56z00,426361000000104,1008511000000113,NA,32,ZV56z00#
+ZVu3G#,[X]Other dialysis,1,1,2,461420012#,Dialysis procedure,ZVu3G,ZVu3G00,108241001,172680015,NA,32,ZVu3G00#
+14V2.#,H/O: renal dialysis,1,0,1,251957012#,H/O: renal dialysis,14V2,14V2.00,161693006,251957012,NA,32,14V2.00#
+14V2.#,H/O: renal dialysis,1,0,1,251956015#,H/O: kidney dialysis,14V2-1,14V2.11,161693006,251956015,NA,32,14V2.11#
+1Z14.#,Chronic kidney disease stage 5,1,0,1,304111000000114#,Chronic kidney disease stage 5,1Z14,1Z14.00,433146000,2767154014,NA,32,1Z14.00#
+1Z1K.#,Chronic kidney disease stage 5 with proteinuria,1,0,1,618511000000119#,CKD stage 5 with proteinuria,1Z1K-1,1Z1K.11,324501000000107,618511000000119,NA,27,1Z1K.11#
+1Z1K.#,Chronic kidney disease stage 5 with proteinuria,1,0,1,596321000000110#,Chronic kidney disease stage 5 with proteinuria,1Z1K,1Z1K.00,324501000000107,596321000000110,NA,27,1Z1K.00#
+1Z1L.#,Chronic kidney disease stage 5 without proteinuria,1,0,1,596401000000111#,Chronic kidney disease stage 5 without proteinuria,1Z1L,1Z1L.00,324541000000105,596401000000111,NA,27,1Z1L.00#
+1Z1L.#,Chronic kidney disease stage 5 without proteinuria,1,0,1,618521000000113#,CKD stage 5 without proteinuria,1Z1L-1,1Z1L.11,324541000000105,618521000000113,NA,27,1Z1L.11#
+7B003#,"Allotransplantation of kidney from cadaver, heart-beating",1,0,1,372621000000114#,Allotransplantation of kidney from beating heart cadaver,7B003,7B00300,711411006,3078356013,NA,32,7B00300#
+7B004#,"Allotransplantation kidney from cadaver, heart non-beating",1,0,1,1549841000006116#,Allotransplantation of kidney from non-beating heart cadaver,7B004,7B00400,711413009,3078484016,NA,32,7B00400#
+7B005#,Allotransplantation of kidney from cadaver NEC,1,0,1,399381000000115#,Allotransplantation of kidney from cadaver NEC,7B005,7B00500,175902000,272323013,NA,32,7B00500#
+7B015#,Excision of rejected transplanted kidney,1,0,1,422992018#,Excision of rejected transplanted kidney,7B015-1,7B01511,284348003,422992018,NA,32,7B01511#
+7B015#,Excision of rejected transplanted kidney,1,0,1,394365013#,Transplant nephrectomy,7B015,7B01500,265550007,394365013,NA,32,7B01500#
+7B063#,Exploration of renal transplant,1,0,1,272389014#,Exploration of renal transplant,7B063,7B06300,175948009,272389014,NA,32,7B06300#
+7B0F3#,"Post-transplantation of kidney examination, recipient",1,0,1,380101000000116#,Examination of recipient after kidney transplant,7B0F3,7B0F300,428645009,2693113012,NA,32,7B0F300#
+7B0F.#,Interventions associated with transplantation of kidney,1,0,1,366671000000118#,Interventions associated with transplantation of kidney,7B0F,7B0F.00,711446003,3078450015,NA,32,7B0F.00#
+7B0Fy#,OS interventions associated with transplantation of kidney,1,0,1,1550021000006110#,OS interventions associated with transplantation of kidney,7B0Fy,7B0Fy00,711446003,3078450015,NA,32,7B0Fy00#
+7B0Fz#,Interventions associated with transplantation of kidney NOS,1,0,1,380061000000118#,Interventions associated with transplantation of kidney NOS,7B0Fz,7B0Fz00,711446003,3078450015,NA,32,7B0Fz00#
+7L1A4#,Automated peritoneal dialysis,1,0,1,2692168016#,Automated peritoneal dialysis,7L1A4,7L1A400,428648006,2692168016,NA,32,7L1A400#
+7L1A5#,Continuous ambulatory peritoneal dialysis,1,0,1,357219012#,Continuous ambulatory peritoneal dialysis,7L1A5,7L1A500,238318009,357219012,NA,32,7L1A500#
+7L1A6#,Peritoneal dialysis NEC,1,0,1,375841000000114#,Peritoneal dialysis NEC,7L1A6,7L1A600,71192002,118218017,NA,32,7L1A600#
+7L1B2#,Flushing of peritoneal dialysis catheter,1,0,1,1705621000000113#,Flushing of peritoneal dialysis catheter,7L1B2,7L1B200,238317004,1705621000000113,NA,32,7L1B200#
+G72C.#,Ruptured aneurysm of dialysis vascular access,1,0,1,2195121000000113#,Ruptured aneurysm of dialysis vascular access,G72C,G72C.00,846461000000102,2195121000000113,NA,32,G72C.00#
+G72D0#,Aneurysm of superficialised artery of dialysis AV fistula,1,0,1,1847091000006110#,Aneurysm of superficialised artery of dialysis arteriovenous fistula,G72D0,G72D000,846671000000106,2195541000000114,NA,32,G72D000#
+G72D1#,Aneurysm of needle site of dialysis arteriovenous fistula,1,0,1,2195721000000112#,Aneurysm of needle site of dialysis arteriovenous fistula,G72D1,G72D100,846761000000109,2195721000000112,NA,32,G72D100#
+G72D2#,Aneurysm of anastomotic site of dialysis AV fistula,1,0,1,1847111000006118#,Aneurysm of anastomotic site of dialysis arteriovenous fistula,G72D2,G72D200,846801000000104,2195801000000114,NA,32,G72D200#
+G72D.#,Aneurysm of dialysis arteriovenous fistula,1,0,1,2195661000000114#,Aneurysm of dialysis arteriovenous fistula,G72D,G72D.00,846731000000104,2195661000000114,NA,32,G72D.00#
+Gy10.#,Stenosis of dialysis arteriovenous graft,1,0,1,2237981000000112#,Stenosis of dialysis arteriovenous graft,Gy10,Gy10.00,865841000000102,2237981000000112,NA,32,Gy10.00#
+Gy1..#,Stenosis of dialysis vascular access,1,0,1,2210341000000113#,Stenosis of dialysis vascular access,Gy1,Gy1..00,853631000000103,2210341000000113,NA,32,Gy1..00#
+Gy21.#,Thrombosis of dialysis arteriovenous fistula,1,0,1,2238301000000119#,Thrombosis of dialysis arteriovenous fistula,Gy21,Gy21.00,866001000000102,2238301000000119,NA,32,Gy21.00#
+Gy2..#,Thrombosis of dialysis vascular access,1,0,1,2210381000000117#,Thrombosis of dialysis vascular access,Gy2,Gy2..00,853651000000105,2210381000000117,NA,32,Gy2..00#
+Gy30.#,Occlusion of dialysis arteriovenous graft,1,0,1,2238381000000112#,Occlusion of dialysis arteriovenous graft,Gy30,Gy30.00,866041000000104,2238381000000112,NA,32,Gy30.00#
+Gy31.#,Occlusion of dialysis arteriovenous fistula,1,0,1,2238421000000115#,Occlusion of dialysis arteriovenous fistula,Gy31,Gy31.00,866061000000103,2238421000000115,NA,32,Gy31.00#
+Gy3..#,Occlusion of dialysis vascular access,1,0,1,2237821000000118#,Occlusion of dialysis vascular access,Gy3,Gy3..00,865761000000105,2237821000000118,NA,32,Gy3..00#
+Gy40.#,Infection of dialysis arteriovenous graft,1,0,1,2240321000000114#,Infection of dialysis arteriovenous graft,Gy40,Gy40.00,430332005,2240321000000114,NA,32,Gy40.00#
+Gy41.#,Infection of dialysis arteriovenous fistula,1,0,1,1870801000006111#,Infection of haemodialysis arteriovenous fistula,Gy41,Gy41.00,449288005,2901095010,NA,32,Gy41.00#
+Gy4..#,Infection of dialysis vascular access,1,0,1,2237861000000114#,Infection of dialysis vascular access,Gy4,Gy4..00,865781000000101,2237861000000114,NA,32,Gy4..00#
+Gy51.#,Haemorrhage of dialysis arteriovenous fistula,1,0,1,2240871000000116#,Haemorrhage of dialysis arteriovenous fistula,Gy51,Gy51.00,867011000000102,2240871000000116,NA,32,Gy51.00#
+Gy5..#,Haemorrhage of dialysis vascular access,1,0,1,2237901000000119#,Haemorrhage of dialysis vascular access,Gy5,Gy5..00,865801000000100,2237901000000119,NA,32,Gy5..00#
+Gy60.#,Rupture of dialysis arteriovenous graft,1,0,1,2240951000000115#,Rupture of dialysis arteriovenous graft,Gy60,Gy60.00,867051000000103,2240951000000115,NA,32,Gy60.00#
+K050.#,End stage renal failure,1,0,1,215521000000116#,End stage renal disease,K050,K050.00,46177005,76995019,NA,32,K050.00#
+K05..#,End stage renal failure,1,0,1,509111010#,Chronic renal failure,K05,K05..00,90688005,509111010,NA,32,K05..00#
+K05..#,End stage renal failure,1,0,1,641471000006117#,End stage renal failure,K05-2,K05..12,46177005,76995019,NA,32,K05..12#
+K05..#,End stage renal failure,1,0,1,2771041011#,Chronic kidney disease,K05-3,K05..13,709044004,3036750018,NA,32,K05..13#
+K05..#,End stage renal failure,1,0,1,509108014#,Chronic uraemia,K05-1,K05..11,90688005,509108014,NA,32,K05..11#
+K0D..#,End-stage renal disease,1,0,1,641491000006116#,End-stage renal disease,K0D,K0D..00,46177005,76996018,NA,32,K0D..00#
+SP015#,Mechanical complication of dialysis catheter,1,0,1,30043012#,Mechanical complication of dialysis catheter,SP015,SP01500,17778006,30043012,NA,32,SP01500#
+SP056#,[X] Peritoneal dialysis associated peritonitis,1,0,1,215711000000115#,Prosthetic infection,SP056-2,SP05612,275274007,411236014,NA,32,SP05612#
+SP056#,[X] Peritoneal dialysis associated peritonitis,1,0,1,389691000006118#,[X]Infec & inflam react due oth int prosth device/imp/graft,SP056,SP05600,35688006,59527012,NA,32,SP05600#
+SP056#,[X] Peritoneal dialysis associated peritonitis,1,0,1,453312018#,Peritoneal dialysis-associated peritonitis,SP056-3,SP05613,276883000,413231010,NA,32,SP05613#
+SP056#,[X] Peritoneal dialysis associated peritonitis,1,0,1,215701000000117#,Graft infection,SP056-1,SP05611,275273001,411235013,NA,32,SP05611#
+SP06B#,Continuous ambulatory peritoneal dialysis associated perit,1,0,1,1743241000006119#,Continuous ambulatory peritoneal dialysis associated peritonitis,SP06B,SP06B00,699235009,2983127018,NA,32,SP06B00#
+SP07G#,Stenosis of arteriovenous dialysis fistula,1,0,1,2645965011#,Stenosis of arteriovenous dialysis fistula,SP07G,SP07G00,423062001,2645965011,NA,32,SP07G00#
+SP083#,Kidney transplant failure and rejection,1,0,1,324973015#,Kidney transplant failure and rejection,SP083,SP08300,213150003,324973015,NA,32,SP08300#
+SP083#,Kidney transplant failure and rejection,1,0,1,988961000006115#,Renal transplant rejected,SP083-99,SP08399,213150003,988961000006115,NA,32,SP08399#
+SP08D#,Acute-on-chronic rejection of renal transplant,1,0,1,354628010#,Acute-on-chronic rejection of renal transplant,SP08D,SP08D00,236582008,354628010,NA,32,SP08D00#
+SP08E#,Acute rejection of renal transplant - grade I,1,0,1,354616019#,Acute rejection of renal transplant - grade I,SP08E,SP08E00,236575009,354616019,NA,32,SP08E00#
+SP08F#,Acute rejection of renal transplant - grade II,1,0,1,354617011#,Acute rejection of renal transplant - grade II,SP08F,SP08F00,236576005,354617011,NA,32,SP08F00#
+SP08G#,Acute rejection of renal transplant - grade III,1,0,1,354618018#,Acute rejection of renal transplant - grade III,SP08G,SP08G00,236577001,354618018,NA,32,SP08G00#
+SP08H#,Acute rejection of renal transplant,1,0,1,354615015#,Acute rejection of renal transplant,SP08H,SP08H00,236574008,354615015,NA,32,SP08H00#
+SP08J#,Chronic rejection of renal transplant,1,0,1,354621016#,Chronic transplant nephropathy,SP08J-1,SP08J11,236578006,354621016,NA,32,SP08J11#
+SP08J#,Chronic rejection of renal transplant,1,0,1,354619014#,Chronic rejection of renal transplant,SP08J,SP08J00,236578006,354619014,NA,32,SP08J00#
+SP08N#,Unexplained episode of renal transplant dysfunction,1,0,1,413415016#,Unexplained episode of renal transplant dysfunction,SP08N,SP08N00,277010001,413415016,NA,32,SP08N00#
+SP08P#,Stenosis of vein of transplanted kidney,1,0,1,2198141000000110#,Stenosis of vein of transplanted kidney,SP08P,SP08P00,847881000000107,2198141000000110,NA,32,SP08P00#
+SP08R#,Renal transplant rejection,1,0,1,354610013#,Renal transplant rejection,SP08R,SP08R00,236570004,354610013,NA,32,SP08R00#
+SP08T#,Urological complication of renal transplant,1,0,1,2189151000000117#,Urological complication of renal transplant,SP08T,SP08T00,843691000000100,2189151000000117,NA,32,SP08T00#
+SP08V#,Very mild acute rejection of renal transplant,1,0,1,354613010#,Very mild acute rejection of renal transplant,SP08V,SP08V00,236573002,354613010,NA,32,SP08V00#
+SP08V#,Very mild acute rejection of renal transplant,1,0,1,354614016#,Borderline changes of acute rejection,SP08V-1,SP08V11,236573002,354614016,NA,32,SP08V11#
+SP08W#,Vascular complication of renal transplant,1,0,1,2191221000000118#,Vascular complication of renal transplant,SP08W,SP08W00,844661000000109,2191221000000118,NA,32,SP08W00#
+SP0E.#,Disorders associated with peritoneal dialysis,1,0,1,1848741000006116#,Complication of peritoneal dialysis,SP0E,SP0E.00,33461007,55841017,NA,32,SP0E.00#
+SP0F.#,Haemodialysis first use syndrome,1,0,1,2211311000000117#,Haemodialysis first use syndrome,SP0F,SP0F.00,236539007,2211311000000117,NA,32,SP0F.00#
+SP0G.#,Anaphylactoid reaction due to haemodialysis,1,0,1,2211671000000119#,Anaphylactoid reaction due to haemodialysis,SP0G,SP0G.00,854161000000102,2211671000000119,NA,32,SP0G.00#
+TB001#,"Kidney transplant with complication, without blame",1,0,1,177251000006119#,"Renal transplant with complication, without blame",TB001-1,TB00111,88797001,147234011,NA,32,TB00111#
+TB001#,"Kidney transplant with complication, without blame",1,0,1,754061000006111#,"Kidney transplant with complication, without blame",TB001,TB00100,88797001,147234011,NA,32,TB00100#
+Z1A1.#,Peritoneal dialysis training,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z1A1.#
+Z1A2.#,Haemodialysis training,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z1A2.#
+Z1A..#,Dialysis training,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z1A..#
+Z9191#,Priming haemodialysis lines,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z9191#
+Z9192#,Washing back through haemodialysis lines,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z9192#
+Z9193#,Reversing haemodialysis lines,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z9193#
+Z919.#,Care of haemodialysis equipment,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z919.#
+Z91A.#,Peritoneal dialysis bag procedure,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Z91A.#
+7A600#,Insertion of arteriovenous prosthesis,0,1,1,272134015#,Insertion of arteriovenous prosthesis,7A600,7A60000,175777002,272134015,NA,32,7A60000#
+7A602#,Attention to arteriovenous shunt,0,1,1,272139013#,Attention to arteriovenous shunt,7A602,7A60200,175779004,272139013,NA,32,7A60200#
+7A602#,Attention to arteriovenous shunt,0,1,1,866341000006112#,Cut-down venous catheterisat.,7A602-99,7A60299,175779004,866341000006112,NA,32,7A60299#
+7A603#,Removal of infected arteriovenous shunt,0,1,1,272140010#,Removal of infected arteriovenous shunt,7A603,7A60300,175780001,272140010,NA,32,7A60300#
+7A60y#,Other specified arteriovenous shunt,0,1,1,272141014#,Other specified arteriovenous shunt,7A60y,7A60y00,46196009,77029013,NA,32,7A60y00#
+7A60z#,Arteriovenous shunt NOS,0,1,1,272142019#,Arteriovenous shunt NOS,7A60z,7A60z00,46196009,77029013,NA,32,7A60z00#
+7A614#,Ligation of acquired arteriovenous fistula,0,1,1,272153013#,Ligation of acquired arteriovenous fistula,7A614,7A61400,175788008,272153013,NA,32,7A61400#
+7A6E2#,Declotting of thigh vein loop,0,1,1,272283013#,Declotting of thigh vein loop,7A6E2,7A6E200,175873005,272283013,NA,32,7A6E200#
+7L1Ay#,Other specified compensation for renal failure,0,1,1,278834012#,Other specified compensation for renal failure,7L1Ay,7L1Ay00,265763003,394639018,NA,32,7L1Ay00#
+7L1Az#,Compensation for renal failure NOS,0,1,1,278835013#,Compensation for renal failure NOS,7L1Az,7L1Az00,265764009,394640016,NA,32,7L1Az00#
+7L1By#,Placement ambulatory apparatus- compensate renal failure OS,0,1,1,228121000006115#,Placement ambulatory apparatus- compensate renal failure OS,7L1By,7L1By00,271418008,406192014,NA,32,7L1By00#
+7L1Bz#,Placement ambulatory apparatus- compensate renal failure NOS,0,1,1,228111000006111#,Placement ambulatory apparatus- compensate renal failure NOS,7L1Bz,7L1Bz00,271418008,406192014,NA,32,7L1Bz00#
+7L1C.#,Placement other apparatus for compensation for renal failure,0,1,1,228211000006117#,Placement other apparatus for compensation for renal failure,7L1C,7L1C.00,180277007,278844014,NA,32,7L1C.00#
+7L1Cy#,Placement other apparatus- compensate for renal failure OS,0,1,1,228231000006111#,Placement other apparatus- compensate for renal failure OS,7L1Cy,7L1Cy00,180277007,278844014,NA,32,7L1Cy00#
+7L1Cz#,Placement other apparatus- compensate for renal failure NOS,0,1,1,228221000006113#,Placement other apparatus- compensate for renal failure NOS,7L1Cz,7L1Cz00,180277007,278844014,NA,32,7L1Cz00#
+8877.#,Ultrafiltration,0,1,1,79191000006119#,Ultrafiltration of blood,8877,8877.00,182750009,282521015,NA,32,8877.00#
+TA02z#,"Accid cut,puncture,perf,h'ge - perfusion NOS",0,1,1,441211000006110#,"Accid cut,puncture,perf,h'ge - perfusion NOS",TA02z,TA02z00,269691005,404223019,NA,32,TA02z00#
+TA22.#,Failure of sterile precautions during perfusion,0,1,1,329115018#,Failure of sterile precautions during perfusion,TA22,TA22.00,216932003,329115018,NA,32,TA22.00#
+TA22y#,Failure of sterile precautions during other perfusion,0,1,1,329117014#,Failure of sterile precautions during other perfusion,TA22y,TA22y00,216932003,329115018,NA,32,TA22y00#
+TA22z#,Failure of sterile precautions during perfusion NOS,0,1,1,329118016#,Failure of sterile precautions during perfusion NOS,TA22z,TA22z00,216932003,329115018,NA,32,TA22z00#
+TA420#,Mech failure of instrument &/or apparatus during kidney dial,0,1,1,713671000006118#,Mechanical failure of apparatus during renal dialysis,TA420-1,TA42011,269698004,404234016,NA,32,TA42011#
+TA420#,Mech failure of instrument &/or apparatus during kidney dial,0,1,1,713611000006110#,Mechanical failure of instrument or apparatus during kidney dialysis,TA420,TA42000,269698004,404234016,NA,32,TA42000#
+U6122#,[X]Failure sterile precautions dur kidney dialys/other perf,0,1,1,384641000006114#,[X]Failure sterile precautions dur kidney dialys/other perf,U6122,U612200,216933008,329116017,NA,32,U612200#
+Ua1IM#,Chronic peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1IM#
+Ua1IN#,Stab peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1IN#
+X018M#,Creation of Cimino fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018M#
+X018N#,Creation brachiocephalic fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018N#
+X018T#,Angioplasty of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018T#
+X018U#,Thrombolysis of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018U#
+X018V#,Thrombolysis of arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018V#
+X018Y#,Embolectomy of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018Y#
+X018Z#,Embolectomy of arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018Z#
+X018a#,Procedure on intraluminal device of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018a#
+X018b#,Insertion of intraluminal device into arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018b#
+X018c#,Insertion of stent into arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018c#
+X018d#,Removal of intraluminal device from arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018d#
+X018e#,Removal of stent from arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018e#
+X018f#,Adjustment of intraluminal device of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018f#
+X018g#,Adjustment of arteriovenous fistula stent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018g#
+X018j#,Banding of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018j#
+X018n#,Exploration of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018n#
+X018o#,Exploration of arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X018o#
+X01AF#,Intermittent haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AF#
+X01AG#,Intermittent haemodialysis with sequential ultrafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AG#
+X01AH#,Intermittent haemodialysis with continuous ultrafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AH#
+X01AI#,Continuous haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AI#
+X01AJ#,Continuous arteriovenous haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AJ#
+X01AK#,Continuous venovenous haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AK#
+X01AL#,Haemofiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AL#
+X01AM#,Intermittent haemofiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AM#
+X01AN#,Continuous haemofiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AN#
+X01AO#,Continuous arteriovenous haemofiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AO#
+X01AP#,Continuous venovenous haemofiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AP#
+X01AQ#,Haemodiafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AQ#
+X01AR#,Intermittent haemodiafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AR#
+X01AS#,Continuous haemodiafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AS#
+X01AT#,Continuous arteriovenous haemodiafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AT#
+X01AU#,Continuous venovenous haemodiafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AU#
+X01AY#,Plasma filtration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X01AY#
+X30D2#,Xenograft renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30D2#
+X30J0#,End stage renal failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30J0#
+X30J1#,"End stage renal failure, untreated by RRT",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30J1#
+X30J2#,End stage renal failure on dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30J2#
+X30J3#,End stage renal failure with renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30J3#
+X30Lp#,Disorder associated with dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lp#
+X30Lq#,Acute disorder of haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lq#
+X30Lr#,Dialysis disequilibrium,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lr#
+X30Ls#,First use syndrome of dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Ls#
+X30Lt#,Anaphylactoid reaction to dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lt#
+X30Lu#,Hyperchloraemic acidosis associated with dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lu#
+X30Lv#,Hard water syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lv#
+X30Lw#,Long-term disorder of dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lw#
+X30Lx#,Beta-2 microglobulin amyloidosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lx#
+X30Ly#,Beta-2 microglobulin arthropathy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Ly#
+X30Lz#,Matrix stone formation of dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Lz#
+X30M0#,Aluminium intoxication,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M0#
+X30M1#,Aluminium bone disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M1#
+X30M2#,Aluminium-related osteomalacia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M2#
+X30M3#,Aluminium-related fracturing osteodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M3#
+X30M4#,Polyserositis syndrome of dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M4#
+X30M5#,Underdialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M5#
+X30M6#,Adynamic bone disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M6#
+X30M7#,Disorders associated with peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M7#
+X30M8#,Pain during inflow of dialysate,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M8#
+X30M9#,Pain during outflow of dialysate,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30M9#
+X30MB#,Bloodstained peritoneal dialysis effluent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MB#
+X30MC#,Peritoneal dialysis catheter exit site infection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MC#
+X30MD#,Peritoneal dialysis catheter tunnel infection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MD#
+X30ME#,Loss of ultrafiltration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30ME#
+X30MF#,Loss of solute clearance,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MF#
+X30MG#,Disorder of peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MG#
+X30MH#,Obstruction of peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MH#
+X30MI#,Migration of peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MI#
+X30MJ#,Omental wrapping around peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MJ#
+X30MK#,Poor drainage of peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MK#
+X30ML#,Extrusion of peritoneal dialysis catheter cuff,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30ML#
+X30MM#,Misplacement of acute peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MM#
+X30MN#,Renal transplant disorder,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MN#
+X30MO#,Primary non-function of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MO#
+X30MP#,Renal transplant rejection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MP#
+X30MQ#,Hyperacute rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MQ#
+X30MR#,Accelerated rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MR#
+X30MS#,Very mild acute rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MS#
+X30MT#,Acute rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MT#
+X30MU#,Acute rejection of renal transplant - grade I,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MU#
+X30MV#,Acute rejection of renal transplant - grade II,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MV#
+X30MW#,Acute rejection of renal transplant - grade III,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MW#
+X30MX#,Chronic rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MX#
+X30MY#,Chronic rejection of renal transplant - grade 1,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MY#
+X30MZ#,Chronic rejection of renal transplant - grade II,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30MZ#
+X30Ma#,Chronic rejection of renal transplant - grade III,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Ma#
+X30Mb#,Acute-on-chronic rejection of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Mb#
+X30Mc#,Failed renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Mc#
+X30Md#,Perfusion injury of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Md#
+X30Mg#,Transplant glomerulopathy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Mg#
+X30Mh#,Transplant glomerulopathy - early form,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Mh#
+X30Mi#,Transplant glomerulopathy - late form,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30Mi#
+X30NN#,Perirenal and periureteric post-transplant lymphocele,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30NN#
+X40bz#,Renewal of chronic ambulatory peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40bz#
+X40c0#,Adjustment chronic ambulatory peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c0#
+X40c1#,Aspiration chronic ambulatory peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c1#
+X40c2#,Flushing of chronic ambulatory peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c2#
+X40c3#,Continuous ambulatory peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c3#
+X40c4#,Continuous cycling peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c4#
+X40c5#,Intermittent peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c5#
+X40c6#,Tidal peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c6#
+X40c7#,Night-time intermittent peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40c7#
+XE0Fh#,Creation of arteriovenous fistula NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Fh#
+XE0Fj#,Repair of acquired arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Fj#
+XE0Jf#,Compensation for renal failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Jf#
+XE0Jg#,Renal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Jg#
+XE0kD#,Renal dialysis (& haemodialysis),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0kD#
+XE21r#,Mechanical failure of apparatus during kidney dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE21r#
+XE2u6#,Chronic ambulatory peritoneal dialysis catheter procedure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2u6#
+Xa0Ex#,Peritoneal dialysis-associated peritonitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Ex#
+Xa0FB#,Percutaneous balloon angioplasty of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0FB#
+Xa0Gm#,Percutaneous embolectomy of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Gm#
+Xa0H7#,Percutaneous thrombolysis of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0H7#
+Xa0HK#,Unexplained episode of renal transplant dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0HK#
+Xa0HL#,Pre-existing disease in renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0HL#
+Xa0ol#,Procedure related to surgical arteriovenous connection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0ol#
+Xa0x1#,Removal of arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0x1#
+Xa1dw#,Transplant kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1dw#
+Xa24I#,Acquired renal arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa24I#
+Xa3x6#,Kidney replacement,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3x6#
+Xa402#,Extracorporeal kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa402#
+Xa8S7#,Haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa8S7#
+Xa9zl#,Dependence on renal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9zl#
+XaBrA#,Haemodialysis procedure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBrA#
+XaC2Z#,[X] Peritoneal dialysis associated peritonitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaC2Z#
+XaE9T#,Donor renal transplantation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaE9T#
+XaLiG#,Thrombectomy of arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLiG#
+XaLiH#,Creation of graft fistula for dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLiH#
+XaM1o#,"Allotransplantation of kidney from cadaver, heart-beating",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaM1o#
+XaM1p#,"Allotransplantation kidney from cadaver, heart non-beating",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaM1p#
+XaM2A#,Automated peritoneal dialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaM2A#
+XaMKM#,Allotransplantation of kidney from cadaver NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMKM#
+XaMMt#,Peritoneal dialysis NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMMt#
+XaMtq#,Extracorporeal albumin haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMtq#
+XaOmL#,Ligation of arteriovenous dialysis fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOmL#
+XaOoH#,Ligation of arteriovenous dialysis graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOoH#
+XaREO#,Continuous ambulatory peritoneal dialysis associated perit,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaREO#
+XaZWa#,Urological complication of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZWa#
+XaZYx#,Vascular complication of renal transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZYx#
+XaZc8#,Ruptured aneurysm of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZc8#
+XaZcQ#,Aneurysm of superficialised artery of dialysis AV fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZcQ#
+XaZcU#,Aneurysm of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZcU#
+XaZcX#,Aneurysm of needle site of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZcX#
+XaZcd#,Aneurysm of anastomotic site of dialysis AV fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZcd#
+XaZdk#,Thrombus in peritoneal dialysis catheter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZdk#
+XaZe2#,Rupture of artery of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZe2#
+XaZe3#,Rupture of vein of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZe3#
+XaZe7#,Stenosis of vein of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZe7#
+XaZkw#,Aneurysm of vein of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZkw#
+XaZl0#,Aneurysm of artery of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZl0#
+XaZlu#,Stenosis of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZlu#
+XaZlv#,Thrombosis of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZlv#
+XaZmp#,Anaphylactoid reaction due to haemodialysis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZmp#
+Xaa2O#,Thrombosis of artery of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa2O#
+Xaa2Q#,Thrombosis of vein of transplanted kidney,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa2Q#
+Xaa5S#,Occlusion of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5S#
+Xaa5T#,Infection of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5T#
+Xaa5U#,Haemorrhage of dialysis vascular access,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5U#
+Xaa5W#,Stenosis of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5W#
+Xaa5X#,Stenosis of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5X#
+Xaa5e#,Thrombosis of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5e#
+Xaa5f#,Thrombosis of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5f#
+Xaa5g#,Thrombosis of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5g#
+Xaa5h#,Occlusion of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5h#
+Xaa5i#,Occlusion of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5i#
+Xaa5j#,Occlusion of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa5j#
+Xaa6n#,Infection of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa6n#
+Xaa6o#,Infection of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa6o#
+Xaa7F#,Infection of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7F#
+Xaa7H#,Haemorrhage of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7H#
+Xaa7I#,Haemorrhage of dialysis arteriovenous fistula,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7I#
+Xaa7J#,Haemorrhage of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7J#
+Xaa7K#,Rupture of dialysis arteriovenous graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa7K#
+XaaEx#,Stenosis of arterial side of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaaEx#
+XaaEy#,Stenosis of venous side of dialysis arteriovenous shunt,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaaEy#

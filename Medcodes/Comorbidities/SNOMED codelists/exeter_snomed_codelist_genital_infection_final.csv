@@ -1,0 +1,355 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+1085006#,Candidiasis of vulva,2904011#,1,1,2,2904011#,Candidiasis of vulva,AB210,AB21000,2904011,NA,32
+1085006#,Candidiasis of vulva,2904011#,1,1,2,2515651000006112#,Vulval candidosis,^ESCTVU251565,NA,1219407018,NA,32
+1085006#,Candidiasis of vulva,2904011#,1,1,2,2515641000006110#,Vulval thrush,^ESCTVU251564,NA,1219406010,NA,32
+1085006#,Candidiasis of vulva,2904011#,1,1,2,2515631000006117#,Vulval candidiasis,^ESCTVU251563,NA,1219405014,NA,32
+1085006#,Candidiasis of vulva (disorder),601461013#,1,1,2,2904011#,Candidiasis of vulva,AB210,AB21000,2904011,NA,32
+1085006#,Candidiasis of vulva (disorder),601461013#,1,1,2,2515651000006112#,Vulval candidosis,^ESCTVU251565,NA,1219407018,NA,32
+1085006#,Candidiasis of vulva (disorder),601461013#,1,1,2,2515641000006110#,Vulval thrush,^ESCTVU251564,NA,1219406010,NA,32
+1085006#,Candidiasis of vulva (disorder),601461013#,1,1,2,2515631000006117#,Vulval candidiasis,^ESCTVU251563,NA,1219405014,NA,32
+1085006#,Vulval candidiasis,1219405014#,1,1,2,2904011#,Candidiasis of vulva,AB210,AB21000,2904011,NA,32
+1085006#,Vulval candidiasis,1219405014#,1,1,2,2515651000006112#,Vulval candidosis,^ESCTVU251565,NA,1219407018,NA,32
+1085006#,Vulval candidiasis,1219405014#,1,1,2,2515641000006110#,Vulval thrush,^ESCTVU251564,NA,1219406010,NA,32
+1085006#,Vulval candidiasis,1219405014#,1,1,2,2515631000006117#,Vulval candidiasis,^ESCTVU251563,NA,1219405014,NA,32
+1085006#,Vulval thrush,1219406010#,1,1,2,2904011#,Candidiasis of vulva,AB210,AB21000,2904011,NA,32
+1085006#,Vulval thrush,1219406010#,1,1,2,2515651000006112#,Vulval candidosis,^ESCTVU251565,NA,1219407018,NA,32
+1085006#,Vulval thrush,1219406010#,1,1,2,2515641000006110#,Vulval thrush,^ESCTVU251564,NA,1219406010,NA,32
+1085006#,Vulval thrush,1219406010#,1,1,2,2515631000006117#,Vulval candidiasis,^ESCTVU251563,NA,1219405014,NA,32
+1085006#,Vulval candidosis,1219407018#,1,1,2,2904011#,Candidiasis of vulva,AB210,AB21000,2904011,NA,32
+1085006#,Vulval candidosis,1219407018#,1,1,2,2515651000006112#,Vulval candidosis,^ESCTVU251565,NA,1219407018,NA,32
+1085006#,Vulval candidosis,1219407018#,1,1,2,2515641000006110#,Vulval thrush,^ESCTVU251564,NA,1219406010,NA,32
+1085006#,Vulval candidosis,1219407018#,1,1,2,2515631000006117#,Vulval candidiasis,^ESCTVU251563,NA,1219405014,NA,32
+111904009#,Candidiasis of urogenital site,179056016#,1,1,2,287555014#,Other urogenital candida NOS,AB22z,AB22z00,179056016,NA,32
+111904009#,Candidiasis of urogenital site,179056016#,1,1,2,287547019#,Candidiasis of urogenital site,AB22,AB22.00,179056016,NA,32
+111904009#,Candidiasis of urogenital site (disorder),634760012#,1,1,2,287555014#,Other urogenital candida NOS,AB22z,AB22z00,179056016,NA,32
+111904009#,Candidiasis of urogenital site (disorder),634760012#,1,1,2,287547019#,Candidiasis of urogenital site,AB22,AB22.00,179056016,NA,32
+197903003#,Candidal urethritis,304276013#,1,1,2,304276013#,Candidal urethritis,K172,K172.00,304276013,NA,32
+197903003#,Candidal urethritis (disorder),582335011#,1,1,2,304276013#,Candidal urethritis,K172,K172.00,304276013,NA,32
+198218005#,Vulvovaginitis in diseases EC,304749014#,1,1,2,304749014#,Vulvovaginitis in diseases EC,K4216,K421600,304749014,NA,32
+198218005#,Vulvovaginitis in diseases EC,304749014#,1,1,2,4791751000006111#,Vulvovaginitis associated with another disorder,^ESCTVU479175,NA,2575720017,NA,32
+198218005#,Vulvovaginitis in diseases EC (disorder),582696015#,1,1,2,304749014#,Vulvovaginitis in diseases EC,K4216,K421600,304749014,NA,32
+198218005#,Vulvovaginitis in diseases EC (disorder),582696015#,1,1,2,4791751000006111#,Vulvovaginitis associated with another disorder,^ESCTVU479175,NA,2575720017,NA,32
+198218005#,Vulvovaginitis associated with another disorder (disorder),2562229013#,1,1,2,304749014#,Vulvovaginitis in diseases EC,K4216,K421600,304749014,NA,32
+198218005#,Vulvovaginitis associated with another disorder (disorder),2562229013#,1,1,2,4791751000006111#,Vulvovaginitis associated with another disorder,^ESCTVU479175,NA,2575720017,NA,32
+198218005#,Vulvovaginitis associated with another disorder,2575720017#,1,1,2,304749014#,Vulvovaginitis in diseases EC,K4216,K421600,304749014,NA,32
+198218005#,Vulvovaginitis associated with another disorder,2575720017#,1,1,2,4791751000006111#,Vulvovaginitis associated with another disorder,^ESCTVU479175,NA,2575720017,NA,32
+237082005#,Candidiasis of cervix,355362010#,1,1,2,5103171000006119#,Cervical candidosis,^ESCTCE510317,NA,355363017,NA,32
+237082005#,Candidiasis of cervix,355362010#,1,1,2,5103161000006114#,Candidiasis of cervix,^ESCTCA510316,NA,355362010,NA,32
+237082005#,Candidiasis of cervix,355362010#,1,1,2,533491000006110#,Candidiasis cervix,AB21z-1,AB21z11,355362010,NA,32
+237082005#,Cervical candidosis,355363017#,1,1,2,5103171000006119#,Cervical candidosis,^ESCTCE510317,NA,355363017,NA,32
+237082005#,Cervical candidosis,355363017#,1,1,2,5103161000006114#,Candidiasis of cervix,^ESCTCA510316,NA,355362010,NA,32
+237082005#,Cervical candidosis,355363017#,1,1,2,533491000006110#,Candidiasis cervix,AB21z-1,AB21z11,355362010,NA,32
+237082005#,Candidiasis of cervix (disorder),625762018#,1,1,2,5103171000006119#,Cervical candidosis,^ESCTCE510317,NA,355363017,NA,32
+237082005#,Candidiasis of cervix (disorder),625762018#,1,1,2,5103161000006114#,Candidiasis of cervix,^ESCTCA510316,NA,355362010,NA,32
+237082005#,Candidiasis of cervix (disorder),625762018#,1,1,2,533491000006110#,Candidiasis cervix,AB21z-1,AB21z11,355362010,NA,32
+2390000#,Acute gonococcal vulvovaginitis,5093017#,1,1,2,5093017#,Acute gonococcal vulvovaginitis,A9802,A980200,5093017,NA,32
+2390000#,Acute gonococcal vulvovaginitis (disorder),753474019#,1,1,2,5093017#,Acute gonococcal vulvovaginitis,A9802,A980200,5093017,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Anogenital thrush,360540012#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Anogenital candidosis,360541011#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Genital candidiasis,360542016#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Anogenital candida infection,360543014#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Genital candidosis,360544015#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Anogenital candidiasis,360545019#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,360541011,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,5151051000006115#,Genital candidosis,^ESCTGE515105,NA,360544015,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,5151011000006116#,Anogenital thrush,^ESCTAN515101,NA,360540012,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,5151041000006117#,Anogenital candida infection,^ESCTAN515104,NA,360543014,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,360545019#,Anogenital candidiasis,AB2y4,AB2y400,360545019,NA,32
+240707005#,Anogenital candidiasis (disorder),629889010#,1,1,2,5151031000006110#,Genital candidiasis,^ESCTGE515103,NA,360542016,NA,32
+240708000#,Penile candidiasis,360546018#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Penile candidiasis,360546018#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Penile candidiasis,360546018#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Penile candidiasis,360546018#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Penile candidiasis,360546018#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+240708000#,Penile thrush,360547010#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Penile thrush,360547010#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Penile thrush,360547010#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Penile thrush,360547010#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Penile thrush,360547010#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+240708000#,Monilial infection of penis,360548017#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Monilial infection of penis,360548017#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Monilial infection of penis,360548017#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Monilial infection of penis,360548017#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Monilial infection of penis,360548017#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+240708000#,Penile candida,360549013#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Penile candida,360549013#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Penile candida,360549013#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Penile candida,360549013#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Penile candida,360549013#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+240708000#,Penile candidosis,360550013#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Penile candidosis,360550013#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Penile candidosis,360550013#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Penile candidosis,360550013#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Penile candidosis,360550013#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+240708000#,Penile candidiasis (disorder),629890018#,1,1,2,5151081000006111#,Monilial infection of penis,^ESCTMO515108,NA,360548017,NA,32
+240708000#,Penile candidiasis (disorder),629890018#,1,1,2,5151091000006114#,Penile candida,^ESCTPE515109,NA,360549013,NA,32
+240708000#,Penile candidiasis (disorder),629890018#,1,1,2,5151101000006115#,Penile candidosis,^ESCTPE515110,NA,360550013,NA,32
+240708000#,Penile candidiasis (disorder),629890018#,1,1,2,5151071000006113#,Penile thrush,^ESCTPE515107,NA,360547010,NA,32
+240708000#,Penile candidiasis (disorder),629890018#,1,1,2,237911000006111#,Penile candidiasis,AB220-1,AB22011,360546018,NA,32
+53277000#,Vulvovaginitis,88596011#,1,1,2,304754017#,Vaginitis and vulvovaginitis NOS,K421z,K421z00,88596011,NA,32
+53277000#,Vulvovaginitis,88596011#,1,1,2,304746019#,Vulvovaginitis,K4212,K421200,88596011,NA,32
+53277000#,Vulvovaginitis,88596011#,1,1,2,304741012#,Vaginitis and vulvovaginitis,K421,K421.00,88596011,NA,32
+53277000#,"Vulvovaginitis, NOS",88597019#,1,1,2,304754017#,Vaginitis and vulvovaginitis NOS,K421z,K421z00,88596011,NA,32
+53277000#,"Vulvovaginitis, NOS",88597019#,1,1,2,304746019#,Vulvovaginitis,K4212,K421200,88596011,NA,32
+53277000#,"Vulvovaginitis, NOS",88597019#,1,1,2,304741012#,Vaginitis and vulvovaginitis,K421,K421.00,88596011,NA,32
+53277000#,Vulvovaginitis (disorder),791378015#,1,1,2,304754017#,Vaginitis and vulvovaginitis NOS,K421z,K421z00,88596011,NA,32
+53277000#,Vulvovaginitis (disorder),791378015#,1,1,2,304746019#,Vulvovaginitis,K4212,K421200,88596011,NA,32
+53277000#,Vulvovaginitis (disorder),791378015#,1,1,2,304741012#,Vaginitis and vulvovaginitis,K421,K421.00,88596011,NA,32
+72605008#,Candidal vulvovaginitis,120590012#,1,1,2,120590012#,Candidal vulvovaginitis,AB21,AB21.00,120590012,NA,32
+72605008#,Candidal vulvovaginitis,120590012#,1,1,2,120591011#,Monilial vulvovaginitis,AB21-1,AB21.11,120591011,NA,32
+72605008#,Candidal vulvovaginitis,120590012#,1,1,2,395436014#,Candidal vulvovaginitis NOS,AB21z,AB21z00,120590012,NA,32
+72605008#,Candidal vulvovaginitis,120590012#,1,1,2,3680711000006111#,Vulvovaginal thrush,^ESCTVU368071,NA,1233526012,NA,32
+72605008#,Monilial vulvovaginitis,120591011#,1,1,2,120590012#,Candidal vulvovaginitis,AB21,AB21.00,120590012,NA,32
+72605008#,Monilial vulvovaginitis,120591011#,1,1,2,120591011#,Monilial vulvovaginitis,AB21-1,AB21.11,120591011,NA,32
+72605008#,Monilial vulvovaginitis,120591011#,1,1,2,395436014#,Candidal vulvovaginitis NOS,AB21z,AB21z00,120590012,NA,32
+72605008#,Monilial vulvovaginitis,120591011#,1,1,2,3680711000006111#,Vulvovaginal thrush,^ESCTVU368071,NA,1233526012,NA,32
+72605008#,Candidal vulvovaginitis (disorder),812901013#,1,1,2,120590012#,Candidal vulvovaginitis,AB21,AB21.00,120590012,NA,32
+72605008#,Candidal vulvovaginitis (disorder),812901013#,1,1,2,120591011#,Monilial vulvovaginitis,AB21-1,AB21.11,120591011,NA,32
+72605008#,Candidal vulvovaginitis (disorder),812901013#,1,1,2,395436014#,Candidal vulvovaginitis NOS,AB21z,AB21z00,120590012,NA,32
+72605008#,Candidal vulvovaginitis (disorder),812901013#,1,1,2,3680711000006111#,Vulvovaginal thrush,^ESCTVU368071,NA,1233526012,NA,32
+72605008#,Vulvovaginal thrush,1233526012#,1,1,2,120590012#,Candidal vulvovaginitis,AB21,AB21.00,120590012,NA,32
+72605008#,Vulvovaginal thrush,1233526012#,1,1,2,120591011#,Monilial vulvovaginitis,AB21-1,AB21.11,120591011,NA,32
+72605008#,Vulvovaginal thrush,1233526012#,1,1,2,395436014#,Candidal vulvovaginitis NOS,AB21z,AB21z00,120590012,NA,32
+72605008#,Vulvovaginal thrush,1233526012#,1,1,2,3680711000006111#,Vulvovaginal thrush,^ESCTVU368071,NA,1233526012,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Candidiasis of vagina,121148017#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Vaginal candidiasis,121149013#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Candidiasis of vagina (disorder),813266017#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Vaginal thrush,1233568012#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Monial infection of vagina,1233569016#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Vaginal candidosis,1233570015#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Vaginal candida,1233571016#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Monilial infection of vagina,2647349019#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,1233568012#,Vaginal thrush,AB211-1,AB21111,1233568012,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,3686511000006118#,Monilial infection of vagina,^ESCTMO368651,NA,2647349019,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,3686501000006116#,Vaginal candida,^ESCTVA368650,NA,1233571016,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,3686521000006114#,Candida of vagina,^ESCTCA368652,NA,2920668017,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,121148017#,Candidiasis of vagina,AB211,AB21100,121148017,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,3686491000006112#,Vaginal candidosis,^ESCTVA368649,NA,1233570015,NA,32
+72934000#,Candida of vagina,2920668017#,1,1,2,3686471000006111#,Vaginal candidiasis,^ESCTVA368647,NA,121149013,NA,32
+10736351000119105#,Subacute vaginitis,3005451012#,1,0,1,9321871000006117#,Subacute vaginitis,^ESCTSU932187,NA,3005451012,NA,31
+10736351000119105#,Subacute vaginitis (disorder),3005479018#,1,0,1,9321871000006117#,Subacute vaginitis,^ESCTSU932187,NA,3005451012,NA,31
+108371000119108#,Desquamative inflammatory vaginitis,2995598012#,1,0,1,8034021000006112#,Desquamative inflammatory vaginitis,^ESCTDE803402,NA,2995598012,NA,31
+108371000119108#,Desquamative inflammatory vaginitis (disorder),2995775019#,1,0,1,8034021000006112#,Desquamative inflammatory vaginitis,^ESCTDE803402,NA,2995598012,NA,31
+110041000119104#,Reactive arthritis co-occurrent and due to nonspecific urethritis (disorder),3307896010#,1,0,1,8034811000006110#,Reactive arthritis co-occurrent and due to nonspecific urethritis,^ESCTRE803481,NA,3307897018,NA,31
+110041000119104#,Reactive arthritis co-occurrent and due to nonspecific urethritis,3307897018#,1,0,1,8034811000006110#,Reactive arthritis co-occurrent and due to nonspecific urethritis,^ESCTRE803481,NA,3307897018,NA,31
+110081000119109#,Bacterial vaginitis in pregnancy,2990703012#,1,0,1,8034821000006119#,Bacterial vaginosis in pregnancy,^ESCTBA803482,NA,2990686011,NA,31
+110081000119109#,Bacterial vaginitis in pregnancy,2990703012#,1,0,1,8034831000006116#,Bacterial vaginitis in pregnancy,^ESCTBA803483,NA,2990703012,NA,31
+110091000119107#,Candidiasis of vagina in pregnancy (disorder),3513972016#,1,0,1,3513973014#,Candidiasis of vagina in pregnancy,^ESCT1170590,NA,3513973014,NA,31
+110091000119107#,Candidiasis of vagina in pregnancy,3513973014#,1,0,1,3513973014#,Candidiasis of vagina in pregnancy,^ESCT1170590,NA,3513973014,NA,31
+111903003#,Candidiasis of other urogenital sites,75012014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+111903003#,Candidiasis of other urogenital sites -RETIRED-,197831010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+111903003#,Candidiasis of other urogenital sites -RETIRED-,634749015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+111903003#,Candidiasis of other urogenital sites (disorder),2709455018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+11906007#,Chronic gonococcal vulvovaginitis,20535018#,1,0,1,20535018#,Chronic gonococcal vulvovaginitis,A9822,A982200,20535018,NA,32
+11906007#,Chronic gonococcal vulvovaginitis (disorder),704238010#,1,0,1,20535018#,Chronic gonococcal vulvovaginitis,A9822,A982200,20535018,NA,32
+154404004#,Candidal vulvovaginitis,239799011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154404004#,Candidal vulvovaginitis,534620018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154404004#,Candidal vulvovaginitis (disorder),2753062019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154406002#,Penile candidiasis,239801014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154406002#,Penile candidiasis,534622014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154406002#,Penile candidiasis (disorder),2752591015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,Vulvovaginitis,243195016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,Vaginitis/vulvovaginitis,243196015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,Vulvo-vaginitis,243197012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified),243198019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified),536370014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155981006#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified) (disorder),2714742012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187009004#,Candidiasis cervix,287544014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187009004#,Candidal vulvovaginitis NOS,287545010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187009004#,Candidal: [vulvovaginitis NOS] or [cervix],287546011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187009004#,Candidal: [vulvovaginitis NOS] or [cervix],570126013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187009004#,Candidal: [vulvovaginitis NOS] or [cervix] (disorder),2716255012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187010009#,Other urogenital candidiasis,287547019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187010009#,Other urogenital candidiasis (disorder),570127016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187011008#,Candidiasis: [balanitis] or [penile],287548012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187011008#,Penile candidiasis (thrush),287549016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187011008#,Penile candidiasis,287551017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187011008#,Candidiasis: [balanitis] or [penile],570128014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187011008#,Candidiasis: [balanitis] or [penile] (disorder),2761570012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187013006#,Other urogenital candida NOS,287555014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187013006#,Other urogenital candida NOS (disorder),570130011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198212006#,Vaginitis and vulvovaginitis,304741012#,1,0,1,887181000006115#,Vaginitis/vulvovaginitis,K421-99,K421.99,887000000000000,NA,32
+198212006#,Vaginitis and vulvovaginitis,304741012#,1,0,1,11902781000006111#,Vaginitis and vulvovaginitis,^ESCT1190278,NA,304741012,NA,31
+198212006#,Vaginitis and vulvovaginitis (disorder),582690014#,1,0,1,887181000006115#,Vaginitis/vulvovaginitis,K421-99,K421.99,887000000000000,NA,32
+198212006#,Vaginitis and vulvovaginitis (disorder),582690014#,1,0,1,11902781000006111#,Vaginitis and vulvovaginitis,^ESCT1190278,NA,304741012,NA,31
+198213001#,Vaginitis unspecified,304742017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198213001#,Vaginitis unspecified (disorder),582691013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198215008#,Vulvovaginitis unspecified,304746019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198215008#,Vulvovaginitis unspecified (disorder),582693011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198223005#,Vaginitis and vulvovaginitis NOS,304754017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198223005#,Vaginitis and vulvovaginitis NOS (disorder),582702015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198576001#,"[X]Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic disease classified elsewhere",305242014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+198576001#,"[X]Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic disease classified elsewhere (disorder)",583107014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+237091009#,Infective vaginitis,355375010#,1,0,1,5103251000006116#,Infective vaginitis,^ESCTIN510325,NA,355375010,NA,32
+237091009#,Infective vaginitis,355375010#,1,0,1,5103271000006114#,PV - Vaginal infection,^ESCTPV510327,NA,355374014,NA,31
+237091009#,Infective vaginitis,355375010#,1,0,1,5103261000006119#,Vaginal infection,^ESCTVA510326,NA,355373015,NA,31
+237091009#,Infective vaginitis (disorder),625772015#,1,0,1,5103251000006116#,Infective vaginitis,^ESCTIN510325,NA,355375010,NA,32
+237091009#,Infective vaginitis (disorder),625772015#,1,0,1,5103271000006114#,PV - Vaginal infection,^ESCTPV510327,NA,355374014,NA,31
+237091009#,Infective vaginitis (disorder),625772015#,1,0,1,5103261000006119#,Vaginal infection,^ESCTVA510326,NA,355373015,NA,31
+237093007#,Prepubertal vaginitis,355384010#,1,0,1,5103281000006112#,Prepubertal vaginitis,^ESCTPR510328,NA,355384010,NA,31
+237093007#,Prepubertal vaginitis (disorder),625775018#,1,0,1,5103281000006112#,Prepubertal vaginitis,^ESCTPR510328,NA,355384010,NA,31
+237095000#,Gonococcal vulvovaginitis,355386012#,1,0,1,5103301000006111#,Gonococcal vulvovaginitis,^ESCTGO510330,NA,355386012,NA,31
+237095000#,Gonococcal vulvovaginitis (disorder),625777014#,1,0,1,5103301000006111#,Gonococcal vulvovaginitis,^ESCTGO510330,NA,355386012,NA,31
+240706001#,Candida infection of genital region,360539010#,1,0,1,5150991000006115#,Candida infection of genital region,^ESCTCA515099,NA,360539010,NA,32
+240706001#,Candida infection of genital region (disorder),629888019#,1,0,1,5150991000006115#,Candida infection of genital region,^ESCTCA515099,NA,360539010,NA,32
+24520005#,Acute vaginitis,41130015#,1,0,1,2891341000006115#,Acute vaginitis,^ESCTAC289134,NA,41130015,NA,31
+24520005#,Acute vaginitis (disorder),754165018#,1,0,1,2891341000006115#,Acute vaginitis,^ESCTAC289134,NA,41130015,NA,31
+266155003#,Candidal vulvovaginitis NOS,395436014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266155003#,Candidal vulvovaginitis NOS (disorder),658612016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,Vulvovaginitis,396983014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,Vaginitis - non sp.,396984015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,Vaginitis/vulvovaginitis,396985019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,Vulvo-vaginitis,396986018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified),396988017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified),659179011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266655004#,(Vaginitis &/or vulvovaginitis (& non specified)) or (bacterial vaginosis) or (vulvitis non specified) (disorder),2749901013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+26705000#,Fusarium estrogenism AND vulvovaginitis,44705012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+26705000#,Fusarium estrogenism and vulvovaginitis,44706013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+26705000#,Fusarium oestrogenism and vulvovaginitis,44708014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+26705000#,Fusarium oestrogenism AND vulvovaginitis,44709018#,1,0,1,NA#,NA,NA,N+J561A,NA,NA,NA
+26705000#,Fusarium estrogenism AND vulvovaginitis (disorder),757189019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+30800001#,Vaginitis,51554012#,1,0,1,2996451000006114#,Inflammation of vagina,^ESCTIN299645,NA,484704013,NA,32
+30800001#,Vaginitis,51554012#,1,0,1,304742017#,Vaginitis,K4210,K421000,51554012,NA,32
+30800001#,"Vaginitis, NOS",51555013#,1,0,1,2996451000006114#,Inflammation of vagina,^ESCTIN299645,NA,484704013,NA,32
+30800001#,"Vaginitis, NOS",51555013#,1,0,1,304742017#,Vaginitis,K4210,K421000,51554012,NA,32
+30800001#,Vaginitis (disorder),761848010#,1,0,1,2996451000006114#,Inflammation of vagina,^ESCTIN299645,NA,484704013,NA,32
+30800001#,Vaginitis (disorder),761848010#,1,0,1,304742017#,Vaginitis,K4210,K421000,51554012,NA,32
+367544002#,Candidiasis of the genitals,492725010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367544002#,Candidiasis of the genitals (disorder),777348014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393561009#,Vaginal candidiasis,1467622013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393561009#,Vaginal candidiasis,1487415018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393561009#,Vaginal candidiasis (disorder),2736375014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393596009#,Vaginitis,1467657011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393596009#,Vaginitis,1487450014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393596009#,Vaginitis (disorder),2736212018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+402705006#,Infective dermatosis of male genitalia (disorder),1770629014#,1,0,1,6669001000006112#,Infective dermatosis of male genitalia,^ESCTIN666900,NA,1781805019,NA,31
+402705006#,Infective dermatosis of male genitalia,1781805019#,1,0,1,6669001000006112#,Infective dermatosis of male genitalia,^ESCTIN666900,NA,1781805019,NA,31
+402706007#,Infective dermatosis of female genitalia (disorder),1770630016#,1,0,1,6669011000006110#,Infective dermatosis of female genitalia,^ESCTIN666901,NA,1781806018,NA,31
+402706007#,Infective dermatosis of female genitalia,1781806018#,1,0,1,6669011000006110#,Infective dermatosis of female genitalia,^ESCTIN666901,NA,1781806018,NA,31
+419468003#,Gardnerella vaginitis (disorder),2574382015#,1,0,1,6937801000006117#,Gardnerella vaginalis infection,^ESCTGA693780,NA,2580230016,NA,31
+419468003#,Gardnerella vaginitis (disorder),2574382015#,1,0,1,6937791000006118#,Gardnerella infection,^ESCTGA693779,NA,2580229014,NA,31
+419468003#,Gardnerella vaginitis (disorder),2574382015#,1,0,1,6937811000006119#,Vaginitis due to Gardnerella vaginalis,^ESCTVA693781,NA,2580231017,NA,31
+419468003#,Gardnerella vaginitis (disorder),2574382015#,1,0,1,6937781000006116#,Gardnerella vaginitis,^ESCTGA693778,NA,2577730010,NA,31
+419468003#,Gardnerella vaginitis,2577730010#,1,0,1,6937801000006117#,Gardnerella vaginalis infection,^ESCTGA693780,NA,2580230016,NA,31
+419468003#,Gardnerella vaginitis,2577730010#,1,0,1,6937791000006118#,Gardnerella infection,^ESCTGA693779,NA,2580229014,NA,31
+419468003#,Gardnerella vaginitis,2577730010#,1,0,1,6937811000006119#,Vaginitis due to Gardnerella vaginalis,^ESCTVA693781,NA,2580231017,NA,31
+419468003#,Gardnerella vaginitis,2577730010#,1,0,1,6937781000006116#,Gardnerella vaginitis,^ESCTGA693778,NA,2577730010,NA,31
+419468003#,Vaginitis due to Gardnerella vaginalis,2580231017#,1,0,1,6937801000006117#,Gardnerella vaginalis infection,^ESCTGA693780,NA,2580230016,NA,31
+419468003#,Vaginitis due to Gardnerella vaginalis,2580231017#,1,0,1,6937791000006118#,Gardnerella infection,^ESCTGA693779,NA,2580229014,NA,31
+419468003#,Vaginitis due to Gardnerella vaginalis,2580231017#,1,0,1,6937811000006119#,Vaginitis due to Gardnerella vaginalis,^ESCTVA693781,NA,2580231017,NA,31
+419468003#,Vaginitis due to Gardnerella vaginalis,2580231017#,1,0,1,6937781000006116#,Gardnerella vaginitis,^ESCTGA693778,NA,2577730010,NA,31
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,2580234013#,Bacterial vaginitis,K4219,K421900,2580234013,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,106489015#,Gardnerella vaginalis,A3By7,A3By700,2577731014,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,6942631000006112#,Nonspecific vaginitis,^ESCTNO694263,NA,2580236010,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,6942621000006114#,NSV - Nonspecific vaginitis,^ESCTNS694262,NA,2580235014,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,11875901000006111#,Nonspecific bacterial vaginosis,^ESCT1187590,NA,3526369011,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,6942591000006112#,AV - Anaerobic vaginosis,^ESCTAV694259,NA,2580232012,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,2577731014#,Bacterial vaginosis,K4219-1,K421911,2577731014,NA,32
+419760006#,Bacterial vaginitis,2580234013#,1,0,1,6942601000006116#,BV - Bacterial vaginosis,^ESCTBV694260,NA,2580233019,NA,32
+428252001#,Vaginitis in pregnancy (disorder),2688481010#,1,0,1,7085641000006112#,Vaginitis in pregnancy,^ESCTVA708564,NA,2695276017,NA,31
+428252001#,Vaginitis in pregnancy,2695276017#,1,0,1,7085641000006112#,Vaginitis in pregnancy,^ESCTVA708564,NA,2695276017,NA,31
+52643007#,Candidal balanitis,87611012#,0,1,1,879541000006116#,Penile candida,AB220-99,AB22099,880000000000000,NA,32
+52643007#,Candidal balanitis,87611012#,0,1,1,3353521000006116#,Candida balanitis,^ESCTCA335352,NA,3028126010,NA,32
+52643007#,Candidal balanitis,87611012#,0,1,1,87611012#,Candidal balanitis,AB220,AB22000,87611012,NA,32
+52643007#,Candidal balanitis (disorder),790675016#,0,1,1,879541000006116#,Penile candida,AB220-99,AB22099,880000000000000,NA,32
+52643007#,Candidal balanitis (disorder),790675016#,0,1,1,3353521000006116#,Candida balanitis,^ESCTCA335352,NA,3028126010,NA,32
+52643007#,Candidal balanitis (disorder),790675016#,0,1,1,87611012#,Candidal balanitis,AB220,AB22000,87611012,NA,32
+52643007#,Candida balanitis,3028126010#,0,1,1,879541000006116#,Penile candida,AB220-99,AB22099,880000000000000,NA,32
+52643007#,Candida balanitis,3028126010#,0,1,1,3353521000006116#,Candida balanitis,^ESCTCA335352,NA,3028126010,NA,32
+52643007#,Candida balanitis,3028126010#,0,1,1,87611012#,Candidal balanitis,AB220,AB22000,87611012,NA,32
+707089008#,Genital tract infection in puerperium (disorder),3028463011#,1,0,1,7612301000006118#,Genital tract infection in puerperium,^ESCTGE761230,NA,3028637012,NA,32
+707089008#,Genital tract infection in puerperium (disorder),3028463011#,1,0,1,453237013#,[X]Cervicitis following delivery,Lyu6C,Lyu6C00,3028637012,NA,32
+707089008#,Genital tract infection in puerperium (disorder),3028463011#,1,0,1,453238015#,[X]Vaginitis following delivery,Lyu6B,Lyu6B00,3028637012,NA,32
+707089008#,Genital tract infection in puerperium,3028637012#,1,0,1,7612301000006118#,Genital tract infection in puerperium,^ESCTGE761230,NA,3028637012,NA,32
+707089008#,Genital tract infection in puerperium,3028637012#,1,0,1,453237013#,[X]Cervicitis following delivery,Lyu6C,Lyu6C00,3028637012,NA,32
+707089008#,Genital tract infection in puerperium,3028637012#,1,0,1,453238015#,[X]Vaginitis following delivery,Lyu6B,Lyu6B00,3028637012,NA,32
+708126004#,Recurrent candidiasis of vagina,3033982019#,1,0,1,7628891000006111#,Recurrent candidiasis of vagina,^ESCTRE762889,NA,3033982019,NA,31
+708126004#,Recurrent candidiasis of vagina (disorder),3034125011#,1,0,1,7628891000006111#,Recurrent candidiasis of vagina,^ESCTRE762889,NA,3033982019,NA,31
+85569008#,Vaginitis due to Gardnerella vaginalis,141841019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85569008#,Nonspecific vaginitis,506592011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85569008#,Bacterial vaginitis,506593018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85569008#,NSV - Nonspecific vaginitis,506598010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+90206003#,Acute vulvovaginitis,149527015#,1,0,1,3966351000006111#,Acute vulvovaginitis,^ESCTAC396635,NA,149527015,NA,31
+90206003#,Acute vulvovaginitis (disorder),833262010#,1,0,1,3966351000006111#,Acute vulvovaginitis,^ESCTAC396635,NA,149527015,NA,31
+95895001#,Candidiasis of the genitals,158845012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+95895001#,Genital candidiasis,158846013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+95895001#,Candidiasis of the genitals (disorder) [Ambiguous],840144014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+95895001#,Candidiasis of the genitals (disorder),2744058013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

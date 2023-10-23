@@ -1,0 +1,24 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14AB.#,H/O: TIA,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,161511000,251692018,NA,32,14AB.00#
+F4236#,Amaurosis fugax,1,1,2,145925010#,Amaurosis fugax,F4236,F423600,88032003,145925010,NA,32,F423600#
+Fyu55#,[X]Other transnt cerebral ischaemic attacks+related syndroms,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,266257000,395788015,NA,32,Fyu5500#
+G65..#,Transient cerebral ischaemia,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,266257000,395783012,NA,32,G65..12#
+G65..#,Transient cerebral ischaemia,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,266257000,395788015,NA,32,G65..00#
+G65..#,Transient cerebral ischaemia,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,266257000,988951000006117,NA,32,G65..99#
+G65..#,Transient cerebral ischaemia,1,1,2,102489017#,Drop attack,G65-1,G65..11,61683000,102489017,NA,32,G65..11#
+G65..#,Transient cerebral ischaemia,1,1,2,67511000006117#,Vertebro-basilar insufficiency,G65-3,G65..13,64009001,106394016,NA,32,G65..13#
+G65y.#,Other transient cerebral ischaemia,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,266257000,395788015,NA,32,G65y.00#
+G65z.#,Transient cerebral ischaemia NOS,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,266257000,395788015,NA,32,G65z.00#
+G65z.#,Transient cerebral ischaemia NOS,1,1,2,884511000006111#,Transient Ischaemic Attacks,G65z-99,G65z.99,584181000000100,884511000006111,NA,32,G65z.99#
+G65zz#,Transient cerebral ischaemia NOS,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,266257000,395788015,NA,32,G65zz00#
+14AB0#,H/O amaurosis fugax,1,0,1,2171081000000116#,H/O amaurosis fugax,14AB0,14AB000,13016361000119101,2713751000000114,NA,32,14AB000#
+G657.#,Carotid territory transient ischaemic attack,1,0,1,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,230716006,345684012,NA,32,G657.00#
+ZV12D#,[V]Personal history of transient ischaemic attack,1,0,1,1667741000000110#,[V]Personal history of transient ischaemic attack,ZV12D,ZV12D00,751371000000107,1667741000000110,NA,32,ZV12D00#
+X00DU#,Carotid territory transient ischaemic attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DU#
+X00DV#,Vertebrobasilar territory transient ischaemic attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DV#
+XE0VK#,Transient ischaemic attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VK#
+XE0X0#,(Trans isch attacks) or (vert-basil insuf) or (drop attacks),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0X0#
+XE18h#,(Retinal vasc occlusn) or (amauros fugax) or (retin thromb),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE18h#
+XaEGK#,Transient ischaemic attacks,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEGK#
+XaX16#,[V]Personal history of transient ischaemic attack,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX16#
+XaZIY#,H/O amaurosis fugax,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZIY#

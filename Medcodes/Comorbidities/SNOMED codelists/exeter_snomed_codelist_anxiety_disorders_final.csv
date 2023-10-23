@@ -1,0 +1,493 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+109006#,Anxiety disorder of childhood OR adolescence,1317017#,1,0,2,2500131000006115#,Anxiety disorder of childhood OR adolescence,^ESCTAN250013,NA,1317017,NA,31
+109006#,"Anxiety disorder of childhood or adolescence, NOS",1318010#,1,0,2,2500131000006115#,Anxiety disorder of childhood OR adolescence,^ESCTAN250013,NA,1317017,NA,31
+109006#,Anxiety disorder of childhood OR adolescence (disorder),607153017#,1,0,2,2500131000006115#,Anxiety disorder of childhood OR adolescence,^ESCTAN250013,NA,1317017,NA,31
+111490003#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks",178730010#,1,0,1,4196291000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks",^ESCTPA419629,NA,178730010,NA,31
+111490003#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks (disorder)",632089018#,1,0,1,4196291000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks",^ESCTPA419629,NA,178730010,NA,31
+111491004#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission",178731014#,1,0,1,4196301000006110#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission",^ESCTPA419630,NA,178731014,NA,31
+111491004#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission (disorder)",632101016#,1,0,1,4196301000006110#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission",^ESCTPA419630,NA,178731014,NA,31
+11941006#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission",20589016#,1,0,1,2690121000006112#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission",^ESCTPA269012,NA,20589016,NA,31
+11941006#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission and panic attacks in full remission",20590013#,1,0,1,2690121000006112#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission",^ESCTPA269012,NA,20589016,NA,31
+11941006#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission (disorder)",707420019#,1,0,1,2690121000006112#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission",^ESCTPA269012,NA,20589016,NA,31
+12398201000119100#,Anxiety disorder caused by methamphetamine (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+12398201000119102#,Anxiety disorder caused by methamphetamine (disorder),3783408018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+12398201000119102#,Anxiety disorder caused by methamphetamine,3783409014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+126943008#,Separation anxiety,231012#,1,0,2,4391041000006110#,Separation anxiety,^ESCTSE439104,NA,231012,NA,31
+126943008#,Separation anxiety (disorder),730971012#,1,0,2,4391041000006110#,Separation anxiety,^ESCTSE439104,NA,231012,NA,31
+13438001#,Overanxious disorder of childhood,22967015#,0,0,1,370861000006110#,[X]Childhood overanxious disorder,Eu93y-2,Eu93y12,22967015,NA,32
+13438001#,Overanxious disorder of childhood,22967015#,0,0,1,550361000006119#,Childhood and adolescent overanxiousness disturbance,E2D00,E2D0000,22967015,NA,32
+13438001#,Overanxious disorder of childhood,22967015#,0,0,1,2712981000006115#,Overanxious disorder of childhood,^ESCTOV271298,NA,22967015,NA,32
+13438001#,Overanxious disorder of childhood (disorder),738760016#,0,0,1,370861000006110#,[X]Childhood overanxious disorder,Eu93y-2,Eu93y12,22967015,NA,32
+13438001#,Overanxious disorder of childhood (disorder),738760016#,0,0,1,550361000006119#,Childhood and adolescent overanxiousness disturbance,E2D00,E2D0000,22967015,NA,32
+13438001#,Overanxious disorder of childhood (disorder),738760016#,0,0,1,2712981000006115#,Overanxious disorder of childhood,^ESCTOV271298,NA,22967015,NA,32
+1380006#,Agoraphobia without history of panic disorder with limited symptom attacks,3412017#,1,0,1,2520421000006116#,Agoraphobia without history of panic disorder with limited symptom attacks,^ESCTAG252042,NA,3412017,NA,31
+1380006#,Agoraphobia without history of panic disorder with limited symptom attacks (disorder),739256013#,1,0,1,2520421000006116#,Agoraphobia without history of panic disorder with limited symptom attacks,^ESCTAG252042,NA,3412017,NA,31
+15277004#,Hallucinogen-induced anxiety disorder,25924015#,1,0,2,2742251000006114#,Hallucinogen-induced anxiety disorder,^ESCTHA274225,NA,25924015,NA,31
+15277004#,Hallucinogen-induced anxiety disorder,25924015#,1,0,2,2742261000006111#,Hallucinogen induced anxiety disorder,^ESCTHA274226,NA,2923458015,NA,31
+15277004#,Hallucinogen-induced anxiety disorder (disorder),742049010#,1,0,2,2742251000006114#,Hallucinogen-induced anxiety disorder,^ESCTHA274225,NA,25924015,NA,31
+15277004#,Hallucinogen-induced anxiety disorder (disorder),742049010#,1,0,2,2742261000006111#,Hallucinogen induced anxiety disorder,^ESCTHA274226,NA,2923458015,NA,31
+15277004#,Hallucinogen induced anxiety disorder,2923458015#,1,0,2,2742251000006114#,Hallucinogen-induced anxiety disorder,^ESCTHA274225,NA,25924015,NA,31
+15277004#,Hallucinogen induced anxiety disorder,2923458015#,1,0,2,2742261000006111#,Hallucinogen induced anxiety disorder,^ESCTHA274226,NA,2923458015,NA,31
+154884005#,Phobic anxiety disorder,240946019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154884005#,Phobic anxiety disorder,535153016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154884005#,Phobic anxiety disorder (disorder),2720670011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154964007#,Mixed anxiety and depressive disorder,241161010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154964007#,Mixed anxiety and depressive disorder,535241014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+154964007#,Mixed anxiety and depressive disorder (disorder),2762119010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16264621000119100#,Recurrent mild major depressive disorder co-occurrent with anxiety (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16264621000119109#,Recurrent mild major depressive disorder co-occurrent with anxiety,3646259011#,1,0,1,12127531000006113#,Recurrent mild major depressive disorder co-occurrent with anxiety,^ESCT1212753,NA,3646259011,NA,31
+16264621000119109#,Recurrent mild major depressive disorder co-occurrent with anxiety (disorder),3646260018#,1,0,1,12127531000006113#,Recurrent mild major depressive disorder co-occurrent with anxiety,^ESCT1212753,NA,3646259011,NA,31
+16264821000119100#,Recurrent severe major depressive disorder co-occurrent with anxiety (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16264821000119108#,Recurrent severe major depressive disorder co-occurrent with anxiety,3646266012#,1,0,1,12127541000006115#,Recurrent severe major depressive disorder co-occurrent with anxiety,^ESCT1212754,NA,3646266012,NA,31
+16264821000119108#,Recurrent severe major depressive disorder co-occurrent with anxiety (disorder),3646267015#,1,0,1,12127541000006115#,Recurrent severe major depressive disorder co-occurrent with anxiety,^ESCT1212754,NA,3646266012,NA,31
+16264901000119100#,Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16264901000119109#,Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder),3646264010#,1,0,1,12127551000006118#,Recurrent moderate major depressive disorder co-occurrent with anxiety,^ESCT1212755,NA,3646265011,NA,31
+16264901000119109#,Recurrent moderate major depressive disorder co-occurrent with anxiety,3646265011#,1,0,1,12127551000006118#,Recurrent moderate major depressive disorder co-occurrent with anxiety,^ESCT1212755,NA,3646265011,NA,31
+16265301000119100#,Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16265701000119100#,Illness anxiety disorder (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16265701000119107#,Illness anxiety disorder (disorder),3463957014#,1,0,1,9901121000006113#,Illness anxiety disorder,^ESCTIL990112,NA,3463958016,NA,31
+16265701000119107#,Illness anxiety disorder,3463958016#,1,0,1,9901121000006113#,Illness anxiety disorder,^ESCTIL990112,NA,3463958016,NA,31
+16265951000119100#,Mild major depressive disorder co-occurrent with anxiety single episode (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16265951000119109#,Mild major depressive disorder co-occurrent with anxiety single episode (disorder),3447117016#,1,0,1,9901161000006119#,Mild major depressive disorder co-occurrent with anxiety single episode,^ESCTMI990116,NA,3447118014,NA,31
+16265951000119109#,Mild major depressive disorder co-occurrent with anxiety single episode,3447118014#,1,0,1,9901161000006119#,Mild major depressive disorder co-occurrent with anxiety single episode,^ESCTMI990116,NA,3447118014,NA,31
+16266831000119100#,Moderate major depressive disorder co-occurrent with anxiety single episode (disorder),3447115012#,1,0,2,9901261000006114#,Moderate major depressive disorder co-occurrent with anxiety single episode,^ESCTMO990126,NA,3447116013,NA,31
+16266831000119100#,Moderate major depressive disorder co-occurrent with anxiety single episode,3447116013#,1,0,2,9901261000006114#,Moderate major depressive disorder co-occurrent with anxiety single episode,^ESCTMO990126,NA,3447116013,NA,31
+16266991000119100#,Severe major depressive disorder co-occurrent with anxiety single episode (disorder),NA#,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+16266991000119108#,Severe major depressive disorder co-occurrent with anxiety single episode (disorder),3447110019#,1,0,1,9901281000006116#,Severe major depressive disorder co-occurrent with anxiety single episode,^ESCTSE990128,NA,3447111015,NA,31
+16266991000119108#,Severe major depressive disorder co-occurrent with anxiety single episode,3447111015#,1,0,1,9901281000006116#,Severe major depressive disorder co-occurrent with anxiety single episode,^ESCTSE990128,NA,3447111015,NA,31
+1686006#,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",3924016#,1,0,2,2525391000006119#,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",^ESCTSE252539,NA,3924016,NA,31
+1686006#,"Sedative, hypnotic or anxiolytic-induced anxiety disorder",3925015#,1,0,2,2525391000006119#,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",^ESCTSE252539,NA,3924016,NA,31
+1686006#,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder (disorder)",743967010#,1,0,2,2525391000006119#,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",^ESCTSE252539,NA,3924016,NA,31
+17496003#,Organic anxiety disorder,29572018#,1,1,3,403931000006116#,Organic anxiety disorder,Eu054,Eu05400,29572018,NA,32
+17496003#,Organic anxiety disorder,29572018#,1,1,3,12703831000006115#,[X]Organic anxiety disorder,^ESCT1270383,NA,404000000000000,NA,32
+17496003#,Organic anxiety disorder,29572018#,1,1,3,2777721000006112#,Organic anxiety disorder,^ESCTOR277772,NA,278e13,NA,32
+17496003#,Organic anxiety disorder (disorder),744804012#,1,1,3,403931000006116#,Organic anxiety disorder,Eu054,Eu05400,29572018,NA,32
+17496003#,Organic anxiety disorder (disorder),744804012#,1,1,3,12703831000006115#,[X]Organic anxiety disorder,^ESCT1270383,NA,404000000000000,NA,32
+17496003#,Organic anxiety disorder (disorder),744804012#,1,1,3,2777721000006112#,Organic anxiety disorder,^ESCTOR277772,NA,278e13,NA,32
+1816003#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks",4139011#,1,0,1,2527461000006111#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks",^ESCTPA252746,NA,4139011,NA,31
+1816003#,"Panic disorder with agoraphobia, severe agoraphobic avoidance and mild panic attacks",4140013#,1,0,1,2527461000006111#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks",^ESCTPA252746,NA,4139011,NA,31
+1816003#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks (disorder)",745546019#,1,0,1,2527461000006111#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks",^ESCTPA252746,NA,4139011,NA,31
+191703000#,Anxiety disorder,294952014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191703000#,Anxiety disorder [Ambiguous],575426015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191703000#,Anxiety disorder (disorder),2714494013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191705007#,(Panic disorder) or (panic attack),294954010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191705007#,Panic disorder,294956012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191705007#,(Panic disorder) or (panic attack),575428019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191705007#,(Panic disorder) or (panic attack) (disorder),2713933019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191706008#,Generalized anxiety disorder,294957015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191706008#,Generalised anxiety disorder,294958013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191706008#,Generalised anxiety disorder [Ambiguous],575429010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191706008#,Generalised anxiety disorder (disorder),2714192016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191707004#,Mixed anxiety and depressive disorder,294959017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191707004#,Mixed anxiety and depressive disorder,575430017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191707004#,Mixed anxiety and depressive disorder (disorder),2728364010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191708009#,Chronic anxiety,294960010#,1,1,3,294960010#,Chronic anxiety,E2004,E200400,294960010,NA,32
+191708009#,Chronic anxiety (finding),575431018#,1,1,3,294960010#,Chronic anxiety,E2004,E200400,294960010,NA,32
+191709001#,Recurrent anxiety,294961014#,1,1,3,294961014#,Recurrent anxiety,E2005,E200500,294961014,NA,32
+191709001#,Recurrent anxiety (finding),575432013#,1,1,3,294961014#,Recurrent anxiety,E2005,E200500,294961014,NA,32
+191720001#,Phobic anxiety,294989012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191720001#,Phobic disorders (& [social] or [phobic anxiety]),294990015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191720001#,Phobic disorders (& [social] or [phobic anxiety]),575445012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191720001#,Phobic disorders (& [social] or [phobic anxiety]) (disorder),2725255015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191722009#,Agoraphobia with panic attacks (disorder),575447016#,1,0,1,294992011#,Agoraphobia with panic attacks,E2021,E202100,294992011,NA,32
+191722009#,Agoraphobia with panic attacks (disorder),575447016#,1,0,1,418051000006118#,[X]Panic disorder with agoraphobia,Eu400-2,Eu40012,294992011,NA,32
+191722009#,Agoraphobia with panic attacks (disorder),575447016#,1,0,1,882381000006115#,Agoraphobia,E2021-99,E202199,882000000000000,NA,32
+191723004#,Agoraphobia without mention of panic attacks (disorder),575448014#,1,0,1,988881000006118#,Agoraphobia,E2022-99,E202299,989000000000000,NA,32
+191723004#,Agoraphobia without mention of panic attacks (disorder),575448014#,1,0,1,12716981000006115#,Agoraphobia without mention of panic attacks,^ESCT1271698,NA,294993018,NA,31
+192037000#,Acute panic state due to acute stress reaction (disorder),575802012#,1,0,1,295474019#,Acute panic state due to acute stress reaction,E280,E280.00,295474019,NA,32
+192108001#,Disturbance of anxiety and fearfulness in childhood and adolescence,295582017#,1,0,2,626101000006114#,Disturbance anxiety and fearfulness childhood/adolescent NOS,E2D0z,E2D0z00,295582017,NA,32
+192108001#,Disturbance of anxiety and fearfulness in childhood and adolescence,295582017#,1,0,2,626121000006116#,Disturbance of anxiety and fearfulness in childhood and adolescence,E2D0,E2D0.00,295582017,NA,32
+192108001#,Disturbance of anxiety and fearfulness in childhood and adolescence (disorder),575882014#,1,0,2,626101000006114#,Disturbance anxiety and fearfulness childhood/adolescent NOS,E2D0z,E2D0z00,295582017,NA,32
+192108001#,Disturbance of anxiety and fearfulness in childhood and adolescence (disorder),575882014#,1,0,2,626121000006116#,Disturbance of anxiety and fearfulness in childhood and adolescence,E2D0,E2D0.00,295582017,NA,32
+192192006#,Organic anxiety disorder,295727012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192192006#,Organic anxiety disorder,575976012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192192006#,Organic anxiety disorder (disorder),2728467019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192393009#,[X]Phobic anxiety disorders,296224013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192393009#,[X]Phobic anxiety disorders (disorder),576194014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192394003#,[X] Agoraphobia (& [without history of panic disorder] or [with panic disorder]),296225014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192394003#,[X]Panic disorder with agoraphobia,296226010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192394003#,[X]Agoraphobia without history of panic disorder,296227018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192394003#,[X] Agoraphobia (& [without history of panic disorder] or [with panic disorder]),576195010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192394003#,[X] Agoraphobia (& [without history of panic disorder] or [with panic disorder]) (disorder),2759383014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192397005#,[X]Other phobic anxiety disorders,296236019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192397005#,[X]Other phobic anxiety disorders (disorder),576198012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192398000#,"[X]Phobic anxiety disorder, unspecified",296237011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192398000#,"[X]Phobic anxiety disorder, unspecified (disorder)",576199016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192399008#,[X]Other anxiety disorders,296238018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192399008#,[X]Other anxiety disorders (disorder),576200018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192400001#,[X]Panic disorder [episodic paroxysmal anxiety],296239014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192400001#,[X]Panic disorder [episodic paroxysmal anxiety] (finding),576201019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192400001#,[X]Panic disorder [episodic paroxysmal anxiety] (disorder),1762699010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192401002#,Generalized anxiety disorder,296240011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192401002#,Generalised anxiety disorder,296241010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192401002#,Generalised anxiety disorder,576202014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192401002#,Generalised anxiety disorder (disorder),2720887011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192402009#,[X]Mixed anxiety and depressive disorder (& mild anxiety depression),296242015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192402009#,[X]Mild anxiety depression,296243013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192402009#,[X]Mixed anxiety and depressive disorder,296244019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192402009#,[X]Mixed anxiety and depressive disorder (& mild anxiety depression),576203016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192402009#,[X]Mixed anxiety and depressive disorder (& mild anxiety depression) (disorder),2725042010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192403004#,[X]Other mixed anxiety disorders,296245018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192403004#,[X]Other mixed anxiety disorders (disorder),576204010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192404005#,[X]Anxiety hysteria,296246017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192404005#,[X]Other specified anxiety disorders,296247014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192404005#,[X] Anxiety disorders: [other specified] or [anxiety hysteria],296248016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192404005#,[X] Anxiety disorders: [other specified] or [anxiety hysteria],576206012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192404005#,[X] Anxiety disorders: [other specified] or [anxiety hysteria] (disorder),2717575011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192405006#,"[X]Anxiety disorder, unspecified",296249012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192405006#,"[X]Anxiety disorder, unspecified (disorder)",576207015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192611004#,Childhood phobic anxiety disorder,296723015#,1,0,2,4767501000006113#,Childhood phobic anxiety disorder,^ESCTCH476750,NA,296723015,NA,32
+192611004#,Childhood phobic anxiety disorder,296723015#,1,0,2,420641000006116#,[X]Phobic anxiety disorder of childhood,Eu931,Eu93100,296723015,NA,32
+192611004#,Childhood phobic anxiety disorder (disorder),576424011#,1,0,2,4767501000006113#,Childhood phobic anxiety disorder,^ESCTCH476750,NA,296723015,NA,32
+192611004#,Childhood phobic anxiety disorder (disorder),576424011#,1,0,2,420641000006116#,[X]Phobic anxiety disorder of childhood,Eu931,Eu93100,296723015,NA,32
+192612006#,[X]Social anxiety disorder of childhood,296724014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192612006#,[X] Social anxiety disorder of childhood (avoidant disorder),296726011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192612006#,[X] Social anxiety disorder of childhood (avoidant disorder),576425012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+192612006#,[X] Social anxiety disorder of childhood (avoidant disorder) (disorder),2713328011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197480006#,Anxiety disorder,303689015#,1,1,3,363641000006114#,[X]Anxiety hysteria,Eu41y-1,Eu41y11,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,488201000006114#,Anxiety disorder,E200,E200.00,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,401881014#,[X]Other specified anxiety disorders,Eu41y,Eu41y00,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,363671000006118#,[X]Anxiety reaction,Eu411-2,Eu41112,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,296238018#,[X]Other anxiety disorders,Eu41,Eu41.00,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,363661000006113#,[X]Anxiety NOS,Eu41z-1,Eu41z11,303689015,NA,32
+197480006#,Anxiety disorder,303689015#,1,1,3,296249012#,"[X]Anxiety disorder, unspecified",Eu41z,Eu41z00,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,363641000006114#,[X]Anxiety hysteria,Eu41y-1,Eu41y11,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,488201000006114#,Anxiety disorder,E200,E200.00,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,401881014#,[X]Other specified anxiety disorders,Eu41y,Eu41y00,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,363671000006118#,[X]Anxiety reaction,Eu411-2,Eu41112,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,296238018#,[X]Other anxiety disorders,Eu41,Eu41.00,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,363661000006113#,[X]Anxiety NOS,Eu41z-1,Eu41z11,303689015,NA,32
+197480006#,Anxiety disorder (disorder),581863017#,1,1,3,296249012#,"[X]Anxiety disorder, unspecified",Eu41z,Eu41z00,303689015,NA,32
+19766004#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks",33289011#,1,0,1,2813941000006116#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks",^ESCTPA281394,NA,33289011,NA,31
+19766004#,"Panic disorder with agoraphobia, mild agoraphobic avoidance and severe panic attacks",33290019#,1,0,1,2813941000006116#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks",^ESCTPA281394,NA,33289011,NA,31
+19766004#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks (disorder)",748240013#,1,0,1,2813941000006116#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks",^ESCTPA281394,NA,33289011,NA,31
+20876004#,Inhalant-induced anxiety disorder,35110014#,1,0,1,2832021000006113#,Inhalant-induced anxiety disorder,^ESCTIN283202,NA,35110014,NA,31
+20876004#,Inhalant-induced anxiety disorder,35110014#,1,0,1,2832031000006111#,Inhalant induced anxiety disorder,^ESCTIN283203,NA,2951794010,NA,31
+20876004#,Inhalant-induced anxiety disorder (disorder),750107018#,1,0,1,2832021000006113#,Inhalant-induced anxiety disorder,^ESCTIN283202,NA,35110014,NA,31
+20876004#,Inhalant-induced anxiety disorder (disorder),750107018#,1,0,1,2832031000006111#,Inhalant induced anxiety disorder,^ESCTIN283203,NA,2951794010,NA,31
+20876004#,Inhalant induced anxiety disorder,2951794010#,1,0,1,2832021000006113#,Inhalant-induced anxiety disorder,^ESCTIN283202,NA,35110014,NA,31
+20876004#,Inhalant induced anxiety disorder,2951794010#,1,0,1,2832031000006111#,Inhalant induced anxiety disorder,^ESCTIN283203,NA,2951794010,NA,31
+21897009#,Generalized anxiety disorder,36731013#,1,1,3,481154010#,Generalised anxiety disorder,E2002,E200200,481154010,NA,32
+21897009#,Generalized anxiety disorder,36731013#,1,1,3,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,481154010,NA,32
+21897009#,Generalized anxiety disorder,36731013#,1,1,3,2848311000006117#,GAD - Generalised anxiety disorder,^ESCTGA284831,NA,481156012,NA,32
+21897009#,Generalized anxiety disorder,36731013#,1,1,3,2848291000006116#,Generalized anxiety disorder,^ESCTGE284829,NA,36731013,NA,32
+21897009#,Generalized anxiety disorder,36731013#,1,1,3,2848301000006115#,GAD - Generalized anxiety disorder,^ESCTGA284830,NA,481155011,NA,32
+21897009#,Generalised anxiety disorder,481154010#,1,1,3,481154010#,Generalised anxiety disorder,E2002,E200200,481154010,NA,32
+21897009#,Generalised anxiety disorder,481154010#,1,1,3,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,481154010,NA,32
+21897009#,Generalised anxiety disorder,481154010#,1,1,3,2848311000006117#,GAD - Generalised anxiety disorder,^ESCTGA284831,NA,481156012,NA,32
+21897009#,Generalised anxiety disorder,481154010#,1,1,3,2848291000006116#,Generalized anxiety disorder,^ESCTGE284829,NA,36731013,NA,32
+21897009#,Generalised anxiety disorder,481154010#,1,1,3,2848301000006115#,GAD - Generalized anxiety disorder,^ESCTGA284830,NA,481155011,NA,32
+21897009#,GAD - Generalized anxiety disorder,481155011#,1,1,3,481154010#,Generalised anxiety disorder,E2002,E200200,481154010,NA,32
+21897009#,GAD - Generalized anxiety disorder,481155011#,1,1,3,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,481154010,NA,32
+21897009#,GAD - Generalized anxiety disorder,481155011#,1,1,3,2848311000006117#,GAD - Generalised anxiety disorder,^ESCTGA284831,NA,481156012,NA,32
+21897009#,GAD - Generalized anxiety disorder,481155011#,1,1,3,2848291000006116#,Generalized anxiety disorder,^ESCTGE284829,NA,36731013,NA,32
+21897009#,GAD - Generalized anxiety disorder,481155011#,1,1,3,2848301000006115#,GAD - Generalized anxiety disorder,^ESCTGA284830,NA,481155011,NA,32
+21897009#,GAD - Generalised anxiety disorder,481156012#,1,1,3,481154010#,Generalised anxiety disorder,E2002,E200200,481154010,NA,32
+21897009#,GAD - Generalised anxiety disorder,481156012#,1,1,3,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,481154010,NA,32
+21897009#,GAD - Generalised anxiety disorder,481156012#,1,1,3,2848311000006117#,GAD - Generalised anxiety disorder,^ESCTGA284831,NA,481156012,NA,32
+21897009#,GAD - Generalised anxiety disorder,481156012#,1,1,3,2848291000006116#,Generalized anxiety disorder,^ESCTGE284829,NA,36731013,NA,32
+21897009#,GAD - Generalised anxiety disorder,481156012#,1,1,3,2848301000006115#,GAD - Generalized anxiety disorder,^ESCTGA284830,NA,481155011,NA,32
+21897009#,Generalized anxiety disorder (disorder),751243014#,1,1,3,481154010#,Generalised anxiety disorder,E2002,E200200,481154010,NA,32
+21897009#,Generalized anxiety disorder (disorder),751243014#,1,1,3,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,481154010,NA,32
+21897009#,Generalized anxiety disorder (disorder),751243014#,1,1,3,2848311000006117#,GAD - Generalised anxiety disorder,^ESCTGA284831,NA,481156012,NA,32
+21897009#,Generalized anxiety disorder (disorder),751243014#,1,1,3,2848291000006116#,Generalized anxiety disorder,^ESCTGE284829,NA,36731013,NA,32
+21897009#,Generalized anxiety disorder (disorder),751243014#,1,1,3,2848301000006115#,GAD - Generalized anxiety disorder,^ESCTGA284830,NA,481155011,NA,32
+22230001#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission",37317015#,1,0,1,2854161000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission",^ESCTPA285416,NA,37317015,NA,31
+22230001#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission and panic attacks in full remission",37318013#,1,0,1,2854161000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission",^ESCTPA285416,NA,37317015,NA,31
+22230001#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission (disorder)",751614014#,1,0,1,2854161000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission",^ESCTPA285416,NA,37317015,NA,31
+22621000119103#,Anxiety disorder caused by drug (disorder),3429522010#,1,0,2,8010321000006110#,Anxiety disorder caused by drug,^ESCTAN801032,NA,3429523017,NA,31
+22621000119103#,Anxiety disorder caused by drug,3429523017#,1,0,2,8010321000006110#,Anxiety disorder caused by drug,^ESCTAN801032,NA,3429523017,NA,31
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,398351000006110#,[X]Mild anxiety depression,Eu412-1,Eu41211,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,398561000006117#,[X]Mixed anxiety and depressive disorder,Eu412,Eu41200,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,419841000006116#,[X]Persistant anxiety depression,Eu341-4,Eu34114,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,488211000006112#,Mixed anxiety and depressive disorder,E2003,E200300,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,5024071000006118#,Anxiety depression,^ESCTAN502407,NA,346980013,NA,32
+231504006#,Mixed anxiety and depressive disorder,346979010#,1,1,3,296245018#,[X]Other mixed anxiety disorders,Eu413,Eu41300,346979010,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,398351000006110#,[X]Mild anxiety depression,Eu412-1,Eu41211,346979010,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,398561000006117#,[X]Mixed anxiety and depressive disorder,Eu412,Eu41200,346979010,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,419841000006116#,[X]Persistant anxiety depression,Eu341-4,Eu34114,346979010,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,488211000006112#,Mixed anxiety and depressive disorder,E2003,E200300,346979010,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,5024071000006118#,Anxiety depression,^ESCTAN502407,NA,346980013,NA,32
+231504006#,Anxiety depression,346980013#,1,1,3,296245018#,[X]Other mixed anxiety disorders,Eu413,Eu41300,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,398351000006110#,[X]Mild anxiety depression,Eu412-1,Eu41211,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,398561000006117#,[X]Mixed anxiety and depressive disorder,Eu412,Eu41200,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,419841000006116#,[X]Persistant anxiety depression,Eu341-4,Eu34114,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,488211000006112#,Mixed anxiety and depressive disorder,E2003,E200300,346979010,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,5024071000006118#,Anxiety depression,^ESCTAN502407,NA,346980013,NA,32
+231504006#,Mixed anxiety and depressive disorder (disorder),619445016#,1,1,3,296245018#,[X]Other mixed anxiety disorders,Eu413,Eu41300,346979010,NA,32
+24781009#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission",41526011#,1,0,1,2895611000006111#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission",^ESCTPA289561,NA,41526011,NA,31
+24781009#,"Panic disorder with agoraphobia, mild agoraphobic avoidance and panic attacks in full remission",41527019#,1,0,1,2895611000006111#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission",^ESCTPA289561,NA,41526011,NA,31
+24781009#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission (disorder)",754456015#,1,0,1,2895611000006111#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission",^ESCTPA289561,NA,41526011,NA,31
+25501002#,Social anxiety disorder,42761017#,1,0,1,138401000006119#,Social phobic disorders,E202-1,E202.11,42759014,NA,32
+25501002#,Social anxiety disorder,42761017#,1,0,1,427071000006115#,Social phobia,Eu401,Eu40100,42759014,NA,32
+25501002#,Social anxiety disorder,42761017#,1,0,1,2907991000006110#,Social anxiety disorder,^ESCTSO290799,NA,42761017,NA,32
+25501002#,Social anxiety disorder,42761017#,1,0,1,363361000006117#,[X]Anthropophobia,Eu401-1,Eu40111,42759014,NA,32
+25501002#,Social anxiety disorder,42761017#,1,0,1,427061000006110#,[X]Social neurosis,Eu401-2,Eu40112,42759014,NA,32
+268627007#,Panic disorder,401773018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+268627007#,Episodic paroxysmal anxiety disorder,401775013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+268627007#,Panic disorder (finding),661390010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+268714001#,[X]Other specified anxiety disorders,401881014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+268714001#,[X]Other specified anxiety disorders (disorder),661488013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+286544004#,Severe anxiety (panic),425914012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+30059008#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks",50297010#,1,0,1,2983851000006118#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks",^ESCTPA298385,NA,50297010,NA,31
+30059008#,"Panic disorder with agoraphobia, severe agoraphobic avoidance and moderate panic attacks",50298017#,1,0,1,2983851000006118#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks",^ESCTPA298385,NA,50297010,NA,31
+30059008#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks (disorder)",761021010#,1,0,1,2983851000006118#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks",^ESCTPA298385,NA,50297010,NA,31
+3158007#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission",6338010#,1,0,1,2549381000006117#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission",^ESCTPA254938,NA,6338010,NA,31
+3158007#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission and panic attacks in partial remission",6339019#,1,0,1,2549381000006117#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission",^ESCTPA254938,NA,6338010,NA,31
+3158007#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission (disorder)",762717014#,1,0,1,2549381000006117#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission",^ESCTPA254938,NA,6338010,NA,31
+31781004#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks",53094012#,1,0,1,3011881000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks",^ESCTPA301188,NA,53094012,NA,31
+31781004#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission and mild panic attacks",53095013#,1,0,1,3011881000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks",^ESCTPA301188,NA,53094012,NA,31
+31781004#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks (disorder)",762989010#,1,0,1,3011881000006114#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks",^ESCTPA301188,NA,53094012,NA,31
+32388005#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks",54083015#,1,0,1,3021721000006110#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks",^ESCTPA302172,NA,54083015,NA,31
+32388005#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission and moderate panic attacks",54084014#,1,0,1,3021721000006110#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks",^ESCTPA302172,NA,54083015,NA,31
+32388005#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks (disorder)",763664010#,1,0,1,3021721000006110#,"Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks",^ESCTPA302172,NA,54083015,NA,31
+34116005#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks",56972012#,1,0,1,3049471000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks",^ESCTPA304947,NA,56972012,NA,31
+34116005#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission and severe panic attacks",56973019#,1,0,1,3049471000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks",^ESCTPA304947,NA,56972012,NA,31
+34116005#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks (disorder)",765601018#,1,0,1,3049471000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks",^ESCTPA304947,NA,56972012,NA,31
+34938008#,Alcohol-induced anxiety disorder,58300018#,1,0,2,3062791000006112#,Alcohol-induced anxiety disorder,^ESCTAL306279,NA,58300018,NA,31
+34938008#,Alcohol-induced anxiety disorder,58300018#,1,0,2,3062801000006113#,Alcohol induced anxiety disorder,^ESCTAL306280,NA,2951813012,NA,31
+34938008#,Alcohol-induced anxiety disorder (disorder),766520019#,1,0,2,3062791000006112#,Alcohol-induced anxiety disorder,^ESCTAL306279,NA,58300018,NA,31
+34938008#,Alcohol-induced anxiety disorder (disorder),766520019#,1,0,2,3062801000006113#,Alcohol induced anxiety disorder,^ESCTAL306280,NA,2951813012,NA,31
+34938008#,Alcohol induced anxiety disorder,2951813012#,1,0,2,3062791000006112#,Alcohol-induced anxiety disorder,^ESCTAL306279,NA,58300018,NA,31
+34938008#,Alcohol induced anxiety disorder,2951813012#,1,0,2,3062801000006113#,Alcohol induced anxiety disorder,^ESCTAL306280,NA,2951813012,NA,31
+351861000000106#,Stranger anxiety (disorder),NA#,0,0,1,8113001000006117#,Stranger anxiety,^ESCTST811300,NA,661000000000000,NA,31
+35607004#,Panic disorder with agoraphobia,59408015#,1,0,2,3073541000006113#,Panic disorder with agoraphobia,^ESCTPA307354,NA,59408015,NA,31
+35607004#,"Panic disorder with agoraphobia, NOS",59409011#,1,0,2,3073541000006113#,Panic disorder with agoraphobia,^ESCTPA307354,NA,59408015,NA,31
+35607004#,Panic disorder with agoraphobia (disorder),767265016#,1,0,2,3073541000006113#,Panic disorder with agoraphobia,^ESCTPA307354,NA,59408015,NA,31
+371631005#,Panic disorder (disorder),1196930010#,1,1,3,1210253015#,Panic disorder,E2001,E200100,1210253015,NA,32
+371631005#,Panic disorder (disorder),1196930010#,1,1,3,418031000006113#,[X]Panic attack,Eu410-1,Eu41011,1210253015,NA,32
+371631005#,Panic disorder (disorder),1196930010#,1,1,3,418061000006116#,[X]Panic state,Eu410-2,Eu41012,1210253015,NA,32
+371631005#,Panic disorder (disorder),1196930010#,1,1,3,6358151000006115#,Episodic paroxysmal anxiety disorder,^ESCTEP635815,NA,1229089012,NA,32
+371631005#,Panic disorder (disorder),1196930010#,1,1,3,296239014#,[X]Panic disorder [episodic paroxysmal anxiety],Eu410,Eu41000,1210253015,NA,32
+371631005#,Panic disorder,1210253015#,1,1,3,1210253015#,Panic disorder,E2001,E200100,1210253015,NA,32
+371631005#,Panic disorder,1210253015#,1,1,3,418031000006113#,[X]Panic attack,Eu410-1,Eu41011,1210253015,NA,32
+371631005#,Panic disorder,1210253015#,1,1,3,418061000006116#,[X]Panic state,Eu410-2,Eu41012,1210253015,NA,32
+371631005#,Panic disorder,1210253015#,1,1,3,6358151000006115#,Episodic paroxysmal anxiety disorder,^ESCTEP635815,NA,1229089012,NA,32
+371631005#,Panic disorder,1210253015#,1,1,3,296239014#,[X]Panic disorder [episodic paroxysmal anxiety],Eu410,Eu41000,1210253015,NA,32
+371631005#,Episodic paroxysmal anxiety disorder,1229089012#,1,1,3,1210253015#,Panic disorder,E2001,E200100,1210253015,NA,32
+371631005#,Episodic paroxysmal anxiety disorder,1229089012#,1,1,3,418031000006113#,[X]Panic attack,Eu410-1,Eu41011,1210253015,NA,32
+371631005#,Episodic paroxysmal anxiety disorder,1229089012#,1,1,3,418061000006116#,[X]Panic state,Eu410-2,Eu41012,1210253015,NA,32
+371631005#,Episodic paroxysmal anxiety disorder,1229089012#,1,1,3,6358151000006115#,Episodic paroxysmal anxiety disorder,^ESCTEP635815,NA,1229089012,NA,32
+371631005#,Episodic paroxysmal anxiety disorder,1229089012#,1,1,3,296239014#,[X]Panic disorder [episodic paroxysmal anxiety],Eu410,Eu41000,1210253015,NA,32
+37868008#,Anxiety disorder of adolescence,63176018#,1,0,2,3110021000006119#,Anxiety disorder of adolescence,^ESCTAN311002,NA,63176018,NA,31
+37868008#,"Anxiety disorder of adolescence, NOS",63177010#,1,0,2,3110021000006119#,Anxiety disorder of adolescence,^ESCTAN311002,NA,63176018,NA,31
+37868008#,Anxiety disorder of adolescence (disorder),769813017#,1,0,2,3110021000006119#,Anxiety disorder of adolescence,^ESCTAN311002,NA,63176018,NA,31
+37872007#,Avoidant disorder of childhood OR adolescence,63185018#,0,0,1,3110101000006111#,Avoidant disorder of childhood OR adolescence,^ESCTAV311010,NA,63185018,NA,31
+37872007#,Avoidant disorder of childhood or adolescence,63186017#,0,0,1,3110101000006111#,Avoidant disorder of childhood OR adolescence,^ESCTAV311010,NA,63185018,NA,31
+37872007#,Avoidant disorder of childhood OR adolescence (disorder),769818014#,0,0,1,3110101000006111#,Avoidant disorder of childhood OR adolescence,^ESCTAV311010,NA,63185018,NA,31
+38328002#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission",64145017#,1,0,1,3117191000006115#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission",^ESCTPA311719,NA,64145017,NA,31
+38328002#,"Panic disorder with agoraphobia, severe agoraphobic avoidance and panic attacks in full remission",64146016#,1,0,1,3117191000006115#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission",^ESCTPA311719,NA,64145017,NA,31
+38328002#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission (disorder)",773280013#,1,0,1,3117191000006115#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission",^ESCTPA311719,NA,64145017,NA,31
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,296224013#,[X]Phobic anxiety disorders,Eu40,Eu40.00,1491809016,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,296237011#,"[X]Phobic anxiety disorder, unspecified",Eu40z,Eu40z00,1480929014,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,420671000006112#,[X]Phobic state NOS,Eu40z-2,Eu40z12,1480929014,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,426871000006113#,[X]Simple phobia,Eu402-4,Eu40214,1491809016,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,401780016#,Phobic disorder,E202z,E202z00,1480929014,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,296236019#,[X]Other phobic anxiety disorders,Eu40y,Eu40y00,1491809016,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,223641000000116#,Phobic anxiety disorder,E202-2,E202.12,1491809016,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,420631000006114#,Phobic disorder,Eu40z-1,Eu40z11,1480929014,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,11920891000006113#,[X]Phobia NOS,^ESCT1192089,NA,421000000000000,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,223631000000113#,Phobic disorders,E202,E202.00,1491809016,NA,32
+386810004#,Phobic anxiety disorder,1491809016#,1,0,2,882371000006118#,Phobic state,E202-99,E202.99,882000000000000,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,296224013#,[X]Phobic anxiety disorders,Eu40,Eu40.00,1491809016,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,296237011#,"[X]Phobic anxiety disorder, unspecified",Eu40z,Eu40z00,1480929014,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,420671000006112#,[X]Phobic state NOS,Eu40z-2,Eu40z12,1480929014,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,426871000006113#,[X]Simple phobia,Eu402-4,Eu40214,1491809016,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,401780016#,Phobic disorder,E202z,E202z00,1480929014,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,296236019#,[X]Other phobic anxiety disorders,Eu40y,Eu40y00,1491809016,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,223641000000116#,Phobic anxiety disorder,E202-2,E202.12,1491809016,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,420631000006114#,Phobic disorder,Eu40z-1,Eu40z11,1480929014,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,11920891000006113#,[X]Phobia NOS,^ESCT1192089,NA,421000000000000,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,223631000000113#,Phobic disorders,E202,E202.00,1491809016,NA,32
+386810004#,Phobic disorder (disorder),1460988011#,1,0,2,882371000006118#,Phobic state,E202-99,E202.99,882000000000000,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,296224013#,[X]Phobic anxiety disorders,Eu40,Eu40.00,1491809016,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,296237011#,"[X]Phobic anxiety disorder, unspecified",Eu40z,Eu40z00,1480929014,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,420671000006112#,[X]Phobic state NOS,Eu40z-2,Eu40z12,1480929014,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,426871000006113#,[X]Simple phobia,Eu402-4,Eu40214,1491809016,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,401780016#,Phobic disorder,E202z,E202z00,1480929014,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,296236019#,[X]Other phobic anxiety disorders,Eu40y,Eu40y00,1491809016,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,223641000000116#,Phobic anxiety disorder,E202-2,E202.12,1491809016,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,420631000006114#,Phobic disorder,Eu40z-1,Eu40z11,1480929014,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,11920891000006113#,[X]Phobia NOS,^ESCT1192089,NA,421000000000000,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,223631000000113#,Phobic disorders,E202,E202.00,1491809016,NA,32
+386810004#,Phobic disorder,1480929014#,1,0,2,882371000006118#,Phobic state,E202-99,E202.99,882000000000000,NA,32
+39951001#,Cannabis-induced anxiety disorder,66550017#,1,0,1,3142901000006117#,Cannabis-induced anxiety disorder,^ESCTCA314290,NA,66550017,NA,31
+39951001#,Cannabis-induced anxiety disorder,66550017#,1,0,1,3142911000006119#,Cannabis induced anxiety disorder,^ESCTCA314291,NA,2951819011,NA,31
+39951001#,Cannabis-induced anxiety disorder (disorder),776502010#,1,0,1,3142901000006117#,Cannabis-induced anxiety disorder,^ESCTCA314290,NA,66550017,NA,31
+39951001#,Cannabis-induced anxiety disorder (disorder),776502010#,1,0,1,3142911000006119#,Cannabis induced anxiety disorder,^ESCTCA314291,NA,2951819011,NA,31
+39951001#,Cannabis induced anxiety disorder,2951819011#,1,0,1,3142901000006117#,Cannabis-induced anxiety disorder,^ESCTCA314290,NA,66550017,NA,31
+39951001#,Cannabis induced anxiety disorder,2951819011#,1,0,1,3142911000006119#,Cannabis induced anxiety disorder,^ESCTCA314291,NA,2951819011,NA,31
+43150009#,Panic disorder without agoraphobia with severe panic attacks,71979015#,1,0,2,3195421000006117#,Panic disorder without agoraphobia with severe panic attacks,^ESCTPA319542,NA,71979015,NA,31
+43150009#,Panic disorder without agoraphobia with severe panic attacks (disorder),780128015#,1,0,2,3195421000006117#,Panic disorder without agoraphobia with severe panic attacks,^ESCTPA319542,NA,71979015,NA,31
+4932002#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks",9235010#,1,0,1,2578051000006118#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks",^ESCTPA257805,NA,9235010,NA,31
+4932002#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance and mild panic attacks",9236011#,1,0,1,2578051000006118#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks",^ESCTPA257805,NA,9235010,NA,31
+4932002#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks (disorder)",786986014#,1,0,1,2578051000006118#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks",^ESCTPA257805,NA,9235010,NA,31
+49564006#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks",82556018#,1,0,1,3302251000006110#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks",^ESCTPA330225,NA,82556018,NA,31
+49564006#,"Panic disorder with agoraphobia, mild agoraphobic avoidance and moderate panic attacks",82557010#,1,0,1,3302251000006110#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks",^ESCTPA330225,NA,82556018,NA,31
+49564006#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks (disorder)",787256016#,1,0,1,3302251000006110#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks",^ESCTPA330225,NA,82556018,NA,31
+50026000#,Psychoactive substance-induced organic anxiety disorder,83328019#,1,0,2,3310151000006118#,Psychoactive substance-induced organic anxiety disorder,^ESCTPS331015,NA,83328019,NA,31
+50026000#,Psychoactive substance-induced organic anxiety disorder (disorder),787769018#,1,0,2,3310151000006118#,Psychoactive substance-induced organic anxiety disorder,^ESCTPS331015,NA,83328019,NA,31
+50983008#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission",84965016#,1,0,1,3325931000006113#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA332593,NA,84965016,NA,31
+50983008#,"Panic disorder with agoraphobia, mild agoraphobic avoidance and panic attacks in partial remission",84966015#,1,0,1,3325931000006113#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA332593,NA,84965016,NA,31
+50983008#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission (disorder)",788832012#,1,0,1,3325931000006113#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA332593,NA,84965016,NA,31
+51493001#,Cocaine-induced anxiety disorder,85763011#,1,0,2,3334391000006114#,Cocaine induced anxiety disorder,^ESCTCO333439,NA,2951679016,NA,31
+51493001#,Cocaine-induced anxiety disorder,85763011#,1,0,2,3334381000006111#,Cocaine-induced anxiety disorder,^ESCTCO333438,NA,85763011,NA,31
+51493001#,Cocaine-induced anxiety disorder (disorder),789398014#,1,0,2,3334391000006114#,Cocaine induced anxiety disorder,^ESCTCO333439,NA,2951679016,NA,31
+51493001#,Cocaine-induced anxiety disorder (disorder),789398014#,1,0,2,3334381000006111#,Cocaine-induced anxiety disorder,^ESCTCO333438,NA,85763011,NA,31
+51493001#,Cocaine induced anxiety disorder,2951679016#,1,0,2,3334391000006114#,Cocaine induced anxiety disorder,^ESCTCO333439,NA,2951679016,NA,31
+51493001#,Cocaine induced anxiety disorder,2951679016#,1,0,2,3334381000006111#,Cocaine-induced anxiety disorder,^ESCTCO333438,NA,85763011,NA,31
+52039009#,Phobic anxiety disorder,496190019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+52910006#,Anxiety disorder due to a general medical condition,88043010#,1,0,2,3357961000006113#,Anxiety disorder due to a general medical condition,^ESCTAN335796,NA,88043010,NA,31
+52910006#,Anxiety disorder due to a general medical condition,88043010#,1,0,2,3357971000006118#,Anxiety disorder due to medical disorder,^ESCTAN335797,NA,2951780014,NA,31
+52910006#,Anxiety disorder due to a general medical condition,88043010#,1,0,2,3357981000006115#,Anxiety disorder due to general medical condition,^ESCTAN335798,NA,2951816016,NA,31
+52910006#,Anxiety disorder due to a general medical condition (disorder),790971010#,1,0,2,3357961000006113#,Anxiety disorder due to a general medical condition,^ESCTAN335796,NA,88043010,NA,31
+52910006#,Anxiety disorder due to a general medical condition (disorder),790971010#,1,0,2,3357971000006118#,Anxiety disorder due to medical disorder,^ESCTAN335797,NA,2951780014,NA,31
+52910006#,Anxiety disorder due to a general medical condition (disorder),790971010#,1,0,2,3357981000006115#,Anxiety disorder due to general medical condition,^ESCTAN335798,NA,2951816016,NA,31
+52910006#,Anxiety disorder due to medical disorder,2951780014#,1,0,2,3357961000006113#,Anxiety disorder due to a general medical condition,^ESCTAN335796,NA,88043010,NA,31
+52910006#,Anxiety disorder due to medical disorder,2951780014#,1,0,2,3357971000006118#,Anxiety disorder due to medical disorder,^ESCTAN335797,NA,2951780014,NA,31
+52910006#,Anxiety disorder due to medical disorder,2951780014#,1,0,2,3357981000006115#,Anxiety disorder due to general medical condition,^ESCTAN335798,NA,2951816016,NA,31
+52910006#,Anxiety disorder due to general medical condition,2951816016#,1,0,2,3357961000006113#,Anxiety disorder due to a general medical condition,^ESCTAN335796,NA,88043010,NA,31
+52910006#,Anxiety disorder due to general medical condition,2951816016#,1,0,2,3357971000006118#,Anxiety disorder due to medical disorder,^ESCTAN335797,NA,2951780014,NA,31
+52910006#,Anxiety disorder due to general medical condition,2951816016#,1,0,2,3357981000006115#,Anxiety disorder due to general medical condition,^ESCTAN335798,NA,2951816016,NA,31
+53467004#,Anxiety disorder of childhood,88901017#,1,0,2,3367191000006114#,Anxiety disorder of childhood,^ESCTAN336719,NA,88901017,NA,31
+53467004#,"Anxiety disorder of childhood, NOS",88902012#,1,0,2,3367191000006114#,Anxiety disorder of childhood,^ESCTAN336719,NA,88901017,NA,31
+53467004#,Anxiety disorder of childhood (disorder),791590017#,1,0,2,3367191000006114#,Anxiety disorder of childhood,^ESCTAN336719,NA,88901017,NA,31
+53956006#,Panic disorder without agoraphobia with panic attacks in partial remission,89686017#,1,0,2,3375111000006115#,Panic disorder without agoraphobia with panic attacks in partial remission,^ESCTPA337511,NA,89686017,NA,31
+53956006#,Panic disorder without agoraphobia with panic attacks in partial remission (disorder),792133012#,1,0,2,3375111000006115#,Panic disorder without agoraphobia with panic attacks in partial remission,^ESCTPA337511,NA,89686017,NA,31
+5509004#,Panic disorder with agoraphobia AND severe panic attacks,10194011#,1,0,2,2587471000006114#,Panic disorder with agoraphobia AND severe panic attacks,^ESCTPA258747,NA,10194011,NA,31
+5509004#,"Panic disorder with agoraphobia and severe panic attacks, NOS",10195012#,1,0,2,2587471000006114#,Panic disorder with agoraphobia AND severe panic attacks,^ESCTPA258747,NA,10194011,NA,31
+5509004#,Panic disorder with agoraphobia AND severe panic attacks (disorder),793393011#,1,0,2,2587471000006114#,Panic disorder with agoraphobia AND severe panic attacks,^ESCTPA258747,NA,10194011,NA,31
+55967005#,Phencyclidine-induced anxiety disorder,93084013#,1,0,2,3409271000006118#,PCP induced anxiety disorder,^ESCTPC340927,NA,2951768018,NA,31
+55967005#,Phencyclidine-induced anxiety disorder,93084013#,1,0,2,3409261000006113#,Phencyclidine-induced anxiety disorder,^ESCTPH340926,NA,93084013,NA,31
+55967005#,Phencyclidine-induced anxiety disorder (disorder),794423011#,1,0,2,3409271000006118#,PCP induced anxiety disorder,^ESCTPC340927,NA,2951768018,NA,31
+55967005#,Phencyclidine-induced anxiety disorder (disorder),794423011#,1,0,2,3409261000006113#,Phencyclidine-induced anxiety disorder,^ESCTPH340926,NA,93084013,NA,31
+55967005#,PCP induced anxiety disorder,2951768018#,1,0,2,3409271000006118#,PCP induced anxiety disorder,^ESCTPC340927,NA,2951768018,NA,31
+55967005#,PCP induced anxiety disorder,2951768018#,1,0,2,3409261000006113#,Phencyclidine-induced anxiety disorder,^ESCTPH340926,NA,93084013,NA,31
+56576003#,Panic disorder without agoraphobia,94086016#,1,0,2,1808521000006110#,Panic disorder without agoraphobia,EMISNQPA155,NA,94086016,NA,32
+56576003#,"Panic disorder without agoraphobia, NOS",94087013#,1,0,2,1808521000006110#,Panic disorder without agoraphobia,EMISNQPA155,NA,94086016,NA,32
+56576003#,Panic disorder without agoraphobia (disorder),795103010#,1,0,2,1808521000006110#,Panic disorder without agoraphobia,EMISNQPA155,NA,94086016,NA,32
+59923000#,Panic disorder with agoraphobia AND panic attacks in full remission,99534018#,1,0,1,3473121000006117#,Panic disorder with agoraphobia AND panic attacks in full remission,^ESCTPA347312,NA,99534018,NA,31
+59923000#,"Panic disorder with agoraphobia and panic attacks in full remission, NOS",99535017#,1,0,1,3473121000006117#,Panic disorder with agoraphobia AND panic attacks in full remission,^ESCTPA347312,NA,99534018,NA,31
+59923000#,Panic disorder with agoraphobia AND panic attacks in full remission (disorder),798819016#,1,0,1,3473121000006117#,Panic disorder with agoraphobia AND panic attacks in full remission,^ESCTPA347312,NA,99534018,NA,31
+61212007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",101717012#,1,0,1,3494631000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",^ESCTPA349463,NA,101717012,NA,31
+61212007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance and severe panic attacks",101718019#,1,0,1,3494631000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",^ESCTPA349463,NA,101717012,NA,31
+61212007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks (disorder)",800250011#,1,0,1,3494631000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",^ESCTPA349463,NA,101717012,NA,31
+61387006#,Moderate anxiety,101992012#,1,0,2,3497371000006119#,Moderate anxiety,^ESCTMO349737,NA,101992012,NA,31
+61387006#,Moderate anxiety (finding),800443014#,1,0,2,3497371000006119#,Moderate anxiety,^ESCTMO349737,NA,101992012,NA,31
+61569007#,Agoraphobia without history of panic disorder,102288011#,1,0,1,294993018#,Agoraphobia without history of panic disorder,E2022,E202200,102288011,NA,32
+61569007#,"Agoraphobia without history of panic disorder, NOS",102289015#,1,0,1,294993018#,Agoraphobia without history of panic disorder,E2022,E202200,102288011,NA,32
+61569007#,Agoraphobia without history of panic disorder (disorder),800645011#,1,0,1,294993018#,Agoraphobia without history of panic disorder,E2022,E202200,102288011,NA,32
+63701002#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks",105878011#,1,0,1,3536071000006118#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks",^ESCTPA353607,NA,105878011,NA,31
+63701002#,"Panic disorder with agoraphobia, mild agoraphobic avoidance and mild panic attacks",105879015#,1,0,1,3536071000006118#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks",^ESCTPA353607,NA,105878011,NA,31
+63701002#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks (disorder)",803014010#,1,0,1,3536071000006118#,"Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks",^ESCTPA353607,NA,105878011,NA,31
+63909006#,Panic disorder with agoraphobia AND panic attacks in partial remission,106215016#,1,0,2,3539231000006117#,Panic disorder with agoraphobia AND panic attacks in partial remission,^ESCTPA353923,NA,106215016,NA,31
+63909006#,"Panic disorder with agoraphobia and panic attacks in partial remission, NOS",106216015#,1,0,2,3539231000006117#,Panic disorder with agoraphobia AND panic attacks in partial remission,^ESCTPA353923,NA,106215016,NA,31
+63909006#,Panic disorder with agoraphobia AND panic attacks in partial remission (disorder),803244017#,1,0,2,3539231000006117#,Panic disorder with agoraphobia AND panic attacks in partial remission,^ESCTPA353923,NA,106215016,NA,31
+64060000#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission",106475013#,1,0,1,3541591000006117#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission",^ESCTPA354159,NA,106475013,NA,31
+64060000#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance and panic attacks in full remission",106476014#,1,0,1,3541591000006117#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission",^ESCTPA354159,NA,106475013,NA,31
+64060000#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission (disorder)",803411013#,1,0,1,3541591000006117#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission",^ESCTPA354159,NA,106475013,NA,31
+65064003#,Panic disorder without agoraphobia with moderate panic attacks,108134017#,1,0,2,3558031000006116#,Panic disorder without agoraphobia with moderate panic attacks,^ESCTPA355803,NA,108134017,NA,31
+65064003#,Panic disorder without agoraphobia with moderate panic attacks (disorder),804526015#,1,0,2,3558031000006116#,Panic disorder without agoraphobia with moderate panic attacks,^ESCTPA355803,NA,108134017,NA,31
+65673007#,Anxiety disorder,109116012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+65673007#,"Anxiety disorder, NOS",109117015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+65673007#,Anxiety neurosis,109118013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+65673007#,Anxiety disorder [Ambiguous],805202014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+65673007#,Anxiety disorder (disorder),2709651016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+70655008#,Caffeine-induced anxiety disorder,117370016#,1,0,1,3649131000006119#,Caffeine-induced anxiety disorder,^ESCTCA364913,NA,117370016,NA,31
+70655008#,Caffeine-induced anxiety disorder,117370016#,1,0,1,3649141000006112#,Caffeine induced anxiety disorder,^ESCTCA364914,NA,2951693011,NA,31
+70655008#,Caffeine-induced anxiety disorder (disorder),810734013#,1,0,1,3649131000006119#,Caffeine-induced anxiety disorder,^ESCTCA364913,NA,117370016,NA,31
+70655008#,Caffeine-induced anxiety disorder (disorder),810734013#,1,0,1,3649141000006112#,Caffeine induced anxiety disorder,^ESCTCA364914,NA,2951693011,NA,31
+70655008#,Caffeine induced anxiety disorder,2951693011#,1,0,1,3649131000006119#,Caffeine-induced anxiety disorder,^ESCTCA364913,NA,117370016,NA,31
+70655008#,Caffeine induced anxiety disorder,2951693011#,1,0,1,3649141000006112#,Caffeine induced anxiety disorder,^ESCTCA364914,NA,2951693011,NA,31
+724654009#,Anxiety disorder caused by opioid (disorder),3445059017#,1,0,1,7859081000006118#,Anxiety disorder caused by opioid,^ESCTAN785908,NA,3445060010,NA,31
+724654009#,Anxiety disorder caused by opioid (disorder),3445059017#,1,0,1,7859091000006115#,Opioid-induced anxiety disorder,^ESCTOP785909,NA,3445061014,NA,31
+724654009#,Anxiety disorder caused by opioid,3445060010#,1,0,1,7859081000006118#,Anxiety disorder caused by opioid,^ESCTAN785908,NA,3445060010,NA,31
+724654009#,Anxiety disorder caused by opioid,3445060010#,1,0,1,7859091000006115#,Opioid-induced anxiety disorder,^ESCTOP785909,NA,3445061014,NA,31
+724654009#,Opioid-induced anxiety disorder,3445061014#,1,0,1,7859081000006118#,Anxiety disorder caused by opioid,^ESCTAN785908,NA,3445060010,NA,31
+724654009#,Opioid-induced anxiety disorder,3445061014#,1,0,1,7859091000006115#,Opioid-induced anxiety disorder,^ESCTOP785909,NA,3445061014,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine (disorder),3464347012#,1,0,2,7860011000006112#,Anxiety disorder caused by methylenedioxymethamphetamine,^ESCTAN786001,NA,3464348019,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine (disorder),3464347012#,1,0,2,7860031000006118#,Ecstasy type drug-induced anxiety disorder,^ESCTEC786003,NA,3464350010,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine (disorder),3464347012#,1,0,2,7860021000006116#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),^ESCTAN786002,NA,3464349010,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine,3464348019#,1,0,2,7860011000006112#,Anxiety disorder caused by methylenedioxymethamphetamine,^ESCTAN786001,NA,3464348019,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine,3464348019#,1,0,2,7860031000006118#,Ecstasy type drug-induced anxiety disorder,^ESCTEC786003,NA,3464350010,NA,31
+724708007#,Anxiety disorder caused by methylenedioxymethamphetamine,3464348019#,1,0,2,7860021000006116#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),^ESCTAN786002,NA,3464349010,NA,31
+724708007#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),3464349010#,1,0,2,7860011000006112#,Anxiety disorder caused by methylenedioxymethamphetamine,^ESCTAN786001,NA,3464348019,NA,31
+724708007#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),3464349010#,1,0,2,7860031000006118#,Ecstasy type drug-induced anxiety disorder,^ESCTEC786003,NA,3464350010,NA,31
+724708007#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),3464349010#,1,0,2,7860021000006116#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),^ESCTAN786002,NA,3464349010,NA,31
+724708007#,Ecstasy type drug-induced anxiety disorder,3464350010#,1,0,2,7860011000006112#,Anxiety disorder caused by methylenedioxymethamphetamine,^ESCTAN786001,NA,3464348019,NA,31
+724708007#,Ecstasy type drug-induced anxiety disorder,3464350010#,1,0,2,7860031000006118#,Ecstasy type drug-induced anxiety disorder,^ESCTEC786003,NA,3464350010,NA,31
+724708007#,Ecstasy type drug-induced anxiety disorder,3464350010#,1,0,2,7860021000006116#,Anxiety disorder caused by MDMA (methylenedioxymethamphetamine),^ESCTAN786002,NA,3464349010,NA,31
+724722007#,Anxiety disorder caused by dissociative drug (disorder),3447026016#,1,0,2,7860271000006114#,Anxiety disorder caused by dissociative drug,^ESCTAN786027,NA,3447027013,NA,31
+724722007#,Anxiety disorder caused by dissociative drug (disorder),3447026016#,1,0,2,7860281000006112#,Dissociative drug-induced anxiety disorder,^ESCTDI786028,NA,3447028015,NA,31
+724722007#,Anxiety disorder caused by dissociative drug,3447027013#,1,0,2,7860271000006114#,Anxiety disorder caused by dissociative drug,^ESCTAN786027,NA,3447027013,NA,31
+724722007#,Anxiety disorder caused by dissociative drug,3447027013#,1,0,2,7860281000006112#,Dissociative drug-induced anxiety disorder,^ESCTDI786028,NA,3447028015,NA,31
+724722007#,Dissociative drug-induced anxiety disorder,3447028015#,1,0,2,7860271000006114#,Anxiety disorder caused by dissociative drug,^ESCTAN786027,NA,3447027013,NA,31
+724722007#,Dissociative drug-induced anxiety disorder,3447028015#,1,0,2,7860281000006112#,Dissociative drug-induced anxiety disorder,^ESCTDI786028,NA,3447028015,NA,31
+724723002#,Anxiety disorder caused by ketamine (disorder),3447023012#,1,0,2,7860301000006111#,Ketamine-induced anxiety disorder,^ESCTKE786030,NA,3447025017,NA,31
+724723002#,Anxiety disorder caused by ketamine (disorder),3447023012#,1,0,2,7860291000006110#,Anxiety disorder caused by ketamine,^ESCTAN786029,NA,3447024018,NA,31
+724723002#,Anxiety disorder caused by ketamine,3447024018#,1,0,2,7860301000006111#,Ketamine-induced anxiety disorder,^ESCTKE786030,NA,3447025017,NA,31
+724723002#,Anxiety disorder caused by ketamine,3447024018#,1,0,2,7860291000006110#,Anxiety disorder caused by ketamine,^ESCTAN786029,NA,3447024018,NA,31
+724723002#,Ketamine-induced anxiety disorder,3447025017#,1,0,2,7860301000006111#,Ketamine-induced anxiety disorder,^ESCTKE786030,NA,3447025017,NA,31
+724723002#,Ketamine-induced anxiety disorder,3447025017#,1,0,2,7860291000006110#,Anxiety disorder caused by ketamine,^ESCTAN786029,NA,3447024018,NA,31
+72861004#,Panic disorder without agoraphobia with mild panic attacks,121020019#,1,0,2,3684921000006110#,Panic disorder without agoraphobia with mild panic attacks,^ESCTPA368492,NA,121020019,NA,31
+72861004#,Panic disorder without agoraphobia with mild panic attacks (disorder),813185012#,1,0,2,3684921000006110#,Panic disorder without agoraphobia with mild panic attacks,^ESCTPA368492,NA,121020019,NA,31
+737341006#,Synthetic cannabinoid-induced anxiety disorder,3527470018#,1,0,2,3527470018#,Synthetic cannabinoid-induced anxiety disorder,^ESCT1167676,NA,3527470018,NA,31
+737341006#,Synthetic cannabinoid-induced anxiety disorder,3527470018#,1,0,2,3527472014#,Anxiety disorder caused by synthetic cannabinoid,^ESCT1167675,NA,3527472014,NA,31
+737341006#,Anxiety disorder caused by synthetic cannabinoid (disorder),3527471019#,1,0,2,3527470018#,Synthetic cannabinoid-induced anxiety disorder,^ESCT1167676,NA,3527470018,NA,31
+737341006#,Anxiety disorder caused by synthetic cannabinoid (disorder),3527471019#,1,0,2,3527472014#,Anxiety disorder caused by synthetic cannabinoid,^ESCT1167675,NA,3527472014,NA,31
+737341006#,Anxiety disorder caused by synthetic cannabinoid,3527472014#,1,0,2,3527470018#,Synthetic cannabinoid-induced anxiety disorder,^ESCT1167676,NA,3527470018,NA,31
+737341006#,Anxiety disorder caused by synthetic cannabinoid,3527472014#,1,0,2,3527472014#,Anxiety disorder caused by synthetic cannabinoid,^ESCT1167675,NA,3527472014,NA,31
+74010007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission",122897014#,1,0,1,3703211000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA370321,NA,122897014,NA,31
+74010007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance and panic attacks in partial remission",122898016#,1,0,1,3703211000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA370321,NA,122897014,NA,31
+74010007#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission (disorder)",814463015#,1,0,1,3703211000006116#,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA370321,NA,122897014,NA,31
+762331007#,Anxiety disorder caused by stimulant,3636421019#,1,0,2,3636421019#,Anxiety disorder caused by stimulant,^ESCT1169017,NA,3636421019,NA,31
+762331007#,Anxiety disorder caused by stimulant (disorder),3636422014#,1,0,2,3636421019#,Anxiety disorder caused by stimulant,^ESCT1169017,NA,3636421019,NA,31
+762515000#,Synthetic cathinone-induced anxiety disorder,3636813017#,1,0,1,3636813017#,Synthetic cathinone-induced anxiety disorder,^ESCT1169255,NA,3636813017,NA,31
+762515000#,Synthetic cathinone-induced anxiety disorder,3636813017#,1,0,1,3636814011#,Anxiety disorder caused by synthetic cathinone,^ESCT1169254,NA,3636814011,NA,31
+762515000#,Anxiety disorder caused by synthetic cathinone,3636814011#,1,0,1,3636813017#,Synthetic cathinone-induced anxiety disorder,^ESCT1169255,NA,3636813017,NA,31
+762515000#,Anxiety disorder caused by synthetic cathinone,3636814011#,1,0,1,3636814011#,Anxiety disorder caused by synthetic cathinone,^ESCT1169254,NA,3636814011,NA,31
+762515000#,Anxiety disorder caused by synthetic cathinone (disorder),3636815012#,1,0,1,3636813017#,Synthetic cathinone-induced anxiety disorder,^ESCT1169255,NA,3636813017,NA,31
+762515000#,Anxiety disorder caused by synthetic cathinone (disorder),3636815012#,1,0,1,3636814011#,Anxiety disorder caused by synthetic cathinone,^ESCT1169254,NA,3636814011,NA,31
+76812003#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission",127532017#,1,0,1,3749151000006116#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA374915,NA,127532017,NA,31
+76812003#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance and panic attacks in partial remission",127533010#,1,0,1,3749151000006116#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA374915,NA,127532017,NA,31
+76812003#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission (disorder)",817574018#,1,0,1,3749151000006116#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission",^ESCTPA374915,NA,127532017,NA,31
+76868007#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks",127622019#,1,0,1,3749871000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks",^ESCTPA374987,NA,127622019,NA,31
+76868007#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission and mild panic attacks",127623012#,1,0,1,3749871000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks",^ESCTPA374987,NA,127622019,NA,31
+76868007#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks (disorder)",817635017#,1,0,1,3749871000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks",^ESCTPA374987,NA,127622019,NA,31
+782501005#,Adjustment disorder with mixed anxiety and depressed mood (disorder),3754294013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+782501005#,Adjustment disorder with mixed anxiety and depressed mood,3754295014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+80583007#,Severe anxiety (panic),133696019#,1,0,2,3810661000006112#,Severe anxiety (panic),^ESCTSE381066,NA,133696019,NA,31
+80583007#,Severe anxiety (panic) (finding),821759014#,1,0,2,3810661000006112#,Severe anxiety (panic),^ESCTSE381066,NA,133696019,NA,31
+81350009#,Free-floating anxiety,134947015#,1,0,2,3822891000006112#,Free-floating anxiety,^ESCTFR382289,NA,134947015,NA,31
+81350009#,Free-floating anxiety (finding),822611015#,1,0,2,3822891000006112#,Free-floating anxiety,^ESCTFR382289,NA,134947015,NA,31
+8185002#,Panic disorder with agoraphobia AND moderate panic attacks,14504015#,1,0,2,2630621000006112#,Panic disorder with agoraphobia AND moderate panic attacks,^ESCTPA263062,NA,14504015,NA,31
+8185002#,"Panic disorder with agoraphobia and moderate panic attacks, NOS",14505019#,1,0,2,2630621000006112#,Panic disorder with agoraphobia AND moderate panic attacks,^ESCTPA263062,NA,14504015,NA,31
+8185002#,Panic disorder with agoraphobia AND moderate panic attacks (disorder),823167016#,1,0,2,2630621000006112#,Panic disorder with agoraphobia AND moderate panic attacks,^ESCTPA263062,NA,14504015,NA,31
+82339009#,Amphetamine-induced anxiety disorder,136578011#,1,0,2,3839481000006118#,Amphetamine-induced anxiety disorder,^ESCTAM383948,NA,136578011,NA,31
+82339009#,Amphetamine-induced anxiety disorder,136578011#,1,0,2,3839491000006115#,Amphetamine induced anxiety disorder,^ESCTAM383949,NA,2951785016,NA,31
+82339009#,Amphetamine-induced anxiety disorder (disorder),823740018#,1,0,2,3839481000006118#,Amphetamine-induced anxiety disorder,^ESCTAM383948,NA,136578011,NA,31
+82339009#,Amphetamine-induced anxiety disorder (disorder),823740018#,1,0,2,3839491000006115#,Amphetamine induced anxiety disorder,^ESCTAM383949,NA,2951785016,NA,31
+82339009#,Amphetamine induced anxiety disorder,2951785016#,1,0,2,3839481000006118#,Amphetamine-induced anxiety disorder,^ESCTAM383948,NA,136578011,NA,31
+82339009#,Amphetamine induced anxiety disorder,2951785016#,1,0,2,3839491000006115#,Amphetamine induced anxiety disorder,^ESCTAM383949,NA,2951785016,NA,31
+82415003#,Agoraphobia without history of panic disorder without limited symptom attacks,136703015#,1,0,1,3840651000006116#,Agoraphobia without history of panic disorder without limited symptom attacks,^ESCTAG384065,NA,136703015,NA,31
+82415003#,Agoraphobia without history of panic disorder without limited symptom attacks (disorder),823833012#,1,0,1,3840651000006116#,Agoraphobia without history of panic disorder without limited symptom attacks,^ESCTAG384065,NA,136703015,NA,31
+82494000#,Panic disorder without agoraphobia with panic attacks in full remission,136830019#,1,0,1,3841871000006116#,Panic disorder without agoraphobia with panic attacks in full remission,^ESCTPA384187,NA,136830019,NA,31
+82494000#,Panic disorder without agoraphobia with panic attacks in full remission (disorder),823928014#,1,0,1,3841871000006116#,Panic disorder without agoraphobia with panic attacks in full remission,^ESCTPA384187,NA,136830019,NA,31
+82738004#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks",137255010#,1,0,1,3846111000006111#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks",^ESCTPA384611,NA,137255010,NA,31
+82738004#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance and moderate panic attacks",137256011#,1,0,1,3846111000006111#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks",^ESCTPA384611,NA,137255010,NA,31
+82738004#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks (disorder)",824223018#,1,0,1,3846111000006111#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks",^ESCTPA384611,NA,137255010,NA,31
+83631006#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks",138702017#,1,0,1,3860791000006112#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks",^ESCTPA386079,NA,138702017,NA,31
+83631006#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance and severe panic attacks",138703010#,1,0,1,3860791000006112#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks",^ESCTPA386079,NA,138702017,NA,31
+83631006#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks (disorder)",825306018#,1,0,1,3860791000006112#,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks",^ESCTPA386079,NA,138702017,NA,31
+85061001#,"Separation anxiety disorder of childhood, early onset",141023011#,1,0,2,3883581000006112#,"Separation anxiety disorder of childhood, early onset",^ESCTSE388358,NA,141023011,NA,31
+85061001#,"Separation anxiety disorder of childhood, early onset (disorder)",827036016#,1,0,2,3883581000006112#,"Separation anxiety disorder of childhood, early onset",^ESCTSE388358,NA,141023011,NA,31
+87798009#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks",145563011#,1,0,1,3926881000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks",^ESCTPA392688,NA,145563011,NA,31
+87798009#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission and moderate panic attacks",145564017#,1,0,1,3926881000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks",^ESCTPA392688,NA,145563011,NA,31
+87798009#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks (disorder)",830346015#,1,0,1,3926881000006118#,"Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks",^ESCTPA392688,NA,145563011,NA,31
+89948007#,Panic disorder with agoraphobia AND mild panic attacks,149095010#,1,0,2,3962111000006111#,Panic disorder with agoraphobia AND mild panic attacks,^ESCTPA396211,NA,149095010,NA,31
+89948007#,"Panic disorder with agoraphobia and mild panic attacks, NOS",149096011#,1,0,2,3962111000006111#,Panic disorder with agoraphobia AND mild panic attacks,^ESCTPA396211,NA,149095010,NA,31
+89948007#,Panic disorder with agoraphobia AND mild panic attacks (disorder),832948015#,1,0,2,3962111000006111#,Panic disorder with agoraphobia AND mild panic attacks,^ESCTPA396211,NA,149095010,NA,31
+90790003#,Avoidant disorder of adolescence,150447012#,0,0,1,3975551000006118#,Avoidant disorder of adolescence,^ESCTAV397555,NA,150447012,NA,31
+90790003#,Avoidant disorder of adolescence (disorder),833968016#,0,0,1,3975551000006118#,Avoidant disorder of adolescence,^ESCTAV397555,NA,150447012,NA,31
+94641000119109#,Anxiety in pregnancy (disorder),3514291015#,1,0,2,3514292010#,Anxiety in pregnancy,^ESCT1170572,NA,3514292010,NA,31
+94641000119109#,Anxiety in pregnancy,3514292010#,1,0,2,3514292010#,Anxiety in pregnancy,^ESCT1170572,NA,3514292010,NA,31

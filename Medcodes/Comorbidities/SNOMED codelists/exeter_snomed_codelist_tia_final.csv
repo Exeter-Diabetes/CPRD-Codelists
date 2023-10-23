@@ -1,0 +1,254 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+161511000#,H/O: TIA,251692018#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,H/O: TIA,251692018#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of - TIA (context-dependent category),542547017#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of - TIA (context-dependent category),542547017#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of - transient ischemic attack (context-dependent category),2560313011#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of - transient ischemic attack (context-dependent category),2560313011#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of - transient ischemic attack (situation),2606666018#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of - transient ischemic attack (situation),2606666018#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of - transient ischemic attack,2666030013#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of - transient ischemic attack,2666030013#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of transient ischemic attack (situation),2986428010#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of transient ischemic attack (situation),2986428010#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of transient ischemic attack,2986735018#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of transient ischemic attack,2986735018#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+161511000#,History of transient ischaemic attack,3789194012#,1,1,2,251692018#,H/O: TIA,14AB,14AB.00,251692018,NA,32
+161511000#,History of transient ischaemic attack,3789194012#,1,1,2,4540591000006113#,History of transient ischemic attack,^ESCTHI454059,NA,2986735018,NA,32
+266257000#,TIA,395781014#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,TIA,395781014#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,TIA,395781014#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,TIA,395781014#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,TIA,395781014#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,TIA,395781014#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,TIA,395781014#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,TIA,395781014#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,TIA,395781014#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,TIA,395781014#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,TIA,395781014#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,TIA,395781014#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Temporary cerebral vascular dysfunction,395782019#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Transient ischaemic attack,395783012#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,TIA - Transient ischaemic attack,395784018#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Transient cerebral ischemia,395785017#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Intermittent cerebral ischemia,395786016#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Transient ischemic attack,395787013#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Transient cerebral ischaemia,395788015#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Transient ischemic attack (disorder),658729012#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,395783012#,Transient ischaemic attack,G65-2,G65..12,395783012,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,395788015#,Transient cerebral ischaemia,G65,G65..00,395788015,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,95931000006111#,Transient cerebral ischaemia NOS,G65z,G65z.00,395788015,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,5492201000006111#,TIA - Transient ischaemic attack,^ESCTTI549220,NA,395784018,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,416991000006112#,Transient cerebral ischemia,Fyu55,Fyu5500,395788015,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,5492221000006118#,Transient ischemic attack,^ESCTTR549222,NA,395787013,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,5492181000006110#,Temporary cerebral vascular dysfunction,^ESCTTE549218,NA,395782019,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,300348012#,Other transient cerebral ischaemia,G65y,G65y.00,395788015,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,5492171000006112#,TIA,^ESCTTI549217,NA,395781014,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,300349016#,Transient cerebral ischaemia NOS,G65zz,G65zz00,395788015,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,988951000006117#,Transient Ischaemic Attacks,G65-99,G65..99,988951000000000,NA,32
+266257000#,Intermittent cerebral ischaemia,2693085010#,1,1,2,11920121000006117#,Transient cerebral ischemia,^ESCT1192012,NA,395785017,NA,32
+230716006#,Anterior circulation transient ischaemic attack,345683018#,1,1,2,5011501000006111#,Anterior circulation transient ischemic attack,^ESCTAN501150,NA,345685013,NA,32
+230716006#,Anterior circulation transient ischaemic attack,345683018#,1,1,2,5011491000006115#,Anterior circulation transient ischaemic attack,^ESCTAN501149,NA,345683018,NA,32
+230716006#,Anterior circulation transient ischaemic attack,345683018#,1,1,2,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,345684012,NA,32
+230716006#,Anterior circulation transient ischaemic attack,345683018#,1,1,2,5011511000006114#,Carotid territory transient ischemic attack,^ESCTCA501151,NA,345686014,NA,32
+230716006#,Carotid territory transient ischaemic attack,345684012#,1,1,2,5011501000006111#,Anterior circulation transient ischemic attack,^ESCTAN501150,NA,345685013,NA,32
+230716006#,Carotid territory transient ischaemic attack,345684012#,1,1,2,5011491000006115#,Anterior circulation transient ischaemic attack,^ESCTAN501149,NA,345683018,NA,32
+230716006#,Carotid territory transient ischaemic attack,345684012#,1,1,2,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,345684012,NA,32
+230716006#,Carotid territory transient ischaemic attack,345684012#,1,1,2,5011511000006114#,Carotid territory transient ischemic attack,^ESCTCA501151,NA,345686014,NA,32
+230716006#,Anterior circulation transient ischemic attack,345685013#,1,1,2,5011501000006111#,Anterior circulation transient ischemic attack,^ESCTAN501150,NA,345685013,NA,32
+230716006#,Anterior circulation transient ischemic attack,345685013#,1,1,2,5011491000006115#,Anterior circulation transient ischaemic attack,^ESCTAN501149,NA,345683018,NA,32
+230716006#,Anterior circulation transient ischemic attack,345685013#,1,1,2,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,345684012,NA,32
+230716006#,Anterior circulation transient ischemic attack,345685013#,1,1,2,5011511000006114#,Carotid territory transient ischemic attack,^ESCTCA501151,NA,345686014,NA,32
+230716006#,Carotid territory transient ischemic attack,345686014#,1,1,2,5011501000006111#,Anterior circulation transient ischemic attack,^ESCTAN501150,NA,345685013,NA,32
+230716006#,Carotid territory transient ischemic attack,345686014#,1,1,2,5011491000006115#,Anterior circulation transient ischaemic attack,^ESCTAN501149,NA,345683018,NA,32
+230716006#,Carotid territory transient ischemic attack,345686014#,1,1,2,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,345684012,NA,32
+230716006#,Carotid territory transient ischemic attack,345686014#,1,1,2,5011511000006114#,Carotid territory transient ischemic attack,^ESCTCA501151,NA,345686014,NA,32
+230716006#,Carotid territory transient ischemic attack (disorder),618561012#,1,1,2,5011501000006111#,Anterior circulation transient ischemic attack,^ESCTAN501150,NA,345685013,NA,32
+230716006#,Carotid territory transient ischemic attack (disorder),618561012#,1,1,2,5011491000006115#,Anterior circulation transient ischaemic attack,^ESCTAN501149,NA,345683018,NA,32
+230716006#,Carotid territory transient ischemic attack (disorder),618561012#,1,1,2,345684012#,Carotid territory transient ischaemic attack,G657,G657.00,345684012,NA,32
+230716006#,Carotid territory transient ischemic attack (disorder),618561012#,1,1,2,5011511000006114#,Carotid territory transient ischemic attack,^ESCTCA501151,NA,345686014,NA,32
+195196001#,Transient cerebral ischemia,300335013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195196001#,Transient ischemic attack,300336014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195196001#,Transient ischaemic attack,300337017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195196001#,Transient cerebral ischaemia,300338010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+230717002#,Vertebrobasilar territory transient ischemic attack,345687017#,1,1,2,5011541000006113#,Posterior circulation transient ischemic attack,^ESCTPO501154,NA,345688010,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack,345687017#,1,1,2,5011521000006118#,Vertebrobasilar territory transient ischaemic attack,^ESCTVE501152,NA,345689019,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack,345687017#,1,1,2,5011551000006110#,Posterior circulation transient ischaemic attack,^ESCTPO501155,NA,345690011,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack,345687017#,1,1,2,5011531000006115#,Vertebrobasilar territory transient ischemic attack,^ESCTVE501153,NA,345687017,NA,31
+230717002#,Posterior circulation transient ischemic attack,345688010#,1,1,2,5011541000006113#,Posterior circulation transient ischemic attack,^ESCTPO501154,NA,345688010,NA,31
+230717002#,Posterior circulation transient ischemic attack,345688010#,1,1,2,5011521000006118#,Vertebrobasilar territory transient ischaemic attack,^ESCTVE501152,NA,345689019,NA,31
+230717002#,Posterior circulation transient ischemic attack,345688010#,1,1,2,5011551000006110#,Posterior circulation transient ischaemic attack,^ESCTPO501155,NA,345690011,NA,31
+230717002#,Posterior circulation transient ischemic attack,345688010#,1,1,2,5011531000006115#,Vertebrobasilar territory transient ischemic attack,^ESCTVE501153,NA,345687017,NA,31
+230717002#,Vertebrobasilar territory transient ischaemic attack,345689019#,1,1,2,5011541000006113#,Posterior circulation transient ischemic attack,^ESCTPO501154,NA,345688010,NA,31
+230717002#,Vertebrobasilar territory transient ischaemic attack,345689019#,1,1,2,5011521000006118#,Vertebrobasilar territory transient ischaemic attack,^ESCTVE501152,NA,345689019,NA,31
+230717002#,Vertebrobasilar territory transient ischaemic attack,345689019#,1,1,2,5011551000006110#,Posterior circulation transient ischaemic attack,^ESCTPO501155,NA,345690011,NA,31
+230717002#,Vertebrobasilar territory transient ischaemic attack,345689019#,1,1,2,5011531000006115#,Vertebrobasilar territory transient ischemic attack,^ESCTVE501153,NA,345687017,NA,31
+230717002#,Posterior circulation transient ischaemic attack,345690011#,1,1,2,5011541000006113#,Posterior circulation transient ischemic attack,^ESCTPO501154,NA,345688010,NA,31
+230717002#,Posterior circulation transient ischaemic attack,345690011#,1,1,2,5011521000006118#,Vertebrobasilar territory transient ischaemic attack,^ESCTVE501152,NA,345689019,NA,31
+230717002#,Posterior circulation transient ischaemic attack,345690011#,1,1,2,5011551000006110#,Posterior circulation transient ischaemic attack,^ESCTPO501155,NA,345690011,NA,31
+230717002#,Posterior circulation transient ischaemic attack,345690011#,1,1,2,5011531000006115#,Vertebrobasilar territory transient ischemic attack,^ESCTVE501153,NA,345687017,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack (disorder),618562017#,1,1,2,5011541000006113#,Posterior circulation transient ischemic attack,^ESCTPO501154,NA,345688010,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack (disorder),618562017#,1,1,2,5011521000006118#,Vertebrobasilar territory transient ischaemic attack,^ESCTVE501152,NA,345689019,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack (disorder),618562017#,1,1,2,5011551000006110#,Posterior circulation transient ischaemic attack,^ESCTPO501155,NA,345690011,NA,31
+230717002#,Vertebrobasilar territory transient ischemic attack (disorder),618562017#,1,1,2,5011531000006115#,Vertebrobasilar territory transient ischemic attack,^ESCTVE501153,NA,345687017,NA,31
+266314007#,Transient cer. ischem.,395973019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient cerebral ischemia,395974013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient ischemic attack,395975014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient ischemic attacks,395976010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient cer. ischaem.,395982013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient ischaemic attacks,395983015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient ischaemic attack,395984014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266314007#,Transient cerebral ischaemia,395985010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+751371000000107#,NA,NA#,0,1,1,1667741000000110#,[V]Personal history of transient ischaemic attack,ZV12D,ZV12D00,166774e10,NA,32
+751371000000107#,NA,NA#,0,1,1,8231151000006110#,Personal history of transient ischaemic attack,^ESCTPE823115,NA,165312e10,NA,32
+38609002#,"Transient cerebral ischaemia, NOS",189283016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+38609002#,Transient ischemic attack,189294017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+38609002#,TIA,189295016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+38609002#,Transient ischaemic attack,189298019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138782004#,H/O: TIA,220175017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155404005#,Transient ischaemic attacks,241992013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155404005#,Transient ischaemic attack,241993015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155404005#,Transient cerebral ischaemia,241994014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155404005#,Transient ischemic attacks,241997019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155404005#,Transient ischemic attack,241999016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194495002#,[X]Other transient cerebral ischaemic attacks and related syndromes,299340010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194495002#,[X]Other transient cerebral ischemic attacks and related syndromes,299341014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195203008#,Other transient cerebral ischaemia,300348012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195204002#,Transient cerebral ischaemia NOS,300349016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195207009#,Transient cerebral ischaemia NOS,300355014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+313242003#,Transient ischaemic attacks,457101014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+313242003#,Transient ischemic attacks,457102019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+38609002#,Transient cerebral ischaemia,491650015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138782004#,H/O: TIA,517280010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194495002#,[X]Other transient cerebral ischemic attacks and related syndromes (disorder),578497018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195207009#,Transient cerebral ischaemia NOS,579276014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+313242003#,Transient ischemic attacks (disorder),710002013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+160363004#,Family history of transient ischemic attack (situation),2607148017#,1,0,1,249970011#,FH: TIA,12C7-1,12C7.11,249970011,NA,7
+426814001#,Transient cerebral ischaemia due to atrial fibrillation,2675245017#,1,0,1,7064701000006118#,Transient cerebral ischemia due to atrial fibrillation,^ESCTTR706470,NA,2675244018,NA,31
+426814001#,Transient cerebral ischaemia due to atrial fibrillation,2675245017#,1,0,1,7064691000006118#,Transient cerebral ischaemia due to atrial fibrillation,^ESCTTR706469,NA,2675245017,NA,31
+195207009#,Transient cerebral ischaemia NOS (disorder),2726076010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138782004#,H/O: TIA (situation),2737200013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+444172003#,Recurrent transient cerebral ischemic attack (disorder),2836795017#,1,0,1,7289131000006116#,Recurrent transient cerebral ischemic attack,^ESCTRE728913,NA,2840805012,NA,31
+444172003#,Recurrent transient cerebral ischemic attack (disorder),2836795017#,1,0,1,7289121000006119#,Recurrent transient cerebral ischaemic attack,^ESCTRE728912,NA,2840804011,NA,31
+444172003#,Recurrent transient cerebral ischaemic attack,2840804011#,1,0,1,7289131000006116#,Recurrent transient cerebral ischemic attack,^ESCTRE728913,NA,2840805012,NA,31
+444172003#,Recurrent transient cerebral ischaemic attack,2840804011#,1,0,1,7289121000006119#,Recurrent transient cerebral ischaemic attack,^ESCTRE728912,NA,2840804011,NA,31
+444172003#,Recurrent transient cerebral ischemic attack,2840805012#,1,0,1,7289131000006116#,Recurrent transient cerebral ischemic attack,^ESCTRE728913,NA,2840805012,NA,31
+444172003#,Recurrent transient cerebral ischemic attack,2840805012#,1,0,1,7289121000006119#,Recurrent transient cerebral ischaemic attack,^ESCTRE728912,NA,2840804011,NA,31
+473129008#,Suspected transient ischemic attack,2955838012#,1,0,1,7483201000006116#,Suspected transient ischemic attack,^ESCTSU748320,NA,2955838012,NA,27
+473129008#,Suspected transient ischemic attack,2955838012#,1,0,1,1704681000000110#,Suspected transient ischaemic attack,1JK,1JK..00,2955917017,NA,27
+473129008#,Suspected transient ischaemic attack,2955917017#,1,0,1,7483201000006116#,Suspected transient ischemic attack,^ESCTSU748320,NA,2955838012,NA,27
+473129008#,Suspected transient ischaemic attack,2955917017#,1,0,1,1704681000000110#,Suspected transient ischaemic attack,1JK,1JK..00,2955917017,NA,27
+473129008#,Suspected transient ischemic attack (situation),2955967012#,1,0,1,7483201000006116#,Suspected transient ischemic attack,^ESCTSU748320,NA,2955838012,NA,27
+473129008#,Suspected transient ischemic attack (situation),2955967012#,1,0,1,1704681000000110#,Suspected transient ischaemic attack,1JK,1JK..00,2955917017,NA,27
+704127004#,Transient ischaemic attack clinical management plan,3010855019#,1,0,1,11929301000006118#,Transient ischaemic attack clinical management plan,^ESCT1192930,NA,3010855019,NA,31
+704127004#,Transient ischaemic attack clinical management plan,3010855019#,1,0,1,7586791000006118#,Transient ischemic attack clinical management plan,^ESCTTR758679,NA,3011568013,NA,31
+704127004#,Transient ischemic attack clinical management plan (qualifier value),3011317014#,1,0,1,11929301000006118#,Transient ischaemic attack clinical management plan,^ESCT1192930,NA,3010855019,NA,31
+704127004#,Transient ischemic attack clinical management plan (qualifier value),3011317014#,1,0,1,7586791000006118#,Transient ischemic attack clinical management plan,^ESCTTR758679,NA,3011568013,NA,31
+704127004#,Transient ischemic attack clinical management plan,3011568013#,1,0,1,11929301000006118#,Transient ischaemic attack clinical management plan,^ESCT1192930,NA,3010855019,NA,31
+704127004#,Transient ischemic attack clinical management plan,3011568013#,1,0,1,7586791000006118#,Transient ischemic attack clinical management plan,^ESCTTR758679,NA,3011568013,NA,31
+710575003#,Transient ischemic attack due to embolism,3044441018#,1,0,1,7674171000006113#,Transient ischaemic attack due to embolism,^ESCTTR767417,NA,3044555012,NA,31
+710575003#,Transient ischemic attack due to embolism,3044441018#,1,0,1,7674181000006111#,Transient ischemic attack due to embolism,^ESCTTR767418,NA,3044441018,NA,31
+710575003#,Transient ischaemic attack due to embolism,3044555012#,1,0,1,7674171000006113#,Transient ischaemic attack due to embolism,^ESCTTR767417,NA,3044555012,NA,31
+710575003#,Transient ischaemic attack due to embolism,3044555012#,1,0,1,7674181000006111#,Transient ischemic attack due to embolism,^ESCTTR767418,NA,3044441018,NA,31
+710575003#,Transient ischemic attack due to embolism (disorder),3044992017#,1,0,1,7674171000006113#,Transient ischaemic attack due to embolism,^ESCTTR767417,NA,3044555012,NA,31
+710575003#,Transient ischemic attack due to embolism (disorder),3044992017#,1,0,1,7674181000006111#,Transient ischemic attack due to embolism,^ESCTTR767418,NA,3044441018,NA,31
+140221000119109#,History of transient ischemic attack due to embolism (situation),3047628017#,1,0,1,8044131000006112#,History of transient ischemic attack due to embolism,^ESCTHI804413,NA,3047629013,NA,31
+140221000119109#,History of transient ischemic attack due to embolism (situation),3047628017#,1,0,1,8044121000006114#,History of transient ischaemic attack due to embolism,^ESCTHI804412,NA,3047630015,NA,31
+140221000119109#,History of transient ischemic attack due to embolism,3047629013#,1,0,1,8044131000006112#,History of transient ischemic attack due to embolism,^ESCTHI804413,NA,3047629013,NA,31
+140221000119109#,History of transient ischemic attack due to embolism,3047629013#,1,0,1,8044121000006114#,History of transient ischaemic attack due to embolism,^ESCTHI804412,NA,3047630015,NA,31
+140221000119109#,History of transient ischaemic attack due to embolism,3047630015#,1,0,1,8044131000006112#,History of transient ischemic attack due to embolism,^ESCTHI804413,NA,3047629013,NA,31
+140221000119109#,History of transient ischaemic attack due to embolism,3047630015#,1,0,1,8044121000006114#,History of transient ischaemic attack due to embolism,^ESCTHI804412,NA,3047630015,NA,31
+736288002#,Transient ischemic attack clinical management plan (record artifact),3517032014#,1,0,1,1148331000000111#,Transient ischaemic attack clinical management plan,8CRB,8CRB.00,3517033016,NA,32
+736288002#,Transient ischemic attack clinical management plan (record artifact),3517032014#,1,0,1,3517034010#,Transient ischemic attack clinical management plan,^ESCT1166521,NA,3517034010,NA,32
+736288002#,Transient ischaemic attack clinical management plan,3517033016#,1,0,1,1148331000000111#,Transient ischaemic attack clinical management plan,8CRB,8CRB.00,3517033016,NA,32
+736288002#,Transient ischaemic attack clinical management plan,3517033016#,1,0,1,3517034010#,Transient ischemic attack clinical management plan,^ESCT1166521,NA,3517034010,NA,32
+736288002#,Transient ischemic attack clinical management plan,3517034010#,1,0,1,1148331000000111#,Transient ischaemic attack clinical management plan,8CRB,8CRB.00,3517033016,NA,32
+736288002#,Transient ischemic attack clinical management plan,3517034010#,1,0,1,3517034010#,Transient ischemic attack clinical management plan,^ESCT1166521,NA,3517034010,NA,32

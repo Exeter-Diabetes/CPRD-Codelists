@@ -1,0 +1,1584 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+161527007#,H/O: asthma,251716013#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,H/O: asthma,251716013#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+161527007#,History of - asthma (context-dependent category),542565018#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,History of - asthma (context-dependent category),542565018#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+161527007#,History of - asthma (situation),2606674017#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,History of - asthma (situation),2606674017#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+161527007#,History of - asthma,2666038018#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,History of - asthma,2666038018#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+161527007#,History of asthma,2986737014#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,History of asthma,2986737014#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+161527007#,History of asthma (situation),2986939015#,1,1,2,4540771000006118#,History of asthma,^ESCTHI454077,NA,2986737014,NA,32
+161527007#,History of asthma (situation),2986939015#,1,1,2,251716013#,H/O: asthma,14B4,14B4.00,251716013,NA,32
+31387002#,Exercise-induced asthma,52467014#,1,1,2,3005801000006117#,EIA - Exercise-induced asthma,^ESCTEI300580,NA,1227504017,NA,32
+31387002#,Exercise-induced asthma,52467014#,1,1,2,3005811000006119#,Exercise induced asthma,^ESCTEX300581,NA,3035282010,NA,32
+31387002#,Exercise-induced asthma,52467014#,1,1,2,655601000006113#,Exercise-induced asthma,173A,173A.00,52467014,NA,32
+31387002#,Exercise-induced asthma,52467014#,1,1,2,655611000006111#,Exercise induced asthma,H33zz-1,H33zz11,52467014,NA,32
+31387002#,Exercise-induced asthma (disorder),762502013#,1,1,2,3005801000006117#,EIA - Exercise-induced asthma,^ESCTEI300580,NA,1227504017,NA,32
+31387002#,Exercise-induced asthma (disorder),762502013#,1,1,2,3005811000006119#,Exercise induced asthma,^ESCTEX300581,NA,3035282010,NA,32
+31387002#,Exercise-induced asthma (disorder),762502013#,1,1,2,655601000006113#,Exercise-induced asthma,173A,173A.00,52467014,NA,32
+31387002#,Exercise-induced asthma (disorder),762502013#,1,1,2,655611000006111#,Exercise induced asthma,H33zz-1,H33zz11,52467014,NA,32
+31387002#,EIA - Exercise-induced asthma,1227504017#,1,1,2,3005801000006117#,EIA - Exercise-induced asthma,^ESCTEI300580,NA,1227504017,NA,32
+31387002#,EIA - Exercise-induced asthma,1227504017#,1,1,2,3005811000006119#,Exercise induced asthma,^ESCTEX300581,NA,3035282010,NA,32
+31387002#,EIA - Exercise-induced asthma,1227504017#,1,1,2,655601000006113#,Exercise-induced asthma,173A,173A.00,52467014,NA,32
+31387002#,EIA - Exercise-induced asthma,1227504017#,1,1,2,655611000006111#,Exercise induced asthma,H33zz-1,H33zz11,52467014,NA,32
+31387002#,Exercise induced asthma,3035282010#,1,1,2,3005801000006117#,EIA - Exercise-induced asthma,^ESCTEI300580,NA,1227504017,NA,32
+31387002#,Exercise induced asthma,3035282010#,1,1,2,3005811000006119#,Exercise induced asthma,^ESCTEX300581,NA,3035282010,NA,32
+31387002#,Exercise induced asthma,3035282010#,1,1,2,655601000006113#,Exercise-induced asthma,173A,173A.00,52467014,NA,32
+31387002#,Exercise induced asthma,3035282010#,1,1,2,655611000006111#,Exercise induced asthma,H33zz-1,H33zz11,52467014,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+63088003#,Extrinsic asthma without status asthmaticus,104872017#,1,1,2,104872017#,Extrinsic asthma without status asthmaticus,H3300,H330000,104872017,NA,32
+63088003#,Extrinsic asthma without status asthmaticus (disorder),802332010#,1,1,2,104872017#,Extrinsic asthma without status asthmaticus,H3300,H330000,104872017,NA,32
+63088003#,Allergic asthma without status asthmaticus,3754351017#,1,1,2,104872017#,Extrinsic asthma without status asthmaticus,H3300,H330000,104872017,NA,32
+63088003#,Allergic asthma without status asthmaticus (disorder),3754352012#,1,1,2,104872017#,Extrinsic asthma without status asthmaticus,H3300,H330000,104872017,NA,32
+233683003#,Hay fever with asthma,350153016#,1,1,2,817361000006114#,Hay fever with asthma,H330-3,H330.13,350153016,NA,32
+233683003#,Hay fever with asthma,350153016#,1,1,2,350154010#,Pollen asthma,H330-4,H330.14,350154010,NA,32
+233683003#,Hay fever with asthma,350153016#,1,1,2,350153016#,Hay fever with asthma,H3300-1,H330011,350153016,NA,32
+233683003#,Pollen asthma,350154010#,1,1,2,817361000006114#,Hay fever with asthma,H330-3,H330.13,350153016,NA,32
+233683003#,Pollen asthma,350154010#,1,1,2,350154010#,Pollen asthma,H330-4,H330.14,350154010,NA,32
+233683003#,Pollen asthma,350154010#,1,1,2,350153016#,Hay fever with asthma,H3300-1,H330011,350153016,NA,32
+233683003#,Hay fever with asthma (disorder),621900013#,1,1,2,817361000006114#,Hay fever with asthma,H330-3,H330.13,350153016,NA,32
+233683003#,Hay fever with asthma (disorder),621900013#,1,1,2,350154010#,Pollen asthma,H330-4,H330.14,350154010,NA,32
+233683003#,Hay fever with asthma (disorder),621900013#,1,1,2,350153016#,Hay fever with asthma,H3300-1,H330011,350153016,NA,32
+708093000#,Acute exacerbation of extrinsic asthma,3032949014#,1,1,2,7628271000006114#,Acute exacerbation of extrinsic asthma,^ESCTAC762827,NA,3032949014,NA,32
+708093000#,Acute exacerbation of extrinsic asthma,3032949014#,1,1,2,7628281000006112#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,^ESCTAC762828,NA,3083682018,NA,32
+708093000#,Acute exacerbation of extrinsic asthma,3032949014#,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,3083642013,NA,32
+708093000#,Acute exacerbation of extrinsic asthma (disorder),3032970015#,1,1,2,7628271000006114#,Acute exacerbation of extrinsic asthma,^ESCTAC762827,NA,3032949014,NA,32
+708093000#,Acute exacerbation of extrinsic asthma (disorder),3032970015#,1,1,2,7628281000006112#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,^ESCTAC762828,NA,3083682018,NA,32
+708093000#,Acute exacerbation of extrinsic asthma (disorder),3032970015#,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,3083642013,NA,32
+708093000#,Acute exacerbation of allergic asthma,3083642013#,1,1,2,7628271000006114#,Acute exacerbation of extrinsic asthma,^ESCTAC762827,NA,3032949014,NA,32
+708093000#,Acute exacerbation of allergic asthma,3083642013#,1,1,2,7628281000006112#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,^ESCTAC762828,NA,3083682018,NA,32
+708093000#,Acute exacerbation of allergic asthma,3083642013#,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,3083642013,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,3083682018#,1,1,2,7628271000006114#,Acute exacerbation of extrinsic asthma,^ESCTAC762827,NA,3032949014,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,3083682018#,1,1,2,7628281000006112#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,^ESCTAC762828,NA,3083682018,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,3083682018#,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,3083642013,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),3083732016#,1,1,2,7628271000006114#,Acute exacerbation of extrinsic asthma,^ESCTAC762827,NA,3032949014,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),3083732016#,1,1,2,7628281000006112#,Acute exacerbation of immunoglobulin E-mediated allergic asthma,^ESCTAC762828,NA,3083682018,NA,32
+708093000#,Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),3083732016#,1,1,2,350151019#,Acute exacerbation of allergic asthma,H3301-1,H330111,3083642013,NA,32
+389145006#,Allergic asthma (disorder),1463324019#,1,1,2,885291000006115#,Extrinsic asthma - atopy,H330-99,H330.99,885000000000000,NA,32
+389145006#,Allergic asthma (disorder),1463324019#,1,1,2,6512381000006116#,Atopic asthma,^ESCTAT651238,NA,1493644014,NA,32
+389145006#,Allergic asthma (disorder),1463324019#,1,1,2,1483199016#,Allergic asthma,H330-1,H330.11,1483199016,NA,32
+389145006#,Allergic asthma (disorder),1463324019#,1,1,2,660351000006118#,Allergic atopic asthma,H330,H330.00,1493645010,NA,32
+389145006#,Allergic asthma (disorder),1463324019#,1,1,2,350152014#,Allergic asthma NEC,H33zz-2,H33zz12,1483199016,NA,32
+389145006#,Allergic asthma,1483199016#,1,1,2,885291000006115#,Extrinsic asthma - atopy,H330-99,H330.99,885000000000000,NA,32
+389145006#,Allergic asthma,1483199016#,1,1,2,6512381000006116#,Atopic asthma,^ESCTAT651238,NA,1493644014,NA,32
+389145006#,Allergic asthma,1483199016#,1,1,2,1483199016#,Allergic asthma,H330-1,H330.11,1483199016,NA,32
+389145006#,Allergic asthma,1483199016#,1,1,2,660351000006118#,Allergic atopic asthma,H330,H330.00,1493645010,NA,32
+389145006#,Allergic asthma,1483199016#,1,1,2,350152014#,Allergic asthma NEC,H33zz-2,H33zz12,1483199016,NA,32
+389145006#,Atopic asthma,1493644014#,1,1,2,885291000006115#,Extrinsic asthma - atopy,H330-99,H330.99,885000000000000,NA,32
+389145006#,Atopic asthma,1493644014#,1,1,2,6512381000006116#,Atopic asthma,^ESCTAT651238,NA,1493644014,NA,32
+389145006#,Atopic asthma,1493644014#,1,1,2,1483199016#,Allergic asthma,H330-1,H330.11,1483199016,NA,32
+389145006#,Atopic asthma,1493644014#,1,1,2,660351000006118#,Allergic atopic asthma,H330,H330.00,1493645010,NA,32
+389145006#,Atopic asthma,1493644014#,1,1,2,350152014#,Allergic asthma NEC,H33zz-2,H33zz12,1483199016,NA,32
+389145006#,Allergic atopic asthma,1493645010#,1,1,2,885291000006115#,Extrinsic asthma - atopy,H330-99,H330.99,885000000000000,NA,32
+389145006#,Allergic atopic asthma,1493645010#,1,1,2,6512381000006116#,Atopic asthma,^ESCTAT651238,NA,1493644014,NA,32
+389145006#,Allergic atopic asthma,1493645010#,1,1,2,1483199016#,Allergic asthma,H330-1,H330.11,1483199016,NA,32
+389145006#,Allergic atopic asthma,1493645010#,1,1,2,660351000006118#,Allergic atopic asthma,H330,H330.00,1493645010,NA,32
+389145006#,Allergic atopic asthma,1493645010#,1,1,2,350152014#,Allergic asthma NEC,H33zz-2,H33zz12,1483199016,NA,32
+233678006#,Childhood asthma,350147016#,1,1,2,350147016#,Childhood asthma,H330-2,H330.12,350147016,NA,32
+233678006#,Childhood asthma (disorder),621894013#,1,1,2,350147016#,Childhood asthma,H330-2,H330.12,350147016,NA,32
+424643009#,IgE-mediated allergic asthma (disorder),2640331017#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,IgE-mediated allergic asthma (disorder),2640331017#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,IgE-mediated allergic asthma (disorder),2640331017#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,IgE-mediated allergic asthma (disorder),2640331017#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,IgE-mediated allergic asthma (disorder),2640331017#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,IgE-mediated allergic asthma,2644386013#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,IgE-mediated allergic asthma,2644386013#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,IgE-mediated allergic asthma,2644386013#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,IgE-mediated allergic asthma,2644386013#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,IgE-mediated allergic asthma,2644386013#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,IgE mediated asthma,2648326018#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,IgE mediated asthma,2648326018#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,IgE mediated asthma,2648326018#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,IgE mediated asthma,2648326018#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,IgE mediated asthma,2648326018#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,Extrinsic asthma,2648327010#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,Extrinsic asthma,2648327010#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,Extrinsic asthma,2648327010#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,Extrinsic asthma,2648327010#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,Extrinsic asthma,2648327010#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,IgE mediated allergic asthma,2648328017#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,IgE mediated allergic asthma,2648328017#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,IgE mediated allergic asthma,2648328017#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,IgE mediated allergic asthma,2648328017#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,IgE mediated allergic asthma,2648328017#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma,2969326017#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma,2969326017#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma,2969326017#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma,2969326017#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma,2969326017#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma (disorder),2969536012#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma (disorder),2969536012#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma (disorder),2969536012#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma (disorder),2969536012#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,Immunoglobulin E-mediated allergic asthma (disorder),2969536012#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,Allergic atopic asthma,3707899013#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,Allergic atopic asthma,3707899013#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,Allergic atopic asthma,3707899013#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,Allergic atopic asthma,3707899013#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,Allergic atopic asthma,3707899013#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+424643009#,Atopic asthma,3707900015#,1,1,2,7030341000006118#,IgE mediated allergic asthma,^ESCTIG703034,NA,2648328017,NA,32
+424643009#,Atopic asthma,3707900015#,1,1,2,7030351000006116#,Immunoglobulin E-mediated allergic asthma,^ESCTIM703035,NA,2969326017,NA,32
+424643009#,Atopic asthma,3707900015#,1,1,2,7030321000006113#,IgE mediated asthma,^ESCTIG703032,NA,2648326018,NA,32
+424643009#,Atopic asthma,3707900015#,1,1,2,7030311000006117#,IgE-mediated allergic asthma,^ESCTIG703031,NA,2644386013,NA,32
+424643009#,Atopic asthma,3707900015#,1,1,2,301499010#,Extrinsic asthma,H330z,H330z00,2648327010,NA,32
+12428000#,Intrinsic asthma without status asthmaticus,21390015#,1,1,2,21390015#,Intrinsic asthma without status asthmaticus,H3310,H331000,21390015,NA,32
+12428000#,Intrinsic asthma without status asthmaticus (disorder),727859010#,1,1,2,21390015#,Intrinsic asthma without status asthmaticus,H3310,H331000,21390015,NA,32
+708094006#,Acute exacerbation of intrinsic asthma,3032866010#,1,1,2,350156012#,Acute exacerbation of intrinsic asthma,H3311-1,H331111,3032866010,NA,32
+708094006#,Acute exacerbation of intrinsic asthma (disorder),3032911010#,1,1,2,350156012#,Acute exacerbation of intrinsic asthma,H3311-1,H331111,3032866010,NA,32
+266361008#,Intrinsic asthma,396114013#,1,1,2,5492441000006114#,Non-allergic asthma,^ESCTNO549244,NA,396115014,NA,32
+266361008#,Intrinsic asthma,396114013#,1,1,2,5492451000006111#,Asthma due to internal immunological process,^ESCTAS549245,NA,396116010,NA,32
+266361008#,Intrinsic asthma,396114013#,1,1,2,301508013#,Intrinsic asthma NOS,H331z,H331z00,396114013,NA,32
+266361008#,Intrinsic asthma,396114013#,1,1,2,396114013#,Intrinsic asthma,H331,H331.00,396114013,NA,32
+266361008#,Non-allergic asthma,396115014#,1,1,2,5492441000006114#,Non-allergic asthma,^ESCTNO549244,NA,396115014,NA,32
+266361008#,Non-allergic asthma,396115014#,1,1,2,5492451000006111#,Asthma due to internal immunological process,^ESCTAS549245,NA,396116010,NA,32
+266361008#,Non-allergic asthma,396115014#,1,1,2,301508013#,Intrinsic asthma NOS,H331z,H331z00,396114013,NA,32
+266361008#,Non-allergic asthma,396115014#,1,1,2,396114013#,Intrinsic asthma,H331,H331.00,396114013,NA,32
+266361008#,Asthma due to internal immunological process,396116010#,1,1,2,5492441000006114#,Non-allergic asthma,^ESCTNO549244,NA,396115014,NA,32
+266361008#,Asthma due to internal immunological process,396116010#,1,1,2,5492451000006111#,Asthma due to internal immunological process,^ESCTAS549245,NA,396116010,NA,32
+266361008#,Asthma due to internal immunological process,396116010#,1,1,2,301508013#,Intrinsic asthma NOS,H331z,H331z00,396114013,NA,32
+266361008#,Asthma due to internal immunological process,396116010#,1,1,2,396114013#,Intrinsic asthma,H331,H331.00,396114013,NA,32
+266361008#,Non-allergic asthma (disorder),658847014#,1,1,2,5492441000006114#,Non-allergic asthma,^ESCTNO549244,NA,396115014,NA,32
+266361008#,Non-allergic asthma (disorder),658847014#,1,1,2,5492451000006111#,Asthma due to internal immunological process,^ESCTAS549245,NA,396116010,NA,32
+266361008#,Non-allergic asthma (disorder),658847014#,1,1,2,301508013#,Intrinsic asthma NOS,H331z,H331z00,396114013,NA,32
+266361008#,Non-allergic asthma (disorder),658847014#,1,1,2,396114013#,Intrinsic asthma,H331,H331.00,396114013,NA,32
+233679003#,Late onset asthma,350148014#,1,1,2,350149018#,Late-onset asthma,H33z2,H33z200,350148014,NA,32
+233679003#,Late onset asthma,350148014#,1,1,2,350148014#,Late onset asthma,H331-1,H331.11,350148014,NA,32
+233679003#,Late onset asthma,350148014#,1,1,2,5054341000006110#,Late-onset asthma,^ESCTLA505434,NA,350149018,NA,32
+233679003#,Late-onset asthma,350149018#,1,1,2,350149018#,Late-onset asthma,H33z2,H33z200,350148014,NA,32
+233679003#,Late-onset asthma,350149018#,1,1,2,350148014#,Late onset asthma,H331-1,H331.11,350148014,NA,32
+233679003#,Late-onset asthma,350149018#,1,1,2,5054341000006110#,Late-onset asthma,^ESCTLA505434,NA,350149018,NA,32
+233679003#,Late onset asthma (disorder),621895014#,1,1,2,350149018#,Late-onset asthma,H33z2,H33z200,350148014,NA,32
+233679003#,Late onset asthma (disorder),621895014#,1,1,2,350148014#,Late onset asthma,H331-1,H331.11,350148014,NA,32
+233679003#,Late onset asthma (disorder),621895014#,1,1,2,5054341000006110#,Late-onset asthma,^ESCTLA505434,NA,350149018,NA,32
+195977004#,Mixed asthma,301509017#,1,1,2,301509017#,Mixed asthma,H332,H332.00,301509017,NA,32
+195977004#,Mixed asthma (disorder),580146012#,1,1,2,301509017#,Mixed asthma,H332,H332.00,301509017,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Airway hyperreactivity,301478012#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Asthmatic,301479016#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Bronchial asthma,301480018#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Bronchial hyperreactivity,301481019#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,BHR - Bronchial hyperreactivity,301482014#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Bronchial hyperresponsiveness,301483016#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Bronchial hypersensitivity,301484010#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Asthma,301485011#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Asthma,301485011#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Asthma,301485011#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Asthma,301485011#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Asthma,301485011#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Asthma,301485011#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Asthma (disorder),580135014#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,301485011#,Asthma,H33,H33..00,301485011,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781561000006116#,BHR - Bronchial hyperreactivity,^ESCTBH478156,NA,301482014,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781551000006118#,Bronchial hyperreactivity,^ESCTBR478155,NA,301481019,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781531000006113#,Asthmatic,^ESCTAS478153,NA,301479016,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781581000006114#,Bronchial hypersensitivity,^ESCTBR478158,NA,301484010,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,301511014#,Asthma unspecified,H33z,H33z.00,301485011,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,396120014#,Asthma NOS,H33zz,H33zz00,301485011,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781521000006110#,Airway hyperreactivity,^ESCTAI478152,NA,301478012,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,301480018#,Bronchial asthma,H33-1,H33..11,301480018,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,4781571000006111#,Bronchial hyperresponsiveness,^ESCTBR478157,NA,301483016,NA,32
+195967001#,Hyperreactive airway disease,2475605013#,1,1,2,2535857010#,Hyperreactive airway disease,H33z-1,H33z.11,2475605013,NA,32
+734904007#,Life threatening acute exacerbation of asthma (disorder),3511367013#,1,1,2,396118011#,Life threatening acute exacerbation of asthma,H33z0,H33z000,3511368015,NA,32
+734904007#,Life threatening acute exacerbation of asthma,3511368015#,1,1,2,396118011#,Life threatening acute exacerbation of asthma,H33z0,H33z000,3511368015,NA,32
+708090002#,Acute severe exacerbation of asthma (disorder),3033006015#,1,1,2,7628191000006118#,Acute severe exacerbation of asthma,^ESCTAC762819,NA,763e13,NA,32
+708090002#,Acute severe exacerbation of asthma (disorder),3033006015#,1,1,2,145961000006117#,Acute severe exacerbation of asthma,H33z0-1,H33z011,3033029011,NA,32
+708090002#,Acute severe exacerbation of asthma,3033029011#,1,1,2,7628191000006118#,Acute severe exacerbation of asthma,^ESCTAC762819,NA,763e13,NA,32
+708090002#,Acute severe exacerbation of asthma,3033029011#,1,1,2,145961000006117#,Acute severe exacerbation of asthma,H33z0-1,H33z011,3033029011,NA,32
+708090002#,Status asthmaticus,3326606016#,1,1,2,7628191000006118#,Acute severe exacerbation of asthma,^ESCTAC762819,NA,763e13,NA,32
+708090002#,Status asthmaticus,3326606016#,1,1,2,145961000006117#,Acute severe exacerbation of asthma,H33z0-1,H33z011,3033029011,NA,32
+708038006#,Asthma attack,3032734012#,1,1,2,419211018#,Acute exacerbation of asthma,H333,H333.00,3032747019,NA,32
+708038006#,Asthma attack,3032734012#,1,1,2,7627241000006119#,Acute exacerbation of asthma,^ESCTAC762724,NA,763e13,NA,32
+708038006#,Asthma attack,3032734012#,1,1,2,409865018#,Asthma attack NOS,H33z1-1,H33z111,3032734012,NA,32
+708038006#,Asthma attack,3032734012#,1,1,2,396119015#,Asthma attack,H33z1,H33z100,3032734012,NA,32
+708038006#,Asthma attack,3032734012#,1,1,2,11903851000006115#,Severe asthma attack,^ESCT1190385,NA,146000000000000,NA,32
+708038006#,Acute exacerbation of asthma,3032747019#,1,1,2,419211018#,Acute exacerbation of asthma,H333,H333.00,3032747019,NA,32
+708038006#,Acute exacerbation of asthma,3032747019#,1,1,2,7627241000006119#,Acute exacerbation of asthma,^ESCTAC762724,NA,763e13,NA,32
+708038006#,Acute exacerbation of asthma,3032747019#,1,1,2,409865018#,Asthma attack NOS,H33z1-1,H33z111,3032734012,NA,32
+708038006#,Acute exacerbation of asthma,3032747019#,1,1,2,396119015#,Asthma attack,H33z1,H33z100,3032734012,NA,32
+708038006#,Acute exacerbation of asthma,3032747019#,1,1,2,11903851000006115#,Severe asthma attack,^ESCT1190385,NA,146000000000000,NA,32
+708038006#,Acute exacerbation of asthma (disorder),3032825010#,1,1,2,419211018#,Acute exacerbation of asthma,H333,H333.00,3032747019,NA,32
+708038006#,Acute exacerbation of asthma (disorder),3032825010#,1,1,2,7627241000006119#,Acute exacerbation of asthma,^ESCTAC762724,NA,763e13,NA,32
+708038006#,Acute exacerbation of asthma (disorder),3032825010#,1,1,2,409865018#,Asthma attack NOS,H33z1-1,H33z111,3032734012,NA,32
+708038006#,Acute exacerbation of asthma (disorder),3032825010#,1,1,2,396119015#,Asthma attack,H33z1,H33z100,3032734012,NA,32
+708038006#,Acute exacerbation of asthma (disorder),3032825010#,1,1,2,11903851000006115#,Severe asthma attack,^ESCT1190385,NA,146000000000000,NA,32
+57607007#,Occupational asthma,95786019#,1,1,2,95786019#,Occupational asthma,173c,173c.00,95786019,NA,27
+57607007#,Occupational asthma,95786019#,1,1,2,3435971000006119#,Industrial asthma,^ESCTIN343597,NA,95787011,NA,27
+57607007#,Occupational asthma,95786019#,1,1,2,983771000006118#,Work aggravated asthma,173d,173d.00,95786019,NA,27
+57607007#,Industrial asthma,95787011#,1,1,2,95786019#,Occupational asthma,173c,173c.00,95786019,NA,27
+57607007#,Industrial asthma,95787011#,1,1,2,3435971000006119#,Industrial asthma,^ESCTIN343597,NA,95787011,NA,27
+57607007#,Industrial asthma,95787011#,1,1,2,983771000006118#,Work aggravated asthma,173d,173d.00,95786019,NA,27
+57607007#,Occupational asthma (disorder),796248014#,1,1,2,95786019#,Occupational asthma,173c,173c.00,95786019,NA,27
+57607007#,Occupational asthma (disorder),796248014#,1,1,2,3435971000006119#,Industrial asthma,^ESCTIN343597,NA,95787011,NA,27
+57607007#,Occupational asthma (disorder),796248014#,1,1,2,983771000006118#,Work aggravated asthma,173d,173d.00,95786019,NA,27
+407674008#,Aspirin-induced asthma (disorder),2151505011#,1,1,2,929091000006111#,Aspirin-induced asthma,1780,1780,2159273015,NA,5
+407674008#,Aspirin-induced asthma,2159273015#,1,1,2,929091000006111#,Aspirin-induced asthma,1780,1780,2159273015,NA,5
+401193004#,Asthma confirmed (context-dependent category),1769115015#,1,1,2,1780388018#,Asthma confirmed,1O2,1O2..00,1780388018,NA,27
+401193004#,Asthma confirmed,1780388018#,1,1,2,1780388018#,Asthma confirmed,1O2,1O2..00,1780388018,NA,27
+401193004#,Asthma confirmed (situation),2612977018#,1,1,2,1780388018#,Asthma confirmed,1O2,1O2..00,1780388018,NA,27
+162660004#,Asthma resolved,253533013#,1,1,2,253533013#,Asthma resolved,212G,212G.00,253533013,NA,27
+162660004#,Asthma resolved,253533013#,1,1,2,496491000006117#,Asthma resolved,21262,2126200,253533013,NA,27
+162660004#,Asthma resolved (finding),543791013#,1,1,2,253533013#,Asthma resolved,212G,212G.00,253533013,NA,27
+162660004#,Asthma resolved (finding),543791013#,1,1,2,496491000006117#,Asthma resolved,21262,2126200,253533013,NA,27
+225057002#,Brittle asthma,338238011#,1,1,2,338238011#,Brittle asthma,H334,H334.00,338238011,NA,32
+225057002#,Brittle asthma (disorder),612256015#,1,1,2,338238011#,Brittle asthma,H334,H334.00,338238011,NA,32
+708095007#,Acute severe exacerbation of extrinsic asthma (disorder),3032872010#,1,1,2,7628301000006111#,Acute severe exacerbation of allergic asthma,^ESCTAC762830,NA,3083689010,NA,31
+708095007#,Acute severe exacerbation of extrinsic asthma (disorder),3032872010#,1,1,2,7628311000006114#,Acute severe exacerbation of extrinsic asthma,^ESCTAC762831,NA,3032914019,NA,31
+708095007#,Acute severe exacerbation of extrinsic asthma (disorder),3032872010#,1,1,2,7628321000006118#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,^ESCTAC762832,NA,3083685016,NA,31
+708095007#,Acute severe exacerbation of extrinsic asthma,3032914019#,1,1,2,7628301000006111#,Acute severe exacerbation of allergic asthma,^ESCTAC762830,NA,3083689010,NA,31
+708095007#,Acute severe exacerbation of extrinsic asthma,3032914019#,1,1,2,7628311000006114#,Acute severe exacerbation of extrinsic asthma,^ESCTAC762831,NA,3032914019,NA,31
+708095007#,Acute severe exacerbation of extrinsic asthma,3032914019#,1,1,2,7628321000006118#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,^ESCTAC762832,NA,3083685016,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,3083685016#,1,1,2,7628301000006111#,Acute severe exacerbation of allergic asthma,^ESCTAC762830,NA,3083689010,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,3083685016#,1,1,2,7628311000006114#,Acute severe exacerbation of extrinsic asthma,^ESCTAC762831,NA,3032914019,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,3083685016#,1,1,2,7628321000006118#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,^ESCTAC762832,NA,3083685016,NA,31
+708095007#,Acute severe exacerbation of allergic asthma,3083689010#,1,1,2,7628301000006111#,Acute severe exacerbation of allergic asthma,^ESCTAC762830,NA,3083689010,NA,31
+708095007#,Acute severe exacerbation of allergic asthma,3083689010#,1,1,2,7628311000006114#,Acute severe exacerbation of extrinsic asthma,^ESCTAC762831,NA,3032914019,NA,31
+708095007#,Acute severe exacerbation of allergic asthma,3083689010#,1,1,2,7628321000006118#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,^ESCTAC762832,NA,3083685016,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),3083729019#,1,1,2,7628301000006111#,Acute severe exacerbation of allergic asthma,^ESCTAC762830,NA,3083689010,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),3083729019#,1,1,2,7628311000006114#,Acute severe exacerbation of extrinsic asthma,^ESCTAC762831,NA,3032914019,NA,31
+708095007#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),3083729019#,1,1,2,7628321000006118#,Acute severe exacerbation of immunoglobin E-mediated allergic asthma,^ESCTAC762832,NA,3083685016,NA,31
+195968006#,Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever],301486012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Pollen asthma,301487015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Allergic asthma,301488013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Extrinsic (atopic) asthma,301489017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Childhood asthma,301490014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Hay fever with asthma,301491013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever],580137018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195968006#,Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever] (disorder),3085176015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,(Intrinsic asthma) or (late onset asthma),301500018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,Late onset asthma,301501019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,Late-onset asthma,301502014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,Intrinsic asthma,301503016#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,(Intrinsic asthma) or (late onset asthma),580142014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195973000#,(Intrinsic asthma) or (late onset asthma) (disorder),2750006015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,(Asthma: [exercise induced] or [allergic NEC] or [NOS]) or (allergic bronchitis NEC),301519011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,Allergic asthma NEC,301520017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,Allergic bronchitis NEC,301521018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,Exercise induced asthma,301522013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,Asthma NOS,301523015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+195983001#,(Asthma: [exercise induced] or [allergic NEC] or [NOS]) or (allergic bronchitis NEC),580153015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+170631002#,Asthma disturbing sleep,264540018#,1,1,2,264540018#,Asthma disturbing sleep,663N,663N.00,264540018,NA,1
+170631002#,Asthma disturbing sleep (finding),552604018#,1,1,2,264540018#,Asthma disturbing sleep,663N,663N.00,264540018,NA,1
+170632009#,Asthma causing night waking,264541019#,1,1,2,264541019#,Asthma causing night waking,663N0,663N000,264541019,NA,1
+170632009#,Asthma causing night waking (finding),552605017#,1,1,2,264541019#,Asthma causing night waking,663N0,663N000,264541019,NA,1
+170633004#,Asthma disturbs sleep weekly,264542014#,1,1,2,264542014#,Asthma disturbs sleep weekly,663N1,663N100,264542014,NA,1
+170633004#,Asthma disturbs sleep weekly (finding),552606016#,1,1,2,264542014#,Asthma disturbs sleep weekly,663N1,663N100,264542014,NA,1
+170634005#,Asthma disturbs sleep frequently,264543016#,1,1,2,264543016#,Asthma disturbs sleep frequently,663N2,663N200,264543016,NA,1
+170634005#,Asthma disturbs sleep frequently (finding),552607013#,1,1,2,264543016#,Asthma disturbs sleep frequently,663N2,663N200,264543016,NA,1
+170635006#,Asthma not disturbing sleep,264544010#,1,1,2,264544010#,Asthma not disturbing sleep,663O,663O.00,264544010,NA,1
+170635006#,Asthma not disturbing sleep (finding),552609011#,1,1,2,264544010#,Asthma not disturbing sleep,663O,663O.00,264544010,NA,1
+170636007#,Asthma never disturbs sleep,264545011#,1,1,2,264545011#,Asthma never disturbs sleep,663O0,663O000,264545011,NA,1
+170636007#,Asthma never disturbs sleep (finding),552610018#,1,1,2,264545011#,Asthma never disturbs sleep,663O0,663O000,264545011,NA,1
+170637003#,Asthma limiting activities,264546012#,1,1,2,264546012#,Asthma limiting activities,663P,663P.00,264546012,NA,1
+170637003#,Asthma limiting activities (finding),552611019#,1,1,2,264546012#,Asthma limiting activities,663P,663P.00,264546012,NA,1
+170638008#,Asthma not limiting activities,264547015#,1,1,2,264547015#,Asthma not limiting activities,663Q,663Q.00,264547015,NA,1
+170638008#,Asthma not limiting activities (finding),552612014#,1,1,2,264547015#,Asthma not limiting activities,663Q,663Q.00,264547015,NA,1
+406162001#,Asthma management (regime/therapy),2149992016#,1,1,2,6724151000006111#,Asthma care,^ESCTAS672415,NA,2163236010,NA,1
+406162001#,Asthma management (regime/therapy),2149992016#,1,1,2,264550017#,Asthma management,663U,663U.00,2157868010,NA,1
+406162001#,Asthma management,2157868010#,1,1,2,6724151000006111#,Asthma care,^ESCTAS672415,NA,2163236010,NA,1
+406162001#,Asthma management,2157868010#,1,1,2,264550017#,Asthma management,663U,663U.00,2157868010,NA,1
+406162001#,Asthma care,2163236010#,1,1,2,6724151000006111#,Asthma care,^ESCTAS672415,NA,2163236010,NA,1
+406162001#,Asthma care,2163236010#,1,1,2,264550017#,Asthma management,663U,663U.00,2157868010,NA,1
+170642006#,Asthma severity,264551018#,1,1,2,264551018#,Asthma severity,663V,663V.00,264551018,NA,1
+170642006#,Asthma severity (procedure),552616012#,1,1,2,264551018#,Asthma severity,663V,663V.00,264551018,NA,1
+170642006#,Asthma severity (regime/therapy),1470379013#,1,1,2,264551018#,Asthma severity,663V,663V.00,264551018,NA,1
+370220003#,Occasional asthma (finding),1195511010#,1,1,2,1208971012#,Occasional asthma,663V0,663V000,1208971012,NA,1
+370220003#,Occasional asthma,1208971012#,1,1,2,1208971012#,Occasional asthma,663V0,663V000,1208971012,NA,1
+370220003#,Occasional asthma (disorder),2612772015#,1,1,2,1208971012#,Occasional asthma,663V0,663V000,1208971012,NA,1
+370218001#,Mild asthma (finding),1195509018#,1,1,2,1208969012#,Mild asthma,663V1,663V100,1208969012,NA,1
+370218001#,Mild asthma,1208969012#,1,1,2,1208969012#,Mild asthma,663V1,663V100,1208969012,NA,1
+370218001#,Mild asthma (disorder),2612770011#,1,1,2,1208969012#,Mild asthma,663V1,663V100,1208969012,NA,1
+370219009#,Moderate asthma (finding),1195510011#,1,1,2,1208970013#,Moderate asthma,663V2,663V200,1208970013,NA,1
+370219009#,Moderate asthma,1208970013#,1,1,2,1208970013#,Moderate asthma,663V2,663V200,1208970013,NA,1
+370219009#,Moderate asthma (disorder),2612771010#,1,1,2,1208970013#,Moderate asthma,663V2,663V200,1208970013,NA,1
+370221004#,Severe asthma (finding),1195512015#,1,1,2,1208972017#,Severe asthma,663V3,663V300,1208972017,NA,1
+370221004#,Severe asthma,1208972017#,1,1,2,1208972017#,Severe asthma,663V3,663V300,1208972017,NA,1
+370221004#,Severe asthma (disorder),2612773013#,1,1,2,1208972017#,Severe asthma,663V3,663V300,1208972017,NA,1
+170647000#,Asthma prophylactic medication used,264556011#,1,1,2,264556011#,Asthma prophylactic medication used,663W,663W.00,264556011,NA,1
+170647000#,Asthma prophylactic medication used (procedure),552622015#,1,1,2,264556011#,Asthma prophylactic medication used,663W,663W.00,264556011,NA,1
+170647000#,Asthma prophylactic medication used (regime/therapy),1470380011#,1,1,2,264556011#,Asthma prophylactic medication used,663W,663W.00,264556011,NA,1
+170647000#,Asthma prophylactic medication used (situation),2868865015#,1,1,2,264556011#,Asthma prophylactic medication used,663W,663W.00,264556011,NA,1
+708358003#,Emergency asthma admission since last encounter (situation),3033426014#,1,1,2,264565016#,Emergency asthma admission since last encounter,663d,663d.00,3033971010,NA,1
+708358003#,Emergency asthma admission since last encounter,3033971010#,1,1,2,264565016#,Emergency asthma admission since last encounter,663d,663d.00,3033971010,NA,1
+170655007#,Asthma restricts exercise,264566015#,1,1,2,264566015#,Asthma restricts exercise,663e,663e.00,264566015,NA,1
+170655007#,Asthma restricts exercise (finding),552631015#,1,1,2,264566015#,Asthma restricts exercise,663e,663e.00,264566015,NA,1
+170656008#,Asthma sometimes restricts exercise,264567012#,1,1,2,264567012#,Asthma sometimes restricts exercise,6.63E+02,6.63E+02,264567012,NA,1
+170656008#,Asthma sometimes restricts exercise (finding),552632010#,1,1,2,264567012#,Asthma sometimes restricts exercise,6.63E+02,6.63E+02,264567012,NA,1
+170657004#,Asthma severely restricts exercise,264568019#,1,1,2,264568019#,Asthma severely restricts exercise,6.63E+03,6.63E+102,264568019,NA,1
+170657004#,Asthma severely restricts exercise (finding),552633017#,1,1,2,264568019#,Asthma severely restricts exercise,6.63E+03,6.63E+102,264568019,NA,1
+170658009#,Asthma never restricts exercise,264569010#,1,1,2,264569010#,Asthma never restricts exercise,663f,663f.00,264569010,NA,1
+170658009#,Asthma never restricts exercise (finding),552634011#,1,1,2,264569010#,Asthma never restricts exercise,663f,663f.00,264569010,NA,1
+183478001#,"Emergency admission, asthma",283550015#,1,1,2,12485061000006112#,"Emergency admission, asthma",^ESCT1248506,NA,283550015,NA,40
+183478001#,"Emergency admission, asthma",283550015#,1,1,2,4723761000006117#,Emergency hospital admission for asthma,^ESCTEM472376,NA,472e13,NA,40
+183478001#,"Emergency admission, asthma",283550015#,1,1,2,283550015#,Emergency hospital admission for asthma,8H2P,8H2P.00,3082895019,NA,40
+183478001#,"Emergency admission, asthma (procedure)",566964017#,1,1,2,12485061000006112#,"Emergency admission, asthma",^ESCT1248506,NA,283550015,NA,40
+183478001#,"Emergency admission, asthma (procedure)",566964017#,1,1,2,4723761000006117#,Emergency hospital admission for asthma,^ESCTEM472376,NA,472e13,NA,40
+183478001#,"Emergency admission, asthma (procedure)",566964017#,1,1,2,283550015#,Emergency hospital admission for asthma,8H2P,8H2P.00,3082895019,NA,40
+183478001#,Emergency hospital admission for asthma,3082895019#,1,1,2,12485061000006112#,"Emergency admission, asthma",^ESCT1248506,NA,283550015,NA,40
+183478001#,Emergency hospital admission for asthma,3082895019#,1,1,2,4723761000006117#,Emergency hospital admission for asthma,^ESCTEM472376,NA,472e13,NA,40
+183478001#,Emergency hospital admission for asthma,3082895019#,1,1,2,283550015#,Emergency hospital admission for asthma,8H2P,8H2P.00,3082895019,NA,40
+183478001#,Emergency hospital admission for asthma (procedure),3082963016#,1,1,2,12485061000006112#,"Emergency admission, asthma",^ESCT1248506,NA,283550015,NA,40
+183478001#,Emergency hospital admission for asthma (procedure),3082963016#,1,1,2,4723761000006117#,Emergency hospital admission for asthma,^ESCTEM472376,NA,472e13,NA,40
+183478001#,Emergency hospital admission for asthma (procedure),3082963016#,1,1,2,283550015#,Emergency hospital admission for asthma,8H2P,8H2P.00,3082895019,NA,40
+41553006#,Detergent asthma,69311016#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Detergent asthma,69311016#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Detergent asthma,69311016#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Detergent asthma,69311016#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Detergent asthma,69311016#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Detergent asthma,69311016#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Detergent workers' lung,69312011#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Enzyme detergent lung,69313018#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Enzyme detergent respiratory disease,69314012#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Enzyme lung,69315013#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Enzyme lung disease,69316014#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,3169561000006112#,Detergent workers' lung,^ESCTDE316956,NA,69312011,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,3169591000006116#,Enzyme lung,^ESCTEN316959,NA,69315013,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,3169571000006117#,Enzyme detergent lung,^ESCTEN316957,NA,69313018,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,3169601000006112#,Enzyme lung disease,^ESCTEN316960,NA,69316014,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,3169581000006119#,Enzyme detergent respiratory disease,^ESCTEN316958,NA,69314012,NA,32
+41553006#,Detergent asthma (disorder),778354012#,1,1,2,69311016#,Detergent asthma,H47y0,H47y000,69311016,NA,32
+423889005#,Non-IgE mediated allergic asthma (disorder),2640332012#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Non-IgE mediated allergic asthma (disorder),2640332012#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Non-IgE mediated allergic asthma (disorder),2640332012#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+423889005#,Non-IgE mediated allergic asthma,2644387016#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Non-IgE mediated allergic asthma,2644387016#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Non-IgE mediated allergic asthma,2644387016#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+423889005#,Non IgE mediated allergic asthma,2648329013#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Non IgE mediated allergic asthma,2648329013#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Non IgE mediated allergic asthma,2648329013#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+423889005#,Intrinsic asthma,2648330015#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Intrinsic asthma,2648330015#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Intrinsic asthma,2648330015#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma (disorder),2969289012#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma (disorder),2969289012#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma (disorder),2969289012#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma,2969524018#,1,1,2,7016001000006111#,Non IgE mediated allergic asthma,^ESCTNO701600,NA,2648329013,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma,2969524018#,1,1,2,7016011000006114#,Non-immunoglobulin E mediated allergic asthma,^ESCTNO701601,NA,2969524018,NA,31
+423889005#,Non-immunoglobulin E mediated allergic asthma,2969524018#,1,1,2,7015991000006110#,Non-IgE mediated allergic asthma,^ESCTNO701599,NA,2644387016,NA,31
+93432008#,Drug-induced asthma,154654016#,1,1,2,4020511000006119#,Drug-induced asthma,^ESCTDR402051,NA,154654016,NA,31
+93432008#,"Drug-induced asthma, NOS",154655015#,1,1,2,4020511000006119#,Drug-induced asthma,^ESCTDR402051,NA,154654016,NA,31
+93432008#,Drug-induced asthma (disorder),837165016#,1,1,2,4020511000006119#,Drug-induced asthma,^ESCTDR402051,NA,154654016,NA,31
+34015007#,Bakers' asthma,56808014#,1,1,2,3047731000006119#,Bakers' asthma,^ESCTBA304773,NA,56808014,NA,31
+34015007#,Bakers' asthma,56808014#,1,1,2,3047751000006114#,Baker's asthma,^ESCTBA304775,NA,485718011,NA,31
+34015007#,Bakers' asthma,56808014#,1,1,2,3047741000006112#,Flour asthma,^ESCTFL304774,NA,56809018,NA,31
+34015007#,Flour asthma,56809018#,1,1,2,3047731000006119#,Bakers' asthma,^ESCTBA304773,NA,56808014,NA,31
+34015007#,Flour asthma,56809018#,1,1,2,3047751000006114#,Baker's asthma,^ESCTBA304775,NA,485718011,NA,31
+34015007#,Flour asthma,56809018#,1,1,2,3047741000006112#,Flour asthma,^ESCTFL304774,NA,56809018,NA,31
+34015007#,Baker's asthma,485718011#,1,1,2,3047731000006119#,Bakers' asthma,^ESCTBA304773,NA,56808014,NA,31
+34015007#,Baker's asthma,485718011#,1,1,2,3047751000006114#,Baker's asthma,^ESCTBA304775,NA,485718011,NA,31
+34015007#,Baker's asthma,485718011#,1,1,2,3047741000006112#,Flour asthma,^ESCTFL304774,NA,56809018,NA,31
+34015007#,Bakers' asthma (disorder),765489010#,1,1,2,3047731000006119#,Bakers' asthma,^ESCTBA304773,NA,56808014,NA,31
+34015007#,Bakers' asthma (disorder),765489010#,1,1,2,3047751000006114#,Baker's asthma,^ESCTBA304775,NA,485718011,NA,31
+34015007#,Bakers' asthma (disorder),765489010#,1,1,2,3047741000006112#,Flour asthma,^ESCTFL304774,NA,56809018,NA,31
+233687002#,Colophony asthma,350159017#,1,1,2,5054371000006119#,Colophony asthma,^ESCTCO505437,NA,350159017,NA,31
+233687002#,Colophony asthma (disorder),621905015#,1,1,2,5054371000006119#,Colophony asthma,^ESCTCO505437,NA,350159017,NA,31
+233688007#,Sulfite-induced asthma,350160010#,1,1,2,5054391000006118#,Sulfite-induced asthma,^ESCTSU505439,NA,350160010,NA,31
+233688007#,Sulfite-induced asthma,350160010#,1,1,2,5054381000006116#,Sulphite-induced asthma,^ESCTSU505438,NA,350161014,NA,31
+233688007#,Sulphite-induced asthma,350161014#,1,1,2,5054391000006118#,Sulfite-induced asthma,^ESCTSU505439,NA,350160010,NA,31
+233688007#,Sulphite-induced asthma,350161014#,1,1,2,5054381000006116#,Sulphite-induced asthma,^ESCTSU505438,NA,350161014,NA,31
+233688007#,Sulfite-induced asthma (disorder),621906019#,1,1,2,5054391000006118#,Sulfite-induced asthma,^ESCTSU505439,NA,350160010,NA,31
+233688007#,Sulfite-induced asthma (disorder),621906019#,1,1,2,5054381000006116#,Sulphite-induced asthma,^ESCTSU505438,NA,350161014,NA,31
+266396008#,Atopic asthma,396240010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266396008#,Extrinsic asthma - atopy,396241014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266396008#,Pollen asthma,396242019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266396008#,Extrinsic asthma - atopy (& pollen),396243012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266396008#,Extrinsic asthma - atopy (& pollen),658886013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266396008#,Extrinsic asthma - atopy (& pollen) (disorder),2747709011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Asthma: [intrinsic] or [late onset],396244018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Intrinsic asthma,396245017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Late-onset asthma,396246016#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Late-onset asthma (LOA),396247013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Late onset asthma,396248015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,LOA - late onset asthma,396249011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Asthma: [intrinsic] or [late onset],658888014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266397004#,Asthma: [intrinsic] or [late onset] (disorder),2712743015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266398009#,Asthma attack,396250011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266398009#,Asthma NOS,396251010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266398009#,Asthma: [NOS] or [attack],396252015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266398009#,Asthma: [NOS] or [attack],658889018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+266398009#,Asthma: [NOS] or [attack] (disorder),2749929011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+270442000#,Asthma monitored,405054019#,1,1,2,405054019#,Asthma monitored,9OJA-1,9OJA.11,405054019,NA,37
+270442000#,Asthma monitored,405054019#,1,1,2,405055018#,Asthma monitoring check done,9OJA,9OJA.00,405055018,NA,37
+270442000#,Asthma monitoring check done,405055018#,1,1,2,405054019#,Asthma monitored,9OJA-1,9OJA.11,405054019,NA,37
+270442000#,Asthma monitoring check done,405055018#,1,1,2,405055018#,Asthma monitoring check done,9OJA,9OJA.00,405055018,NA,37
+270442000#,Asthma monitoring check done (finding),663078011#,1,1,2,405054019#,Asthma monitored,9OJA-1,9OJA.11,405054019,NA,37
+270442000#,Asthma monitoring check done (finding),663078011#,1,1,2,405055018#,Asthma monitoring check done,9OJA,9OJA.00,405055018,NA,37
+405944004#,Asthmatic bronchitis (disorder),2149774018#,1,1,2,2163183015#,Wheezy bronchitis,H302,H302.00,2163183015,NA,32
+405944004#,Asthmatic bronchitis (disorder),2149774018#,1,1,2,6720721000006111#,Asthmatic bronchitis,^ESCTAS672072,NA,2157699014,NA,32
+405944004#,Asthmatic bronchitis,2157699014#,1,1,2,2163183015#,Wheezy bronchitis,H302,H302.00,2163183015,NA,32
+405944004#,Asthmatic bronchitis,2157699014#,1,1,2,6720721000006111#,Asthmatic bronchitis,^ESCTAS672072,NA,2157699014,NA,32
+405944004#,Wheezy bronchitis,2163183015#,1,1,2,2163183015#,Wheezy bronchitis,H302,H302.00,2163183015,NA,32
+405944004#,Wheezy bronchitis,2163183015#,1,1,2,6720721000006111#,Asthmatic bronchitis,^ESCTAS672072,NA,2157699014,NA,32
+281239006#,Exacerbation of asthma,419210017#,1,1,2,5649191000006110#,Exacerbation of asthma,^ESCTEX564919,NA,419210017,NA,32
+281239006#,Acute exacerbation of asthma,419211018#,1,1,2,5649191000006110#,Exacerbation of asthma,^ESCTEX564919,NA,419210017,NA,32
+281239006#,Exacerbation of asthma (disorder),674752017#,1,1,2,5649191000006110#,Exacerbation of asthma,^ESCTEX564919,NA,419210017,NA,32
+302220000#,Asthma control steps,443801018#,1,1,2,5904331000006116#,Asthma control steps,^ESCTAS590433,NA,443801018,NA,31
+302220000#,Asthma control steps (procedure),698110019#,1,1,2,5904331000006116#,Asthma control steps,^ESCTAS590433,NA,443801018,NA,31
+304527002#,Acute asthma,446841017#,1,1,2,11922851000006115#,Acute asthma,^ESCT1192285,NA,446841017,NA,32
+304527002#,Acute asthma (disorder),700846014#,1,1,2,11922851000006115#,Acute asthma,^ESCT1192285,NA,446841017,NA,32
+373899003#,Asthma daytime symptoms (finding),1199199013#,1,1,2,1212342016#,Asthma daytime symptoms,663q,663q.00,1212342016,NA,1
+373899003#,Asthma daytime symptoms,1212342016#,1,1,2,1212342016#,Asthma daytime symptoms,663q,663q.00,1212342016,NA,1
+370205009#,Asthma causes night symptoms 1 to 2 times per month (finding),1195497013#,1,1,2,1208957016#,Asthma causes night symptoms 1 to 2 times per month,663r,663r.00,1208957016,NA,1
+370205009#,Asthma causes night symptoms 1 to 2 times per month,1208957016#,1,1,2,1208957016#,Asthma causes night symptoms 1 to 2 times per month,663r,663r.00,1208957016,NA,1
+370208006#,Asthma never causes daytime symptoms (finding),1195500019#,1,1,2,1208960011#,Asthma never causes daytime symptoms,663s,663s.00,1208960011,NA,1
+370208006#,Asthma never causes daytime symptoms,1208960011#,1,1,2,1208960011#,Asthma never causes daytime symptoms,663s,663s.00,1208960011,NA,1
+370202007#,Asthma causes daytime symptoms 1 to 2 times per month (finding),1195494018#,1,1,2,1208954011#,Asthma causes daytime symptoms 1 to 2 times per month,663t,663t.00,1208954011,NA,1
+370202007#,Asthma causes daytime symptoms 1 to 2 times per month,1208954011#,1,1,2,1208954011#,Asthma causes daytime symptoms 1 to 2 times per month,663t,663t.00,1208954011,NA,1
+370203002#,Asthma causes daytime symptoms 1 to 2 times per week (finding),1195495017#,1,1,2,1208955012#,Asthma causes daytime symptoms 1 to 2 times per week,663u,663u.00,1208955012,NA,1
+370203002#,Asthma causes daytime symptoms 1 to 2 times per week,1208955012#,1,1,2,1208955012#,Asthma causes daytime symptoms 1 to 2 times per week,663u,663u.00,1208955012,NA,1
+370204008#,Asthma causes daytime symptoms most days (finding),1195496016#,1,1,2,1208956013#,Asthma causes daytime symptoms most days,663v,663v.00,1208956013,NA,1
+370204008#,Asthma causes daytime symptoms most days,1208956013#,1,1,2,1208956013#,Asthma causes daytime symptoms most days,663v,663v.00,1208956013,NA,1
+370207001#,Asthma limits walking up hills or stairs (finding),1195499011#,1,1,2,1208959018#,Asthma limits walking up hills or stairs,663w,663w.00,1208959018,NA,1
+370207001#,Asthma limits walking up hills or stairs,1208959018#,1,1,2,1208959018#,Asthma limits walking up hills or stairs,663w,663w.00,1208959018,NA,1
+370206005#,Asthma limits walking on the flat (finding),1195498015#,1,1,2,1208958014#,Asthma limits walking on the flat,663x,663x.00,1208958014,NA,1
+370206005#,Asthma limits walking on the flat,1208958014#,1,1,2,1208958014#,Asthma limits walking on the flat,663x,663x.00,1208958014,NA,1
+366874008#,Number of asthma exacerbations in past year,490425015#,1,1,2,1208962015#,Number of asthma exacerbations in past year,663y,663y.00,490425015,NA,1
+366874008#,Number of asthma exacerbations in past year,773453016#,1,1,2,1208962015#,Number of asthma exacerbations in past year,663y,663y.00,490425015,NA,1
+366874008#,Number of asthma exacerbations in past year (observable entity),2735500010#,1,1,2,1208962015#,Number of asthma exacerbations in past year,663y,663y.00,490425015,NA,1
+390798007#,Asthma finding (finding),1464976019#,1,1,2,6514741000006118#,Asthma finding,^ESCTAS651474,NA,1484832016,NA,31
+390798007#,Asthma finding,1484832016#,1,1,2,6514741000006118#,Asthma finding,^ESCTAS651474,NA,1484832016,NA,31
+390921001#,Absent from work or school due to asthma (finding),1465099014#,1,1,2,1484953014#,Absent from work or school due to asthma,66YC,66YC.00,1484953014,NA,1
+390921001#,Absent from work or school due to asthma,1484953014#,1,1,2,1484953014#,Absent from work or school due to asthma,66YC,66YC.00,1484953014,NA,1
+395022009#,Asthma night-time symptoms (finding),1468962012#,1,1,2,6550131000006111#,Nocturnal asthma,^ESCTNO655013,NA,2956617010,NA,1
+395022009#,Asthma night-time symptoms (finding),1468962012#,1,1,2,1488722011#,Asthma night-time symptoms,66YP,66YP.00,1488722011,NA,1
+395022009#,Asthma night-time symptoms,1488722011#,1,1,2,6550131000006111#,Nocturnal asthma,^ESCTNO655013,NA,2956617010,NA,1
+395022009#,Asthma night-time symptoms,1488722011#,1,1,2,1488722011#,Asthma night-time symptoms,66YP,66YP.00,1488722011,NA,1
+395022009#,Nocturnal asthma,2956617010#,1,1,2,6550131000006111#,Nocturnal asthma,^ESCTNO655013,NA,2956617010,NA,1
+395022009#,Nocturnal asthma,2956617010#,1,1,2,1488722011#,Asthma night-time symptoms,66YP,66YP.00,1488722011,NA,1
+400987003#,Asthma trigger (observable entity),1768908019#,1,1,2,1780194017#,Asthma trigger,178,178..00,1780194017,NA,27
+400987003#,Asthma trigger,1780194017#,1,1,2,1780194017#,Asthma trigger,178,178..00,1780194017,NA,27
+473391009#,Asthma never causes night symptoms (situation),2956536010#,1,1,2,1768981000000110#,Asthma never causes night symptoms,66Ys,66Ys.00,2956621015,NA,1
+473391009#,Asthma never causes night symptoms,2956621015#,1,1,2,1768981000000110#,Asthma never causes night symptoms,66Ys,66Ys.00,2956621015,NA,1
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+734905008#,Moderate acute exacerbation of asthma (disorder),3511373014#,1,1,2,3511374015#,Moderate acute exacerbation of asthma,^ESCT1164869,NA,3511374015,NA,31
+734905008#,Moderate acute exacerbation of asthma,3511374015#,1,1,2,3511374015#,Moderate acute exacerbation of asthma,^ESCT1164869,NA,3511374015,NA,31
+1086701000000102#,NA,NA#,0,1,1,8465381000006111#,Life threatening acute exacerbation of extrinsic asthma,^ESCTLI846538,NA,272e13,NA,32
+1086701000000102#,NA,NA#,0,1,1,151338014#,Life threatening acute exacerbation of allergic asthma,H3301,H330100,272e13,NA,32
+1086701000000102#,NA,NA#,0,1,1,8465371000006113#,Life threatening acute exacerbation of allergic asthma,^ESCTLI846537,NA,847e13,NA,32
+1086711000000100#,NA,NA#,0,1,1,8465401000006111#,Life threatening acute exacerbation of non-allergic asthma,^ESCTLI846540,NA,272e13,NA,32
+1086711000000100#,NA,NA#,0,1,1,8465391000006114#,Life threatening acute exacerbation of intrinsic asthma,^ESCTLI846539,NA,847e13,NA,32
+1086711000000100#,NA,NA#,0,1,1,98546013#,Life threatening acute exacerbation of intrinsic asthma,H3311,H331100,272e13,NA,32
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin (disorder),3038354017#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin (disorder),3038354017#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin (disorder),3038354017#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin (disorder),3038354017#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin,3038361018#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin,3038361018#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin,3038361018#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Disorder of respiratory system exacerbated by aspirin,3038361018#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease,3038385014#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease,3038385014#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease,3038385014#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease,3038385014#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease (disorder),3464315019#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease (disorder),3464315019#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease (disorder),3464315019#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Aspirin exacerbated respiratory disease (disorder),3464315019#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,AERD - aspirin exacerbated respiratory disease,3464316018#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,AERD - aspirin exacerbated respiratory disease,3464316018#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,AERD - aspirin exacerbated respiratory disease,3464316018#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,AERD - aspirin exacerbated respiratory disease,3464316018#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,Samter syndrome,3464317010#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Samter syndrome,3464317010#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Samter syndrome,3464317010#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Samter syndrome,3464317010#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+10692681000119108#,Samter triad,3464318017#,0,1,1,9317261000006114#,Aspirin exacerbated respiratory disease,^ESCTAS931726,NA,3038385014,NA,31
+10692681000119108#,Samter triad,3464318017#,0,1,1,9317291000006118#,Samter triad,^ESCTSA931729,NA,3464318017,NA,31
+10692681000119108#,Samter triad,3464318017#,0,1,1,9317281000006116#,Samter syndrome,^ESCTSA931728,NA,3464317010,NA,31
+10692681000119108#,Samter triad,3464318017#,0,1,1,9317271000006119#,AERD - aspirin exacerbated respiratory disease,^ESCTAE931727,NA,3464316018,NA,31
+201031000000108#,NA,NA#,0,1,1,636291000000118#,Asthma trigger - respiratory infection,1789,1789,306000000000000,NA,27
+201031000000108#,NA,NA#,0,1,1,8060791000006112#,Asthma trigger - respiratory infection,^ESCTAS806079,NA,636000000000000,NA,27
+201041000000104#,NA,NA#,0,1,1,8060811000006111#,Asthma trigger - seasonal,^ESCTAS806081,NA,636000000000000,NA,27
+201041000000104#,NA,NA#,0,1,1,636311000000117#,Asthma trigger - seasonal,1787,1787,306000000000000,NA,27
+201051000000101#,NA,NA#,0,1,1,305611000000115#,Asthma trigger: animals,1786,1786,636000000000000,NA,27
+201051000000101#,NA,NA#,0,1,1,8060841000006110#,Asthma trigger - animal,^ESCTAS806084,NA,171e13,NA,27
+201191000000108#,NA,NA#,0,1,1,636231000000119#,Asthma trigger - cold air,1788,1788,306000000000000,NA,27
+201191000000108#,NA,NA#,0,1,1,8061011000006113#,Asthma trigger - cold air,^ESCTAS806101,NA,636000000000000,NA,27
+201201000000105#,NA,NA#,0,1,1,636251000000114#,Asthma trigger - damp,1785,1785,306000000000000,NA,27
+201201000000105#,NA,NA#,0,1,1,8061031000006119#,Asthma trigger - damp,^ESCTAS806103,NA,636000000000000,NA,27
+201211000000107#,NA,NA#,0,1,1,636271000000117#,Asthma trigger - emotion,1784,1784,306000000000000,NA,27
+201211000000107#,NA,NA#,0,1,1,8061051000006114#,Asthma trigger - emotion,^ESCTAS806105,NA,636000000000000,NA,27
+340891000000106#,NA,NA#,0,1,1,1739131000000111#,Asthma trigger - airborne dust,178A,178A.00,174e13,NA,27
+340891000000106#,NA,NA#,0,1,1,8109001000006118#,Asthma trigger - airborne dust,^ESCTAS810900,NA,635000000000000,NA,27
+340901000000107#,NA,NA#,0,1,1,8109021000006111#,Asthma trigger - exercise,^ESCTAS810902,NA,635000000000000,NA,27
+340901000000107#,NA,NA#,0,1,1,1739141000000119#,Asthma trigger - exercise,178B,178B.00,174e13,NA,27
+340911000000109#,NA,NA#,0,1,1,1739151000000116#,Asthma trigger - pollen,1781,1781,174e13,NA,27
+340911000000109#,NA,NA#,0,1,1,8109041000006116#,Asthma trigger - pollen,^ESCTAS810904,NA,635000000000000,NA,27
+340921000000103#,NA,NA#,0,1,1,1739161000000118#,Asthma trigger - tobacco smoke,1782,1782,174e13,NA,27
+340921000000103#,NA,NA#,0,1,1,8109071000006112#,Asthma trigger - tobacco smoke,^ESCTAS810907,NA,635000000000000,NA,27
+340931000000101#,NA,NA#,0,1,1,1739171000000113#,Asthma trigger - warm air,1783,1783,174e13,NA,27
+340931000000101#,NA,NA#,0,1,1,8109091000006113#,Asthma trigger - warm air,^ESCTAS810909,NA,635000000000000,NA,27
+771901000000100#,NA,NA#,0,1,1,1722421000000110#,Asthma causes night time symptoms 1 to 2 times per week,66Yq,66Yq.00,172e13,NA,1
+771941000000102#,NA,NA#,0,1,1,1722501000000119#,Asthma causes symptoms most nights,66Yr,66Yr.00,172e13,NA,1
+771981000000105#,NA,NA#,0,1,1,1722581000000112#,Asthma limits activities 1 to 2 times per month,663P0,663P000,172e13,NA,1
+772011000000107#,NA,NA#,0,1,1,1722651000000119#,Asthma limits activities 1 to 2 times per week,663P1,663P100,172e13,NA,1
+772051000000106#,NA,NA#,0,1,1,1722731000000116#,Asthma limits activities most days,663P2,663P200,172e13,NA,1
+811151000000105#,NA,NA#,0,1,1,1811901000006116#,Number of days absent from school due to asthma in past 6 months,66Yu,66Yu.00,212e13,NA,1
+815631000000106#,NA,NA#,0,1,1,8263631000006115#,Asthma trigger - wind,^ESCTAS826363,NA,213e13,NA,31
+818161000000104#,NA,NA#,0,1,1,2131281000000114#,Asthma trigger - perfume,ESCTAS6,NA,213e13,NA,27
+966011000000109#,NA,NA#,0,1,1,2460311000000112#,At risk of severe asthma exacerbation,14Ok0,14Ok000,246e13,NA,32
+1945002#,Allergic asthma with stated cause,4361014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+8312004#,Intrinsic asthma,14704018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+8312004#,Late-onset asthma,14705017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+8312004#,Asthma due to internal immunological process,14706016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+11944003#,Feather asthma,20594016#,1,0,1,2690151000006115#,Feather-pickers' disease,^ESCTFE269015,NA,20593010,NA,31
+11944003#,Feather asthma,20594016#,1,0,1,2690161000006118#,Feather asthma,^ESCTFE269016,NA,20594016,NA,31
+16862005#,Extrinsic asthma,28547013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16862005#,Atopic asthma,28548015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16862005#,Childhood asthma,28549011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16862005#,Allergic asthma,28550011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+18041002#,Printers' asthma,30476019#,1,0,1,2786201000006115#,Printers' asthma,^ESCTPR278620,NA,30476019,NA,31
+19849005#,Meat-wrappers' asthma,33418013#,1,0,1,2815001000006115#,Meat-wrappers' asthma,^ESCTME281500,NA,33418013,NA,31
+21341004#,Asthma,35840014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,"Asthma, NOS",35841013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,"Bronchial asthma, NOS",35842018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,"Asthmatic bronchitis, NOS",35844017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,Bronchial asthma,35845016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,Asthmatic bronchitis,35847012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+30352005#,Allergic-infective asthma,50801012#,1,0,1,2988741000006118#,Allergic-infective asthma,^ESCTAL298874,NA,50801012,NA,31
+36979006#,Status asthmaticus,61685011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+41997000#,Asthmatic pulmonary alveolitis,70099019#,1,0,1,3176931000006111#,Asthmatic pulmonary alveolitis,^ESCTAS317693,NA,70099019,NA,31
+55570000#,Asthma without status asthmaticus,92367019#,1,0,1,3402341000006114#,Asthma without status asthmaticus,^ESCTAS340234,NA,92367019,NA,31
+56507008#,Tea-makers' asthma,93970017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+56968009#,Wood asthma,94731013#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Wood asthma,94731013#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Wood-workers' asthma,94732018#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Wood dust asthma,94734017#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Saw dust asthma,94735016#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+57546000#,Asthma with status asthmaticus,95697011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+59327009#,Intrinsic asthma with status asthmaticus,98546013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+61233003#,Silo-workers' asthma,101751011#,1,0,1,3494911000006116#,Silo-workers' asthma,^ESCTSI349491,NA,101751011,NA,32
+61233003#,Silo-workers' asthma,101751011#,1,0,1,3494901000006119#,Silo-fillers' lung,^ESCTSI349490,NA,101750012,NA,32
+61233003#,Silo-workers' asthma,101751011#,1,0,1,101749012#,Silo-fillers' disease,H46z0,H46z000,101749012,NA,32
+67415000#,Hay asthma,112042019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+67415000#,Hay fever with asthma,112043012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+71435009#,Chronic asthmatic bronchitis,118670010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+73849000#,Cheese-makers' asthma,122634015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+80374003#,Platinum asthma,133366016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85761009#,Cotton-dust asthma,142164018#,1,0,1,142162019#,Byssinosis,H440,H440.00,142162019,NA,32
+85761009#,Cotton-dust asthma,142164018#,1,0,1,3894091000006115#,Cotton-dust asthma,^ESCTCO389409,NA,142164018,NA,32
+85761009#,Cotton-dust asthma,142164018#,1,0,1,3894081000006118#,Cotton workers' lung disease,^ESCTCO389408,NA,142163012,NA,32
+85761009#,Cotton-dust asthma,142164018#,1,0,1,3894101000006114#,Mill fever,^ESCTMI389410,NA,2672171016,NA,32
+87641005#,Feline asthma,145319015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+91053000#,Eosinophilic asthma,150883012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+91340006#,Extrinsic asthma with status asthmaticus,151338014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+92807009#,Chemical-induced asthma,153428013#,1,0,1,4009591000006110#,Chemical-induced asthma,^ESCTCH400959,NA,153428013,NA,31
+92807009#,"Chemical-induced asthma, NOS",153429017#,1,0,1,4009591000006110#,Chemical-induced asthma,^ESCTCH400959,NA,153428013,NA,31
+36979006#,Status asthmaticus -RETIRED-,197243018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+57546000#,Status asthmaticus,198754012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134380003#,Asthma accident and emergency attendance since last visit,216186011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134381004#,Asthma treatment compliance satisfactory,216187019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134383001#,Asthma treatment compliance unsatisfactory,216189016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134384007#,Asthma daytime symptoms,216190013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135854001#,Asthma causes night symptoms 1 to 2 times per month,216619014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135855000#,Asthma never causes daytime symptoms,216620015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135857008#,Asthma causes daytime symptoms 1 to 2 times per month,216622011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135858003#,Asthma causes daytime symptoms 1 to 2 times per week,216623018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135859006#,Asthma causes daytime symptoms most days,216624012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135861002#,Asthma limits walking up hills or stairs,216626014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135862009#,Asthma limits walking on the flat,216627017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135863004#,Number of asthma exacerbations in past year,216628010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138796005#,H/O: asthma,220195011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139202009#,Exercise-induced asthma,220756016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147853009#,Respiratory disease monitoring (& [asthma] or [chronic]),231593013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147853009#,Asthma monitoring,231594019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147877003#,Asthma disturbing sleep,231626017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147878008#,Asthma not disturbing sleep,231627014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147879000#,Asthma limiting activities,231628016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147880002#,Asthma not limiting activities,231629012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147883000#,Asthma management plan given,231632010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147884006#,Asthma severity,231633017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147885007#,Asthma prophylactic medication used,231634011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147892002#,Emergency asthma admission since last appointment,231643019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147893007#,Asthma restricts exercise,231644013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147894001#,Asthma never restricts exercise,231645014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147896004#,Asthma - currently dormant,231647018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147897008#,Asthma - currently active,231648011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150988003#,Further asthma - drug prevention,235544011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150990002#,Asthma control step 0,235546013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150991003#,Asthma control step 1,235547016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150992005#,Asthma control step 2,235548014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150993000#,Asthma control step 3,235549018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150994006#,Asthma control step 4,235550018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150995007#,Asthma control step 5,235551019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151715009#,"Emergency admission, asthma",236427018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153445004#,Seen in asthma clinic,238531019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153906000#,Asthma administration: [monitoring] or [clinic],239064016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153906000#,Asthma monitoring admin.,239065015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153906000#,Asthma clinic administration,239066019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153907009#,Attends asthma monitoring,239067011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153908004#,Refuses asthma monitoring,239068018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153909007#,Asthma monitor offer default,239069014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153910002#,Asthma monitoring call first letter,239070010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153911003#,Asthma monitoring call second letter,239071014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153912005#,Asthma monitoring call third letter,239072019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153913000#,Asthma monitoring call verbal invite,239073012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153914006#,Asthma monitoring call telephone invite,239074018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153915007#,Asthma monitoring deleted,239075017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153916008#,Asthma monitored (& check done),239076016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153917004#,Asthma monitoring admin.NOS,239077013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155574008#,Asthma,242335016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Extrinsic asthma - atopy (& pollen),242336015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Pollen asthma,242337012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Atopic asthma,242338019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Extrinsic asthma - atopy,242339010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,LOA - late onset asthma,242340012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Late-onset asthma,242341011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Late-onset asthma (LOA),242342016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Intrinsic asthma,242343014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Late onset asthma,242344015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Asthma: [intrinsic] or [late onset],242345019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155577001#,Status asthmaticus,242346018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155578006#,Asthma attack (& NOS),242347010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155578006#,Asthma attack NOS,242348017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155578006#,Asthma attack,242349013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155579003#,Asthma attack,242350013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155579003#,Asthma NOS,242351012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155579003#,Asthma: [NOS] or [attack],242352017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170607007#,Respiratory disease monitoring (& [asthma] or [chronic]),264506018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170607007#,Asthma monitoring,264507010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170641004#,Asthma management plan given,264550017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170643001#,Occasional asthma,264552013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170644007#,Mild asthma,264553015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170645008#,Moderate asthma,264554014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170646009#,Severe asthma,264555010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170654006#,Emergency asthma admission since last appointment,264565016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170664002#,Asthma - currently dormant,264575018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170665001#,Asthma - currently active,264576017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182724005#,Further asthma - drug prevention,282486014#,1,0,1,797211000006117#,Further asthma - drug prevention,8791,8791,282486014,NA,32
+182726007#,Asthma control step 0,282488010#,1,0,1,282488010#,Asthma control step 0,8793,8793,282488010,NA,32
+182727003#,Asthma control step 1,282489019#,1,0,1,282489019#,Asthma control step 1,8794,8794,282489019,NA,32
+182728008#,Asthma control step 2,282490011#,1,0,1,282490011#,Asthma control step 2,8795,8795,282490011,NA,32
+182729000#,Asthma control step 3,282491010#,1,0,1,282491010#,Asthma control step 3,8796,8796,282491010,NA,32
+182730005#,Asthma control step 4,282492015#,1,0,1,282492015#,Asthma control step 4,8797,8797,282492015,NA,32
+182731009#,Asthma control step 5,282493013#,1,0,1,282493013#,Asthma control step 5,8798,8798,282493013,NA,32
+185242005#,Seen in asthma clinic,285239019#,1,0,1,285239019#,Seen in asthma clinic,9N1d,9N1d.00,285239019,NA,37
+185728001#,Attends asthma monitoring,285727014#,1,0,1,285727014#,Attends asthma monitoring,9OJ1,9OJ1.00,285727014,NA,37
+185729009#,Refuses asthma monitoring,285728016#,1,0,1,12452001000006112#,Refuses asthma monitoring,^ESCT1245200,NA,285728016,NA,31
+185730004#,Asthma monitor offer default,285729012#,1,0,1,285729012#,Asthma monitor offer default,9OJ3,9OJ3.00,285729012,NA,37
+185731000#,Asthma monitoring call first letter,285730019#,1,0,1,496311000006117#,Asthma monitoring call first letter,9OJ4,9OJ4.00,285730019,NA,37
+185732007#,Asthma monitoring call second letter,285731015#,1,0,1,496321000006113#,Asthma monitoring call second letter,9OJ5,9OJ5.00,285731015,NA,37
+185734008#,Asthma monitoring call third letter,285734011#,1,0,1,496331000006111#,Asthma monitoring call third letter,9OJ6,9OJ6.00,285734011,NA,37
+185735009#,Asthma monitoring call verbal invite,285735012#,1,0,1,496361000006119#,Asthma monitoring call verbal invite,9OJ7,9OJ7.00,285735012,NA,37
+185736005#,Asthma monitoring call telephone invite,285736013#,1,0,1,496351000006116#,Asthma monitoring call telephone invite,9OJ8,9OJ8.00,285736013,NA,37
+185737001#,Asthma monitoring deleted,285737016#,1,0,1,285737016#,Asthma monitoring deleted,9OJ9,9OJ9.00,285737016,NA,37
+185738006#,Asthma monitored (& check done),285738014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185738006#,Asthma monitored,285739018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185738006#,Asthma monitoring check done,285740016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187687003#,Asthma (disorder),288512012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195939005#,Asthmatic bronchitis,301440010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195970002#,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus),301493011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195970002#,Extrinsic asthma without status asthmaticus,301494017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195970002#,Hay fever with asthma,301495016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195971003#,Extrinsic asthma with asthma attack,301496015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195971003#,Extrinsic asthma with status asthmaticus,301497012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195971003#,Extrinsic asthma with: [asthma attack] or [status asthmaticus],301498019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195972005#,Extrinsic asthma NOS,301499010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195974006#,Intrinsic asthma without status asthmaticus,301504010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195975007#,Intrinsic asthma with: [asthma attack] or [status asthmaticus],301505011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195975007#,Intrinsic asthma with status asthmaticus,301506012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195975007#,Intrinsic asthma with asthma attack,301507015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195976008#,Intrinsic asthma NOS,301508013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195978009#,Exacerbation of asthma,301510010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195979001#,Asthma unspecified,301511014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195980003#,(Severe asthma attack) or (status asthmaticus NOS),301512019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195980003#,Status asthmaticus NOS,301513012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195980003#,Severe asthma attack,301514018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195981004#,Asthma attack NOS,301515017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195981004#,Asthma attack,301516016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195981004#,Asthma attack (& NOS),301517013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195982006#,Late onset asthma,301518015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233680000#,Allergic asthma,350150018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233681001#,Extrinsic asthma with asthma attack,350151019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233682008#,Allergic asthma NEC,350152014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233684009#,Allergic non-atopic asthma,350155011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233685005#,Intrinsic asthma with asthma attack,350156012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233686006#,Aspirin-sensitive asthma with nasal polyps,350157015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233686006#,ASA - Aspirin-sensitive asthma triad,350158013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266358007#,Allergic atopic asthma,396111017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266359004#,Extrinsic asthma without status asthmaticus,396112012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266360009#,Extrinsic asthma with status asthmaticus,396113019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266362001#,Intrinsic asthma with status asthmaticus,396117018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266363006#,Status asthmaticus NOS,396118011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266364000#,Asthma attack,396119015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266365004#,Asthma NOS,396120014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+274105009#,Asthma attack NOS,409865018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+275908000#,Asthma monitoring,411877015#,1,0,1,411877015#,Asthma monitoring,663-1,663..11,411877015,NA,1
+278517007#,Asthmatic bronchitis,415455017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+278517007#,Asthma,415456016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+307580006#,Recent asthma management,450878018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+308500005#,Asthma monitoring call,451860019#,1,0,1,5979441000006111#,Asthma monitoring call,^ESCTAS597944,NA,451860019,NA,37
+308501009#,Asthma monitoring status,451861015#,1,0,1,5979451000006113#,Asthma monitoring status,^ESCTAS597945,NA,451861015,NA,1
+312453004#,Asthma - currently active,456163018#,1,0,1,456163018#,Asthma - currently active,663j,663j.00,456163018,NA,1
+312454005#,Asthma - currently dormant,456164012#,1,0,1,456164012#,Asthma - currently dormant,663h,663h.00,456164012,NA,1
+353867005#,Corticosteroids used in the treatment of asthma,472691012#,1,0,1,6198311000006117#,Corticosteroids used in the treatment of asthma,^ESCTCO619831,NA,472691012,NA,31
+16862005#,Allergic atopic asthma,477967010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366786000#,Asthma accident and emergency attendance since last visit,490330015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366787009#,Asthma treatment compliance satisfactory,490331016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366788004#,Asthma treatment compliance unsatisfactory,490332011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366789007#,Asthma causes night symptoms 1 to 2 times per month,490333018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366790003#,Asthma never causes daytime symptoms,490334012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366791004#,Asthma causes daytime symptoms 1 to 2 times per month,490335013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366792006#,Asthma causes daytime symptoms 1 to 2 times per week,490336014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366793001#,Asthma causes daytime symptoms most days,490337017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366794007#,Asthma limits walking up hills or stairs,490338010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366795008#,Asthma limits walking on the flat,490339019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366796009#,Number of asthma exacerbations in past year,490342013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366864005#,Asthma accident and emergency attendance since last visit,490415013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366865006#,Asthma treatment compliance satisfactory,490416014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366866007#,Asthma treatment compliance unsatisfactory,490417017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366867003#,Asthma causes night symptoms 1 to 2 times per month,490418010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366868008#,Asthma never causes daytime symptoms,490419019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366869000#,Asthma causes daytime symptoms 1 to 2 times per month,490420013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366870004#,Asthma causes daytime symptoms 1 to 2 times per week,490421012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366871000#,Asthma causes daytime symptoms most days,490422017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366872007#,Asthma limits walking up hills or stairs,490423010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366873002#,Asthma limits walking on the flat,490424016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367039004#,Asthma daytime symptoms,490601019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367110001#,Exacerbation of asthma,490675012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367268006#,Asthma daytime symptoms,490848019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298441000006111#,PIE - Pulmonary infiltrates with eosinophilia,^ESCTPI629844,NA,1228706015,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298451000006113#,Pulmonary infiltrates with eosinophilia,^ESCTPU629845,NA,1228707012,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,301739012#,Pulmonary eosinophilia NOS,H583z,H583z00,492714018,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,2670764010#,Pulmonary eosinophilia,H583,H583.00,2670764010,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298421000006116#,Eosinophilic asthma,^ESCTEO629842,NA,492714018,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298471000006115#,Andrews syndrome,^ESCTAN629847,NA,1228709010,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298461000006110#,Eosinophilic pneumonia,^ESCTEO629846,NA,1228708019,NA,32
+367542003#,Eosinophilic asthma,492714018#,1,0,1,6298431000006118#,EP - Eosinophilic pneumonia,^ESCTEP629843,NA,1228705016,NA,32
+134380003#,Asthma accident and emergency attendance since last visit (procedure),513958018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134381004#,Asthma treatment compliance satisfactory (procedure),513959014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134383001#,Asthma treatment compliance unsatisfactory (procedure),513961017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+134384007#,Asthma daytime symptoms (procedure),513962012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135854001#,Asthma causes night symptoms 1 to 2 times per month (procedure),514363018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135855000#,Asthma never causes daytime symptoms (procedure),514364012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135857008#,Asthma causes daytime symptoms 1 to 2 times per month (procedure),514366014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135858003#,Asthma causes daytime symptoms 1 to 2 times per week (procedure),514367017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135859006#,Asthma causes daytime symptoms most days (procedure),514368010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135861002#,Asthma limits walking up hills or stairs (procedure),514370018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135862009#,Asthma limits walking on the flat (procedure),514371019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135863004#,Number of asthma exacerbations in past year (procedure),514372014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138796005#,H/O: asthma,517296013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139202009#,Exercise-induced asthma,517747019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147853009#,Respiratory disease monitoring (& [asthma] or [chronic]),527348014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147877003#,Asthma disturbing sleep,527376018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147878008#,Asthma not disturbing sleep,527377010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147879000#,Asthma limiting activities,527378017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147880002#,Asthma not limiting activities,527379013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147883000#,Asthma management plan given,527382015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147884006#,Asthma severity,527383013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147885007#,Asthma prophylactic medication used,527385018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147892002#,Emergency asthma admission since last appointment,527392011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147893007#,Asthma restricts exercise,527393018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147894001#,Asthma never restricts exercise,527394012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147896004#,Asthma - currently dormant,527397017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147897008#,Asthma - currently active,527398010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150988003#,Further asthma - drug prevention,530828019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150990002#,Asthma control step 0,530830017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150991003#,Asthma control step 1,530831018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150992005#,Asthma control step 2,530832013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150993000#,Asthma control step 3,530833015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150994006#,Asthma control step 4,530834014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150995007#,Asthma control step 5,530835010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151715009#,"Emergency admission, asthma",531636015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153445004#,Seen in asthma clinic,533556018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153906000#,Asthma administration: [monitoring] or [clinic],534067015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153907009#,Attends asthma monitoring,534068013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153908004#,Refuses asthma monitoring,534069017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153909007#,Asthma monitor offer default,534070016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153910002#,Asthma monitoring call first letter,534071017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153911003#,Asthma monitoring call second letter,534072012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153912005#,Asthma monitoring call third letter,534073019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153913000#,Asthma monitoring call verbal invite,534074013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153914006#,Asthma monitoring call telephone invite,534075014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153916008#,Asthma monitored (& check done),534078011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153917004#,Asthma monitoring admin.NOS,534079015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155574008#,Asthma,535919016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Extrinsic asthma - atopy (& pollen),535920010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Asthma: [intrinsic] or [late onset],535921014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155577001#,Status asthmaticus,535922019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155578006#,Asthma attack (& NOS),535923012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155579003#,Asthma: [NOS] or [attack],535924018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170607007#,Respiratory disease monitoring (& [asthma] or [chronic]),552578014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170641004#,Asthma management plan given (procedure),552615011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170643001#,Occasional asthma (procedure),552617015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170644007#,Mild asthma (procedure),552618013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170645008#,Moderate asthma (procedure),552620011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170646009#,Severe asthma (procedure),552621010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170654006#,Emergency asthma admission since last appointment (procedure),552629012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170664002#,Asthma - currently dormant,552640016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170665001#,Asthma - currently active,552642012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182724005#,Further asthma - drug prevention (procedure),566125019#,1,0,1,797211000006117#,Further asthma - drug prevention,8791,8791,282486014,NA,32
+182726007#,Asthma control step 0 (procedure),566127010#,1,0,1,282488010#,Asthma control step 0,8793,8793,282488010,NA,32
+182727003#,Asthma control step 1 (procedure),566128017#,1,0,1,282489019#,Asthma control step 1,8794,8794,282489019,NA,32
+182728008#,Asthma control step 2 (procedure),566129013#,1,0,1,282490011#,Asthma control step 2,8795,8795,282490011,NA,32
+182729000#,Asthma control step 3 (procedure),566130015#,1,0,1,282491010#,Asthma control step 3,8796,8796,282491010,NA,32
+182730005#,Asthma control step 4 (procedure),566131016#,1,0,1,282492015#,Asthma control step 4,8797,8797,282492015,NA,32
+182731009#,Asthma control step 5 (procedure),566132011#,1,0,1,282493013#,Asthma control step 5,8798,8798,282493013,NA,32
+185242005#,Seen in asthma clinic (finding),568298014#,1,0,1,285239019#,Seen in asthma clinic,9N1d,9N1d.00,285239019,NA,37
+185728001#,Attends asthma monitoring (finding),568762017#,1,0,1,285727014#,Attends asthma monitoring,9OJ1,9OJ1.00,285727014,NA,37
+185729009#,Refuses asthma monitoring (finding),568763010#,1,0,1,12452001000006112#,Refuses asthma monitoring,^ESCT1245200,NA,285728016,NA,31
+185730004#,Asthma monitor offer default (finding),568764016#,1,0,1,285729012#,Asthma monitor offer default,9OJ3,9OJ3.00,285729012,NA,37
+185731000#,Asthma monitoring call first letter (procedure),568765015#,1,0,1,496311000006117#,Asthma monitoring call first letter,9OJ4,9OJ4.00,285730019,NA,37
+185732007#,Asthma monitoring call second letter (procedure),568766019#,1,0,1,496321000006113#,Asthma monitoring call second letter,9OJ5,9OJ5.00,285731015,NA,37
+185734008#,Asthma monitoring call third letter (procedure),568770010#,1,0,1,496331000006111#,Asthma monitoring call third letter,9OJ6,9OJ6.00,285734011,NA,37
+185735009#,Asthma monitoring call verbal invite (procedure),568771014#,1,0,1,496361000006119#,Asthma monitoring call verbal invite,9OJ7,9OJ7.00,285735012,NA,37
+185736005#,Asthma monitoring call telephone invite (procedure),568772019#,1,0,1,496351000006116#,Asthma monitoring call telephone invite,9OJ8,9OJ8.00,285736013,NA,37
+185737001#,Asthma monitoring deleted (finding),568773012#,1,0,1,285737016#,Asthma monitoring deleted,9OJ9,9OJ9.00,285737016,NA,37
+185738006#,Asthma monitored (& check done),568774018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187687003#,Asthma (disorder),570887017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195939005#,Asthmatic bronchitis,580104015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195970002#,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus),580139015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195971003#,Extrinsic asthma with: [asthma attack] or [status asthmaticus],580140018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195972005#,Extrinsic asthma NOS (disorder),580141019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195974006#,Intrinsic asthma without status asthmaticus,580143016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195975007#,Intrinsic asthma with: [asthma attack] or [status asthmaticus],580144010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195976008#,Intrinsic asthma NOS (disorder),580145011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195978009#,Exacerbation of asthma,580147015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195979001#,Asthma unspecified (disorder),580149017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195980003#,(Severe asthma attack) or (status asthmaticus NOS),580150017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195981004#,Asthma attack (& NOS),580151018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195982006#,Late onset asthma,580152013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233680000#,Allergic asthma,621897018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233681001#,Extrinsic asthma with asthma attack (disorder),621898011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233682008#,Allergic asthma NEC (disorder),621899015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233684009#,Allergic non-atopic asthma (disorder),621901012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233685005#,Intrinsic asthma with asthma attack (disorder),621902017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233686006#,Aspirin-sensitive asthma with nasal polyps (disorder),621903010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266358007#,Allergic atopic asthma [Ambiguous],658844019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266359004#,Extrinsic asthma without status asthmaticus,658845018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266360009#,Extrinsic asthma with status asthmaticus,658846017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266362001#,Intrinsic asthma with status asthmaticus,658848016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266363006#,Status asthmaticus NOS (disorder),658849012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266364000#,Asthma attack (disorder),658850012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266365004#,Asthma NOS (disorder),658851011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+274105009#,Asthma attack NOS (disorder),666823012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+275908000#,Asthma monitoring (procedure),668748013#,1,0,1,411877015#,Asthma monitoring,663-1,663..11,411877015,NA,1
+278517007#,Asthmatic bronchitis (disorder),671684015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+307580006#,Recent asthma management (procedure),704120018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+308500005#,Asthma monitoring call (procedure),705044010#,1,0,1,5979441000006111#,Asthma monitoring call,^ESCTAS597944,NA,451860019,NA,37
+308501009#,Asthma monitoring status (finding),705045011#,1,0,1,5979451000006113#,Asthma monitoring status,^ESCTAS597945,NA,451861015,NA,1
+312453004#,Asthma - currently active (finding),709129019#,1,0,1,456163018#,Asthma - currently active,663j,663j.00,456163018,NA,1
+312454005#,Asthma - currently dormant (finding),709130012#,1,0,1,456164012#,Asthma - currently dormant,663h,663h.00,456164012,NA,1
+353867005#,Corticosteroids used in the treatment of asthma (substance),727032018#,1,0,1,6198311000006117#,Corticosteroids used in the treatment of asthma,^ESCTCO619831,NA,472691012,NA,31
+16862005#,Extrinsic asthma [Ambiguous] (disorder),743969013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+18041002#,Printers' asthma (disorder),745414017#,1,0,1,2786201000006115#,Printers' asthma,^ESCTPR278620,NA,30476019,NA,31
+1945002#,Allergic asthma with stated cause (disorder),747586011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+19849005#,Meat-wrappers' asthma (disorder),748415015#,1,0,1,2815001000006115#,Meat-wrappers' asthma,^ESCTME281500,NA,33418013,NA,31
+30352005#,Allergic-infective asthma (disorder),761347010#,1,0,1,2988741000006118#,Allergic-infective asthma,^ESCTAL298874,NA,50801012,NA,31
+36979006#,Status asthmaticus -RETIRED-,768792011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366786000#,Asthma accident and emergency attendance since last visit,773356011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366787009#,Asthma treatment compliance satisfactory,773357019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366788004#,Asthma treatment compliance unsatisfactory,773358012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366789007#,Asthma causes night symptoms 1 to 2 times per month,773359016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366790003#,Asthma never causes daytime symptoms,773360014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366791004#,Asthma causes daytime symptoms 1 to 2 times per month,773361013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366792006#,Asthma causes daytime symptoms 1 to 2 times per week,773362018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366793001#,Asthma causes daytime symptoms most days,773363011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366794007#,Asthma limits walking up hills or stairs,773364017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366795008#,Asthma limits walking on the flat,773365016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366796009#,Number of asthma exacerbations in past year,773367012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366864005#,Asthma accident and emergency attendance since last visit,773442010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366865006#,Asthma treatment compliance satisfactory,773443017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366866007#,Asthma treatment compliance unsatisfactory,773444011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366867003#,Asthma causes night symptoms 1 to 2 times per month,773446013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366868008#,Asthma never causes daytime symptoms,773447016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366869000#,Asthma causes daytime symptoms 1 to 2 times per month,773448014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366870004#,Asthma causes daytime symptoms 1 to 2 times per week,773449018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366871000#,Asthma causes daytime symptoms most days,773450018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366872007#,Asthma limits walking up hills or stairs,773451019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366873002#,Asthma limits walking on the flat,773452014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367039004#,Asthma daytime symptoms,773637013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367110001#,Exacerbation of asthma,773715010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367268006#,Asthma daytime symptoms,773891013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+41997000#,Asthmatic pulmonary alveolitis (disorder),778847011#,1,0,1,3176931000006111#,Asthmatic pulmonary alveolitis,^ESCTAS317693,NA,70099019,NA,31
+55570000#,Asthma without status asthmaticus (disorder),793953019#,1,0,1,3402341000006114#,Asthma without status asthmaticus,^ESCTAS340234,NA,92367019,NA,31
+56968009#,Wood asthma (disorder),795538016#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Wood asthma (disorder),795538016#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+57546000#,Asthma with status asthmaticus (disorder),796180018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+59327009#,Intrinsic asthma with status asthmaticus (disorder),798157019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+67415000#,Hay asthma (disorder),807137017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+8312004#,Intrinsic asthma (disorder) [Ambiguous],824688015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+91340006#,Extrinsic asthma with status asthmaticus (disorder),834634016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+92807009#,Chemical-induced asthma (disorder),836408019#,1,0,1,4009591000006110#,Chemical-induced asthma,^ESCTCH400959,NA,153428013,NA,31
+134384007#,Asthma daytime symptoms (finding),1186276015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+353867005#,Corticosteroids used in the treatment of asthma (product),1194779013#,1,0,1,6198311000006117#,Corticosteroids used in the treatment of asthma,^ESCTCO619831,NA,472691012,NA,31
+370210008#,Number of asthma exacerbations in past year (finding),1195502010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+370225008#,Asthma treatment compliance unsatisfactory (finding),1195516017#,1,0,1,1208976019#,Asthma treatment compliance unsatisfactory,663p,663p.00,1208976019,NA,1
+370226009#,Asthma treatment compliance satisfactory (finding),1195517014#,1,0,1,1208977011#,Asthma treatment compliance satisfactory,663n,663n.00,1208977011,NA,1
+370210008#,Number of asthma exacerbations in past year,1208962015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+370225008#,Asthma treatment compliance unsatisfactory,1208976019#,1,0,1,1208976019#,Asthma treatment compliance unsatisfactory,663p,663p.00,1208976019,NA,1
+370226009#,Asthma treatment compliance satisfactory,1208977011#,1,0,1,1208977011#,Asthma treatment compliance satisfactory,663n,663n.00,1208977011,NA,1
+57546000#,Acute severe asthma,1231735012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+307580006#,Recent asthma management (regime/therapy),1456465014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389146007#,Extrinsic asthma (disorder),1463325018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389853000#,Change in asthma management plan,1464032011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389857004#,Step up change in asthma management plan,1464036014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389858009#,Step down change in asthma management plan,1464037017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389860006#,Absent from work or school due to asthma,1464039019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389862003#,Asthma monitoring due,1464041018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390585000#,Change in asthma management plan,1464764012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390589006#,Step up change in asthma management plan,1464768010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390590002#,Step down change in asthma management plan,1464769019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390592005#,Absent from work or school due to asthma,1464771019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390594006#,Asthma monitoring due,1464773016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390872009#,Change in asthma management plan (regime/therapy),1465050010#,1,0,1,1484905010#,Change in asthma management plan,66Y5,66Y5.00,1484905010,NA,1
+390877003#,Step up change in asthma management plan (regime/therapy),1465055017#,1,0,1,1484910014#,Step up change in asthma management plan,66Y9,66Y9.00,1484910014,NA,1
+390878008#,Step down change in asthma management plan (regime/therapy),1465056016#,1,0,1,1484911013#,Step down change in asthma management plan,66YA,66YA.00,1484911013,NA,1
+390940007#,Asthma monitoring due (finding),1465118015#,1,0,1,1484970018#,Asthma monitoring due,66YE,66YE.00,1484970018,NA,1
+393030008#,Asthma annual review,1467208019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393031007#,Asthma follow-up,1467210017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393036002#,Asthma night-time symptoms,1467213015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393082005#,Asthma medication review,1467258014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393986005#,Asthma annual review,1468044018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393987001#,Asthma follow-up,1468045017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393992004#,Asthma night-time symptoms,1468048015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394033000#,Asthma medication review,1468088013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394700004#,Asthma annual review (regime/therapy),1468640014#,1,0,1,1488421017#,Asthma annual review,66YJ,66YJ.00,1488421017,NA,1
+394701000#,Asthma follow-up (regime/therapy),1468641013#,1,0,1,1488422012#,Asthma follow-up,66YK,66YK.00,1488422012,NA,1
+394720003#,Asthma medication review (procedure),1468660018#,1,0,1,1488436019#,Asthma medication review,8B3j,8B3j.00,1488436019,NA,32
+170641004#,Asthma management plan given (regime/therapy),1470378017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170654006#,Emergency asthma admission since last appointment (regime/therapy),1470386017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182724005#,Further asthma - drug prevention (regime/therapy),1470705017#,1,0,1,797211000006117#,Further asthma - drug prevention,8791,8791,282486014,NA,32
+275908000#,Asthma monitoring (regime/therapy),1472317012#,1,0,1,411877015#,Asthma monitoring,663-1,663..11,411877015,NA,1
+134380003#,Asthma accident and emergency attendance since last visit (regime/therapy),1475459016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389146007#,Extrinsic asthma,1483200018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389853000#,Change in asthma management plan,1483890019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389857004#,Step up change in asthma management plan,1483894011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389858009#,Step down change in asthma management plan,1483895012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389860006#,Absent from work or school due to asthma,1483897016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389862003#,Asthma monitoring due,1483899018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390585000#,Change in asthma management plan,1484621019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390589006#,Step up change in asthma management plan,1484625011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390590002#,Step down change in asthma management plan,1484626012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390592005#,Absent from work or school due to asthma,1484628013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390594006#,Asthma monitoring due,1484630010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390872009#,Change in asthma management plan,1484905010#,1,0,1,1484905010#,Change in asthma management plan,66Y5,66Y5.00,1484905010,NA,1
+390877003#,Step up change in asthma management plan,1484910014#,1,0,1,1484910014#,Step up change in asthma management plan,66Y9,66Y9.00,1484910014,NA,1
+390878008#,Step down change in asthma management plan,1484911013#,1,0,1,1484911013#,Step down change in asthma management plan,66YA,66YA.00,1484911013,NA,1
+390940007#,Asthma monitoring due,1484970018#,1,0,1,1484970018#,Asthma monitoring due,66YE,66YE.00,1484970018,NA,1
+393030008#,Asthma annual review,1487003014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393031007#,Asthma follow-up,1487004015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393036002#,Asthma night-time symptoms,1487007010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393082005#,Asthma medication review,1487052013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393986005#,Asthma annual review,1487837017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393987001#,Asthma follow-up,1487838010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393992004#,Asthma night-time symptoms,1487841018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394033000#,Asthma medication review,1487881013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394700004#,Asthma annual review,1488421017#,1,0,1,1488421017#,Asthma annual review,66YJ,66YJ.00,1488421017,NA,1
+394701000#,Asthma follow-up,1488422012#,1,0,1,1488422012#,Asthma follow-up,66YK,66YK.00,1488422012,NA,1
+134380003#,Asthma Accident and Emergency attendance since last visit (regime/therapy),1762522018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+397579009#,Asthma trigger finding (finding),1765497010#,1,0,1,6589241000006112#,Asthma trigger finding,^ESCTAS658924,NA,1777199017,NA,31
+401182001#,Asthma monitoring by nurse (regime/therapy),1769104013#,1,0,1,1780378019#,Asthma monitoring by nurse,66YQ,66YQ.00,1780378019,NA,1
+401183006#,Asthma monitoring by doctor (regime/therapy),1769105014#,1,0,1,1780379010#,Asthma monitoring by doctor,66YR,66YR.00,1780379010,NA,1
+134380003#,Asthma Accident and Emergency attendance since last visit,1775436017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+397579009#,Asthma trigger finding,1777199017#,1,0,1,6589241000006112#,Asthma trigger finding,^ESCTAS658924,NA,1777199017,NA,31
+401182001#,Asthma monitoring by nurse,1780378019#,1,0,1,1780378019#,Asthma monitoring by nurse,66YQ,66YQ.00,1780378019,NA,1
+401183006#,Asthma monitoring by doctor,1780379010#,1,0,1,1780379010#,Asthma monitoring by doctor,66YR,66YR.00,1780379010,NA,1
+404804003#,Platinum asthma (disorder),2148634012#,1,0,1,6703821000006115#,Platinum asthma,^ESCTPL670382,NA,2156687012,NA,31
+404806001#,Cheese-makers' asthma (disorder),2148636014#,1,0,1,6703841000006110#,Cheese-makers' asthma,^ESCTCH670384,NA,2156689010,NA,31
+404808000#,Isocyanate induced asthma (disorder),2148638010#,1,0,1,6703881000006116#,Isocyanate induced asthma,^ESCTIS670388,NA,2156691019,NA,31
+405010009#,Asthma self-management behavior (observable entity),2148840015#,1,0,1,6706971000006118#,Asthma self-management,^ESCTAS670697,NA,2162885018,NA,31
+405010009#,Asthma self-management behavior (observable entity),2148840015#,1,0,1,6706961000006113#,Asthma self-management behavior,^ESCTAS670696,NA,2154927010,NA,31
+405010009#,Asthma self-management behavior (observable entity),2148840015#,1,0,1,6706951000006111#,Asthma self-management behaviour,^ESCTAS670695,NA,2153904014,NA,31
+405010009#,Asthma self-management behaviour,2153904014#,1,0,1,6706971000006118#,Asthma self-management,^ESCTAS670697,NA,2162885018,NA,31
+405010009#,Asthma self-management behaviour,2153904014#,1,0,1,6706961000006113#,Asthma self-management behavior,^ESCTAS670696,NA,2154927010,NA,31
+405010009#,Asthma self-management behaviour,2153904014#,1,0,1,6706951000006111#,Asthma self-management behaviour,^ESCTAS670695,NA,2153904014,NA,31
+405010009#,Asthma self-management behavior,2154927010#,1,0,1,6706971000006118#,Asthma self-management,^ESCTAS670697,NA,2162885018,NA,31
+405010009#,Asthma self-management behavior,2154927010#,1,0,1,6706961000006113#,Asthma self-management behavior,^ESCTAS670696,NA,2154927010,NA,31
+405010009#,Asthma self-management behavior,2154927010#,1,0,1,6706951000006111#,Asthma self-management behaviour,^ESCTAS670695,NA,2153904014,NA,31
+404804003#,Platinum asthma,2156687012#,1,0,1,6703821000006115#,Platinum asthma,^ESCTPL670382,NA,2156687012,NA,31
+404806001#,Cheese-makers' asthma,2156689010#,1,0,1,6703841000006110#,Cheese-makers' asthma,^ESCTCH670384,NA,2156689010,NA,31
+404808000#,Isocyanate induced asthma,2156691019#,1,0,1,6703881000006116#,Isocyanate induced asthma,^ESCTIS670388,NA,2156691019,NA,31
+13151001#,Stripper's asthma,2162182018#,1,0,1,22508019#,Flax-dressers' disease,H442,H442.00,22508019,NA,32
+13151001#,Stripper's asthma,2162182018#,1,0,1,2708631000006110#,Flax dressers disease,^ESCTFL270863,NA,3035958010,NA,32
+13151001#,Stripper's asthma,2162182018#,1,0,1,2708611000006116#,Strippers' disease,^ESCTST270861,NA,22509010,NA,32
+13151001#,Stripper's asthma,2162182018#,1,0,1,2708621000006112#,Stripper's asthma,^ESCTST270862,NA,2162182018,NA,32
+405010009#,Asthma self-management,2162885018#,1,0,1,6706971000006118#,Asthma self-management,^ESCTAS670697,NA,2162885018,NA,31
+405010009#,Asthma self-management,2162885018#,1,0,1,6706961000006113#,Asthma self-management behavior,^ESCTAS670696,NA,2154927010,NA,31
+405010009#,Asthma self-management,2162885018#,1,0,1,6706951000006111#,Asthma self-management behaviour,^ESCTAS670695,NA,2153904014,NA,31
+409663006#,Cough variant asthma (disorder),2465114015#,1,0,1,6782071000006115#,Cough variant asthma,^ESCTCO678207,NA,2471432015,NA,31
+412775002#,Asthma clinical management plan (qualifier value),2468228019#,1,0,1,11927791000006118#,Asthma clinical management plan,^ESCT1192779,NA,2474332015,NA,31
+409663006#,Cough variant asthma,2471432015#,1,0,1,6782071000006115#,Cough variant asthma,^ESCTCO678207,NA,2471432015,NA,31
+412775002#,Asthma clinical management plan,2474332015#,1,0,1,11927791000006118#,Asthma clinical management plan,^ESCT1192779,NA,2474332015,NA,31
+416601004#,Work aggravated asthma (disorder),2546811015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+187687003#,Asthma,2547707010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+416601004#,Work aggravated asthma,2549118013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+418395004#,Tea-makers' asthma (disorder),2574317018#,1,0,1,6920631000006113#,Tea-makers' asthma,^ESCTTE692063,NA,2577663013,NA,31
+418395004#,Tea-makers' asthma,2577663013#,1,0,1,6920631000006113#,Tea-makers' asthma,^ESCTTE692063,NA,2577663013,NA,31
+424199006#,Substance induced asthma (disorder),2640233017#,1,0,1,7021801000006116#,Substance induced asthma,^ESCTSU702180,NA,2644288011,NA,31
+424199006#,Substance induced asthma,2644288011#,1,0,1,7021801000006116#,Substance induced asthma,^ESCTSU702180,NA,2644288011,NA,31
+427603009#,Intermittent asthma (disorder),2662328018#,1,0,1,7076331000006112#,Intermittent asthma,^ESCTIN707633,NA,2674136015,NA,31
+427679007#,Mild intermittent asthma (disorder),2662329014#,1,0,1,7077481000006119#,Mild intermittent asthma,^ESCTMI707748,NA,2674137012,NA,31
+426979002#,Mild persistent asthma (disorder),2662330016#,1,0,1,7067211000006115#,Mild persistent asthma,^ESCTMI706721,NA,2674138019,NA,31
+427295004#,Moderate persistent asthma (disorder),2662331017#,1,0,1,7071891000006112#,Moderate persistent asthma,^ESCTMO707189,NA,2674139010,NA,31
+426656000#,Severe persistent asthma (disorder),2662332012#,1,0,1,7062421000006112#,Severe persistent asthma,^ESCTSE706242,NA,2674140012,NA,31
+425969006#,Exacerbation of intermittent asthma (disorder),2662333019#,1,0,1,7052221000006118#,Exacerbation of intermittent asthma,^ESCTEX705222,NA,2674141011,NA,31
+427354000#,Exacerbation of persistent asthma (disorder),2662334013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135854001#,asthma causes night symptoms 1 to 2 times per month,2663871014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+135859006#,asthma causes daytime symptoms most days,2663872019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+427603009#,Intermittent asthma,2674136015#,1,0,1,7076331000006112#,Intermittent asthma,^ESCTIN707633,NA,2674136015,NA,31
+427679007#,Mild intermittent asthma,2674137012#,1,0,1,7077481000006119#,Mild intermittent asthma,^ESCTMI707748,NA,2674137012,NA,31
+426979002#,Mild persistent asthma,2674138019#,1,0,1,7067211000006115#,Mild persistent asthma,^ESCTMI706721,NA,2674138019,NA,31
+427295004#,Moderate persistent asthma,2674139010#,1,0,1,7071891000006112#,Moderate persistent asthma,^ESCTMO707189,NA,2674139010,NA,31
+426656000#,Severe persistent asthma,2674140012#,1,0,1,7062421000006112#,Severe persistent asthma,^ESCTSE706242,NA,2674140012,NA,31
+425969006#,Exacerbation of intermittent asthma,2674141011#,1,0,1,7052221000006118#,Exacerbation of intermittent asthma,^ESCTEX705222,NA,2674141011,NA,31
+427354000#,Exacerbation of persistent asthma,2674142016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+429258006#,History of aspirin-sensitive asthma with nasal polyp (situation),2689332016#,1,0,1,7100621000006118#,History of aspirin exacerbated respiratory disease,^ESCTHI710062,NA,3464437013,NA,31
+429258006#,History of aspirin-sensitive asthma with nasal polyp (situation),2689332016#,1,0,1,7100611000006114#,History of aspirin sensitive asthma with nasal polyp,^ESCTHI710061,NA,2694855010,NA,31
+429258006#,History of aspirin-sensitive asthma with nasal polyp (situation),2689332016#,1,0,1,7100601000006111#,History of aspirin-sensitive asthma with nasal polyp,^ESCTHI710060,NA,2695038018,NA,31
+429258006#,History of aspirin sensitive asthma with nasal polyp,2694855010#,1,0,1,7100621000006118#,History of aspirin exacerbated respiratory disease,^ESCTHI710062,NA,3464437013,NA,31
+429258006#,History of aspirin sensitive asthma with nasal polyp,2694855010#,1,0,1,7100611000006114#,History of aspirin sensitive asthma with nasal polyp,^ESCTHI710061,NA,2694855010,NA,31
+429258006#,History of aspirin sensitive asthma with nasal polyp,2694855010#,1,0,1,7100601000006111#,History of aspirin-sensitive asthma with nasal polyp,^ESCTHI710060,NA,2695038018,NA,31
+429258006#,History of aspirin-sensitive asthma with nasal polyp,2695038018#,1,0,1,7100621000006118#,History of aspirin exacerbated respiratory disease,^ESCTHI710062,NA,3464437013,NA,31
+429258006#,History of aspirin-sensitive asthma with nasal polyp,2695038018#,1,0,1,7100611000006114#,History of aspirin sensitive asthma with nasal polyp,^ESCTHI710061,NA,2694855010,NA,31
+429258006#,History of aspirin-sensitive asthma with nasal polyp,2695038018#,1,0,1,7100601000006111#,History of aspirin-sensitive asthma with nasal polyp,^ESCTHI710060,NA,2695038018,NA,31
+195970002#,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus) (disorder),2709193016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195974006#,Intrinsic asthma without status asthmaticus (disorder),2709252018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+36979006#,Status asthmaticus (disorder),2710118010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195975007#,Intrinsic asthma with: [asthma attack] or [status asthmaticus] (disorder),2712113014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266358007#,Allergic atopic asthma (disorder),2713284013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195980003#,(Severe asthma attack) or (status asthmaticus NOS) (disorder),2713546018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155576005#,Asthma: [intrinsic] or [late onset] (disorder),2714656016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155579003#,Asthma: [NOS] or [attack] (disorder),2715420018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155575009#,Extrinsic asthma - atopy (& pollen) (disorder),2715528010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138796005#,H/O: asthma (situation),2716124013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153906000#,Asthma administration: [monitoring] or [clinic] (regime/therapy),2718743013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266360009#,Extrinsic asthma with status asthmaticus (disorder),2719186012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195939005#,Asthmatic bronchitis (disorder),2720105015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195982006#,Late onset asthma (disorder),2721170015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155577001#,Status asthmaticus (disorder),2721980015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150993000#,Asthma control step 3 (procedure),2722896018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147892002#,Emergency asthma admission since last appointment (regime/therapy),2723322013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147896004#,Asthma - currently dormant (finding),2724390016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155574008#,Asthma (disorder),2724893013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170664002#,Asthma - currently dormant (finding),2725467015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170665001#,Asthma - currently active (finding),2725468013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139202009#,Exercise-induced asthma (finding),2732224010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147879000#,Asthma limiting activities (finding),2733107017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147880002#,Asthma not limiting activities (finding),2733108010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366872007#,Asthma limits walking up hills or stairs (finding),2734042012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366867003#,Asthma causes night symptoms 1 to 2 times per month (finding),2734043019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366873002#,Asthma limits walking on the flat (finding),2734235018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393082005#,Asthma medication review (procedure),2734599013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366796009#,Number of asthma exacerbations in past year (finding),2734628017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389858009#,Step down change in asthma management plan (regime/therapy),2734673012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366864005#,Asthma accident and emergency attendance since last visit (regime/therapy),2734753013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393031007#,Asthma follow-up (regime/therapy),2734759012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390592005#,Absent from work or school due to asthma (situation),2734910016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389853000#,Change in asthma management plan (regime/therapy),2735011010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393030008#,Asthma annual review (regime/therapy),2735098017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390594006#,Asthma monitoring due (regime/therapy),2735152016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389862003#,Asthma monitoring due (finding),2735170018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366869000#,Asthma causes daytime symptoms 1 to 2 times per month (finding),2735232014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367039004#,Asthma daytime symptoms (finding),2735480010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366870004#,Asthma causes daytime symptoms 1 to 2 times per week (finding),2735501014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390589006#,Step up change in asthma management plan (regime/therapy),2736106015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390590002#,Step down change in asthma management plan (regime/therapy),2736107012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389857004#,Step up change in asthma management plan (regime/therapy),2736467019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+389860006#,Absent from work or school due to asthma (situation),2736468012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151715009#,"Emergency admission, asthma (procedure)",2737754014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366790003#,Asthma never causes daytime symptoms (finding),2737860017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366788004#,Asthma treatment compliance unsatisfactory (finding),2738118015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366786000#,Asthma accident and emergency attendance since last visit (regime/therapy),2738119011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150990002#,Asthma control step 0 (procedure),2738296011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233680000#,Allergic asthma (disorder),2738447016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150988003#,Further asthma - drug prevention (procedure),2738914017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366792006#,Asthma causes daytime symptoms 1 to 2 times per week (finding),2738918019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366787009#,Asthma treatment compliance satisfactory (finding),2738920016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153916008#,Asthma monitored (& check done) (regime/therapy),2739130019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366789007#,Asthma causes night symptoms 1 to 2 times per month (finding),2739987012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150994006#,Asthma control step 4 (procedure),2740126010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153445004#,Seen in asthma clinic (finding),2740197013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266359004#,Extrinsic asthma without status asthmaticus (disorder),2741453013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+21341004#,Asthma (disorder),2742397011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393992004#,Asthma night-time symptoms (finding),2743227014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16862005#,Extrinsic asthma (disorder),2743772017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+8312004#,Intrinsic asthma (disorder),2743818018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367268006#,Asthma daytime symptoms (finding),2744194014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366793001#,Asthma causes daytime symptoms most days (finding),2746733014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393036002#,Asthma night-time symptoms (finding),2746822019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366866007#,Asthma treatment compliance unsatisfactory (finding),2747001017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366868008#,Asthma never causes daytime symptoms (finding),2747241018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195978009#,Exacerbation of asthma (disorder),2747441016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195981004#,Asthma attack (& NOS) (disorder),2749963013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147853009#,Respiratory disease monitoring (& [asthma] or [chronic]) (procedure),2750108016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147894001#,Asthma never restricts exercise (finding),2751972013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153907009#,Attends asthma monitoring (regime/therapy),2752157012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147884006#,Asthma severity (regime/therapy),2752223014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147897008#,Asthma - currently active (finding),2752356012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170607007#,Respiratory disease monitoring (& [asthma] or [chronic]) (regime/therapy),2752407012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150992005#,Asthma control step 2 (procedure),2752420010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153917004#,Asthma monitoring admin.NOS (regime/therapy),2752586016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153909007#,Asthma monitor offer default (regime/therapy),2753181012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150991003#,Asthma control step 1 (procedure),2754189019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+150995007#,Asthma control step 5 (procedure),2754860019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147883000#,Asthma management plan given (regime/therapy),2755483018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147893007#,Asthma restricts exercise (finding),2755845014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366865006#,Asthma treatment compliance satisfactory (finding),2756159012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185738006#,Asthma monitored (& check done) (finding),2756473012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366794007#,Asthma limits walking up hills or stairs (finding),2756805012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147877003#,Asthma disturbing sleep (finding),2757831016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147885007#,Asthma prophylactic medication used (regime/therapy),2758248019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147878008#,Asthma not disturbing sleep (finding),2758249010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195971003#,Extrinsic asthma with: [asthma attack] or [status asthmaticus] (disorder),2759336012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393987001#,Asthma follow-up (regime/therapy),2760175015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366791004#,Asthma causes daytime symptoms 1 to 2 times per month (finding),2760192012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+390585000#,Change in asthma management plan (regime/therapy),2760503019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393986005#,Asthma annual review (regime/therapy),2760567016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366795008#,Asthma limits walking on the flat (finding),2760592018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+366871000#,Asthma causes daytime symptoms most days (finding),2761468017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367110001#,Exacerbation of asthma (disorder),2761705018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155578006#,Asthma attack (& NOS) (disorder),2763078015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266362001#,Intrinsic asthma with status asthmaticus (disorder),2763336016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+442025000#,Acute exacerbation of chronic asthmatic bronchitis,2818419010#,1,0,1,7258581000006114#,Acute exacerbation of chronic asthmatic bronchitis,^ESCTAC725858,NA,2818419010,NA,31
+442025000#,Acute exacerbation of chronic asthmatic bronchitis (disorder),2818420016#,1,0,1,7258581000006114#,Acute exacerbation of chronic asthmatic bronchitis,^ESCTAC725858,NA,2818419010,NA,31
+443117005#,Asthma control test score (observable entity),2835402015#,1,0,1,1118291000000110#,Asthma control test score,38DL,38DL.00,2839948011,NA,3
+443117005#,Asthma control test score (observable entity),2835402015#,1,0,1,7272271000006114#,Asthma control test score,^ESCTAS727227,NA,727e13,NA,3
+443450003#,Asthma control test (assessment scale),2835502018#,1,0,1,11929001000006115#,Asthma control test,^ESCT1192900,NA,2840124012,NA,32
+443117005#,Asthma control test score,2839948011#,1,0,1,1118291000000110#,Asthma control test score,38DL,38DL.00,2839948011,NA,3
+443117005#,Asthma control test score,2839948011#,1,0,1,7272271000006114#,Asthma control test score,^ESCTAS727227,NA,727e13,NA,3
+443450003#,Asthma control test,2840124012#,1,0,1,11929001000006115#,Asthma control test,^ESCT1192900,NA,2840124012,NA,32
+445074007#,Mini asthma quality of life questionnaire (assessment scale),2869108012#,1,0,1,7302441000006115#,Mini AQLQ (asthma quality of life questionnaire),^ESCTMI730244,NA,164e13,NA,31
+445074007#,Mini asthma quality of life questionnaire (assessment scale),2869108012#,1,0,1,11929181000006113#,Mini asthma quality of life questionnaire,^ESCT1192918,NA,2872007016,NA,32
+445531003#,Asthma control questionnaire (assessment scale),2869570014#,1,0,1,7309651000006111#,ACQ - Asthma control questionnaire,^ESCTAC730965,NA,164e13,NA,32
+445531003#,Asthma control questionnaire (assessment scale),2869570014#,1,0,1,11929171000006110#,Asthma control questionnaire,^ESCT1192917,NA,2872440018,NA,32
+445427006#,Seasonal asthma (disorder),2869753016#,1,0,1,7307941000006113#,Seasonal asthma,^ESCTSE730794,NA,2872543019,NA,31
+445074007#,Mini asthma quality of life questionnaire,2872007016#,1,0,1,7302441000006115#,Mini AQLQ (asthma quality of life questionnaire),^ESCTMI730244,NA,164e13,NA,31
+445074007#,Mini asthma quality of life questionnaire,2872007016#,1,0,1,11929181000006113#,Mini asthma quality of life questionnaire,^ESCT1192918,NA,2872007016,NA,32
+445531003#,Asthma control questionnaire,2872440018#,1,0,1,7309651000006111#,ACQ - Asthma control questionnaire,^ESCTAC730965,NA,164e13,NA,32
+445531003#,Asthma control questionnaire,2872440018#,1,0,1,11929171000006110#,Asthma control questionnaire,^ESCT1192917,NA,2872440018,NA,32
+445427006#,Seasonal asthma,2872543019#,1,0,1,7307941000006113#,Seasonal asthma,^ESCTSE730794,NA,2872543019,NA,31
+448003001#,Royal College of Physicians asthma assessment three questions score,2900370011#,1,0,1,1766051000006114#,Royal College of Physicians asthma assessment three questions score,388t0,388t000,2900370011,NA,32
+448003001#,Royal College of Physicians asthma assessment three questions score,2900370011#,1,0,1,7348611000006112#,Royal College of Physicians 3 questions score,^ESCTRO734861,NA,2900369010,NA,32
+1761000119103#,Chronic obstructive airway disease with asthma,2966931011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+1751000119100#,Acute exacerbation of chronic obstructive airways disease with asthma,2967380018#,1,0,1,7970171000006119#,Acute exacerbation of chronic obstructive airways disease with asthma,^ESCTAC797017,NA,2967380018,NA,31
+698509001#,Under care of asthma specialist nurse (finding),2974547016#,1,0,1,1139131000000117#,Under care of asthma specialist nurse,9NNX,9NNX.00,2974554010,NA,37
+698509001#,Under care of asthma specialist nurse,2974554010#,1,0,1,1139131000000117#,Under care of asthma specialist nurse,9NNX,9NNX.00,2974554010,NA,37
+698605001#,Education about asthma self management,2974969016#,1,0,1,7510501000006115#,Education about asthma self management,^ESCTED751050,NA,2974969016,NA,31
+698605001#,Education about asthma self management (procedure),2975061014#,1,0,1,7510501000006115#,Education about asthma self management,^ESCTED751050,NA,2974969016,NA,31
+699191007#,Did not attend asthma review (finding),2983030010#,1,0,1,7518271000006114#,Did not attend asthma review,^ESCTDI751827,NA,2983094015,NA,31
+699191007#,Did not attend asthma review,2983094015#,1,0,1,7518271000006114#,Did not attend asthma review,^ESCTDI751827,NA,2983094015,NA,31
+699728000#,Asthma self management,2985445013#,1,0,1,7526251000006112#,Asthma self management,^ESCTAS752625,NA,2985445013,NA,31
+699728000#,Asthma self management (regime/therapy),2985459018#,1,0,1,7526251000006112#,Asthma self management,^ESCTAS752625,NA,2985445013,NA,31
+10742121000119104#,Asthma in childbirth,2995423010#,1,0,1,9322561000006117#,Asthma in mother complicating childbirth,^ESCTAS932256,NA,2995717018,NA,31
+10742121000119104#,Asthma in childbirth,2995423010#,1,0,1,9322571000006112#,Asthma in childbirth,^ESCTAS932257,NA,2995423010,NA,31
+10742121000119104#,Asthma in mother complicating childbirth,2995717018#,1,0,1,9322561000006117#,Asthma in mother complicating childbirth,^ESCTAS932256,NA,2995717018,NA,31
+10742121000119104#,Asthma in mother complicating childbirth,2995717018#,1,0,1,9322571000006112#,Asthma in childbirth,^ESCTAS932257,NA,2995423010,NA,31
+10742121000119104#,Asthma in mother complicating childbirth (disorder),2995807017#,1,0,1,9322561000006117#,Asthma in mother complicating childbirth,^ESCTAS932256,NA,2995717018,NA,31
+10742121000119104#,Asthma in mother complicating childbirth (disorder),2995807017#,1,0,1,9322571000006112#,Asthma in childbirth,^ESCTAS932257,NA,2995423010,NA,31
+702823004#,Asthma clinic,3006258013#,1,0,1,7567071000006115#,Asthma clinic,^ESCTAS756707,NA,3006258013,NA,31
+702823004#,Asthma clinic (environment),3006269011#,1,0,1,7567071000006115#,Asthma clinic,^ESCTAS756707,NA,3006258013,NA,31
+703953004#,Dermatophagoides pteronyssinus allergic asthma,3010574019#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,Dermatophagoides pteronyssinus allergic asthma,3010574019#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,Dermatophagoides pteronyssinus allergic asthma,3010574019#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+703954005#,Dermatophagoides farinae allergic asthma,3011475012#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,Dermatophagoides farinae allergic asthma,3011475012#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,Dermatophagoides farinae allergic asthma,3011475012#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus,3013138016#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus,3013138016#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus,3013138016#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae,3013154018#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae,3013154018#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae,3013154018#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae (disorder),3013155017#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae (disorder),3013155017#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,Allergic asthma due to Dermatophagoides farinae (disorder),3013155017#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus (disorder),3013204015#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus (disorder),3013204015#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,Allergic asthma due to Dermatophagoides pteronyssinus (disorder),3013204015#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+707446004#,Exacerbation of moderate persistent asthma,3030142014#,1,0,1,7617621000006116#,Exacerbation of moderate persistent asthma,^ESCTEX761762,NA,3030142014,NA,31
+707445000#,Exacerbation of mild persistent asthma,3030146012#,1,0,1,7617611000006112#,Exacerbation of mild persistent asthma,^ESCTEX761761,NA,3030146012,NA,31
+707446004#,Exacerbation of moderate persistent asthma (disorder),3030150017#,1,0,1,7617621000006116#,Exacerbation of moderate persistent asthma,^ESCTEX761762,NA,3030142014,NA,31
+707447008#,Exacerbation of severe persistent asthma (disorder),3030151018#,1,0,1,7617631000006118#,Exacerbation of severe persistent asthma,^ESCTEX761763,NA,3030154014,NA,31
+707447008#,Exacerbation of severe persistent asthma,3030154014#,1,0,1,7617631000006118#,Exacerbation of severe persistent asthma,^ESCTEX761763,NA,3030154014,NA,31
+707445000#,Exacerbation of mild persistent asthma (disorder),3030157019#,1,0,1,7617611000006112#,Exacerbation of mild persistent asthma,^ESCTEX761761,NA,3030146012,NA,31
+707513007#,Uncomplicated severe persistent asthma,3032636018#,1,0,1,7618811000006114#,Uncomplicated severe persistent asthma,^ESCTUN761881,NA,3032636018,NA,31
+707444001#,Uncomplicated asthma,3032638017#,1,0,1,7617601000006114#,Uncomplicated asthma,^ESCTUN761760,NA,3032638017,NA,31
+707512002#,Uncomplicated moderate persistent asthma,3032639013#,1,0,1,7618801000006111#,Uncomplicated moderate persistent asthma,^ESCTUN761880,NA,3032639013,NA,31
+707444001#,Uncomplicated asthma (disorder),3032640010#,1,0,1,7617601000006114#,Uncomplicated asthma,^ESCTUN761760,NA,3032638017,NA,31
+707511009#,Uncomplicated mild persistent asthma,3032641014#,1,0,1,7618791000006110#,Uncomplicated mild persistent asthma,^ESCTUN761879,NA,3032641014,NA,31
+707980005#,Acute severe exacerbation of moderate persistent asthma (disorder),3032642019#,1,0,1,7626531000006113#,Acute severe exacerbation of moderate persistent asthma,^ESCTAC762653,NA,3032646016,NA,31
+707979007#,Acute severe exacerbation of severe persistent asthma,3032643012#,1,0,1,7626521000006110#,Acute severe exacerbation of severe persistent asthma,^ESCTAC762652,NA,3032643012,NA,31
+707511009#,Uncomplicated mild persistent asthma (disorder),3032644018#,1,0,1,7618791000006110#,Uncomplicated mild persistent asthma,^ESCTUN761879,NA,3032641014,NA,31
+707981009#,Acute severe exacerbation of mild persistent asthma (disorder),3032645017#,1,0,1,7626541000006115#,Acute severe exacerbation of mild persistent asthma,^ESCTAC762654,NA,3032647013,NA,31
+707980005#,Acute severe exacerbation of moderate persistent asthma,3032646016#,1,0,1,7626531000006113#,Acute severe exacerbation of moderate persistent asthma,^ESCTAC762653,NA,3032646016,NA,31
+707981009#,Acute severe exacerbation of mild persistent asthma,3032647013#,1,0,1,7626541000006115#,Acute severe exacerbation of mild persistent asthma,^ESCTAC762654,NA,3032647013,NA,31
+707979007#,Acute severe exacerbation of severe persistent asthma (disorder),3032649011#,1,0,1,7626521000006110#,Acute severe exacerbation of severe persistent asthma,^ESCTAC762652,NA,3032643012,NA,31
+707512002#,Uncomplicated moderate persistent asthma (disorder),3032651010#,1,0,1,7618801000006111#,Uncomplicated moderate persistent asthma,^ESCTUN761880,NA,3032639013,NA,31
+707513007#,Uncomplicated severe persistent asthma (disorder),3032652015#,1,0,1,7618811000006114#,Uncomplicated severe persistent asthma,^ESCTUN761881,NA,3032636018,NA,31
+708096008#,Acute severe exacerbation of intrinsic asthma (disorder),3032875012#,1,0,1,7628331000006115#,Acute severe exacerbation of intrinsic asthma,^ESCTAC762833,NA,3032982012,NA,31
+708096008#,Acute severe exacerbation of intrinsic asthma,3032982012#,1,0,1,7628331000006115#,Acute severe exacerbation of intrinsic asthma,^ESCTAC762833,NA,3032982012,NA,31
+708373002#,Emergency asthma patient visit since last encounter (situation),3033614010#,1,0,1,216186011#,Emergency asthma patient visit since last encounter,663m,663m.00,3034176014,NA,1
+708373002#,Emergency asthma patient visit since last encounter,3034176014#,1,0,1,216186011#,Emergency asthma patient visit since last encounter,663m,663m.00,3034176014,NA,1
+10692721000119102#,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma (disorder),3038259012#,1,0,1,9317311000006119#,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma,^ESCTCH931731,NA,3038325011,NA,31
+124991000119109#,Severe persistent asthma co-occurrent with allergic rhinitis,3038312015#,1,0,1,8038931000006119#,Severe persistent asthma co-occurrent with allergic rhinitis,^ESCTSE803893,NA,3038312015,NA,31
+10692721000119102#,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma,3038325011#,1,0,1,9317311000006119#,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma,^ESCTCH931731,NA,3038325011,NA,31
+124991000119109#,Severe persistent asthma co-occurrent with allergic rhinitis (disorder),3038352018#,1,0,1,8038931000006119#,Severe persistent asthma co-occurrent with allergic rhinitis,^ESCTSE803893,NA,3038312015,NA,31
+99031000119107#,Acute exacerbation of asthma co-occurrent with allergic rhinitis (disorder),3040669011#,1,0,1,8031201000006110#,Acute exacerbation of asthma co-occurrent with allergic rhinitis,^ESCTAC803120,NA,3040730014,NA,31
+99031000119107#,Acute exacerbation of asthma co-occurrent with allergic rhinitis,3040730014#,1,0,1,8031201000006110#,Acute exacerbation of asthma co-occurrent with allergic rhinitis,^ESCTAC803120,NA,3040730014,NA,31
+125011000119100#,Mild persistent asthma co-occurrent with allergic rhinitis (disorder),3040871014#,1,0,1,8038961000006111#,Mild persistent asthma co-occurrent with allergic rhinitis,^ESCTMI803896,NA,3040894010,NA,31
+125011000119100#,Mild persistent asthma co-occurrent with allergic rhinitis,3040894010#,1,0,1,8038961000006111#,Mild persistent asthma co-occurrent with allergic rhinitis,^ESCTMI803896,NA,3040894010,NA,31
+1741000119102#,Intermittent asthma uncontrolled,3041058017#,1,0,1,7970131000006117#,Intermittent asthma uncontrolled,^ESCTIN797013,NA,3041058017,NA,31
+125021000119107#,Intermittent asthma co-occurrent with allergic rhinitis (disorder),3041207010#,1,0,1,8038971000006116#,Intermittent asthma co-occurrent with allergic rhinitis,^ESCTIN803897,NA,3041241019,NA,31
+641000119106#,Intermittent asthma well controlled,3041227011#,1,0,1,7966291000006118#,Intermittent asthma well controlled,^ESCTIN796629,NA,3041227011,NA,31
+125021000119107#,Intermittent asthma co-occurrent with allergic rhinitis,3041241019#,1,0,1,8038971000006116#,Intermittent asthma co-occurrent with allergic rhinitis,^ESCTIN803897,NA,3041241019,NA,31
+1741000119102#,Intermittent asthma uncontrolled (disorder),3041362015#,1,0,1,7970131000006117#,Intermittent asthma uncontrolled,^ESCTIN797013,NA,3041058017,NA,31
+10675991000119100#,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis (disorder),3043104016#,1,0,1,9315231000006113#,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,^ESCTAC931523,NA,3043192011,NA,31
+10675871000119106#,Mild persistent allergic asthma (disorder),3043135010#,1,0,1,9315201000006117#,Mild persistent allergic asthma,^ESCTMI931520,NA,3043169011,NA,31
+10675871000119106#,Mild persistent allergic asthma,3043169011#,1,0,1,9315201000006117#,Mild persistent allergic asthma,^ESCTMI931520,NA,3043169011,NA,31
+10675911000119109#,Acute severe exacerbation of mild persistent allergic asthma (disorder),3043173014#,1,0,1,9315221000006110#,Acute severe exacerbation of mild persistent allergic asthma,^ESCTAC931522,NA,3043234015,NA,31
+10675991000119100#,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,3043192011#,1,0,1,9315231000006113#,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,^ESCTAC931523,NA,3043192011,NA,31
+10675911000119109#,Acute severe exacerbation of mild persistent allergic asthma,3043234015#,1,0,1,9315221000006110#,Acute severe exacerbation of mild persistent allergic asthma,^ESCTAC931522,NA,3043234015,NA,31
+641000119106#,Intermittent asthma well controlled (finding),3043369016#,1,0,1,7966291000006118#,Intermittent asthma well controlled,^ESCTIN796629,NA,3041227011,NA,31
+135181000119109#,Acute exacerbation of mild persistent asthma (disorder),3043391011#,1,0,1,8042581000006114#,Acute exacerbation of mild persistent asthma,^ESCTAC804258,NA,3043530011,NA,31
+10676391000119108#,Moderate persistent allergic asthma (disorder),3043497014#,1,0,1,9315351000006112#,Moderate persistent allergic asthma,^ESCTMO931535,NA,3043556016,NA,31
+135181000119109#,Acute exacerbation of mild persistent asthma,3043530011#,1,0,1,8042581000006114#,Acute exacerbation of mild persistent asthma,^ESCTAC804258,NA,3043530011,NA,31
+135171000119106#,Acute exacerbation of moderate persistent asthma (disorder),3043541013#,1,0,1,8042571000006111#,Acute exacerbation of moderate persistent asthma,^ESCTAC804257,NA,3043548019,NA,31
+135171000119106#,Acute exacerbation of moderate persistent asthma,3043548019#,1,0,1,8042571000006111#,Acute exacerbation of moderate persistent asthma,^ESCTAC804257,NA,3043548019,NA,31
+10676391000119108#,Moderate persistent allergic asthma,3043556016#,1,0,1,9315351000006112#,Moderate persistent allergic asthma,^ESCTMO931535,NA,3043556016,NA,31
+10674711000119105#,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis (disorder),3043758017#,1,0,1,9314961000006112#,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,^ESCTAC931496,NA,3043983014,NA,31
+10675551000119104#,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,3043762011#,1,0,1,9315111000006113#,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,^ESCTAC931511,NA,3043762011,NA,31
+10675431000119106#,Severe persistent allergic asthma (disorder),3043784011#,1,0,1,9315091000006116#,Severe persistent allergic asthma,^ESCTSE931509,NA,3043971012,NA,31
+10675471000119109#,Acute severe exacerbation of severe persistent allergic asthma,3043806016#,1,0,1,9315101000006110#,Acute severe exacerbation of severe persistent allergic asthma,^ESCTAC931510,NA,3043806016,NA,31
+10676591000119100#,Moderate persistent controlled asthma co-occurrent with allergic rhinitis (disorder),3043807013#,1,0,1,9315411000006118#,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,^ESCTMO931541,NA,3043833017,NA,31
+10676431000119103#,Acute severe exacerbation of moderate persistent allergic asthma,3043819017#,1,0,1,9315371000006119#,Acute severe exacerbation of moderate persistent allergic asthma,^ESCTAC931537,NA,3043819017,NA,31
+10676591000119100#,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,3043833017#,1,0,1,9315411000006118#,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,^ESCTMO931541,NA,3043833017,NA,31
+10675471000119109#,Acute severe exacerbation of severe persistent allergic asthma (disorder),3043872018#,1,0,1,9315101000006110#,Acute severe exacerbation of severe persistent allergic asthma,^ESCTAC931510,NA,3043806016,NA,31
+125001000119103#,Moderate persistent asthma co-occurrent with allergic rhinitis (disorder),3043890017#,1,0,1,8038941000006112#,Moderate persistent asthma co-occurrent with allergic rhinitis,^ESCTMO803894,NA,3043951015,NA,31
+10676431000119103#,Acute severe exacerbation of moderate persistent allergic asthma (disorder),3043902018#,1,0,1,9315371000006119#,Acute severe exacerbation of moderate persistent allergic asthma,^ESCTAC931537,NA,3043819017,NA,31
+10675551000119104#,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis (disorder),3043911018#,1,0,1,9315111000006113#,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,^ESCTAC931511,NA,3043762011,NA,31
+10676511000119109#,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis (disorder),3043927013#,1,0,1,9315391000006118#,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,^ESCTAC931539,NA,3043960011,NA,31
+125001000119103#,Moderate persistent asthma co-occurrent with allergic rhinitis,3043951015#,1,0,1,8038941000006112#,Moderate persistent asthma co-occurrent with allergic rhinitis,^ESCTMO803894,NA,3043951015,NA,31
+10676511000119109#,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,3043960011#,1,0,1,9315391000006118#,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,^ESCTAC931539,NA,3043960011,NA,31
+10675431000119106#,Severe persistent allergic asthma,3043971012#,1,0,1,9315091000006116#,Severe persistent allergic asthma,^ESCTSE931509,NA,3043971012,NA,31
+10674711000119105#,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,3043983014#,1,0,1,9314961000006112#,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,^ESCTAC931496,NA,3043983014,NA,31
+2360001000004109#,Steroid dependent asthma,3046932018#,1,0,1,8555681000006115#,Steroid dependent asthma,^ESCTST855568,NA,3046932018,NA,31
+2360001000004109#,Steroid dependent asthma (disorder),3046933011#,1,0,1,8555681000006115#,Steroid dependent asthma,^ESCTST855568,NA,3046932018,NA,31
+711388008#,Acute asthma control management (procedure),3078144017#,1,0,1,7687651000006111#,Acute asthma control management,^ESCTAC768765,NA,3078166012,NA,31
+711388008#,Acute asthma control management,3078166012#,1,0,1,7687651000006111#,Acute asthma control management,^ESCTAC768765,NA,3078166012,NA,31
+711442001#,Recent asthma management (situation),3078592011#,1,0,1,7688501000006112#,Recent asthma management,^ESCTRE768850,NA,3078609015,NA,31
+711442001#,Recent asthma management,3078609015#,1,0,1,7688501000006112#,Recent asthma management,^ESCTRE768850,NA,3078609015,NA,31
+10675631000119109#,Severe persistent asthma controlled co-occurrent with allergic rhinitis,3083256016#,1,0,1,9315141000006112#,Severe persistent asthma controlled co-occurrent with allergic rhinitis,^ESCTSE931514,NA,3083256016,NA,31
+10676071000119109#,Mild persistent asthma controlled (finding),3083257013#,1,0,1,9315261000006116#,Mild persistent asthma controlled,^ESCTMI931526,NA,3083485012,NA,31
+10676711000119103#,Moderate persistent asthma uncontrolled (finding),3083262014#,1,0,1,9315461000006115#,Moderate persistent asthma uncontrolled,^ESCTMO931546,NA,3083432017,NA,31
+10675631000119109#,Severe persistent asthma controlled co-occurrent with allergic rhinitis (disorder),3083290013#,1,0,1,9315141000006112#,Severe persistent asthma controlled co-occurrent with allergic rhinitis,^ESCTSE931514,NA,3083256016,NA,31
+10676151000119101#,Mild persistent allergic asthma uncontrolled,3083309017#,1,0,1,9315291000006112#,Mild persistent allergic asthma uncontrolled,^ESCTMI931529,NA,3083309017,NA,31
+10675591000119109#,Severe persistent allergic asthma controlled (finding),3083312019#,1,0,1,9315121000006117#,Severe persistent allergic asthma controlled,^ESCTSE931512,NA,3083393013,NA,31
+10676031000119106#,Mild persistent allergic asthma controlled,3083332018#,1,0,1,9315251000006118#,Mild persistent allergic asthma controlled,^ESCTMI931525,NA,3083332018,NA,31
+10676631000119100#,Moderate persistent allergic asthma uncontrolled,3083365014#,1,0,1,9315431000006112#,Moderate persistent allergic asthma uncontrolled,^ESCTMO931543,NA,3083365014,NA,31
+10675671000119107#,Severe persistent allergic asthma uncontrolled,3083379018#,1,0,1,9315151000006114#,Severe persistent allergic asthma uncontrolled,^ESCTSE931515,NA,3083379018,NA,31
+10675711000119106#,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,3083384012#,1,0,1,9315171000006116#,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTSE931517,NA,3083384012,NA,31
+10676151000119101#,Mild persistent allergic asthma uncontrolled (finding),3083390011#,1,0,1,9315291000006112#,Mild persistent allergic asthma uncontrolled,^ESCTMI931529,NA,3083309017,NA,31
+10675591000119109#,Severe persistent allergic asthma controlled,3083393013#,1,0,1,9315121000006117#,Severe persistent allergic asthma controlled,^ESCTSE931512,NA,3083393013,NA,31
+10676031000119106#,Mild persistent allergic asthma controlled (finding),3083431012#,1,0,1,9315251000006118#,Mild persistent allergic asthma controlled,^ESCTMI931525,NA,3083332018,NA,31
+10676711000119103#,Moderate persistent asthma uncontrolled,3083432017#,1,0,1,9315461000006115#,Moderate persistent asthma uncontrolled,^ESCTMO931546,NA,3083432017,NA,31
+10676631000119100#,Moderate persistent allergic asthma uncontrolled (finding),3083452016#,1,0,1,9315431000006112#,Moderate persistent allergic asthma uncontrolled,^ESCTMO931543,NA,3083365014,NA,31
+10675711000119106#,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),3083454015#,1,0,1,9315171000006116#,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTSE931517,NA,3083384012,NA,31
+10676071000119109#,Mild persistent asthma controlled,3083485012#,1,0,1,9315261000006116#,Mild persistent asthma controlled,^ESCTMI931526,NA,3083485012,NA,31
+10675671000119107#,Severe persistent allergic asthma uncontrolled (finding),3083494018#,1,0,1,9315151000006114#,Severe persistent allergic asthma uncontrolled,^ESCTSE931515,NA,3083379018,NA,31
+10676191000119106#,Mild persistent asthma uncontrolled (finding),3083610019#,1,0,1,9315301000006113#,Mild persistent asthma uncontrolled,^ESCTMI931530,NA,3083629013,NA,31
+10676351000119103#,Moderate persistent asthma controlled (finding),3083614011#,1,0,1,9315341000006110#,Moderate persistent asthma controlled,^ESCTMO931534,NA,3083637017,NA,31
+10676671000119102#,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),3083616013#,1,0,1,9315441000006119#,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTMO931544,NA,3083625019,NA,31
+10676551000119105#,Moderate persistent allergic asthma controlled (finding),3083618014#,1,0,1,9315401000006116#,Moderate persistent allergic asthma controlled,^ESCTMO931540,NA,3083626018,NA,31
+10676231000119102#,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),3083621011#,1,0,1,9315321000006115#,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTMI931532,NA,3083628017,NA,31
+10676671000119102#,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,3083625019#,1,0,1,9315441000006119#,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTMO931544,NA,3083625019,NA,31
+10676551000119105#,Moderate persistent allergic asthma controlled,3083626018#,1,0,1,9315401000006116#,Moderate persistent allergic asthma controlled,^ESCTMO931540,NA,3083626018,NA,31
+10676231000119102#,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,3083628017#,1,0,1,9315321000006115#,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,^ESCTMI931532,NA,3083628017,NA,31
+10676191000119106#,Mild persistent asthma uncontrolled,3083629013#,1,0,1,9315301000006113#,Mild persistent asthma uncontrolled,^ESCTMI931530,NA,3083629013,NA,31
+10676111000119102#,Mild persistent asthma controlled co-occurrent with allergic rhinitis,3083630015#,1,0,1,9315281000006114#,Mild persistent asthma controlled co-occurrent with allergic rhinitis,^ESCTMI931528,NA,3083630015,NA,31
+10676111000119102#,Mild persistent asthma controlled co-occurrent with allergic rhinitis (disorder),3083631016#,1,0,1,9315281000006114#,Mild persistent asthma controlled co-occurrent with allergic rhinitis,^ESCTMI931528,NA,3083630015,NA,31
+10676351000119103#,Moderate persistent asthma controlled,3083637017#,1,0,1,9315341000006110#,Moderate persistent asthma controlled,^ESCTMO931534,NA,3083637017,NA,31
+153910002#,Asthma monitoring call first letter (procedure),3084928013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153914006#,Asthma monitoring call telephone invite (procedure),3084992016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153911003#,Asthma monitoring call second letter (procedure),3085019015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153913000#,Asthma monitoring call verbal invite (procedure),3085157017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153912005#,Asthma monitoring call third letter (procedure),3085200018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+703954005#,Allergic asthma caused by Dermatophagoides farinae,3291084014#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,Allergic asthma caused by Dermatophagoides farinae,3291084014#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,Allergic asthma caused by Dermatophagoides farinae,3291084014#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus (disorder),3292965010#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus (disorder),3292965010#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus (disorder),3292965010#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+703954005#,Allergic asthma caused by Dermatophagoides farinae (disorder),3293919019#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,Allergic asthma caused by Dermatophagoides farinae (disorder),3293919019#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,Allergic asthma caused by Dermatophagoides farinae (disorder),3293919019#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+241758002#,Poisoning caused by herbal asthma mixture (disorder),3294282018#,1,0,1,5167051000006116#,Poisoning caused by herbal asthma mixture,^ESCTPO516705,NA,3293435019,NA,31
+241758002#,Poisoning caused by herbal asthma mixture (disorder),3294282018#,1,0,1,5167041000006118#,Poisoning by herbal asthma mixture,^ESCTPO516704,NA,361954019,NA,31
+291368008#,Poisoning caused by herbal asthma mixture of undetermined intent,3294404017#,1,0,1,5769491000006116#,Poisoning caused by herbal asthma mixture of undetermined intent,^ESCTPO576949,NA,3294404017,NA,31
+291368008#,Poisoning caused by herbal asthma mixture of undetermined intent,3294404017#,1,0,1,5769481000006119#,Poisoning by herbal asthma mixture of undetermined intent,^ESCTPO576948,NA,431429017,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus,3295225014#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus,3295225014#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,Allergic asthma caused by Dermatophagoides pteronyssinus,3295225014#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+715191006#,Telehealth asthma monitoring (regime/therapy),3301823015#,1,0,1,2423691000000114#,Telehealth asthma monitoring,66Yz5,66Yz500,3301824014,NA,1
+715191006#,Telehealth asthma monitoring,3301824014#,1,0,1,2423691000000114#,Telehealth asthma monitoring,66Yz5,66Yz500,3301824014,NA,1
+4451000175106#,Asthma action plan not done (situation),3305814013#,1,0,1,7979131000006110#,Asthma action plan not done,^ESCTAS797913,NA,3305815014,NA,31
+4451000175106#,Asthma action plan not done,3305815014#,1,0,1,7979131000006110#,Asthma action plan not done,^ESCTAS797913,NA,3305815014,NA,31
+716542004#,Asthma action care planning (procedure),3305818011#,1,0,1,7748211000006113#,Asthma action care planning,^ESCTAS774821,NA,3306235013,NA,31
+716542004#,Asthma action care planning,3306235013#,1,0,1,7748211000006113#,Asthma action care planning,^ESCTAS774821,NA,3306235013,NA,31
+10675751000119107#,Severe uncontrolled persistent asthma (disorder),3424788011#,1,0,1,9315181000006118#,Severe uncontrolled persistent asthma,^ESCTSE931518,NA,3424789015,NA,31
+10675751000119107#,Severe uncontrolled persistent asthma,3424789015#,1,0,1,9315181000006118#,Severe uncontrolled persistent asthma,^ESCTSE931518,NA,3424789015,NA,31
+10675391000119101#,Severe controlled persistent asthma (disorder),3424790012#,1,0,1,9315071000006117#,Severe controlled persistent asthma,^ESCTSE931507,NA,3424791011,NA,31
+10675391000119101#,Severe controlled persistent asthma,3424791011#,1,0,1,9315071000006117#,Severe controlled persistent asthma,^ESCTSE931507,NA,3424791011,NA,31
+16584951000119101#,Oral steroid-dependent asthma (disorder),3427553015#,1,0,1,9934311000006111#,Oral steroid-dependent asthma,^ESCTOR993431,NA,3427554014,NA,31
+16584951000119101#,Oral steroid-dependent asthma,3427554014#,1,0,1,9934311000006111#,Oral steroid-dependent asthma,^ESCTOR993431,NA,3427554014,NA,31
+733858005#,Acute severe refractory exacerbation of asthma (disorder),3474967014#,1,0,1,7961291000006112#,Status asthmaticus,^ESCTST796129,NA,3474970013,NA,31
+733858005#,Acute severe refractory exacerbation of asthma (disorder),3474967014#,1,0,1,7961281000006114#,Acute severe asthma,^ESCTAC796128,NA,3474969012,NA,31
+733858005#,Acute severe refractory exacerbation of asthma (disorder),3474967014#,1,0,1,7961271000006111#,Acute severe refractory exacerbation of asthma,^ESCTAC796127,NA,3474968016,NA,31
+733858005#,Acute severe refractory exacerbation of asthma,3474968016#,1,0,1,7961291000006112#,Status asthmaticus,^ESCTST796129,NA,3474970013,NA,31
+733858005#,Acute severe refractory exacerbation of asthma,3474968016#,1,0,1,7961281000006114#,Acute severe asthma,^ESCTAC796128,NA,3474969012,NA,31
+733858005#,Acute severe refractory exacerbation of asthma,3474968016#,1,0,1,7961271000006111#,Acute severe refractory exacerbation of asthma,^ESCTAC796127,NA,3474968016,NA,31
+733858005#,Acute severe asthma,3474969012#,1,0,1,7961291000006112#,Status asthmaticus,^ESCTST796129,NA,3474970013,NA,31
+733858005#,Acute severe asthma,3474969012#,1,0,1,7961281000006114#,Acute severe asthma,^ESCTAC796128,NA,3474969012,NA,31
+733858005#,Acute severe asthma,3474969012#,1,0,1,7961271000006111#,Acute severe refractory exacerbation of asthma,^ESCTAC796127,NA,3474968016,NA,31
+733858005#,Status asthmaticus,3474970013#,1,0,1,7961291000006112#,Status asthmaticus,^ESCTST796129,NA,3474970013,NA,31
+733858005#,Status asthmaticus,3474970013#,1,0,1,7961281000006114#,Acute severe asthma,^ESCTAC796128,NA,3474969012,NA,31
+733858005#,Status asthmaticus,3474970013#,1,0,1,7961271000006111#,Acute severe refractory exacerbation of asthma,^ESCTAC796127,NA,3474968016,NA,31
+734346005#,Asthma monitoring using asthma symptom diary (regime/therapy),3505217016#,1,0,1,3505218014#,Use of asthma symptom diary,^ESCT1164317,NA,3505218014,NA,31
+734346005#,Asthma monitoring using asthma symptom diary (regime/therapy),3505217016#,1,0,1,3505219018#,Asthma monitoring using asthma symptom diary,^ESCT1164318,NA,3505219018,NA,31
+734346005#,Use of asthma symptom diary,3505218014#,1,0,1,3505218014#,Use of asthma symptom diary,^ESCT1164317,NA,3505218014,NA,31
+734346005#,Use of asthma symptom diary,3505218014#,1,0,1,3505219018#,Asthma monitoring using asthma symptom diary,^ESCT1164318,NA,3505219018,NA,31
+734346005#,Asthma monitoring using asthma symptom diary,3505219018#,1,0,1,3505218014#,Use of asthma symptom diary,^ESCT1164317,NA,3505218014,NA,31
+734346005#,Asthma monitoring using asthma symptom diary,3505219018#,1,0,1,3505219018#,Asthma monitoring using asthma symptom diary,^ESCT1164318,NA,3505219018,NA,31
+72301000119103#,Asthma in pregnancy (disorder),3514314014#,1,0,1,3514315010#,Asthma in pregnancy,^ESCT1170560,NA,3514315010,NA,31
+72301000119103#,Asthma in pregnancy,3514315010#,1,0,1,3514315010#,Asthma in pregnancy,^ESCT1170560,NA,3514315010,NA,31
+735587000#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma (disorder),3514924010#,1,0,1,3514925011#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,^ESCT1165691,NA,3514925011,NA,31
+735587000#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma (disorder),3514924010#,1,0,1,3514926012#,Allergic asthma with status asthmaticus,^ESCT1165692,NA,3514926012,NA,31
+735587000#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,3514925011#,1,0,1,3514925011#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,^ESCT1165691,NA,3514925011,NA,31
+735587000#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,3514925011#,1,0,1,3514926012#,Allergic asthma with status asthmaticus,^ESCT1165692,NA,3514926012,NA,31
+735587000#,Allergic asthma with status asthmaticus,3514926012#,1,0,1,3514925011#,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,^ESCT1165691,NA,3514925011,NA,31
+735587000#,Allergic asthma with status asthmaticus,3514926012#,1,0,1,3514926012#,Allergic asthma with status asthmaticus,^ESCT1165692,NA,3514926012,NA,31
+735588005#,Uncomplicated allergic asthma (disorder),3514927015#,1,0,1,3514928013#,Uncomplicated allergic asthma,^ESCT1165693,NA,3514928013,NA,31
+735588005#,Uncomplicated allergic asthma,3514928013#,1,0,1,3514928013#,Uncomplicated allergic asthma,^ESCT1165693,NA,3514928013,NA,31
+735589002#,Uncomplicated non-allergic asthma (disorder),3514929017#,1,0,1,3514930010#,Uncomplicated non-allergic asthma,^ESCT1165694,NA,3514930010,NA,31
+735589002#,Uncomplicated non-allergic asthma,3514930010#,1,0,1,3514930010#,Uncomplicated non-allergic asthma,^ESCT1165694,NA,3514930010,NA,31
+736056000#,Asthma clinical management plan,3516216012#,1,0,1,2474332015#,Asthma clinical management plan,8CR0,8CR0.00,3516216012,NA,32
+736056000#,Asthma clinical management plan (record artifact),3516219017#,1,0,1,2474332015#,Asthma clinical management plan,8CR0,8CR0.00,3516216012,NA,32
+762521001#,Exacerbation of allergic asthma,3637387011#,1,0,1,3637387011#,Exacerbation of allergic asthma,^ESCT1169266,NA,3637387011,NA,31
+762521001#,Exacerbation of allergic asthma (disorder),3637388018#,1,0,1,3637387011#,Exacerbation of allergic asthma,^ESCT1169266,NA,3637387011,NA,31
+763077003#,ACQ (Asthma Control Questionnaire) score,3637796013#,1,0,1,11999511000006117#,ACQ (Asthma Control Questionnaire) score,^ESCT1199951,NA,3637796013,NA,3
+763077003#,ACQ (Asthma Control Questionnaire) score,3637796013#,1,0,1,1139011000000112#,Asthma Control Questionnaire score,38DT,38DT.00,3637798014,NA,3
+763077003#,Asthma Control Questionnaire score (observable entity),3637797016#,1,0,1,11999511000006117#,ACQ (Asthma Control Questionnaire) score,^ESCT1199951,NA,3637796013,NA,3
+763077003#,Asthma Control Questionnaire score (observable entity),3637797016#,1,0,1,1139011000000112#,Asthma Control Questionnaire score,38DT,38DT.00,3637798014,NA,3
+763077003#,Asthma Control Questionnaire score,3637798014#,1,0,1,11999511000006117#,ACQ (Asthma Control Questionnaire) score,^ESCT1199951,NA,3637796013,NA,3
+763077003#,Asthma Control Questionnaire score,3637798014#,1,0,1,1139011000000112#,Asthma Control Questionnaire score,38DT,38DT.00,3637798014,NA,3
+763078008#,Assessment using ACQ (Asthma Control Questionnaire),3637799018#,1,0,1,11999521000006113#,Assessment using Asthma Control Questionnaire,^ESCT1199952,NA,3637801015,NA,31
+763078008#,Assessment using ACQ (Asthma Control Questionnaire),3637799018#,1,0,1,11999531000006111#,Assessment using ACQ (Asthma Control Questionnaire),^ESCT1199953,NA,3637799018,NA,31
+763078008#,Assessment using Asthma Control Questionnaire (procedure),3637800019#,1,0,1,11999521000006113#,Assessment using Asthma Control Questionnaire,^ESCT1199952,NA,3637801015,NA,31
+763078008#,Assessment using Asthma Control Questionnaire (procedure),3637800019#,1,0,1,11999531000006111#,Assessment using ACQ (Asthma Control Questionnaire),^ESCT1199953,NA,3637799018,NA,31
+763078008#,Assessment using Asthma Control Questionnaire,3637801015#,1,0,1,11999521000006113#,Assessment using Asthma Control Questionnaire,^ESCT1199952,NA,3637801015,NA,31
+763078008#,Assessment using Asthma Control Questionnaire,3637801015#,1,0,1,11999531000006111#,Assessment using ACQ (Asthma Control Questionnaire),^ESCT1199953,NA,3637799018,NA,31
+763221007#,Asthma monitoring refused (situation),3638223013#,1,0,1,285728016#,Asthma monitoring refused,9OJ2,9OJ2.00,3638224019,NA,37
+763221007#,Asthma monitoring refused,3638224019#,1,0,1,285728016#,Asthma monitoring refused,9OJ2,9OJ2.00,3638224019,NA,37
+763694000#,Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire),3643310015#,1,0,1,12008761000006111#,Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire),^ESCT1200876,NA,3643310015,NA,31
+763694000#,Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire),3643310015#,1,0,1,12008771000006116#,Assessment using Mini Asthma Quality of Life Questionnaire,^ESCT1200877,NA,3643311016,NA,31
+763694000#,Assessment using Mini Asthma Quality of Life Questionnaire,3643311016#,1,0,1,12008761000006111#,Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire),^ESCT1200876,NA,3643310015,NA,31
+763694000#,Assessment using Mini Asthma Quality of Life Questionnaire,3643311016#,1,0,1,12008771000006116#,Assessment using Mini Asthma Quality of Life Questionnaire,^ESCT1200877,NA,3643311016,NA,31
+763694000#,Assessment using Mini Asthma Quality of Life Questionnaire (procedure),3643312011#,1,0,1,12008761000006111#,Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire),^ESCT1200876,NA,3643310015,NA,31
+763694000#,Assessment using Mini Asthma Quality of Life Questionnaire (procedure),3643312011#,1,0,1,12008771000006116#,Assessment using Mini Asthma Quality of Life Questionnaire,^ESCT1200877,NA,3643311016,NA,31
+763695004#,Mini Asthma Quality of Life Questionnaire score,3643313018#,1,0,1,12008791000006115#,Mini Asthma Quality of Life Questionnaire score,^ESCT1200879,NA,3643313018,NA,3
+763695004#,Mini Asthma Quality of Life Questionnaire score,3643313018#,1,0,1,1139051000000111#,Mini AQLQ (Asthma Quality of Life Questionnaire) score,38DV,38DV.00,3643315013,NA,3
+763695004#,Mini Asthma Quality of Life Questionnaire score (observable entity),3643314012#,1,0,1,12008791000006115#,Mini Asthma Quality of Life Questionnaire score,^ESCT1200879,NA,3643313018,NA,3
+763695004#,Mini Asthma Quality of Life Questionnaire score (observable entity),3643314012#,1,0,1,1139051000000111#,Mini AQLQ (Asthma Quality of Life Questionnaire) score,38DV,38DV.00,3643315013,NA,3
+763695004#,Mini AQLQ (Asthma Quality of Life Questionnaire) score,3643315013#,1,0,1,12008791000006115#,Mini Asthma Quality of Life Questionnaire score,^ESCT1200879,NA,3643313018,NA,3
+763695004#,Mini AQLQ (Asthma Quality of Life Questionnaire) score,3643315013#,1,0,1,1139051000000111#,Mini AQLQ (Asthma Quality of Life Questionnaire) score,38DV,38DV.00,3643315013,NA,3
+782513000#,Acute severe exacerbation of allergic asthma (disorder),3754323014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+782513000#,Acute severe exacerbation of allergic asthma,3754324015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+703954005#,"Asthma caused by house dust mite, Dermatophagoides farinae",3754345010#,1,0,1,7584561000006113#,Allergic asthma caused by Dermatophagoides farinae,^ESCTAL758456,NA,3291084014,NA,31
+703954005#,"Asthma caused by house dust mite, Dermatophagoides farinae",3754345010#,1,0,1,7584551000006111#,Dermatophagoides farinae allergic asthma,^ESCTDE758455,NA,3011475012,NA,31
+703954005#,"Asthma caused by house dust mite, Dermatophagoides farinae",3754345010#,1,0,1,7584541000006114#,Allergic asthma due to Dermatophagoides farinae,^ESCTAL758454,NA,3013154018,NA,31
+703953004#,"Asthma caused by house dust mite, Dermatophagoides pteronyssinus",3754346011#,1,0,1,7584511000006110#,Allergic asthma due to Dermatophagoides pteronyssinus,^ESCTAL758451,NA,3013138016,NA,31
+703953004#,"Asthma caused by house dust mite, Dermatophagoides pteronyssinus",3754346011#,1,0,1,7584531000006116#,Allergic asthma caused by Dermatophagoides pteronyssinus,^ESCTAL758453,NA,3295225014,NA,31
+703953004#,"Asthma caused by house dust mite, Dermatophagoides pteronyssinus",3754346011#,1,0,1,7584521000006119#,Dermatophagoides pteronyssinus allergic asthma,^ESCTDE758452,NA,3010574019,NA,31
+782520007#,Exacerbation of allergic asthma due to infection (disorder),3754349016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+782520007#,Exacerbation of allergic asthma due to infection,3754350016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Asthma caused by wood dust (disorder),3754354013#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,94731013#,Wood asthma,H35y7,H35y700,497732010,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425341000006113#,Wood asthma,^ESCTWO342534,NA,94731013,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425351000006110#,Wood-workers' asthma,^ESCTWO342535,NA,94732018,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425371000006117#,Wood dust asthma,^ESCTWO342537,NA,94734017,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425391000006116#,Wood dust pneumonitis,^ESCTWO342539,NA,94736015,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425401000006119#,Wood pulp workers' lung,^ESCTWO342540,NA,497732010,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425381000006119#,Saw dust asthma,^ESCTSA342538,NA,94735016,NA,32
+56968009#,Asthma caused by wood dust,3754355014#,1,0,1,3425361000006112#,Wood-workers' lung,^ESCTWO342536,NA,94733011,NA,32
+782559003#,Asthma never causes night symptoms,3754550015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+782559003#,Asthma never causes night symptoms (finding),3754551016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+786836003#,Near fatal asthma (disorder),3772563014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+786836003#,Near fatal asthma,3772564015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+786836003#,NFA - near fatal asthma,3772566018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+10674991000119104#,Intermittent allergic asthma,3777826016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+10674991000119104#,Intermittent allergic asthma (disorder),3777827013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+829976001#,Thunderstorm asthma (disorder),3880166013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+829976001#,Thunderstorm asthma,3880167016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+829976001#,Asthma exacerbation due to thunderstorm,3880168014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+829976001#,Thunderstorm-induced asthma,3880419018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+866203004#,Consultation for asthma,3957720019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+866203004#,Consultation for asthma (procedure),3957721015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+401000119107#,Asthma with irreversible airway obstruction (disorder),3131000119110#,1,0,1,7965491000006114#,Asthma with irreversible airway obstruction,^ESCTAS796549,NA,2967325013,NA,31
+1751000119100#,Acute exacerbation of chronic obstructive airways disease with asthma (disorder),13931000119111#,1,0,1,7970171000006119#,Acute exacerbation of chronic obstructive airways disease with asthma,^ESCTAC797017,NA,2967380018,NA,31
+1761000119103#,Chronic obstructive airway disease with asthma (disorder),14011000119116#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

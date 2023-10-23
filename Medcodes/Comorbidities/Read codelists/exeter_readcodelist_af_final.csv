@@ -1,0 +1,32 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+G5730#,Atrial fibrillation,1,1,2,82343012#,Atrial fibrillation,G5730,G573000,49436004,82343012,NA,32,G573000#
+G573.#,Atrial fibrillation and flutter,1,1,2,300130013#,Atrial fibrillation and flutter,G573,G573.00,195080001,300130013,NA,32,G573.00#
+G573z#,Atrial fibrillation and flutter NOS,1,1,2,300132017#,Atrial fibrillation and flutter NOS,G573z,G573z00,195080001,300130013,NA,32,G573z00#
+G5731#,Atrial flutter,1,1,2,9988012#,Atrial flutter,G5731,G573100,5370000,9988012,NA,32,G573100#
+14AN.#,H/O: atrial fibrillation,1,0,1,456154015#,H/O: atrial fibrillation,14AN,14AN.00,312442005,456154015,NA,32,14AN.00#
+14AR.#,History of atrial flutter,1,0,1,2692063011#,History of atrial flutter,14AR,14AR.00,428076002,2692063011,NA,32,14AR.00#
+662S.#,Atrial fibrillation monitoring,1,0,1,216183015#,Atrial fibrillation monitoring,662S,662S.00,134377004,216183015,NA,1,662S.00#
+6A9..#,Atrial fibrillation annual review,1,0,1,406861000000119#,Atrial fibrillation annual review,6A9,6A9..00,248411000000105,406861000000119,NA,1,6A9..00#
+9Os..#,Atrial fibrillation monitoring administration,1,0,1,406251000000118#,Atrial fibrillation monitoring administration,9Os,9Os..00,713801000000102,1565041000000112,NA,37,9Os..00#
+9Os0.#,Atrial fibrillation monitoring first letter,1,0,1,408081000000116#,Atrial fibrillation monitoring first letter,9Os0,9Os0.00,717221000000101,1569761000000112,NA,37,9Os0.00#
+9Os1.#,Atrial fibrillation monitoring second letter,1,0,1,408101000000110#,Atrial fibrillation monitoring second letter,9Os1,9Os1.00,716981000000106,1569531000000111,NA,37,9Os1.00#
+9Os2.#,Atrial fibrillation monitoring third letter,1,0,1,408121000000118#,Atrial fibrillation monitoring third letter,9Os2,9Os2.00,716181000000109,1568741000000115,NA,37,9Os2.00#
+9Os3.#,Atrial fibrillation monitoring verbal invite,1,0,1,408141000000113#,Atrial fibrillation monitoring verbal invite,9Os3,9Os3.00,717011000000100,1570401000000119,NA,37,9Os3.00#
+9Os4.#,Atrial fibrillation monitoring telephone invite,1,0,1,408241000000115#,Atrial fibrillation monitoring telephone invite,9Os4,9Os4.00,716721000000107,1570381000000119,NA,37,9Os4.00#
+G5732#,Paroxysmal atrial fibrillation,1,0,1,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,282825002,421235014,NA,32,G573200#
+G5734#,Permanent atrial fibrillation,1,0,1,636721000000112#,Permanent atrial fibrillation,G5734,G573400,440028005,2793259018,NA,32,G573400#
+G5735#,Persistent atrial fibrillation,1,0,1,636701000000115#,Persistent atrial fibrillation,G5735,G573500,440059007,2793372019,NA,32,G573500#
+3272.#,ECG: atrial fibrillation,1,0,1,256478018#,ECG: atrial fibrillation,3272,3272.00,164889003,256478018,NA,3,3272.00#
+G5733#,Non-rheumatic atrial fibrillation,1,0,1,350465014#,Non-rheumatic atrial fibrillation,G5733,G573300,233911009,350465014,NA,32,G573300#
+3273.#,ECG: atrial flutter,1,0,1,256479014#,ECG: atrial flutter,3273,3273.00,164890007,256479014,NA,3,3273.00#
+X202R#,Lone atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X202R#
+X202S#,Non-rheumatic atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X202S#
+Xa2E8#,Paroxysmal atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa2E8#
+Xa7nI#,Controlled atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7nI#
+XaEga#,Rapid atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEga#
+XaOfa#,Persistent atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOfa#
+XaOft#,Permanent atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOft#
+XaaUH#,Paroxysmal atrial flutter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaaUH#
+XaeUP#,Chronic atrial fibrillation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaeUP#
+XaeUQ#,Typical atrial flutter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaeUQ#
+XaeUR#,Atypical atrial flutter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaeUR#

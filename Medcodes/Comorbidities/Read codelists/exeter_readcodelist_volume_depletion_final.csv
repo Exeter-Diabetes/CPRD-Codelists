@@ -1,0 +1,27 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+C365.#,Volume depletion,47801018#,Volume depletion,C365,C365.00,28560003,47801018,NA,32,C365.00#
+C3650#,Isonatraemic dehydration,881801000006112#,Dehydration,C3650-99,C365099,190894003,881801000006112,NA,32,C365099#
+C3650#,Isonatraemic dehydration,293511017#,Isonatraemic dehydration,C3650,C365000,190894003,293511017,NA,32,C365000#
+C3651#,Hypovolaemia,483912015#,Hypovolaemia,C3651,C365100,28560003,483912015,NA,32,C365100#
+C3651#,Hypovolaemia,1225954019#,Sodium and water depletion,C3651-1,C365111,28560003,1225954019,NA,32,C365111#
+C3652#,Dehydration NEC,932651000006119#,Dehydration,C3652-99,C365299,642571000000104,932651000006119,NA,32,C365299#
+C3652#,Dehydration NEC,293514013#,Dehydration NEC,C3652,C365200,34095006,56942018,NA,32,C365200#
+C3653#,Dehydration,56942018#,Dehydration,C3653,C365300,34095006,56942018,NA,32,C365300#
+C365z#,Volume depletion NOS,293515014#,Volume depletion NOS,C365z,C365z00,28560003,47800017,NA,32,C365z00#
+R0554#,[D]Hypovolaemic shock,317355015#,Hypovolaemic shock,R0554,R055400,39419009,492070011,NA,32,R055400#
+SP202#,Postoperative hypovolaemic shock,325122017#,Postoperative hypovolaemic shock,SP202,SP20200,213258001,325122017,NA,32,SP20200#
+2225.#,O/E - dehydrated,253563016#,O/E - dehydrated,2225,2225.00,162685008,253563016,NA,27,2225.00#
+2587.#,O/E - abdo. skin - dehydrated,402477016#,O/E - abdo. skin - dehydrated,2587-1,2587.11,268940004,2669746010,NA,27,2587.11#
+2587.#,O/E - abdo. skin - dehydrated,411934017#,O/E - abdominal skin dry,2587-2,2587.12,275958007,411934017,NA,27,2587.12#
+2587.#,O/E - abdo. skin - dehydrated,402476013#,On examination - abdominal skin dry - dehydration,2587,2587.00,268940004,2669746010,NA,27,2587.00#
+16P..#,Thirst,98510016#,Thirst,16P,16P..00,59299002,98510016,NA,27,16P..00#
+164..#,Thirst symptom,372218010#,Thirst symptom,164-1,164..11,249475006,372218010,NA,27,164..11#
+164..#,Thirst symptom,397868011#,Fluid intake symptom,164,164..00,267025000,397868011,NA,27,164..00#
+1644.#,Excessive thirst,29043010#,Excessive thirst,1644,1644.00,17173007,29043010,NA,27,1644.00#
+1644.#,Excessive thirst,29042017#,Polydipsia,1644-1,1644.11,17173007,29042017,NA,27,1644.11#
+SN43.#,Effects of thirst,324688010#,Effects of thirst,SN43,SN43.00,212970002,324688010,NA,32,SN43.00#
+SN43z#,Effects of thirst NOS,324691010#,Effects of thirst NOS,SN43z,SN43z00,212970002,324688010,NA,32,SN43z00#
+R0350#,[D]Excessive thirst,317253012#,[D]Excessive thirst,R0350,R035000,17173007,29043010,NA,27,R035000#
+G870.#,Postural hypotension,47965014#,Orthostatic hypotension,G870,G870.00,28651003,47965014,NA,32,G870.00#
+G870.#,Postural hypotension,47966010#,Postural hypotension,G870-1,G870.11,28651003,47966010,NA,32,G870.11#
+2468.#,O/E - BP reading:postural drop,254074011#,O/E - BP reading:postural drop,2468,2468.00,163029008,254074011,NA,2,2468.00#

@@ -1,0 +1,337 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+11399002#,Pulmonary hypertensive arterial disease,19722017#,1,1,2,2681651000006116#,Pulmonary hypertensive arterial disease,^ESCTPU268165,NA,19722017,NA,32
+11399002#,Pulmonary hypertensive arterial disease,19722017#,1,1,2,43850011#,Pulmonary arterial hypertension,G410,G410.00,2968228010,NA,32
+11399002#,Pulmonary hypertensive arterial disease,19722017#,1,1,2,2681661000006119#,Hypertensive pulmonary arterial disease,^ESCTHY268166,NA,19723010,NA,32
+11399002#,Hypertensive pulmonary arterial disease,19723010#,1,1,2,2681651000006116#,Pulmonary hypertensive arterial disease,^ESCTPU268165,NA,19722017,NA,32
+11399002#,Hypertensive pulmonary arterial disease,19723010#,1,1,2,43850011#,Pulmonary arterial hypertension,G410,G410.00,2968228010,NA,32
+11399002#,Hypertensive pulmonary arterial disease,19723010#,1,1,2,2681661000006119#,Hypertensive pulmonary arterial disease,^ESCTHY268166,NA,19723010,NA,32
+11399002#,Pulmonary hypertensive arterial disease (disorder),654596019#,1,1,2,2681651000006116#,Pulmonary hypertensive arterial disease,^ESCTPU268165,NA,19722017,NA,32
+11399002#,Pulmonary hypertensive arterial disease (disorder),654596019#,1,1,2,43850011#,Pulmonary arterial hypertension,G410,G410.00,2968228010,NA,32
+11399002#,Pulmonary hypertensive arterial disease (disorder),654596019#,1,1,2,2681661000006119#,Hypertensive pulmonary arterial disease,^ESCTHY268166,NA,19723010,NA,32
+11399002#,Pulmonary arterial hypertension,2968228010#,1,1,2,2681651000006116#,Pulmonary hypertensive arterial disease,^ESCTPU268165,NA,19722017,NA,32
+11399002#,Pulmonary arterial hypertension,2968228010#,1,1,2,43850011#,Pulmonary arterial hypertension,G410,G410.00,2968228010,NA,32
+11399002#,Pulmonary arterial hypertension,2968228010#,1,1,2,2681661000006119#,Hypertensive pulmonary arterial disease,^ESCTHY268166,NA,19723010,NA,32
+88223008#,Secondary pulmonary hypertension,146259010#,1,1,2,146259010#,Secondary pulmonary hypertension,G41y0,G41y000,146259010,NA,32
+88223008#,Secondary pulmonary hypertension (disorder),830862017#,1,1,2,146259010#,Secondary pulmonary hypertension,G41y0,G41y000,146259010,NA,32
+233947005#,Thromboembolic pulmonary hypertension,350517010#,1,1,2,350517010#,Thromboembolic pulmonary hypertension,G41y1,G41y100,350517010,NA,32
+233947005#,Thromboembolic pulmonary hypertension,350517010#,1,1,2,5057801000006113#,Chronic thromboembolic pulmonary hypertension,^ESCTCH505780,NA,2968345015,NA,32
+233947005#,Thromboembolic pulmonary hypertension (disorder),622202014#,1,1,2,350517010#,Thromboembolic pulmonary hypertension,G41y1,G41y100,350517010,NA,32
+233947005#,Thromboembolic pulmonary hypertension (disorder),622202014#,1,1,2,5057801000006113#,Chronic thromboembolic pulmonary hypertension,^ESCTCH505780,NA,2968345015,NA,32
+233947005#,Chronic thromboembolic pulmonary hypertension,2968345015#,1,1,2,350517010#,Thromboembolic pulmonary hypertension,G41y1,G41y100,350517010,NA,32
+233947005#,Chronic thromboembolic pulmonary hypertension,2968345015#,1,1,2,5057801000006113#,Chronic thromboembolic pulmonary hypertension,^ESCTCH505780,NA,2968345015,NA,32
+204311009#,Eisenmenger's complex,313298019#,1,1,2,137888010#,Eisenmenger's complex,P543,P543.00,313298019,NA,32
+204311009#,Eisenmenger's complex,313298019#,1,1,2,4824421000006117#,Eisenmenger complex,^ESCTEI482442,NA,2881523015,NA,32
+204311009#,Eisenmenger's complex (disorder),589520010#,1,1,2,137888010#,Eisenmenger's complex,P543,P543.00,313298019,NA,32
+204311009#,Eisenmenger's complex (disorder),589520010#,1,1,2,4824421000006117#,Eisenmenger complex,^ESCTEI482442,NA,2881523015,NA,32
+204311009#,Eisenmenger complex,2881523015#,1,1,2,137888010#,Eisenmenger's complex,P543,P543.00,313298019,NA,32
+204311009#,Eisenmenger complex,2881523015#,1,1,2,4824421000006117#,Eisenmenger complex,^ESCTEI482442,NA,2881523015,NA,32
+70995007#,Pulmonary hypertension,117919017#,1,1,2,3654631000006113#,Pulmonary hypertension,^ESCTPU365463,NA,117919017,NA,32
+70995007#,Pulmonary hypertension,117919017#,1,1,2,3654641000006115#,PHT - Pulmonary hypertension,^ESCTPH365464,NA,1233340012,NA,31
+70995007#,"Pulmonary hypertension, NOS",117920011#,1,1,2,3654631000006113#,Pulmonary hypertension,^ESCTPU365463,NA,117919017,NA,32
+70995007#,"Pulmonary hypertension, NOS",117920011#,1,1,2,3654641000006115#,PHT - Pulmonary hypertension,^ESCTPH365464,NA,1233340012,NA,31
+70995007#,Pulmonary hypertension (disorder),811111019#,1,1,2,3654631000006113#,Pulmonary hypertension,^ESCTPU365463,NA,117919017,NA,32
+70995007#,Pulmonary hypertension (disorder),811111019#,1,1,2,3654641000006115#,PHT - Pulmonary hypertension,^ESCTPH365464,NA,1233340012,NA,31
+70995007#,PHT - Pulmonary hypertension,1233340012#,1,1,2,3654631000006113#,Pulmonary hypertension,^ESCTPU365463,NA,117919017,NA,32
+70995007#,PHT - Pulmonary hypertension,1233340012#,1,1,2,3654641000006115#,PHT - Pulmonary hypertension,^ESCTPH365464,NA,1233340012,NA,31
+233941006#,Solitary pulmonary hypertension,350510012#,1,1,2,5057711000006119#,Solitary pulmonary hypertension,^ESCTSO505771,NA,350510012,NA,31
+233941006#,Solitary pulmonary hypertension (disorder),622195010#,1,1,2,5057711000006119#,Solitary pulmonary hypertension,^ESCTSO505771,NA,350510012,NA,31
+233942004#,Small vessel pulmonary hypertension,350511011#,1,1,2,5057721000006110#,Small vessel pulmonary hypertension,^ESCTSM505772,NA,350511011,NA,31
+233942004#,Small vessel pulmonary hypertension (disorder),622196011#,1,1,2,5057721000006110#,Small vessel pulmonary hypertension,^ESCTSM505772,NA,350511011,NA,31
+233943009#,Sporadic primary pulmonary hypertension,350512016#,1,1,2,5057731000006113#,Sporadic primary pulmonary hypertension,^ESCTSP505773,NA,350512016,NA,31
+233943009#,Sporadic primary pulmonary hypertension (disorder),622197019#,1,1,2,5057731000006113#,Sporadic primary pulmonary hypertension,^ESCTSP505773,NA,350512016,NA,31
+233944003#,Familial primary pulmonary hypertension,350513014#,1,1,2,5057741000006115#,Familial primary pulmonary hypertension,^ESCTFA505774,NA,350513014,NA,31
+233944003#,Familial primary pulmonary hypertension (disorder),622198012#,1,1,2,5057741000006115#,Familial primary pulmonary hypertension,^ESCTFA505774,NA,350513014,NA,31
+233945002#,Drug-induced pulmonary hypertension,350514015#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Drug-induced pulmonary hypertension,350514015#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Drug-induced pulmonary hypertension,350514015#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Drug-induced pulmonary hypertension,350514015#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233945002#,Drug-induced pulmonary hypertension (disorder),622199016#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Drug-induced pulmonary hypertension (disorder),622199016#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Drug-induced pulmonary hypertension (disorder),622199016#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Drug-induced pulmonary hypertension (disorder),622199016#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233945002#,Pulmonary arterial hypertension induced by drug,2968240010#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Pulmonary arterial hypertension induced by drug,2968240010#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Pulmonary arterial hypertension induced by drug,2968240010#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Pulmonary arterial hypertension induced by drug,2968240010#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233945002#,Pulmonary hypertension caused by drug (disorder),3290281018#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Pulmonary hypertension caused by drug (disorder),3290281018#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Pulmonary hypertension caused by drug (disorder),3290281018#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Pulmonary hypertension caused by drug (disorder),3290281018#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233945002#,Pulmonary arterial hypertension caused by drug,3290372010#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Pulmonary arterial hypertension caused by drug,3290372010#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Pulmonary arterial hypertension caused by drug,3290372010#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Pulmonary arterial hypertension caused by drug,3290372010#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233945002#,Pulmonary hypertension caused by drug,3301708016#,1,1,2,5057771000006111#,Pulmonary arterial hypertension caused by drug,^ESCTPU505777,NA,3290372010,NA,31
+233945002#,Pulmonary hypertension caused by drug,3301708016#,1,1,2,5057751000006118#,Pulmonary arterial hypertension induced by drug,^ESCTPU505775,NA,2968240010,NA,31
+233945002#,Pulmonary hypertension caused by drug,3301708016#,1,1,2,5057761000006116#,Drug-induced pulmonary hypertension,^ESCTDR505776,NA,350514015,NA,31
+233945002#,Pulmonary hypertension caused by drug,3301708016#,1,1,2,5057781000006114#,Pulmonary hypertension caused by drug,^ESCTPU505778,NA,3301708016,NA,31
+233946001#,Large vessel pulmonary hypertension,350516018#,1,1,2,5057791000006112#,Large vessel pulmonary hypertension,^ESCTLA505779,NA,350516018,NA,31
+233946001#,Large vessel pulmonary hypertension (disorder),622201019#,1,1,2,5057791000006112#,Large vessel pulmonary hypertension,^ESCTLA505779,NA,350516018,NA,31
+233948000#,Post-arteritic pulmonary hypertension,350518017#,1,1,2,5057821000006115#,Pulmonary hypertension in vasculitis,^ESCTPU505782,NA,2968292018,NA,31
+233948000#,Post-arteritic pulmonary hypertension,350518017#,1,1,2,5057831000006117#,Post-arteritic pulmonary hypertension,^ESCTPO505783,NA,350518017,NA,31
+233948000#,Post-arteritic pulmonary hypertension (disorder),622203016#,1,1,2,5057821000006115#,Pulmonary hypertension in vasculitis,^ESCTPU505782,NA,2968292018,NA,31
+233948000#,Post-arteritic pulmonary hypertension (disorder),622203016#,1,1,2,5057831000006117#,Post-arteritic pulmonary hypertension,^ESCTPO505783,NA,350518017,NA,31
+233948000#,Pulmonary hypertension in vasculitis,2968292018#,1,1,2,5057821000006115#,Pulmonary hypertension in vasculitis,^ESCTPU505782,NA,2968292018,NA,31
+233948000#,Pulmonary hypertension in vasculitis,2968292018#,1,1,2,5057831000006117#,Post-arteritic pulmonary hypertension,^ESCTPO505783,NA,350518017,NA,31
+89420002#,Pulmonary veno-occlusive disease,148252013#,1,1,2,3953331000006118#,Pulmonary veno-occlusive disease,^ESCTPU395333,NA,148252013,NA,31
+89420002#,Pulmonary veno-occlusive disease (disorder),832310019#,1,1,2,3953331000006118#,Pulmonary veno-occlusive disease,^ESCTPU395333,NA,148252013,NA,31
+233949008#,Pulmonary capillary haemangiomatosis,350519013#,1,1,2,5057841000006110#,Pulmonary capillary haemangiomatosis,^ESCTPU505784,NA,350519013,NA,31
+233949008#,Pulmonary capillary haemangiomatosis,350519013#,1,1,2,5057851000006112#,Pulmonary capillary hemangiomatosis,^ESCTPU505785,NA,350520019,NA,31
+233949008#,Pulmonary capillary hemangiomatosis,350520019#,1,1,2,5057841000006110#,Pulmonary capillary haemangiomatosis,^ESCTPU505784,NA,350519013,NA,31
+233949008#,Pulmonary capillary hemangiomatosis,350520019#,1,1,2,5057851000006112#,Pulmonary capillary hemangiomatosis,^ESCTPU505785,NA,350520019,NA,31
+233949008#,Pulmonary capillary hemangiomatosis (disorder),622204010#,1,1,2,5057841000006110#,Pulmonary capillary haemangiomatosis,^ESCTPU505784,NA,350519013,NA,31
+233949008#,Pulmonary capillary hemangiomatosis (disorder),622204010#,1,1,2,5057851000006112#,Pulmonary capillary hemangiomatosis,^ESCTPU505785,NA,350520019,NA,31
+233950008#,Pulmonary hypertension associated with chronic underventilation,350521015#,1,1,2,5057861000006114#,Pulmonary hypertension associated with chronic underventilation,^ESCTPU505786,NA,350521015,NA,31
+233950008#,Pulmonary hypertension associated with chronic underventilation (disorder),622205011#,1,1,2,5057861000006114#,Pulmonary hypertension associated with chronic underventilation,^ESCTPU505786,NA,350521015,NA,31
+276792008#,Pulmonary hypertension with extreme obesity,413079010#,1,1,2,5590571000006111#,Pulmonary hypertension with extreme obesity,^ESCTPU559057,NA,413079010,NA,31
+276792008#,Pulmonary hypertension with extreme obesity (disorder),669750012#,1,1,2,5590571000006111#,Pulmonary hypertension with extreme obesity,^ESCTPU559057,NA,413079010,NA,31
+445928005#,Eisenmenger's syndrome (disorder),2880172014#,1,1,2,7316011000006113#,Eisenmenger's syndrome,^ESCTEI731601,NA,2882044010,NA,31
+445928005#,Eisenmenger's syndrome (disorder),2880172014#,1,1,2,7316021000006117#,Eisenmenger syndrome,^ESCTEI731602,NA,2882043016,NA,31
+445928005#,Eisenmenger syndrome,2882043016#,1,1,2,7316011000006113#,Eisenmenger's syndrome,^ESCTEI731601,NA,2882044010,NA,31
+445928005#,Eisenmenger syndrome,2882043016#,1,1,2,7316021000006117#,Eisenmenger syndrome,^ESCTEI731602,NA,2882043016,NA,31
+445928005#,Eisenmenger's syndrome,2882044010#,1,1,2,7316011000006113#,Eisenmenger's syndrome,^ESCTEI731601,NA,2882044010,NA,31
+445928005#,Eisenmenger's syndrome,2882044010#,1,1,2,7316021000006117#,Eisenmenger syndrome,^ESCTEI731602,NA,2882043016,NA,31
+276794009#,Facultative pulmonary hypertension with shunt at atrial level,413081012#,1,1,2,5590591000006112#,Facultative pulmonary hypertension with shunt at atrial level,^ESCTFA559059,NA,413081012,NA,31
+276794009#,Facultative pulmonary hypertension with shunt at atrial level (disorder),669752016#,1,1,2,5590591000006112#,Facultative pulmonary hypertension with shunt at atrial level,^ESCTFA559059,NA,413081012,NA,31
+360578005#,Pulmonary hypertension secondary to raised pulmonary vascular resistance,476475017#,1,1,2,6214751000006112#,Pulmonary hypertension secondary to raised pulmonary vascular resistance,^ESCTPU621475,NA,476475017,NA,31
+360578005#,Pulmonary hypertension secondary to left sided heart disease,476476016#,1,1,2,6214751000006112#,Pulmonary hypertension secondary to raised pulmonary vascular resistance,^ESCTPU621475,NA,476475017,NA,31
+360578005#,Pulmonary hypertension secondary to raised pulmonary vascular resistance (disorder),740820013#,1,1,2,6214751000006112#,Pulmonary hypertension secondary to raised pulmonary vascular resistance,^ESCTPU621475,NA,476475017,NA,31
+276793003#,Pulmonary hypertension with occult mitral stenosis,413080013#,1,1,2,5590581000006114#,Pulmonary hypertension with occult mitral stenosis,^ESCTPU559058,NA,413080013,NA,31
+276793003#,Pulmonary hypertension with occult mitral stenosis (disorder),669751011#,1,1,2,5590581000006114#,Pulmonary hypertension with occult mitral stenosis,^ESCTPU559058,NA,413080013,NA,31
+233954004#,High altitude pulmonary hypertension,350526013#,1,1,2,5057891000006118#,Pulmonary hypertension due to chronic exposure to high altitude,^ESCTPU505789,NA,2968298019,NA,31
+233954004#,High altitude pulmonary hypertension,350526013#,1,1,2,5057901000006119#,High altitude pulmonary hypertension,^ESCTHI505790,NA,350526013,NA,31
+233954004#,High altitude pulmonary hypertension (disorder),622211014#,1,1,2,5057891000006118#,Pulmonary hypertension due to chronic exposure to high altitude,^ESCTPU505789,NA,2968298019,NA,31
+233954004#,High altitude pulmonary hypertension (disorder),622211014#,1,1,2,5057901000006119#,High altitude pulmonary hypertension,^ESCTHI505790,NA,350526013,NA,31
+233954004#,Pulmonary hypertension due to chronic exposure to high altitude,2968298019#,1,1,2,5057891000006118#,Pulmonary hypertension due to chronic exposure to high altitude,^ESCTPU505789,NA,2968298019,NA,31
+233954004#,Pulmonary hypertension due to chronic exposure to high altitude,2968298019#,1,1,2,5057901000006119#,High altitude pulmonary hypertension,^ESCTHI505790,NA,350526013,NA,31
+233951007#,Pulmonary hypertension associated with septal defect / shunt,350522010#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+233951007#,Pulmonary hypertension associated with septal defect / shunt (disorder),622206012#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+5499009#,Pulmonary hypertensive venous disease,10179012#,1,0,1,2587351000006111#,Hypertensive pulmonary venous disease,^ESCTHY258735,NA,10180010,NA,31
+5499009#,Pulmonary hypertensive venous disease,10179012#,1,0,1,2587341000006114#,Pulmonary hypertensive venous disease,^ESCTPU258734,NA,10179012,NA,31
+5499009#,Hypertensive pulmonary venous disease,10180010#,1,0,1,2587351000006111#,Hypertensive pulmonary venous disease,^ESCTHY258735,NA,10180010,NA,31
+5499009#,Hypertensive pulmonary venous disease,10180010#,1,0,1,2587341000006114#,Pulmonary hypertensive venous disease,^ESCTPU258734,NA,10179012,NA,31
+10964002#,Progressive pulmonary hypertension,19027019#,1,0,1,2674471000006117#,Progressive pulmonary hypertension,^ESCTPR267447,NA,19027019,NA,31
+26174007#,Primary pulmonary hypertension,43850011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+26174007#,Idiopathic pulmonary hypertension,43851010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+26174007#,Essential pulmonary hypertension,43852015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+83130006#,Eisenmenger's complex,137888010#,1,0,1,3852881000006110#,Eisenmenger defect,^ESCTEI385288,NA,2837976014,NA,31
+83130006#,Eisenmenger's complex,137888010#,1,0,1,3852871000006112#,Eisenmenger's defect,^ESCTEI385287,NA,137887017,NA,31
+87394009#,Episodic pulmonary hypertension,144899017#,1,0,1,3920791000006111#,Episodic pulmonary hypertension,^ESCTEP392079,NA,144899017,NA,31
+155328008#,Primary pulmonary hypertension,241833018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155328008#,Pulmonary hypertension,241834012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155328008#,Pulmonary hypertension (& [primary]),241835013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194888002#,Secondary pulmonary hypertension,299852013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233815004#,Persistent pulmonary hypertension of the newborn,350342017#,1,0,1,5056151000006119#,PFC - Persistent fetal circulation,^ESCTPF505615,NA,350343010,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn,350342017#,1,0,1,5056141000006116#,Persistent pulmonary hypertension of the newborn,^ESCTPE505614,NA,350342017,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn,350342017#,1,0,1,5056161000006117#,PPHN - Persistent pulmonary hypertension in newborn,^ESCTPP505616,NA,350344016,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn,350342017#,1,0,1,5056171000006112#,PFC - Persistent foetal circulation,^ESCTPF505617,NA,3012205012,NA,31
+233815004#,PPHN - Persistent pulmonary hypertension in newborn,350344016#,1,0,1,5056151000006119#,PFC - Persistent fetal circulation,^ESCTPF505615,NA,350343010,NA,31
+233815004#,PPHN - Persistent pulmonary hypertension in newborn,350344016#,1,0,1,5056141000006116#,Persistent pulmonary hypertension of the newborn,^ESCTPE505614,NA,350342017,NA,31
+233815004#,PPHN - Persistent pulmonary hypertension in newborn,350344016#,1,0,1,5056161000006117#,PPHN - Persistent pulmonary hypertension in newborn,^ESCTPP505616,NA,350344016,NA,31
+233815004#,PPHN - Persistent pulmonary hypertension in newborn,350344016#,1,0,1,5056171000006112#,PFC - Persistent foetal circulation,^ESCTPF505617,NA,3012205012,NA,31
+233952000#,Pulmonary hypertension secondary to left sided heart disease,350523017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+234161007#,Familial pulmonary capillary haemangiomatosis,350829012#,1,0,1,5060851000006117#,Familial pulmonary capillary haemangiomatosis,^ESCTFA506085,NA,350829012,NA,31
+234161007#,Familial pulmonary capillary haemangiomatosis,350829012#,1,0,1,5060861000006115#,Familial pulmonary capillary hemangiomatosis,^ESCTFA506086,NA,350830019,NA,31
+266293003#,Pulmonary hypertension (& [primary]),395881017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266293003#,Primary pulmonary hypertension,395882012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266293003#,Pulmonary hypertension,395883019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+360573001#,Post-capillary pulmonary hypertension,476465015#,1,0,1,6214691000006113#,Post-capillary pulmonary hypertension,^ESCTPO621469,NA,476465015,NA,31
+360573001#,Post-capillary pulmonary hypertension,476465015#,1,0,1,6214701000006113#,Postcapillary pulmonary hypertension,^ESCTPO621470,NA,2968284010,NA,31
+6183001#,Cirrhosis-familial with pulmonary hypertension,499131018#,1,0,1,2598551000006118#,ICC - Indian childhood cirrhosis,^ESCTIC259855,NA,499130017,NA,32
+6183001#,Cirrhosis-familial with pulmonary hypertension,499131018#,1,0,1,11267010#,Indian childhood cirrhosis,J6158-2,J615812,11267010,NA,32
+6183001#,Cirrhosis-familial with pulmonary hypertension,499131018#,1,0,1,2598561000006116#,Cirrhosis-familial with pulmonary hypertension,^ESCTCI259856,NA,499131018,NA,32
+155328008#,Pulmonary hypertension (& [primary]),535646012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194888002#,Secondary pulmonary hypertension,578924014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+10964002#,Progressive pulmonary hypertension (disorder),614091018#,1,0,1,2674471000006117#,Progressive pulmonary hypertension,^ESCTPR267447,NA,19027019,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn (disorder),622052014#,1,0,1,5056151000006119#,PFC - Persistent fetal circulation,^ESCTPF505615,NA,350343010,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn (disorder),622052014#,1,0,1,5056141000006116#,Persistent pulmonary hypertension of the newborn,^ESCTPE505614,NA,350342017,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn (disorder),622052014#,1,0,1,5056161000006117#,PPHN - Persistent pulmonary hypertension in newborn,^ESCTPP505616,NA,350344016,NA,31
+233815004#,Persistent pulmonary hypertension of the newborn (disorder),622052014#,1,0,1,5056171000006112#,PFC - Persistent foetal circulation,^ESCTPF505617,NA,3012205012,NA,31
+233952000#,Pulmonary hypertension secondary to left sided heart disease [Ambiguous],622207015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266293003#,Pulmonary hypertension (& [primary]),658769013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+360573001#,Post-capillary pulmonary hypertension (disorder),740804015#,1,0,1,6214691000006113#,Post-capillary pulmonary hypertension,^ESCTPO621469,NA,476465015,NA,31
+360573001#,Post-capillary pulmonary hypertension (disorder),740804015#,1,0,1,6214701000006113#,Postcapillary pulmonary hypertension,^ESCTPO621470,NA,2968284010,NA,31
+26174007#,Primary pulmonary hypertension (disorder),756575012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+5499009#,Pulmonary hypertensive venous disease (disorder),793282011#,1,0,1,2587351000006111#,Hypertensive pulmonary venous disease,^ESCTHY258735,NA,10180010,NA,31
+5499009#,Pulmonary hypertensive venous disease (disorder),793282011#,1,0,1,2587341000006114#,Pulmonary hypertensive venous disease,^ESCTPU258734,NA,10179012,NA,31
+87394009#,Episodic pulmonary hypertension (disorder),829858013#,1,0,1,3920791000006111#,Episodic pulmonary hypertension,^ESCTEP392079,NA,144899017,NA,31
+26174007#,PPHT - Primary pulmonary hypertension,1224985018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+83130006#,Eisenmenger's syndrome,1234793016#,1,0,1,3852881000006110#,Eisenmenger defect,^ESCTEI385288,NA,2837976014,NA,31
+83130006#,Eisenmenger's syndrome,1234793016#,1,0,1,3852871000006112#,Eisenmenger's defect,^ESCTEI385287,NA,137887017,NA,31
+426012001#,Right heart failure due to pulmonary hypertension (disorder),2662317017#,1,0,1,7052811000006113#,Right heart failure due to pulmonary hypertension,^ESCTRI705281,NA,2674125010,NA,31
+426012001#,Right heart failure due to pulmonary hypertension,2674125010#,1,0,1,7052811000006113#,Right heart failure due to pulmonary hypertension,^ESCTRI705281,NA,2674125010,NA,31
+266293003#,Pulmonary hypertension (& [primary]) (disorder),2713283019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233952000#,Pulmonary hypertension secondary to left sided heart disease (disorder),2713872016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155328008#,Pulmonary hypertension (& [primary]) (disorder),2718751011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+194888002#,Secondary pulmonary hypertension (disorder),2719346010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+445237003#,Portopulmonary hypertension (disorder),2869381013#,1,0,1,7304991000006113#,Portopulmonary hypertension,^ESCTPO730499,NA,2872644015,NA,31
+445237003#,Portopulmonary hypertension (disorder),2869381013#,1,0,1,7304981000006110#,Pulmonary arterial hypertension associated with portal hypertension,^ESCTPU730498,NA,2968175019,NA,31
+445237003#,Portopulmonary hypertension,2872644015#,1,0,1,7304991000006113#,Portopulmonary hypertension,^ESCTPO730499,NA,2872644015,NA,31
+445237003#,Portopulmonary hypertension,2872644015#,1,0,1,7304981000006110#,Pulmonary arterial hypertension associated with portal hypertension,^ESCTPU730498,NA,2968175019,NA,31
+472758006#,Pulmonary venous hypertension due to compression of pulmonary great vein (disorder),2951492013#,1,0,1,7477471000006110#,Pulmonary venous hypertension due to compression of pulmonary great vein,^ESCTPU747747,NA,2951518011,NA,31
+472760008#,Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy,2951493015#,1,0,1,7477501000006115#,Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy,^ESCTPU747750,NA,2951493015,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,2951496011#,1,0,1,7477531000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,^ESCTPU747753,NA,2951531018,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,2951496011#,1,0,1,7477521000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,^ESCTPU747752,NA,2951524017,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,2951496011#,1,0,1,7477511000006117#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,^ESCTPU747751,NA,2951496011,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis (disorder),2951497019#,1,0,1,7477491000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis,^ESCTPU747749,NA,2951528019,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis (disorder),2951497019#,1,0,1,7477481000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis,^ESCTPU747748,NA,2951513019,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm (disorder),2951498012#,1,0,1,7477531000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,^ESCTPU747753,NA,2951531018,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm (disorder),2951498012#,1,0,1,7477521000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,^ESCTPU747752,NA,2951524017,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm (disorder),2951498012#,1,0,1,7477511000006117#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,^ESCTPU747751,NA,2951496011,NA,31
+472757001#,Pulmonary venous hypertension as complication of procedure (disorder),2951502017#,1,0,1,7477461000006115#,Pulmonary venous hypertension as complication of procedure,^ESCTPU747746,NA,2951511017,NA,31
+472757001#,Pulmonary venous hypertension as complication of procedure,2951511017#,1,0,1,7477461000006115#,Pulmonary venous hypertension as complication of procedure,^ESCTPU747746,NA,2951511017,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis,2951513019#,1,0,1,7477491000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis,^ESCTPU747749,NA,2951528019,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis,2951513019#,1,0,1,7477481000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis,^ESCTPU747748,NA,2951513019,NA,31
+472758006#,Pulmonary venous hypertension due to compression of pulmonary great vein,2951518011#,1,0,1,7477471000006110#,Pulmonary venous hypertension due to compression of pulmonary great vein,^ESCTPU747747,NA,2951518011,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,2951524017#,1,0,1,7477531000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,^ESCTPU747753,NA,2951531018,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,2951524017#,1,0,1,7477521000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,^ESCTPU747752,NA,2951524017,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,2951524017#,1,0,1,7477511000006117#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,^ESCTPU747751,NA,2951496011,NA,31
+472760008#,Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy (disorder),2951526015#,1,0,1,7477501000006115#,Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy,^ESCTPU747750,NA,2951493015,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis,2951528019#,1,0,1,7477491000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis,^ESCTPU747749,NA,2951528019,NA,31
+472759003#,Pulmonary venous hypertension due to compression of pulmonary great vein by fibrosing mediastinitis,2951528019#,1,0,1,7477481000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis,^ESCTPU747748,NA,2951513019,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,2951531018#,1,0,1,7477531000006111#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,^ESCTPU747753,NA,2951531018,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,2951531018#,1,0,1,7477521000006113#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumour,^ESCTPU747752,NA,2951524017,NA,31
+472761007#,Pulmonary venous hypertension due to compression of pulmonary great vein by tumor,2951531018#,1,0,1,7477511000006117#,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm,^ESCTPU747751,NA,2951496011,NA,31
+472790001#,Pulmonary venous hypertension due to disorder of left heart,2951588016#,1,0,1,7477971000006118#,Pulmonary hypertension due to left heart disease,^ESCTPU747797,NA,2968344016,NA,31
+472790001#,Pulmonary venous hypertension due to disorder of left heart,2951588016#,1,0,1,7477981000006115#,Pulmonary venous hypertension due to disorder of left heart,^ESCTPU747798,NA,2951588016,NA,31
+472790001#,Pulmonary venous hypertension due to disorder of left heart (disorder),2951595013#,1,0,1,7477971000006118#,Pulmonary hypertension due to left heart disease,^ESCTPU747797,NA,2968344016,NA,31
+472790001#,Pulmonary venous hypertension due to disorder of left heart (disorder),2951595013#,1,0,1,7477981000006115#,Pulmonary venous hypertension due to disorder of left heart,^ESCTPU747798,NA,2951588016,NA,31
+697918008#,Pulmonary hypertension due to myeloproliferative disorder (disorder),2968110016#,1,0,1,7501901000006118#,Pulmonary hypertension due to myeloproliferative disorder,^ESCTPU750190,NA,2968121013,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to BMPR2 mutation (disorder),2968111017#,1,0,1,7501631000006115#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,^ESCTHE750163,NA,2968120014,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to BMPR2 mutation (disorder),2968111017#,1,0,1,7501641000006113#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,^ESCTHE750164,NA,3008454015,NA,31
+697925001#,Pulmonary hypertension due to systolic systemic ventricular dysfunction (disorder),2968113019#,1,0,1,7501991000006113#,Pulmonary hypertension due to systolic left ventricular dysfunction,^ESCTPU750199,NA,3030943017,NA,31
+697925001#,Pulmonary hypertension due to systolic systemic ventricular dysfunction (disorder),2968113019#,1,0,1,7501981000006110#,Pulmonary hypertension due to systolic systemic ventricular dysfunction,^ESCTPU750198,NA,2968221016,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy hematological disorder (disorder),2968116010#,1,0,1,7501911000006115#,Pulmonary hypertension due to post-splenectomy haematological disorder,^ESCTPU750191,NA,2968289017,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy hematological disorder (disorder),2968116010#,1,0,1,7501921000006111#,Pulmonary hypertension due to post-splenectomy hematological disorder,^ESCTPU750192,NA,2968272013,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,2968120014#,1,0,1,7501631000006115#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,^ESCTHE750163,NA,2968120014,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,2968120014#,1,0,1,7501641000006113#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,^ESCTHE750164,NA,3008454015,NA,31
+697918008#,Pulmonary hypertension due to myeloproliferative disorder,2968121013#,1,0,1,7501901000006118#,Pulmonary hypertension due to myeloproliferative disorder,^ESCTPU750190,NA,2968121013,NA,31
+697898008#,Idiopathic pulmonary arterial hypertension (disorder),2968132013#,1,0,1,7501621000006118#,Idiopathic pulmonary arterial hypertension,^ESCTID750162,NA,2968191016,NA,31
+697926000#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction (disorder),2968136011#,1,0,1,7502001000006110#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction,^ESCTPU750200,NA,2968264011,NA,31
+697926000#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction (disorder),2968136011#,1,0,1,7502011000006113#,Pulmonary hypertension due to diastolic left ventricular dysfunction,^ESCTPU750201,NA,3030942010,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis (disorder),2968138012#,1,0,1,7501801000006112#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis,^ESCTPU750180,NA,2968203019,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis (disorder),2968138012#,1,0,1,7501791000006111#,Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis,^ESCTPU750179,NA,2968229019,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic haemolytic anaemia,2968139016#,1,0,1,7501771000006110#,Pulmonary arterial hypertension associated with chronic haemolytic anaemia,^ESCTPU750177,NA,2968139016,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic haemolytic anaemia,2968139016#,1,0,1,7501781000006113#,Pulmonary arterial hypertension associated with chronic hemolytic anemia,^ESCTPU750178,NA,2968215015,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic hemolytic anemia (disorder),2968147016#,1,0,1,7501771000006110#,Pulmonary arterial hypertension associated with chronic haemolytic anaemia,^ESCTPU750177,NA,2968139016,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic hemolytic anemia (disorder),2968147016#,1,0,1,7501781000006113#,Pulmonary arterial hypertension associated with chronic hemolytic anemia,^ESCTPU750178,NA,2968215015,NA,31
+697915006#,Pulmonary hypertension due to alveolar hypoventilation disorder (disorder),2968155011#,1,0,1,7501861000006113#,Pulmonary hypertension due to alveolar hypoventilation disorder,^ESCTPU750186,NA,2968307016,NA,31
+697912009#,Pulmonary hypertension due to interstitial lung disease (disorder),2968156012#,1,0,1,7501831000006116#,Pulmonary hypertension due to interstitial lung disease,^ESCTPU750183,NA,2968346019,NA,31
+697920006#,Pulmonary hypertension in systemic disorder,2968157015#,1,0,1,7501931000006114#,Pulmonary hypertension in systemic disorder,^ESCTPU750193,NA,2968157015,NA,31
+697916007#,Pulmonary hypertension due to developmental abnormality of the lung,2968162019#,1,0,1,7501871000006118#,Pulmonary hypertension due to developmental abnormality of the lung,^ESCTPU750187,NA,2968162019,NA,31
+697906004#,Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt (disorder),2968165017#,1,0,1,7501751000006117#,Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt,^ESCTPU750175,NA,2968211012,NA,31
+697910001#,Pulmonary hypertension due to lung disease and/or hypoxia (disorder),2968172016#,1,0,1,7501811000006110#,Pulmonary hypertension due to lung disease and/or hypoxia,^ESCTPU750181,NA,2968188016,NA,31
+445237003#,Pulmonary arterial hypertension associated with portal hypertension,2968175019#,1,0,1,7304991000006113#,Portopulmonary hypertension,^ESCTPO730499,NA,2872644015,NA,31
+445237003#,Pulmonary arterial hypertension associated with portal hypertension,2968175019#,1,0,1,7304981000006110#,Pulmonary arterial hypertension associated with portal hypertension,^ESCTPU730498,NA,2968175019,NA,31
+697921005#,Pulmonary hypertension in sarcoidosis,2968179013#,1,0,1,7501941000006116#,Pulmonary hypertension in sarcoidosis,^ESCTPU750194,NA,2968179013,NA,31
+697910001#,Pulmonary hypertension due to lung disease and/or hypoxia,2968188016#,1,0,1,7501811000006110#,Pulmonary hypertension due to lung disease and/or hypoxia,^ESCTPU750181,NA,2968188016,NA,31
+697901009#,Pulmonary arterial hypertension induced by toxin,2968190015#,1,0,1,7501681000006119#,Pulmonary arterial hypertension induced by toxin,^ESCTPU750168,NA,2968190015,NA,31
+697901009#,Pulmonary arterial hypertension induced by toxin,2968190015#,1,0,1,7501691000006116#,Pulmonary arterial hypertension caused by toxin,^ESCTPU750169,NA,3290371015,NA,31
+697898008#,Idiopathic pulmonary arterial hypertension,2968191016#,1,0,1,7501621000006118#,Idiopathic pulmonary arterial hypertension,^ESCTID750162,NA,2968191016,NA,31
+697916007#,Pulmonary hypertension due to developmental abnormality of the lung (disorder),2968192011#,1,0,1,7501871000006118#,Pulmonary hypertension due to developmental abnormality of the lung,^ESCTPU750187,NA,2968162019,NA,31
+697924002#,Pulmonary hypertension in neurofibromatosis (disorder),2968197017#,1,0,1,7501971000006112#,Pulmonary hypertension in neurofibromatosis,^ESCTPU750197,NA,2968321019,NA,31
+697903007#,Pulmonary arterial hypertension associated with connective tissue disease (disorder),2968201017#,1,0,1,7501711000006118#,Pulmonary arterial hypertension associated with connective tissue disease,^ESCTPU750171,NA,2968312015,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,2968202012#,1,0,1,7501671000006117#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,^ESCTHE750167,NA,3008507016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,2968202012#,1,0,1,7501651000006110#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,^ESCTHE750165,NA,2968202012,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,2968202012#,1,0,1,7501661000006112#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,^ESCTHE750166,NA,3008496016,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis,2968203019#,1,0,1,7501801000006112#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis,^ESCTPU750180,NA,2968203019,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis,2968203019#,1,0,1,7501791000006111#,Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis,^ESCTPU750179,NA,2968229019,NA,31
+697917003#,Pulmonary hypertension due to haematological disorder,2968204013#,1,0,1,7501891000006117#,Pulmonary hypertension due to hematological disorder,^ESCTPU750189,NA,2968314019,NA,31
+697917003#,Pulmonary hypertension due to haematological disorder,2968204013#,1,0,1,7501881000006115#,Pulmonary hypertension due to haematological disorder,^ESCTPU750188,NA,2968204013,NA,31
+697901009#,Pulmonary arterial hypertension induced by toxin (disorder),2968208011#,1,0,1,7501681000006119#,Pulmonary arterial hypertension induced by toxin,^ESCTPU750168,NA,2968190015,NA,31
+697901009#,Pulmonary arterial hypertension induced by toxin (disorder),2968208011#,1,0,1,7501691000006116#,Pulmonary arterial hypertension caused by toxin,^ESCTPU750169,NA,3290371015,NA,31
+697897003#,Heritable pulmonary arterial hypertension,2968210013#,1,0,1,7501611000006114#,Heritable pulmonary arterial hypertension,^ESCTHE750161,NA,2968210013,NA,31
+697906004#,Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt,2968211012#,1,0,1,7501751000006117#,Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt,^ESCTPU750175,NA,2968211012,NA,31
+697928004#,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein,2968212017#,1,0,1,7502031000006119#,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein,^ESCTPU750203,NA,2968212017,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic hemolytic anemia,2968215015#,1,0,1,7501771000006110#,Pulmonary arterial hypertension associated with chronic haemolytic anaemia,^ESCTPU750177,NA,2968139016,NA,31
+697908003#,Pulmonary arterial hypertension associated with chronic hemolytic anemia,2968215015#,1,0,1,7501781000006113#,Pulmonary arterial hypertension associated with chronic hemolytic anemia,^ESCTPU750178,NA,2968215015,NA,31
+697914005#,Pulmonary hypertension due to sleep-disordered breathing (disorder),2968217011#,1,0,1,7501851000006111#,Pulmonary hypertension due to sleep-disordered breathing,^ESCTPU750185,NA,2968223018,NA,31
+697925001#,Pulmonary hypertension due to systolic systemic ventricular dysfunction,2968221016#,1,0,1,7501991000006113#,Pulmonary hypertension due to systolic left ventricular dysfunction,^ESCTPU750199,NA,3030943017,NA,31
+697925001#,Pulmonary hypertension due to systolic systemic ventricular dysfunction,2968221016#,1,0,1,7501981000006110#,Pulmonary hypertension due to systolic systemic ventricular dysfunction,^ESCTPU750198,NA,2968221016,NA,31
+697914005#,Pulmonary hypertension due to sleep-disordered breathing,2968223018#,1,0,1,7501851000006111#,Pulmonary hypertension due to sleep-disordered breathing,^ESCTPU750185,NA,2968223018,NA,31
+697897003#,Heritable pulmonary arterial hypertension (disorder),2968226014#,1,0,1,7501611000006114#,Heritable pulmonary arterial hypertension,^ESCTHE750161,NA,2968210013,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis,2968229019#,1,0,1,7501801000006112#,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis,^ESCTPU750180,NA,2968203019,NA,31
+697909006#,Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis,2968229019#,1,0,1,7501791000006111#,Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis,^ESCTPU750179,NA,2968229019,NA,31
+697928004#,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein (disorder),2968233014#,1,0,1,7502031000006119#,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein,^ESCTPU750203,NA,2968212017,NA,31
+697922003#,Pulmonary hypertension in Langerhans cell histiocytosis,2968234015#,1,0,1,7501951000006119#,Pulmonary hypertension in Langerhans cell histiocytosis,^ESCTPU750195,NA,2968234015,NA,31
+697920006#,Pulmonary hypertension in systemic disorder (disorder),2968259012#,1,0,1,7501931000006114#,Pulmonary hypertension in systemic disorder,^ESCTPU750193,NA,2968157015,NA,31
+697927009#,Pulmonary hypertension due to left-sided valvular heart disease (disorder),2968260019#,1,0,1,7502021000006117#,Pulmonary hypertension due to left-sided valvular heart disease,^ESCTPU750202,NA,2968296015,NA,31
+697926000#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction,2968264011#,1,0,1,7502001000006110#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction,^ESCTPU750200,NA,2968264011,NA,31
+697926000#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction,2968264011#,1,0,1,7502011000006113#,Pulmonary hypertension due to diastolic left ventricular dysfunction,^ESCTPU750201,NA,3030942010,NA,31
+697923008#,Pulmonary hypertension in lymphangioleiomyomatosis (disorder),2968269018#,1,0,1,7501961000006117#,Pulmonary hypertension in lymphangioleiomyomatosis,^ESCTPU750196,NA,2968347011,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy hematological disorder,2968272013#,1,0,1,7501911000006115#,Pulmonary hypertension due to post-splenectomy haematological disorder,^ESCTPU750191,NA,2968289017,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy hematological disorder,2968272013#,1,0,1,7501921000006111#,Pulmonary hypertension due to post-splenectomy hematological disorder,^ESCTPU750192,NA,2968272013,NA,31
+697907008#,Pulmonary arterial hypertension associated with schistosomiasis (disorder),2968273015#,1,0,1,7501761000006115#,Pulmonary arterial hypertension associated with schistosomiasis,^ESCTPU750176,NA,2968281019,NA,31
+697917003#,Pulmonary hypertension due to hematological disorder (disorder),2968280018#,1,0,1,7501891000006117#,Pulmonary hypertension due to hematological disorder,^ESCTPU750189,NA,2968314019,NA,31
+697917003#,Pulmonary hypertension due to hematological disorder (disorder),2968280018#,1,0,1,7501881000006115#,Pulmonary hypertension due to haematological disorder,^ESCTPU750188,NA,2968204013,NA,31
+697907008#,Pulmonary arterial hypertension associated with schistosomiasis,2968281019#,1,0,1,7501761000006115#,Pulmonary arterial hypertension associated with schistosomiasis,^ESCTPU750176,NA,2968281019,NA,31
+697911002#,Pulmonary hypertension due to chronic obstructive pulmonary disease,2968282014#,1,0,1,7501821000006119#,Pulmonary hypertension due to chronic obstructive pulmonary disease,^ESCTPU750182,NA,2968282014,NA,31
+360573001#,Postcapillary pulmonary hypertension,2968284010#,1,0,1,6214691000006113#,Post-capillary pulmonary hypertension,^ESCTPO621469,NA,476465015,NA,31
+360573001#,Postcapillary pulmonary hypertension,2968284010#,1,0,1,6214701000006113#,Postcapillary pulmonary hypertension,^ESCTPO621470,NA,2968284010,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy haematological disorder,2968289017#,1,0,1,7501911000006115#,Pulmonary hypertension due to post-splenectomy haematological disorder,^ESCTPU750191,NA,2968289017,NA,31
+697919000#,Pulmonary hypertension due to post-splenectomy haematological disorder,2968289017#,1,0,1,7501921000006111#,Pulmonary hypertension due to post-splenectomy hematological disorder,^ESCTPU750192,NA,2968272013,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation (disorder),2968293011#,1,0,1,7501671000006117#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,^ESCTHE750167,NA,3008507016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation (disorder),2968293011#,1,0,1,7501651000006110#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,^ESCTHE750165,NA,2968202012,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation (disorder),2968293011#,1,0,1,7501661000006112#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,^ESCTHE750166,NA,3008496016,NA,31
+697927009#,Pulmonary hypertension due to left-sided valvular heart disease,2968296015#,1,0,1,7502021000006117#,Pulmonary hypertension due to left-sided valvular heart disease,^ESCTPU750202,NA,2968296015,NA,31
+697913004#,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern,2968300019#,1,0,1,7501841000006114#,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern,^ESCTPU750184,NA,2968300019,NA,31
+697902002#,Associated pulmonary arterial hypertension (disorder),2968303017#,1,0,1,7501701000006116#,Associated pulmonary arterial hypertension,^ESCTAS750170,NA,2968358019,NA,31
+697896007#,Precapillary pulmonary hypertension,2968304011#,1,0,1,7501601000006111#,Precapillary pulmonary hypertension,^ESCTPR750160,NA,2968304011,NA,31
+697915006#,Pulmonary hypertension due to alveolar hypoventilation disorder,2968307016#,1,0,1,7501861000006113#,Pulmonary hypertension due to alveolar hypoventilation disorder,^ESCTPU750186,NA,2968307016,NA,31
+697921005#,Pulmonary hypertension in sarcoidosis (disorder),2968309018#,1,0,1,7501941000006116#,Pulmonary hypertension in sarcoidosis,^ESCTPU750194,NA,2968179013,NA,31
+697903007#,Pulmonary arterial hypertension associated with connective tissue disease,2968312015#,1,0,1,7501711000006118#,Pulmonary arterial hypertension associated with connective tissue disease,^ESCTPU750171,NA,2968312015,NA,31
+697917003#,Pulmonary hypertension due to hematological disorder,2968314019#,1,0,1,7501891000006117#,Pulmonary hypertension due to hematological disorder,^ESCTPU750189,NA,2968314019,NA,31
+697917003#,Pulmonary hypertension due to hematological disorder,2968314019#,1,0,1,7501881000006115#,Pulmonary hypertension due to haematological disorder,^ESCTPU750188,NA,2968204013,NA,31
+697924002#,Pulmonary hypertension in neurofibromatosis,2968321019#,1,0,1,7501971000006112#,Pulmonary hypertension in neurofibromatosis,^ESCTPU750197,NA,2968321019,NA,31
+697904001#,Pulmonary arterial hypertension associated with HIV infection,2968325011#,1,0,1,7501721000006114#,Pulmonary arterial hypertension associated with HIV infection,^ESCTPU750172,NA,2968325011,NA,31
+697904001#,Pulmonary arterial hypertension associated with HIV infection,2968325011#,1,0,1,7501731000006112#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection,^ESCTPU750173,NA,2973202011,NA,31
+697905000#,Pulmonary arterial hypertension associated with congenital heart disease,2968326012#,1,0,1,7501741000006119#,Pulmonary arterial hypertension associated with congenital heart disease,^ESCTPU750174,NA,2968326012,NA,31
+697905000#,Pulmonary arterial hypertension associated with congenital heart disease (disorder),2968333012#,1,0,1,7501741000006119#,Pulmonary arterial hypertension associated with congenital heart disease,^ESCTPU750174,NA,2968326012,NA,31
+697913004#,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern (disorder),2968334018#,1,0,1,7501841000006114#,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern,^ESCTPU750184,NA,2968300019,NA,31
+472790001#,Pulmonary hypertension due to left heart disease,2968344016#,1,0,1,7477971000006118#,Pulmonary hypertension due to left heart disease,^ESCTPU747797,NA,2968344016,NA,31
+472790001#,Pulmonary hypertension due to left heart disease,2968344016#,1,0,1,7477981000006115#,Pulmonary venous hypertension due to disorder of left heart,^ESCTPU747798,NA,2951588016,NA,31
+697912009#,Pulmonary hypertension due to interstitial lung disease,2968346019#,1,0,1,7501831000006116#,Pulmonary hypertension due to interstitial lung disease,^ESCTPU750183,NA,2968346019,NA,31
+697923008#,Pulmonary hypertension in lymphangioleiomyomatosis,2968347011#,1,0,1,7501961000006117#,Pulmonary hypertension in lymphangioleiomyomatosis,^ESCTPU750196,NA,2968347011,NA,31
+697896007#,Precapillary pulmonary hypertension (disorder),2968351013#,1,0,1,7501601000006111#,Precapillary pulmonary hypertension,^ESCTPR750160,NA,2968304011,NA,31
+697902002#,Associated pulmonary arterial hypertension,2968358019#,1,0,1,7501701000006116#,Associated pulmonary arterial hypertension,^ESCTAS750170,NA,2968358019,NA,31
+697922003#,Pulmonary hypertension in Langerhans cell histiocytosis (disorder),2968362013#,1,0,1,7501951000006119#,Pulmonary hypertension in Langerhans cell histiocytosis,^ESCTPU750195,NA,2968234015,NA,31
+697911002#,Pulmonary hypertension due to chronic obstructive pulmonary disease (disorder),2968364014#,1,0,1,7501821000006119#,Pulmonary hypertension due to chronic obstructive pulmonary disease,^ESCTPU750182,NA,2968282014,NA,31
+697904001#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection (disorder),2973080013#,1,0,1,7501721000006114#,Pulmonary arterial hypertension associated with HIV infection,^ESCTPU750172,NA,2968325011,NA,31
+697904001#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection (disorder),2973080013#,1,0,1,7501731000006112#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection,^ESCTPU750173,NA,2973202011,NA,31
+697904001#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection,2973202011#,1,0,1,7501721000006114#,Pulmonary arterial hypertension associated with HIV infection,^ESCTPU750172,NA,2968325011,NA,31
+697904001#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection,2973202011#,1,0,1,7501731000006112#,Pulmonary arterial hypertension associated with human immunodeficiency virus infection,^ESCTPU750173,NA,2973202011,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation (disorder),3008430013#,1,0,1,7501671000006117#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,^ESCTHE750167,NA,3008507016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation (disorder),3008430013#,1,0,1,7501651000006110#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,^ESCTHE750165,NA,2968202012,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation (disorder),3008430013#,1,0,1,7501661000006112#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,^ESCTHE750166,NA,3008496016,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation (disorder),3008434016#,1,0,1,7501631000006115#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,^ESCTHE750163,NA,2968120014,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation (disorder),3008434016#,1,0,1,7501641000006113#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,^ESCTHE750164,NA,3008454015,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,3008454015#,1,0,1,7501631000006115#,Heritable pulmonary arterial hypertension due to BMPR2 mutation,^ESCTHE750163,NA,2968120014,NA,31
+697899000#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,3008454015#,1,0,1,7501641000006113#,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation,^ESCTHE750164,NA,3008454015,NA,31
+703355003#,Pulmonary hypertension in vasculitis,3008459013#,1,0,1,7574361000006112#,Pulmonary hypertension due to vasculitis,^ESCTPU757436,NA,3009267012,NA,31
+703355003#,Pulmonary hypertension in vasculitis,3008459013#,1,0,1,7574371000006117#,Pulmonary hypertension in vasculitis,^ESCTPU757437,NA,3008459013,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,3008496016#,1,0,1,7501671000006117#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,^ESCTHE750167,NA,3008507016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,3008496016#,1,0,1,7501651000006110#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,^ESCTHE750165,NA,2968202012,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,3008496016#,1,0,1,7501661000006112#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,^ESCTHE750166,NA,3008496016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,3008507016#,1,0,1,7501671000006117#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,^ESCTHE750167,NA,3008507016,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,3008507016#,1,0,1,7501651000006110#,Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation,^ESCTHE750165,NA,2968202012,NA,31
+697900005#,Heritable pulmonary arterial hypertension due to ACVRL1 or endoglin mutation,3008507016#,1,0,1,7501661000006112#,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation,^ESCTHE750166,NA,3008496016,NA,31
+703355003#,Pulmonary hypertension due to vasculitis,3009267012#,1,0,1,7574361000006112#,Pulmonary hypertension due to vasculitis,^ESCTPU757436,NA,3009267012,NA,31
+703355003#,Pulmonary hypertension due to vasculitis,3009267012#,1,0,1,7574371000006117#,Pulmonary hypertension in vasculitis,^ESCTPU757437,NA,3008459013,NA,31
+703355003#,Pulmonary hypertension due to vasculitis (disorder),3009851012#,1,0,1,7574361000006112#,Pulmonary hypertension due to vasculitis,^ESCTPU757436,NA,3009267012,NA,31
+703355003#,Pulmonary hypertension due to vasculitis (disorder),3009851012#,1,0,1,7574371000006117#,Pulmonary hypertension in vasculitis,^ESCTPU757437,NA,3008459013,NA,31
+707413005#,Chronic pulmonary thromboembolism without pulmonary hypertension (disorder),3029928016#,1,0,1,7617191000006113#,Chronic pulmonary thromboembolism without pulmonary hypertension,^ESCTCH761719,NA,3030022015,NA,31
+707413005#,Chronic pulmonary thromboembolism without pulmonary hypertension,3030022015#,1,0,1,7617191000006113#,Chronic pulmonary thromboembolism without pulmonary hypertension,^ESCTCH761719,NA,3030022015,NA,31
+697926000#,Pulmonary hypertension due to diastolic left ventricular dysfunction,3030942010#,1,0,1,7502001000006110#,Pulmonary hypertension due to diastolic systemic ventricular dysfunction,^ESCTPU750200,NA,2968264011,NA,31
+697926000#,Pulmonary hypertension due to diastolic left ventricular dysfunction,3030942010#,1,0,1,7502011000006113#,Pulmonary hypertension due to diastolic left ventricular dysfunction,^ESCTPU750201,NA,3030942010,NA,31
+697925001#,Pulmonary hypertension due to systolic left ventricular dysfunction,3030943017#,1,0,1,7501991000006113#,Pulmonary hypertension due to systolic left ventricular dysfunction,^ESCTPU750199,NA,3030943017,NA,31
+697925001#,Pulmonary hypertension due to systolic left ventricular dysfunction,3030943017#,1,0,1,7501981000006110#,Pulmonary hypertension due to systolic systemic ventricular dysfunction,^ESCTPU750198,NA,2968221016,NA,31
+697901009#,Pulmonary arterial hypertension caused by toxin (disorder),3290286011#,1,0,1,7501681000006119#,Pulmonary arterial hypertension induced by toxin,^ESCTPU750168,NA,2968190015,NA,31
+697901009#,Pulmonary arterial hypertension caused by toxin (disorder),3290286011#,1,0,1,7501691000006116#,Pulmonary arterial hypertension caused by toxin,^ESCTPU750169,NA,3290371015,NA,31
+697901009#,Pulmonary arterial hypertension caused by toxin,3290371015#,1,0,1,7501681000006119#,Pulmonary arterial hypertension induced by toxin,^ESCTPU750168,NA,2968190015,NA,31
+697901009#,Pulmonary arterial hypertension caused by toxin,3290371015#,1,0,1,7501691000006116#,Pulmonary arterial hypertension caused by toxin,^ESCTPU750169,NA,3290371015,NA,31
+840306007#,Mild pulmonary hypertension,3901242017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+840306007#,Mild pulmonary hypertension (disorder),3901243010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+840307003#,Moderate pulmonary hypertension,3901244016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+840307003#,Moderate pulmonary hypertension (disorder),3901245015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+840308008#,Severe pulmonary hypertension,3901246019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+840308008#,Severe pulmonary hypertension (disorder),3901247011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA

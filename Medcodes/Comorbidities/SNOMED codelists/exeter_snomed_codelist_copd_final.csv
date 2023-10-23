@@ -1,0 +1,1067 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+89549007#,Catarrhal bronchitis,148474017#,1,1,2,3955621000006112#,Catarrhal bronchitis,^ESCTCA395562,NA,148474017,NA,32
+89549007#,Catarrhal bronchitis,148474017#,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,508562012,NA,32
+89549007#,Chronic mucus hypersecretion,508560016#,1,1,2,3955621000006112#,Catarrhal bronchitis,^ESCTCA395562,NA,148474017,NA,32
+89549007#,Chronic mucus hypersecretion,508560016#,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,508562012,NA,32
+89549007#,Simple chronic bronchitis,508561017#,1,1,2,3955621000006112#,Catarrhal bronchitis,^ESCTCA395562,NA,148474017,NA,32
+89549007#,Simple chronic bronchitis,508561017#,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,508562012,NA,32
+89549007#,Chronic catarrhal bronchitis,508562012#,1,1,2,3955621000006112#,Catarrhal bronchitis,^ESCTCA395562,NA,148474017,NA,32
+89549007#,Chronic catarrhal bronchitis,508562012#,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,508562012,NA,32
+89549007#,Catarrhal bronchitis (disorder),832465016#,1,1,2,3955621000006112#,Catarrhal bronchitis,^ESCTCA395562,NA,148474017,NA,32
+89549007#,Catarrhal bronchitis (disorder),832465016#,1,1,2,508562012#,Chronic catarrhal bronchitis,H3100,H310000,508562012,NA,32
+61937009#,Simple chronic bronchitis,102938011#,1,1,2,301444018#,Simple chronic bronchitis NOS,H310z,H310z00,102938011,NA,32
+61937009#,Simple chronic bronchitis,102938011#,1,1,2,508561017#,Simple chronic bronchitis,H310,H310.00,102938011,NA,32
+61937009#,Chronic catarrhal bronchitis,102939015#,1,1,2,301444018#,Simple chronic bronchitis NOS,H310z,H310z00,102938011,NA,32
+61937009#,Chronic catarrhal bronchitis,102939015#,1,1,2,508561017#,Simple chronic bronchitis,H310,H310.00,102938011,NA,32
+61937009#,Simple chronic bronchitis (disorder),801054019#,1,1,2,301444018#,Simple chronic bronchitis NOS,H310z,H310z00,102938011,NA,32
+61937009#,Simple chronic bronchitis (disorder),801054019#,1,1,2,508561017#,Simple chronic bronchitis,H310,H310.00,102938011,NA,32
+84409004#,Fetid chronic bronchitis,139979010#,1,1,2,506053014#,Purulent chronic bronchitis,H3110,H311000,506053014,NA,32
+84409004#,Fetid chronic bronchitis,139979010#,1,1,2,139979010#,Fetid chronic bronchitis,H3111,H311100,506053014,NA,32
+84409004#,Fetid chronic bronchitis,139979010#,1,1,2,3873191000006110#,Fetid chronic bronchitis,^ESCTFE387319,NA,139979010,NA,32
+84409004#,Purulent chronic bronchitis,506053014#,1,1,2,506053014#,Purulent chronic bronchitis,H3110,H311000,506053014,NA,32
+84409004#,Purulent chronic bronchitis,506053014#,1,1,2,139979010#,Fetid chronic bronchitis,H3111,H311100,506053014,NA,32
+84409004#,Purulent chronic bronchitis,506053014#,1,1,2,3873191000006110#,Fetid chronic bronchitis,^ESCTFE387319,NA,139979010,NA,32
+84409004#,Fetid chronic bronchitis (disorder),826246018#,1,1,2,506053014#,Purulent chronic bronchitis,H3110,H311000,506053014,NA,32
+84409004#,Fetid chronic bronchitis (disorder),826246018#,1,1,2,139979010#,Fetid chronic bronchitis,H3111,H311100,506053014,NA,32
+84409004#,Fetid chronic bronchitis (disorder),826246018#,1,1,2,3873191000006110#,Fetid chronic bronchitis,^ESCTFE387319,NA,139979010,NA,32
+74417001#,Mucopurulent chronic bronchitis,123588010#,1,1,2,123588010#,Mucopurulent chronic bronchitis,H311,H311.00,123588010,NA,32
+74417001#,Mucopurulent chronic bronchitis,123588010#,1,1,2,885281000006118#,Mucopurulent chr. bronchitis,H311-99,H311.99,885000000000000,NA,32
+74417001#,Mucopurulent chronic bronchitis,123588010#,1,1,2,301448015#,Mucopurulent chronic bronchitis NOS,H311z,H311z00,123588010,NA,32
+74417001#,Chronic catarrhal bronchitis,123589019#,1,1,2,123588010#,Mucopurulent chronic bronchitis,H311,H311.00,123588010,NA,32
+74417001#,Chronic catarrhal bronchitis,123589019#,1,1,2,885281000006118#,Mucopurulent chr. bronchitis,H311-99,H311.99,885000000000000,NA,32
+74417001#,Chronic catarrhal bronchitis,123589019#,1,1,2,301448015#,Mucopurulent chronic bronchitis NOS,H311z,H311z00,123588010,NA,32
+74417001#,Mucopurulent chronic bronchitis (disorder),814914010#,1,1,2,123588010#,Mucopurulent chronic bronchitis,H311,H311.00,123588010,NA,32
+74417001#,Mucopurulent chronic bronchitis (disorder),814914010#,1,1,2,885281000006118#,Mucopurulent chr. bronchitis,H311-99,H311.99,885000000000000,NA,32
+74417001#,Mucopurulent chronic bronchitis (disorder),814914010#,1,1,2,301448015#,Mucopurulent chronic bronchitis NOS,H311z,H311z00,123588010,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Emphysematous bronchitis,285100019#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Chronic bronchitis with emphysema,285101015#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Bronchitis with airway obstruction,285102010#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,COB - Chronic obstructive bronchitis,285103017#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Obstructive chronic bronchitis,285104011#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Chronic obstructive bronchitis (disorder),568179015#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,285100019#,Emphysematous bronchitis,H3121,H312100,285100019,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,301455018#,Obstructive chronic bronchitis NOS,H312z,H312z00,285100019,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,4733031000006114#,Chronic obstructive bronchitis,^ESCTCH473303,NA,2668815014,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,4733011000006115#,COB - Chronic obstructive bronchitis,^ESCTCO473301,NA,285103017,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,4733021000006111#,Obstructive chronic bronchitis,^ESCTOB473302,NA,285104011,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,4732991000006119#,Chronic bronchitis with emphysema,^ESCTCH473299,NA,285101015,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,4733001000006118#,Bronchitis with airway obstruction,^ESCTBR473300,NA,285102010,NA,32
+185086009#,Chronic obstructive bronchitis,2668815014#,1,1,2,285104011#,Obstructive chronic bronchitis,H312,H312.00,285100019,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease,301453013#,1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,301453013,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease,301453013#,1,1,2,4781421000006111#,Acute exacerbation of COPD,^ESCTAC478142,NA,3012683010,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease,301453013#,1,1,2,4781431000006114#,Acute exacerbation of chronic obstructive pulmonary disease,^ESCTAC478143,NA,3012710012,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease,301453013#,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,301453013,NA,32
+195951007#,Acute exacerbation of chronic bronchitis,301454019#,1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,301453013,NA,32
+195951007#,Acute exacerbation of chronic bronchitis,301454019#,1,1,2,4781421000006111#,Acute exacerbation of COPD,^ESCTAC478142,NA,3012683010,NA,32
+195951007#,Acute exacerbation of chronic bronchitis,301454019#,1,1,2,4781431000006114#,Acute exacerbation of chronic obstructive pulmonary disease,^ESCTAC478143,NA,3012710012,NA,32
+195951007#,Acute exacerbation of chronic bronchitis,301454019#,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,301453013,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease (disorder),580117017#,1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,301453013,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease (disorder),580117017#,1,1,2,4781421000006111#,Acute exacerbation of COPD,^ESCTAC478142,NA,3012683010,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease (disorder),580117017#,1,1,2,4781431000006114#,Acute exacerbation of chronic obstructive pulmonary disease,^ESCTAC478143,NA,3012710012,NA,32
+195951007#,Acute exacerbation of chronic obstructive airways disease (disorder),580117017#,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,301453013,NA,32
+195951007#,Acute exacerbation of COPD,3012683010#,1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,301453013,NA,32
+195951007#,Acute exacerbation of COPD,3012683010#,1,1,2,4781421000006111#,Acute exacerbation of COPD,^ESCTAC478142,NA,3012683010,NA,32
+195951007#,Acute exacerbation of COPD,3012683010#,1,1,2,4781431000006114#,Acute exacerbation of chronic obstructive pulmonary disease,^ESCTAC478143,NA,3012710012,NA,32
+195951007#,Acute exacerbation of COPD,3012683010#,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,301453013,NA,32
+195951007#,Acute exacerbation of chronic obstructive pulmonary disease,3012710012#,1,1,2,553211000006119#,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",H3y1,H3y1.00,301453013,NA,32
+195951007#,Acute exacerbation of chronic obstructive pulmonary disease,3012710012#,1,1,2,4781421000006111#,Acute exacerbation of COPD,^ESCTAC478142,NA,3012683010,NA,32
+195951007#,Acute exacerbation of chronic obstructive pulmonary disease,3012710012#,1,1,2,4781431000006114#,Acute exacerbation of chronic obstructive pulmonary disease,^ESCTAC478143,NA,3012710012,NA,32
+195951007#,Acute exacerbation of chronic obstructive pulmonary disease,3012710012#,1,1,2,301453013#,Acute exacerbation of chronic obstructive airways disease,H3122,H312200,301453013,NA,32
+195953005#,Mixed simple and mucopurulent chronic bronchitis,301456017#,1,1,2,301456017#,Mixed simple and mucopurulent chronic bronchitis,H313,H313.00,301456017,NA,32
+195953005#,Mixed simple and mucopurulent chronic bronchitis (disorder),580119019#,1,1,2,301456017#,Mixed simple and mucopurulent chronic bronchitis,H313,H313.00,301456017,NA,32
+63480004#,Chronic bronchitis,105519017#,1,1,2,301458016#,Other chronic bronchitis NOS,H31yz,H31yz00,105519017,NA,32
+63480004#,Chronic bronchitis,105519017#,1,1,2,301457014#,Other chronic bronchitis,H31y,H31y.00,105519017,NA,32
+63480004#,Chronic bronchitis,105519017#,1,1,2,301459012#,Chronic bronchitis NOS,H31z,H31z.00,105519017,NA,32
+63480004#,Chronic bronchitis,105519017#,1,1,2,105519017#,Chronic bronchitis,H31,H31..00,105519017,NA,32
+63480004#,"Chronic bronchitis, NOS",105520011#,1,1,2,301458016#,Other chronic bronchitis NOS,H31yz,H31yz00,105519017,NA,32
+63480004#,"Chronic bronchitis, NOS",105520011#,1,1,2,301457014#,Other chronic bronchitis,H31y,H31y.00,105519017,NA,32
+63480004#,"Chronic bronchitis, NOS",105520011#,1,1,2,301459012#,Chronic bronchitis NOS,H31z,H31z.00,105519017,NA,32
+63480004#,"Chronic bronchitis, NOS",105520011#,1,1,2,105519017#,Chronic bronchitis,H31,H31..00,105519017,NA,32
+63480004#,Chronic bronchitis (disorder),802767012#,1,1,2,301458016#,Other chronic bronchitis NOS,H31yz,H31yz00,105519017,NA,32
+63480004#,Chronic bronchitis (disorder),802767012#,1,1,2,301457014#,Other chronic bronchitis,H31y,H31y.00,105519017,NA,32
+63480004#,Chronic bronchitis (disorder),802767012#,1,1,2,301459012#,Chronic bronchitis NOS,H31z,H31z.00,105519017,NA,32
+63480004#,Chronic bronchitis (disorder),802767012#,1,1,2,105519017#,Chronic bronchitis,H31,H31..00,105519017,NA,32
+195958001#,Segmental bullous emphysema,301463017#,1,1,2,301463017#,Segmental bullous emphysema,H3200,H320000,301463017,NA,32
+195958001#,Segmental bullous emphysema (disorder),580125015#,1,1,2,301463017#,Segmental bullous emphysema,H3200,H320000,301463017,NA,32
+195959009#,Zonal bullous emphysema,301464011#,1,1,2,301464011#,Zonal bullous emphysema,H3201,H320100,301464011,NA,32
+195959009#,Zonal bullous emphysema (disorder),580126019#,1,1,2,301464011#,Zonal bullous emphysema,H3201,H320100,301464011,NA,32
+16003001#,Giant bullous emphysema,27096010#,1,1,2,27096010#,Giant bullous emphysema,H3202,H320200,27096010,NA,32
+16003001#,Giant bullous emphysema (disorder),742941010#,1,1,2,27096010#,Giant bullous emphysema,H3202,H320200,27096010,NA,32
+266355005#,Bullous emphysema with collapse,396108018#,1,1,2,396108018#,Bullous emphysema with collapse,H3203,H320300,396108018,NA,32
+266355005#,Bullous emphysema with collapse (disorder),658840011#,1,1,2,396108018#,Bullous emphysema with collapse,H3203,H320300,396108018,NA,32
+195957006#,Chronic bullous emphysema,301460019#,1,1,2,301460019#,Chronic bullous emphysema,H320,H320.00,301460019,NA,32
+195957006#,Chronic bullous emphysema,301460019#,1,1,2,301468014#,Chronic bullous emphysema NOS,H320z,H320z00,301460019,NA,32
+195957006#,Chronic bullous emphysema,301460019#,1,1,2,4781461000006117#,Emphysematous bulla,^ESCTEM478146,NA,301461015,NA,32
+195957006#,Chronic bullous emphysema,301460019#,1,1,2,4781471000006112#,Bullous emphysema,^ESCTBU478147,NA,301462010,NA,32
+195957006#,Emphysematous bulla,301461015#,1,1,2,301460019#,Chronic bullous emphysema,H320,H320.00,301460019,NA,32
+195957006#,Emphysematous bulla,301461015#,1,1,2,301468014#,Chronic bullous emphysema NOS,H320z,H320z00,301460019,NA,32
+195957006#,Emphysematous bulla,301461015#,1,1,2,4781461000006117#,Emphysematous bulla,^ESCTEM478146,NA,301461015,NA,32
+195957006#,Emphysematous bulla,301461015#,1,1,2,4781471000006112#,Bullous emphysema,^ESCTBU478147,NA,301462010,NA,32
+195957006#,Bullous emphysema,301462010#,1,1,2,301460019#,Chronic bullous emphysema,H320,H320.00,301460019,NA,32
+195957006#,Bullous emphysema,301462010#,1,1,2,301468014#,Chronic bullous emphysema NOS,H320z,H320z00,301460019,NA,32
+195957006#,Bullous emphysema,301462010#,1,1,2,4781461000006117#,Emphysematous bulla,^ESCTEM478146,NA,301461015,NA,32
+195957006#,Bullous emphysema,301462010#,1,1,2,4781471000006112#,Bullous emphysema,^ESCTBU478147,NA,301462010,NA,32
+195957006#,Chronic bullous emphysema (disorder),580124016#,1,1,2,301460019#,Chronic bullous emphysema,H320,H320.00,301460019,NA,32
+195957006#,Chronic bullous emphysema (disorder),580124016#,1,1,2,301468014#,Chronic bullous emphysema NOS,H320z,H320z00,301460019,NA,32
+195957006#,Chronic bullous emphysema (disorder),580124016#,1,1,2,4781461000006117#,Emphysematous bulla,^ESCTEM478146,NA,301461015,NA,32
+195957006#,Chronic bullous emphysema (disorder),580124016#,1,1,2,4781471000006112#,Bullous emphysema,^ESCTBU478147,NA,301462010,NA,32
+4981000#,Panacinar emphysema,9336013#,1,1,2,2578881000006118#,Panacinar emphysema,^ESCTPA257888,NA,9336013,NA,32
+4981000#,Panacinar emphysema,9336013#,1,1,2,2578901000006116#,Vesicular emphysema,^ESCTVE257890,NA,9338014,NA,32
+4981000#,Panacinar emphysema,9336013#,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,9337016,NA,32
+4981000#,Panacinar emphysema,9336013#,1,1,2,2578911000006118#,Alveolar emphysema of lung,^ESCTAL257891,NA,9339018,NA,32
+4981000#,Panlobular emphysema,9337016#,1,1,2,2578881000006118#,Panacinar emphysema,^ESCTPA257888,NA,9336013,NA,32
+4981000#,Panlobular emphysema,9337016#,1,1,2,2578901000006116#,Vesicular emphysema,^ESCTVE257890,NA,9338014,NA,32
+4981000#,Panlobular emphysema,9337016#,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,9337016,NA,32
+4981000#,Panlobular emphysema,9337016#,1,1,2,2578911000006118#,Alveolar emphysema of lung,^ESCTAL257891,NA,9339018,NA,32
+4981000#,Vesicular emphysema,9338014#,1,1,2,2578881000006118#,Panacinar emphysema,^ESCTPA257888,NA,9336013,NA,32
+4981000#,Vesicular emphysema,9338014#,1,1,2,2578901000006116#,Vesicular emphysema,^ESCTVE257890,NA,9338014,NA,32
+4981000#,Vesicular emphysema,9338014#,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,9337016,NA,32
+4981000#,Vesicular emphysema,9338014#,1,1,2,2578911000006118#,Alveolar emphysema of lung,^ESCTAL257891,NA,9339018,NA,32
+4981000#,Alveolar emphysema of lung,9339018#,1,1,2,2578881000006118#,Panacinar emphysema,^ESCTPA257888,NA,9336013,NA,32
+4981000#,Alveolar emphysema of lung,9339018#,1,1,2,2578901000006116#,Vesicular emphysema,^ESCTVE257890,NA,9338014,NA,32
+4981000#,Alveolar emphysema of lung,9339018#,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,9337016,NA,32
+4981000#,Alveolar emphysema of lung,9339018#,1,1,2,2578911000006118#,Alveolar emphysema of lung,^ESCTAL257891,NA,9339018,NA,32
+4981000#,Panacinar emphysema (disorder),787529017#,1,1,2,2578881000006118#,Panacinar emphysema,^ESCTPA257888,NA,9336013,NA,32
+4981000#,Panacinar emphysema (disorder),787529017#,1,1,2,2578901000006116#,Vesicular emphysema,^ESCTVE257890,NA,9338014,NA,32
+4981000#,Panacinar emphysema (disorder),787529017#,1,1,2,9337016#,Panlobular emphysema,H321,H321.00,9337016,NA,32
+4981000#,Panacinar emphysema (disorder),787529017#,1,1,2,2578911000006118#,Alveolar emphysema of lung,^ESCTAL257891,NA,9339018,NA,32
+68328006#,Centriacinar emphysema,113496019#,1,1,2,113497011#,Centrilobular emphysema,H322,H322.00,113497011,NA,32
+68328006#,Centriacinar emphysema,113496019#,1,1,2,3611791000006110#,Centriacinar emphysema,^ESCTCE361179,NA,113496019,NA,32
+68328006#,Centrilobular emphysema,113497011#,1,1,2,113497011#,Centrilobular emphysema,H322,H322.00,113497011,NA,32
+68328006#,Centrilobular emphysema,113497011#,1,1,2,3611791000006110#,Centriacinar emphysema,^ESCTCE361179,NA,113496019,NA,32
+68328006#,Centriacinar emphysema (disorder),808151015#,1,1,2,113497011#,Centrilobular emphysema,H322,H322.00,113497011,NA,32
+68328006#,Centriacinar emphysema (disorder),808151015#,1,1,2,3611791000006110#,Centriacinar emphysema,^ESCTCE361179,NA,113496019,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,144964015,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,144964015,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,396110016#,Other emphysema NOS,H32yz,H32yz00,144964015,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,144964015,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,3921361000006112#,Emphysema of lung,^ESCTEM392136,NA,144967010,NA,32
+87433001#,Pulmonary emphysema,144964015#,1,1,2,301469018#,Other emphysema,H32y,H32y.00,144964015,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,144964015,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,144964015,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,396110016#,Other emphysema NOS,H32yz,H32yz00,144964015,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,144964015,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,3921361000006112#,Emphysema of lung,^ESCTEM392136,NA,144967010,NA,32
+87433001#,"Pulmonary emphysema, NOS",144965019#,1,1,2,301469018#,Other emphysema,H32y,H32y.00,144964015,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,144964015,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,144964015,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,396110016#,Other emphysema NOS,H32yz,H32yz00,144964015,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,144964015,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,3921361000006112#,Emphysema of lung,^ESCTEM392136,NA,144967010,NA,32
+87433001#,"Emphysema of lung, NOS",144966018#,1,1,2,301469018#,Other emphysema,H32y,H32y.00,144964015,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,144964015,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,144964015,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,396110016#,Other emphysema NOS,H32yz,H32yz00,144964015,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,144964015,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,3921361000006112#,Emphysema of lung,^ESCTEM392136,NA,144967010,NA,32
+87433001#,Emphysema of lung,144967010#,1,1,2,301469018#,Other emphysema,H32y,H32y.00,144964015,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,301477019#,Emphysema NOS,H32z,H32z.00,144964015,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,301835010#,[X]Other emphysema,Hyu30,Hyu3000,144964015,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,396110016#,Other emphysema NOS,H32yz,H32yz00,144964015,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,640491000006111#,Pulmonary emphysema,H32,H32..00,144964015,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,3921361000006112#,Emphysema of lung,^ESCTEM392136,NA,144967010,NA,32
+87433001#,Pulmonary emphysema (disorder),829906018#,1,1,2,301469018#,Other emphysema,H32y,H32y.00,144964015,NA,32
+195963002#,Acute vesicular emphysema,301470017#,1,1,2,301470017#,Acute vesicular emphysema,H32y0,H32y000,301470017,NA,32
+195963002#,Acute vesicular emphysema (disorder),580131017#,1,1,2,301470017#,Acute vesicular emphysema,H32y0,H32y000,301470017,NA,32
+266356006#,Atrophic (senile) emphysema,396109014#,1,1,2,396109014#,Atrophic (senile) emphysema,H32y1,H32y100,396109014,NA,32
+266356006#,Atrophic (senile) emphysema (disorder),658841010#,1,1,2,396109014#,Atrophic (senile) emphysema,H32y1,H32y100,396109014,NA,32
+77690003#,Interstitial emphysema of lung,128944012#,1,1,2,12704691000006117#,Interstitial emphysema,^ESCT1270469,NA,770000000000000,NA,32
+77690003#,Interstitial emphysema of lung,128944012#,1,1,2,19421011#,Interstitial pulmonary emphysema,H581,H581.00,503646013,NA,32
+77690003#,Interstitial emphysema of lung,128944012#,1,1,2,3764031000006119#,Interstitial pulmonary emphysema,^ESCTIN376403,NA,376e13,NA,32
+77690003#,Interstitial emphysema of lung,128944012#,1,1,2,3764021000006117#,Interstitial emphysema of lung,^ESCTIN376402,NA,128944012,NA,32
+77690003#,Interstitial emphysema of lung,128944012#,1,1,2,457581000006111#,Acute interstitial emphysema,H32y1-1,H32y111,503646013,NA,32
+77690003#,Interstitial pulmonary emphysema,503646013#,1,1,2,12704691000006117#,Interstitial emphysema,^ESCT1270469,NA,770000000000000,NA,32
+77690003#,Interstitial pulmonary emphysema,503646013#,1,1,2,19421011#,Interstitial pulmonary emphysema,H581,H581.00,503646013,NA,32
+77690003#,Interstitial pulmonary emphysema,503646013#,1,1,2,3764031000006119#,Interstitial pulmonary emphysema,^ESCTIN376403,NA,376e13,NA,32
+77690003#,Interstitial pulmonary emphysema,503646013#,1,1,2,3764021000006117#,Interstitial emphysema of lung,^ESCTIN376402,NA,128944012,NA,32
+77690003#,Interstitial pulmonary emphysema,503646013#,1,1,2,457581000006111#,Acute interstitial emphysema,H32y1-1,H32y111,503646013,NA,32
+77690003#,Interstitial emphysema of lung (disorder),818548014#,1,1,2,12704691000006117#,Interstitial emphysema,^ESCT1270469,NA,770000000000000,NA,32
+77690003#,Interstitial emphysema of lung (disorder),818548014#,1,1,2,19421011#,Interstitial pulmonary emphysema,H581,H581.00,503646013,NA,32
+77690003#,Interstitial emphysema of lung (disorder),818548014#,1,1,2,3764031000006119#,Interstitial pulmonary emphysema,^ESCTIN376403,NA,376e13,NA,32
+77690003#,Interstitial emphysema of lung (disorder),818548014#,1,1,2,3764021000006117#,Interstitial emphysema of lung,^ESCTIN376402,NA,128944012,NA,32
+77690003#,Interstitial emphysema of lung (disorder),818548014#,1,1,2,457581000006111#,Acute interstitial emphysema,H32y1-1,H32y111,503646013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic obstructive lung disease,23287019#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,"Chronic obstructive lung disease, NOS",23288012#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,COLD,23289016#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,COLD,23289016#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,COLD,23289016#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,COLD,23289016#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,COLD,23289016#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,COLD,23289016#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,COLD,23289016#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,COLD,23289016#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,COLD,23289016#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,COLD,23289016#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,COLD,23289016#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,COLD,23289016#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,COLD,23289016#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,COLD,23289016#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,COLD,23289016#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,COLD,23289016#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,COLD,23289016#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,COLD,23289016#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,COLD,23289016#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,COLD,23289016#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,COPD,23290013#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,COPD,23290013#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,COPD,23290013#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,COPD,23290013#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,COPD,23290013#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,COPD,23290013#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,COPD,23290013#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,COPD,23290013#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,COPD,23290013#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,COPD,23290013#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,COPD,23290013#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,COPD,23290013#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,COPD,23290013#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,COPD,23290013#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,COPD,23290013#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,COPD,23290013#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,COPD,23290013#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,COPD,23290013#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,COPD,23290013#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,COPD,23290013#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,"Chronic obstructive lung disease, NEC",23291012#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic airway obstruction,475419011#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic irreversible airway obstruction,475420017#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic airflow obstruction,475421018#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,CAFL - Chronic airflow limitation,475422013#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,COAD - Chronic obstructive airways disease,475423015#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,CAO - Chronic airflow obstruction,475424014#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic airflow limitation,475425010#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,CAL - Chronic airflow limitation,475426011#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,COPD - Chronic obstructive pulmonary disease,475427019#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic obstructive airway disease,475428012#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic airway disease,475429016#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,COLD - Chronic obstructive lung disease,475430014#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic obstructive pulmonary disease,475431013#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,475431013#,Chronic obstructive pulmonary disease,H3,H3...00,475431013,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,990651000006112#,Chr. airway obstruction NOS,H3-98,H3...98,991000000000000,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716351000006113#,COLD - Chronic obstructive lung disease,^ESCTCO271635,NA,475430014,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716321000006116#,COPD - Chronic obstructive pulmonary disease,^ESCTCO271632,NA,475427019,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716251000006119#,Chronic irreversible airway obstruction,^ESCTCH271625,NA,475420017,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716301000006114#,Chronic airflow limitation,^ESCTCH271630,NA,475425010,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716271000006112#,CAFL - Chronic airflow limitation,^ESCTCA271627,NA,475422013,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716311000006112#,CAL - Chronic airflow limitation,^ESCTCA271631,NA,475426011,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,301836011#,[X]Other specified chronic obstructive pulmonary disease,Hyu31,Hyu3100,475431013,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,555471000006114#,COAD - Chronic obstructive airways disease,H3-1,H3...11,475423015,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716241000006116#,Chronic airway obstruction,^ESCTCH271624,NA,475419011,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,1222334016#,Other specified chronic obstructive pulmonary disease,H3y-1,H3y..11,475431013,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,1222335015#,Chronic obstructive pulmonary disease NOS,H3z-1,H3z..11,475431013,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,301545019#,Chronic obstructive airway disease,H3z,H3z..00,475428012,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716291000006113#,CAO - Chronic airflow obstruction,^ESCTCA271629,NA,475424014,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716231000006114#,Chronic obstructive lung disease,^ESCTCH271623,NA,23287019,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716261000006117#,Chronic airflow obstruction,^ESCTCH271626,NA,475421018,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,301539010#,Other specified chronic obstructive airways disease,H3y,H3y..00,475428012,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,990641000006110#,Chronic obst. pulm. dis. NOS,H3-99,H3...99,991000000000000,NA,32
+13645005#,Chronic obstructive lung disease (disorder),739041012#,1,1,2,2716341000006111#,Chronic airway disease,^ESCTCH271634,NA,475429016,NA,32
+196001008#,Chronic obstructive pulmonary disease with acute lower respiratory infection,301542016#,1,1,2,555461000006119#,Chronic obstructive pulmonary disease with acute lower respiratory infection,H3y0,H3y0.00,301542016,NA,32
+196001008#,Chronic obstructive pulmonary disease with acute lower respiratory infection (disorder),580175018#,1,1,2,555461000006119#,Chronic obstructive pulmonary disease with acute lower respiratory infection,H3y0,H3y0.00,301542016,NA,32
+196001008#,COPD (chronic obstructive pulmonary disease) with acute lower respiratory infection,3915204011#,1,1,2,555461000006119#,Chronic obstructive pulmonary disease with acute lower respiratory infection,H3y0,H3y0.00,301542016,NA,32
+196026004#,Chronic emphysema due to chemical fumes,301572010#,1,1,2,4781821000006113#,Chronic emphysema caused by chemical fumes,^ESCTCH478182,NA,3296151011,NA,32
+196026004#,Chronic emphysema due to chemical fumes,301572010#,1,1,2,301572010#,Chronic emphysema due to chemical fumes,H4640,H464000,301572010,NA,32
+196026004#,Chronic emphysema due to chemical fumes (disorder),580204012#,1,1,2,4781821000006113#,Chronic emphysema caused by chemical fumes,^ESCTCH478182,NA,3296151011,NA,32
+196026004#,Chronic emphysema due to chemical fumes (disorder),580204012#,1,1,2,301572010#,Chronic emphysema due to chemical fumes,H4640,H464000,301572010,NA,32
+196026004#,Chronic emphysema caused by chemical fumes (disorder),3295764013#,1,1,2,4781821000006113#,Chronic emphysema caused by chemical fumes,^ESCTCH478182,NA,3296151011,NA,32
+196026004#,Chronic emphysema caused by chemical fumes (disorder),3295764013#,1,1,2,301572010#,Chronic emphysema due to chemical fumes,H4640,H464000,301572010,NA,32
+196026004#,Chronic emphysema caused by chemical fumes,3296151011#,1,1,2,4781821000006113#,Chronic emphysema caused by chemical fumes,^ESCTCH478182,NA,3296151011,NA,32
+196026004#,Chronic emphysema caused by chemical fumes,3296151011#,1,1,2,301572010#,Chronic emphysema due to chemical fumes,H4640,H464000,301572010,NA,32
+270473001#,H/O: chr.obstr. airway disease,405080018#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,H/O: chr.obstr. airway disease,405080018#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,H/O: chr.obstr. airway disease,405080018#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease (context-dependent category),663101019#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease (context-dependent category),663101019#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,History of - chronic obstructive airway disease (context-dependent category),663101019#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease (situation),2610030015#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease (situation),2610030015#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,History of - chronic obstructive airway disease (situation),2610030015#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease,2669817012#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,History of - chronic obstructive airway disease,2669817012#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,History of - chronic obstructive airway disease,2669817012#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+270473001#,History of chronic obstructive airway disease,2986462010#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,History of chronic obstructive airway disease,2986462010#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,History of chronic obstructive airway disease,2986462010#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+270473001#,History of chronic obstructive airway disease (situation),2987013014#,1,1,2,405080018#,H/O: chr.obstr. airway disease,14B3,14B3.00,177e13,NA,32
+270473001#,History of chronic obstructive airway disease (situation),2987013014#,1,1,2,5516841000006119#,History of chronic obstructive airway disease,^ESCTHI551684,NA,2986462010,NA,32
+270473001#,History of chronic obstructive airway disease (situation),2987013014#,1,1,2,1765681000000110#,History of chronic obstructive pulmonary disease,14B3-2,14B3.12,177e13,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis,301450011#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic wheezy bronchitis,301451010#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,183191000006115#,Recurrent wheezy bronchitis,H30-2,H30..12,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,301450011#,Chronic asthmatic bronchitis,H3120,H312000,301450011,NA,32
+195949008#,Chronic asthmatic bronchitis (disorder),580115013#,1,1,2,301451010#,Chronic wheezy bronchitis,H3120-1,H312011,301451010,NA,32
+52571006#,Chronic tracheobronchitis,87480013#,1,1,2,87480013#,Chronic tracheobronchitis,H31y1,H31y100,87480013,NA,32
+52571006#,Chronic tracheobronchitis (disorder),790595018#,1,1,2,87480013#,Chronic tracheobronchitis,H31y1,H31y100,87480013,NA,32
+313296004#,Mild chronic obstructive pulmonary disease,457168017#,1,1,2,457168017#,Mild chronic obstructive pulmonary disease,H36,H36..00,457168017,NA,32
+313296004#,Mild chronic obstructive pulmonary disease (disorder),710063018#,1,1,2,457168017#,Mild chronic obstructive pulmonary disease,H36,H36..00,457168017,NA,32
+313297008#,Moderate chronic obstructive pulmonary disease,457169013#,1,1,2,457169013#,Moderate chronic obstructive pulmonary disease,H37,H37..00,457169013,NA,32
+313297008#,Moderate chronic obstructive pulmonary disease (disorder),710064012#,1,1,2,457169013#,Moderate chronic obstructive pulmonary disease,H37,H37..00,457169013,NA,32
+313299006#,Severe chronic obstructive pulmonary disease,457171013#,1,1,2,457171013#,Severe chronic obstructive pulmonary disease,H38,H38..00,457171013,NA,32
+313299006#,Severe chronic obstructive pulmonary disease (disorder),710066014#,1,1,2,457171013#,Severe chronic obstructive pulmonary disease,H38,H38..00,457171013,NA,32
+135836000#,End stage chronic obstructive airways disease,216596014#,1,1,2,4510801000006114#,End stage chronic obstructive pulmonary disease,^ESCTEN451080,NA,3034045017,NA,32
+135836000#,End stage chronic obstructive airways disease,216596014#,1,1,2,216596014#,End stage chronic obstructive airways disease,H3A,H3A..00,216596014,NA,32
+135836000#,End stage chronic obstructive airways disease (disorder),514345018#,1,1,2,4510801000006114#,End stage chronic obstructive pulmonary disease,^ESCTEN451080,NA,3034045017,NA,32
+135836000#,End stage chronic obstructive airways disease (disorder),514345018#,1,1,2,216596014#,End stage chronic obstructive airways disease,H3A,H3A..00,216596014,NA,32
+135836000#,End stage chronic obstructive pulmonary disease,3034045017#,1,1,2,4510801000006114#,End stage chronic obstructive pulmonary disease,^ESCTEN451080,NA,3034045017,NA,32
+135836000#,End stage chronic obstructive pulmonary disease,3034045017#,1,1,2,216596014#,End stage chronic obstructive airways disease,H3A,H3A..00,216596014,NA,32
+425748003#,Acute exacerbation of chronic bronchitis (disorder),2662652018#,1,1,2,7049011000006110#,Acute exacerbation of chronic bronchitis,^ESCTAC704901,NA,2674296011,NA,32
+425748003#,Acute exacerbation of chronic bronchitis,2674296011#,1,1,2,7049011000006110#,Acute exacerbation of chronic bronchitis,^ESCTAC704901,NA,2674296011,NA,32
+49691004#,Occupational bronchitis,82755016#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,Occupational bronchitis,82755016#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,Occupational bronchitis,82755016#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+49691004#,"Occupational bronchitis, NOS",82756015#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,"Occupational bronchitis, NOS",82756015#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,"Occupational bronchitis, NOS",82756015#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+49691004#,"Industrial bronchitis, NOS",82757012#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,"Industrial bronchitis, NOS",82757012#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,"Industrial bronchitis, NOS",82757012#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+49691004#,Industrial bronchitis,82758019#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,Industrial bronchitis,82758019#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,Industrial bronchitis,82758019#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+49691004#,Occupational chronic bronchitis,495472018#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,Occupational chronic bronchitis,495472018#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,Occupational chronic bronchitis,495472018#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+49691004#,Occupational bronchitis (disorder),787397014#,1,1,2,3304301000006112#,Occupational bronchitis,^ESCTOC330430,NA,82755016,NA,31
+49691004#,Occupational bronchitis (disorder),787397014#,1,1,2,3304321000006119#,Occupational chronic bronchitis,^ESCTOC330432,NA,495472018,NA,31
+49691004#,Occupational bronchitis (disorder),787397014#,1,1,2,3304311000006110#,Industrial bronchitis,^ESCTIN330431,NA,82758019,NA,31
+233674008#,Pulmonary emphysema in alpha-1 PI deficiency,350142010#,1,1,2,5054281000006114#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,^ESCTPU505428,NA,2982687013,NA,31
+233674008#,Pulmonary emphysema in alpha-1 PI deficiency,350142010#,1,1,2,5054271000006111#,Pulmonary emphysema in alpha-1 PI deficiency,^ESCTPU505427,NA,350142010,NA,31
+233674008#,Pulmonary emphysema in alpha-1 PI deficiency (disorder),621890016#,1,1,2,5054281000006114#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,^ESCTPU505428,NA,2982687013,NA,31
+233674008#,Pulmonary emphysema in alpha-1 PI deficiency (disorder),621890016#,1,1,2,5054271000006111#,Pulmonary emphysema in alpha-1 PI deficiency,^ESCTPU505427,NA,350142010,NA,31
+233674008#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,2982687013#,1,1,2,5054281000006114#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,^ESCTPU505428,NA,2982687013,NA,31
+233674008#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,2982687013#,1,1,2,5054271000006111#,Pulmonary emphysema in alpha-1 PI deficiency,^ESCTPU505427,NA,350142010,NA,31
+233674008#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency (disorder),2982819017#,1,1,2,5054281000006114#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency,^ESCTPU505428,NA,2982687013,NA,31
+233674008#,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency (disorder),2982819017#,1,1,2,5054271000006111#,Pulmonary emphysema in alpha-1 PI deficiency,^ESCTPU505427,NA,350142010,NA,31
+233675009#,Toxic emphysema,350143017#,1,1,2,5054291000006112#,Toxic emphysema,^ESCTTO505429,NA,350143017,NA,31
+233675009#,Toxic emphysema,350143017#,1,1,2,5054301000006113#,Chemical emphysema,^ESCTCH505430,NA,350144011,NA,31
+233675009#,Chemical emphysema,350144011#,1,1,2,5054291000006112#,Toxic emphysema,^ESCTTO505429,NA,350143017,NA,31
+233675009#,Chemical emphysema,350144011#,1,1,2,5054301000006113#,Chemical emphysema,^ESCTCH505430,NA,350144011,NA,31
+233675009#,Toxic emphysema (disorder),621891017#,1,1,2,5054291000006112#,Toxic emphysema,^ESCTTO505429,NA,350143017,NA,31
+233675009#,Toxic emphysema (disorder),621891017#,1,1,2,5054301000006113#,Chemical emphysema,^ESCTCH505430,NA,350144011,NA,31
+233677001#,Scar emphysema,350146013#,1,1,2,5054311000006111#,Scar emphysema,^ESCTSC505431,NA,350146013,NA,31
+233677001#,Scar emphysema (disorder),621893019#,1,1,2,5054311000006111#,Scar emphysema,^ESCTSC505431,NA,350146013,NA,31
+408501008#,Admit COPD emergency (procedure),2152332015#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Admit COPD emergency (procedure),2152332015#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Admit COPD emergency (procedure),2152332015#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Admit COPD emergency (procedure),2152332015#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Admit COPD emergency,2160051010#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Admit COPD emergency,2160051010#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Admit COPD emergency,2160051010#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Admit COPD emergency,2160051010#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency (procedure),2972570013#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency (procedure),2972570013#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency (procedure),2972570013#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency (procedure),2972570013#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency,2972589013#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency,2972589013#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency,2972589013#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Admit chronic obstructive pulmonary disease emergency,2972589013#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease,3082901016#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease,3082901016#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease,3082901016#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease,3082901016#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease (procedure),3082922010#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease (procedure),3082922010#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease (procedure),3082922010#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Emergency hospital admission for chronic obstructive pulmonary disease (procedure),3082922010#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+408501008#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),3082978011#,1,1,2,12489801000006116#,Admit COPD emergency,^ESCT1248980,NA,2160051010,NA,40
+408501008#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),3082978011#,1,1,2,6763231000006119#,Emergency hospital admission for chronic obstructive pulmonary disease,^ESCTEM676323,NA,676e13,NA,40
+408501008#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),3082978011#,1,1,2,2160051010#,Emergency hospital admission for chronic obstructive pulmonary disease,8H2R,8H2R.00,3082901016,NA,40
+408501008#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),3082978011#,1,1,2,6763251000006114#,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),^ESCTEM676325,NA,3082978011,NA,40
+414087000#,Emergency chronic obstructive pulmonary disease admission since last appointment (regime/therapy),2530102012#,1,1,2,977901000006111#,Emergency chronic obstructive pulmonary disease admission since last appointment,66Ye,66Ye.00,2533539018,NA,1
+414087000#,Emergency chronic obstructive pulmonary disease admission since last appointment,2533539018#,1,1,2,977901000006111#,Emergency chronic obstructive pulmonary disease admission since last appointment,66Ye,66Ye.00,2533539018,NA,1
+723245007#,Number of chronic obstructive pulmonary disease exacerbations in past year (observable entity),3335169010#,1,1,2,977911000006114#,Number of chronic obstructive pulmonary disease exacerbations in past year,66Yf,66Yf.00,3335171010,NA,1
+723245007#,Number of chronic obstructive pulmonary disease exacerbations in past year,3335171010#,1,1,2,977911000006114#,Number of chronic obstructive pulmonary disease exacerbations in past year,66Yf,66Yf.00,3335171010,NA,1
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome,3046456013#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-COPD overlap syndrome (ACOS),3046475015#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,9317331000006113#,Asthma-COPD overlap syndrome (ACOS),^ESCTAS931733,NA,3046475015,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,1948051000006112#,Asthma-chronic obstructive pulmonary disease overlap syndrome,H3B,H3B..00,3046456013,NA,32
+10692761000119107#,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),3046567012#,1,1,2,9317341000006115#,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,^ESCTAC931734,NA,25e14,NA,32
+266395007#,Chronic: [bronchitis NOS] or [tracheobronchitis],396236018#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+266395007#,Chronic tracheobronchitis,396237010#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+266395007#,Chronic bronchitis NOS,396238017#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+266395007#,Tracheobronchitis - chronic,396239013#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+266395007#,Chronic: [bronchitis NOS] or [tracheobronchitis],658885012#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+266395007#,Chronic: [bronchitis NOS] or [tracheobronchitis] (disorder),2752247019#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+285381006#,Acute infective exacerbation of chronic obstructive airways disease,424365019#,1,1,2,424365019#,Acute infective exacerbation of chronic obstructive airways disease,ESCTAC8,NA,424365019,NA,32
+285381006#,Acute infective exacerbation of chronic obstructive airways disease (disorder),679377016#,1,1,2,424365019#,Acute infective exacerbation of chronic obstructive airways disease,ESCTAC8,NA,424365019,NA,32
+293991000000106#,NA,"NA#",0,1,1,516801000000112#,Very severe chronic obstructive pulmonary disease,H39,H39..00,517000000000000,NA,32
+198401000000104#,NA,"NA#",0,1,1,299001000000116#,Chronic obstructive pulmonary disease disturbs sleep,66Yg,66Yg.00,299000000000000,NA,1
+198401000000104#,NA,"NA#",0,1,1,8058301000006110#,COPD (chronic obstructive pulmonary disease) disturbs sleep,^ESCTCO805830,NA,168e13,NA,1
+198411000000102#,NA,"NA#",0,1,1,8058321000006117#,COPD (chronic obstructive pulmonary disease) does not disturb sleep,^ESCTCO805832,NA,168e13,NA,1
+198411000000102#,NA,"NA#",0,1,1,299031000000110#,Chronic obstructive pulmonary disease does not disturb sleep,66Yh,66Yh.00,299000000000000,NA,1
+198901000000105#,NA,"NA#",0,1,1,998281000006115#,Multiple chronic obstructive pulmonary disease emergency hospital admissions,66Yi,66Yi.00,300000000000000,NA,1
+383611000000102#,NA,"NA#",0,1,1,8125721000006119#,At risk of COPD (chronic obstructive pulmonary disease) exacerbation,^ESCTAT812572,NA,757000000000000,NA,32
+383611000000102#,NA,"NA#",0,1,1,1699821000006113#,At risk of chronic obstructive pulmonary disease exacerbation,14OX,14OX.00,757000000000000,NA,32
+847091000000104#,NA,"NA#",0,1,1,2010061000006113#,Acute non-infective exacerbation of chronic obstructive pulmonary disease,EMISNQAC878,NA,22e14,NA,32
+847091000000104#,NA,"NA#",0,1,1,8287171000006115#,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),^ESCTAC828717,NA,22e14,NA,32
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,109794015#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,109794015#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,109794015#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,109794015#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes and vapors,109795019#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes and vapors,109795019#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes and vapors,109795019#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes and vapors,109795019#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+71435009#,Chronic obstructive bronchitis,118668018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Obstructive chronic bronchitis,118669014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Chronic asthmatic bronchitis,118670010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Emphysematous bronchitis,118671014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Chronic bronchitis with emphysema,118673012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+89099002#,Chronic allergic bronchitis,147740015#,1,0,1,3948141000006117#,Chronic allergic bronchitis,^ESCTCH394814,NA,147740015,NA,31
+125295001#,Chronic emphysema,193785017#,1,0,1,4374681000006116#,Chronic emphysema,^ESCTCH437468,NA,193785017,NA,31
+155566007#,Chronic bronchitis,242319011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),242320017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155567003#,Simple chronic bronchitis,242322013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155567003#,Tracheobronchitis - senile,242324014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155568008#,Mucopurulent chronic bronchitis,242326011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155570004#,Acute exacerbation of chronic obstructive airways disease,242328012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155571000#,Acute exacerbation of chronic obstructive airways disease,242329016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Chronic: [bronchitis NOS] or [tracheobronchitis],242330014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Tracheobronchitis - chronic,242331013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Chronic bronchitis NOS,242332018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Chronic tracheobronchitis,242333011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155582008#,Mild chronic obstructive pulmonary disease,242361017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155583003#,Moderate chronic obstructive pulmonary disease,242362012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155584009#,Severe chronic obstructive pulmonary disease,242363019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155585005#,Chronic obstructive airways disease NOS,242364013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155617000#,Chronic obstructive airways disease NOS,242408012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+161526003#,H/O: [COAD] or [bronchitis],251713017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195941006#,Simple chronic bronchitis,301442019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195942004#,Simple chronic bronchitis,301443012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195943009#,Simple chronic bronchitis NOS,301444018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195944003#,Mucopurulent chronic bronchitis,301445017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195945002#,Purulent chronic bronchitis,301446016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195946001#,Purulent chronic bronchitis,301447013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195947005#,Mucopurulent chronic bronchitis NOS,301448015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195950008#,Emphysematous bronchitis,301452015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195952000#,Obstructive chronic bronchitis NOS,301455018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195954004#,Other chronic bronchitis,301457014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195955003#,Other chronic bronchitis NOS,301458016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195956002#,Chronic bronchitis NOS,301459012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195961000#,Chronic bullous emphysema NOS,301468014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195996000#,Mild chronic obstructive pulmonary disease,301536015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195997009#,Moderate chronic obstructive pulmonary disease,301537012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195998004#,Severe chronic obstructive pulmonary disease,301538019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195999007#,Other specified chronic obstructive airways disease,301539010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196002001#,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",301544015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196003006#,Chronic obstructive airways disease NOS,301545019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233626008#,Purulent chronic bronchitis,350078015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233671000#,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",350139016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266394006#,Simple chronic bronchitis,396230012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),396235019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+267147002#,H/O: bronchitis,398145018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+267147002#,H/O: [obstructive airway disease(& chronic)] or [bronchitis],398150012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155566007#,Chronic bronchitis,535910017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),535911018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155568008#,Mucopurulent chronic bronchitis,535912013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155570004#,Acute exacerbation of chronic obstructive airways disease,535914014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155571000#,Acute exacerbation of chronic obstructive airways disease,535916011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Chronic: [bronchitis NOS] or [tracheobronchitis],535917019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155582008#,Mild chronic obstructive pulmonary disease,535928015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155583003#,Moderate chronic obstructive pulmonary disease,535929011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155584009#,Severe chronic obstructive pulmonary disease,535930018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155585005#,Chronic obstructive airways disease NOS,535931019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155617000#,Chronic obstructive airways disease NOS,535966017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195941006#,Simple chronic bronchitis [Ambiguous],580106018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195942004#,Simple chronic bronchitis,580107010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195943009#,Simple chronic bronchitis NOS (disorder),580108017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195944003#,Mucopurulent chronic bronchitis,580109013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195945002#,Purulent chronic bronchitis,580111016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195946001#,Purulent chronic bronchitis,580112011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195947005#,Mucopurulent chronic bronchitis NOS (disorder),580113018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195950008#,Emphysematous bronchitis (disorder),580116014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195952000#,Obstructive chronic bronchitis NOS (disorder),580118010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195954004#,Other chronic bronchitis (disorder),580120013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195955003#,Other chronic bronchitis NOS (disorder),580122017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195956002#,Chronic bronchitis NOS (disorder),580123010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195961000#,Chronic bullous emphysema NOS (disorder),580129014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195996000#,Mild chronic obstructive pulmonary disease,580169010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195997009#,Moderate chronic obstructive pulmonary disease,580170011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195998004#,Severe chronic obstructive pulmonary disease,580171010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195999007#,Other specified chronic obstructive airways disease (disorder),580172015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196002001#,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",580177014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196003006#,Chronic obstructive airways disease NOS (disorder),580178016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196231009#,[X]Other specified chronic obstructive pulmonary disease (disorder),580436019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233671000#,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified (disorder)",621886018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),658884011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+267147002#,H/O: [obstructive airway disease(& chronic)] or [bronchitis],659728014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+125295001#,Chronic emphysema (morphologic abnormality),729103012#,1,0,1,4374681000006116#,Chronic emphysema,^ESCTCH437468,NA,193785017,NA,31
+16846004#,Obstructive emphysema (disorder),743950015#,1,0,1,2767421000006111#,Obstructive emphysema,^ESCTOB276742,NA,28523018,NA,31
+17569003#,Emphysematous bleb (morphologic abnormality),744888012#,1,0,1,2778811000006114#,Emphysematous bleb,^ESCTEM277881,NA,29691010,NA,31
+29591002#,Purulent bronchitis (disorder),760502015#,1,0,1,2975891000006117#,Purulent bronchitis,^ESCTPU297589,NA,49505013,NA,31
+31898008#,Paraseptal emphysema (disorder),763118016#,1,0,1,3013821000006114#,Subpleural emphysema,^ESCTSU301382,NA,53293013,NA,31
+31898008#,Paraseptal emphysema (disorder),763118016#,1,0,1,3013811000006118#,Peripheral lobular emphysema,^ESCTPE301381,NA,53292015,NA,31
+31898008#,Paraseptal emphysema (disorder),763118016#,1,0,1,3013801000006116#,Paraseptal emphysema,^ESCTPA301380,NA,53291010,NA,31
+57686001#,Emphysematous bleb of lung (disorder),796335012#,1,0,1,3437411000006113#,Tension pneumatocele of lung,^ESCTTE343741,NA,95930014,NA,31
+57686001#,Emphysematous bleb of lung (disorder),796335012#,1,0,1,3437401000006110#,Emphysematous bleb of lung,^ESCTEM343740,NA,95929016,NA,31
+60805002#,Hemolytic anemia with emphysema AND cutis laxa (disorder),799798013#,1,0,1,3487781000006118#,Haemolytic anaemia with emphysema AND cutis laxa,^ESCTHA348778,NA,498855016,NA,31
+60805002#,Hemolytic anemia with emphysema AND cutis laxa (disorder),799798013#,1,0,1,3487791000006115#,Hemolytic anemia with emphysema AND cutis laxa,^ESCTHE348779,NA,101041018,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors (disorder),805687010#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors (disorder),805687010#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors (disorder),805687010#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors (disorder),805687010#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+68770004#,Thoracotomy for excision of emphysematous bleb of lung (procedure) [Ambiguous],808641015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Chronic obstructive bronchitis (disorder) [Ambiguous],811601013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+8141004#,Purulent chronic bronchitis (disorder) [Ambiguous],822679011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+86680006#,Ruptured emphysematous bleb of lung (disorder),828994019#,1,0,1,3909511000006110#,Ruptured emphysematous bleb of lung,^ESCTRU390951,NA,143752014,NA,31
+89099002#,Chronic allergic bronchitis (disorder),831920018#,1,0,1,3948141000006117#,Chronic allergic bronchitis,^ESCTCH394814,NA,147740015,NA,31
+196003006#,Chronic obstructive pulmonary disease NOS,1222335015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389859001#,Chronic obstructive pulmonary disease monitoring,1464038010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389861005#,Chronic obstructive pulmonary disease monitoring due,1464040017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389866000#,Chronic obstructive pulmonary disease self-management plan given,1464045010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390591003#,Chronic obstructive pulmonary disease monitoring,1464770018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390593000#,Chronic obstructive pulmonary disease monitoring due,1464772014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390598009#,Chronic obstructive pulmonary disease self-management plan given,1464777015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390891009#,Chronic obstructive pulmonary disease monitoring (regime/therapy),1465069017#,1,0,1,1484924013#,Chronic obstructive pulmonary disease monitoring,66YB,66YB.00,1484924013,NA,1
+390891009#,Chronic obstructive pulmonary disease monitoring (regime/therapy),1465069017#,1,0,1,839001000006111#,COPD self-management plan given,66YI,66YI.00,1484924013,NA,1
+390898003#,Interstitial pulmonary emphysema,1465076010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390941006#,Chronic obstructive pulmonary disease monitoring due (finding),1465119011#,1,0,1,1484971019#,Chronic obstructive pulmonary disease monitoring due,66YD,66YD.00,1484971019,NA,1
+391131001#,Chronic obstructive pulmonary disease self-management plan given (regime/therapy),1465309013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393032000#,Chronic obstructive pulmonary disease follow-up,1467211018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393033005#,Chronic obstructive pulmonary disease annual review,1467212013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393988006#,Chronic obstructive pulmonary disease follow-up,1468046016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393989003#,Chronic obstructive pulmonary disease annual review,1468047013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+394702007#,Chronic obstructive pulmonary disease follow-up (regime/therapy),1468642018#,1,0,1,1494601017#,COAD follow-up,66YL-2,66YL.12,1494601017,NA,1
+394702007#,Chronic obstructive pulmonary disease follow-up (regime/therapy),1468642018#,1,0,1,845451000006118#,COPD follow-up,66YL-1,66YL.11,1488423019,NA,1
+394702007#,Chronic obstructive pulmonary disease follow-up (regime/therapy),1468642018#,1,0,1,1488423019#,Chronic obstructive pulmonary disease follow-up,66YL,66YL.00,1488423019,NA,1
+394703002#,Chronic obstructive pulmonary disease annual review (regime/therapy),1468643011#,1,0,1,1488424013#,Chronic obstructive pulmonary disease annual review,66YM,66YM.00,1488424013,NA,1
+389859001#,Chronic obstructive pulmonary disease monitoring,1483896013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389861005#,Chronic obstructive pulmonary disease monitoring due,1483898014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389866000#,Chronic obstructive pulmonary disease self-management plan given,1483903013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390591003#,Chronic obstructive pulmonary disease monitoring,1484627015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390593000#,Chronic obstructive pulmonary disease monitoring due,1484629017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390598009#,Chronic obstructive pulmonary disease self-management plan given,1484634018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390891009#,Chronic obstructive pulmonary disease monitoring,1484924013#,1,0,1,1484924013#,Chronic obstructive pulmonary disease monitoring,66YB,66YB.00,1484924013,NA,1
+390891009#,Chronic obstructive pulmonary disease monitoring,1484924013#,1,0,1,839001000006111#,COPD self-management plan given,66YI,66YI.00,1484924013,NA,1
+390898003#,Interstitial pulmonary emphysema,1484930013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390941006#,Chronic obstructive pulmonary disease monitoring due,1484971019#,1,0,1,1484971019#,Chronic obstructive pulmonary disease monitoring due,66YD,66YD.00,1484971019,NA,1
+391131001#,Chronic obstructive pulmonary disease self-management plan given,1485153016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393032000#,Chronic obstructive pulmonary disease follow-up,1487005019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393033005#,Chronic obstructive pulmonary disease annual review,1487006018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393988006#,Chronic obstructive pulmonary disease follow-up,1487839019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393989003#,Chronic obstructive pulmonary disease annual review,1487840017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+394702007#,Chronic obstructive pulmonary disease follow-up,1488423019#,1,0,1,1494601017#,COAD follow-up,66YL-2,66YL.12,1494601017,NA,1
+394702007#,Chronic obstructive pulmonary disease follow-up,1488423019#,1,0,1,845451000006118#,COPD follow-up,66YL-1,66YL.11,1488423019,NA,1
+394702007#,Chronic obstructive pulmonary disease follow-up,1488423019#,1,0,1,1488423019#,Chronic obstructive pulmonary disease follow-up,66YL,66YL.00,1488423019,NA,1
+394703002#,Chronic obstructive pulmonary disease annual review,1488424013#,1,0,1,1488424013#,Chronic obstructive pulmonary disease annual review,66YM,66YM.00,1488424013,NA,1
+401184000#,Chronic obstructive pulmonary disease monitoring by nurse (regime/therapy),1769106010#,1,0,1,1780380013#,Chronic obstructive pulmonary disease monitoring by nurse,66YS,66YS.00,1780380013,NA,1
+401185004#,Chronic obstructive pulmonary disease monitoring by doctor (regime/therapy),1769107018#,1,0,1,1780381012#,Chronic obstructive pulmonary disease monitoring by doctor,66YT,66YT.00,1780381012,NA,1
+401184000#,Chronic obstructive pulmonary disease monitoring by nurse,1780380013#,1,0,1,1780380013#,Chronic obstructive pulmonary disease monitoring by nurse,66YS,66YS.00,1780380013,NA,1
+401185004#,Chronic obstructive pulmonary disease monitoring by doctor,1780381012#,1,0,1,1780381012#,Chronic obstructive pulmonary disease monitoring by doctor,66YT,66YT.00,1780381012,NA,1
+412776001#,Chronic obstructive pulmonary disease clinical management plan (qualifier value),2468229010#,1,0,1,11927801000006117#,Chronic obstructive pulmonary disease clinical management plan,^ESCT1192780,NA,2474333013,NA,31
+412776001#,Chronic obstructive pulmonary disease clinical management plan,2474333013#,1,0,1,11927801000006117#,Chronic obstructive pulmonary disease clinical management plan,^ESCT1192780,NA,2474333013,NA,31
+413846005#,Chronic obstructive pulmonary disease finding (finding),2530100016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+413845009#,Chronic obstructive pulmonary disease accident and emergency attendance since last visit (regime/therapy),2530101017#,1,0,1,977891000006112#,Chronic obstructive pulmonary disease accident and emergency attendance since last visit,66Yd,66Yd.00,2533538014,NA,1
+414882007#,Number of chronic obstructive pulmonary disease exacerbations in past year (finding),2530182014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+413846005#,Chronic obstructive pulmonary disease finding,2533537016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+413845009#,Chronic obstructive pulmonary disease accident and emergency attendance since last visit,2533538014#,1,0,1,977891000006112#,Chronic obstructive pulmonary disease accident and emergency attendance since last visit,66Yd,66Yd.00,2533538014,NA,1
+414882007#,Number of chronic obstructive pulmonary disease exacerbations in past year,2533618015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+267147002#,H/O: [obstructive airway disease(& chronic)] or [bronchitis] (situation),2712965010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder),2715421019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155572007#,Chronic: [bronchitis NOS] or [tracheobronchitis] (disorder),2715929012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195944003#,Mucopurulent chronic bronchitis (disorder),2719347018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+138795009#,H/O: [obstructive airway disease(& chronic)] or [bronchitis] (situation),2719840013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196002001#,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified (disorder)",2720106019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195996000#,Mild chronic obstructive pulmonary disease (disorder),2720154010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155585005#,Chronic obstructive airways disease NOS (disorder),2721979018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155568008#,Mucopurulent chronic bronchitis (disorder),2721981016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195942004#,Simple chronic bronchitis (disorder),2723082017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390591003#,Chronic obstructive pulmonary disease monitoring (regime/therapy),2733886014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389866000#,Chronic obstructive pulmonary disease self-management plan given (situation),2734221015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393032000#,Chronic obstructive pulmonary disease follow-up (regime/therapy),2734595019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393134002#,Chronic obstructive pulmonary disease leaflet given (situation),2734766013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390593000#,Chronic obstructive pulmonary disease monitoring due (regime/therapy),2735151011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390598009#,Chronic obstructive pulmonary disease self-management plan given (finding),2735296010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+390898003#,Interstitial pulmonary emphysema (disorder),2736426012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155571000#,Acute exacerbation of chronic obstructive airways disease (disorder),2740535012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155584009#,Severe chronic obstructive pulmonary disease (disorder),2740537016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155566007#,Chronic bronchitis (disorder),2741145010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+68770004#,Thoracotomy for excision of emphysematous bleb of lung (procedure),2743520012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+71435009#,Chronic obstructive bronchitis (disorder),2743550016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393989003#,Chronic obstructive pulmonary disease annual review (regime/therapy),2743845017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393988006#,Chronic obstructive pulmonary disease follow-up (regime/therapy),2745279012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+393033005#,Chronic obstructive pulmonary disease annual review (regime/therapy),2746959017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195941006#,Simple chronic bronchitis (disorder),2747935016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155583003#,Moderate chronic obstructive pulmonary disease (disorder),2748312014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389861005#,Chronic obstructive pulmonary disease monitoring due (regime/therapy),2751589014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155570004#,Acute exacerbation of chronic obstructive airways disease (disorder),2752213017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder),2754548012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195964008#,Emphysema: [acute interstitial] or [atrophic - senile] (disorder),2754681017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+389859001#,Chronic obstructive pulmonary disease monitoring (regime/therapy),2756781014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+8141004#,Purulent chronic bronchitis (disorder),2760053015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155617000#,Chronic obstructive airways disease NOS (disorder),2762061018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,2817447011#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,2817447011#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,2817447011#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,2817447011#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+442025000#,Acute exacerbation of chronic asthmatic bronchitis,2818419010#,1,0,1,7258581000006114#,Acute exacerbation of chronic asthmatic bronchitis,^ESCTAC725858,NA,2818419010,NA,31
+442025000#,Acute exacerbation of chronic asthmatic bronchitis (disorder),2818420016#,1,0,1,7258581000006114#,Acute exacerbation of chronic asthmatic bronchitis,^ESCTAC725858,NA,2818419010,NA,31
+445312005#,Clinical chronic obstructive pulmonary disease questionnaire (assessment scale),2869202018#,1,0,1,11929131000006112#,Clinical chronic obstructive pulmonary disease questionnaire,^ESCT1192913,NA,2872676013,NA,32
+445312005#,Clinical chronic obstructive pulmonary disease questionnaire (assessment scale),2869202018#,1,0,1,7306151000006111#,CCQ - Clinical COPD (chronic obstructive pulmonary disease) questionnaire,^ESCTCC730615,NA,164e13,NA,31
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score (observable entity),2869366019#,1,0,1,7304221000006115#,CCQ (clinical chronic obstructive pulmonary disease questionnaire) total score,^ESCTCC730422,NA,164e13,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score (observable entity),2869366019#,1,0,1,1161361000000118#,Clinical chronic obstructive pulmonary disease questionnaire total score,38Dd,38Dd.00,2872607015,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score (observable entity),2869366019#,1,0,1,7304231000006117#,Clinical COPD (chronic obstructive pulmonary disease) questionnaire total score,^ESCTCL730423,NA,165e13,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score (observable entity),2869366019#,1,0,1,7304211000006111#,Clinical chronic obstructive pulmonary disease questionnaire total score,^ESCTCL730421,NA,73e14,NA,3
+445602009#,Assessment using clinical chronic obstructive pulmonary disease questionnaire (procedure),2869462018#,1,0,1,7310911000006112#,Assessment using clinical chronic obstructive pulmonary disease questionnaire,^ESCTAS731091,NA,2872615017,NA,31
+445602009#,Assessment using clinical chronic obstructive pulmonary disease questionnaire (procedure),2869462018#,1,0,1,7310921000006116#,Assessment using CCQ (clinical chronic obstructive pulmonary disease questionnaire),^ESCTAS731092,NA,164e13,NA,31
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score,2872607015#,1,0,1,7304221000006115#,CCQ (clinical chronic obstructive pulmonary disease questionnaire) total score,^ESCTCC730422,NA,164e13,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score,2872607015#,1,0,1,1161361000000118#,Clinical chronic obstructive pulmonary disease questionnaire total score,38Dd,38Dd.00,2872607015,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score,2872607015#,1,0,1,7304231000006117#,Clinical COPD (chronic obstructive pulmonary disease) questionnaire total score,^ESCTCL730423,NA,165e13,NA,3
+445192002#,Clinical chronic obstructive pulmonary disease questionnaire total score,2872607015#,1,0,1,7304211000006111#,Clinical chronic obstructive pulmonary disease questionnaire total score,^ESCTCL730421,NA,73e14,NA,3
+445602009#,Assessment using clinical chronic obstructive pulmonary disease questionnaire,2872615017#,1,0,1,7310911000006112#,Assessment using clinical chronic obstructive pulmonary disease questionnaire,^ESCTAS731091,NA,2872615017,NA,31
+445602009#,Assessment using clinical chronic obstructive pulmonary disease questionnaire,2872615017#,1,0,1,7310921000006116#,Assessment using CCQ (clinical chronic obstructive pulmonary disease questionnaire),^ESCTAS731092,NA,164e13,NA,31
+445312005#,Clinical chronic obstructive pulmonary disease questionnaire,2872676013#,1,0,1,11929131000006112#,Clinical chronic obstructive pulmonary disease questionnaire,^ESCT1192913,NA,2872676013,NA,32
+445312005#,Clinical chronic obstructive pulmonary disease questionnaire,2872676013#,1,0,1,7306151000006111#,CCQ - Clinical COPD (chronic obstructive pulmonary disease) questionnaire,^ESCTCC730615,NA,164e13,NA,31
+445811006#,Assessment using chronic obstructive pulmonary disease assessment test (procedure),2881102015#,1,0,1,7313961000006117#,Assessment using chronic obstructive pulmonary disease assessment test,^ESCTAS731396,NA,2882574014,NA,31
+445811006#,Assessment using chronic obstructive pulmonary disease assessment test (procedure),2881102015#,1,0,1,7313971000006112#,Assessment using CAT - COPD (chronic obstructive pulmonary disease) assessment test,^ESCTAS731397,NA,171e13,NA,31
+446660005#,Chronic obstructive pulmonary disease assessment test score (observable entity),2881311013#,1,0,1,7327761000006115#,Chronic obstructive pulmonary disease assessment test score,^ESCTCH732776,NA,733e13,NA,3
+446660005#,Chronic obstructive pulmonary disease assessment test score (observable entity),2881311013#,1,0,1,1176861000000111#,Chronic obstructive pulmonary disease assessment test score,38Dg,38Dg.00,2883862010,NA,3
+446660005#,Chronic obstructive pulmonary disease assessment test score (observable entity),2881311013#,1,0,1,7327771000006110#,CAT - COPD (chronic obstructive pulmonary disease) assessment test score,^ESCTCA732777,NA,171e13,NA,3
+445811006#,Assessment using chronic obstructive pulmonary disease assessment test,2882574014#,1,0,1,7313961000006117#,Assessment using chronic obstructive pulmonary disease assessment test,^ESCTAS731396,NA,2882574014,NA,31
+445811006#,Assessment using chronic obstructive pulmonary disease assessment test,2882574014#,1,0,1,7313971000006112#,Assessment using CAT - COPD (chronic obstructive pulmonary disease) assessment test,^ESCTAS731397,NA,171e13,NA,31
+446660005#,Chronic obstructive pulmonary disease assessment test score,2883862010#,1,0,1,7327761000006115#,Chronic obstructive pulmonary disease assessment test score,^ESCTCH732776,NA,733e13,NA,3
+446660005#,Chronic obstructive pulmonary disease assessment test score,2883862010#,1,0,1,1176861000000111#,Chronic obstructive pulmonary disease assessment test score,38Dg,38Dg.00,2883862010,NA,3
+446660005#,Chronic obstructive pulmonary disease assessment test score,2883862010#,1,0,1,7327771000006110#,CAT - COPD (chronic obstructive pulmonary disease) assessment test score,^ESCTCA732777,NA,171e13,NA,3
+450873006#,Plication of emphysematous bleb of lung,2920446016#,1,0,1,7384441000006110#,Plication of emphysematous bleb of lung,^ESCTPL738444,NA,2920446016,NA,31
+450873006#,Plication of emphysematous bleb of lung (procedure),2920553010#,1,0,1,7384441000006110#,Plication of emphysematous bleb of lung,^ESCTPL738444,NA,2920446016,NA,31
+468209002#,Emphysematous lung sealant preparation kit,2935744014#,1,0,1,7452731000006117#,Emphysematous lung sealant preparation kit,^ESCTEM745273,NA,2935744014,NA,31
+468209002#,Emphysematous lung sealant preparation kit (physical object),2941777016#,1,0,1,7452731000006117#,Emphysematous lung sealant preparation kit,^ESCTEM745273,NA,2935744014,NA,31
+473202005#,Optimization of medication for chronic obstructive pulmonary disease,2956201010#,1,0,1,7484341000006112#,Optimization of medication for chronic obstructive lung disease,^ESCTOP748434,NA,2956280014,NA,32
+473202005#,Optimization of medication for chronic obstructive pulmonary disease,2956201010#,1,0,1,1783891000006115#,Optimisation of medication for chronic obstructive pulmonary disease,8BMa0,8BMa000,3297697018,NA,32
+473202005#,Optimization of medication for chronic obstructive pulmonary disease,2956201010#,1,0,1,7484331000006119#,Optimization of medication for chronic obstructive pulmonary disease,^ESCTOP748433,NA,2956201010,NA,32
+473202005#,Optimization of medication for chronic obstructive pulmonary disease,2956201010#,1,0,1,7484351000006114#,Optimisation of medication for chronic obstructive lung disease,^ESCTOP748435,NA,3297724010,NA,32
+473223004#,Chronic obstructive pulmonary disease medication review,2956233018#,1,0,1,7484671000006110#,Chronic obstructive lung disorder medication review,^ESCTCH748467,NA,2956274018,NA,31
+473223004#,Chronic obstructive pulmonary disease medication review,2956233018#,1,0,1,7484681000006113#,Chronic obstructive pulmonary disease medication review,^ESCTCH748468,NA,2956233018,NA,31
+1761000119103#,Chronic obstructive airway disease with asthma,2966931011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+1751000119100#,Acute exacerbation of chronic obstructive airways disease with asthma,2967380018#,1,0,1,7970171000006119#,Acute exacerbation of chronic obstructive airways disease with asthma,^ESCTAC797017,NA,2967380018,NA,31
+697911002#,Pulmonary hypertension due to chronic obstructive pulmonary disease,2968282014#,1,0,1,7501821000006119#,Pulmonary hypertension due to chronic obstructive pulmonary disease,^ESCTPU750182,NA,2968282014,NA,31
+697911002#,Pulmonary hypertension due to chronic obstructive pulmonary disease (disorder),2968364014#,1,0,1,7501821000006119#,Pulmonary hypertension due to chronic obstructive pulmonary disease,^ESCTPU750182,NA,2968282014,NA,31
+702839006#,Chronic obstructive pulmonary disease clinic,3006290015#,1,0,1,7567251000006116#,Chronic obstructive pulmonary disease clinic,^ESCTCH756725,NA,3006290015,NA,31
+702839006#,Chronic obstructive pulmonary disease clinic (environment),3006303012#,1,0,1,7567251000006116#,Chronic obstructive pulmonary disease clinic,^ESCTCH756725,NA,3006290015,NA,31
+704120002#,Change in chronic obstructive pulmonary disease management plan (regime/therapy),3010357015#,1,0,1,7586701000006113#,Change in chronic obstructive pulmonary disease management plan,^ESCTCH758670,NA,3010880019,NA,31
+704120002#,Change in chronic obstructive pulmonary disease management plan,3010880019#,1,0,1,7586701000006113#,Change in chronic obstructive pulmonary disease management plan,^ESCTCH758670,NA,3010880019,NA,31
+704121003#,Step up change in chronic obstructive pulmonary disease management plan (regime/therapy),3011126015#,1,0,1,7586711000006111#,Step up change in chronic obstructive pulmonary disease management plan,^ESCTST758671,NA,3011450013,NA,31
+704123000#,Step down change in chronic obstructive pulmonary disease management plan,3011135010#,1,0,1,3011135010#,Step down change in chronic obstructive pulmonary disease management plan,ESCTST16,NA,3011135010,NA,1
+704123000#,Step down change in chronic obstructive pulmonary disease management plan (regime/therapy),3011381017#,1,0,1,3011135010#,Step down change in chronic obstructive pulmonary disease management plan,ESCTST16,NA,3011135010,NA,1
+704121003#,Step up change in chronic obstructive pulmonary disease management plan,3011450013#,1,0,1,7586711000006111#,Step up change in chronic obstructive pulmonary disease management plan,^ESCTST758671,NA,3011450013,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708884000#,Excision of emphysematous bleb of lung,3036710016#,1,0,1,7640931000006119#,Excision of emphysematous bleb of lung,^ESCTEX764093,NA,3036710016,NA,31
+708884000#,Excision of emphysematous bleb of lung,3036710016#,1,0,1,7640941000006112#,Resection of emphysematous bleb of lung,^ESCTRE764094,NA,3037372013,NA,31
+708884000#,Excision of emphysematous bleb of lung (procedure),3037295018#,1,0,1,7640931000006119#,Excision of emphysematous bleb of lung,^ESCTEX764093,NA,3036710016,NA,31
+708884000#,Excision of emphysematous bleb of lung (procedure),3037295018#,1,0,1,7640941000006112#,Resection of emphysematous bleb of lung,^ESCTRE764094,NA,3037372013,NA,31
+708884000#,Resection of emphysematous bleb of lung,3037372013#,1,0,1,7640931000006119#,Excision of emphysematous bleb of lung,^ESCTEX764093,NA,3036710016,NA,31
+708884000#,Resection of emphysematous bleb of lung,3037372013#,1,0,1,7640941000006112#,Resection of emphysematous bleb of lung,^ESCTRE764094,NA,3037372013,NA,31
+293241000119100#,Acute exacerbation of chronic obstructive bronchitis,3038264011#,1,0,1,8090191000006114#,Acute exacerbation of chronic obstructive bronchitis,^ESCTAC809019,NA,3038264011,NA,31
+293241000119100#,Acute exacerbation of chronic obstructive bronchitis (disorder),3038284010#,1,0,1,8090191000006114#,Acute exacerbation of chronic obstructive bronchitis,^ESCTAC809019,NA,3038264011,NA,31
+106001000119101#,Chronic obstructive lung disease co-occurrent with acute bronchitis (disorder),3039109015#,1,0,1,8033221000006118#,Chronic obstructive lung disease co-occurrent with acute bronchitis,^ESCTCH803322,NA,3039202017,NA,31
+106001000119101#,Chronic obstructive lung disease co-occurrent with acute bronchitis,3039202017#,1,0,1,8033221000006118#,Chronic obstructive lung disease co-occurrent with acute bronchitis,^ESCTCH803322,NA,3039202017,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,3291292013#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,3291292013#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,3291292013#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,3291292013#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,3294052015#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,3294052015#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,3294052015#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,3294052015#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors (disorder),3294528018#,1,0,1,3575071000006113#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors,^ESCTCH357507,NA,109794015,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors (disorder),3294528018#,1,0,1,3575081000006111#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors,^ESCTCH357508,NA,3291292013,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors (disorder),3294528018#,1,0,1,3575061000006118#,Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours,^ESCTCH357506,NA,2817447011,NA,31
+66110007#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors (disorder),3294528018#,1,0,1,3575091000006114#,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours,^ESCTCH357509,NA,3294052015,NA,31
+473202005#,Optimisation of medication for chronic obstructive pulmonary disease,3297697018#,1,0,1,7484341000006112#,Optimization of medication for chronic obstructive lung disease,^ESCTOP748434,NA,2956280014,NA,32
+473202005#,Optimisation of medication for chronic obstructive pulmonary disease,3297697018#,1,0,1,1783891000006115#,Optimisation of medication for chronic obstructive pulmonary disease,8BMa0,8BMa000,3297697018,NA,32
+473202005#,Optimisation of medication for chronic obstructive pulmonary disease,3297697018#,1,0,1,7484331000006119#,Optimization of medication for chronic obstructive pulmonary disease,^ESCTOP748433,NA,2956201010,NA,32
+473202005#,Optimisation of medication for chronic obstructive pulmonary disease,3297697018#,1,0,1,7484351000006114#,Optimisation of medication for chronic obstructive lung disease,^ESCTOP748435,NA,3297724010,NA,32
+716358000#,Telehealth chronic obstructive pulmonary disease monitoring (regime/therapy),3305682017#,1,0,1,2423731000000115#,Telehealth chronic obstructive pulmonary disease monitoring,66YB2,66YB200,3305683010,NA,1
+716358000#,Telehealth chronic obstructive pulmonary disease monitoring,3305683010#,1,0,1,2423731000000115#,Telehealth chronic obstructive pulmonary disease monitoring,66YB2,66YB200,3305683010,NA,1
+736283006#,Chronic obstructive pulmonary disease clinical management plan (record artifact),3517018012#,1,0,1,966841000006111#,Chronic obstructive pulmonary disease clinical management plan,8CR1,8CR1.00,3517019016,NA,32
+736283006#,Chronic obstructive pulmonary disease clinical management plan,3517019016#,1,0,1,966841000006111#,Chronic obstructive pulmonary disease clinical management plan,8CR1,8CR1.00,3517019016,NA,32
+736365000#,Acute exacerbation of chronic obstructive pulmonary disease care plan (record artifact),3517252018#,1,0,1,3517253011#,Acute exacerbation of chronic obstructive pulmonary disease care plan,^ESCT1166599,NA,3517253011,NA,37
+736365000#,Acute exacerbation of chronic obstructive pulmonary disease care plan (record artifact),3517252018#,1,0,1,2736921000000118#,Acute exacerbation of COPD (chronic obstructive pulmonary disease) care plan,^ESCT1166600,NA,274e13,NA,31
+736365000#,Acute exacerbation of chronic obstructive pulmonary disease care plan,3517253011#,1,0,1,3517253011#,Acute exacerbation of chronic obstructive pulmonary disease care plan,^ESCT1166599,NA,3517253011,NA,37
+736365000#,Acute exacerbation of chronic obstructive pulmonary disease care plan,3517253011#,1,0,1,2736921000000118#,Acute exacerbation of COPD (chronic obstructive pulmonary disease) care plan,^ESCT1166600,NA,274e13,NA,31
+762194005#,Ruptured emphysematous bleb,3635300011#,1,0,1,3635300011#,Ruptured emphysematous bleb,^ESCT1168866,NA,3635300011,NA,31
+762194005#,Ruptured emphysematous bleb (morphologic abnormality),3635301010#,1,0,1,3635300011#,Ruptured emphysematous bleb,^ESCT1168866,NA,3635300011,NA,31
+57671000052108#,COPD (Chronic Obstructive Pulmonary Disease) Assessment Test scale,3744961011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+741056003#,COPD (chronic obstructive pulmonary disease) education,3761221011#,1,0,1,405121000000111#,Education about chronic obstructive pulmonary disease,679V,679V.00,3543021016,NA,17
+785736001#,Chronic bronchitis co-occurrent with wheeze,3768202013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+785736001#,Chronic bronchitis co-occurrent with wheeze (disorder),3768203015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+836477007#,Chronic emphysema caused by vapor,3891748016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+836477007#,Chronic emphysema due to vapour,3891749012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+836477007#,Chronic emphysema due to vapor,3891750012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+836477007#,Chronic emphysema caused by vapor (disorder),3891751011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+836477007#,Chronic emphysema caused by vapour,3891752016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+866204005#,Consultation for chronic obstructive pulmonary disease (procedure),3957722010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+866204005#,Consultation for chronic obstructive pulmonary disease,3957723017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+866204005#,Consultation for COPD (chronic obstructive pulmonary disease),3957724011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+138389411000119105#,Acute bronchitis caused by Severe acute respiratory syndrome coronavirus 2 (disorder),3972956015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+138389411000119105#,Acute bronchitis caused by Severe acute respiratory syndrome coronavirus 2,3972957012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+1751000119100#,Acute exacerbation of chronic obstructive airways disease with asthma (disorder),13931000119111#,1,0,1,7970171000006119#,Acute exacerbation of chronic obstructive airways disease with asthma,^ESCTAC797017,NA,2967380018,NA,31
+1761000119103#,Chronic obstructive airway disease with asthma (disorder),14011000119116#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+57671000052108#,Chronic Obstructive Pulmonary Disease Assessment Test scale (assessment scale),4053871000052110#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+57671000052108#,Chronic Obstructive Pulmonary Disease Assessment Test scale,4053881000052112#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA

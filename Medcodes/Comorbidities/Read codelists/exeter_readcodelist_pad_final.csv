@@ -1,0 +1,247 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+G700.#,Aorto-iliac disease,1,1,2,223991000000116#,Aortoiliac disease,G700-1,G700.11,233956002,350529018,NA,32,G700.11#
+G700.#,Aorto-iliac disease,1,1,2,218531000000113#,Atherosclerosis of aorta,G700,G700.00,81817003,135728018,NA,32,G700.00#
+G702.#,Extremity artery atheroma,1,1,2,884571000006119#,Atherosclerosis of extremities,G702-99,G702.99,195254008,884571000006119,NA,32,G702.99#
+G702.#,Extremity artery atheroma,1,1,2,300433019#,Extremity artery atheroma,G702,G702.00,195254008,300433019,NA,32,G702.00#
+G702z#,Extremity artery atheroma NOS,1,1,2,300434013#,Extremity artery atheroma NOS,G702z,G702z00,195254008,300433019,NA,32,G702z00#
+G7310#,Buerger's disease,1,1,2,87210015#,Buerger's disease,G7310,G731000,52403007,87210015,NA,32,G731000#
+G731z#,Thromboangiitis obliterans NOS,1,1,2,300503012#,Thromboangiitis obliterans NOS,G731z,G731z00,52403007,87208017,NA,32,G731z00#
+G742z#,Peripheral arterial embolism and thrombosis NOS,1,1,2,300550015#,Peripheral arterial embolism and thrombosis NOS,G742z,G742z00,195318006,300534011,NA,32,G742z00#
+G742z#,Peripheral arterial embolism and thrombosis NOS,1,1,2,884661000006110#,Peripheral arterial embolism,G742z-99,G742z99,583731000000103,884661000006110,NA,32,G742z99#
+M2710#,Ischaemic ulcer diabetic foot,1,1,2,309177010#,Ischaemic ulcer diabetic foot,M2710,M271000,201250006,309177010,NA,32,M271000#
+7A100#,Emerg aortic bypass by anastomosis axillary to femoral art,1,1,2,639341000006115#,Emergency bypass of aorta by anastomosis of axillary artery to femoral artery,7A100,7A10000,175276005,271413015,NA,32,7A10000#
+7A101#,Bypass aorta by anastomosis axillary to femoral artery NEC,1,1,2,530051000006117#,Bypass aorta by anastomosis axillary to femoral artery NEC,7A101,7A10100,233379008,349697018,NA,32,7A10100#
+7A103#,Axillo-unifemoral PTFE bypass graft,1,1,2,271416011#,Axillo-unifemoral PTFE bypass graft,7A103,7A10300,175279003,271416011,NA,32,7A10300#
+7A12.#,Other bypass of bifurcation of aorta,1,1,2,271431019#,Other bypass of bifurcation of aorta,7A12,7A12.00,233373009,349683014,NA,32,7A12.00#
+7A120#,Emerg bypass bifurc aorta by anast aorta to femoral artery,1,1,2,639371000006111#,Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,7A120,7A12000,175290008,271432014,NA,32,7A12000#
+7A121#,Bypass bifurc aorta by anastom aorta to femoral artery NEC,1,1,2,410961010#,Dacron aortofemoral Y graft,7A121-2,7A12112,275038008,410961010,NA,32,7A12112#
+7A121#,Bypass bifurc aorta by anastom aorta to femoral artery NEC,1,1,2,530061000006115#,Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,7A121,7A12100,448171003,2900875010,NA,32,7A12100#
+7A121#,Bypass bifurc aorta by anastom aorta to femoral artery NEC,1,1,2,224121000000118#,Aortic bifurcation bypass graft,7A121-1,7A12111,233373009,349688017,NA,32,7A12111#
+7A123#,Bypass bifurcation aorta by anastom aorta to iliac artery,1,1,2,530071000006110#,Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery,7A123,7A12300,265495003,394305010,NA,32,7A12300#
+7A123#,Bypass bifurcation aorta by anastom aorta to iliac artery,1,1,2,410962015#,Dacron aortoiliac Y graft,7A123-2,7A12312,275039000,410962015,NA,32,7A12312#
+7A123#,Bypass bifurcation aorta by anastom aorta to iliac artery,1,1,2,488631000006116#,Aorto biiliac graft,7A123-1,7A12311,265495003,394305010,NA,32,7A12311#
+7A12y#,Other specified other bypass of bifurcation of aorta,1,1,2,271444012#,Other specified other bypass of bifurcation of aorta,7A12y,7A12y00,233373009,349683014,NA,32,7A12y00#
+7A12z#,Other bypass of bifurcation of aorta NOS,1,1,2,271445013#,Other bypass of bifurcation of aorta NOS,7A12z,7A12z00,233373009,349683014,NA,32,7A12z00#
+7A41.#,Other bypass of iliac artery,1,1,2,349677011#,Other bypass of iliac artery by anastomosis,7A41-1,7A41.11,405477007,2157280014,NA,32,7A41.11#
+7A41.#,Other bypass of iliac artery,1,1,2,394323019#,Iliac artery bypass,7A41,7A41.00,405477007,2157280014,NA,32,7A41.00#
+7A410#,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,1,1,2,639471000006115#,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,7A410,7A41000,51018000,85012019,NA,32,7A41000#
+7A411#,Bypass iliac artery by iliac/femoral artery anastomosis NEC,1,1,2,530201000006110#,Bypass of iliac artery by anastomosis of iliac artery to femoral artery,7A411,7A41100,51018000,1780391000000113,NA,32,7A41100#
+7A414#,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,1,1,2,639391000006112#,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,7A414,7A41400,116360008,183983017,NA,32,7A41400#
+7A416#,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,1,1,2,639521000006117#,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,7A416,7A41600,116360008,183983017,NA,32,7A41600#
+7A419#,Bypass common iliac artery by aorta/com iliac art anast NEC,1,1,2,530091000006111#,Bypass common iliac artery by aorta/com iliac art anast NEC,7A419,7A41900,116360008,183983017,NA,32,7A41900#
+7A41B#,Bypass leg artery by aorta/com femoral art anastomosis NEC,1,1,2,530221000006117#,Bypass leg artery by aorta/com femoral art anastomosis NEC,7A41B,7A41B00,116360008,183983017,NA,32,7A41B00#
+7A41C#,Bypass leg artery by aorta/deep femoral art anastomosis NEC,1,1,2,530231000006119#,Bypass leg artery by aorta/deep femoral art anastomosis NEC,7A41C,7A41C00,405482000,2157285016,NA,32,7A41C00#
+7A41F#,Ilio-femoral prosthetic cross over graft,1,1,2,785611000006113#,Ilio-femoral prosthetic cross over graft,7A41F,7A41F00,175594003,271866014,NA,32,7A41F00#
+7A41y#,Other specified other bypass of iliac artery,1,1,2,271867017#,Other specified other bypass of iliac artery,7A41y,7A41y00,116360008,183983017,NA,32,7A41y00#
+7A41z#,Other bypass of iliac artery NOS,1,1,2,271868010#,Other bypass of iliac artery NOS,7A41z,7A41z00,116360008,183983017,NA,32,7A41z00#
+7A42.#,Reconstruction of iliac artery,1,1,2,394326010#,Reconstruction of iliac artery,7A42,7A42.00,265516003,394326010,NA,32,7A42.00#
+7A42.#,Reconstruction of iliac artery,1,1,2,349652010#,Reconstruction of common iliac artery,7A42-1,7A42.11,233345007,349652010,NA,32,7A42.11#
+7A420#,Endarterectomy and patch repair of iliac artery,1,1,2,410964019#,Endarterectomy and patch repair of common iliac artery,7A420-1,7A42011,275041004,410964019,NA,32,7A42011#
+7A420#,Endarterectomy and patch repair of iliac artery,1,1,2,641691000006118#,Endarterectomy of iliac artery and patch repair of iliac artery,7A420,7A42000,265517007,394327018,NA,32,7A42000#
+7A420#,Endarterectomy and patch repair of iliac artery,1,1,2,394328011#,Iliac endarterectomy and patch,7A420-2,7A42012,265517007,394328011,NA,32,7A42012#
+7A42y#,Other specified reconstruction of iliac artery,1,1,2,271880019#,Other specified reconstruction of iliac artery,7A42y,7A42y00,265516003,394326010,NA,32,7A42y00#
+7A42z#,Reconstruction of iliac artery NOS,1,1,2,271881015#,Reconstruction of iliac artery NOS,7A42z,7A42z00,265516003,394326010,NA,32,7A42z00#
+7A43.#,Other open operations on iliac artery,1,1,2,394330013#,Other open operations on iliac artery,7A43,7A43.00,265511008,394321017,NA,32,7A43.00#
+7A43.#,Other open operations on iliac artery,1,1,2,410966017#,Other open operations on common iliac artery,7A43-1,7A43.11,265511008,394321017,NA,32,7A43.11#
+7A430#,Repair of iliac artery NEC,1,1,2,394331012#,Repair of iliac artery,7A430,7A43000,450703003,2916807015,NA,32,7A43000#
+7A430#,Repair of iliac artery NEC,1,1,2,410967014#,Repair of common iliac artery,7A430-1,7A43011,450704009,2916913013,NA,32,7A43011#
+7A440#,Percutaneous transluminal angioplasty of iliac artery,1,1,2,271900018#,Percutaneous transluminal angioplasty of iliac artery,7A440,7A44000,175612005,271900018,NA,32,7A44000#
+7A443#,Insertion of iliac artery stent,1,1,2,271905011#,Insertion of iliac artery stent,7A443,7A44300,175615007,271905011,NA,32,7A44300#
+7A44y#,Other specified transluminal operation on iliac artery,1,1,2,271907015#,Other specified transluminal operation on iliac artery,7A44y,7A44y00,265522007,394333010,NA,32,7A44y00#
+7A44z#,Transluminal operation on iliac artery NOS,1,1,2,271908013#,Transluminal operation on iliac artery NOS,7A44z,7A44z00,265522007,394333010,NA,32,7A44z00#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,349670013#,Other emergency bypass of deep femoral artery,7A47-3,7A47.13,116360008,183983017,NA,32,7A47.13#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,349671012#,Other emergency bypass of common femoral artery,7A47-2,7A47.12,116360008,183983017,NA,32,7A47.12#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,32181000006113#,Other emerg bypass femoral or popliteal art by anastomosis,7A47-1,7A47.11,116360008,183983017,NA,32,7A47.11#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,349667014#,Other emergency bypass of femoral artery,7A47-6,7A47.16,405463009,2157266019,NA,32,7A47.16#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,349668016#,Other emergency bypass of superficial femoral artery,7A47-5,7A47.15,116360008,183983017,NA,32,7A47.15#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,349669012#,Other emergency bypass of popliteal artery,7A47-4,7A47.14,116360008,183983017,NA,32,7A47.14#
+7A47.#,Other emergency bypass of femoral artery or popliteal artery,1,1,2,394338018#,Other emergency bypass of femoral artery or popliteal artery,7A47,7A47.00,405516005,2157318011,NA,32,7A47.00#
+7A470#,Emerg bypass femoral art by fem/pop art anast c prosth NEC,1,1,2,639431000006118#,Emerg bypass femoral art by fem/pop art anast c prosth NEC,7A470,7A47000,112828007,184069011,NA,32,7A47000#
+7A471#,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,1,1,2,639581000006118#,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,7A471,7A47100,233384002,349710011,NA,32,7A47100#
+7A472#,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,1,1,2,639421000006116#,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,7A472,7A47200,112828007,184069011,NA,32,7A47200#
+7A473#,Emerg bypass pop art by pop/pop art anast c vein graft NEC,1,1,2,639551000006114#,Emerg bypass pop art by pop/pop art anast c vein graft NEC,7A473,7A47300,233384002,349710011,NA,32,7A47300#
+7A474#,Emerg bypass femoral art by fem/tib art anast c prosth NEC,1,1,2,639451000006113#,Emerg bypass femoral art by fem/tib art anast c prosth NEC,7A474,7A47400,233383008,349706013,NA,32,7A47400#
+7A476#,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,1,1,2,639441000006111#,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,7A476,7A47600,233383008,349706013,NA,32,7A47600#
+7A477#,Emerg bypass pop art by pop/tib art anast c vein graft NEC,1,1,2,639561000006111#,Emerg bypass pop art by pop/tib art anast c vein graft NEC,7A477,7A47700,233384002,349710011,NA,32,7A47700#
+7A47B#,Emerg bypass pop art by pop/peron art anast c vein graft NEC,1,1,2,639541000006112#,Emerg bypass pop art by pop/peron art anast c vein graft NEC,7A47B,7A47B00,233384002,349710011,NA,32,7A47B00#
+7A47C#,Emerg bypass femoral artery by fem/fem art anastomosis NEC,1,1,2,639461000006110#,Emerg bypass femoral artery by fem/fem art anastomosis NEC,7A47C,7A47C00,116360008,183983017,NA,32,7A47C00#
+7A47D#,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,1,1,2,639601000006111#,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,7A47D,7A47D00,116360008,183983017,NA,32,7A47D00#
+7A47y#,Other emergency bypass of femoral or popliteal artery OS,1,1,2,31361000006114#,Other emergency bypass of femoral or popliteal artery OS,7A47y,7A47y00,405516005,2157318011,NA,32,7A47y00#
+7A47z#,Other emergency bypass of femoral or popliteal artery NOS,1,1,2,31351000006112#,Other emergency bypass of femoral or popliteal artery NOS,7A47z,7A47z00,116360008,183983017,NA,32,7A47z00#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349661010#,Other bypass of superficial femoral artery,7A48-6,7A48.16,405463009,2157266019,NA,32,7A48.16#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349664019#,Other bypass of deep femoral artery,7A48-3,7A48.13,405463009,2157266019,NA,32,7A48.13#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349665018#,Other bypass of common femoral artery,7A48-2,7A48.12,405463009,2157266019,NA,32,7A48.12#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349666017#,Other bypass of femoral or popliteal artery by anastomosis,7A48-1,7A48.11,405516005,2157318011,NA,32,7A48.11#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349662015#,Popliteal-distal bypass,7A48-5,7A48.15,233384002,349710011,NA,32,7A48.15#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,394339014#,Arterial bypass of lower limb artery,7A48,7A48.00,405469008,2157272019,NA,32,7A48.00#
+7A48.#,Other bypass of femoral artery or popliteal artery,1,1,2,349663013#,Femoral artery bypass,7A48-4,7A48.14,405463009,2157266019,NA,32,7A48.14#
+7A480#,Bypass femoral artery by fem/pop art anast c prosthesis NEC,1,1,2,530131000006113#,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis,7A480,7A48000,312688006,1780381000000111,NA,32,7A48000#
+7A481#,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,1,1,2,530811000006112#,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,7A481,7A48100,233384002,349710011,NA,32,7A48100#
+7A482#,Bypass femoral artery by fem/pop art anast c vein graft NEC,1,1,2,530141000006115#,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft,7A482,7A48200,50807007,1780371000000114,NA,32,7A48200#
+7A483#,Bypass popliteal artery by pop/pop a anast c vein graft NEC,1,1,2,530821000006116#,Bypass popliteal artery by pop/pop a anast c vein graft NEC,7A483,7A48300,233384002,349710011,NA,32,7A48300#
+7A484#,Bypass femoral artery by fem/tib art anast c prosthesis NEC,1,1,2,530151000006118#,Bypass femoral artery by fem/tib art anast c prosthesis NEC,7A484,7A48400,233383008,349706013,NA,32,7A48400#
+7A485#,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,1,1,2,530831000006118#,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,7A485,7A48500,233384002,349710011,NA,32,7A48500#
+7A486#,Bypass femoral artery by fem/tib art anast c vein graft NEC,1,1,2,530161000006116#,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft,7A486,7A48600,448529008,2899845012,NA,32,7A48600#
+7A487#,Bypass popliteal artery by pop/tib a anast c vein graft NEC,1,1,2,530841000006111#,Bypass popliteal artery by pop/tib a anast c vein graft NEC,7A487,7A48700,233384002,349710011,NA,32,7A48700#
+7A488#,Bypass femoral artery by fem/peron a anast c prosthesis NEC,1,1,2,530111000006119#,Bypass femoral artery by fem/peron a anast c prosthesis NEC,7A488,7A48800,233383008,349706013,NA,32,7A48800#
+7A48A#,Bypass femoral artery by fem/peron a anast c vein graft NEC,1,1,2,530121000006110#,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft,7A48A,7A48A00,448323005,2901040016,NA,32,7A48A00#
+7A48B#,Bypass popliteal art by pop/peron art anast c vein graft NEC,1,1,2,530781000006110#,Bypass popliteal art by pop/peron art anast c vein graft NEC,7A48B,7A48B00,233384002,349710011,NA,32,7A48B00#
+7A48C#,Bypass femoral artery by femoral/femoral art anastomosis NEC,1,1,2,530171000006111#,Femoral-femoral artery vascular bypass,7A48C,7A48C00,44662004,74498014,NA,32,7A48C00#
+7A48D#,Bypass popliteal artery by pop/fem artery anastomosis NEC,1,1,2,530791000006113#,Bypass popliteal artery by pop/fem artery anastomosis NEC,7A48D,7A48D00,112828007,184069011,NA,32,7A48D00#
+7A48E#,Femoro-femoral prosthetic cross over graft,1,1,2,668741000006116#,Femorofemoral prosthetic crossover graft,7A48E,7A48E00,175685004,272001019,NA,32,7A48E00#
+7A48y#,Other bypass of femoral artery or popliteal artery OS,1,1,2,36061000006118#,Other bypass of femoral artery or popliteal artery OS,7A48y,7A48y00,405469008,2157272019,NA,32,7A48y00#
+7A48z#,Other bypass of femoral artery or popliteal artery NOS,1,1,2,272003016#,Other bypass of femoral artery or popliteal artery NOS,7A48z,7A48z00,405469008,2157272019,NA,32,7A48z00#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,410977011#,Reconstruction of femoral artery,7A49-3,7A49.13,275054006,410977011,NA,32,7A49.13#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,410976019#,Reconstruction of common femoral artery,7A49-1,7A49.11,275053000,410976019,NA,32,7A49.11#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,411078012#,Reconstruction of superficial femoral artery,7A49-5,7A49.15,275145005,411078012,NA,32,7A49.15#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,394340011#,Reconstruction of femoral artery or popliteal artery,7A49,7A49.00,265528006,394340011,NA,32,7A49.00#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,410974016#,Reconstruction of popliteal artery,7A49-4,7A49.14,275051003,410974016,NA,32,7A49.14#
+7A49.#,Reconstruction of femoral artery or popliteal artery,1,1,2,410975015#,Reconstruction of deep femoral artery,7A49-2,7A49.12,275052005,410975015,NA,32,7A49.12#
+7A490#,Endarterectomy and patch repair of femoral artery,1,1,2,641681000006116#,Endarterectomy of femoral artery and patch repair of femoral artery,7A490,7A49000,175689005,272011014,NA,32,7A49000#
+7A491#,Endarterectomy and patch repair of popliteal artery,1,1,2,641701000006118#,Endarterectomy of popliteal artery and patch repair of popliteal artery,7A491,7A49100,175690001,272012019,NA,32,7A49100#
+7A492#,Endarterectomy of femoral artery NEC,1,1,2,272013012#,Femoral endarterectomy,7A492,7A49200,16589005,28064017,NA,32,7A49200#
+7A493#,Endarterectomy of popliteal artery NEC,1,1,2,272014018#,Endarterectomy of popliteal artery,7A493,7A49300,233310004,349583017,NA,32,7A49300#
+7A494#,Profundoplasty femoral artery & patch repair deep fem artery,1,1,2,201771000006117#,Profundoplasty of femoral artery and patch repair of deep femoral artery,7A494,7A49400,175693004,272015017,NA,32,7A49400#
+7A495#,Profundoplasty and patch repair of popliteal artery,1,1,2,201761000006112#,Profundoplasty of popliteal artery and patch repair of popliteal artery,7A495,7A49500,175694005,272016016,NA,32,7A49500#
+7A496#,Profundoplasty of femoral artery NEC,1,1,2,272017013#,Profundoplasty of femoral artery NEC,7A496,7A49600,405376002,2157187018,NA,32,7A49600#
+7A497#,Profundoplasty of popliteal artery NEC,1,1,2,272018015#,Profundoplasty of popliteal artery NEC,7A497,7A49700,405376002,2157187018,NA,32,7A49700#
+7A498#,Reconstruction of femoral artery with vein graft,1,1,2,272019011#,Reconstruction of femoral artery with vein graft,7A498,7A49800,175697003,272019011,NA,32,7A49800#
+7A499#,Reconstruction of popliteal artery with vein graft,1,1,2,272020017#,Reconstruction of popliteal artery with vein graft,7A499,7A49900,175698008,272020017,NA,32,7A49900#
+7A49y#,Reconstruction of femoral or popliteal artery OS,1,1,2,187331000006112#,Reconstruction of femoral or popliteal artery OS,7A49y,7A49y00,265528006,394340011,NA,32,7A49y00#
+7A49z#,Reconstruction of femoral or popliteal artery NOS,1,1,2,272022013#,Reconstruction of femoral or popliteal artery NOS,7A49z,7A49z00,265528006,394340011,NA,32,7A49z00#
+7A4A.#,Other open operations on femoral artery or popliteal artery,1,1,2,410980012#,Other open operations on deep femoral artery,7A4A-2,7A4A.12,118805000,183489012,NA,32,7A4A.12#
+7A4A.#,Other open operations on femoral artery or popliteal artery,1,1,2,410981011#,Other open operations on common femoral artery,7A4A-1,7A4A.11,118805000,183489012,NA,32,7A4A.11#
+7A4A.#,Other open operations on femoral artery or popliteal artery,1,1,2,410978018#,Other open operations on superficial femoral artery,7A4A-4,7A4A.14,118805000,183489012,NA,32,7A4A.14#
+7A4A.#,Other open operations on femoral artery or popliteal artery,1,1,2,410979014#,Other open operations on popliteal artery,7A4A-3,7A4A.13,118805000,183489012,NA,32,7A4A.13#
+7A4A.#,Other open operations on femoral artery or popliteal artery,1,1,2,394341010#,Other open operations on femoral artery or popliteal artery,7A4A,7A4A.00,118805000,183489012,NA,32,7A4A.00#
+7A4A0#,Repair of femoral artery NEC,1,1,2,272029016#,Repair of femoral artery NEC,7A4A0,7A4A000,265528006,394340011,NA,32,7A4A000#
+7A4A1#,Repair of popliteal artery NEC,1,1,2,272030014#,Repair of popliteal artery,7A4A1,7A4A100,405375003,2157186010,NA,32,7A4A100#
+7A4A7#,Repair of femoral artery with temporary silastic shunt,1,1,2,272041011#,Repair of femoral artery with temporary silastic shunt,7A4A7,7A4A700,175710008,272041011,NA,32,7A4A700#
+7A4A8#,Repair of popliteal artery with temporary silastic shunt,1,1,2,272042016#,Repair of popliteal artery with temporary silastic shunt,7A4A8,7A4A800,175711007,272042016,NA,32,7A4A800#
+7A4Ay#,Other open operation on femoral or popliteal artery OS,1,1,2,24571000006113#,Other open operation on femoral or popliteal artery OS,7A4Ay,7A4Ay00,118805000,183489012,NA,32,7A4Ay00#
+7A4B0#,Percutaneous transluminal angioplasty of femoral artery,1,1,2,272052017#,Percutaneous transluminal angioplasty of femoral artery,7A4B0,7A4B000,175715003,272052017,NA,32,7A4B000#
+7A4B0#,Percutaneous transluminal angioplasty of femoral artery,1,1,2,931881000006115#,Angioplasty of femoral artery,7A4B0-99,7A4B099,175715003,931881000006115,NA,32,7A4B099#
+7A4B1#,Percutaneous transluminal angioplasty of popliteal artery,1,1,2,239491000006117#,Percutaneous angioplasty of popliteal artery,7A4B1,7A4B100,175716002,272053010,NA,32,7A4B100#
+7A4B4#,Percutaneous transluminal embolisation of femoral artery,1,1,2,272059014#,Percutaneous transluminal embolisation of femoral artery,7A4B4,7A4B400,175719009,272059014,NA,32,7A4B400#
+7A4B5#,Percutaneous transluminal embolisation of popliteal artery,1,1,2,272061017#,Percutaneous transluminal embolisation of popliteal artery,7A4B5,7A4B500,175720003,272061017,NA,32,7A4B500#
+7A501#,Revision of reconstruction involving iliac artery,1,1,2,272076013#,Revision of reconstruction involving iliac artery,7A501,7A50100,175731006,272076013,NA,32,7A50100#
+7A502#,Revision of reconstruction involving femoral artery,1,1,2,272077016#,Revision of reconstruction involving femoral artery,7A502,7A50200,175732004,272077016,NA,32,7A50200#
+7A503#,Revision of reconstruction of popliteal artery,1,1,2,272078014#,Revision of reconstruction of popliteal artery,7A503,7A50300,175733009,272078014,NA,32,7A50300#
+14F7.#,H/O: arterial lower limb ulcer,1,0,1,2232441000000113#,H/O: arterial lower limb ulcer,14F7,14F7.00,863401000000101,2232441000000113,NA,32,14F7.00#
+14NB.#,H/O: Peripheral vascular disease procedure,1,0,1,451376017#,H/O: Peripheral vascular disease procedure,14NB,14NB.00,308071004,451376017,NA,32,14NB.00#
+G731.#,Thromboangiitis obliterans,1,0,1,87208017#,Thromboangiitis obliterans,G731,G731.00,52403007,87208017,NA,32,G731.00#
+G73z0#,Intermittent claudication,1,0,1,105536013#,Intermittent claudication,G73z0,G73z000,63491006,105536013,NA,32,G73z000#
+G73z0#,Intermittent claudication,1,0,1,1715241000006112#,Vascular claudication,G73z0-2,G73z012,63491006,105536013,NA,32,G73z012#
+G73z0#,Intermittent claudication,1,0,1,411512011#,Claudication,G73z0-1,G73z011,63491006,3559347018,NA,32,G73z011#
+G740.#,Aortoiliac obstruction,1,0,1,350562014#,Aortic bifurcation syndrome,G740-1,G740.11,233972005,350566012,NA,32,G740.11#
+G740.#,Aortoiliac obstruction,1,0,1,884641000006111#,Embolus/thrombosis abd. aorta,G740-99,G740.99,266263009,884641000006111,NA,32,G740.99#
+G740.#,Aortoiliac obstruction,1,0,1,451198016#,Leriche's syndrome,G740-3,G740.13,307816004,451198016,NA,32,G740.13#
+G740.#,Aortoiliac obstruction,1,0,1,350563016#,Saddle embolus,G740-4,G740.14,233972005,350563016,NA,32,G740.14#
+G740.#,Aortoiliac obstruction,1,0,1,395796013#,Embolism and thrombosis of the abdominal aorta,G740,G740.00,266263009,395796013,NA,32,G740.00#
+G740.#,Aortoiliac obstruction,1,0,1,350564010#,Aortoiliac obstruction,G740-2,G740.12,233972005,350564010,NA,32,G740.12#
+M271.#,Ischaemic leg ulcer,1,0,1,486094011#,Neurogenic leg ulcer,M271-4,M271.14,35222003,486094011,NA,32,M271.14#
+M271.#,Ischaemic leg ulcer,1,0,1,357895013#,Ischaemic leg ulcer,M271-2,M271.12,238793001,357895013,NA,32,M271.12#
+M271.#,Ischaemic leg ulcer,1,0,1,357890015#,Leg ulcer,M271-3,M271.13,95344007,512080011,NA,32,M271.13#
+M271.#,Ischaemic leg ulcer,1,0,1,512081010#,Foot ulcer,M271-1,M271.11,95345008,512081010,NA,32,M271.11#
+M271.#,Ischaemic leg ulcer,1,0,1,931941000006116#,Leg ulcer,M271-99,M271.99,267816005,931941000006116,NA,32,M271.99#
+M271.#,Ischaemic leg ulcer,1,0,1,88521000006110#,Trophic leg ulcer,M271-5,M271.15,35222003,486092010,NA,32,M271.15#
+M271.#,Ischaemic leg ulcer,1,0,1,399941017#,Non-pressure ulcer lower limb,M271,M271.00,267816005,399941017,NA,32,M271.00#
+M2713#,Arterial leg ulcer,1,0,1,357894012#,Arterial leg ulcer,M2713,M271300,238793001,357894012,NA,32,M271300#
+M2714#,Mixed venous and arterial leg ulcer,1,0,1,357893018#,Mixed venous and arterial leg ulcer,M2714,M271400,238792006,357893018,NA,32,M271400#
+G7424#,Embolism and thrombosis of the femoral artery,1,0,1,300539018#,Embolism and thrombosis of the femoral artery,G7424,G742400,195323006,300539018,NA,32,G742400#
+G7425#,Embolism and thrombosis of the popliteal artery,1,0,1,300540016#,Embolism and thrombosis of the popliteal artery,G7425,G742500,195324000,300540016,NA,32,G742500#
+G7426#,Embolism and thrombosis of the anterior tibial artery,1,0,1,300541017#,Embolism and thrombosis of the anterior tibial artery,G7426,G742600,195325004,300541017,NA,32,G742600#
+G7427#,Embolism and thrombosis of the dorsalis pedis artery,1,0,1,300542012#,Embolism and thrombosis of the dorsalis pedis artery,G7427,G742700,195326003,300542012,NA,32,G742700#
+G7429#,Embolism and thrombosis of a leg artery NOS,1,0,1,300547018#,Embolism and thrombosis of a leg artery NOS,G7429,G742900,195318006,300534011,NA,32,G742900#
+G74y0#,Embolism and/or thrombosis of the common iliac artery,1,0,1,300553018#,Embolism and/or thrombosis of the common iliac artery,G74y0,G74y000,195335005,300553018,NA,32,G74y000#
+G74y1#,Embolism and/or thrombosis of the internal iliac artery,1,0,1,300554012#,Embolism and/or thrombosis of the internal iliac artery,G74y1,G74y100,734298005,3503835018,NA,32,G74y100#
+G74y2#,Embolism and/or thrombosis of the external iliac artery,1,0,1,300555013#,Embolism and/or thrombosis of the external iliac artery,G74y2,G74y200,734299002,3503839012,NA,32,G74y200#
+G74y3#,Embolism and thrombosis of the iliac artery unspecified,1,0,1,300556014#,Embolism and thrombosis of the iliac artery unspecified,G74y3,G74y300,266262004,395794011,NA,32,G74y300#
+7A102#,Axillo-bifemoral bypass graft,1,0,1,501011000006118#,Axillofemoral bypass graft,7A102,7A10200,388997005,1493587018,NA,32,7A10200#
+7A192#,Open embolectomy of bifurcation of aorta,1,0,1,271509013#,Open embolectomy of bifurcation of aorta,7A192,7A19200,175348000,271509013,NA,32,7A19200#
+7A412#,Emerg bypass iliac artery by femoral/femoral art anast NEC,1,0,1,639491000006119#,Emerg bypass iliac artery by femoral/femoral art anast NEC,7A412,7A41200,233380006,349698011,NA,32,7A41200#
+7A412#,Emerg bypass iliac artery by femoral/femoral art anast NEC,1,0,1,640081000006119#,Emergency femoro-femoral prosthetic cross over graft,7A412-1,7A41211,275040003,410963013,NA,32,7A41211#
+7A413#,Bypass iliac artery by femoral/femoral art anastomosis NEC,1,0,1,530191000006112#,Bypass iliac artery by femoral/femoral art anastomosis NEC,7A413,7A41300,233380006,349698011,NA,32,7A41300#
+7A413#,Bypass iliac artery by femoral/femoral art anastomosis NEC,1,0,1,668731000006114#,Femoro-femoral prosthetic cross over graft,7A413-1,7A41311,175685004,272001019,NA,32,7A41311#
+7A421#,Endarterectomy of iliac artery NEC,1,0,1,394329015#,Endarterectomy of iliac artery,7A421,7A42100,307800001,451173017,NA,32,7A42100#
+7A421#,Endarterectomy of iliac artery NEC,1,0,1,410965018#,Endarterectomy of common iliac artery,7A421-1,7A42111,233304004,349571019,NA,32,7A42111#
+7A431#,Open embolectomy of iliac artery,1,0,1,394332017#,Open embolectomy of iliac artery,7A431,7A43100,265521000,394332017,NA,32,7A43100#
+7A431#,Open embolectomy of iliac artery,1,0,1,411214011#,Open embolectomy of common iliac artery,7A431-1,7A43111,275254000,411214011,NA,32,7A43111#
+7A433#,Open insertion of iliac artery stent,1,0,1,455900010#,Open insertion of iliac artery stent,7A433,7A43300,312226000,455900010,NA,32,7A43300#
+7A441#,Percutaneous transluminal embolectomy of iliac artery,1,0,1,271901019#,Percutaneous transluminal embolectomy of iliac artery,7A441,7A44100,175613000,271901019,NA,32,7A44100#
+7A444#,Percutaneous transluminal insertion of iliac artery stent,1,0,1,455901014#,Percutaneous transluminal insertion of iliac artery stent,7A444,7A44400,312227009,455901014,NA,32,7A44400#
+7A4A2#,Open embolectomy of femoral artery,1,0,1,272032018#,Open thrombectomy of femoral artery,7A4A2-1,7A4A211,175704008,272032018,NA,32,7A4A211#
+7A4A2#,Open embolectomy of femoral artery,1,0,1,272031013#,Open embolectomy of femoral artery,7A4A2,7A4A200,175704008,272031013,NA,32,7A4A200#
+7A4A2#,Open embolectomy of femoral artery,1,0,1,272033011#,Open femoral embolectomy,7A4A2-2,7A4A212,175704008,272033011,NA,32,7A4A212#
+7A4A3#,Open embolectomy popliteal artery,1,0,1,272034017#,Open thrombectomy of popliteal artery,7A4A3-1,7A4A311,175705009,272034017,NA,32,7A4A311#
+7A4A3#,Open embolectomy popliteal artery,1,0,1,272035016#,Open embolectomy popliteal artery,7A4A3,7A4A300,175705009,272035016,NA,32,7A4A300#
+7A4B2#,Percutaneous transluminal embolectomy of femoral artery,1,0,1,272055015#,Percutaneous transluminal embolectomy of femoral artery,7A4B2,7A4B200,175717006,272055015,NA,32,7A4B200#
+7A4B3#,Percutaneous transluminal embolectomy of popliteal artery,1,0,1,272056019#,Percutaneous transluminal embolectomy of popliteal artery,7A4B3,7A4B300,175718001,272056019,NA,32,7A4B300#
+7A4B8#,Percut translum thrombolysis femoral graft streptokinase,1,0,1,238621000006112#,Percutaneous transluminal thrombolysis of femoral graft using streptokinase,7A4B8,7A4B800,309449009,452880015,NA,32,7A4B800#
+7A4B9#,Percutaneous transluminal insertion of stent femoral artery,1,0,1,1548341000006118#,Percutaneous transluminal insertion of stent into femoral artery,7A4B9,7A4B900,426093007,2675938013,NA,32,7A4B900#
+7A50.#,Revision of reconstruction of artery,1,0,1,272074011#,Revision of reconstruction of artery,7A50,7A50.00,175729002,272074011,NA,32,7A50.00#
+7A500#,Revision of reconstruction involving aorta,1,0,1,272075012#,Revision of reconstruction involving aorta,7A500,7A50000,175730007,272075012,NA,32,7A50000#
+7A122#,Emerg bypass bifurc aorta by anastom aorta to iliac artery,0,1,1,639381000006114#,Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery,7A122,7A12200,175292000,271438013,NA,32,7A12200#
+7A415#,Emerg bypass iliac artery by aorta/ext iliac art anast NEC,0,1,1,639481000006117#,Emerg bypass iliac artery by aorta/ext iliac art anast NEC,7A415,7A41500,116360008,183983017,NA,32,7A41500#
+7A418#,Emerg bypass iliac artery by iliac/iliac art anastomosis NEC,0,1,1,639501000006110#,Emerg bypass iliac artery by iliac/iliac art anastomosis NEC,7A418,7A41800,447920002,2900285015,NA,32,7A41800#
+7A41A#,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,0,1,1,530181000006114#,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,7A41A,7A41A00,116360008,183983017,NA,32,7A41A00#
+7A41D#,Bypass iliac artery by iliac/iliac artery anastomosis NEC,0,1,1,530211000006113#,Bypass iliac artery by iliac/iliac artery anastomosis NEC,7A41D,7A41D00,116360008,183983017,NA,32,7A41D00#
+7A41E#,Emergency bypass of iliac artery by unspecified anastomosis,0,1,1,271865013#,Emergency bypass of iliac artery by unspecified anastomosis,7A41E,7A41E00,405477007,2157280014,NA,32,7A41E00#
+G76A.#,Arterial insufficiency,0,1,1,300607015#,Arterial insufficiency,G76A,G76A.00,195374003,300607015,NA,32,G76A.00#
+X015H#,Reconstruction of common iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015H#
+X015R#,Other bypass of superficial femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015R#
+X015S#,Other bypass of popliteal artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015S#
+X015T#,Other bypass of femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015T#
+X015U#,Other bypass of deep femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015U#
+X015V#,Other bypass of common femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015V#
+X015W#,Other bypass of femoral or popliteal artery by anastomosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015W#
+X015X#,Other emergency bypass of femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015X#
+X015Y#,Other emergency bypass of superficial femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015Y#
+X015Z#,Other emergency bypass of popliteal artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015Z#
+X015a#,Other emergency bypass of deep femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015a#
+X015b#,Other emergency bypass of common femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015b#
+X015c#,Other emerg bypass femoral or popliteal art by anastomosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015c#
+X015h#,Other bypass of iliac artery by anastomosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X015h#
+X0160#,Axillofemoral bypass graft,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X0160#
+X016n#,Insertion common iliac artery stent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X016n#
+X016o#,Insertion of external iliac artery stent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X016o#
+X203L#,Aortoiliac atherosclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X203L#
+X203Q#,Peripheral ischaemia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X203Q#
+X203T#,Lower limb ischaemia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X203T#
+X203U#,Critical lower limb ischaemia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X203U#
+X50Be#,Mixed arteriovenous leg ulcer,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X50Be#
+X50Bf#,Ischaemic leg ulcer,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X50Bf#
+X50Bg#,Ischaemic foot ulcer,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X50Bg#
+X50Bk#,Neuroischaemic foot ulcer,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X50Bk#
+X77Ut#,Claudication distance,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X77Ut#
+XE0Ey#,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ey#
+XE0Ez#,Replace aneurysm bifurc aorta by anast aorta to iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ez#
+XE0F0#,Bypass bifurc aorta by anastom aorta to femoral artery NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0F0#
+XE0F1#,Bypass bifurcation aorta by anastom aorta to iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0F1#
+XE0FK#,Other bypass of iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FK#
+XE0FL#,Emerg bypass iliac artery by femoral/femoral art anast NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FL#
+XE0FM#,Bypass iliac artery by femoral/femoral art anastomosis NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FM#
+XE0FN#,Reconstruction of iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FN#
+XE0FO#,Endarterectomy and patch repair of iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FO#
+XE0FP#,Endarterectomy of iliac artery NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FP#
+XE0FQ#,Other open operations on iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FQ#
+XE0FX#,Other emergency bypass of femoral artery or popliteal artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FX#
+XE0FY#,Other bypass of femoral artery or popliteal artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0FY#
+XE0VR#,Intermittent claudication,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VR#
+XM1If#,Endarterectomy and patch repair of common iliac artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1If#
+XM1Ig#,Endarterectomy of common iliac artery NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Ig#
+XM1Qu#,Claudication,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Qu#
+Xa7lT#,Ischaemia of feet,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7lT#
+Xa84U#,Ischaemic foot,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa84U#
+XaBFI#,Leriche's syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBFI#
+XaBrm#,Perc trans thrombolysis of femoral graft streptokinase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBrm#
+XaDmh#,Open insertion of iliac artery stent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaDmh#
+XaDmi#,Percutaneous transluminal insertion of iliac artery stent,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaDmi#
+XaE3G#,Critical ischaemia of foot,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaE3G#
+XaLhe#,Percutaneous transluminal placement peripheral stent artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLhe#
+XaMNe#,Percutaneous transluminal insertion of stent femoral artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMNe#
+XaZT1#,Occlusion of radial artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZT1#
+XaZT3#,Occlusion of ulnar artery,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZT3#
+XabhR#,Ischaemic foot pain at rest,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XabhR#
+XabhS#,Ischaemic foot pain when walking,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XabhS#
+Y2572#,H/O: Intermittent claudication,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y2572#

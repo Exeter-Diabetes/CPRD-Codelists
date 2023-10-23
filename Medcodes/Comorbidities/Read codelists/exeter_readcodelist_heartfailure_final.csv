@@ -1,0 +1,92 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14A6.#,H/O: heart failure,1,1,2,251680018#,H/O: heart failure,14A6,14A6.00,161505003,251680018,NA,32,14A6.00#
+G1yz1#,Rheumatic left ventricular failure,1,1,2,72934016#,Rheumatic left ventricular failure,G1yz1,G1yz100,43736008,72934016,NA,32,G1yz100#
+G2101#,Malignant hypertensive heart disease with CCF,1,1,2,728671000006119#,Malignant hypertensive heart disease with congestive cardiac failure,G2101,G210100,83105008,1236017010,NA,32,G210100#
+G2111#,Benign hypertensive heart disease with CCF,1,1,2,504901000006118#,Benign hypertensive heart disease with congestive cardiac failure,G2111,G211100,194767001,299653017,NA,32,G211100#
+G21z1#,Hypertensive heart disease NOS with CCF,1,1,2,741681000006111#,Hypertensive heart disease NOS with CCF,G21z1,G21z100,64715009,107545013,NA,32,G21z100#
+G232.#,Hypertensive heart&renal dis wth (congestive) heart failure,1,1,2,741701000006114#,Hypertensive heart and renal disease with (congestive) heart failure,G232,G232.00,194779001,299672017,NA,32,G232.00#
+G234.#,Hyperten heart&renal dis+both(congestv)heart and renal fail,1,1,2,789941000006117#,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,G234,G234.00,194781004,299674016,NA,32,G234.00#
+G400.#,Acute cor pulmonale,1,1,2,82584011#,Acute cor pulmonale,G400,G400.00,49584005,82584011,NA,32,G400.00#
+G41z.#,Chronic cor pulmonale,1,1,2,395756011#,Chronic pulmonary heart disease NOS,G41z,G41z.00,87837008,145620019,NA,32,G41z.00#
+G41z.#,Chronic cor pulmonale,1,1,2,132655012#,Chronic cor pulmonale,G41z-1,G41z.11,79955004,132655012,NA,32,G41z.11#
+G41z.#,Chronic cor pulmonale,1,1,2,884211000006114#,Other pulmonary heart disease,G41z-99,G41z.99,79955004,884211000006114,NA,32,G41z.99#
+G5800#,Acute congestive heart failure,1,1,2,18472010#,Acute congestive heart failure,G5800,G580000,10633002,18472010,NA,32,G580000#
+G5801#,Chronic congestive heart failure,1,1,2,147247018#,Chronic congestive heart failure,G5801,G580100,88805009,147247018,NA,32,G580100#
+G5802#,Decompensated cardiac failure,1,1,2,300179017#,Decompensated cardiac failure,G5802,G580200,195111005,300179017,NA,32,G580200#
+G5803#,Compensated cardiac failure,1,1,2,300180019#,Compensated cardiac failure,G5803,G580300,195112003,300180019,NA,32,G580300#
+G580.#,Congestive heart failure,1,1,2,490972013#,Right ventricular failure,G580-3,G580.13,367363000,490972013,NA,32,G580.13#
+G580.#,Congestive heart failure,1,1,2,70653017#,Congestive heart failure,G580,G580.00,42343007,70653017,NA,32,G580.00#
+G580.#,Congestive heart failure,1,1,2,206703015#,Right heart failure,G580-2,G580.12,128404006,206703015,NA,32,G580.12#
+G580.#,Congestive heart failure,1,1,2,493287011#,Congestive cardiac failure,G580-1,G580.11,42343007,70653017,NA,32,G580.11#
+G580.#,Congestive heart failure,1,1,2,510016018#,Biventricular congestive heart failure,G580-4,G580.14,92506005,153058012,NA,32,G580.14#
+G5810#,Acute left ventricular failure,1,1,2,300190010#,Acute left ventricular failure,G5810,G581000,195114002,300190010,NA,32,G581000#
+G581.#,Left ventricular failure,1,1,2,411506018#,Impaired left ventricular function,G581-3,G581.13,275514001,411506018,NA,32,G581.13#
+G581.#,Left ventricular failure,1,1,2,141306010#,Left ventricular failure,G581,G581.00,85232009,141306010,NA,32,G581.00#
+G581.#,Left ventricular failure,1,1,2,1495417010#,Cardiac asthma,G581-1,G581.11,71892000,119456014,NA,32,G581.11#
+G581.#,Left ventricular failure,1,1,2,1490256017#,Acute pulmonary oedema,G581-2,G581.12,40541001,492666016,NA,32,G581.12#
+G582.#,Acute heart failure,1,1,2,94251011#,Acute heart failure,G582,G582.00,56675007,94251011,NA,32,G582.00#
+G58..#,Heart failure,1,1,2,139482012#,Cardiac failure,G58-1,G58..11,84114007,139482012,NA,32,G58..11#
+G58..#,Heart failure,1,1,2,139475013#,Heart failure,G58,G58..00,84114007,139475013,NA,32,G58..00#
+G58z.#,Heart failure NOS,1,1,2,223981000000118#,Cardiac failure NOS,G58z-2,G58z.12,84114007,139482012,NA,32,G58z.12#
+G58z.#,Heart failure NOS,1,1,2,395772015#,Heart failure NOS,G58z,G58z.00,84114007,139475013,NA,32,G58z.00#
+G58z.#,Heart failure NOS,1,1,2,139481017#,Weak heart,G58z-1,G58z.11,84114007,139475013,NA,32,G58z.11#
+14AM.#,H/O: Heart failure in last year,1,0,1,453099015#,H/O: Heart failure in last year,14AM,14AM.00,309634009,453099015,NA,32,14AM.00#
+1O1..#,Heart failure confirmed,1,0,1,1488804017#,Heart failure confirmed,1O1,1O1..00,395105005,1488804017,NA,27,1O1..00#
+388D.#,New York Heart Assoc classification heart failure symptoms,1,0,1,833381000006119#,New York Heart Association Classification class,388D,388D.00,762994006,3637504017,NA,3,388D.00#
+661M5#,Heart failure self-management plan agreed,1,0,1,2117931000000116#,Heart failure self-management plan agreed,661M5,661M500,812001000000102,2117931000000116,NA,1,661M500#
+662f.#,New York Heart Association classification - class I,1,0,1,2616470012#,New York Heart Association Classification - Class I,662f,662f.00,420300004,2616470012,NA,1,662f.00#
+662g.#,New York Heart Association classification - class II,1,0,1,2616471011#,New York Heart Association Classification - Class II,662g,662g.00,421704003,2616471011,NA,1,662g.00#
+662h.#,New York Heart Association classification - class III,1,0,1,2616472016#,New York Heart Association Classification - Class III,662h,662h.00,420913000,2616472016,NA,1,662h.00#
+662i.#,New York Heart Association classification - class IV,1,0,1,2616473014#,New York Heart Association Classification - Class IV,662i,662i.00,422293003,2616473014,NA,1,662i.00#
+8H2S.#,Admit heart failure emergency,1,0,1,2549208013#,Emergency hospital admission for heart failure,8H2S,8H2S.00,416683003,3082850014,NA,40,8H2S.00#
+G5540#,Congestive cardiomyopathy,1,0,1,1778488011#,Congestive cardiomyopathy,G5540,G554000,399020009,1778488011,NA,32,G554000#
+G5540#,Congestive cardiomyopathy,1,0,1,350413012#,Congestive obstructive cardiomyopathy,G5540-1,G554011,233871002,350413012,NA,32,G554011#
+G5804#,Congestive heart failure due to valvular disease,1,0,1,2675255018#,Congestive heart failure due to valvular disease,G5804,G580400,426611007,2675255018,NA,32,G580400#
+G584.#,Right ventricular failure,1,0,1,1816101000006113#,Right ventricular failure,G584,G584.00,367363000,490972013,NA,32,G584.00#
+G5yy9#,Left ventricular systolic dysfunction,1,0,1,216207010#,Left ventricular systolic dysfunction,G5yy9,G5yy900,134401001,216207010,NA,32,G5yy900#
+G5yyA#,Left ventricular diastolic dysfunction,1,0,1,1489358014#,Left ventricular diastolic dysfunction,G5yyA,G5yyA00,395704004,1489358014,NA,32,G5yyA00#
+ZRad.#,New York Heart Assoc classification heart failure symptoms,1,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,ZRad.#
+G5y4z#,Post cardiac operation heart failure NOS,0,1,1,300217019#,Post cardiac operation heart failure NOS,G5y4z,G5y4z00,195130005,300214014,NA,32,G5y4z00#
+Q48y1#,Congenital cardiac failure,0,1,1,316833010#,Congenital cardiac failure,Q48y1,Q48y100,206586007,316833010,NA,32,Q48y100#
+SP111#,[Cardiac insuffic] or [heart fail] as a complication of care,0,1,1,350484012#,Heart failure as a complication of care,SP111-1,SP11111,233924009,350484012,NA,32,SP11111#
+SP111#,[Cardiac insuffic] or [heart fail] as a complication of care,0,1,1,403107019#,Cardiac insufficiency as a complication of care,SP111,SP11100,269299003,403107019,NA,32,SP11100#
+X202k#,Heart failure as a complication of care,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X202k#
+X202l#,Right ventricular failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X202l#
+XE0V8#,Biventricular failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0V8#
+XE0V9#,Heart failure NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0V9#
+XE1p9#,Cardiac insufficiency as a complication of care,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE1p9#
+XE2QG#,Left ventricular failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2QG#
+XM1Qn#,Impaired left ventricular function,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Qn#
+Xa07h#,Neonatal cardiac failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa07h#
+Xa0TT#,Sepsis-associated left ventricular failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TT#
+Xa0TU#,Sepsis-associated right ventricular failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TU#
+XaBLt#,Cardiac failure therapy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBLt#
+XaBwi#,H/O: Heart failure in last year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBwi#
+XaEgY#,Refractory heart failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEgY#
+XaIIq#,Left ventricular systolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIIq#
+XaIpn#,Heart failure confirmed,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIpn#
+XaItG#,Left ventricular diastolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaItG#
+XaJ98#,Echocardiogram shows left ventricular systolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ98#
+XaJ99#,Echocardiogram shows left ventricular diastolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ99#
+XaJ9G#,New York Heart Association classification - class I,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ9G#
+XaJ9H#,New York Heart Association classification - class II,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ9H#
+XaJ9I#,New York Heart Association classification - class III,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ9I#
+XaJ9J#,New York Heart Association classification - class IV,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ9J#
+XaKNW#,Admit heart failure emergency,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKNW#
+XaO5n#,Congestive heart failure due to valvular disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaO5n#
+XaWyi#,Heart failure with normal ejection fraction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaWyi#
+XaYYr#,Right ventricular diastolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYYr#
+XaYYs#,Diastolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYYs#
+Xaacj#,Left ventricular cardiac dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaacj#
+Xaapw#,Right ventricular systolic dysfunction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaapw#
+XafeB#,Heart failure with reduced ejection fraction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XafeB#
+X203E#,Chronic cor pulmonale,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X203E#
+XE0WM#,(Chronic cor pulmonale) or (pulmonary heart disease NOS),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0WM#
+H541z#,Pulmonary oedema NOS,0,1,1,301694014#,Pulmonary oedema,H541z,H541z00,19242006,479262018,NA,32,H541z00#
+H584.#,Acute pulmonary oedema unspecified,0,1,1,1216090015#,"Acute oedema of lung, unspecified",H584-1,H584.11,40541001,67598017,NA,32,H584.11#
+H584.#,Acute pulmonary oedema unspecified,0,1,1,301741013#,Acute pulmonary oedema unspecified,H584,H584.00,40541001,492666016,NA,32,H584.00#
+H584z#,Acute pulmonary oedema NOS,0,1,1,301743011#,Acute pulmonary oedema NOS,H584z,H584z00,40541001,492666016,NA,32,H584z00#
+X102X#,Acute pulmonary oedema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X102X#
+X102Y#,Acute cardiac pulmonary oedema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X102Y#
+XE0Wo#,(Conges card fail)(dropsy)(card insuf)(R hrt fail)(LV fail),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Wo#
+XaXLu#,Worsening pulmonary oedema,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXLu#

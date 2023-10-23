@@ -1,0 +1,79 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14G1.#,H/O: rheumatoid arthritis,1,1,2,251794010#,H/O: rheumatoid arthritis,14G1,14G1.00,161567008,251794010,NA,32,14G1.00#
+F3712#,Polyneuropathy in rheumatoid arthritis,1,1,2,297544012#,Polyneuropathy in rheumatoid arthritis,F3712,F371200,193180002,297544012,NA,32,F371200#
+F3964#,Myopathy due to rheumatoid arthritis,1,1,2,297641010#,Myopathy due to rheumatoid arthritis,F3964,F396400,193250002,297641010,NA,32,F396400#
+N0400#,Rheumatoid arthritis of cervical spine,1,1,2,309787016#,Rheumatoid arthritis of cervical spine,N0400,N040000,201764007,309787016,NA,32,N040000#
+N0401#,Other rheumatoid arthritis of spine,1,1,2,309788014#,Rheumatoid arthritis of spine,N0401,N040100,9631008,16840014,NA,32,N040100#
+N0402#,Rheumatoid arthritis of shoulder,1,1,2,309789018#,Rheumatoid arthritis of shoulder,N0402,N040200,201766009,309789018,NA,32,N040200#
+N0403#,Rheumatoid arthritis of sternoclavicular joint,1,1,2,309790010#,Rheumatoid arthritis of sternoclavicular joint,N0403,N040300,201767000,309790010,NA,32,N040300#
+N0404#,Rheumatoid arthritis of acromioclavicular joint,1,1,2,309791014#,Rheumatoid arthritis of acromioclavicular joint,N0404,N040400,201768005,309791014,NA,32,N040400#
+N0405#,Rheumatoid arthritis of elbow,1,1,2,309792019#,Rheumatoid arthritis of elbow,N0405,N040500,201769002,309792019,NA,32,N040500#
+N0406#,Rheumatoid arthritis of distal radio-ulnar joint,1,1,2,162051000006115#,Rheumatoid arthritis of distal radio-ulnar joint,N0406,N040600,201770001,309793012,NA,32,N040600#
+N0407#,Rheumatoid arthritis of wrist,1,1,2,309794018#,Rheumatoid arthritis of wrist,N0407,N040700,201771002,309794018,NA,32,N040700#
+N0407#,Rheumatoid arthritis of wrist,1,1,2,989291000006112#,Rheum. arth. - wrist joint,N0407-99,N040799,201771002,989000000000000,NA,32,N040799#
+N0408#,Rheumatoid arthritis of MCP joint,1,1,2,162111000006117#,Rheumatoid arthritis of metacarpophalangeal joint,N0408,N040800,201772009,309795017,NA,32,N040800#
+N0408#,Rheumatoid arthritis of MCP joint,1,1,2,989301000006113#,Rheum. arth. - hand joint,N0408-99,N040899,201772009,989000000000000,NA,32,N040899#
+N0409#,Rheumatoid arthritis of PIP joint of finger,1,1,2,162131000006111#,Rheumatoid arthritis of proximal interphalangeal joint of finger,N0409,N040900,201773004,309796016,NA,32,N040900#
+N040A#,Rheumatoid arthritis of DIP joint of finger,1,1,2,162041000006117#,Rheumatoid arthritis of distal interphalangeal joint of finger,N040A,N040A00,201774005,309797013,NA,32,N040A00#
+N040B#,Rheumatoid arthritis of hip,1,1,2,989311000006111#,Rheum. arth. - hip joint,N040B-99,N040B99,201775006,989000000000000,NA,32,N040B99#
+N040B#,Rheumatoid arthritis of hip,1,1,2,309798015#,Rheumatoid arthritis of hip,N040B,N040B00,201775006,309798015,NA,32,N040B00#
+N040C#,Rheumatoid arthritis of sacro-iliac joint,1,1,2,162141000006118#,Rheumatoid arthritis of sacroiliac joint,N040C,N040C00,201776007,309799011,NA,32,N040C00#
+N040D#,Rheumatoid arthritis of knee,1,1,2,989321000006115#,Rheum. arth. - knee joint,N040D-99,N040D99,201777003,989000000000000,NA,32,N040D99#
+N040D#,Rheumatoid arthritis of knee,1,1,2,309800010#,Rheumatoid arthritis of knee,N040D,N040D00,201777003,309800010,NA,32,N040D00#
+N040E#,Rheumatoid arthritis of tibio-fibular joint,1,1,2,162191000006110#,Rheumatoid arthritis of tibio-fibular joint,N040E,N040E00,201778008,309801014,NA,32,N040E00#
+N040F#,Rheumatoid arthritis of ankle,1,1,2,989331000006117#,Rheum. arth. - ankle/foot,N040F-99,N040F99,201779000,989000000000000,NA,32,N040F99#
+N040F#,Rheumatoid arthritis of ankle,1,1,2,309802019#,Rheumatoid arthritis of ankle,N040F,N040F00,201779000,309802019,NA,32,N040F00#
+N040G#,Rheumatoid arthritis of subtalar joint,1,1,2,309803012#,Rheumatoid arthritis of subtalar joint,N040G,N040G00,201780002,309803012,NA,32,N040G00#
+N040H#,Rheumatoid arthritis of talonavicular joint,1,1,2,309804018#,Rheumatoid arthritis of talonavicular joint,N040H,N040H00,201781003,309804018,NA,32,N040H00#
+N040J#,Rheumatoid arthritis of other tarsal joint,1,1,2,309805017#,Rheumatoid arthritis of other tarsal joint,N040J,N040J00,429192004,2696026017,NA,32,N040J00#
+N040K#,Rheumatoid arthritis of 1st MTP joint,1,1,2,168761000006118#,Rheumatoid arthritis of 1st metatarsophalangeal joint,N040K,N040K00,201783000,309807013,NA,32,N040K00#
+N040L#,Rheumatoid arthritis of lesser MTP joint,1,1,2,162101000006115#,Rheumatoid arthritis of lesser metatarsophalangeal joint,N040L,N040L00,201784006,309808015,NA,32,N040L00#
+N040M#,Rheumatoid arthritis of IP joint of toe,1,1,2,162081000006111#,Rheumatoid arthritis of interphalangeal joint of toe,N040M,N040M00,201785007,309809011,NA,32,N040M00#
+N040.#,Rheumatoid arthritis,1,1,2,889741000006118#,Rheum. arth. - other joint,N040-91,N040.91,69896004,890000000000000,NA,32,N040.91#
+N040.#,Rheumatoid arthritis,1,1,2,889761000006119#,Rheum. arth. - knee joint,N040-93,N040.93,69896004,890000000000000,NA,32,N040.93#
+N040.#,Rheumatoid arthritis,1,1,2,889781000006112#,Rheum. arth. - hand joint,N040-95,N040.95,69896004,890000000000000,NA,32,N040.95#
+N040.#,Rheumatoid arthritis,1,1,2,889751000006116#,Rheum. arth. - ankle/foot,N040-92,N040.92,69896004,890000000000000,NA,32,N040.92#
+N040.#,Rheumatoid arthritis,1,1,2,889771000006114#,Rheum. arth. - hip joint,N040-94,N040.94,69896004,890000000000000,NA,32,N040.94#
+N040.#,Rheumatoid arthritis,1,1,2,889791000006110#,Rheum. arth. - wrist joint,N040-96,N040.96,69896004,890000000000000,NA,32,N040.96#
+N040.#,Rheumatoid arthritis,1,1,2,889821000006118#,Rheum. arth. - multiple joint,N040-99,N040.99,69896004,890000000000000,NA,32,N040.99#
+N040.#,Rheumatoid arthritis,1,1,2,116082011#,Rheumatoid arthritis,N040,N040.00,69896004,116082011,NA,32,N040.00#
+N040.#,Rheumatoid arthritis,1,1,2,889731000006111#,Rheumatoid arthritis NOS,N040-90,N040.90,69896004,890000000000000,NA,32,N040.90#
+N040.#,Rheumatoid arthritis,1,1,2,889811000006114#,Rheum. arth. - shoulder joint,N040-98,N040.98,69896004,890000000000000,NA,32,N040.98#
+N040.#,Rheumatoid arthritis,1,1,2,889801000006111#,Rheum. arth. - elbow joint,N040-97,N040.97,69896004,890000000000000,NA,32,N040.97#
+N040S#,Rheumatoid arthritis - multiple joint,1,1,2,426510015#,Rheumatoid arthritis - multiple joint,N040S,N040S00,287006005,426510015,NA,32,N040S00#
+N040T#,Flare of rheumatoid arthritis,1,1,2,309816012#,Flare of rheumatoid arthritis,N040T,N040T00,201791009,309816012,NA,32,N040T00#
+N041.#,Felty's syndrome,1,1,2,95067016#,Felty's syndrome,N041,N041.00,57160007,95067016,NA,32,N041.00#
+N0421#,Rheumatoid lung disease,1,1,2,1778239014#,Rheumatoid lung disease,N0421,N042100,398726004,1778239014,NA,32,N042100#
+N04X.#,Seropositive rheumatoid arthritis,1,1,2,149911000006117#,Seropositive rheumatoid arthritis,N04X,N04X.00,239791005,359291017,NA,32,N04X.00#
+Nyu10#,[X]Rheumatoid arthritis+involvement/other organs or systems,1,1,2,424981000006114#,[X]Rheumatoid arthritis+involvement/other organs or systems,Nyu10,Nyu1000,239793008,359293019,NA,32,Nyu1000#
+Nyu11#,[X]Other seropositive rheumatoid arthritis,1,1,2,312518013#,[X]Other seropositive rheumatoid arthritis,Nyu11,Nyu1100,239791005,359291017,NA,32,Nyu1100#
+Nyu12#,[X]Other specified rheumatoid arthritis,1,1,2,312520011#,[X]Other specified rheumatoid arthritis,Nyu12,Nyu1200,69896004,116082011,NA,32,Nyu1200#
+Nyu1G#,[X]Seropositive rheumatoid arthritis unspecified,1,1,2,312534011#,"[X]Seropositive rheumatoid arthritis, unspecified",Nyu1G,Nyu1G00,239791005,359291017,NA,32,Nyu1G00#
+H570.#,Rheumatoid lung,1,0,1,162301000006117#,Rheumatoid lung,H570,H570.00,398726004,1786545019,NA,32,H570.00#
+N040N#,Rheumatoid vasculitis,1,0,1,1779323014#,Rheumatoid vasculitis,N040N,N040N00,400054000,1779323014,NA,32,N040N00#
+N040P#,Seronegative rheumatoid arthritis,1,0,1,359292012#,Seronegative rheumatoid arthritis,N040P,N040P00,239792003,359292012,NA,32,N040P00#
+N047.#,Seropositive errosive rheumatoid arthritis,1,0,1,451461014#,Seropositive erosive rheumatoid arthritis,N047,N047.00,308143008,3517964017,NA,32,N047.00#
+N04y0#,Rheumatoid lung,1,0,1,311496011#,Fibrosing alveolitis associated with rheumatoid arthritis,N04y0-2,N04y012,10713006,311496011,NA,32,N04y012#
+N04y0#,Rheumatoid lung,1,0,1,1786545019#,Rheumatoid lung,N04y0,N04y000,398726004,1786545019,NA,32,N04y000#
+N04y0#,Rheumatoid lung,1,0,1,1786505011#,Caplan's syndrome,N04y0-1,N04y011,398640008,1786506012,NA,32,N04y011#
+N0431#,Acute polyarticular juvenile rheumatoid arthritis,0,1,1,125937016#,Acute polyarticular juvenile rheumatoid arthritis,N0431,N043100,75822003,125937016,NA,32,N043100#
+X701k#,Fibrosing alveolitis associated with rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701k#
+X701t#,Juvenile rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701t#
+XE1Gi#,Juvenile rheumatoid arthritis &/or Still's disease,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE1Gi#
+N043z#,Juvenile rheumatoid arthritis NOS,0,1,1,309828016#,Juvenile rheumatoid arthritis NOS,N043z,N043z00,410795001,2472447010,NA,32,N043z00#
+N0433#,Monarticular juvenile rheumatoid arthritis,0,1,1,309827014#,Monarticular juvenile rheumatoid arthritis,N0433,N043300,201799006,309827014,NA,32,N043300#
+Xa3gN#,Rheumatoid arthritis - ankle/foot,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3gN#
+Xa3gM#,Rheumatoid arthritis - hand joint,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3gM#
+Xa3gL#,Rheumatoid arthritis - multiple joint,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3gL#
+Xa3gO#,Rheumatoid arthritis - other joint,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3gO#
+Xa3gP#,Rheumatoid arthritis NOS,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3gP#
+XE1DU#,Rheumatoid arthritis and other inflammatory polyarthropathy,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE1DU#
+X701m#,Rheumatoid arthritis with multisystem involvement,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701m#
+X701j#,Rheumatoid arthritis with organ / system involvement,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701j#
+X103Y#,Rheumatoid pneumoconiosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X103Y#
+X701l#,Rheumatoid vasculitis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701l#
+X701i#,Seronegative rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701i#
+XaBMO#,Seropositive errosive rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaBMO#
+X701h#,Seropositive rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X701h#
+Xa3wk#,Still's disease - juvenile rheumatoid arthritis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Xa3wk#
+X705u#,Systemic rheumatoid vasculitis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X705u#

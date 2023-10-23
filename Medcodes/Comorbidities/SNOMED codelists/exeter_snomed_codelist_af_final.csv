@@ -1,0 +1,202 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+49436004#,Atrial fibrillation,82343012#,1,1,2,3299911000006116#,AF - Atrial fibrillation,^ESCTAF329991,NA,1230726010,NA,32
+49436004#,Atrial fibrillation,82343012#,1,1,2,82343012#,Atrial fibrillation,G5730,G573000,82343012,NA,32
+49436004#,Atrial fibrillation (disorder),787114012#,1,1,2,3299911000006116#,AF - Atrial fibrillation,^ESCTAF329991,NA,1230726010,NA,32
+49436004#,Atrial fibrillation (disorder),787114012#,1,1,2,82343012#,Atrial fibrillation,G5730,G573000,82343012,NA,32
+49436004#,AF - Atrial fibrillation,1230726010#,1,1,2,3299911000006116#,AF - Atrial fibrillation,^ESCTAF329991,NA,1230726010,NA,32
+49436004#,AF - Atrial fibrillation,1230726010#,1,1,2,82343012#,Atrial fibrillation,G5730,G573000,82343012,NA,32
+195080001#,Atrial fibrillation and flutter,300130013#,1,1,2,300130013#,Atrial fibrillation and flutter,G573,G573.00,300130013,NA,32
+195080001#,Atrial fibrillation and flutter,300130013#,1,1,2,300132017#,Atrial fibrillation and flutter NOS,G573z,G573z00,300130013,NA,32
+195080001#,Atrial fibrillation and flutter (disorder),579134012#,1,1,2,300130013#,Atrial fibrillation and flutter,G573,G573.00,300130013,NA,32
+195080001#,Atrial fibrillation and flutter (disorder),579134012#,1,1,2,300132017#,Atrial fibrillation and flutter NOS,G573z,G573z00,300130013,NA,32
+5370000#,Atrial flutter,9988012#,1,1,2,9988012#,Atrial flutter,G5731,G573100,9988012,NA,32
+5370000#,Atrial flutter (disorder),791848019#,1,1,2,9988012#,Atrial flutter,G5731,G573100,9988012,NA,32
+312442005#,H/O: atrial fibrillation,456154015#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,H/O: atrial fibrillation,456154015#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+312442005#,History of - atrial fibrillation (context-dependent category),709120015#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,History of - atrial fibrillation (context-dependent category),709120015#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+312442005#,History of - atrial fibrillation (situation),2610827014#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,History of - atrial fibrillation (situation),2610827014#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+312442005#,History of - atrial fibrillation,2670362011#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,History of - atrial fibrillation,2670362011#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+312442005#,History of atrial fibrillation,2986292016#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,History of atrial fibrillation,2986292016#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+312442005#,History of atrial fibrillation (situation),2986627014#,1,1,2,6016401000006115#,History of atrial fibrillation,^ESCTHI601640,NA,2986292016,NA,32
+312442005#,History of atrial fibrillation (situation),2986627014#,1,1,2,456154015#,H/O: atrial fibrillation,14AN,14AN.00,456154015,NA,32
+428076002#,History of atrial flutter (situation),2691596017#,1,1,2,2692063011#,History of atrial flutter,14AR,14AR.00,2692063011,NA,32
+428076002#,History of atrial flutter,2692063011#,1,1,2,2692063011#,History of atrial flutter,14AR,14AR.00,2692063011,NA,32
+134377004#,Atrial fibrillation monitoring,216183015#,1,1,2,216183015#,Atrial fibrillation monitoring,662S,662S.00,216183015,NA,1
+134377004#,Atrial fibrillation monitoring (procedure),513955015#,1,1,2,216183015#,Atrial fibrillation monitoring,662S,662S.00,216183015,NA,1
+134377004#,Atrial fibrillation monitoring (regime/therapy),1475456011#,1,1,2,216183015#,Atrial fibrillation monitoring,662S,662S.00,216183015,NA,1
+282825002#,AF - Paroxysmal atrial fibrillation,421232012#,1,1,2,5669591000006113#,AF - Paroxysmal atrial fibrillation,^ESCTAF566959,NA,421232012,NA,32
+282825002#,AF - Paroxysmal atrial fibrillation,421232012#,1,1,2,5669611000006119#,Intermittent atrial fibrillation,^ESCTIN566961,NA,421234013,NA,32
+282825002#,AF - Paroxysmal atrial fibrillation,421232012#,1,1,2,5669601000006117#,PAF - Paroxysmal atrial fibrillation,^ESCTPA566960,NA,421233019,NA,32
+282825002#,AF - Paroxysmal atrial fibrillation,421232012#,1,1,2,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,421235014,NA,32
+282825002#,PAF - Paroxysmal atrial fibrillation,421233019#,1,1,2,5669591000006113#,AF - Paroxysmal atrial fibrillation,^ESCTAF566959,NA,421232012,NA,32
+282825002#,PAF - Paroxysmal atrial fibrillation,421233019#,1,1,2,5669611000006119#,Intermittent atrial fibrillation,^ESCTIN566961,NA,421234013,NA,32
+282825002#,PAF - Paroxysmal atrial fibrillation,421233019#,1,1,2,5669601000006117#,PAF - Paroxysmal atrial fibrillation,^ESCTPA566960,NA,421233019,NA,32
+282825002#,PAF - Paroxysmal atrial fibrillation,421233019#,1,1,2,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,421235014,NA,32
+282825002#,Intermittent atrial fibrillation,421234013#,1,1,2,5669591000006113#,AF - Paroxysmal atrial fibrillation,^ESCTAF566959,NA,421232012,NA,32
+282825002#,Intermittent atrial fibrillation,421234013#,1,1,2,5669611000006119#,Intermittent atrial fibrillation,^ESCTIN566961,NA,421234013,NA,32
+282825002#,Intermittent atrial fibrillation,421234013#,1,1,2,5669601000006117#,PAF - Paroxysmal atrial fibrillation,^ESCTPA566960,NA,421233019,NA,32
+282825002#,Intermittent atrial fibrillation,421234013#,1,1,2,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,421235014,NA,32
+282825002#,Paroxysmal atrial fibrillation,421235014#,1,1,2,5669591000006113#,AF - Paroxysmal atrial fibrillation,^ESCTAF566959,NA,421232012,NA,32
+282825002#,Paroxysmal atrial fibrillation,421235014#,1,1,2,5669611000006119#,Intermittent atrial fibrillation,^ESCTIN566961,NA,421234013,NA,32
+282825002#,Paroxysmal atrial fibrillation,421235014#,1,1,2,5669601000006117#,PAF - Paroxysmal atrial fibrillation,^ESCTPA566960,NA,421233019,NA,32
+282825002#,Paroxysmal atrial fibrillation,421235014#,1,1,2,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,421235014,NA,32
+282825002#,Paroxysmal atrial fibrillation (disorder),676525010#,1,1,2,5669591000006113#,AF - Paroxysmal atrial fibrillation,^ESCTAF566959,NA,421232012,NA,32
+282825002#,Paroxysmal atrial fibrillation (disorder),676525010#,1,1,2,5669611000006119#,Intermittent atrial fibrillation,^ESCTIN566961,NA,421234013,NA,32
+282825002#,Paroxysmal atrial fibrillation (disorder),676525010#,1,1,2,5669601000006117#,PAF - Paroxysmal atrial fibrillation,^ESCTPA566960,NA,421233019,NA,32
+282825002#,Paroxysmal atrial fibrillation (disorder),676525010#,1,1,2,421235014#,Paroxysmal atrial fibrillation,G5732,G573200,421235014,NA,32
+440028005#,Permanent atrial fibrillation (disorder),2788935019#,1,1,2,636721000000112#,Permanent atrial fibrillation,G5734,G573400,2793259018,NA,32
+440028005#,Permanent atrial fibrillation,2793259018#,1,1,2,636721000000112#,Permanent atrial fibrillation,G5734,G573400,2793259018,NA,32
+440059007#,Persistent atrial fibrillation (disorder),2789006018#,1,1,2,636701000000115#,Persistent atrial fibrillation,G5735,G573500,2793372019,NA,32
+440059007#,Persistent atrial fibrillation,2793372019#,1,1,2,636701000000115#,Persistent atrial fibrillation,G5735,G573500,2793372019,NA,32
+164889003#,ECG: atrial fibrillation,256478018#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,ECG: atrial fibrillation,256478018#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+164889003#,ECG: atrial fibrillation (finding),546267010#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,ECG: atrial fibrillation (finding),546267010#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+164889003#,Electrocardiogram: atrial fibrillation (finding),2607379012#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,Electrocardiogram: atrial fibrillation (finding),2607379012#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+164889003#,Electrocardiogram: atrial fibrillation,2619240015#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,Electrocardiogram: atrial fibrillation,2619240015#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+164889003#,Electrocardiographic atrial fibrillation (finding),3300047015#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,Electrocardiographic atrial fibrillation (finding),3300047015#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+164889003#,Electrocardiographic atrial fibrillation,3300048013#,1,1,2,256478018#,ECG: atrial fibrillation,3272,3272,256478018,NA,3
+164889003#,Electrocardiographic atrial fibrillation,3300048013#,1,1,2,4586611000006112#,Electrocardiographic atrial fibrillation,^ESCTEL458661,NA,3300048013,NA,3
+233911009#,Non-rheumatic atrial fibrillation,350465014#,1,1,2,350465014#,Non-rheumatic atrial fibrillation,G5733,G573300,350465014,NA,32
+233911009#,Non-rheumatic atrial fibrillation,350465014#,1,1,2,5057281000006117#,NRAF - Non-rheumatic atrial fibrillation,^ESCTNR505728,NA,350466010,NA,32
+233911009#,NRAF - Non-rheumatic atrial fibrillation,350466010#,1,1,2,350465014#,Non-rheumatic atrial fibrillation,G5733,G573300,350465014,NA,32
+233911009#,NRAF - Non-rheumatic atrial fibrillation,350466010#,1,1,2,5057281000006117#,NRAF - Non-rheumatic atrial fibrillation,^ESCTNR505728,NA,350466010,NA,32
+233911009#,Non-rheumatic atrial fibrillation (disorder),622161011#,1,1,2,350465014#,Non-rheumatic atrial fibrillation,G5733,G573300,350465014,NA,32
+233911009#,Non-rheumatic atrial fibrillation (disorder),622161011#,1,1,2,5057281000006117#,NRAF - Non-rheumatic atrial fibrillation,^ESCTNR505728,NA,350466010,NA,32
+164890007#,ECG: atrial flutter,256479014#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,ECG: atrial flutter,256479014#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,ECG: atrial flutter,256479014#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,ECG: atrial flutter (finding),546268017#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,ECG: atrial flutter (finding),546268017#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,ECG: atrial flutter (finding),546268017#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,Electrocardiogram: atrial flutter (finding),2607380010#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,Electrocardiogram: atrial flutter (finding),2607380010#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,Electrocardiogram: atrial flutter (finding),2607380010#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,Electrocardiogram: atrial flutter,2619241016#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,Electrocardiogram: atrial flutter,2619241016#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,Electrocardiogram: atrial flutter,2619241016#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,Electrocardiographic atrial flutter (finding),3300080010#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,Electrocardiographic atrial flutter (finding),3300080010#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,Electrocardiographic atrial flutter (finding),3300080010#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,Electrocardiographic atrial flutter,3300081014#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,Electrocardiographic atrial flutter,3300081014#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,Electrocardiographic atrial flutter,3300081014#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+164890007#,EKG: atrial flutter,3300082019#,1,1,2,4586631000006118#,Electrocardiographic atrial flutter,^ESCTEL458663,NA,3300081014,NA,3
+164890007#,EKG: atrial flutter,3300082019#,1,1,2,4586641000006111#,EKG: atrial flutter,^ESCTEK458664,NA,3300082019,NA,3
+164890007#,EKG: atrial flutter,3300082019#,1,1,2,256479014#,ECG: atrial flutter,3273,3273,256479014,NA,3
+233910005#,Lone atrial fibrillation,350464013#,1,1,2,5057261000006110#,Lone atrial fibrillation,^ESCTLO505726,NA,350464013,NA,31
+233910005#,Lone atrial fibrillation (disorder),622160012#,1,1,2,5057261000006110#,Lone atrial fibrillation,^ESCTLO505726,NA,350464013,NA,31
+300996004#,Controlled atrial fibrillation,442207015#,1,1,2,5887651000006116#,Controlled atrial fibrillation,^ESCTCO588765,NA,442207015,NA,31
+300996004#,Controlled atrial fibrillation (disorder),696740017#,1,1,2,5887651000006116#,Controlled atrial fibrillation,^ESCTCO588765,NA,442207015,NA,31
+314208002#,Rapid atrial fibrillation,458527016#,1,1,2,6043781000006115#,Rapid atrial fibrillation,^ESCTRA604378,NA,458527016,NA,32
+314208002#,Rapid atrial fibrillation (disorder),710991011#,1,1,2,6043781000006115#,Rapid atrial fibrillation,^ESCTRA604378,NA,458527016,NA,32
+427665004#,Paroxysmal atrial flutter (disorder),2661479011#,1,1,2,2675306013#,Paroxysmal atrial flutter,G5736,G573600,2675306013,NA,32
+427665004#,Paroxysmal atrial flutter,2675306013#,1,1,2,2675306013#,Paroxysmal atrial flutter,G5736,G573600,2675306013,NA,32
+426749004#,Chronic atrial fibrillation (disorder),2661428017#,1,1,2,2675253013#,Chronic atrial fibrillation,G5737,NA,2675253013,NA,32
+426749004#,Chronic atrial fibrillation,2675253013#,1,1,2,2675253013#,Chronic atrial fibrillation,G5737,NA,2675253013,NA,32
+720448006#,Typical atrial flutter (disorder),3320795012#,1,1,2,2608211000000115#,Typical atrial flutter,G5738,NA,3320796013,NA,32
+720448006#,Typical atrial flutter (disorder),3320795012#,1,1,2,7803631000006115#,Atrial flutter type I,^ESCTAT780363,NA,3320801015,NA,32
+720448006#,Typical atrial flutter (disorder),3320795012#,1,1,2,7803641000006113#,Atrial flutter type 1,^ESCTAT780364,NA,3320802010,NA,32
+720448006#,Typical atrial flutter,3320796013#,1,1,2,2608211000000115#,Typical atrial flutter,G5738,NA,3320796013,NA,32
+720448006#,Typical atrial flutter,3320796013#,1,1,2,7803631000006115#,Atrial flutter type I,^ESCTAT780363,NA,3320801015,NA,32
+720448006#,Typical atrial flutter,3320796013#,1,1,2,7803641000006113#,Atrial flutter type 1,^ESCTAT780364,NA,3320802010,NA,32
+720448006#,Atrial flutter type I,3320801015#,1,1,2,2608211000000115#,Typical atrial flutter,G5738,NA,3320796013,NA,32
+720448006#,Atrial flutter type I,3320801015#,1,1,2,7803631000006115#,Atrial flutter type I,^ESCTAT780363,NA,3320801015,NA,32
+720448006#,Atrial flutter type I,3320801015#,1,1,2,7803641000006113#,Atrial flutter type 1,^ESCTAT780364,NA,3320802010,NA,32
+720448006#,Atrial flutter type 1,3320802010#,1,1,2,2608211000000115#,Typical atrial flutter,G5738,NA,3320796013,NA,32
+720448006#,Atrial flutter type 1,3320802010#,1,1,2,7803631000006115#,Atrial flutter type I,^ESCTAT780363,NA,3320801015,NA,32
+720448006#,Atrial flutter type 1,3320802010#,1,1,2,7803641000006113#,Atrial flutter type 1,^ESCTAT780364,NA,3320802010,NA,32
+15964901000119107#,Atypical atrial flutter (disorder),3322863014#,1,1,2,2608251000000116#,Atypical atrial flutter,G5739,NA,3322864015,NA,32
+15964901000119107#,Atypical atrial flutter (disorder),3322863014#,1,1,2,9868951000006119#,Atrial flutter type II,^ESCTAT986895,NA,3323016017,NA,32
+15964901000119107#,Atypical atrial flutter (disorder),3322863014#,1,1,2,9868941000006116#,Atrial flutter type 2,^ESCTAT986894,NA,3323015018,NA,32
+15964901000119107#,Atypical atrial flutter,3322864015#,1,1,2,2608251000000116#,Atypical atrial flutter,G5739,NA,3322864015,NA,32
+15964901000119107#,Atypical atrial flutter,3322864015#,1,1,2,9868951000006119#,Atrial flutter type II,^ESCTAT986895,NA,3323016017,NA,32
+15964901000119107#,Atypical atrial flutter,3322864015#,1,1,2,9868941000006116#,Atrial flutter type 2,^ESCTAT986894,NA,3323015018,NA,32
+15964901000119107#,Atrial flutter type 2,3323015018#,1,1,2,2608251000000116#,Atypical atrial flutter,G5739,NA,3322864015,NA,32
+15964901000119107#,Atrial flutter type 2,3323015018#,1,1,2,9868951000006119#,Atrial flutter type II,^ESCTAT986895,NA,3323016017,NA,32
+15964901000119107#,Atrial flutter type 2,3323015018#,1,1,2,9868941000006116#,Atrial flutter type 2,^ESCTAT986894,NA,3323015018,NA,32
+15964901000119107#,Atrial flutter type II,3323016017#,1,1,2,2608251000000116#,Atypical atrial flutter,G5739,NA,3322864015,NA,32
+15964901000119107#,Atrial flutter type II,3323016017#,1,1,2,9868951000006119#,Atrial flutter type II,^ESCTAT986895,NA,3323016017,NA,32
+15964901000119107#,Atrial flutter type II,3323016017#,1,1,2,9868941000006116#,Atrial flutter type 2,^ESCTAT986894,NA,3323015018,NA,32
+248411000000105#,NA,NA#,0,1,1,406861000000119#,Atrial fibrillation annual review,6A9,6A9..00,406861000000000,NA,1
+713801000000102#,NA,NA#,0,1,1,406251000000118#,Atrial fibrillation monitoring administration,9Os,9Os..00,156504e10,NA,37
+717221000000101#,NA,NA#,0,1,1,408081000000116#,Atrial fibrillation monitoring first letter,9Os0,9Os0.00,156976e10,NA,37
+716981000000106#,NA,NA#,0,1,1,408101000000110#,Atrial fibrillation monitoring second letter,9Os1,9Os1.00,156953e10,NA,37
+716181000000109#,NA,NA#,0,1,1,408121000000118#,Atrial fibrillation monitoring third letter,9Os2,9Os2.00,156874e10,NA,37
+717011000000100#,NA,NA#,0,1,1,408141000000113#,Atrial fibrillation monitoring verbal invite,9Os3,9Os3.00,15704e11,NA,37
+717011000000100#,NA,NA#,0,1,1,8218591000006111#,Atrial fibrillation monitoring verbal invitation,^ESCTAT821859,NA,156956e10,NA,37
+716721000000107#,NA,NA#,0,1,1,8218281000006110#,Atrial fibrillation monitoring telephone invitation,^ESCTAT821828,NA,156927e10,NA,37
+716721000000107#,NA,NA#,0,1,1,408241000000115#,Atrial fibrillation monitoring telephone invite,9Os4,9Os4.00,157038e10,NA,37
+81216002#,Atrial flutter-fibrillation,134749010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138790004#,H/O: atrial fibrillation,220184017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142049000#,ECG: atrial fibrillation,224385017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142050000#,ECG: atrial flutter,224386016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155364009#,Atrial fibrillation,241913016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155364009#,Atrial flutter,241914010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155364009#,(Atrial fibrillation) or (atrial flutter),241916012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161521008#,H/O: atrial fibrillation,251708016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+175146007#,Implantation of intravenous pacemaker for atrial fibrillation,271235013#,1,0,1,783761000006118#,Implantation of intravenous pacemaker for atrial fibrillation,7936A,7936A00,271235013,NA,32
+175146007#,Implantation of intravenous pacemaker for atrial fibrillation,271235013#,1,0,1,865521000006116#,Pacer controlled atrial fibril,7936A-99,7936A99,865521000000000,NA,32
+195081002#,Paroxysmal atrial fibrillation,300131012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195082009#,Atrial fibrillation and flutter NOS,300132017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266306001#,(Atrial fibrillation) or (atrial flutter),395939012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266306001#,Atrial flutter,395941013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266306001#,Atrial fibrillation,395943011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367037002#,Atrial fibrillation monitoring,490598012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367266005#,Atrial fibrillation monitoring,490846015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138790004#,H/O: atrial fibrillation,517289011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142049000#,ECG: atrial fibrillation,520907018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142050000#,ECG: atrial flutter,520908011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155364009#,(Atrial fibrillation) or (atrial flutter),535686016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161521008#,H/O: atrial fibrillation,542558014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+175146007#,Implantation of intravenous pacemaker for atrial fibrillation (procedure),557660015#,1,0,1,783761000006118#,Implantation of intravenous pacemaker for atrial fibrillation,7936A,7936A00,271235013,NA,32
+175146007#,Implantation of intravenous pacemaker for atrial fibrillation (procedure),557660015#,1,0,1,865521000006116#,Pacer controlled atrial fibril,7936A-99,7936A99,865521000000000,NA,32
+195081002#,Paroxysmal atrial fibrillation,579135013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195082009#,Atrial fibrillation and flutter NOS (disorder),579137017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266306001#,(Atrial fibrillation) or (atrial flutter),658784016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367037002#,Atrial fibrillation monitoring,773633012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367266005#,Atrial fibrillation monitoring,773889017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+81216002#,Atrial flutter-fibrillation (disorder),822463018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+81216002#,Atrial fibrillation and flutter,2536475010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+426814001#,Transient cerebral ischemia due to atrial fibrillation (disorder),2661421011#,1,0,1,7064701000006118#,Transient cerebral ischemia due to atrial fibrillation,^ESCTTR706470,NA,2675244018,NA,31
+426814001#,Transient cerebral ischemia due to atrial fibrillation (disorder),2661421011#,1,0,1,7064691000006118#,Transient cerebral ischaemia due to atrial fibrillation,^ESCTTR706469,NA,2675245017,NA,31
+425615007#,Chronic atrial flutter (disorder),2661427010#,1,0,1,7046981000006110#,Chronic atrial flutter,^ESCTCH704698,NA,2675252015,NA,31
+426814001#,Transient cerebral ischemia due to atrial fibrillation,2675244018#,1,0,1,7064701000006118#,Transient cerebral ischemia due to atrial fibrillation,^ESCTTR706470,NA,2675244018,NA,31
+426814001#,Transient cerebral ischemia due to atrial fibrillation,2675244018#,1,0,1,7064691000006118#,Transient cerebral ischaemia due to atrial fibrillation,^ESCTTR706469,NA,2675245017,NA,31
+426814001#,Transient cerebral ischaemia due to atrial fibrillation,2675245017#,1,0,1,7064701000006118#,Transient cerebral ischemia due to atrial fibrillation,^ESCTTR706470,NA,2675244018,NA,31
+426814001#,Transient cerebral ischaemia due to atrial fibrillation,2675245017#,1,0,1,7064691000006118#,Transient cerebral ischaemia due to atrial fibrillation,^ESCTTR706469,NA,2675245017,NA,31
+425615007#,Chronic atrial flutter,2675252015#,1,0,1,7046981000006110#,Chronic atrial flutter,^ESCTCH704698,NA,2675252015,NA,31
+266306001#,(Atrial fibrillation) or (atrial flutter) (disorder),2712893013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138790004#,H/O: atrial fibrillation (situation),2716123019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142049000#,ECG: atrial fibrillation (finding),2730056017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161521008#,H/O: atrial fibrillation (situation),2734622016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367037002#,Atrial fibrillation monitoring (procedure),2738455011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367266005#,Atrial fibrillation monitoring (regime/therapy),2744192013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155364009#,(Atrial fibrillation) or (atrial flutter) (disorder),2747907015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+142050000#,ECG: atrial flutter (finding),2749691015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195081002#,Paroxysmal atrial fibrillation (disorder),2758687012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+449863006#,Insertion of pacemaker for control of atrial fibrillation,2912517016#,1,0,1,7375931000006117#,Insertion of pacemaker for control of atrial fibrillation,^ESCTIN737593,NA,2912517016,NA,31
+449863006#,Insertion of pacemaker for control of atrial fibrillation (procedure),2913128015#,1,0,1,7375931000006117#,Insertion of pacemaker for control of atrial fibrillation,^ESCTIN737593,NA,2912517016,NA,31
+120041000119109#,Atrial fibrillation with rapid ventricular response,2981207015#,1,0,1,8037691000006113#,Atrial fibrillation with rapid ventricular response,^ESCTAT803769,NA,2981207015,NA,31
+699833006#,Provision of written information about atrial fibrillation,2986139019#,1,0,1,2278971000000111#,Provision of written information about atrial fibrillation,8OAD,8OAD.00,2986139019,NA,32
+699833006#,Provision of written information about atrial fibrillation (procedure),2986146011#,1,0,1,2278971000000111#,Provision of written information about atrial fibrillation,8OAD,8OAD.00,2986139019,NA,32
+706923002#,Longstanding persistent atrial fibrillation (disorder),3027866010#,1,0,1,7610331000006110#,Longstanding persistent atrial fibrillation,^ESCTLO761033,NA,3027950014,NA,31
+706923002#,Longstanding persistent atrial fibrillation,3027950014#,1,0,1,7610331000006110#,Longstanding persistent atrial fibrillation,^ESCTLO761033,NA,3027950014,NA,31
+715395008#,Familial atrial fibrillation (disorder),3302450017#,1,0,1,7731461000006119#,Familial atrial fibrillation,^ESCTFA773146,NA,3302451018,NA,31
+715395008#,Familial atrial fibrillation,3302451018#,1,0,1,7731461000006119#,Familial atrial fibrillation,^ESCTFA773146,NA,3302451018,NA,31
+715560009#,Idiopathic neonatal atrial flutter (disorder),3303024015#,1,0,1,7734131000006115#,Idiopathic neonatal atrial flutter,^ESCTID773413,NA,3303025019,NA,31
+715560009#,Idiopathic neonatal atrial flutter,3303025019#,1,0,1,7734131000006115#,Idiopathic neonatal atrial flutter,^ESCTID773413,NA,3303025019,NA,31
+762247006#,Preexcited atrial fibrillation (disorder),3636233010#,1,0,1,3636234016#,Pre-excited atrial fibrillation,^ESCT1168890,NA,3636234016,NA,31
+762247006#,Preexcited atrial fibrillation (disorder),3636233010#,1,0,1,3636235015#,Preexcited atrial fibrillation,^ESCT1168889,NA,3636235015,NA,31
+762247006#,Pre-excited atrial fibrillation,3636234016#,1,0,1,3636234016#,Pre-excited atrial fibrillation,^ESCT1168890,NA,3636234016,NA,31
+762247006#,Pre-excited atrial fibrillation,3636234016#,1,0,1,3636235015#,Preexcited atrial fibrillation,^ESCT1168889,NA,3636235015,NA,31
+762247006#,Preexcited atrial fibrillation,3636235015#,1,0,1,3636234016#,Pre-excited atrial fibrillation,^ESCT1168890,NA,3636234016,NA,31
+762247006#,Preexcited atrial fibrillation,3636235015#,1,0,1,3636235015#,Preexcited atrial fibrillation,^ESCT1168889,NA,3636235015,NA,31
+120041000119109#,Atrial fibrillation with rapid ventricular response (disorder),960251000119113#,1,0,1,8037691000006113#,Atrial fibrillation with rapid ventricular response,^ESCTAT803769,NA,2981207015,NA,31

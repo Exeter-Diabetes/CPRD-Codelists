@@ -1,0 +1,22 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+AB211#,Candidiasis of vagina,1233568012#,Vaginal thrush,AB211-1,AB21111,72934000,1233568012,NA,32,AB21111#
+AB211#,Candidiasis of vagina,121148017#,Candidiasis of vagina,AB211,AB21100,72934000,121148017,NA,32,AB21100#
+AB220#,Penile candidiasis (thrush),879541000006116#,Penile candida,AB220-99,AB22099,52643007,880000000000000,NA,32,AB22099#
+AB220#,Penile candidiasis (thrush),87611012#,Candidal balanitis,AB220,AB22000,52643007,87611012,NA,32,AB22000#
+AB220#,Penile candidiasis (thrush),237911000006111#,Penile candidiasis,AB220-1,AB22011,240708000,360546018,NA,32,AB22011#
+AB210#,Candidiasis of vulva,2904011#,Candidiasis of vulva,AB210,AB21000,1085006,2904011,NA,32,AB21000#
+AB22.#,Other urogenital candidiasis,287547019#,Candidiasis of urogenital site,AB22,AB22.00,111904009,179056016,NA,32,AB22.00#
+AB21.#,Candidal vulvovaginitis,120590012#,Candidal vulvovaginitis,AB21,AB21.00,72605008,120590012,NA,32,AB21.00#
+AB21.#,Candidal vulvovaginitis,120591011#,Monilial vulvovaginitis,AB21-1,AB21.11,72605008,120591011,NA,32,AB21.11#
+AB21z#,Candidiasis cervix,395436014#,Candidal vulvovaginitis NOS,AB21z,AB21z00,72605008,120590012,NA,32,AB21z00#
+AB21z#,Candidiasis cervix,533491000006110#,Candidiasis cervix,AB21z-1,AB21z11,237082005,355362010,NA,32,AB21z11#
+AB22z#,Other urogenital candida NOS,287555014#,Other urogenital candida NOS,AB22z,AB22z00,111904009,179056016,NA,32,AB22z00#
+AB2y4#,Anogenital candidiasis,360541011#,Anogenital candidosis,AB2y4-1,AB2y411,240707005,360541011,NA,32,AB2y411#
+AB2y4#,Anogenital candidiasis,360545019#,Anogenital candidiasis,AB2y4,AB2y400,240707005,360545019,NA,32,AB2y400#
+K4212#,Vulvovaginitis unspecified,304746019#,Vulvovaginitis,K4212,K421200,53277000,88596011,NA,32,K421200#
+A9802#,Acute gonococcal vulvovaginitis,5093017#,Acute gonococcal vulvovaginitis,A9802,A980200,2390000,5093017,NA,32,A980200#
+K421.#,Vaginitis and vulvovaginitis,887181000006115#,Vaginitis/vulvovaginitis,K421-99,K421.99,198212006,887000000000000,NA,32,K421.99#
+K421.#,Vaginitis and vulvovaginitis,304741012#,Vaginitis and vulvovaginitis,K421,K421.00,53277000,88596011,NA,32,K421.00#
+K421z#,Vaginitis and vulvovaginitis NOS,304754017#,Vaginitis and vulvovaginitis NOS,K421z,K421z00,53277000,88596011,NA,32,K421z00#
+K4216#,Vulvovaginitis in diseases EC,304749014#,Vulvovaginitis in diseases EC,K4216,K421600,198218005,304749014,NA,32,K421600#
+Kyu85#,"[X]Vaginits,vulvits+vulvovaginitis/infect+parasitc diseas CE",431631000006118#,"[X]Vaginits,vulvits+vulvovaginitis/infect+parasitc diseas CE",Kyu85,Kyu8500,198130006,304638013,NA,32,Kyu8500#

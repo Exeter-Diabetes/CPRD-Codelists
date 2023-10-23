@@ -1,0 +1,30 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+C370.#,Cystic fibrosis,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,190905008,293528019,NA,32,C370.00#
+C370.#,Cystic fibrosis,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,190905008,293530017,NA,32,C370.11#
+C370.#,Cystic fibrosis,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,190905008,293532013,NA,32,C370.12#
+C3700#,Cystic fibrosis with no meconium ileus,1,1,2,1495466012#,Cystic fibrosis with no meconium ileus,C3700,C370000,81423003,1495466012,NA,32,C370000#
+C3701#,Cystic fibrosis with meconium ileus,1,1,2,1495490013#,Meconium ileus in cystic fibrosis,C3701-1,C370111,86092005,1495490013,NA,32,C370111#
+C3701#,Cystic fibrosis with meconium ileus,1,1,2,142759013#,Cystic fibrosis with meconium ileus,C3701,C370100,86092005,142759013,NA,32,C370100#
+C3702#,Cystic fibrosis with pulmonary manifestations,1,1,2,606441000006110#,Cystic fibrosis of the lung,C3702,C370200,86555001,143537016,NA,32,C370200#
+C3703#,Cystic fibrosis with intestinal manifestations,1,1,2,293537019#,Cystic fibrosis with intestinal manifestations,C3703,C370300,190909002,293537019,NA,32,C370300#
+C370z#,Cystic fibrosis NOS,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,190905008,293528019,NA,32,C370z00#
+66k..#,Cystic fibrosis monitoring,1,0,1,1148201000000111#,Cystic fibrosis monitoring,66k,66k..00,515611000000000,11482e11,NA,1,66k..00#
+66k0.#,Cystic fibrosis annual review,1,0,1,1148241000000114#,Cystic fibrosis annual review,66k0,66k0.00,515631000000000,114824e10,NA,1,66k0.00#
+C10N1#,Cystic fibrosis related diabetes mellitus,1,0,1,494831000000119#,Diabetes mellitus associated with cystic fibrosis,C10N1,C10N100,426705001,2674608014,NA,32,C10N100#
+C3704#,Arthropathy in cystic fibrosis,1,0,1,1174311000000111#,Arthropathy in cystic fibrosis,C3704,C370400,526071000000000,117431e10,NA,32,C370400#
+C3705#,Cystic fibrosis with distal intestinal obstruction syndrome,1,0,1,1174361000000113#,Cystic fibrosis with distal intestinal obstruction syndrome,C3705,C370500,526091000000000,117436e10,NA,32,C370500#
+C3707#,Liver disease due to cystic fibrosis,1,0,1,2675247013#,Liver disease due to cystic fibrosis,C3707,C370700,427022004,2675247013,NA,32,C370700#
+C3708#,Cystic fibrosis related cirrhosis,1,0,1,1736361000000112#,Cystic fibrosis related cirrhosis,C3708,C370800,776981000000000,173636e10,NA,32,C370800#
+C3709#,Exacerbation of cystic fibrosis,1,0,1,2222561000000111#,Exacerbation of cystic fibrosis,C3709,C370900,859041000000000,222256e10,NA,32,C370900#
+C370y#,Cystic fibrosis with combined manifestations,1,0,1,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,190905008,293528019,NA,32,C370y11#
+C370y#,Cystic fibrosis with combined manifestations,1,0,1,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,190905008,293528019,NA,32,C370y00#
+X309R#,Cystic fibrosis of pancreas,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X309R#
+XaBDb#,Cystic fibrosis with other manifestations,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaBDb#
+XaMzI#,Cystic fibrosis related diabetes mellitus,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaMzI#
+XaQvd#,Cystic fibrosis annual review,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaQvd#
+XaREX#,Arthropathy in cystic fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaREX#
+XaREZ#,Cystic fibrosis with distal intestinal obstruction syndrome,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaREZ#
+XaREa#,Liver disease due to cystic fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaREa#
+XaXi9#,Cystic fibrosis related cirrhosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaXi9#
+XaZr7#,Exacerbation of cystic fibrosis,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XaZr7#
+Y2710#,Cystic fibrosis positive,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,Y2710#

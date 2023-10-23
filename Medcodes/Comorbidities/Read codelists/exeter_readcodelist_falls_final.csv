@@ -1,0 +1,257 @@
+readcode,term_readcode,os,man,paper,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+16D..#,Falls,1,1,1,3,252318014#,Falls,16D,16D..00,161898004,252318014,NA,27,16D..00#
+TC0..#,Fall on or from stairs or steps,1,1,1,3,329288019#,Fall on or from stairs or steps,TC0,TC0..00,217083007,329288019,NA,32,TC0..00#
+TC0..#,Fall on or from stairs or steps,1,1,1,3,901021000006116#,Fall - stairs/steps,TC0-99,TC0..99,217083007,901000000000000,NA,32,TC0..99#
+TC00.#,Fall on or from escalator,1,1,1,3,329289010#,Fall on or from escalator,TC00,TC00.00,217084001,329289010,NA,32,TC00.00#
+TC01.#,Fall on or from stairs,1,1,1,3,329294010#,Fall on or from stairs,TC01,TC01.00,217088003,329294010,NA,32,TC01.00#
+TC010#,Fall on stairs,1,1,1,3,2534630017#,Fall on stairs,TC010,TC01000,414190009,2534630017,NA,32,TC01000#
+TC011#,Fall from stairs,1,1,1,3,329296012#,Fall from stairs,TC011,TC01100,217090002,329296012,NA,32,TC01100#
+TC01z#,Fall on or from stairs NOS,1,1,1,3,329297015#,Fall on or from stairs NOS,TC01z,TC01z00,217088003,329294010,NA,32,TC01z00#
+TC02.#,Fall on or from steps,1,1,1,3,329298013#,Fall on or from steps,TC02,TC02.00,217092005,329298013,NA,32,TC02.00#
+TC020#,Fall on steps,1,1,1,3,329299017#,Fall on steps,TC020,TC02000,217093000,329299017,NA,32,TC02000#
+TC021#,Fall from steps,1,1,1,3,329300013#,Fall from steps,TC021,TC02100,217094006,329300013,NA,32,TC02100#
+TC02z#,Fall on or from steps NOS,1,1,1,3,329301012#,Fall on or from steps NOS,TC02z,TC02z00,217092005,329298013,NA,32,TC02z00#
+TC0z.#,Fall on or from stairs or steps NOS,1,1,1,3,329302017#,Fall on or from stairs or steps NOS,TC0z,TC0z.00,217083007,329288019,NA,32,TC0z.00#
+TC420#,Fall from chair,1,1,1,3,138437018#,Fall from chair,TC420,TC42000,83468000,138437018,NA,32,TC42000#
+TC421#,Fall from bed,1,1,1,3,35150012#,Fall from bed,TC421,TC42100,20902002,35150012,NA,32,TC42100#
+TC4y2#,Fall from stationary vehicle,1,1,1,3,329357015#,Fall from stationary vehicle,TC4y2,TC4y200,217150002,329357015,NA,32,TC4y200#
+TC50.#,Fall on same level from slipping,1,1,1,3,329362019#,Fall on same level from slipping,TC50,TC50.00,217155007,329362019,NA,32,TC50.00#
+TC51.#,Fall on same level from tripping,1,1,1,3,329363012#,Fall on same level from tripping,TC51,TC51.00,217156008,329363012,NA,32,TC51.00#
+TC52.#,Fall on same level from stumbling,1,1,1,3,329364018#,Fall on same level from stumbling,TC52,TC52.00,217157004,329364018,NA,32,TC52.00#
+TC6y.#,Fall on same level from other push/shove/collide oth person,1,1,1,3,665371000006115#,Fall on same level from other push/shove/collide oth person,TC6y,TC6y.00,274918000,410819017,NA,32,TC6y.00#
+TC6y0#,"Fall on same level from collision with other person, unspec",1,1,1,3,665361000006110#,"Fall on same level from collision with other person, unspec",TC6y0,TC6y000,274918000,410819017,NA,32,TC6y000#
+TC6y1#,"Fall on same level from pushing by other person, unspecified",1,1,1,3,329375019#,"Fall on same level from pushing by other person, unspecified",TC6y1,TC6y100,274918000,410819017,NA,32,TC6y100#
+TC6y2#,"Fall on same level from shoving by other person, unspecified",1,1,1,3,329376018#,"Fall on same level from shoving by other person, unspecified",TC6y2,TC6y200,274918000,410819017,NA,32,TC6y200#
+TC6yz#,Other fall on same level- push/shove/collide-oth person NOS,1,1,1,3,31231000006113#,Other fall on same level- push/shove/collide-oth person NOS,TC6yz,TC6yz00,274918000,410819017,NA,32,TC6yz00#
+TC6z.#,Fall on same level- push/shove/collide - other person NOS,1,1,1,3,665491000006112#,Fall on same level- push/shove/collide - other person NOS,TC6z,TC6z.00,274918000,410819017,NA,32,TC6z.00#
+TCy..#,Other falls,1,1,1,3,329380011#,Other falls,TCy,TCy..00,1912002,4301012,NA,27,TCy..00#
+TCy0.#,Fall from bump against object,1,1,1,3,329381010#,Fall from bump against object,TCy0,TCy0.00,217173005,329381010,NA,32,TCy0.00#
+U10..#,[X]Falls,1,1,1,3,1222238015#,[X]Falls,U10,U10..00,1912002,1222238015,NA,27,U10..00#
+U10A.#,[X]Fall on and from stairs and steps,1,1,1,3,332940015#,[X]Fall on and from stairs and steps,U10A,U10A.00,217083007,329288019,NA,32,U10A.00#
+U10J.#,[X]Other fall on same level,1,1,1,3,333029017#,Fall on same level,U10J,U10J.00,33036003,55141015,NA,32,U10J.00#
+U10z.#,[X]Unspecified fall,1,1,1,3,333040013#,[X]Unspecified fall,U10z,U10z.00,1912002,4301012,NA,27,U10z.00#
+16D5.#,Fall onto outstretched hand,0,1,1,2,1121551000000119#,Fall onto outstretched hand,16D5,16D5.00,225054009,112e13,NA,27,16D5.00#
+16D6.#,Fall,0,1,1,2,4301012#,Fall,16D6,16D6.00,1912002,4301012,NA,27,16D6.00#
+8BIG.#,Falls caused by medication,0,1,1,2,2160111010#,Falls caused by medication,8BIG,8BIG.00,408561005,2160111010,NA,32,8BIG.00#
+R200.#,[D] Geriatric fall,0,1,1,2,292031000006110#,Geriatric fall,R200-2,R200.12,298344006,439018012,NA,32,R200.12#
+R200.#,[D] Geriatric fall,0,1,1,2,1222549013#,[D]Senility,R200-1,R200.11,271873000,406866016,NA,32,R200.11#
+R200.#,[D] Geriatric fall,0,1,1,2,317927012#,Old-age,R200,R200.00,49808004,82964016,NA,32,R200.00#
+T04..#,"Fall in, on, or from train",0,1,1,2,325858014#,"Fall in, on, or from train",T04,T04..00,213911003,325858014,NA,32,T04..00#
+T040.#,Fall in train,1,0,1,2,325859018#,Fall in train,T040,T040.00,213912005,325859018,NA,32,T040.00#
+T041.#,Fall on train,1,0,1,2,325864019#,Fall on train,T041,T041.00,213917004,325864019,NA,32,T041.00#
+T042.#,Fall from train,1,0,1,2,325873010#,Fall from train,T042,T042.00,213925002,325873010,NA,32,T042.00#
+T337.#,Fall from road vehicle NEC,0,1,1,2,327385014#,Fall from road vehicle NEC,T337,T337.00,242089005,362359017,NA,32,T337.00#
+T43..#,Fall on stairs or ladders in water transport,0,1,1,2,327664017#,Fall on stairs or ladders in water transport,T43,T43..00,215633002,327664017,NA,32,T43..00#
+T430.#,Fall on stairs in water transport,1,0,1,2,665511000006118#,Fall on stairs in water transport (WT),T430,T430.00,215634008,327665016,NA,32,T430.00#
+T4303#,Fall-stairs water transport - passenger other watercraft inj,1,0,1,2,665861000006118#,Fall-stairs water transport - passenger other watercraft inj,T4303,T430300,215634008,327665016,NA,32,T430300#
+T430y#,Fall-stairs water transport - other specified person injured,1,0,1,2,665851000006115#,Fall-stairs water transport - other specified person injured,T430y,T430y00,215634008,327665016,NA,32,T430y00#
+T430z#,Fall-stairs water transport - unspecified person injured,1,0,1,2,665881000006111#,Fall-stairs water transport - unspecified person injured,T430z,T430z00,215634008,327665016,NA,32,T430z00#
+T532.#,Fall while on board aircraft,1,0,1,2,328189010#,Fall in aircraft,T532,T532.00,216131006,328189010,NA,32,T532.00#
+T5323#,Fall in aircraft - other occ comm aircraft surf/surf injured,1,0,1,2,664651000006115#,Fall in aircraft - other occ comm aircraft surf/surf injured,T5323,T532300,216131006,328188019,NA,32,T532300#
+TC...#,Accidental falls,0,1,1,2,329287012#,Fall - accidental,TC-1,TC...11,217082002,329287012,NA,32,TC...11#
+TC...#,Accidental falls,0,1,1,2,991201000006117#,Accidental fall NOS,TC-99,TC...99,217082002,991000000000000,NA,32,TC...99#
+TC...#,Accidental falls,0,1,1,2,446671000006112#,Accidental fall,TC,TC...00,217082002,329286015,NA,32,TC...00#
+TC000#,Fall on escalator,0,1,1,2,111687017#,Fall on escalator,TC000,TC00000,67223001,111687017,NA,32,TC00000#
+TC42.#,Fall from chair or bed,0,1,1,2,329348014#,Fall from chair or bed,TC42,TC42.00,217142006,329348014,NA,32,TC42.00#
+TC42z#,Fall from chair or bed NOS,0,1,1,2,329351019#,Fall from chair or bed NOS,TC42z,TC42z00,217142006,329348014,NA,32,TC42z00#
+TC5..#,"Fall on same level from slipping, tripping or stumbling",0,1,1,2,329361014#,"Fall on same level from slipping, tripping or stumbling",TC5,TC5..00,217154006,329361014,NA,32,TC5..00#
+TC5..#,"Fall on same level from slipping, tripping or stumbling",0,1,1,2,901061000006110#,Fall - on same level,TC5-99,TC5..99,217154006,901000000000000,NA,32,TC5..99#
+TC5z.#,"Fall on same level from slipping, tripping or stumbling NOS",0,1,1,2,329367013#,"Fall on same level from slipping, tripping or stumbling NOS",TC5z,TC5z.00,217154006,329361014,NA,32,TC5z.00#
+TCyz.#,Other accidental fall NOS,0,1,1,2,329382015#,Other accidental fall NOS,TCyz,TCyz.00,217082002,329286015,NA,32,TCyz.00#
+TCz..#,Accidental falls NOS,0,1,1,2,901081000006117#,Accidental fall NOS,TCz-99,TCz..99,559000000000000,901000000000000,NA,32,TCz..99#
+TCz..#,Accidental falls NOS,0,1,1,2,329383013#,Accidental falls NOS,TCz,TCz..00,217082002,329286015,NA,32,TCz..00#
+U100.#,[X]Fall on same level involving ice and snow,1,0,1,2,332830019#,Fall due to slipping on ice or snow,U100,U100.00,242387001,362702019,NA,32,U100.00#
+U1000#,[X]Fall on same level involving ice and snow occurrn home,1,0,1,2,386111000006111#,[X]Fall on same level involving ice and snow occurrn home,U1000,U100000,33036003,55141015,NA,32,U100000#
+U1002#,[X]Fall sam lvl inv ice/snw occ sch oth inst/pub admin area,1,0,1,2,386191000006118#,[X]Fall sam lvl inv ice/snw occ sch oth inst/pub admin area,U1002,U100200,33036003,55141015,NA,32,U100200#
+U1003#,"[X]Fall same levl involv ice/snow, occ sport/athlet area",1,0,1,2,386321000006118#,"[X]Fall same levl involv ice/snow, occ sport/athlet area",U1003,U100300,33036003,55141015,NA,32,U100300#
+U1004#,"[X]Fall same levl inv ice and snow, occ street / highway",1,0,1,2,386301000006111#,"[X]Fall same levl inv ice and snow, occ street / highway",U1004,U100400,33036003,55141015,NA,32,U100400#
+U1005#,"[X]Fall same levl inv ice / snow, occ trade / service area",1,0,1,2,386291000006110#,"[X]Fall same levl inv ice / snow, occ trade / service area",U1005,U100500,33036003,55141015,NA,32,U100500#
+U1007#,[X]Fall on same levl involving ice and snow occurrn on farm,1,0,1,2,386121000006115#,[X]Fall on same levl involving ice and snow occurrn on farm,U1007,U100700,33036003,55141015,NA,32,U100700#
+U100z#,"[X]Fall same levl inv ice / snow, occ at unspecified place",1,0,1,2,386281000006112#,"[X]Fall same levl inv ice / snow, occ at unspecified place",U100z,U100z00,33036003,55141015,NA,32,U100z00#
+U103.#,[X]Oth fall same levl due collisn/pushing by another person,1,0,1,2,404661000006116#,[X]Oth fall same levl due collisn/pushing by another person,U103,U103.00,33036003,55141015,NA,32,U103.00#
+U1030#,"[X]Oth fall same levl, collisn/push by anoth pers, occ home",1,0,1,2,404671000006111#,"[X]Oth fall same levl, collisn/push by anoth pers, occ home",U1030,U103000,33036003,55141015,NA,32,U103000#
+U1033#,[X]Oth fall sme levl col/push anoth pers occ sport/athl area,1,0,1,2,404681000006114#,[X]Oth fall sme levl col/push anoth pers occ sport/athl area,U1033,U103300,33036003,55141015,NA,32,U103300#
+U1035#,[X]Oth fall sme levl coll/push anth pers occ trad/serv area,1,0,1,2,404711000006110#,[X]Oth fall sme levl coll/push anth pers occ trad/serv area,U1035,U103500,33036003,55141015,NA,32,U103500#
+U103y#,[X]Oth fall sme levl coll/push anoth per occ oth spec place,1,0,1,2,404691000006112#,[X]Oth fall sme levl coll/push anoth per occ oth spec place,U103y,U103y00,33036003,55141015,NA,32,U103y00#
+U103z#,[X]Oth fall same levl coll/push anoth pers occ unspec place,1,0,1,2,404641000006115#,[X]Oth fall same levl coll/push anoth pers occ unspec place,U103z,U103z00,33036003,55141015,NA,32,U103z00#
+U104.#,[X]Fall while being carried or supported by other persons,1,0,1,2,332876015#,[X]Fall while being carried or supported by other persons,U104,U104.00,1912002,4301012,NA,27,U104.00#
+U1041#,[X]Fall whle carried/supported oth persons occ resid instit,1,0,1,2,386461000006118#,[X]Fall whle carried/supported oth persons occ resid instit,U1041,U104100,1912002,4301012,NA,27,U104100#
+U1046#,[X]Fall whle carr'd/supprtd oth pers occ indust/constr area,1,0,1,2,386451000006115#,[X]Fall whle carr'd/supprtd oth pers occ indust/constr area,U1046,U104600,1912002,4301012,NA,27,U104600#
+U104z#,"[X]Fall whle carr'd/supportd by oth per, occ unspecif place",1,0,1,2,386391000006116#,"[X]Fall whle carr'd/supportd by oth per, occ unspecif place",U104z,U104z00,1912002,4301012,NA,27,U104z00#
+U105.#,[X]Fall involving wheelchair,1,0,1,2,1221608017#,[X]Fall involving wheelchair,U105,U105.00,17886000,1221608017,NA,32,U105.00#
+U1050#,"[X]Fall involving wheelchair, occurrence at home",1,0,1,2,332887011#,Fall from wheelchair,U1050,U105000,17886000,30221011,NA,32,U105000#
+U1051#,[X]Fall involvng wheelchair occurrence residential instit'n,1,0,1,2,385631000006115#,[X]Fall involvng wheelchair occurrence residential instit'n,U1051,U105100,17886000,30221011,NA,32,U105100#
+U1052#,[X]Fall invlv w'chair occ school oth instit/pub admin area,1,0,1,2,385121000006113#,[X]Fall invlv w'chair occ school oth instit/pub admin area,U1052,U105200,17886000,30221011,NA,32,U105200#
+U1055#,[X]Fall involvng wheelchair occurrnce at trade/service area,1,0,1,2,385641000006113#,[X]Fall involvng wheelchair occurrnce at trade/service area,U1055,U105500,17886000,30221011,NA,32,U105500#
+U1057#,"[X]Fall involving wheelchair, occurrence on farm",1,0,1,2,332896011#,"[X]Fall involving wheelchair, occurrence on farm",U1057,U105700,17886000,30221011,NA,32,U105700#
+U105y#,"[X]Fall involv wheelchair, occurrnce at other specif place",1,0,1,2,385321000006110#,"[X]Fall involv wheelchair, occurrnce at other specif place",U105y,U105y00,17886000,30221011,NA,32,U105y00#
+U105z#,[X]Fall involving wheelchair occurrnce at unspecified place,1,0,1,2,385581000006118#,[X]Fall involving wheelchair occurrnce at unspecified place,U105z,U105z00,17886000,30221011,NA,32,U105z00#
+U106.#,[X]Fall involving bed,1,0,1,2,1222581016#,[X]Fall involving bed,U106,U106.00,20902002,1222581016,NA,32,U106.00#
+U1060#,"[X]Fall involving bed, occurrence at home",1,0,1,2,332899016#,"[X]Fall involving bed, occurrence at home",U1060,U106000,20902002,35150012,NA,32,U106000#
+U1061#,"[X]Fall involving bed, occurrence in residential institution",1,0,1,2,385351000006118#,[X]Fall involving bed occurrence in residential institution,U1061,U106100,20902002,35150012,NA,32,U106100#
+U1062#,[X]Fall involv bed occurrn school oth instit/pub admin area,1,0,1,2,385141000006118#,[X]Fall involv bed occurrn school oth instit/pub admin area,U1062,U106200,20902002,35150012,NA,32,U106200#
+U107.#,[X]Fall involving chair,1,0,1,2,1234830014#,[X]Fall involving chair,U107,U107.00,83468000,1234830014,NA,32,U107.00#
+U1070#,"[X]Fall involving chair, occurrence at home",1,0,1,2,332909010#,"[X]Fall involving chair, occurrence at home",U1070,U107000,83468000,138437018,NA,32,U107000#
+U1072#,[X]Fall invlv chair occ at school oth instit/pub admin area,1,0,1,2,385111000006117#,[X]Fall invlv chair occ at school oth instit/pub admin area,U1072,U107200,83468000,138437018,NA,32,U107200#
+U1076#,[X]Fall involving chair occurrence at indust/construct area,1,0,1,2,385431000006118#,[X]Fall involving chair occurrence at indust/construct area,U1076,U107600,83468000,138437018,NA,32,U107600#
+U107y#,"[X]Fall involving chair, occurrence at other specified place",1,0,1,2,385441000006111#,[X]Fall involving chair occurrence at other specified place,U107y,U107y00,83468000,138437018,NA,32,U107y00#
+U107z#,"[X]Fall involving chair, occurrence at unspecified place",1,0,1,2,332918012#,"[X]Fall involving chair, occurrence at unspecified place",U107z,U107z00,83468000,138437018,NA,32,U107z00#
+U108.#,[X]Fall involving other furniture,1,0,1,2,332919016#,[X]Fall involving other furniture,U108,U108.00,1912002,4301012,NA,27,U108.00#
+U1080#,"[X]Fall involving other furniture, occurrence at home",1,0,1,2,332920010#,"[X]Fall involving other furniture, occurrence at home",U1080,U108000,1912002,4301012,NA,27,U108000#
+U1081#,[X]Fall involv other furniture occurrn resident institut'n,1,0,1,2,385221000006115#,[X]Fall involv other furniture occurrn resident institut'n,U1081,U108100,1912002,4301012,NA,27,U108100#
+U1086#,[X]Fall involv oth furnitre occurrnce at indust/constr area,1,0,1,2,385171000006114#,[X]Fall involv oth furnitre occurrnce at indust/constr area,U1086,U108600,1912002,4301012,NA,27,U108600#
+U108z#,"[X]Fall involv oth furniture, occurrnce at unspecif place",1,0,1,2,385211000006111#,"[X]Fall involv oth furniture, occurrnce at unspecif place",U108z,U108z00,1912002,4301012,NA,27,U108z00#
+U10A0#,"[X]Fall on and from stairs and steps, occurrence at home",1,0,1,2,332941016#,"[X]Fall on and from stairs and steps, occurrence at home",U10A0,U10A000,217083007,329288019,NA,32,U10A000#
+U10A1#,[X]Fall on + from stair + step occurrnce resident instit'n,1,0,1,2,385951000006119#,[X]Fall on + from stair + step occurrnce resident instit'n,U10A1,U10A100,217083007,329288019,NA,32,U10A100#
+U10A2#,[X]Fall on + frm stair + step occ sch oth inst/pub adm area,1,0,1,2,385811000006110#,[X]Fall on + frm stair + step occ sch oth inst/pub adm area,U10A2,U10A200,217083007,329288019,NA,32,U10A200#
+U10A4#,[X]Fall on + from stairs + steps occurrn on street/highway,1,0,1,2,385961000006117#,[X]Fall on + from stairs + steps occurrn on street/highway,U10A4,U10A400,217083007,329288019,NA,32,U10A400#
+U10A5#,[X]Fall on + from stair + step occurrn at trade/servce area,1,0,1,2,332947017#,[X]Fall on or from escalator,U10A5-1,U10A511,217083007,329288019,NA,32,U10A511#
+U10A5#,[X]Fall on + from stair + step occurrn at trade/servce area,1,0,1,2,385921000006111#,[X]Fall on + from stair + step occurrn at trade/servce area,U10A5,U10A500,217083007,329288019,NA,32,U10A500#
+U10Ay#,[X]Fall on + from stair + step occurrn at oth specif place,1,0,1,2,385901000006118#,[X]Fall on + from stair + step occurrn at oth specif place,U10Ay,U10Ay00,217083007,329288019,NA,32,U10Ay00#
+U10Az#,[X]Fall on + from stair + step occurrnce at unspecif place,1,0,1,2,385931000006114#,[X]Fall on + from stair + step occurrnce at unspecif place,U10Az,U10Az00,217083007,329288019,NA,32,U10Az00#
+U10H0#,"[X]Other fall from one level to another, occurrence at home",1,0,1,2,333019012#,"[X]Other fall from one level to another, occurrence at home",U10H0,U10H000,1912002,4301012,NA,27,U10H000#
+U10H2#,"[X]Othr fall frm one level to anothr, sch inst/pub adm area",1,0,1,2,417491000006116#,"[X]Othr fall frm one level to anothr, sch inst/pub adm area",U10H2,U10H200,1912002,4301012,NA,27,U10H200#
+U10H3#,[X]Othr fall from one level to anothr occ sport/athlet area,1,0,1,2,417501000006112#,[X]Othr fall from one level to anothr occ sport/athlet area,U10H3,U10H300,1912002,4301012,NA,27,U10H300#
+U10H4#,[X]Othr fall from one level to anothr occurrn street/h'way,1,0,1,2,417511000006110#,[X]Othr fall from one level to anothr occurrn street/h'way,U10H4,U10H400,1912002,4301012,NA,27,U10H400#
+U10H5#,[X]Other fall frm one level to anothr occ at trde/serv area,1,0,1,2,410011000006117#,[X]Other fall frm one level to anothr occ at trde/serv area,U10H5,U10H500,1912002,4301012,NA,27,U10H500#
+U10H6#,[X]Other fall frm one level to anoth occ indust/constr area,1,0,1,2,410001000006115#,[X]Other fall frm one level to anoth occ indust/constr area,U10H6,U10H600,1912002,4301012,NA,27,U10H600#
+U10Hy#,[X]Other fall frm one levl to anothr occ at oth specif plce,1,0,1,2,410021000006113#,[X]Other fall frm one levl to anothr occ at oth specif plce,U10Hy,U10Hy00,1912002,4301012,NA,27,U10Hy00#
+U10Hz#,[X]Othr fall frm one level to anothr occurrn at unspec plce,1,0,1,2,417471000006117#,[X]Othr fall frm one level to anothr occurrn at unspec plce,U10Hz,U10Hz00,1912002,4301012,NA,27,U10Hz00#
+U10J0#,"[X]Other fall on same level, occurrence at home",1,0,1,2,333030010#,"[X]Other fall on same level, occurrence at home",U10J0,U10J000,33036003,55141015,NA,32,U10J000#
+U10J1#,"[X]Other fall on same level, occurrnce in resident instit'n",1,0,1,2,410141000006119#,"[X]Other fall on same level, occurrnce in resident instit'n",U10J1,U10J100,33036003,55141015,NA,32,U10J100#
+U10J2#,[X]Other fall on same levl occ schl oth inst/pub admin area,1,0,1,2,410151000006117#,[X]Other fall on same levl occ schl oth inst/pub admin area,U10J2,U10J200,33036003,55141015,NA,32,U10J200#
+U10J3#,[X]Other fall on same level occurrn at sports/athletic area,1,0,1,2,410091000006110#,[X]Other fall on same level occurrn at sports/athletic area,U10J3,U10J300,33036003,55141015,NA,32,U10J300#
+U10J4#,"[X]Other fall on same level, occurrence on street / highway",1,0,1,2,410131000006112#,"[X]Other fall on same level, occurrence on street / highway",U10J4,U10J400,33036003,55141015,NA,32,U10J400#
+U10J6#,"[X]Other fall on same levl, occurrn at indust/constuct area",1,0,1,2,410161000006115#,"[X]Other fall on same levl, occurrn at indust/constuct area",U10J6,U10J600,33036003,55141015,NA,32,U10J600#
+U10Jy#,[X]Other fall on same level occurrn at oth specified place,1,0,1,2,410081000006112#,[X]Other fall on same level occurrn at oth specified place,U10Jy,U10Jy00,33036003,55141015,NA,32,U10Jy00#
+U10Jz#,"[X]Other fall on same level, occurrence at unspecified place",1,0,1,2,410071000006114#,[X]Other fall on same level occurrence at unspecified place,U10Jz,U10Jz00,33036003,55141015,NA,32,U10Jz00#
+U10z0#,"[X]Unspecified fall, occurrence at home",1,0,1,2,333041012#,Fall in home,U10z0,U10z000,40104005,66810014,NA,32,U10z000#
+U10z1#,"[X]Unspecified fall, occurrence in residential institution",1,0,1,2,333042017#,"[X]Unspecified fall, occurrence in residential institution",U10z1,U10z100,1912002,4301012,NA,27,U10z100#
+U10z3#,"[X]Unspecified fall, occurrence at sports and athletics area",1,0,1,2,431011000006119#,"[X]Unspecified fall, occurrence at sports / athletics area",U10z3,U10z300,1912002,4301012,NA,27,U10z300#
+U10z4#,"[X]Unspecified fall, occurrence on street and highway",1,0,1,2,333045015#,"[X]Unspecified fall, occurrence on street and highway",U10z4,U10z400,1912002,4301012,NA,27,U10z400#
+U10z6#,[X]Unspecified fall occurrn at industrial/construction area,1,0,1,2,430981000006116#,[X]Unspecified fall occurrn at industrial/construction area,U10z6,U10z600,1912002,4301012,NA,27,U10z600#
+U10z7#,"[X]Unspecified fall, occurrence on farm",1,0,1,2,333048018#,"[X]Unspecified fall, occurrence on farm",U10z7,U10z700,1912002,4301012,NA,27,U10z700#
+U10zy#,"[X]Unspecified fall, occurrence at other specified place",1,0,1,2,333049014#,"[X]Unspecified fall, occurrence at other specified place",U10zy,U10zy00,1912002,4301012,NA,27,U10zy00#
+U10zz#,"[X]Unspecified fall, occurrence at unspecified place",1,0,1,2,333050014#,"[X]Unspecified fall, occurrence at unspecified place",U10zz,U10zz00,1912002,4301012,NA,27,U10zz00#
+16D1.#,Recurrent falls,0,1,0,1,417481019#,Recurrent falls,16D1,16D1.00,279992002,417481019,NA,27,16D1.00#
+T0401#,"fall in train, passenger injured",0,0,1,1,325861010#,"Fall in train, passenger injured",T0401,T040100,213914006,325861010,NA,32,T040100#
+T040y#,"Fall in train, other specified person injured",1,0,0,1,325862015#,"Fall in train, other specified person injured",T040y,T040y00,213912005,325859018,NA,32,T040y00#
+T040z#,"Fall in train, unspecified person injured",1,0,0,1,325863013#,"Fall in train, unspecified person injured",T040z,T040z00,213912005,325859018,NA,32,T040z00#
+T041y#,"Fall on train, other specified person injured",1,0,0,1,325870013#,"Fall on train, other specified person injured",T041y,T041y00,213917004,325864019,NA,32,T041y00#
+T041z#,"Fall on train, unspecified person injured",1,0,0,1,325872017#,"Fall on train, unspecified person injured",T041z,T041z00,213917004,325864019,NA,32,T041z00#
+T0421#,"fall from train, passenger injured",0,0,1,1,325875015#,"Fall from train, passenger injured",T0421,T042100,213927005,325875015,NA,32,T042100#
+T042y#,"Fall from train, other specified person injured",1,0,0,1,325876019#,"Fall from train, other specified person injured",T042y,T042y00,213925002,325873010,NA,32,T042y00#
+T042z#,"Fall from train, unspecified person injured",1,0,0,1,325877011#,"Fall from train, unspecified person injured",T042z,T042z00,213925002,325873010,NA,32,T042z00#
+T04z.#,"fall in, on or from train nos",0,0,1,1,325878018#,"Fall in, on or from train NOS",T04z,T04z.00,213911003,325858014,NA,32,T04z.00#
+T335.#,fall in road vehicle nec,0,0,1,1,327375013#,Fall in road vehicle NEC,T335,T335.00,242089005,362359017,NA,32,T335.00#
+T3350#,fall in road vehicle nec - pedestrian injured,0,0,1,1,664711000006112#,Fall in road vehicle NEC - pedestrian injured,T3350,T335000,214031005,325987014,NA,32,T335000#
+T3351#,fall in road vehicle nec - occupant of tram injured,0,0,1,1,664691000006114#,Fall in road vehicle NEC - occupant of tram injured,T3351,T335100,214031005,325987014,NA,32,T335100#
+T335y#,fall in road vehicle nec - other specified person injured,0,0,1,1,664701000006114#,Fall in road vehicle NEC - other specified person injured,T335y,T335y00,242089005,362359017,NA,32,T335y00#
+T335z#,fall in road vehicle nec - unspecified person injured,0,0,1,1,664721000006116#,Fall in road vehicle NEC - unspecified person injured,T335z,T335z00,242089005,362359017,NA,32,T335z00#
+T336.#,fall on road vehicle nec,0,0,1,1,327380016#,Fall on road vehicle NEC,T336,T336.00,242089005,362359017,NA,32,T336.00#
+T3371#,fall from road vehicle nec - occupant of tram injured,0,0,1,1,664381000006116#,Fall from road vehicle NEC - occupant of tram injured,T3371,T337100,214031005,325987014,NA,32,T337100#
+T337y#,fall from road vehicle nec - other specified person injured,0,0,1,1,664391000006118#,Fall from road vehicle NEC - other specified person injured,T337y,T337y00,242089005,362359017,NA,32,T337y00#
+T337z#,fall from road vehicle nec - unspecified person injured,0,0,1,1,664411000006118#,Fall from road vehicle NEC - unspecified person injured,T337z,T337z00,242089005,362359017,NA,32,T337z00#
+T4302#,Fall-stairs water transport - crew other watercraft injured,1,0,0,1,665811000006116#,Fall-stairs water transport - crew other watercraft injured,T4302,T430200,215634008,327665016,NA,32,T430200#
+T5325#,Fall in aircraft - occupant other powered aircraft injured,1,0,0,1,664631000006110#,Fall in aircraft - occupant other powered aircraft injured,T5325,T532500,216131006,328188019,NA,32,T532500#
+T532z#,Fall in aircraft - other person injured,1,0,0,1,664661000006118#,Fall in aircraft - other person injured,T532z,T532z00,216131006,328188019,NA,32,T532z00#
+T533.#,fall on aircraft,0,0,1,1,328190018#,Fall on aircraft,T533,T533.00,216131006,328190018,NA,32,T533.00#
+T5330#,fall on aircraft - occupant of spacecraft injured,0,0,1,1,665131000006115#,Fall on aircraft - occupant of spacecraft injured,T5330,T533000,216132004,328191019,NA,32,T533000#
+T5331#,fall on aircraft - occupant of military aircraft injured,0,0,1,1,665121000006118#,Fall on aircraft - occupant of military aircraft injured,T5331,T533100,216134003,328194010,NA,32,T533100#
+T5332#,fall on aircraft - crew commercial aircraft surface/surf inj,0,0,1,1,665091000006117#,Fall on aircraft - crew commercial aircraft surface/surf inj,T5332,T533200,216135002,328195011,NA,32,T533200#
+TC001#,Fall from escalator,1,0,0,1,329292014#,Fall from escalator,TC001,TC00100,217086004,329292014,NA,32,TC00100#
+TC00z#,Fall on or from escalator NOS,1,0,0,1,329293016#,Fall on or from escalator NOS,TC00z,TC00z00,217084001,329289010,NA,32,TC00z00#
+TC53.#,Fall on moving sidewalk,1,0,0,1,329365017#,Fall on travelling pavement,TC53,TC53.00,217158009,329366016,NA,32,TC53.00#
+U1001#,[X]Fall same level involv ice / snow occurrn resid instit'n,1,0,0,1,386231000006111#,[X]Fall same level involv ice / snow occurrn resid instit'n,U1001,U100100,33036003,55141015,NA,32,U100100#
+U1006#,"[X]Fall same levl inv ice/snow, occ indust / construct area",1,0,0,1,386311000006114#,"[X]Fall same levl inv ice/snow, occ indust / construct area",U1006,U100600,33036003,55141015,NA,32,U100600#
+U100y#,"[X]Fall same levl inv ice / snow, occ at other specif place",1,0,0,1,386271000006114#,"[X]Fall same levl inv ice / snow, occ at other specif place",U100y,U100y00,33036003,55141015,NA,32,U100y00#
+U101.#,"[x]fall on same level from slipping, tripping and stumbling",0,0,1,1,332841017#,"[X]Fall on same level from slipping, tripping and stumbling",U101,U101.00,217154006,329361014,NA,32,U101.00#
+U1010#,"[x]fall same levl frm slip trip + stumb, occurrence at home",0,0,1,1,386251000006116#,"[X]Fall same levl frm slip trip + stumb, occurrence at home",U1010,U101000,217154006,329361014,NA,32,U101000#
+U1011#,[x]fall same level from slip trip + stumb occ resid instit,0,0,1,1,386201000006115#,[X]Fall same level from slip trip + stumb occ resid instit,U1011,U101100,217154006,329361014,NA,32,U101100#
+U1012#,"[x]fall sme levl slp trp+stmb occ sch, oth inst/pub adm area",0,0,1,1,386351000006110#,"[X]Fall sme levl slp trp+stmb occ sch, oth inst/pub adm area",U1012,U101200,217154006,329361014,NA,32,U101200#
+U1013#,"[x]fall sme levl frm slip trip+stumb, occ sport/athlet area",0,0,1,1,386341000006113#,"[X]Fall sme levl frm slip trip+stumb, occ sport/athlet area",U1013,U101300,217154006,329361014,NA,32,U101300#
+U1014#,"[x]fall same level from slip trip+stumb, occ street/highway",0,0,1,1,386211000006117#,"[X]Fall same level from slip trip+stumb, occ street/highway",U1014,U101400,217154006,329361014,NA,32,U101400#
+U1015#,"[x]fall sme lvl frm slip trip+stumb, occ trade/service area",0,0,1,1,386361000006112#,"[X]Fall sme lvl frm slip trip+stumb, occ trade/service area",U1015,U101500,217154006,329361014,NA,32,U101500#
+U1016#,"[x]fall same levl, slip trip+stumb occ indust/construct area",0,0,1,1,386331000006115#,"[X]Fall same levl, slip trip+stumb occ indust/construct area",U1016,U101600,217154006,329361014,NA,32,U101600#
+U1017#,"[x]fall same level from slip trip+stumbling, occur on farm",0,0,1,1,386221000006113#,"[X]Fall same level from slip trip+stumbling, occur on farm",U1017,U101700,217154006,329361014,NA,32,U101700#
+U101y#,"[x]fall same level, slip trip+stumb, occ other specif place",0,0,1,1,386241000006118#,"[X]Fall same level, slip trip+stumb, occ other specif place",U101y,U101y00,217154006,329361014,NA,32,U101y00#
+U101z#,"[x]fall same levl frm slip trip+stumbling, occ unspec place",0,0,1,1,386261000006119#,"[X]Fall same levl frm slip trip+stumbling, occ unspec place",U101z,U101z00,217154006,329361014,NA,32,U101z00#
+U1031#,[X]Oth fall same levl collisn/push anoth pers occ resid inst,1,0,0,1,404651000006118#,[X]Oth fall same levl collisn/push anoth pers occ resid inst,U1031,U103100,33036003,55141015,NA,32,U103100#
+U1032#,[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area,1,0,0,1,404631000006113#,[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area,U1032,U103200,33036003,55141015,NA,32,U103200#
+U1034#,[X]Oth fall sme levl coll/push anoth pers occ street/h'way,1,0,0,1,404701000006112#,[X]Oth fall sme levl coll/push anoth pers occ street/h'way,U1034,U103400,33036003,55141015,NA,32,U103400#
+U1036#,[X]Oth fall sme lvl col/push anoth per occ indus/constr area,1,0,0,1,404731000006116#,[X]Oth fall sme lvl col/push anoth per occ indus/constr area,U1036,U103600,33036003,55141015,NA,32,U103600#
+U1037#,"[X]Oth fall sme levl, collisn/push by anoth pers, occ farm",1,0,0,1,404721000006119#,"[X]Oth fall sme levl, collisn/push by anoth pers, occ farm",U1037,U103700,33036003,55141015,NA,32,U103700#
+U1040#,"[x]fall while carried/supported by other persons, occ home",0,0,1,1,386381000006119#,Fall whilst being carried,U1040,U104000,60594001,1207799013,NA,32,U104000#
+U1042#,[X]Fall whle crd/sprtd oth per occ sch oth inst/pub adm area,1,0,0,1,386471000006113#,[X]Fall whle crd/sprtd oth per occ sch oth inst/pub adm area,U1042,U104200,1912002,4301012,NA,27,U104200#
+U1043#,[X]Fall whle carr'd/supportd oth pers occ sport/athlet area,1,0,0,1,386421000006112#,[X]Fall whle carr'd/supportd oth pers occ sport/athlet area,U1043,U104300,1912002,4301012,NA,27,U104300#
+U1044#,[X]Fall whle carr'd/supprtd by oth pers occ on street/h'way,1,0,0,1,386441000006117#,[X]Fall whle carr'd/supprtd by oth pers occ on street/h'way,U1044,U104400,1912002,4301012,NA,27,U104400#
+U1045#,[X]Fall whle carr'd/supprtd by oth per occ trade/serv area,1,0,0,1,386431000006110#,[X]Fall whle carr'd/supprtd by oth per occ trade/serv area,U1045,U104500,1912002,4301012,NA,27,U104500#
+U1047#,"[X]Fall whle carr'd/supportd by other persons, occ on farm",1,0,0,1,386401000006119#,"[X]Fall whle carr'd/supportd by other persons, occ on farm",U1047,U104700,1912002,4301012,NA,27,U104700#
+U104y#,[X]Fall whle carr'd/supportd oth per occ other specif place,1,0,0,1,386411000006116#,[X]Fall whle carr'd/supportd oth per occ other specif place,U104y,U104y00,1912002,4301012,NA,27,U104y00#
+U1053#,"[X]Fall involving wheelchair, occurrn at sport/athlet area",1,0,0,1,385621000006118#,"[X]Fall involving wheelchair, occurrn at sport/athlet area",U1053,U105300,17886000,30221011,NA,32,U105300#
+U1054#,"[X]Fall involving wheelchair, occurrence on street/highway",1,0,0,1,385611000006114#,"[X]Fall involving wheelchair, occurrence on street/highway",U1054,U105400,17886000,30221011,NA,32,U105400#
+U1056#,"[X]Fall involv wheelchair, occurrnce at indust/constr area",1,0,0,1,385311000006119#,"[X]Fall involv wheelchair, occurrnce at indust/constr area",U1056,U105600,17886000,30221011,NA,32,U105600#
+U1063#,[X]Fall involving bed occurrence at sports / athletics area,1,0,0,1,385341000006115#,[X]Fall involving bed occurrence at sports / athletics area,U1063,U106300,20902002,35150012,NA,32,U106300#
+U1064#,"[X]Fall involving bed, occurrence on street and highway",1,0,0,1,332903011#,"[X]Fall involving bed, occurrence on street and highway",U1064,U106400,20902002,35150012,NA,32,U106400#
+U1065#,"[X]Fall involving bed, occurrence at trade and service area",1,0,0,1,332904017#,"[X]Fall involving bed, occurrence at trade and service area",U1065,U106500,20902002,35150012,NA,32,U106500#
+U1066#,[X]Fall involv bed occurrn at industrial/construction area,1,0,0,1,385131000006111#,[X]Fall involv bed occurrn at industrial/construction area,U1066,U106600,20902002,35150012,NA,32,U106600#
+U1067#,"[X]Fall involving bed, occurrence on farm",1,0,0,1,332906015#,"[X]Fall involving bed, occurrence on farm",U1067,U106700,20902002,35150012,NA,32,U106700#
+U106y#,"[X]Fall involving bed, occurrence at other specified place",1,0,0,1,332907012#,"[X]Fall involving bed, occurrence at other specified place",U106y,U106y00,20902002,35150012,NA,32,U106y00#
+U106z#,"[X]Fall involving bed, occurrence at unspecified place",1,0,0,1,332908019#,"[X]Fall involving bed, occurrence at unspecified place",U106z,U106z00,20902002,35150012,NA,32,U106z00#
+U1071#,[X]Fall involving chair occurrence in residential instit'n,1,0,0,1,385461000006110#,[X]Fall involving chair occurrence in residential instit'n,U1071,U107100,83468000,138437018,NA,32,U107100#
+U1073#,[X]Fall involving chair occurrence at sports/athletics area,1,0,0,1,385451000006113#,[X]Fall involving chair occurrence at sports/athletics area,U1073,U107300,83468000,138437018,NA,32,U107300#
+U1074#,"[X]Fall involving chair, occurrence on street and highway",1,0,0,1,332913015#,"[X]Fall involving chair, occurrence on street and highway",U1074,U107400,83468000,138437018,NA,32,U107400#
+U1075#,"[X]Fall involv chair, occurrence at trade and service area",1,0,0,1,332914014#,"[X]Fall involv chair, occurrence at trade and service area",U1075,U107500,83468000,138437018,NA,32,U107500#
+U1077#,"[X]Fall involving chair, occurrence on farm",1,0,0,1,332916011#,"[X]Fall involving chair, occurrence on farm",U1077,U107700,83468000,138437018,NA,32,U107700#
+U1082#,[X]Fall inv oth furnitur occ schl oth instit/pub admin area,1,0,0,1,385091000006114#,[X]Fall inv oth furnitur occ schl oth instit/pub admin area,U1082,U108200,1912002,4301012,NA,27,U108200#
+U1083#,[X]Fall involv oth furniture occurrnce at sport/athlet area,1,0,0,1,385191000006110#,[X]Fall involv oth furniture occurrnce at sport/athlet area,U1083,U108300,1912002,4301012,NA,27,U108300#
+U1084#,[X]Fall involv other furniture occurrnce on street/highway,1,0,0,1,385231000006117#,[X]Fall involv other furniture occurrnce on street/highway,U1084,U108400,1912002,4301012,NA,27,U108400#
+U1085#,[X]Fall involv oth furniture occurrnce at trade/serv area,1,0,0,1,385201000006113#,[X]Fall involv oth furniture occurrnce at trade/serv area,U1085,U108500,1912002,4301012,NA,27,U108500#
+U1087#,"[X]Fall involving other furniture, occurrence on farm",1,0,0,1,332927013#,"[X]Fall involving other furniture, occurrence on farm",U1087,U108700,1912002,4301012,NA,27,U108700#
+U108y#,[X]Fall involv oth furnitur occurrnce at other specif place,1,0,0,1,385181000006112#,[X]Fall involv oth furnitur occurrnce at other specif place,U108y,U108y00,1912002,4301012,NA,27,U108y00#
+U10A3#,[X]Fall on + from stair + step occurrn at sport/athlet area,1,0,0,1,385911000006115#,[X]Fall on + from stair + step occurrn at sport/athlet area,U10A3,U10A300,217083007,329288019,NA,32,U10A300#
+U10A6#,[X]Fall on + from stair + step occurrnce indust/constr area,1,0,0,1,385941000006116#,[X]Fall on + from stair + step occurrnce indust/constr area,U10A6,U10A600,217083007,329288019,NA,32,U10A600#
+U10A7#,"[X]Fall on and from stairs and steps, occurrence on farm",1,0,0,1,332949019#,"[X]Fall on and from stairs and steps, occurrence on farm",U10A7,U10A700,217083007,329288019,NA,32,U10A700#
+U10H.#,[x]other fall from one level to another,0,0,1,1,333017014#,[X]Other fall from one level to another,U10H,U10H.00,242408008,362731015,NA,32,U10H.00#
+U10H1#,[X]Othr fall frm one level to anothr occurrn in resid inst,1,0,0,1,417481000006119#,[X]Othr fall frm one level to anothr occurrn in resid inst,U10H1,U10H100,1912002,4301012,NA,27,U10H100#
+U10H7#,"[X]Other fall from one level to another, occurrence on farm",1,0,0,1,333026012#,"[X]Other fall from one level to another, occurrence on farm",U10H7,U10H700,1912002,4301012,NA,27,U10H700#
+U10J5#,[X]Other fall on same level occurrnce at trade/service area,1,0,0,1,410101000006116#,[X]Other fall on same level occurrnce at trade/service area,U10J5,U10J500,33036003,55141015,NA,32,U10J500#
+U10J7#,"[X]Other fall on same level, occurrence on farm",1,0,0,1,333037013#,"[X]Other fall on same level, occurrence on farm",U10J7,U10J700,33036003,55141015,NA,32,U10J700#
+U10z2#,[X]Unspecif fall occurrnce school oth instit/pub admin area,1,0,0,1,430581000006113#,[X]Unspecif fall occurrnce school oth instit/pub admin area,U10z2,U10z200,1912002,4301012,NA,27,U10z200#
+U10z5#,"[X]Unspecified fall, occurrence at trade and service area",1,0,0,1,333046019#,"[X]Unspecified fall, occurrence at trade and service area",U10z5,U10z500,1912002,4301012,NA,27,U10z500#
+Ua1AN#,Fell onto outstretched hand,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1AN#
+X70yi#,Fall from stationary railway vehicle,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X70yi#
+X70zC#,Fall down stairs of motor bus while boarding or alighting,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X70zC#
+X70zE#,Fall from car in street while boarding or alighting,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X70zE#
+X70zF#,Fall from car while boarding/alighting-tripping on seat belt,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X70zF#
+X710V#,Fall on wet deck on board vessel,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X710V#
+X713i#,Fall due to slipping on ice or snow,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713i#
+X713k#,Fall due to wet surface,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713k#
+X713l#,Fall due to polished surface,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713l#
+X713m#,Fall due to discarded object,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713m#
+X713n#,Fall in bath or shower,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713n#
+X713o#,Fall due to defective pavement,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713o#
+X713p#,Fall due to accidental trip by another person,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713p#
+X713q#,Fall due to trip on loose carpet,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713q#
+X713r#,Fall due to uneven surface indoors,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713r#
+X713t#,Fall due to loss of equilibrium,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713t#
+X713u#,Fall due to failure of support,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713u#
+X713v#,Fall due to failure of rail,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713v#
+X713w#,Fall due to leaning on insecure furniture,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713w#
+X713x#,Fall on same level- accidental impact with another person,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713x#
+X713z#,Fall due to impact against pedestrian conveyance,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X713z#
+X7140#,Fall due to impact against pram,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7140#
+X7141#,Fall due to impact against supermarket trolley,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7141#
+X7142#,Fall due to impact against wheelbarrow,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7142#
+X7149#,Fall from stool,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7149#
+X714B#,Fall from wheelchair,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X714B#
+X714C#,Fall from ambulance stretcher,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X714C#
+X714E#,Fall from toilet seat,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,X714E#
+Xa1GP#,Recurrent falls,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1GP#
+Xa3j2#,Fall - on same level,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3j2#
+Xaasz#,Fall,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xaasz#
+XaJHb#,Falls caused by medication,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJHb#
+XE21s#,Fall on same level from impact against object,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE21s#
+XM1Fe#,Fall on same level due to nature of surface,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Fe#
+XM1Ff#,Fall on same level due to impact against another person,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Ff#
+ZV71B#,[v]examination and observation following a fall,0,0,1,1,456816018#,[V]Examination and observation following a fall,ZV71B,ZV71B00,243796009,364629017,NA,32,ZV71B00#

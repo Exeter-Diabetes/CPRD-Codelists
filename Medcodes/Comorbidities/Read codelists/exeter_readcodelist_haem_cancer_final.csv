@@ -1,0 +1,736 @@
+readcode,term,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode,cancer_site,bladder,other,oral,skin_non_mel,myeloma,brain,breast,cervix,colorectal,headandneck,kidney,leukemia,lung,lymphoma,melanoma,oesophagus,ovary,pancreas,prostate,stomach,testis,urinary,uterus
+B691.#,Chronic myelomonocytic leukaemia,474077018#,Chronic myelomonocytic leukaemia,B691,B691.00,127225006,474077018,NA,32,B691.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B624z#,Leukaemic reticuloendotheliosis NOS,289773015#,Leukaemic reticuloendotheliosis NOS,B624z,B624z00,118613001,1215903015,NA,32,B624z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr40#,[M]Erythroleukaemia,1216029010#,Erythroleukaemia,BBr40,BBr4000,93451002,154686014,NA,32,BBr4000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr40#,[M]Erythroleukaemia,308311000006111#,Erythraemic myelosis,BBr40-1,BBr4011,93451002,510332012,NA,32,BBr4011#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrAz#,[M]Miscellaneous leukaemia NOS,292077011#,[M]Miscellaneous leukaemia NOS,BBrAz,BBrAz00,128931003,207615015,NA,32,BBrAz00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67z.#,Other specified leukaemia NOS,880921000006117#,Leukaemia - specif. cell NOS,B67z-99,B67z.99,6.62401E+14,8.80921E+14,NA,32,B67z.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67z.#,Other specified leukaemia NOS,289960010#,Other specified leukaemia NOS,B67z,B67z.00,93143009,154099013,NA,32,B67z.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ByuD7#,[X]Other monocytic leukaemia,292181013#,[X]Other monocytic leukaemia,ByuD7,ByuD700,188744006,289917018,NA,32,ByuD700#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr01#,[M]Stem cell leukaemia,306011000006113#,[M]Blastic leukaemia,BBr01-2,BBr0112,24072005,1216160012,NA,32,BBr0112#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr01#,[M]Stem cell leukaemia,1216160012#,[M]Acute leukaemia NOS,BBr01,BBr0100,24072005,1216160012,NA,32,BBr0100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr01#,[M]Stem cell leukaemia,306001000006110#,[M]Blast cell leukaemia,BBr01-1,BBr0111,24072005,1216160012,NA,32,BBr0111#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr01#,[M]Stem cell leukaemia,317011000006112#,[M]Stem cell leukaemia,BBr01-3,BBr0113,24072005,1216160012,NA,32,BBr0113#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64y.#,Other lymphoid leukaemia,289881011#,Other lymphoid leukaemia,B64y,B64y.00,188725004,289876019,NA,32,B64y.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64y2#,Adult T-cell leukaemia,289885019#,Adult T-cell leukaemia,B64y2,B64y200,188729005,289885019,NA,32,B64y200#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67y0#,Lymphosarcoma cell leukaemia,731621000006113#,Lymphosarcoma cell leukaemia,B67y0,B67y000,188725004,289876019,NA,32,B67y000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B651.#,Chronic myeloid leukaemia,201656010#,Chronic myeloid leukaemia,B651,B651.00,92818009,201656010,NA,32,B651.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B651.#,Chronic myeloid leukaemia,554641000006115#,Chronic granulocytic leukaemia,B651-1,B651.11,92818009,1217279014,NA,32,B651.11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B651.#,Chronic myeloid leukaemia,880861000006115#,Myeloid leukaemia - chronic,B651-99,B651.99,92818009,8.80861E+14,NA,32,B651.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B68z.#,Leukaemia NOS,289972016#,Leukaemia,B68z,B68z.00,93143009,154099013,NA,32,B68z.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B68z.#,Leukaemia NOS,880971000006116#,Leukaemia - unspec. cell NOS,B68z-99,B68z.99,5.36101E+14,8.80971E+14,NA,32,B68z.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B640.#,Acute lymphoid leukaemia,880821000006114#,Lymphoid leukaemia - acute,B640-99,B640.99,91857003,8.80821E+14,NA,32,B640.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B640.#,Acute lymphoid leukaemia,509741017#,Acute lymphoid leukaemia,B640,B640.00,91857003,509741017,NA,32,B640.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA1#,[M]Megakaryocytic leukaemia,317571000006112#,[M]Thrombocytic leukaemia,BBrA1-1,BBrA111,52220008,86902018,NA,32,BBrA111#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA1#,[M]Megakaryocytic leukaemia,312211000006119#,Acute megakaryoblastic leukaemia,BBrA1,BBrA100,52220008,86902018,NA,32,BBrA100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr90#,[M]Monocytic leukaemia NOS,309941000006119#,[M]Histiocytic leukaemia,BBr90-1,BBr9011,87163000,144534015,NA,32,BBr9011#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr90#,[M]Monocytic leukaemia NOS,316171000006117#,[M]Schilling-type monocytic leukaemia,BBr90-2,BBr9012,87163000,144534015,NA,32,BBr9012#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr90#,[M]Monocytic leukaemia NOS,312961000006113#,[M]Monocytic leukaemia NOS,BBr90,BBr9000,87163000,144534015,NA,32,BBr9000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr20#,[M]Lymphoid leukaemia NOS,1216396015#,[M]Lymphoid leukaemia NOS,BBr20,BBr2000,32280000,1216396015,NA,32,BBr2000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr20#,[M]Lymphoid leukaemia NOS,311311000006115#,[M]Lymphatic leukaemia,BBr20-1,BBr2011,32280000,1216396015,NA,32,BBr2011#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA.#,[M]Miscellaneous leukaemias,292065018#,[M]Miscellaneous leukaemias,BBrA,BBrA.00,128931003,207615015,NA,32,BBrA.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B673.#,Mast cell leukaemia,716871000006112#,Mast cell leukaemia,B673,B673.00,110002002,2765332017,NA,32,B673.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67..#,Other specified leukaemia,289934014#,Other specified leukaemia,B67,B67..00,93143009,154099013,NA,32,B67..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67..#,Other specified leukaemia,988791000006114#,Leukaemia - specif. cell NOS,B67-98,B67..98,6.34651E+14,9.88791E+14,NA,32,B67..98#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67..#,Other specified leukaemia,880911000006113#,Leukaemia - specif.cell type,B67-99,B67..99,6.34651E+14,8.80911E+14,NA,32,B67..99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr25#,[M]Prolymphocytic leukaemia,1216015014#,[M]Prolymphocytic leukaemia,BBr25,BBr2500,128923008,1216015014,NA,32,BBr2500#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B631.#,Plasma cell leukaemia,201743012#,Plasma cell leukaemia,B631,B631.00,95210003,201743012,NA,32,B631.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr3z#,[M]Plasma cell leukaemia NOS,292017019#,Plasma cell leukaemia,BBr3z,BBr3z00,128922003,474671016,NA,32,BBr3z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr70#,[M]Basophilic leukaemia,1216868019#,[M]Basophilic leukaemia,BBr70,BBr7000,69077002,1216868019,NA,32,BBr7000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66y.#,Other monocytic leukaemia,289926015#,Other monocytic leukaemia,B66y,B66y.00,188744006,289917018,NA,32,B66y.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B65z.#,Myeloid leukaemia NOS,289912012#,Myeloid leukaemia NOS,B65z,B65z.00,188732008,289892012,NA,32,B65z.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr6z#,[M]Other myeloid leukaemia NOS,292041016#,[M]Other myeloid leukaemia NOS,BBr6z,BBr6z00,128934006,207618018,NA,32,BBr6z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B670.#,Acute erythraemia and erythroleukaemia,456641000006119#,Acute erythraemia and erythroleukaemia,B670,B670.00,93451002,154686014,NA,32,B670.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B670.#,Acute erythraemia and erythroleukaemia,201658011#,Di Guglielmo's disease,B670-1,B670.11,93451002,154686014,NA,32,B670.11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64..#,Lymphoid leukaemia,289876019#,Lymphoid leukaemia,B64,B64..00,188725004,289876019,NA,32,B64..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64..#,Lymphoid leukaemia,289875015#,Lymphatic leukaemia,B64-1,B64..11,188725004,289875015,NA,32,B64..11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr00#,[M]Leukaemia NOS,310991000006116#,[M]Leukaemia NOS,BBr00,BBr0000,128931003,207615015,NA,32,BBr0000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr3.#,[M]Plasma cell leukaemias,292014014#,[M]Plasma cell leukaemias,BBr3,BBr3.00,128922003,207603019,NA,32,BBr3.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B6512#,Chronic neutrophilic leukaemia,289898011#,Chronic neutrophilic leukaemia,B6512,B651200,188734009,289898011,NA,32,B651200#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr4z#,[M]Erythroleukaemia NOS,292024018#,[M]Erythroleukaemia NOS,BBr4z,BBr4z00,14317002,24346014,NA,32,BBr4z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B624.#,Leukaemic reticuloendotheliosis,745001000006114#,Leukaemic reticuloendotheliosis,B624,B624.00,118613001,1215903015,NA,32,B624.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B624.#,Leukaemic reticuloendotheliosis,1591211000006111#,Hairy cell leukaemia,B624-2,B624.12,118613001,2764402015,NA,32,B624.12#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B624.#,Leukaemic reticuloendotheliosis,745011000006112#,Leukaemic reticuloendotheliosis,B624-1,B624.11,118613001,1215903015,NA,32,B624.11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B652.#,Subacute myeloid leukaemia,880871000006110#,Myeloid leukaemia - subacute,B652-99,B652.99,188736006,8.80871E+14,NA,32,B652.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B652.#,Subacute myeloid leukaemia,289901012#,Subacute myeloid leukaemia,B652,B652.00,188736006,289901012,NA,32,B652.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B660.#,Acute monocytic leukaemia,880881000006113#,Monocytic leukaemia - acute,B660-99,B660.99,413441006,8.80881E+14,NA,32,B660.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B660.#,Acute monocytic leukaemia,2534415018#,Acute monocytic leukaemia,B660,B660.00,413441006,2534415018,NA,32,B660.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr04#,[M]Aleukaemic leukaemia NOS,291992012#,[M]Aleukaemic leukaemia NOS,BBr04,BBr0400,128931003,207615015,NA,32,BBr0400#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64z.#,Lymphoid leukaemia NOS,289889013#,Lymphoid leukaemia NOS,B64z,B64z.00,188725004,289876019,NA,32,B64z.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66yz#,Other monocytic leukaemia NOS,289930017#,Other monocytic leukaemia NOS,B66yz,B66yz00,188744006,289917018,NA,32,B66yz00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B69..#,Myelomonocytic leukaemia,289974015#,Myelomonocytic leukaemia,B69,B69..00,188768003,289974015,NA,32,B69..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr21#,[M]Acute lymphoid leukaemia,292006015#,Acute lymphoblastic leukaemia - category,BBr21,BBr2100,413440007,2535405016,NA,32,BBr2100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr61#,[M]Acute myeloid leukaemia,304401000006111#,Acute myeloid leukaemia,BBr61,BBr6100,17788007,478421017,NA,32,BBr6100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr67#,[M]Acute myelomonocytic leukaemia,1216346016#,[M]Acute myelomonocytic leukaemia,BBr67,BBr6700,30962008,1216346016,NA,32,BBr6700#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ByuD9#,[X]Other leukaemia of unspecified cell type,292185016#,[X]Other leukaemia of unspecified cell type,ByuD9,ByuD900,93143009,154099013,NA,32,ByuD900#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr6.#,[M]Myeloid leukaemias,292032014#,[M]Myeloid leukaemias,BBr6,BBr6.00,128934006,207618018,NA,32,BBr6.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr2.#,[M]Lymphoid leukaemias,292005016#,[M]Lymphoid leukaemias,BBr2,BBr2.00,128935007,207619014,NA,32,BBr2.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66z.#,Monocytic leukaemia NOS,289933015#,Monocytic leukaemia NOS,B66z,B66z.00,188744006,289917018,NA,32,B66z.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B681.#,Chronic leukaemia NOS,880951000006114#,Leukaemia -unspec.cell chronic,B681-99,B681.99,6.62431E+14,8.80951E+14,NA,32,B681.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B681.#,Chronic leukaemia NOS,289967013#,Chronic leukaemia,B681,B681.00,92812005,201651017,NA,32,B681.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr..#,[M]Leukaemias,311021000006113#,Leukaemia morphology,BBr,BBr..00,87163000,1217045015,NA,32,BBr..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr4.#,[M]Erythroleukaemias,292018012#,Erythroleukaemia,BBr4,BBr4.00,93451002,154686014,NA,32,BBr4.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B65yz#,Other myeloid leukaemia NOS,289911017#,Other myeloid leukaemia NOS,B65yz,B65yz00,188732008,289892012,NA,32,B65yz00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA4#,[M]Hairy cell leukaemia,311041000006118#,Hairy cell leukaemia,BBrA4-1,BBrA411,54087003,89898013,NA,32,BBrA411#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA4#,[M]Hairy cell leukaemia,1216729017#,[M]Hairy cell leukaemia,BBrA4,BBrA400,54087003,1216729017,NA,32,BBrA400#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrz.#,[M]Leukaemia NOS,291985019#,[M]Leukaemia NOS,BBrz,BBrz.00,128931003,207615015,NA,32,BBrz.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B641.#,Chronic lymphoid leukaemia,880831000006112#,Lymphoid leukaemia - chronic,B641-99,B641.99,92814006,8.80831E+14,NA,32,B641.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B641.#,Chronic lymphoid leukaemia,555131000006118#,"Chronic lymphoid leukaemia, disease",B641-1,B641.11,92814006,1207831017,NA,32,B641.11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B641.#,Chronic lymphoid leukaemia,201652012#,Chronic lymphoid leukaemia,B641,B641.00,92814006,201652012,NA,32,B641.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr23#,[M]Chronic lymphoid leukaemia,306931000006115#,Chronic lymphoid leukaemia,BBr23,BBr2300,51092000,495910011,NA,32,BBr2300#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67yz#,Other and unspecified leukaemia NOS,289959017#,Other and unspecified leukaemia NOS,B67yz,B67yz00,93143009,154099013,NA,32,B67yz00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B682.#,Subacute leukaemia NOS,289968015#,Subacute leukaemia,B682,B682.00,302855005,444829010,NA,32,B682.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B682.#,Subacute leukaemia NOS,880961000006111#,Leukaemia-unspec.cell subacute,B682-99,B682.99,6.62441E+14,8.80961E+14,NA,32,B682.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr62#,[M]Subacute myeloid leukaemia,292035011#,[M]Subacute myeloid leukaemia,BBr62,BBr6200,128934006,207618018,NA,32,BBr6200#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B67y.#,Other and unspecified leukaemia,289955011#,Other and unspecified leukaemia,B67y,B67y.00,93143009,154099013,NA,32,B67y.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr60#,[M]Granulocytic leukaemia NOS,309521000006115#,[M]Granulocytic leukaemia NOS,BBr60-1,BBr6011,37810007,1216572014,NA,32,BBr6011#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr60#,[M]Granulocytic leukaemia NOS,313411000006114#,[M]Myelosis NOS,BBr60-2,BBr6012,37810007,1216572014,NA,32,BBr6012#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr60#,[M]Granulocytic leukaemia NOS,1216572014#,[M]Myeloid leukaemia NOS,BBr60,BBr6000,37810007,1216572014,NA,32,BBr6000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64yz#,Other lymphoid leukaemia NOS,289888017#,Other lymphoid leukaemia NOS,B64yz,B64yz00,188725004,289876019,NA,32,B64yz00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B65..#,Myeloid leukaemia,289892012#,Myeloid leukaemia,B65,B65..00,188732008,289892012,NA,32,B65..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBrA5#,[M]Acute megakaryoblastic leukaemia,292073010#,[M]Acute megakaryoblastic leukaemia,BBrA5,BBrA500,52220008,86902018,NA,32,BBrA500#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B6243#,Leukaemic reticuloend of intra-abdominal lymph nodes,746301000006117#,Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes,B6243,B624300,93144003,510216012,NA,32,B624300#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B64y1#,Prolymphocytic leukaemia,202801000006110#,Prolymphocytic leukaemia,B64y1,B64y100,110006004,2765132011,NA,32,B64y100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B65y1#,Acute promyelocytic leukaemia,459741000006115#,APL - Acute promyelocytic leukaemia,B65y1,B65y100,110004001,1215869018,NA,32,B65y100#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ByuD8#,[X]Other specified leukaemias,292182018#,[X]Other specified leukaemias,ByuD8,ByuD800,93143009,154099013,NA,32,ByuD800#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B642.#,Subacute lymphoid leukaemia,289880012#,Subacute lymphoid leukaemia,B642,B642.00,188726003,289880012,NA,32,B642.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B642.#,Subacute lymphoid leukaemia,880841000006119#,Lymphoid leukaemia - subacute,B642-99,B642.99,188726003,8.80841E+14,NA,32,B642.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr63#,[M]Naegeli-type monocytic leukaemia,313621000006115#,[M]Naegeli-type monocytic leukaemia,BBr63-1,BBr6311,63364005,1216809013,NA,32,BBr6311#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr63#,[M]Naegeli-type monocytic leukaemia,1216809013#,[M]Chronic myeloid leukaemia,BBr63,BBr6300,63364005,1216809013,NA,32,BBr6300#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr8.#,[M]Eosinophilic leukaemias,292046014#,[M]Eosinophilic leukaemias,BBr8,BBr8.00,190055003,292048010,NA,32,BBr8.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr02#,[M]Subacute leukaemia NOS,291988017#,[M]Subacute leukaemia NOS,BBr02,BBr0200,128931003,207615015,NA,32,BBr0200#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66..#,Histiocytic leukaemia,289917018#,Monocytic leukaemia,B66,B66..00,188744006,289917018,NA,32,B66..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66..#,Histiocytic leukaemia,289919015#,Monoblastic leukaemia,B66-2,B66..12,188744006,289919015,NA,32,B66..12#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B66..#,Histiocytic leukaemia,289921013#,Histiocytic leukaemia,B66-1,B66..11,188744006,289921013,NA,32,B66..11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr66#,[M]Acute promyelocytic leukaemia,1216284012#,[M]Acute promyelocytic leukaemia,BBr66,BBr6600,28950004,1216284012,NA,32,BBr6600#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B672.#,Megakaryocytic leukaemia,289948014#,Thrombocytic leukaemia,B672-1,B672.11,188754005,289948014,NA,32,B672.11#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B672.#,Megakaryocytic leukaemia,289949018#,Megakaryocytic leukaemia,B672,B672.00,188754005,289949018,NA,32,B672.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B6510#,Chronic eosinophilic leukaemia,289895014#,Chronic eosinophilic leukaemia,B6510,B651000,188733003,289895014,NA,32,B651000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B68..#,Leukaemia of unspecified cell type,289963012#,Leukaemia of unspecified cell type,B68,B68..00,93143009,154099013,NA,32,B68..00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B68..#,Leukaemia of unspecified cell type,880931000006119#,Leukaemia - unspecified cell,B68-99,B68..99,6.62411E+14,8.80931E+14,NA,32,B68..99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B661.#,Chronic monocytic leukaemia,289923011#,Chronic monocytic leukaemia,B661,B661.00,188745007,289923011,NA,32,B661.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B661.#,Chronic monocytic leukaemia,880891000006111#,Monocytic leukaemia - chronic,B661-99,B661.99,188745007,8.80891E+14,NA,32,B661.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B651z#,Chronic myeloid leukaemia NOS,289900013#,Chronic myeloid leukaemia NOS,B651z,B651z00,92818009,201656010,NA,32,B651z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B650.#,Acute myeloid leukaemia,201612010#,Acute myeloid leukaemia,B650,B650.00,91861009,201612010,NA,32,B650.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B650.#,Acute myeloid leukaemia,880851000006117#,Myeloid leukaemia - acute,B650-99,B650.99,91861009,8.80851E+14,NA,32,B650.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B680.#,Acute leukaemia NOS,880941000006112#,Leukaemia - unspec. cell acute,B680-99,B680.99,6.62421E+14,8.80941E+14,NA,32,B680.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B680.#,Acute leukaemia NOS,289964018#,Acute leukaemia,B680,B680.00,91855006,201610019,NA,32,B680.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr80#,[M]Eosinophilic leukaemia,308041000006113#,[M]Eosinophilic leukaemia,BBr80,BBr8000,190055003,292048010,NA,32,BBr8000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr68#,[M]Chronic myelomonocytic leukaemia,306971000006117#,Chronic myelomonocytic leukaemia,BBr68,BBr6800,128831004,474620018,NA,32,BBr6800#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr0.#,[M]Leukaemias unspecified,291984015#,[M]Leukaemias unspecified,BBr0,BBr0.00,128931003,207615015,NA,32,BBr0.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ByuD5#,[X]Other lymphoid leukaemia,292177013#,[X]Other lymphoid leukaemia,ByuD5,ByuD500,188725004,289876019,NA,32,ByuD500#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ByuD6#,[X]Other myeloid leukaemia,292178015#,[X]Other myeloid leukaemia,ByuD6,ByuD600,188732008,289892012,NA,32,ByuD600#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B692.#,Subacute myelomonocytic leukaemia,289980011#,Subacute myelomonocytic leukaemia,B692,B692.00,188770007,289980011,NA,32,B692.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr0z#,"[M]Leukaemia unspecified, NOS",291995014#,"[M]Leukaemia unspecified, NOS",BBr0z,BBr0z00,128931003,207615015,NA,32,BBr0z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr03#,[M]Chronic leukaemia NOS,306921000006118#,Chronic leukaemia (category),BBr03,BBr0300,128933000,474680016,NA,32,BBr0300#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B68y.#,Other leukaemia of unspecified cell type,289971011#,Other leukaemia of unspecified cell type,B68y,B68y.00,93143009,154099013,NA,32,B68y.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B6240#,Leukaemic reticuloendotheliosis of unspecified sites,289756017#,LRE - Leukaemic reticuloendotheliosis,B6240,B624000,118613001,1215903015,NA,32,B624000#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr26#,[M]Burkitt's cell leukaemia,306171000006115#,[M]Burkitt's cell leukaemia,BBr26,BBr2600,22197008,481253013,NA,32,BBr2600#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBr8z#,[M]Eosinophilic leukaemia NOS,292050019#,Eosinophilic leukaemia,BBr8z,BBr8z00,190055003,292048010,NA,32,BBr8z00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B690.#,Acute myelomonocytic leukaemia,458201000006115#,M4 - Acute myelomonocytic leukaemia,B690,B690.00,110005000,1215872013,NA,32,B690.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B662.#,Subacute monocytic leukaemia,289924017#,Subacute monocytic leukaemia,B662,B662.00,188746008,289924017,NA,32,B662.00#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+B662.#,Subacute monocytic leukaemia,880901000006110#,Monocytic leukaemia - subacute,B662-99,B662.99,188746008,8.80901E+14,NA,32,B662.99#,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BBgD.#,"[M]Malig lymphoma, lymphocytic, intermediate different NOS",311611000006110#,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS",BBgD,BBgD.00,115244002,202936014,NA,32,BBgD.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6274#,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,289801013#,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,B6274,B627400,188675007,289801013,NA,32,B627400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgC.#,[M]Lymphocytic lymphoma NOS,1222219012#,[M]Lymphocytic lymphoma NOS,BBgC-1,BBgC.11,115244002,202936014,NA,32,BBgC.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgC.#,[M]Lymphocytic lymphoma NOS,1222220018#,[M]Lymphocytic lymphosarcoma NOS,BBgC-2,BBgC.12,115244002,202936014,NA,32,BBgC.12#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgC.#,[M]Lymphocytic lymphoma NOS,291903011#,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS",BBgC,BBgC.00,115244002,202936014,NA,32,BBgC.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuD1#,[X]Other types of follicular non-Hodgkin's lymphoma,292170010#,[X]Other types of follicular non-Hodgkin's lymphoma,ByuD1,ByuD100,308121000,451429010,NA,32,ByuD100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B613.#,"Hodgkin's disease, lymphocytic-histiocytic predominance",826261000006110#,"Hodgkin's disease, lymphocytic-histiocytic predominance",B613,B613.00,118607005,177026017,NA,32,B613.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B613.#,"Hodgkin's disease, lymphocytic-histiocytic predominance",2663377018#,"Hodgkin lymphoma, lymphocyte-rich",B613-1,B613.11,118607005,2663377018,NA,32,B613.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBm4.#,[M]True histiocytic lymphoma,1220820016#,[M]True histiocytic lymphoma,BBm4,BBm4.00,128813000,1220820016,NA,32,BBm4.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgE.#,"[M]Malignant lymphoma, centrocytic",291905016#,"[M]Malignant lymphoma, centrocytic",BBgE,BBgE.00,115244002,202936014,NA,32,BBgE.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4M23.#,Lymphoma stage IV,110346017#,Lymphoma stage IV,4M23,4M23.00,66445009,110346017,NA,3,4M23.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+AyuC6#,[X]HIV disease resulting in other non-Hodgkin's lymphoma,288182013#,[X]HIV disease resulting in other non-Hodgkin's lymphoma,AyuC6,AyuC600,442537007,2816358010,NA,32,AyuC600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+AyuC6#,[X]HIV disease resulting in other non-Hodgkin's lymphoma,1815001000006119#,[X]HIV disease resulting in other non-Hodgkin lymphoma,AyuC6-1,AyuC611,442537007,2816358010,NA,32,AyuC611#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6140#,"Hodgkin's disease, nodular sclerosis of unspecified site",289660013#,"Hodgkin's disease, nodular sclerosis of unspecified site",B6140,B614000,118608000,177027014,NA,32,B614000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBlz.#,[M]Mycosis fungoides NOS,291955012#,[M]Mycosis fungoides NOS,BBlz,BBlz.00,90120004,149378014,NA,32,BBlz.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B620z#,Nodular lymphoma NOS,289726014#,Nodular lymphoma NOS,B620z,B620z00,269476000,403709014,NA,32,B620z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y8#,Malignant lymphoma NOS of lymph nodes of multiple sites,289847017#,Malignant lymphoma of lymph nodes of multiple sites,B62y8,B62y800,93197009,154211018,NA,32,B62y800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6130#,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",826991000006114#,"Hodgkin's disease, lymphocytic-histiocytic predominance (clinical)",B6130,B613000,118607005,177026017,NA,32,B613000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y7#,Malignant lymphoma NOS of spleen,289846014#,Malignant lymphoma of spleen,B62y7,B62y700,93198004,154213015,NA,32,B62y700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y5#,Malignant lymphoma NOS of lymph node inguinal region and leg,728771000006112#,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb,B62y5,B62y500,93196000,154208019,NA,32,B62y500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B615z#,"Hodgkin's disease, mixed cellularity NOS",289679011#,"Hodgkin's disease, mixed cellularity NOS",B615z,B615z00,118609008,177028016,NA,32,B615z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg7.#,"[M]Malignant lymphoma, lymphoplasmacytoid type",1222289015#,"[M]Malignant lymphoma, lymphoplasmacytoid type",BBg7,BBg7.00,19340000,1222289015,NA,32,BBg7.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6215#,Mycosis fungoides of lymph nodes of inguinal region and leg,683691000006113#,Mycosis fungoides of lymph nodes of inguinal region and lower limb,B6215,B621500,94712003,157079011,NA,32,B621500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgG.#,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",311351000006119#,[M]Lymphoblastic lymphosarcoma NOS,BBgG-1,BBgG.11,115244002,202936014,NA,32,BBgG.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgG.#,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",1222221019#,[M]Lymphoblastic lymphoma NOS,BBgG-2,BBgG.12,115244002,202936014,NA,32,BBgG.12#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgG.#,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",311361000006117#,[M]Lymphoblastoma NOS,BBgG-3,BBgG.13,115244002,202936014,NA,32,BBgG.13#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgG.#,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",311811000006111#,"[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS",BBgG,BBgG.00,115244002,202936014,NA,32,BBgG.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg1.#,[M]Lymphoma NOS,311431000006119#,[M]Lymphoma NOS,BBg1-1,BBg1.11,21964009,36846011,NA,32,BBg1.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg1.#,[M]Lymphoma NOS,311671000006118#,Malignant lymphoma,BBg1,BBg1.00,21964009,36846011,NA,32,BBg1.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj7.#,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",1229491012#,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",BBj7,BBj7.00,39086001,1229491012,NA,32,BBj7.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj1.#,"[M]Hodgkin's disease, lymphocytic predominance",291931019#,"[M]Hodgkin's disease, lymphocytic predominance",BBj1,BBj1.00,128799007,207299018,NA,32,BBj1.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuDC#,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",292191019#,Diffuse non-Hodgkin's lymphoma,ByuDC,ByuDC00,109962001,174656018,NA,32,ByuDC00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj..#,[M]Hodgkin's disease,1221109014#,[M]Hodgkin's disease,BBj,BBj..00,14537002,1221109014,NA,32,BBj..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6151#,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",826571000006117#,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck",B6151,B615100,188575004,289671014,NA,32,B615100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6141#,"Hodgkin's nodular sclerosis of head, face and neck",826611000006110#,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck",B6141,B614100,188565002,289661012,NA,32,B614100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6164#,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,826471000006116#,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb",B6164,B616400,188589009,289696012,NA,32,B616400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B620.#,Nodular lymphoma (Brill - Symmers disease),673611000006113#,Nodular lymphoma,B620,B620.00,269476000,403709014,NA,32,B620.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B620.#,Nodular lymphoma (Brill - Symmers disease),169581000006112#,Reticulosarcoma - follicular or nodular,B620-1,B620.11,269476000,403709014,NA,32,B620.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z8#,Hodgkin's disease NOS of lymph nodes of multiple sites,289711012#,Hodgkin's disease of lymph nodes of multiple sites,B61z8,B61z800,93526001,154829018,NA,32,B61z800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627W#,Unspecified B-cell non-Hodgkin's lymphoma,82041000006113#,B-cell non-Hodgkin's lymphoma,B627W,B627W00,1.09192E+15,2.73491E+15,NA,32,B627W00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6025#,Burkitt's lymphoma of lymph nodes of inguinal region and leg,527801000006112#,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb,B6025,B602500,188514005,289607014,NA,32,B602500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk0.#,[M]Giant follicular lymphoma,306111000006112#,[M]Brill - Symmers' disease,BBk0-1,BBk0.11,115244002,202936014,NA,32,BBk0.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk0.#,[M]Giant follicular lymphoma,309181000006110#,[M]Giant follicular lymphoma,BBk0-3,BBk0.13,115244002,202936014,NA,32,BBk0.13#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk0.#,[M]Giant follicular lymphoma,403761014#,"[M]Malignant lymphoma, nodular NOS",BBk0,BBk0.00,115244002,202936014,NA,32,BBk0.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk0.#,[M]Giant follicular lymphoma,308801000006118#,[M]Follicular lymphosarcoma NOS,BBk0-2,BBk0.12,115244002,202936014,NA,32,BBk0.12#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk0.#,[M]Giant follicular lymphoma,314041000006116#,[M]Nodular lymphosarcoma NOS,BBk0-4,BBk0.14,115244002,202936014,NA,32,BBk0.14#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBl1.#,[M]Sezary's disease,1230735015#,[M]Sezary's disease,BBl1,BBl1.00,4950009,1230735015,NA,32,BBl1.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBkz.#,"[M]Lymphoma, nodular or follicular NOS",291953017#,"[M]Lymphoma, nodular or follicular NOS",BBkz,BBkz.00,414628006,2535396014,NA,32,BBkz.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6202#,Nodular lymphoma of intrathoracic lymph nodes,157688015#,Nodular lymphoma of intrathoracic lymph nodes,B6202,B620200,95188007,157688015,NA,32,B620200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6111#,"Hodgkin's granuloma of lymph nodes of head, face and neck",289629013#,"Hodgkin's granuloma of lymph nodes of head, face and neck",B6111,B611100,188534006,289629013,NA,32,B611100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6z..#,Malignant neoplasm lymphatic or haematopoietic tissue NOS,880981000006118#,Lymphatic tissue Ca NOS,B6z-99,B6z..99,6.62481E+14,8.80981E+14,NA,32,B6z..99#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6z..#,Malignant neoplasm lymphatic or haematopoietic tissue NOS,289987014#,Malignant neoplasm lymphatic or haematopoietic tissue NOS,B6z,B6z..00,269475001,403705015,NA,32,B6z..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgK.#,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS",311601000006112#,"[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS",BBgK,BBgK.00,115244002,202936014,NA,32,BBgK.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6148#,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,826671000006118#,"Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites",B6148,B614800,188572001,289668018,NA,32,B614800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z0#,"Hodgkin's disease NOS, unspecified site",289703019#,"Hodgkin's disease NOS, unspecified site",B61z0,B61z000,118599009,177017015,NA,32,B61z000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk2.#,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",291943018#,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",BBk2,BBk2.00,115244002,202936014,NA,32,BBk2.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk2.#,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",309031000006113#,"[M]Germinoblastoma, follicular",BBk2-1,BBk2.11,115244002,202936014,NA,32,BBk2.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj60#,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom",310141000006111#,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predominance",BBj60,BBj6000,45572000,1230240010,NA,32,BBj6000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z5#,Hodgkin's disease NOS of lymph nodes inguinal region and leg,826171000006110#,Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb,B61z5,B61z500,93525002,154826013,NA,32,B61z500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgV.#,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",311881000006116#,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",BBgV,BBgV.00,115244002,202936014,NA,32,BBgV.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B613z#,"Hodgkin's, lymphocytic-histiocytic predominance NOS",289659015#,"Hodgkin's, lymphocytic-histiocytic predominance NOS",B613z,B613z00,118607005,177026017,NA,32,B613z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B622.#,Sezary's disease,146651000006118#,Sezary's disease,B622,B622.00,118611004,2821061019,NA,32,B622.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B622.#,Sezary's disease,2168831000000110#,Sezary disease,B622-1,B622.11,118611004,2.16883E+15,NA,32,B622.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6...#,Malignant neoplasm of lymphatic and haemopoietic tissue,880781000006115#,Lymphatic tissue carcinoma,B6-99,B6...99,269475001,8.80781E+14,NA,32,B6...99#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6...#,Malignant neoplasm of lymphatic and haemopoietic tissue,725221000006111#,Malignant neoplasm of histiocytic tissue,B6-1,B6...11,269475001,403706019,NA,32,B6...11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6...#,Malignant neoplasm of lymphatic and haemopoietic tissue,403705015#,Malignant neoplasm of lymphatic and haemopoietic tissue,B6,B6...00,269475001,403705015,NA,32,B6...00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg2.#,[M]Non Hodgkins lymphoma,314061000006117#,[M]Non-Hodgkin's lymphoma,BBg2-1,BBg2.11,1929004,1222274012,NA,32,BBg2.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg2.#,[M]Non Hodgkins lymphoma,311871000006119#,"[M]Malignant lymphoma, non-Hodgkin's type",BBg2,BBg2.00,1929004,1222276014,NA,32,BBg2.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61zz#,Hodgkin's disease NOS,289702012#,Hodgkin's disease NOS,B61zz,B61zz00,118599009,2663473018,NA,32,B61zz00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B615.#,"Hodgkin's disease, mixed cellularity",2663461018#,"Hodgkin's disease, mixed cellularity",B615,B615.00,118609008,2663461018,NA,32,B615.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y6#,Malignant lymphoma NOS of intrapelvic lymph nodes,289845013#,Malignant lymphoma of intrapelvic lymph nodes,B62y6,B62y600,93192003,154198015,NA,32,B62y600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6023#,Burkitt's lymphoma of intra-abdominal lymph nodes,289605018#,Burkitt's lymphoma of intra-abdominal lymph nodes,B6023,B602300,188512009,289605018,NA,32,B602300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A7897#,HIV dis resulting oth types of non-Hodgkin's lymphoma,825721000006115#,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,A7897,A789700,442537007,2816358010,NA,32,A789700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A7897#,HIV dis resulting oth types of non-Hodgkin's lymphoma,1814951000006115#,HIV disease resulting in other types of non-Hodgkin lymphoma,A7897-1,A789711,442537007,2816358010,NA,32,A789711#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627C#,Follicular lymphoma NOS,451429010#,Follicular non-Hodgkin's lymphoma,B627C,B627C00,308121000,451429010,NA,32,B627C00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627C#,Follicular lymphoma NOS,763421000006116#,Follicular lymphoma NOS,B627C-1,B627C11,308121000,451429010,NA,32,B627C11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z1#,"Hodgkin's disease NOS of lymph nodes of head, face and neck",289704013#,"Hodgkin's disease of lymph nodes of head, face AND/OR neck",B61z1,B61z100,93524003,154823017,NA,32,B61z100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6203#,Nodular lymphoma of intra-abdominal lymph nodes,157686016#,Nodular lymphoma of intra-abdominal lymph nodes,B6203,B620300,95186006,157686016,NA,32,B620300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg5.#,"[M]Malignant lymphoma, convoluted cell type NOS",291894014#,"[M]Malignant lymphoma, convoluted cell type NOS",BBg5,BBg5.00,115244002,202936014,NA,32,BBg5.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y0#,Malignant lymphoma NOS of unspecified site,289830018#,Malignant lymphoma NOS of unspecified site,B62y0,B62y000,118600007,2663474012,NA,32,B62y000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B616z#,"Hodgkin's disease, lymphocytic depletion NOS",289701017#,"Hodgkin's disease, lymphocytic depletion NOS",B616z,B616z00,118610003,177029012,NA,32,B616z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B622z#,Sezary's disease NOS,289749011#,Sezary's disease NOS,B622z,B622z00,118611004,177030019,NA,32,B622z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6135#,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",826911000006116#,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb",B6135,B613500,188559002,289655014,NA,32,B613500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z.#,Hodgkin's disease NOS,826121000006114#,Hodgkin's disease NOS,B61z,B61z.00,118599009,2663473018,NA,32,B61z.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z.#,Hodgkin's disease NOS,1815101000006115#,Hodgkin's disease (clinical),B61z-1,B61z.11,118599009,177017015,NA,32,B61z.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A7896#,HIV disease resulting in Burkitt's lymphoma,287029018#,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,A7896,A789600,713897006,3297968018,NA,32,A789600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A7896#,HIV disease resulting in Burkitt's lymphoma,2168331000000117#,HIV disease resulting in Burkitt lymphoma,A7896-1,A789611,713897006,3297968018,NA,32,A789611#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6132#,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",826941000006117#,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes",B6132,B613200,93495008,154777010,NA,32,B613200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6275#,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,621041000006116#,Diffuse non-Hodgkin's mixed small and large cell (diffuse) lymphoma,B6275,B627500,188676008,289807012,NA,32,B627500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6167#,"Hodgkin's disease, lymphocytic depletion of spleen",289699017#,"Hodgkin's disease, lymphocytic depletion of spleen",B6167,B616700,188592008,289699017,NA,32,B616700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B614z#,"Hodgkin's disease, nodular sclerosis NOS",289669014#,"Hodgkin's disease, nodular sclerosis NOS",B614z,B614z00,118608000,177027014,NA,32,B614z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuD0#,[X]Other Hodgkin's disease,292169014#,[X]Other Hodgkin's disease,ByuD0,ByuD000,118599009,2663473018,NA,32,ByuD000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6142#,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,826651000006111#,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes",B6142,B614200,188566001,289662017,NA,32,B614200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBr27#,[M]Adult T-cell leukaemia/lymphoma,1216940017#,[M]Adult T-cell leukaemia/lymphoma,BBr27,BBr2700,77430005,1216940017,NA,32,BBr2700#,7,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+ByuDF#,[X]Non-Hodgkin's lymphoma NOS,400011000006119#,[X]Non-Hodgkin's lymphoma NOS,ByuDF-1,ByuDF11,118601006,2663475013,NA,32,ByuDF11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuDF#,[X]Non-Hodgkin's lymphoma NOS,406154013#,Non-Hodgkin's lymphoma (clinical),ByuDF,ByuDF00,118601006,177020011,NA,32,ByuDF00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj10#,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse",291932014#,"Hodgkin lymphoma, lymphocyte-rich",BBj10,BBj1000,128799007,207303011,NA,32,BBj1000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj62#,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet",310131000006118#,"[M]Hodgkin's disease, nodular sclerosis, lymphocytic depletion",BBj62,BBj6200,43985008,1230036014,NA,32,BBj6200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj2.#,"[M]Hodgkin's disease, mixed cellularity",1229767019#,"[M]Hodgkin's disease, mixed cellularity",BBj2,BBj2.00,41529000,1229767019,NA,32,BBj2.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B621z#,Mycosis fungoides NOS,289739013#,Mycosis fungoides NOS,B621z,B621z00,118618005,177037016,NA,32,B621z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6270#,Follicular non-Hodgkin's small cleaved cell lymphoma,414257019#,Follicular non-Hodgkin's small cleaved cell lymphoma,B6270,B627000,277625002,414257019,NA,32,B627000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6152#,Hodgkin's mixed cellularity of intrathoracic lymph nodes,826561000006112#,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes",B6152,B615200,188576003,289672019,NA,32,B615200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBv2.#,[M]AngiocentricT-cell lymphoma,1220814017#,[M]AngiocentricT-cell lymphoma,BBv2,BBv2.00,128805001,1220814017,NA,32,BBv2.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6147#,"Hodgkin's disease, nodular sclerosis of spleen",154811011#,"Hodgkin's disease, nodular sclerosis of spleen",B6147,B614700,93518009,154811011,NA,32,B614700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B612.#,Hodgkin's sarcoma,2663376010#,Hodgkin's sarcoma,B612,B612.00,118606001,2663376010,NA,32,B612.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgz.#,"[M]Lymphoma, diffuse or NOS",311441000006112#,Lymphoid neoplasm,BBgz,BBgz.00,414628006,2535396014,NA,32,BBgz.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6218#,Mycosis fungoides of lymph nodes of multiple sites,289738017#,Mycosis fungoides of lymph nodes of multiple sites,B6218,B621800,188627002,289738017,NA,32,B621800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuD2#,[X]Other types of diffuse non-Hodgkin's lymphoma,292173012#,[X]Other types of diffuse non-Hodgkin's lymphoma,ByuD2,ByuD200,109962001,174656018,NA,32,ByuD200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4M20.#,Lymphoma stage I,50949017#,Lymphoma stage I,4M20,4M20.00,30440004,50949017,NA,3,4M20.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6022#,Burkitt's lymphoma of intrathoracic lymph nodes,289604019#,Burkitt's lymphoma of intrathoracic lymph nodes,B6022,B602200,188511002,289604019,NA,32,B602200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6208#,Nodular lymphoma of lymph nodes of multiple sites,157692010#,Nodular lymphoma of lymph nodes of multiple sites,B6208,B620800,95192000,157692010,NA,32,B620800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y3#,Malignant lymphoma NOS of intra-abdominal lymph nodes,289842011#,Malignant lymphoma of intra-abdominal lymph nodes,B62y3,B62y300,93191005,154196016,NA,32,B62y300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj9.#,[M]Hodgkin's granuloma,1233711012#,[M]Hodgkin's granuloma,BBj9,BBj9.00,74189002,1233711012,NA,32,BBj9.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y.#,Malignant lymphoma NOS,728721000006111#,Malignant lymphoma,B62y,B62y.00,118600007,2663474012,NA,32,B62y.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6200#,Nodular lymphoma of unspecified site,289717011#,Nodular lymphoma of unspecified site,B6200,B620000,269476000,403709014,NA,32,B620000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6144#,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,826661000006113#,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb",B6144,B614400,188568000,289664016,NA,32,B614400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6271#,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,763431000006118#,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma,B6271,B627100,188672005,289795016,NA,32,B627100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgA.#,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",309021000006110#,"[M]Germinoblastoma, diffuse",BBgA-1,BBgA.11,115244002,202936014,NA,32,BBgA.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgA.#,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",291900014#,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",BBgA,BBgA.00,115244002,202936014,NA,32,BBgA.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6168#,Hodgkin's lymphocytic depletion lymph nodes multiple sites,826491000006115#,"Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites",B6168,B616800,188593003,289700016,NA,32,B616800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62x6#,True histiocytic lymphoma,344806015#,True histiocytic lymphoma,B62x6,B62x600,109988003,344806015,NA,32,B62x600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBv0.#,[M]Monocytoid B-cell lymphoma,292083014#,[M]Monocytoid B-cell lymphoma,BBv0,BBv0.00,128803008,207315010,NA,32,BBv0.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6213#,Mycosis fungoides of intra-abdominal lymph nodes,157071014#,Mycosis fungoides of intra-abdominal lymph nodes,B6213,B621300,94707004,157071014,NA,32,B621300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62x.#,Malignant lymphoma otherwise specified,289820010#,Malignant lymphoma (clinical),B62x,B62x.00,118600007,177019017,NA,32,B62x.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62x1#,Lymphoepithelioid lymphoma,344670010#,Lymphoepithelioid lymphoma,B62x1,B62x100,109976000,344670010,NA,32,B62x100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6103#,Hodgkin's paragranuloma of intra-abdominal lymph nodes,289621011#,Hodgkin's paragranuloma of intra-abdominal lymph nodes,B6103,B610300,93493001,3635497016,NA,32,B610300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgQ.#,[M]Malignant lymphomatous polyposis,291913015#,[M]Malignant lymphomatous polyposis,BBgQ,BBgQ.00,74654000,123976017,NA,32,BBgQ.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B610.#,Hodgkin's paragranuloma,826681000006115#,"Hodgkin lymphoma, nodular lymphocyte predominance (clinical)",B610,B610.00,118605002,202988019,NA,32,B610.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6021#,"Burkitt's lymphoma of lymph nodes of head, face and neck",289603013#,"Burkitt's lymphoma of lymph nodes of head, face and neck",B6021,B602100,188510001,289603013,NA,32,B602100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y1#,"Malignant lymphoma NOS of lymph nodes of head, face and neck",289831019#,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",B62y1,B62y100,93195001,154205016,NA,32,B62y100#,7,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6165#,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,826481000006118#,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb",B6165,B616500,188590000,289697015,NA,32,B616500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627.#,Non - Hodgkin's lymphoma,2839871014#,Non-Hodgkin lymphoma,B627-1,B627.11,118601006,2663475013,NA,32,B627.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627.#,Non - Hodgkin's lymphoma,587201000006115#,Non-Hodgkin's lymphoma,B627,B627.00,118601006,2663475013,NA,32,B627.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk7.#,"[M]Malignant lymphoma, centroblastic type, follicular",309011000006119#,"[M]Germinoblastic sarcoma, follicular",BBk7-1,BBk7.11,40411000,1229648010,NA,32,BBk7.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk7.#,"[M]Malignant lymphoma, centroblastic type, follicular",1229648010#,"[M]Malignant lymphoma, centroblastic type, follicular",BBk7,BBk7.00,40411000,1229648010,NA,32,BBk7.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B614.#,"Hodgkin's disease, nodular sclerosis",1220414014#,"Hodgkin's disease, nodular sclerosis",B614,B614.00,118608000,1220414014,NA,32,B614.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4M2..#,Lymphoma staging system,845051000006111#,Staging classification for lymphoma,4M2,4M2..00,106252000,170682015,NA,3,4M2..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuD3#,[X]Other specified types of non-Hodgkin's lymphoma,292174018#,[X]Other specified types of non-Hodgkin's lymphoma,ByuD3,ByuD300,118601006,177020011,NA,32,ByuD300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z3#,Hodgkin's disease NOS of intra-abdominal lymph nodes,289706010#,Hodgkin's disease of intra-abdominal lymph nodes,B61z3,B61z300,93520007,154814015,NA,32,B61z300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgB.#,"[M]Malignant lymphoma, follicular centre cell NOS",291902018#,"[M]Malignant lymphoma, follicular centre cell NOS",BBgB,BBgB.00,115244002,202936014,NA,32,BBgB.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgS.#,"[M]Malignant lymphoma, large cell, cleaved, diffuse",291914014#,"[M]Malignant lymphoma, large cell, cleaved, diffuse",BBgS,BBgS.00,115244002,202936014,NA,32,BBgS.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk3.#,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular",311621000006119#,"[M]Malignant lymphoma, lymphocytic, well differentiated, nodular",BBk3,BBk3.00,115244002,202936014,NA,32,BBk3.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6204#,Nodular lymphoma of lymph nodes of axilla and upper limb,289721016#,Nodular lymphoma of lymph nodes of axilla and upper limb,B6204,B620400,188612002,289721016,NA,32,B620400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6150#,"Hodgkin's disease, mixed cellularity of unspecified site",289670010#,"Hodgkin's disease, mixed cellularity of unspecified site",B6150,B615000,118609008,177028016,NA,32,B615000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6138#,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",826961000006118#,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites",B6138,B613800,188562004,289658011,NA,32,B613800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj11#,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",1233285010#,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",BBj11,BBj1100,70600005,1233285010,NA,32,BBj1100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6210#,Mycosis fungoides of unspecified site,289727017#,Mycosis fungoides of unspecified site,B6210,B621000,118618005,177037016,NA,32,B621000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgT.#,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",311801000006113#,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",BBgT,BBgT.00,115244002,202936014,NA,32,BBgT.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6131#,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",826951000006115#,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck",B6131,B613100,188554007,289650016,NA,32,B613100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBl..#,[M]Mycosis fungoides,313301000006119#,Mycosis fungoides,BBl,BBl..00,90120004,149378014,NA,32,BBl..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6143#,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,826631000006116#,"Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes",B6143,B614300,188567005,289663010,NA,32,B614300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBmD.#,[M] Cutaneous lymphoma,1225763012#,[M] Cutaneous lymphoma,BBmD,BBmD.00,28054005,1225763012,NA,32,BBmD.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6137#,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",289657018#,"Hodgkin's disease, lymphocytic-histiocytic predominance of spleen",B6137,B613700,93500006,154785018,NA,32,B613700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg3.#,"[M]Malignant lymphoma, undifferentiated cell type NOS",291892013#,"[M]Malignant lymphoma, undifferentiated cell type NOS",BBg3,BBg3.00,115244002,202936014,NA,32,BBg3.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B602z#,Burkitt's lymphoma NOS,289612010#,Burkitt's lymphoma NOS,B602z,B602z00,118617000,2663190016,NA,32,B602z00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBmH.#,[M] Large cell lymphoma,291963013#,Non-Hodgkin lymphoma (category),BBmH,BBmH.00,128929007,207612017,NA,32,BBmH.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg10#,"[M]Malignant lymphoma, diffuse NOS",291891018#,"[M]Malignant lymphoma, diffuse NOS",BBg10,BBg1000,115244002,202936014,NA,32,BBg1000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuDE#,[X]Unspecified B-cell non-Hodgkin's lymphoma,292193016#,[X]Unspecified B-cell non-Hodgkin's lymphoma,ByuDE,ByuDE00,1.09192E+15,2.73491E+15,NA,32,ByuDE00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ByuDD#,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,404441000006117#,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,ByuDD,ByuDD00,277613000,414240018,NA,32,ByuDD00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgL.#,"[M]Malignant lymphoma, small lymphocytic NOS",1232576019#,"[M]Malignant lymphoma, small lymphocytic NOS",BBgL,BBgL.00,64575004,1232576019,NA,32,BBgL.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B616.#,"Hodgkin's disease, lymphocytic depletion",2663187010#,"Hodgkin's disease, lymphocytic depletion",B616,B616.00,118610003,2663187010,NA,32,B616.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B602.#,Burkitt's lymphoma,1215905010#,Burkitt's tumour,B602-99,B602.99,118617000,1215905010,NA,32,B602.99#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B602.#,Burkitt's lymphoma,2663190016#,Burkitt's lymphoma,B602,B602.00,118617000,2663190016,NA,32,B602.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6276#,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,1219545019#,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,B6276,B627600,109966003,1219545019,NA,32,B627600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBm5.#,[M] Peripheral T-cell lymphoma NOS,291959018#,Mature (peripheral) T-cell neoplasm,BBm5,BBm5.00,414655002,2535406015,NA,32,BBm5.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj0.#,[M]Hodgkin's disease NOS,403760010#,"[M]Lymphogranuloma, malignant",BBj0-1,BBj0.11,128929007,207612017,NA,32,BBj0.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj0.#,[M]Hodgkin's disease NOS,309991000006111#,[M]Hodgkin's disease NOS,BBj0,BBj0.00,128930002,207613010,NA,32,BBj0.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z7#,Hodgkin's disease NOS of spleen,289710013#,Hodgkin's disease of spleen,B61z7,B61z700,93527005,154831010,NA,32,B61z700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6136#,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",826931000006110#,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes",B6136,B613600,93494007,154776018,NA,32,B613600#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6205#,Nodular lymphoma of lymph nodes of inguinal region and leg,673681000006118#,Nodular lymphoma of lymph nodes of inguinal region and lower limb,B6205,B620500,188613007,289722011,NA,32,B620500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgP.#,"[M]Malignant lymphoma, mixed small and large cell, diffuse",1230828016#,"[M]Malignant lymphoma, mixed small and large cell, diffuse",BBgP,BBgP.00,50102004,1230828016,NA,32,BBgP.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z2#,Hodgkin's disease NOS of intrathoracic lymph nodes,289705014#,Hodgkin's disease of intrathoracic lymph nodes,B61z2,B61z200,93522004,154818017,NA,32,B61z200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6214#,Mycosis fungoides of lymph nodes of axilla and upper limb,157075017#,Mycosis fungoides of lymph nodes of axilla and upper limb,B6214,B621400,94710006,157075017,NA,32,B621400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj4.#,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis",310071000006116#,"[M]Hodgkin's disease, lymphocytic depletion, diffuse fibrosis",BBj4,BBj4.00,16893006,1221432018,NA,32,BBj4.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBk..#,"[M]Lymphomas, nodular or follicular",311461000006111#,"Malignant lymphoma, follicular AND/OR nodular",BBk,BBk..00,115245001,176001017,NA,32,BBk..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6160#,Hodgkin's lymphocytic depletion of unspecified site,289680014#,Hodgkin's lymphocytic depletion of unspecified site,B6160,B616000,118610003,177029012,NA,32,B616000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6277#,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,621071000006112#,"Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)",B6277,B627700,109965004,174660015,NA,32,B627700#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62x2#,Peripheral T-cell lymphoma,2659756011#,Peripheral T-cell lymphoma,B62x2,B62x200,109977009,2659756011,NA,32,B62x200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgJ.#,"[M]Malignant lymphoma, centroblastic type NOS",291910017#,"[M]Malignant lymphoma, centroblastic type NOS",BBgJ,BBgJ.00,115244002,202936014,NA,32,BBgJ.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgJ.#,"[M]Malignant lymphoma, centroblastic type NOS",1222222014#,[M]Germinoblastic sarcoma NOS,BBgJ-1,BBgJ.11,115244002,202936014,NA,32,BBgJ.11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj61#,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity",291933016#,"Hodgkin lymphoma, nodular sclerosis, grade 1",BBj61,BBj6100,45572000,197881018,NA,32,BBj6100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6201#,"Nodular lymphoma of lymph nodes of head, face and neck",289718018#,"Nodular lymphoma of lymph nodes of head, face and neck",B6201,B620100,188609000,289718018,NA,32,B620100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj6.#,"[M]Hodgkin's disease, nodular sclerosis NOS",215914013#,"Hodgkin lymphoma, nodular sclerosis",BBj6,BBj6.00,52248008,198368015,NA,32,BBj6.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgN.#,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse",311641000006114#,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",BBgN,BBgN.00,74654000,1233776011,NA,32,BBgN.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgR.#,"[M]Malignant lymphoma, large cell, diffuse NOS",1230392016#,"[M]Malignant lymphoma, large cell, diffuse NOS",BBgR,BBgR.00,46732000,1230392016,NA,32,BBgR.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62x0#,T-zone lymphoma,344657018#,T-zone lymphoma,B62x0,B62x000,109975001,344657018,NA,32,B62x000#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61z4#,Hodgkin's disease NOS of lymph nodes of axilla and arm,826181000006113#,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb,B61z4,B61z400,93523009,154820019,NA,32,B61z400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6161#,"Hodgkin's lymphocytic depletion of head, face and neck",826501000006111#,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck",B6161,B616100,188585003,289681013,NA,32,B616100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6101#,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",826751000006118#,"Hodgkin's paragranuloma of lymph nodes of head, face, and neck",B6101,B610100,93542008,154855017,NA,32,B610100#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6278#,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),289812013#,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),B6278,B627800,188679001,289812013,NA,32,B627800#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627D#,Diffuse non-Hodgkin's centroblastic lymphoma,444799014#,Diffuse non-Hodgkin's centroblastic lymphoma,B627D,B627D00,302842009,444799014,NA,32,B627D00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBj3.#,"[M]Hodgkin's disease, lymphocytic depletion NOS",215913019#,"Hodgkin lymphoma, lymphocyte depletion",BBj3,BBj3.00,112687003,199800013,NA,32,BBj3.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBjz.#,[M]Hodgkin's disease NOS,453326010#,[M]Hodgkin's disease NOS,BBjz,BBjz.00,128930002,207613010,NA,32,BBjz.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6273#,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,289799010#,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,B6273,B627300,188674006,289799010,NA,32,B627300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B611.#,Hodgkin's granuloma,2663476014#,Hodgkin's granuloma,B611,B611.00,118602004,2663476014,NA,32,B611.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627B#,Other types of follicular non-Hodgkin's lymphoma,289813015#,Other types of follicular non-Hodgkin's lymphoma,B627B,B627B00,308121000,451429010,NA,32,B627B00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B627X#,"Diffuse non-Hodgkin's lymphoma, unspecified",621091000006113#,"Diffuse non-Hodgkin's lymphoma, unspecified",B627X,B627X00,109962001,174656018,NA,32,B627X00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg..#,"[M]Lymphomas, NOS or diffuse",291887011#,"[M]Lymphomas, NOS or diffuse",BBg,BBg..00,414628006,2535396014,NA,32,BBg..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6133#,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",826921000006112#,"Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes",B6133,B613300,93493001,154775019,NA,32,B613300#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y4#,Malignant lymphoma NOS of lymph nodes of axilla and arm,728781000006110#,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb,B62y4,B62y400,93194002,154202018,NA,32,B62y400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6124#,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,289643015#,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,B6124,B612400,188547001,289643015,NA,32,B612400#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62yz#,Malignant lymphoma NOS,289829011#,Malignant lymphoma NOS,B62yz,B62yz00,118600007,2663474012,NA,32,B62yz00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBgM.#,"[M]Malignant lymphoma, small cleaved cell, diffuse",215912012#,"[M]Malignant lymphoma, small cleaved cell, diffuse",BBgM,BBgM.00,115244002,202936014,NA,32,BBgM.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg4.#,"[M]Malignant lymphoma, stem cell type",311911000006116#,"[M]Malignant lymphoma, stem cell type",BBg4,BBg4.00,189962004,291893015,NA,32,BBg4.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6272#,Follicular non-Hodgkin's large cell lymphoma,414278016#,Follicular non-Hodgkin's large cell lymphoma,B6272,B627200,277641001,414278016,NA,32,B627200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBm9.#,[M] Monocytoid B-cell lymphoma,304151000006118#,Monocytoid B-cell lymphoma,BBm9,BBm9.00,128803008,207315010,NA,32,BBm9.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B621.#,Mycosis fungoides,2663191017#,Mycosis fungoides,B621,B621.00,118618005,2663191017,NA,32,B621.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61..#,Hodgkin's disease,2663473018#,Hodgkin's disease,B61,B61..00,118599009,2663473018,NA,32,B61..00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B61..#,Hodgkin's disease,1815031000006110#,Hodgkin lymphoma,B61-1,B61..11,118599009,2663473018,NA,32,B61..11#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBl0.#,[M]Mycosis fungoides,313311000006116#,[M]Mycosis fungoides,BBl0,BBl0.00,90120004,149378014,NA,32,BBl0.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62xX#,Oth and unspecif peripheral & cutaneous T-cell lymphomas,39671000006114#,Cutaneous/peripheral T-cell lymphoma,B62xX,B62xX00,277613000,414240018,NA,32,B62xX00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B62y2#,Malignant lymphoma NOS of intrathoracic lymph nodes,289832014#,Malignant lymphoma of intrathoracic lymph nodes,B62y2,B62y200,93193008,154200014,NA,32,B62y200#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+B6155#,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,826581000006119#,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb",B6155,B615500,188579005,289675017,NA,32,B615500#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBg8.#,"[M]Malignant lymphoma, immunoblastic type",1234197011#,"[M]Malignant lymphoma, immunoblastic type",BBg8,BBg8.00,450958009,2920534017,NA,32,BBg8.00#,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BBnz.#,[M]Plasma cell tumour NOS,291974016#,Plasma cell neoplasm (morphology),BBnz,BBnz.00,127580003,867011,NA,32,BBnz.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn2.#,[M]Plasmacytoma NOS,313001000006116#,[M]Monostotic myeloma,BBn2-1,BBn2.11,10639003,18480015,NA,32,BBn2.11#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn2.#,[M]Plasmacytoma NOS,316711000006113#,[M]Solitary myeloma,BBn2-2,BBn2.12,10639003,18480015,NA,32,BBn2.12#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn2.#,[M]Plasmacytoma NOS,315471000006118#,Plasmacytoma,BBn2,BBn2.00,10639003,18480015,NA,32,BBn2.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B630.#,Multiple myeloma,344819016#,Myelomatosis,B630-2,B630.12,109989006,344819016,NA,32,B630.12#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B630.#,Multiple myeloma,344818012#,Kahler's disease,B630-1,B630.11,109989006,344818012,NA,32,B630.11#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B630.#,Multiple myeloma,344820010#,Multiple myeloma,B630,B630.00,109989006,344820010,NA,32,B630.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn0.#,[M]Plasmacytic myeloma,313271000006116#,[M]Multiple myeloma,BBn0-1,BBn0.11,109989006,344820010,NA,32,BBn0.11#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn0.#,[M]Plasmacytic myeloma,313381000006111#,[M]Myeloma NOS,BBn0-2,BBn0.12,55921005,1231541019,NA,32,BBn0.12#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn0.#,[M]Plasmacytic myeloma,315461000006113#,[M]Plasmacytic myeloma,BBn0-4,BBn0.14,55921005,1231541019,NA,32,BBn0.14#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn0.#,[M]Plasmacytic myeloma,1231541019#,[M]Plasma cell myeloma,BBn0,BBn0.00,55921005,1231541019,NA,32,BBn0.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn0.#,[M]Plasmacytic myeloma,313391000006114#,[M]Myelomatosis,BBn0-3,BBn0.13,55921005,1231541019,NA,32,BBn0.13#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6303#,Lambda light chain myeloma,457317011#,Lambda light chain myeloma,B6303,B630300,313427003,457317011,NA,32,B630300#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B63..#,Multiple myeloma and immunoproliferative neoplasms,695561000006118#,Multiple myeloma and immunoproliferative neoplasms,B63,B63..00,109989006,344820010,NA,32,B63..00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B63..#,Multiple myeloma and immunoproliferative neoplasms,880801000006116#,Multiple myeloma etc.,B63-99,B63..99,109989006,8.80801E+14,NA,32,B63..99#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B63z.#,Immunoproliferative neoplasm or myeloma NOS,880811000006118#,Immunoproliferative neopl. NOS,B63z-99,B63z.99,5.42621E+14,8.80811E+14,NA,32,B63z.99#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B63z.#,Immunoproliferative neoplasm or myeloma NOS,289874016#,Immunoproliferative neoplasm or myeloma NOS,B63z,B63z.00,275524009,411516014,NA,32,B63z.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBm6.#,[M] Alpha heavy chain disease,291960011#,[M] Alpha heavy chain disease,BBm6,BBm6.00,6381009,11578015,NA,32,BBm6.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6302#,Plasmacytoma NOS,225051000006119#,Plasmacytoma,B6302,B630200,415112005,2534490012,NA,32,B630200#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBmK.#,[M]Waldenstrom's macroglobulinaemia,318171000006118#,Waldenstrom's macroglobulinaemia,BBmK,BBmK.00,35562000,197158017,NA,32,BBmK.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B936.#,Myeloma - solitary,678881000006114#,Neoplasm of uncertain behaviour of plasma cells,B936,B936.00,277577000,414174013,NA,32,B936.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B936.#,Myeloma - solitary,683191000006119#,Myeloma - solitary,B936-1,B936.11,415112005,2534490012,NA,32,B936.11#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B936.#,Myeloma - solitary,451430017#,Plasmacytoma NOS,B936-2,B936.12,415112005,2534490012,NA,32,B936.12#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn3.#,"[M]Plasma cell tumour, malignant",315441000006114#,"[M]Plasma cell tumour, malignant",BBn3,BBn3.00,399456004,1778874018,NA,32,BBn3.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6301#,Solitary myeloma,139571000006117#,Solitary myeloma,B6301,B630100,415112005,2534490012,NA,32,B630100#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBn..#,[M]Plasma cell tumours,291969012#,[M]Plasma cell tumours,BBn,BBn..00,127580003,867011,NA,32,BBn..00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBmC.#,[M] T-gamma lymphoproliferative disease,1231413015#,[M] T-gamma lymphoproliferative disease,BBmC,BBmC.00,55081009,1231413015,NA,32,BBmC.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BBmE.#,[M] Gamma heavy chain disease,291962015#,[M] Gamma heavy chain disease,BBmE,BBmE.00,6381009,11578015,NA,32,BBmE.00#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6300#,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",2532159017#,Extramedullary plasmacytoma,B6300-1,B630011,188718006,2532159017,NA,32,B630011#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6300#,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",289867014#,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",B6300,B630000,188718006,289867014,NA,32,B630000#,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B6014#,Lymphosarcoma of lymph nodes of axilla and upper limb,289596018#,Lymphosarcoma of lymph nodes of axilla and upper limb,B6014,B601400,188503007,289596018,NA,32,B601400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6016#,Lymphosarcoma of intrapelvic lymph nodes,289598017#,Lymphosarcoma of intrapelvic lymph nodes,B6016,B601600,188505000,289598017,NA,32,B601600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6020#,Burkitt's lymphoma of unspecified site,289602015#,Burkitt's lymphoma of unspecified site,B6020,B602000,118617000,177036013,NA,32,B602000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6024#,Burkitt's lymphoma of lymph nodes of axilla and upper limb,289606017#,Burkitt's lymphoma of lymph nodes of axilla and upper limb,B6024,B602400,188513004,289606017,NA,32,B602400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6026#,Burkitt's lymphoma of intrapelvic lymph nodes,289608016#,Burkitt's lymphoma of intrapelvic lymph nodes,B6026,B602600,188515006,289608016,NA,32,B602600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6027#,Burkitt's lymphoma of spleen,289610019#,Burkitt's lymphoma of spleen,B6027,B602700,188516007,289610019,NA,32,B602700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6028#,Burkitt's lymphoma of lymph nodes of multiple sites,289611015#,Burkitt's lymphoma of lymph nodes of multiple sites,B6028,B602800,188517003,289611015,NA,32,B602800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6100#,Hodgkin's paragranuloma of unspecified site,289616013#,Hodgkin's paragranuloma of unspecified site,B6100,B610000,118605002,177024019,NA,32,B610000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6102#,Hodgkin's paragranuloma of intrathoracic lymph nodes,289618014#,Hodgkin's paragranuloma of intrathoracic lymph nodes,B6102,B610200,188524002,289618014,NA,32,B610200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6104#,Hodgkin's paragranuloma of lymph nodes of axilla and upper limb,826741000006115#,Hodgkin's paragranuloma of lymph nodes of axilla and upper limb,B6104,B610400,93541001,154853012,NA,32,B610400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6105#,Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb,826691000006117#,Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb,B6105,B610500,93543003,154857013,NA,32,B610500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6106#,Hodgkin's paragranuloma of intrapelvic lymph nodes,289624015#,Hodgkin's paragranuloma of intrapelvic lymph nodes,B6106,B610600,188529007,289624015,NA,32,B610600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6107#,Hodgkin's paragranuloma of spleen,154859011#,Hodgkin's paragranuloma of spleen,B6107,B610700,93545005,154859011,NA,32,B610700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6108#,Hodgkin's paragranuloma of lymph nodes of multiple sites,289626018#,Hodgkin's paragranuloma of lymph nodes of multiple sites,B6108,B610800,188531003,289626018,NA,32,B610800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B610z#,Hodgkin's paragranuloma NOS,289627010#,Hodgkin's paragranuloma NOS,B610z,B610z00,118605002,177024019,NA,32,B610z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6110#,Hodgkin's granuloma of unspecified site,289628017#,Hodgkin's granuloma of unspecified site,B6110,B611000,118602004,177021010,NA,32,B611000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6112#,Hodgkin's granuloma of intrathoracic lymph nodes,154838016#,Hodgkin's granuloma of intrathoracic lymph nodes,B6112,B611200,93531004,154838016,NA,32,B611200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6113#,Hodgkin's granuloma of intra-abdominal lymph nodes,289632011#,Hodgkin's granuloma of intra-abdominal lymph nodes,B6113,B611300,188536008,289632011,NA,32,B611300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6114#,Hodgkin's granuloma of lymph nodes of axilla and upper limb,289633018#,Hodgkin's granuloma of lymph nodes of axilla and upper limb,B6114,B611400,188537004,289633018,NA,32,B611400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6115#,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb,826361000006117#,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb,B6115,B611500,188538009,289634012,NA,32,B611500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6116#,Hodgkin's granuloma of intrapelvic lymph nodes,154837014#,Hodgkin's granuloma of intrapelvic lymph nodes,B6116,B611600,93530003,154837014,NA,32,B611600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6117#,Hodgkin's granuloma of spleen,154846015#,Hodgkin's granuloma of spleen,B6117,B611700,93536009,154846015,NA,32,B611700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6118#,Hodgkin's granuloma of lymph nodes of multiple sites,289637017#,Hodgkin's granuloma of lymph nodes of multiple sites,B6118,B611800,188541000,289637017,NA,32,B611800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B611z#,Hodgkin's granuloma NOS,289638010#,Hodgkin's granuloma NOS,B611z,B611z00,118602004,177021010,NA,32,B611z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6120#,Hodgkin's sarcoma of unspecified site,289639019#,Hodgkin's sarcoma of unspecified site,B6120,B612000,118606001,177025018,NA,32,B612000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6121#,"Hodgkin's sarcoma of lymph nodes of head, face and neck",289640017#,"Hodgkin's sarcoma of lymph nodes of head, face and neck",B6121,B612100,188544008,289640017,NA,32,B612100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6122#,Hodgkin's sarcoma of intrathoracic lymph nodes,154864010#,Hodgkin's sarcoma of intrathoracic lymph nodes,B6122,B612200,93549004,154864010,NA,32,B612200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6123#,Hodgkin's sarcoma of intra-abdominal lymph nodes,154862014#,Hodgkin's sarcoma of intra-abdominal lymph nodes,B6123,B612300,93547002,154862014,NA,32,B612300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6125#,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb,826861000006114#,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb,B6125,B612500,188548006,289644014,NA,32,B612500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6126#,Hodgkin's sarcoma of intrapelvic lymph nodes,154863016#,Hodgkin's sarcoma of intrapelvic lymph nodes,B6126,B612600,93548007,154863016,NA,32,B612600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6127#,Hodgkin's sarcoma of spleen,154872012#,Hodgkin's sarcoma of spleen,B6127,B612700,93554008,154872012,NA,32,B612700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6128#,Hodgkin's sarcoma of lymph nodes of multiple sites,289647019#,Hodgkin's sarcoma of lymph nodes of multiple sites,B6128,B612800,188551004,289647019,NA,32,B612800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B612z#,Hodgkin's sarcoma NOS,289648012#,Hodgkin's sarcoma NOS,B612z,B612z00,118606001,177025018,NA,32,B612z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6134#,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb",826901000006119#,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb",B6134,B613400,188558005,289654013,NA,32,B613400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6145#,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb",826621000006119#,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb",B6145,B614500,188569008,289665015,NA,32,B614500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6146#,"Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes",826641000006114#,"Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes",B6146,B614600,188570009,289666019,NA,32,B614600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6153#,"Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes",826541000006113#,"Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes",B6153,B615300,188577007,289673012,NA,32,B615300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6154#,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb",826591000006116#,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb",B6154,B615400,188578002,289674018,NA,32,B615400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6156#,"Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes",826551000006110#,"Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes",B6156,B615600,188580008,289676016,NA,32,B615600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6157#,"Hodgkin's disease, mixed cellularity of spleen",154798010#,"Hodgkin's disease, mixed cellularity of spleen",B6157,B615700,93509007,154798010,NA,32,B615700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6158#,"Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites",826601000006112#,"Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites",B6158,B615800,188582000,289678015,NA,32,B615800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6162#,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes",826521000006118#,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes",B6162,B616200,188586002,289682018,NA,32,B616200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6163#,"Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes",826461000006111#,"Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes",B6163,B616300,188587006,289683011,NA,32,B616300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6166#,"Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes",826511000006114#,"Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes",B6166,B616600,188591001,289698013,NA,32,B616600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B617.#,Nodular lymphocyte predominant Hodgkin lymphoma,2168431000000112#,"Hodgkin lymphoma, nodular lymphocyte predominance (clinical)",B617,B617.00,118605002,177024019,NA,32,B617.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B618.#,Nodular sclerosis classical Hodgkin lymphoma,1815051000006115#,Nodular sclerosis classical Hodgkin lymphoma,B618,B618.00,118608000,1220414014,NA,32,B618.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B619.#,Mixed cellularity classical Hodgkin lymphoma,1815061000006118#,Mixed cellularity classical Hodgkin lymphoma,B619,B619.00,118609008,2663461018,NA,32,B619.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B61A.#,Lymphocyte depleted classical Hodgkin lymphoma,1815071000006113#,Lymphocyte depleted classical Hodgkin lymphoma,B61A,B61A.00,118610003,2663187010,NA,32,B61A.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B61B.#,Lymphocyte-rich classical Hodgkin lymphoma,2870724014#,Lymphocyte-rich classical Hodgkin lymphoma,B61B,B61B.00,118607005,2870724014,NA,32,B61B.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B61C.#,Hodgkin's,1815091000006114#,Other classical Hodgkin lymphoma,B61C,B61C.00,118599009,2663473018,NA,32,B61C.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B61z6#,Hodgkin's disease NOS of intrapelvic lymph nodes,289709015#,Hodgkin's disease of intrapelvic lymph nodes,B61z6,B61z600,93521006,154816018,NA,32,B61z600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6206#,Nodular lymphoma of intrapelvic lymph nodes,157687013#,Nodular lymphoma of intrapelvic lymph nodes,B6206,B620600,95187002,157687013,NA,32,B620600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6207#,Nodular lymphoma of spleen,157693017#,Nodular lymphoma of spleen,B6207,B620700,95193005,157693017,NA,32,B620700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6211#,"Mycosis fungoides of the lymph nodes of head, face and neck",683721000006115#,"Mycosis fungoides of the lymph nodes of head, face and neck",B6211,B621100,94711005,157076016,NA,32,B621100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6212#,Mycosis fungoides of intrathoracic lymph nodes,157073012#,Mycosis fungoides of intrathoracic lymph nodes,B6212,B621200,94709001,157073012,NA,32,B621200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6216#,Mycosis fungoides of intrapelvic lymph nodes,157072019#,Mycosis fungoides of intrapelvic lymph nodes,B6216,B621600,94708009,157072019,NA,32,B621600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6217#,Mycosis fungoides of spleen,157081013#,Mycosis fungoides of spleen,B6217,B621700,94714002,157081013,NA,32,B621700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6220#,Sezary's disease of unspecified site,289740010#,Sezary's disease of unspecified site,B6220,B622000,118611004,177030019,NA,32,B622000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6221#,"Sezary's disease of lymph nodes of head, face and neck",289741014#,"Sezary's disease of lymph nodes of head, face and neck",B6221,B622100,188630009,289741014,NA,32,B622100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6222#,Sezary's disease of intrathoracic lymph nodes,289742019#,Sezary's disease of intrathoracic lymph nodes,B6222,B622200,188631008,289742019,NA,32,B622200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6223#,Sezary's disease of intra-abdominal lymph nodes,289743012#,Sezary's disease of intra-abdominal lymph nodes,B6223,B622300,188632001,289743012,NA,32,B622300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6224#,Sezary's disease of lymph nodes of axilla and upper limb,289744018#,Sezary's disease of lymph nodes of axilla and upper limb,B6224,B622400,188633006,289744018,NA,32,B622400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6225#,Sezary's disease of lymph nodes of inguinal region and lower limb,146721000006119#,Sezary's disease of lymph nodes of inguinal region and lower limb,B6225,B622500,188634000,289745017,NA,32,B622500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6226#,Sezary's disease of intrapelvic lymph nodes,289746016#,Sezary's disease of intrapelvic lymph nodes,B6226,B622600,188635004,289746016,NA,32,B622600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6227#,Sezary's disease of spleen,146741000006114#,Sezary's disease of spleen,B6227,B622700,95263006,2817094011,NA,32,B622700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6228#,Sezary's disease of lymph nodes of multiple sites,289748015#,Sezary's disease of lymph nodes of multiple sites,B6228,B622800,188637007,289748015,NA,32,B622800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6232#,Malignant histiocytosis of intrathoracic lymph nodes,154185012#,Malignant histiocytosis of intrathoracic lymph nodes,B6232,B623200,93184007,154185012,NA,32,B623200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6234#,Malignant histiocytosis of lymph nodes of axilla and upper limb,728591000006117#,Malignant histiocytosis of lymph nodes of axilla and upper limb,B6234,B623400,188641006,289752015,NA,32,B623400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6235#,Malignant histiocytosis of lymph nodes of inguinal region and lower limb,728581000006115#,Malignant histiocytosis of lymph nodes of inguinal region and lower limb,B6235,B623500,188642004,289753013,NA,32,B623500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6236#,Malignant histiocytosis of intrapelvic lymph nodes,154184011#,Malignant histiocytosis of intrapelvic lymph nodes,B6236,B623600,93183001,154184011,NA,32,B623600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6237#,Malignant histiocytosis of spleen,154193012#,Malignant histiocytosis of spleen,B6237,B623700,93189002,154193012,NA,32,B623700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6241#,"Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck",747141000006116#,"Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck",B6241,B624100,188645002,289757014,NA,32,B624100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6242#,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes,510218013#,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes,B6242,B624200,93146001,510218013,NA,32,B624200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6244#,Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb,747131000006114#,Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb,B6244,B624400,188648000,289764011,NA,32,B624400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6245#,Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb,746311000006119#,Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb,B6245,B624500,188649008,289765012,NA,32,B624500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6246#,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes,510217015#,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes,B6246,B624600,93145002,510217015,NA,32,B624600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6247#,Leukaemic reticuloendotheliosis of spleen,289769018#,Leukaemic reticuloendotheliosis of spleen,B6247,B624700,93151007,510222015,NA,32,B624700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6248#,Leukaemic reticuloendotheliosis of lymph nodes of multiple sites,744991000006119#,Leukaemic reticuloendotheliosis of lymph nodes of multiple sites,B6248,B624800,93150008,510221010,NA,32,B624800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B625.#,Letterer-Siwe disease,745971000006116#,Letterer-Siwe disease (clinical),B625,B625.00,118614007,177033017,NA,32,B625.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B625.#,Letterer-Siwe disease,824231000006111#,"Histiocytosis X (acute, progressive)",B625-1,B625.11,118614007,177033017,NA,32,B625.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6250#,Letterer-Siwe disease of unspecified sites,289776011#,Letterer-Siwe disease of unspecified sites,B6250,B625000,118614007,177033017,NA,32,B625000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6251#,"Letterer-Siwe disease of lymph nodes of head, face and neck",746041000006117#,"Letterer-Siwe disease of lymph nodes of head, face and neck",B6251,B625100,93137007,154085014,NA,32,B625100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6252#,Letterer-Siwe disease of intrathoracic lymph nodes,154082012#,Letterer-Siwe disease of intrathoracic lymph nodes,B6252,B625200,93135004,154082012,NA,32,B625200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6253#,Letterer-Siwe disease of intra-abdominal lymph nodes,154080016#,Letterer-Siwe disease of intra-abdominal lymph nodes,B6253,B625300,93133006,154080016,NA,32,B625300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6254#,Letterer-Siwe disease of lymph nodes of axilla and upper limb,746031000006110#,Letterer-Siwe disease of lymph nodes of axilla and upper limb,B6254,B625400,93136003,154084013,NA,32,B625400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6255#,Letterer-Siwe disease of lymph nodes of inguinal region and lower limb,746021000006112#,Letterer-Siwe disease of lymph nodes of inguinal region and lower limb,B6255,B625500,93138002,154088011,NA,32,B625500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6256#,Letterer-Siwe disease of intrapelvic lymph nodes,154081017#,Letterer-Siwe disease of intrapelvic lymph nodes,B6256,B625600,93134000,154081017,NA,32,B625600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6257#,Letterer-Siwe disease of spleen,154090012#,Letterer-Siwe disease of spleen,B6257,B625700,93140007,154090012,NA,32,B625700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6258#,Letterer-Siwe disease of lymph nodes of multiple sites,154089015#,Letterer-Siwe disease of lymph nodes of multiple sites,B6258,B625800,93139005,154089015,NA,32,B625800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B625z#,Letterer-Siwe disease NOS,289780018#,Letterer-Siwe disease NOS,B625z,B625z00,118614007,177033017,NA,32,B625z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6261#,"Mast cell malignancy of lymph nodes of head, face and neck",289784010#,"Mast cell malignancy of lymph nodes of head, face and neck",B6261,B626100,188662007,289784010,NA,32,B626100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6262#,Mast cell malignancy of intrathoracic lymph nodes,289785011#,Mast cell malignancy of intrathoracic lymph nodes,B6262,B626200,188663002,289785011,NA,32,B626200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6263#,Mast cell malignancy of intra-abdominal lymph nodes,289786012#,Mast cell malignancy of intra-abdominal lymph nodes,B6263,B626300,188664008,289786012,NA,32,B626300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6264#,Mast cell malignancy of lymph nodes of axilla and upper limb,289787015#,Mast cell malignancy of lymph nodes of axilla and upper limb,B6264,B626400,188665009,289787015,NA,32,B626400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6266#,Mast cell malignancy of intrapelvic lymph nodes,289789017#,Mast cell malignancy of intrapelvic lymph nodes,B6266,B626600,188667001,289789017,NA,32,B626600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6267#,Mast cell malignancy of spleen,289790014#,Mast cell malignancy of spleen,B6267,B626700,188668006,289790014,NA,32,B626700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6279#,Mucosa-associated lymphoma,414253015#,Maltoma,B6279-1,B627911,277622004,414253015,NA,32,B627911#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6279#,Mucosa-associated lymphoma,414252013#,Mucosa-associated lymphoma,B6279,B627900,277622004,414252013,NA,32,B627900#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B627A#,Diffuse non-Hodgkin's large cell lymphoma,1668101000000112#,Diffuse non-Hodgkin's large cell lymphoma,B627A,B627A00,109969005,1.6681E+15,NA,32,B627A00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B627E#,Diffuse large B-cell lymphoma,198006010#,Diffuse large B-cell lymphoma,B627E,B627E00,8.47741E+14,2.19785E+15,NA,32,B627E00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B627F#,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,1815131000006111#,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,B627F,B627F00,445269007,2913563017,NA,32,B627F00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B627G#,Mediastinal (thymic) large B-cell lymphoma,2870725010#,Mediastinal (thymic) large B-cell lymphoma,B627G,B627G00,444910004,2870725010,NA,32,B627G00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B628.#,Follicular lymphoma,1815151000006116#,Follicular lymphoma,B628,B628.00,308121000,451429010,NA,32,B628.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6280#,Follicular lymphoma grade 1,1815161000006119#,Follicular lymphoma grade 1,B6280,B628000,8.47481E+14,2.19724E+15,NA,32,B628000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6281#,Follicular lymphoma grade 2,1815171000006114#,Follicular lymphoma grade 2,B6281,B628100,8.47631E+14,2.19762E+15,NA,32,B628100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6282#,Follicular lymphoma grade 3,1815181000006112#,Follicular lymphoma grade 3,B6282,B628200,8.47651E+14,2.19767E+15,NA,32,B628200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6283#,Follicular lymphoma grade 3a,2124491000000113#,Follicular lymphoma grade 3a,B6283,B628300,8.47691E+14,2.19774E+15,NA,32,B628300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6284#,Follicular lymphoma grade 3b,2124511000000117#,Follicular lymphoma grade 3b,B6284,B628400,8.47701E+14,2.19776E+15,NA,32,B628400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6285#,Diffuse follicle centre lymphoma,2901912012#,Diffuse follicle centre lymphoma,B6285,B628500,449220000,2901912012,NA,32,B628500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6286#,Cutaneous follicle centre lymphoma,1815221000006115#,"Follicular lymphoma, cutaneous follicle centre",B6286,B628600,1.09186E+15,2.73477E+15,NA,32,B628600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6287#,Other types of follicular lymphoma,1815231000006117#,Other types of follicular lymphoma,B6287,B628700,308121000,451429010,NA,32,B628700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B629.#,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis,1815241000006110#,Multifocal multisystemic dissem Langerhans-cell histiocytosi,B629,B629.00,118614007,177033017,NA,32,B629.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62A.#,Sarcoma of dendritic cells,1815251000006112#,Sarcoma of dendritic cells,B62A,B62A.00,446643000,3036602014,NA,32,B62A.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62B.#,Multifocal and unisystemic Langerhans-cell histiocytosis,1815261000006114#,Multifocal and unisystemic Langerhans-cell histiocytosis,B62B,B62B.00,65399007,199591010,NA,32,B62B.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62C.#,Unifocal Langerhans-cell histiocytosis,2168481000000111#,Unifocal Langerhans-cell histiocytosis,B62C,B62C.00,129000002,2.16848E+15,NA,32,B62C.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62D.#,Histiocytic sarcoma,2659772015#,Histiocytic sarcoma,B62D,B62D.00,109988003,2659772015,NA,32,B62D.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E.#,T/NK-cell lymphoma,207325017#,T-cell lymphoma,B62E,B62E.00,109978004,344696012,NA,32,B62E.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E0#,Mature T/NK-cell lymphoma,1815301000006117#,Cutaneous/peripheral T-cell lymphoma,B62E0,B62E000,277613000,414240018,NA,32,B62E000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E1#,"Anaplastic large cell lymphoma, ALK-positive",2168491000000113#,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma,B62E1,B62E100,738770003,3533524018,NA,32,B62E100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E2#,"Anaplastic large cell lymphoma, ALK-negative",1815321000006110#,"Anaplastic large cell lymphoma, ALK negative",B62E2,B62E200,448212009,2900730018,NA,32,B62E200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E3#,Cutaneous T-cell lymphoma,1815331000006113#,Cutaneous T-cell lymphoma,B62E3,B62E300,400122007,1787104010,NA,32,B62E300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E4#,"Extranodal NK/T-cell lymphoma, nasal type",2534467019#,"Extranodal NK/T-cell lymphoma, nasal type",B62E4,B62E400,414166008,2534467019,NA,32,B62E400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E5#,Hepatosplenic T-cell lymphoma,2872841013#,Hepatosplenic T-cell lymphoma,B62E5,B62E500,445406001,2872841013,NA,32,B62E500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E6#,Enteropathy-associated T-cell lymphoma,414298014#,Enteropathy-associated T-cell lymphoma,B62E6,B62E600,277654008,414298014,NA,32,B62E600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E6#,Enteropathy-associated T-cell lymphoma,1815371000006111#,Enteropathy-type (intestinal) T-cell lymphoma,B62E6-1,B62E611,277654008,414298014,NA,32,B62E611#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E7#,Subcutaneous panniculitic T-cell lymphoma,2872133010#,Subcutaneous panniculitis-like T-cell lymphoma,B62E7-1,B62E711,404133000,2872133010,NA,32,B62E711#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E7#,Subcutaneous panniculitic T-cell lymphoma,1815391000006112#,Subcutaneous panniculitic T-cell lymphoma,B62E7,B62E700,404133000,2872133010,NA,32,B62E700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E8#,Blastic NK-cell lymphoma,1815401000006114#,Blastic plasmacytoid dendritic cell neoplasm,B62E8,B62E800,445105005,2872334012,NA,32,B62E800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62E9#,Angioimmunoblastic T-cell lymphoma,2534468012#,Angioimmunoblastic T-cell lymphoma,B62E9,B62E900,1.09024E+15,2.73134E+15,NA,32,B62E900#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62EA#,Primary cutaneous CD30-positive T-cell proliferations,1815421000006116#,Primary cutaneous CD30+ large T-cell lymphoma,B62EA,B62EA00,128875000,207526015,NA,32,B62EA00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62Ew#,Other mature T/NK-cell lymphoma,1815431000006118#,Other mature T/NK-cell lymphoma,B62Ew,B62Ew00,277613000,414240018,NA,32,B62Ew00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62F.#,Nonfollicular lymphoma,2168861000000117#,Non-follicular lymphoma,B62F-1,B62F.11,118601006,2.16886E+15,NA,32,B62F.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62F.#,Nonfollicular lymphoma,1815451000006113#,Nonfollicular lymphoma,B62F,B62F.00,109962001,2900154016,NA,32,B62F.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62F0#,Small cell B-cell lymphoma,1815461000006110#,Low grade B-cell lymphoma,B62F0,B62F000,277615007,414243016,NA,32,B62F000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62F1#,Mantle cell lymphoma,123978016#,Mantle cell lymphoma,B62F1,B62F100,443487006,2839720017,NA,32,B62F100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62F2#,Lymphoblastic (diffuse) lymphoma,2168691000000110#,Lymphoblastic (diffuse) lymphoma,B62F2,B62F200,109965004,2.16869E+15,NA,32,B62F200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62Fy#,Other non-follicular lymphoma,1815491000006119#,Other non-follicular lymphoma,B62Fy,B62Fy00,118601006,2.16886E+15,NA,32,B62Fy00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62x3#,Malignant reticuloendotheliosis,720161000006119#,Malignant reticuloendotheliosis,B62x3,B62x300,118614007,177033017,NA,32,B62x300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B62z7#,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of spleen,81471000006116#,Unspec malig neop lymphoid/histiocytic of spleen,B62z7,B62z700,118600007,177018013,NA,32,B62z700#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6304#,Solitary plasmacytoma,18484012#,Plasmacytoma - disorder,B6304,B630400,415112005,2537380010,NA,32,B630400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6400#,B-cell acute lymphoblastic leukaemia,414160018#,B-cell acute lymphoblastic leukaemia,B6400,B640000,277571004,414160018,NA,32,B640000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6400#,B-cell acute lymphoblastic leukaemia,2872860018#,Mature B-cell leukaemia Burkitt-type,B6400-1,B640011,277571004,2872860018,NA,32,B640011#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6410#,B-cell chronic lymphocytic leukaemia,2168681000000113#,Chronic lymphocytic leukaemia of B-cell type,B6410-1,B641011,277473004,2.16868E+15,NA,32,B641011#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6410#,B-cell chronic lymphocytic leukaemia,414008012#,B-cell chronic lymphocytic leukaemia,B6410,B641000,277473004,414008012,NA,32,B641000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6411#,Clinical stage A chronic lymphocytic leukaemia,2233381000000115#,Clinical stage A chronic lymphocytic leukaemia,B6411,B641100,8.63741E+14,2.23338E+15,NA,32,B641100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6412#,Clinical stage B chronic lymphocytic leukaemia,2233421000000112#,Clinical stage B chronic lymphocytic leukaemia,B6412,B641200,8.63761E+14,2.23342E+15,NA,32,B641200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6413#,Clinical stage C chronic lymphocytic leukaemia,2233461000000116#,Clinical stage C chronic lymphocytic leukaemia,B6413,B641300,8.63781E+14,2.23346E+15,NA,32,B641300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y0#,Aleukaemic lymphoid leukaemia,289884015#,Aleukaemic lymphoid leukaemia,B64y0,B64y000,188728002,289884015,NA,32,B64y000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y3#,B-cell prolymphocytic leukaemia,2168671000000111#,Prolymphocytic leukaemia of B-cell type,B64y3-1,B64y311,277619001,2.16867E+15,NA,32,B64y311#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y3#,B-cell prolymphocytic leukaemia,414248013#,B-cell prolymphocytic leukaemia,B64y3,B64y300,277619001,414248013,NA,32,B64y300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y4#,T-cell prolymphocytic leukaemia,2168661000000116#,Prolymphocytic leukemia of T-cell type,B64y4-1,B64y411,277567002,3035918013,NA,32,B64y411#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y4#,T-cell prolymphocytic leukaemia,414151014#,T-cell prolymphocytic leukaemia,B64y4,B64y400,277567002,414151014,NA,32,B64y400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B64y5#,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),1815601000006111#,Adult T-cell leukaemia/lymphoma,B64y5,B64y500,110007008,345042017,NA,32,B64y500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6500#,Acute myeloid leukaemia with 11q23 abnormality,2124991000000117#,Acute myeloid leukaemia with 11q23 abnormality,B6500,B650000,8.15361E+14,2.12499E+15,NA,32,B650000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6501#,Acute myeloid leukaemia with multilineage dysplasia,2872264019#,Acute myeloid leukaemia with multilineage dysplasia,B6501,B650100,445448008,2872264019,NA,32,B650100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6511#,"Chronic myeloid leukaemia, BCR/ABL positive",1815631000006115#,Philadelphia chromosome positive chronic myelogenous leukaemia,B6511,B651100,449108003,2901809010,NA,32,B651100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6513#,"Atypical chronic myeloid leukaemia, BCR/ABL negative",474604011#,Philadelphia chromosome negative chronic myelogenous leukaemia,B6513,B651300,449386007,2899857015,NA,32,B651300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6530#,Chloroma,289903010#,Chloroma,B6530,B653000,188737002,289903010,NA,32,B653000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B653z#,Myeloid sarcoma NOS,289905015#,Myeloid sarcoma NOS,B653z,B653z00,94719007,157091019,NA,32,B653z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B654.#,Acute myeloblastic leukaemia,1815651000006110#,AML - Acute myeloblastic leukaemia,B654,B654.00,91861009,2536482014,NA,32,B654.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B65y.#,Other myeloid leukaemia,289907011#,Other myeloid leukaemia,B65y,B65y.00,188732008,289892012,NA,32,B65y.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B65y0#,Aleukaemic myeloid leukaemia,289908018#,Aleukaemic myeloid leukaemia,B65y0,B65y000,188741003,289908018,NA,32,B65y000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B663.#,Acute monoblastic leukaemia,414220013#,Acute monoblastic leukaemia,B663,B663.00,277601005,414220013,NA,32,B663.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B66y0#,Aleukaemic monocytic leukaemia,289928019#,Aleukaemic monocytic leukaemia,B66y0,B66y000,188748009,289928019,NA,32,B66y000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B671.#,Chronic erythraemia,819461000006112#,Heilmeyer - Schoner disease,B671-1,B671.11,109992005,174698015,NA,32,B671.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B671.#,Chronic erythraemia,554151000006112#,Polycythaemia vera (clinical),B671,B671.00,109992005,174698015,NA,32,B671.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B674.#,Acute panmyelosis,133678011#,Acute panmyelosis,B674,B674.00,109991003,2532080014,NA,32,B674.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B675.#,Acute myelofibrosis,2532080014#,Acute panmyelosis with myelofibrosis,B675-1,B675.11,109991003,2532080014,NA,32,B675.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B675.#,Acute myelofibrosis,344846014#,Acute myelofibrosis,B675,B675.00,109991003,344846014,NA,32,B675.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B676.#,Acute erythroid leukaemia,476225016#,"Erythroleukemia, FAB M6",B676,B676.00,93451002,154686014,NA,32,B676.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B677.#,Myelodysplastic and myeloproliferative disease,1815691000006116#,Myelodysplastic/myeloproliferative disease,B677,B677.00,445738007,2882898013,NA,32,B677.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B693.#,Juvenile myelomonocytic leukaemia,2871720012#,Juvenile myelomonocytic leukaemia,B693,B693.00,445227008,2871720012,NA,32,B693.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6y0.#,Myeloproliferative disorder,2645960018#,Myeloproliferative disorder,B6y0,B6y0.00,425333006,2645960018,NA,32,B6y0.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6y0.#,Myeloproliferative disorder,683351000006111#,Myeloproliferative disease,B6y0-1,B6y0.11,425333006,2645960018,NA,32,B6y0.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6y1.#,Myelosclerosis with myeloid metaplasia,2870704010#,Osteomyelofibrosis,B6y1-2,B6y1.12,307651005,2870704010,NA,32,B6y1.12#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6y1.#,Myelosclerosis with myeloid metaplasia,698821000006119#,Megakaryocytic myelosclerosis,B6y1-1,B6y1.11,307651005,450988016,NA,32,B6y1.11#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6y1.#,Myelosclerosis with myeloid metaplasia,450987014#,Myelosclerosis with myeloid metaplasia,B6y1,B6y1.00,307651005,450987014,NA,32,B6y1.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ByuHD#,"[X]Myelodysplastic syndrome, unspecified",292274012#,"[X]Myelodysplastic syndrome, unspecified",ByuHD,ByuHD00,109995007,2659757019,NA,32,ByuHD00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C333.#,Macroglobulinaemia,293377011#,Macroglobulinaemia,C333,C333.00,190817009,293377011,NA,32,C333.00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C3330#,Waldenstrom's macroglobulinaemia,293380012#,Waldenstrom's macroglobulinaemia,C3330,C333000,190818004,293380012,NA,32,C333000#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C3330#,Waldenstrom's macroglobulinaemia,2168841000000118#,Waldenstrom macroglobulinaemia,C3330-1,C333011,190818004,2.16884E+15,NA,32,C333011#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C3331#,Alpha heavy chain disease,2659763011#,Alpha heavy chain disease,C3331,C333100,109982002,2659763011,NA,32,C333100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C3332#,Gamma heavy chain disease,2659693012#,Gamma heavy chain disease,C3332,C333200,109984001,2659693012,NA,32,C333200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C3333#,Heavy chain disease,114573012#,Heavy chain disease,C3333,C333300,68979007,114573012,NA,32,C333300#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C333z#,Macroglobulinaemia NOS,293384015#,Macroglobulinaemia NOS,C333z,C333z00,190817009,293377011,NA,32,C333z00#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+D41y1#,Myelofibrosis,88121017#,Myelofibrosis,D41y1,D41y100,52967002,88121017,NA,32,D41y100#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X00eT#,Lymphoma of retina,NA#,NA,NA,NA,NA,NA,NA,NA,X00eT#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X30L7#,Leukaemic infiltrate of kidney,NA#,NA,NA,NA,NA,NA,NA,NA,X30L7#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X30L8#,Lymphoma of kidney,NA#,NA,NA,NA,NA,NA,NA,NA,X30L8#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X78e2#,Leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,X78e2#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X78hl#,Cutaneous lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,X78hl#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X78hm#,Mycosis fungoides of skin,NA#,NA,NA,NA,NA,NA,NA,NA,X78hm#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+X78hn#,Sezary's disease of skin,NA#,NA,NA,NA,NA,NA,NA,NA,X78hn#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0bR#,Malignant lymphoma of thyroid gland,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0bR#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0bS#,Malignant lymphoma of breast,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0bS#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Dd#,Lymphoma of intestine,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Dd#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0DX#,Gastric lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0DX#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0eB#,Hypergranular promyelocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0eB#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0eC#,Erythraemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0eC#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0jn#,Acute biphenotypic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0jn#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0QI#,Lymphoproliferative disorder,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0QI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0QP#,B-cell chronic lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0QP#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0QQ#,B-cell chronic lymphocytic leukaemia variant,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0QQ#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Ri#,Malignant white blood cell disorder,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Ri#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Rk#,T-cell chronic lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Rk#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Rn#,Chronic lymphocytic prolymphocytic leukaemia syndrome,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Rn#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Ro#,Richter's syndrome,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Ro#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Rp#,Splenic lymphoma with villous lymphocytes,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Rp#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0S9#,T-cell prolymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0S9#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SA#,Hairy cell leukaemia variant,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SA#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SB#,Large granular lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SB#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SC#,Lymphoma with spill,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SC#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SD#,B-cell acute lymphoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SD#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SE#,Pre B-cell acute lymphoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SE#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SF#,Common acute lymphoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SF#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SG#,Null cell acute lymphoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SG#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SH#,T-cell acute lymphoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SH#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sk#,Acute myeloblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sk#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SL#,Light chain myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SL#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sl#,Acute monoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sl#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SM#,Heavy chain disease,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SM#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sm#,Acute megakaryoblastic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sm#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SN#,Non-secretory myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SN#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sn#,Acute eosinophilic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sn#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0So#,Acute myelofibrosis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0So#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SP#,Myeloproliferative disorder,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SP#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0St#,"Hodgkin's disease, lymphocytic predominance - nodular",NA#,NA,NA,NA,NA,NA,NA,NA,Xa0St#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Su#,"Hodgkin's disease, lymphocytic predominance - diffuse",NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Su#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SV#,Juvenile chronic myeloid leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SV#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sv#,"Hodgkin's disease, nodular sclerosis - lymphocytic predominance",NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sv#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sw#,"Hodgkin's disease, nodular sclerosis - mixed cellularity",NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sw#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SX#,Atypical chronic myeloid leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SX#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sx#,"Hodgkin's disease, nodular sclerosis - lymphocytic depletion",NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sx#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SY#,Myelodysplastic syndrome,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SY#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sy#,B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sy#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sz#,Cutaneous/peripheral T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sz#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T0#,Prethymic and thymic T-cell lymphoma/leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T0#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T1#,Low grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T1#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T2#,Diffuse low grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T2#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T3#,High grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T3#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T4#,Follicular low grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T4#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T5#,B-cell prolymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T5#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T7#,Malignant lymphomatous polyposis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T7#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T8#,Mucosa-associated lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T8#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0T9#,Monocytoid B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0T9#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TA#,Follicular malignant lymphoma - mixed cell type,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TA#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TD#,Follicular malignant lymphoma - small cleaved cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TD#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TE#,Diffuse high grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TE#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TF#,Nodular high grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TF#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TG#,Diffuse malignant lymphoma - large cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TG#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TH#,Diffuse malignant lymphoma - large cleaved cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TH#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Th#,Peripheral T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Th#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TI#,Diffuse malignant lymphoma - large non-cleaved cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Ti#,T-zone lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Ti#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Tj#,Lymphoepithelioid lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Tj#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Tk#,Angioimmunoblastic lymphadenopathy with dysproteinaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Tk#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TM#,Diffuse malignant lymphoma - centroblastic polymorphic,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TM#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0To#,Angiocentric T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0To#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TP#,Malignant lymphoma - lymphoblastic,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TP#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Tr#,Peripheral T-cell lymphoma - pleomorphic small cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Tr#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TS#,Large cell anaplastic lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TS#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Tt#,Peripheral T-cell lymphoma - pleomorphic medium and large cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Tt#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Tu#,Enteropathy-associated T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Tu#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TX#,Follicular malignant lymphoma - large cell,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TX#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TY#,Low grade T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TY#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0TZ#,High grade T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0TZ#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0U5#,Malignant lymphoma of testis,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0U5#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa36a#,IgA myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa36a#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa36b#,IgG myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa36b#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa36c#,IgD myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa36c#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3Ea#,Acute myeloblastic leukaemia without maturation,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3Ea#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3Ec#,Acute myeloblastic leukaemia with maturation,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3Ec#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3Ee#,Acute promyelocytic leukaemia - hypogranular variant,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3Ee#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3En#,Intermediate grade B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3En#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3EW#,Acute myeloblastic leukaemia - undifferentiated,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3EW#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa3HG#,Acute myelomonocytic leukaemia - eosinophilic variant,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3HG#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa8Jb#,T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa8Jb#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa99k#,Malignant lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,Xa99k#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa99l#,Malignant lymphoma - small lymphocytic,NA#,NA,NA,NA,NA,NA,NA,NA,Xa99l#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa99n#,Diffuse malignant lymphoma - centroblastic,NA#,NA,NA,NA,NA,NA,NA,NA,Xa99n#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa99w#,"Nodular malignant lymphoma, lymphocytic - well differentiated",NA#,NA,NA,NA,NA,NA,NA,NA,Xa99w#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa99z#,"Nodular malignant lymphoma, lymphocytic - intermediate differentiation",NA#,NA,NA,NA,NA,NA,NA,NA,Xa99z#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9AA#,Plasmacytoma - disorder,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9AA#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9AM#,Acute leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9AM#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9AN#,Subacute leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9AN#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9AO#,Chronic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9AO#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9AP#,Aleukaemic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9AP#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9EH#,"Malignant lymphoma, convoluted cell type",NA#,NA,NA,NA,NA,NA,NA,NA,Xa9EH#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9FC#,"Malignant lymphoma, follicular centre cell",NA#,NA,NA,NA,NA,NA,NA,NA,Xa9FC#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9FD#,"Malignant lymphoma, follicular centre cell, cleaved",NA#,NA,NA,NA,NA,NA,NA,NA,Xa9FD#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa9FE#,"Malignant lymphoma, follicular centre cell, non-cleaved",NA#,NA,NA,NA,NA,NA,NA,NA,Xa9FE#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xaa1N#,Clinical stage A chronic lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa1N#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xaa1O#,Clinical stage B chronic lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa1O#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xaa1P#,Clinical stage C chronic lymphocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa1P#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaB47#,Atypical hairy cell leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaB47#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBAk#,Malignant mastocytosis,NA#,NA,NA,NA,NA,NA,NA,NA,XaBAk#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBAl#,Erythroleukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaBAl#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBAm#,Basophilic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaBAm#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBB3#,Plasma cell leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaBB3#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBb#,"Hodgkin's disease, lymphocytic depletion, reticular type",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBb#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBC#,Neutrophilic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBC#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBc#,"Hodgkin's disease, nodular sclerosis - cellular phase",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBc#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBd#,"Malignant lymphoma, mixed lymphocytic-histiocytic, nodular",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBd#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBf#,"Malignant lymphoma, centroblastic-centrocytic, follicular",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBf#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBM#,Prolymphocytic lymphosarcoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBM#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBN#,Malignant lymphoma - lymphoplasmacytic,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBN#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBO#,Diffuse malignant lymphoma - centroblastic-centrocytic,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBO#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBo#,"Malignant lymphoma, lymphocytic, poorly differentiated, nodular",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBo#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBP#,Malignant lymphoma - centrocytic,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBP#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBp#,"Malignant lymphoma, centroblastic type, follicular",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBp#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBt#,Myelosclerosis with myeloid metaplasia,NA#,NA,NA,NA,NA,NA,NA,NA,XaBBt#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBBZ#,"Hodgkin's disease, lymphocytic depletion, diffuse fibrosis",NA#,NA,NA,NA,NA,NA,NA,NA,XaBBZ#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBLw#,Follicular non-Hodgkin's lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaBLw#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaBLx#,Plasmacytoma NOS,NA#,NA,NA,NA,NA,NA,NA,NA,XaBLx#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaELI#,Lambda light chain myeloma,NA#,NA,NA,NA,NA,NA,NA,NA,XaELI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaF1E#,Leukaemic infiltrate of choroid,NA#,NA,NA,NA,NA,NA,NA,NA,XaF1E#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaF26#,Leukaemic infiltrate of retina,NA#,NA,NA,NA,NA,NA,NA,NA,XaF26#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaPQD#,Mantle cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaPQD#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYdL#,Juvenile myelomonocytic leukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XaYdL#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYgm#,Primary mediastinal (thymic) large B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYgm#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYi5#,Diffuse follicle centre lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYi5#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYii#,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,NA#,NA,NA,NA,NA,NA,NA,NA,XaYii#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYiI#,Anaplastic lymphoma kinase negative anaplastic large cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYiI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYij#,Follicular lymphoma grade 1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYij#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYiK#,Myelodysplastic and myeloproliferative disease,NA#,NA,NA,NA,NA,NA,NA,NA,XaYiK#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYiL#,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYiL#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYil#,Follicular lymphoma grade 3a,NA#,NA,NA,NA,NA,NA,NA,NA,XaYil#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYim#,Follicular lymphoma grade 3b,NA#,NA,NA,NA,NA,NA,NA,NA,XaYim#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYin#,Cutaneous follicle centre lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYin#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYiN#,Hepatosplenic T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYiN#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYis#,"Atypical chronic myeloid leukaemia, BCR/ABL negative",NA#,NA,NA,NA,NA,NA,NA,NA,XaYis#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYj0#,"Chronic myelogenous leukaemia, BCR/ABL positive",NA#,NA,NA,NA,NA,NA,NA,NA,XaYj0#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYj4#,Acute myeloid leukaemia with myelodysplasia-related changes,NA#,NA,NA,NA,NA,NA,NA,NA,XaYj4#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYj9#,Acute myeloid leukaemia with 11q23 abnormality,NA#,NA,NA,NA,NA,NA,NA,NA,XaYj9#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYje#,"Extranodal natural killer/T-cell lymphoma, nasal type",NA#,NA,NA,NA,NA,NA,NA,NA,XaYje#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYjf#,Subcutaneous panniculitic T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYjf#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYjI#,Primary cutaneous CD30 antigen positive large T-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaYjI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaZdD#,Follicular lymphoma grade 3,NA#,NA,NA,NA,NA,NA,NA,NA,XaZdD#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaZdF#,Follicular lymphoma grade 2,NA#,NA,NA,NA,NA,NA,NA,NA,XaZdF#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaZdn#,Diffuse large B-cell lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaZdn#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaZfR#,Adult T-cell leukaemia/lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XaZfR#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE1vp#,Nodular lymphoma,NA#,NA,NA,NA,NA,NA,NA,NA,XE1vp#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE1vr#,Chronic erythraemia,NA#,NA,NA,NA,NA,NA,NA,NA,XE1vr#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE20N#,Multiple myeloma etc.,NA#,NA,NA,NA,NA,NA,NA,NA,XE20N#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE20T#,Leukaemia - specif. cell NOS,NA#,NA,NA,NA,NA,NA,NA,NA,XE20T#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE2bV#,Malignant lymphoma - immunoblastic,NA#,NA,NA,NA,NA,NA,NA,NA,XE2bV#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE2t9#,"[X]Non-Hodgkin's lymphoma, unspecified type",NA#,NA,NA,NA,NA,NA,NA,NA,XE2t9#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XE2vi#,Acute erythraemia and erythroleukaemia,NA#,NA,NA,NA,NA,NA,NA,NA,XE2vi#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XM1FM#,"Malignant lymphoma - lymphocytic, intermediate differentiation",NA#,NA,NA,NA,NA,NA,NA,NA,XM1FM#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6002#,Reticulosarcoma of intrathoracic lymph nodes,157747014#,Reticulosarcoma of intrathoracic lymph nodes,B6002,B600200,95226002,157747014,NA,32,B600200#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6004#,Reticulosarcoma of lymph nodes of axilla and upper limb,289585014#,Reticulosarcoma of lymph nodes of axilla and upper limb,B6004,B600400,188492005,289585014,NA,32,B600400#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6005#,Reticulosarcoma of lymph nodes of inguinal region and lower limb,169651000006115#,Reticulosarcoma of lymph nodes of inguinal region and lower limb,B6005,B600500,188493000,289586010,NA,32,B600500#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6006#,Reticulosarcoma of intrapelvic lymph nodes,157746017#,Reticulosarcoma of intrapelvic lymph nodes,B6006,B600600,95225003,157746017,NA,32,B600600#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B6008#,Reticulosarcoma of lymph nodes of multiple sites,157751011#,Reticulosarcoma of lymph nodes of multiple sites,B6008,B600800,95230004,157751011,NA,32,B600800#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Se#,Refractory anaemia with ringed sideroblasts,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Se#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sf#,Refractory anaemia with excess blasts,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sf#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sg#,Refractory anaemia with excess blasts in transformation,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sg#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0Sh#,5Q minus syndrome,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Sh#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xa0SI#,Plasma cell disorder,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0SI#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+XaYv2#,Refractory anaemia with multilineage dysplasia,NA#,NA,NA,NA,NA,NA,NA,NA,XaYv2#,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

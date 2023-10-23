@@ -1,0 +1,17 @@
+readcode,term_readcode,v2,ctv3,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+K200.#,Prostatic hyperplasia unspecified,1,1,2,304382014#,Hyperplasia of prostate,K200,K200.00,433234005,2769992019,NA,32,K200.00#
+K201.#,Prostatic hyperplasia of the lateral lobe,1,1,2,304383016#,Prostatic hyperplasia of the lateral lobe,K201,K201.00,197959008,304383016,NA,32,K201.00#
+K202.#,Prostatic hyperplasia of the medial lobe,1,1,2,304384010#,Prostatic hyperplasia of the medial lobe,K202,K202.00,197960003,304384010,NA,32,K202.00#
+K20z.#,Prostatic hyperplasia NOS,1,1,2,304385011#,Prostatic hyperplasia NOS,K20z,K20z.00,433234005,2769992019,NA,32,K20z.00#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,19794011#,Prostatism,K20-6,K20..16,11441004,19794011,NA,32,K20..16#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,504861000006113#,Benign fibroma of prostate,K20-2,K20..12,47014000,78361016,NA,32,K20..12#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,505011000006115#,Benign myoma of prostate,K20-3,K20..13,81021006,134409015,NA,32,K20..13#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,266569009,396731012,NA,32,K20..14#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,396738018#,Benign prostatic hypertrophy,K20,K20..00,266569009,396738018,NA,32,K20..00#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,266569009,396738018,NA,32,K20..15#
+K20..#,BPH - benign prostatic hypertrophy,1,0,1,35586019#,Benign adenoma of prostate,K20-1,K20..11,21173002,35586019,NA,32,K20..11#
+XE0e6#,Benign prostatic hyperplasia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0e6#
+XaYyh#,Benign myoma of prostate,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYyh#
+XaYyg#,Benign fibroma of prostate,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYyg#
+X30O0#,Benign prostatic hypertroph with outflow obstruction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X30O0#
+X78YD#,Benign prostatic hypertroph without outflow obstruction,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X78YD#

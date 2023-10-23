@@ -1,0 +1,571 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+162974009#,O/E - fibrosis of lung,254002014#,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,254002014,NA,27
+162974009#,O/E - fibrosis of lung,254002014#,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,254003016,NA,27
+162974009#,O/E - fibrosis of lung,254002014#,1,1,2,4555561000006111#,On examination - fibrosis of lung present,^ESCTON455556,NA,2668607013,NA,27
+162974009#,O/E - fibrosis of lung present,254003016#,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,254002014,NA,27
+162974009#,O/E - fibrosis of lung present,254003016#,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,254003016,NA,27
+162974009#,O/E - fibrosis of lung present,254003016#,1,1,2,4555561000006111#,On examination - fibrosis of lung present,^ESCTON455556,NA,2668607013,NA,27
+162974009#,On examination - fibrosis of lung present (context-dependent category),544140014#,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,254002014,NA,27
+162974009#,On examination - fibrosis of lung present (context-dependent category),544140014#,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,254003016,NA,27
+162974009#,On examination - fibrosis of lung present (context-dependent category),544140014#,1,1,2,4555561000006111#,On examination - fibrosis of lung present,^ESCTON455556,NA,2668607013,NA,27
+162974009#,On examination - fibrosis of lung present (disorder),2561168010#,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,254002014,NA,27
+162974009#,On examination - fibrosis of lung present (disorder),2561168010#,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,254003016,NA,27
+162974009#,On examination - fibrosis of lung present (disorder),2561168010#,1,1,2,4555561000006111#,On examination - fibrosis of lung present,^ESCTON455556,NA,2668607013,NA,27
+162974009#,On examination - fibrosis of lung present,2668607013#,1,1,2,254002014#,O/E - fibrosis of lung,23E5-1,23E5.11,254002014,NA,27
+162974009#,On examination - fibrosis of lung present,2668607013#,1,1,2,254003016#,O/E - fibrosis of lung present,2.30E+06,23E5.00,254003016,NA,27
+162974009#,On examination - fibrosis of lung present,2668607013#,1,1,2,4555561000006111#,On examination - fibrosis of lung present,^ESCTON455556,NA,2668607013,NA,27
+266368002#,Post-inflammatory pulmonary fibrosis,396123011#,1,1,2,211391000006118#,Post-inflammatory pulmonary fibrosis,H55,H55..00,396123011,NA,32
+266368002#,Post-inflammatory pulmonary fibrosis,396123011#,1,1,2,85961019#,Cirrhosis of lung,H55-1,H55..11,396123011,NA,32
+266368002#,Post-inflammatory pulmonary fibrosis,396123011#,1,1,2,5492481000006115#,Postinflammatory pulmonary fibrosis,^ESCTPO549248,NA,3035384014,NA,32
+266368002#,Post-inflammatory pulmonary fibrosis (disorder),658855019#,1,1,2,211391000006118#,Post-inflammatory pulmonary fibrosis,H55,H55..00,396123011,NA,32
+266368002#,Post-inflammatory pulmonary fibrosis (disorder),658855019#,1,1,2,85961019#,Cirrhosis of lung,H55-1,H55..11,396123011,NA,32
+266368002#,Post-inflammatory pulmonary fibrosis (disorder),658855019#,1,1,2,5492481000006115#,Postinflammatory pulmonary fibrosis,^ESCTPO549248,NA,3035384014,NA,32
+266368002#,Postinflammatory pulmonary fibrosis,3035384014#,1,1,2,211391000006118#,Post-inflammatory pulmonary fibrosis,H55,H55..00,396123011,NA,32
+266368002#,Postinflammatory pulmonary fibrosis,3035384014#,1,1,2,85961019#,Cirrhosis of lung,H55-1,H55..11,396123011,NA,32
+266368002#,Postinflammatory pulmonary fibrosis,3035384014#,1,1,2,5492481000006115#,Postinflammatory pulmonary fibrosis,^ESCTPO549248,NA,3035384014,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis,301706014#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis,301706014#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis,301706014#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis,301706014#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis,301706014#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+196125002#,DIPF - Diffuse interstitial pulmonary fibrosis,301707017#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,DIPF - Diffuse interstitial pulmonary fibrosis,301707017#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,DIPF - Diffuse interstitial pulmonary fibrosis,301707017#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,DIPF - Diffuse interstitial pulmonary fibrosis,301707017#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,DIPF - Diffuse interstitial pulmonary fibrosis,301707017#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+196125002#,Fibrosing alveolitis,301708010#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,Fibrosing alveolitis,301708010#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,Fibrosing alveolitis,301708010#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,Fibrosing alveolitis,301708010#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,Fibrosing alveolitis,301708010#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis (disorder),580317013#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis (disorder),580317013#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis (disorder),580317013#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis (disorder),580317013#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,Diffuse interstitial pulmonary fibrosis (disorder),580317013#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+196125002#,Usual interstitial pneumonitis,2475606014#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,Usual interstitial pneumonitis,2475606014#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,Usual interstitial pneumonitis,2475606014#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,Usual interstitial pneumonitis,2475606014#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,Usual interstitial pneumonitis,2475606014#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+196125002#,UIP - Usual interstitial pneumonitis,2475607017#,1,1,2,2475606014#,Usual interstitial pneumonitis,H5633,H563300,2475606014,NA,32
+196125002#,UIP - Usual interstitial pneumonitis,2475607017#,1,1,2,4782361000006119#,UIP - Usual interstitial pneumonitis,^ESCTUI478236,NA,2475607017,NA,32
+196125002#,UIP - Usual interstitial pneumonitis,2475607017#,1,1,2,621121000006112#,Diffuse interstitial pulmonary fibrosis,H5631,H563100,301706014,NA,32
+196125002#,UIP - Usual interstitial pneumonitis,2475607017#,1,1,2,4782341000006118#,Fibrosing alveolitis,^ESCTFI478234,NA,301708010,NA,32
+196125002#,UIP - Usual interstitial pneumonitis,2475607017#,1,1,2,4782331000006111#,DIPF - Diffuse interstitial pulmonary fibrosis,^ESCTDI478233,NA,301707017,NA,32
+700250006#,Usual interstitial pneumonia,2989702012#,1,1,2,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,2989718018,NA,32
+700250006#,Usual interstitial pneumonia,2989702012#,1,1,2,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,2989716019,NA,32
+700250006#,Usual interstitial pneumonia,2989702012#,1,1,2,7532701000006115#,Usual interstitial pneumonia,^ESCTUS753270,NA,2989702012,NA,32
+700250006#,Usual interstitial pneumonia,2989702012#,1,1,2,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,2989760019,NA,32
+700250006#,Usual interstitial pneumonia,2989702012#,1,1,2,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,2989716019,NA,32
+700250006#,Idiopathic fibrosing alveolitis,2989716019#,1,1,2,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,2989718018,NA,32
+700250006#,Idiopathic fibrosing alveolitis,2989716019#,1,1,2,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,2989716019,NA,32
+700250006#,Idiopathic fibrosing alveolitis,2989716019#,1,1,2,7532701000006115#,Usual interstitial pneumonia,^ESCTUS753270,NA,2989702012,NA,32
+700250006#,Idiopathic fibrosing alveolitis,2989716019#,1,1,2,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,2989760019,NA,32
+700250006#,Idiopathic fibrosing alveolitis,2989716019#,1,1,2,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,2989716019,NA,32
+700250006#,Cryptogenic fibrosing alveolitis,2989718018#,1,1,2,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,2989718018,NA,32
+700250006#,Cryptogenic fibrosing alveolitis,2989718018#,1,1,2,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,2989716019,NA,32
+700250006#,Cryptogenic fibrosing alveolitis,2989718018#,1,1,2,7532701000006115#,Usual interstitial pneumonia,^ESCTUS753270,NA,2989702012,NA,32
+700250006#,Cryptogenic fibrosing alveolitis,2989718018#,1,1,2,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,2989760019,NA,32
+700250006#,Cryptogenic fibrosing alveolitis,2989718018#,1,1,2,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,2989716019,NA,32
+700250006#,Idiopathic pulmonary fibrosis (disorder),2989759012#,1,1,2,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,2989718018,NA,32
+700250006#,Idiopathic pulmonary fibrosis (disorder),2989759012#,1,1,2,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,2989716019,NA,32
+700250006#,Idiopathic pulmonary fibrosis (disorder),2989759012#,1,1,2,7532701000006115#,Usual interstitial pneumonia,^ESCTUS753270,NA,2989702012,NA,32
+700250006#,Idiopathic pulmonary fibrosis (disorder),2989759012#,1,1,2,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,2989760019,NA,32
+700250006#,Idiopathic pulmonary fibrosis (disorder),2989759012#,1,1,2,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,2989716019,NA,32
+700250006#,Idiopathic pulmonary fibrosis,2989760019#,1,1,2,196654011#,Cryptogenic fibrosing alveolitis,H563-2,H563.12,2989718018,NA,32
+700250006#,Idiopathic pulmonary fibrosis,2989760019#,1,1,2,301709019#,Idiopathic fibrosing alveolitis NOS,H563z,H563z00,2989716019,NA,32
+700250006#,Idiopathic pulmonary fibrosis,2989760019#,1,1,2,7532701000006115#,Usual interstitial pneumonia,^ESCTUS753270,NA,2989702012,NA,32
+700250006#,Idiopathic pulmonary fibrosis,2989760019#,1,1,2,1786131000006116#,Idiopathic pulmonary fibrosis,H563-3,H563.13,2989760019,NA,32
+700250006#,Idiopathic pulmonary fibrosis,2989760019#,1,1,2,75302014#,Idiopathic fibrosing alveolitis,H563,H563.00,2989716019,NA,32
+236302005#,Acute interstitial pneumonia,354232012#,1,1,2,5092491000006112#,Acute interstitial pneumonia,^ESCTAC509249,NA,354232012,NA,32
+236302005#,Acute interstitial pneumonia,354232012#,1,1,2,815341000006115#,Hamman Rich syndrome,H563-1,H563.11,2579204016,NA,32
+236302005#,"Idiopathic pulmonary fibrosis, acute fatal form",354233019#,1,1,2,5092491000006112#,Acute interstitial pneumonia,^ESCTAC509249,NA,354232012,NA,32
+236302005#,"Idiopathic pulmonary fibrosis, acute fatal form",354233019#,1,1,2,815341000006115#,Hamman Rich syndrome,H563-1,H563.11,2579204016,NA,32
+236302005#,Acute interstitial pneumonia (disorder),624877010#,1,1,2,5092491000006112#,Acute interstitial pneumonia,^ESCTAC509249,NA,354232012,NA,32
+236302005#,Acute interstitial pneumonia (disorder),624877010#,1,1,2,815341000006115#,Hamman Rich syndrome,H563-1,H563.11,2579204016,NA,32
+236302005#,Hamman Rich syndrome,2579204016#,1,1,2,5092491000006112#,Acute interstitial pneumonia,^ESCTAC509249,NA,354232012,NA,32
+236302005#,Hamman Rich syndrome,2579204016#,1,1,2,815341000006115#,Hamman Rich syndrome,H563-1,H563.11,2579204016,NA,32
+51615001#,Fibrosis of lung,85957013#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,Fibrosis of lung,85957013#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,Fibrosis of lung,85957013#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,Fibrosis of lung,85957013#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+51615001#,"Fibrosis of lung, NOS",85958015#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,"Fibrosis of lung, NOS",85958015#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,"Fibrosis of lung, NOS",85958015#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,"Fibrosis of lung, NOS",85958015#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+51615001#,"Cirrhosis of lung, NOS",85959011#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,"Cirrhosis of lung, NOS",85959011#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,"Cirrhosis of lung, NOS",85959011#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,"Cirrhosis of lung, NOS",85959011#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+51615001#,Pulmonary fibrosis,85960018#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,Pulmonary fibrosis,85960018#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,Pulmonary fibrosis,85960018#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,Pulmonary fibrosis,85960018#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+51615001#,Cirrhosis of lung,85961019#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,Cirrhosis of lung,85961019#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,Cirrhosis of lung,85961019#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,Cirrhosis of lung,85961019#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+51615001#,Fibrosis of lung (disorder),789534012#,1,1,2,885491000006116#,Pulmonary fibrosis,H5631-99,H563199,885000000000000,NA,32
+51615001#,Fibrosis of lung (disorder),789534012#,1,1,2,3336391000006117#,Fibrosis of lung,^ESCTFI333639,NA,85957013,NA,32
+51615001#,Fibrosis of lung (disorder),789534012#,1,1,2,85960018#,Pulmonary fibrosis,H5632,H563200,85960018,NA,32
+51615001#,Fibrosis of lung (disorder),789534012#,1,1,2,3336411000006117#,Cirrhosis of lung,^ESCTCI333641,NA,85961019,NA,32
+90117007#,Tuberculous fibrosis of lung,149374011#,1,1,2,149374011#,Tuberculous fibrosis of lung,A114,A114.00,149374011,NA,32
+90117007#,Tuberculous fibrosis of lung (disorder),833154010#,1,1,2,149374011#,Tuberculous fibrosis of lung,A114,A114.00,149374011,NA,32
+40640008#,Massive silicotic fibrosis of lung,67787015#,1,1,2,301555015#,Massive silicotic fibrosis,H423,H423.00,67787015,NA,32
+40640008#,Massive silicotic fibrosis of lung,67787015#,1,1,2,3154161000006113#,Massive fibrosis of lung co-occurrent and due to silicosis,^ESCTMA315416,NA,3451528014,NA,32
+40640008#,Massive silicotic fibrosis of lung,67787015#,1,1,2,3154151000006111#,Massive silicotic fibrosis of lung,^ESCTMA315415,NA,67787015,NA,32
+40640008#,Massive silicotic fibrosis of lung (disorder),777325016#,1,1,2,301555015#,Massive silicotic fibrosis,H423,H423.00,67787015,NA,32
+40640008#,Massive silicotic fibrosis of lung (disorder),777325016#,1,1,2,3154161000006113#,Massive fibrosis of lung co-occurrent and due to silicosis,^ESCTMA315416,NA,3451528014,NA,32
+40640008#,Massive silicotic fibrosis of lung (disorder),777325016#,1,1,2,3154151000006111#,Massive silicotic fibrosis of lung,^ESCTMA315415,NA,67787015,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis (disorder),3451527016#,1,1,2,301555015#,Massive silicotic fibrosis,H423,H423.00,67787015,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis (disorder),3451527016#,1,1,2,3154161000006113#,Massive fibrosis of lung co-occurrent and due to silicosis,^ESCTMA315416,NA,3451528014,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis (disorder),3451527016#,1,1,2,3154151000006111#,Massive silicotic fibrosis of lung,^ESCTMA315415,NA,67787015,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis,3451528014#,1,1,2,301555015#,Massive silicotic fibrosis,H423,H423.00,67787015,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis,3451528014#,1,1,2,3154161000006113#,Massive fibrosis of lung co-occurrent and due to silicosis,^ESCTMA315416,NA,3451528014,NA,32
+40640008#,Massive fibrosis of lung co-occurrent and due to silicosis,3451528014#,1,1,2,3154151000006111#,Massive silicotic fibrosis of lung,^ESCTMA315415,NA,67787015,NA,32
+196028003#,Chronic pulmonary fibrosis due to chemical fumes,301575012#,1,1,2,301575012#,Chronic pulmonary fibrosis due to chemical fumes,H4642,H464200,301575012,NA,32
+196028003#,Chronic pulmonary fibrosis due to chemical fumes,301575012#,1,1,2,4781861000006119#,Chronic pulmonary fibrosis caused by chemical fumes,^ESCTCH478186,NA,3296238013,NA,32
+196028003#,Chronic pulmonary fibrosis due to chemical fumes (disorder),580207017#,1,1,2,301575012#,Chronic pulmonary fibrosis due to chemical fumes,H4642,H464200,301575012,NA,32
+196028003#,Chronic pulmonary fibrosis due to chemical fumes (disorder),580207017#,1,1,2,4781861000006119#,Chronic pulmonary fibrosis caused by chemical fumes,^ESCTCH478186,NA,3296238013,NA,32
+196028003#,Chronic pulmonary fibrosis caused by chemical fumes (disorder),3292813012#,1,1,2,301575012#,Chronic pulmonary fibrosis due to chemical fumes,H4642,H464200,301575012,NA,32
+196028003#,Chronic pulmonary fibrosis caused by chemical fumes (disorder),3292813012#,1,1,2,4781861000006119#,Chronic pulmonary fibrosis caused by chemical fumes,^ESCTCH478186,NA,3296238013,NA,32
+196028003#,Chronic pulmonary fibrosis caused by chemical fumes,3296238013#,1,1,2,301575012#,Chronic pulmonary fibrosis due to chemical fumes,H4642,H464200,301575012,NA,32
+196028003#,Chronic pulmonary fibrosis caused by chemical fumes,3296238013#,1,1,2,4781861000006119#,Chronic pulmonary fibrosis caused by chemical fumes,^ESCTCH478186,NA,3296238013,NA,32
+71193007#,Fibrosis of lung following radiation,118220019#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Fibrosis of lung following radiation,118220019#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Fibrosis of lung following radiation,118220019#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Fibrosis of lung following radiation,118220019#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+71193007#,Radiation fibrosis of lung,118221015#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Radiation fibrosis of lung,118221015#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Radiation fibrosis of lung,118221015#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Radiation fibrosis of lung,118221015#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+71193007#,Fibrosis of lung following radiation (disorder),811332016#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Fibrosis of lung following radiation (disorder),811332016#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Fibrosis of lung following radiation (disorder),811332016#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Fibrosis of lung following radiation (disorder),811332016#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+71193007#,Chronic radiation pulmonary fibrosis,1233362012#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Chronic radiation pulmonary fibrosis,1233362012#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Chronic radiation pulmonary fibrosis,1233362012#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Chronic radiation pulmonary fibrosis,1233362012#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+71193007#,Fibrosis of lung caused by radiation,3736370015#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Fibrosis of lung caused by radiation,3736370015#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Fibrosis of lung caused by radiation,3736370015#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Fibrosis of lung caused by radiation,3736370015#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+71193007#,Fibrosis of lung caused by radiation (disorder),3736371016#,1,1,2,556271000006115#,Chronic radiation pulmonary fibrosis,H4y10,H4y1000,1233362012,NA,32
+71193007#,Fibrosis of lung caused by radiation (disorder),3736371016#,1,1,2,3657911000006119#,Radiation fibrosis of lung,^ESCTRA365791,NA,118221015,NA,32
+71193007#,Fibrosis of lung caused by radiation (disorder),3736371016#,1,1,2,3657901000006117#,Fibrosis of lung following radiation,^ESCTFI365790,NA,118220019,NA,32
+71193007#,Fibrosis of lung caused by radiation (disorder),3736371016#,1,1,2,885431000006115#,Radiation lung fibrosis,H4y10-99,H4y1099,885000000000000,NA,32
+90610005#,Interstitial pulmonary fibrosis of prematurity,150170014#,1,1,2,207831000006116#,Interstitial pulmonary fibrosis of prematurity,Q3171,Q317100,150170014,NA,32
+90610005#,Interstitial pulmonary fibrosis of prematurity (disorder),833751011#,1,1,2,207831000006116#,Interstitial pulmonary fibrosis of prematurity,Q3171,Q317100,150170014,NA,32
+233724002#,Chemical-induced diffuse interstitial pulmonary fibrosis,350221016#,1,1,2,5054921000006119#,Toxic diffuse interstitial pulmonary fibrosis,^ESCTTO505492,NA,350222011,NA,31
+233724002#,Chemical-induced diffuse interstitial pulmonary fibrosis,350221016#,1,1,2,5054931000006116#,Chemical-induced diffuse interstitial pulmonary fibrosis,^ESCTCH505493,NA,350221016,NA,31
+233724002#,Toxic diffuse interstitial pulmonary fibrosis,350222011#,1,1,2,5054921000006119#,Toxic diffuse interstitial pulmonary fibrosis,^ESCTTO505492,NA,350222011,NA,31
+233724002#,Toxic diffuse interstitial pulmonary fibrosis,350222011#,1,1,2,5054931000006116#,Chemical-induced diffuse interstitial pulmonary fibrosis,^ESCTCH505493,NA,350221016,NA,31
+233724002#,Toxic diffuse interstitial pulmonary fibrosis (disorder),621947016#,1,1,2,5054921000006119#,Toxic diffuse interstitial pulmonary fibrosis,^ESCTTO505492,NA,350222011,NA,31
+233724002#,Toxic diffuse interstitial pulmonary fibrosis (disorder),621947016#,1,1,2,5054931000006116#,Chemical-induced diffuse interstitial pulmonary fibrosis,^ESCTCH505493,NA,350221016,NA,31
+233725001#,Drug-induced diffuse interstitial pulmonary fibrosis,350223018#,1,1,2,5054941000006114#,Drug-induced diffuse interstitial pulmonary fibrosis,^ESCTDR505494,NA,350223018,NA,31
+233725001#,Drug-induced diffuse interstitial pulmonary fibrosis (disorder),621948014#,1,1,2,5054941000006114#,Drug-induced diffuse interstitial pulmonary fibrosis,^ESCTDR505494,NA,350223018,NA,31
+233726000#,Localised pulmonary fibrosis,350224012#,1,1,2,5054961000006113#,Localized pulmonary fibrosis,^ESCTLO505496,NA,350225013,NA,31
+233726000#,Localised pulmonary fibrosis,350224012#,1,1,2,5054951000006111#,Localised pulmonary fibrosis,^ESCTLO505495,NA,350224012,NA,31
+233726000#,Localized pulmonary fibrosis,350225013#,1,1,2,5054961000006113#,Localized pulmonary fibrosis,^ESCTLO505496,NA,350225013,NA,31
+233726000#,Localized pulmonary fibrosis,350225013#,1,1,2,5054951000006111#,Localised pulmonary fibrosis,^ESCTLO505495,NA,350224012,NA,31
+233726000#,Localized pulmonary fibrosis (disorder),621949018#,1,1,2,5054961000006113#,Localized pulmonary fibrosis,^ESCTLO505496,NA,350225013,NA,31
+233726000#,Localized pulmonary fibrosis (disorder),621949018#,1,1,2,5054951000006111#,Localised pulmonary fibrosis,^ESCTLO505495,NA,350224012,NA,31
+233727009#,Mediastinal radiation fibrosis,350226014#,1,1,2,5054971000006118#,Mediastinal radiation fibrosis,^ESCTME505497,NA,350226014,NA,31
+233727009#,Mediastinal radiation fibrosis (disorder),621950018#,1,1,2,5054971000006118#,Mediastinal radiation fibrosis,^ESCTME505497,NA,350226014,NA,31
+196124003#,Alveolar capillary block,301705013#,1,1,2,301705013#,Alveolar capillary block,H5630,H563000,301705013,NA,32
+196124003#,Alveolar capillary block (disorder),580316016#,1,1,2,301705013#,Alveolar capillary block,H5630,H563000,301705013,NA,32
+8549006#,Desquamative interstitial pneumonia,15098014#,1,1,2,1772931000006114#,Desquamative interstitial pneumonia,EMISNQDE25,NA,15098014,NA,32
+8549006#,Desquamative interstitial pneumonia,15098014#,1,1,2,2636481000006110#,DIP - Desquamative interstitial pneumonitis,^ESCTDI263648,NA,1235039016,NA,31
+8549006#,Desquamative interstitial pneumonia,15098014#,1,1,2,2636471000006112#,Desquamative interstitial pneumonitis,^ESCTDE263647,NA,15099018,NA,31
+8549006#,Desquamative interstitial pneumonitis,15099018#,1,1,2,1772931000006114#,Desquamative interstitial pneumonia,EMISNQDE25,NA,15098014,NA,32
+8549006#,Desquamative interstitial pneumonitis,15099018#,1,1,2,2636481000006110#,DIP - Desquamative interstitial pneumonitis,^ESCTDI263648,NA,1235039016,NA,31
+8549006#,Desquamative interstitial pneumonitis,15099018#,1,1,2,2636471000006112#,Desquamative interstitial pneumonitis,^ESCTDE263647,NA,15099018,NA,31
+8549006#,Desquamative interstitial pneumonia (disorder),827555013#,1,1,2,1772931000006114#,Desquamative interstitial pneumonia,EMISNQDE25,NA,15098014,NA,32
+8549006#,Desquamative interstitial pneumonia (disorder),827555013#,1,1,2,2636481000006110#,DIP - Desquamative interstitial pneumonitis,^ESCTDI263648,NA,1235039016,NA,31
+8549006#,Desquamative interstitial pneumonia (disorder),827555013#,1,1,2,2636471000006112#,Desquamative interstitial pneumonitis,^ESCTDE263647,NA,15099018,NA,31
+8549006#,DIP - Desquamative interstitial pneumonitis,1235039016#,1,1,2,1772931000006114#,Desquamative interstitial pneumonia,EMISNQDE25,NA,15098014,NA,32
+8549006#,DIP - Desquamative interstitial pneumonitis,1235039016#,1,1,2,2636481000006110#,DIP - Desquamative interstitial pneumonitis,^ESCTDI263648,NA,1235039016,NA,31
+8549006#,DIP - Desquamative interstitial pneumonitis,1235039016#,1,1,2,2636471000006112#,Desquamative interstitial pneumonitis,^ESCTDE263647,NA,15099018,NA,31
+44274007#,Lymphoid interstitial pneumonia,73846011#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,Lymphoid interstitial pneumonia,73846011#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,Lymphoid interstitial pneumonia,73846011#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,Lymphoid interstitial pneumonia,73846011#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,Lymphoid interstitial pneumonia,73846011#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+44274007#,Lymphocytic interstitial pneumonia,73847019#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,Lymphocytic interstitial pneumonia,73847019#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,Lymphocytic interstitial pneumonia,73847019#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,Lymphocytic interstitial pneumonia,73847019#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,Lymphocytic interstitial pneumonia,73847019#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+44274007#,Lymphoid interstitial pneumonitis,493829019#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,Lymphoid interstitial pneumonitis,493829019#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,Lymphoid interstitial pneumonitis,493829019#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,Lymphoid interstitial pneumonitis,493829019#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,Lymphoid interstitial pneumonitis,493829019#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+44274007#,LIP - Lymphoid interstitial pneumonitis,493830012#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,LIP - Lymphoid interstitial pneumonitis,493830012#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,LIP - Lymphoid interstitial pneumonitis,493830012#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,LIP - Lymphoid interstitial pneumonitis,493830012#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,LIP - Lymphoid interstitial pneumonitis,493830012#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+44274007#,Lymphoid interstitial pneumonia (disorder),781383014#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,Lymphoid interstitial pneumonia (disorder),781383014#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,Lymphoid interstitial pneumonia (disorder),781383014#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,Lymphoid interstitial pneumonia (disorder),781383014#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,Lymphoid interstitial pneumonia (disorder),781383014#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+44274007#,Idiopathic lymphocytic interstitial pneumonia,3047467017#,1,1,2,1772941000006116#,Lymphoid interstitial pneumonitis,EMISNQLY3,NA,493829019,NA,32
+44274007#,Idiopathic lymphocytic interstitial pneumonia,3047467017#,1,1,2,3213191000006112#,Lymphoid interstitial pneumonia,^ESCTLY321319,NA,73846011,NA,31
+44274007#,Idiopathic lymphocytic interstitial pneumonia,3047467017#,1,1,2,3213231000006119#,Idiopathic lymphocytic interstitial pneumonia,^ESCTID321323,NA,3047467017,NA,31
+44274007#,Idiopathic lymphocytic interstitial pneumonia,3047467017#,1,1,2,3213221000006117#,LIP - Lymphoid interstitial pneumonitis,^ESCTLI321322,NA,493830012,NA,31
+44274007#,Idiopathic lymphocytic interstitial pneumonia,3047467017#,1,1,2,3213201000006110#,Lymphocytic interstitial pneumonia,^ESCTLY321320,NA,73847019,NA,31
+192658007#,GIP - Giant cell interstitial pneumonitis,296797014#,1,1,2,4767781000006111#,GIP - Giant cell interstitial pneumonitis,^ESCTGI476778,NA,296797014,NA,31
+192658007#,GIP - Giant cell interstitial pneumonitis,296797014#,1,1,2,4767791000006114#,Giant cell interstitial pneumonitis,^ESCTGI476779,NA,2914015018,NA,31
+192658007#,GIP - Giant cell interstitial pneumonitis (disorder),576473019#,1,1,2,4767781000006111#,GIP - Giant cell interstitial pneumonitis,^ESCTGI476778,NA,296797014,NA,31
+192658007#,GIP - Giant cell interstitial pneumonitis (disorder),576473019#,1,1,2,4767791000006114#,Giant cell interstitial pneumonitis,^ESCTGI476779,NA,2914015018,NA,31
+192658007#,Giant cell interstitial pneumonitis,2914015018#,1,1,2,4767781000006111#,GIP - Giant cell interstitial pneumonitis,^ESCTGI476778,NA,296797014,NA,31
+192658007#,Giant cell interstitial pneumonitis,2914015018#,1,1,2,4767791000006114#,Giant cell interstitial pneumonitis,^ESCTGI476779,NA,2914015018,NA,31
+192658007#,Giant cell interstitial pneumonitis (disorder),2915021010#,1,1,2,4767781000006111#,GIP - Giant cell interstitial pneumonitis,^ESCTGI476778,NA,296797014,NA,31
+192658007#,Giant cell interstitial pneumonitis (disorder),2915021010#,1,1,2,4767791000006114#,Giant cell interstitial pneumonitis,^ESCTGI476779,NA,2914015018,NA,31
+233703007#,Interstitial lung disease,350185018#,0,1,1,301712016#,Other alveolar and parietoalveolar disease NOS,H56yz,H56yz00,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,301713014#,Alveolar and parietoalveolar disease NOS,H56z,H56z.00,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,413231000006111#,[X]Other resp diseases principally affecting interstitium,Hyu5,Hyu5.00,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,38841000006113#,Other alveolar and parietoalveolar disease,H56y,H56y.00,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,301758015#,Interstitial lung disease,H58y3,H58y300,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,5054591000006110#,ILD - Interstitial lung disease,^ESCTIL505459,NA,350186017,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,301699016#,Other alveolar and parietoalveolar disease,H56,H56..00,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,301852014#,[X]Other interstitial pulmonary diseases with fibrosis,Hyu50,Hyu5000,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,301853016#,[X]Other specified interstitial pulmonary diseases,Hyu51,Hyu5100,350185018,NA,32
+233703007#,Interstitial lung disease,350185018#,0,1,1,5054601000006119#,Diffuse parenchymal lung disease,^ESCTDI505460,NA,3037993016,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301712016#,Other alveolar and parietoalveolar disease NOS,H56yz,H56yz00,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301713014#,Alveolar and parietoalveolar disease NOS,H56z,H56z.00,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,413231000006111#,[X]Other resp diseases principally affecting interstitium,Hyu5,Hyu5.00,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,38841000006113#,Other alveolar and parietoalveolar disease,H56y,H56y.00,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301758015#,Interstitial lung disease,H58y3,H58y300,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,5054591000006110#,ILD - Interstitial lung disease,^ESCTIL505459,NA,350186017,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301699016#,Other alveolar and parietoalveolar disease,H56,H56..00,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301852014#,[X]Other interstitial pulmonary diseases with fibrosis,Hyu50,Hyu5000,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,301853016#,[X]Other specified interstitial pulmonary diseases,Hyu51,Hyu5100,350185018,NA,32
+233703007#,ILD - Interstitial lung disease,350186017#,0,1,1,5054601000006119#,Diffuse parenchymal lung disease,^ESCTDI505460,NA,3037993016,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301712016#,Other alveolar and parietoalveolar disease NOS,H56yz,H56yz00,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301713014#,Alveolar and parietoalveolar disease NOS,H56z,H56z.00,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,413231000006111#,[X]Other resp diseases principally affecting interstitium,Hyu5,Hyu5.00,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,38841000006113#,Other alveolar and parietoalveolar disease,H56y,H56y.00,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301758015#,Interstitial lung disease,H58y3,H58y300,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,5054591000006110#,ILD - Interstitial lung disease,^ESCTIL505459,NA,350186017,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301699016#,Other alveolar and parietoalveolar disease,H56,H56..00,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301852014#,[X]Other interstitial pulmonary diseases with fibrosis,Hyu50,Hyu5000,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,301853016#,[X]Other specified interstitial pulmonary diseases,Hyu51,Hyu5100,350185018,NA,32
+233703007#,Interstitial lung disease (disorder),621923011#,0,1,1,5054601000006119#,Diffuse parenchymal lung disease,^ESCTDI505460,NA,3037993016,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301712016#,Other alveolar and parietoalveolar disease NOS,H56yz,H56yz00,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301713014#,Alveolar and parietoalveolar disease NOS,H56z,H56z.00,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,413231000006111#,[X]Other resp diseases principally affecting interstitium,Hyu5,Hyu5.00,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,38841000006113#,Other alveolar and parietoalveolar disease,H56y,H56y.00,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301758015#,Interstitial lung disease,H58y3,H58y300,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,5054591000006110#,ILD - Interstitial lung disease,^ESCTIL505459,NA,350186017,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301699016#,Other alveolar and parietoalveolar disease,H56,H56..00,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301852014#,[X]Other interstitial pulmonary diseases with fibrosis,Hyu50,Hyu5000,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,301853016#,[X]Other specified interstitial pulmonary diseases,Hyu51,Hyu5100,350185018,NA,32
+233703007#,Diffuse parenchymal lung disease,3037993016#,0,1,1,5054601000006119#,Diffuse parenchymal lung disease,^ESCTDI505460,NA,3037993016,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,2411019#,Silicosis,H42-99,H42..99,2411019,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,141591000006118#,Silica and silicate pneumoconiosis,H42,H42..00,2411019,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,301838012#,[X]Pneumoconiosis due to other dust containing silica,Hyu40,Hyu4000,2408015,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,2511271000006119#,Pneumoconiosis caused by silica,^ESCTPN251127,NA,3290968015,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,2511261000006114#,Silicatosis,^ESCTSI251126,NA,2671938017,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,2511231000006117#,Pneumoconiosis due to silica,^ESCTPN251123,NA,2408015,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,2511251000006112#,Nodular silicosis,^ESCTNO251125,NA,504443016,NA,32
+805002#,"Silicosis, NOS",2410018#,1,0,1,301556019#,Silica pneumoconiosis NOS,H42z,H42z.00,2408015,NA,32
+805002#,Silicosis,2411019#,1,0,1,2411019#,Silicosis,H42-99,H42..99,2411019,NA,32
+805002#,Silicosis,2411019#,1,0,1,141591000006118#,Silica and silicate pneumoconiosis,H42,H42..00,2411019,NA,32
+805002#,Silicosis,2411019#,1,0,1,301838012#,[X]Pneumoconiosis due to other dust containing silica,Hyu40,Hyu4000,2408015,NA,32
+805002#,Silicosis,2411019#,1,0,1,2511271000006119#,Pneumoconiosis caused by silica,^ESCTPN251127,NA,3290968015,NA,32
+805002#,Silicosis,2411019#,1,0,1,2511261000006114#,Silicatosis,^ESCTSI251126,NA,2671938017,NA,32
+805002#,Silicosis,2411019#,1,0,1,2511231000006117#,Pneumoconiosis due to silica,^ESCTPN251123,NA,2408015,NA,32
+805002#,Silicosis,2411019#,1,0,1,2511251000006112#,Nodular silicosis,^ESCTNO251125,NA,504443016,NA,32
+805002#,Silicosis,2411019#,1,0,1,301556019#,Silica pneumoconiosis NOS,H42z,H42z.00,2408015,NA,32
+1791001#,Radiation injury with fibrosis,4097012#,1,0,1,2527061000006119#,Radiation fibromatosis,^ESCTRA252706,NA,4099010,NA,31
+1791001#,Radiation injury with fibrosis,4097012#,1,0,1,2527041000006118#,Radiation injury with fibrosis,^ESCTRA252704,NA,4097012,NA,31
+1791001#,Radiation injury with fibrosis,4097012#,1,0,1,2527051000006116#,Radiation injury with proliferation,^ESCTRA252705,NA,4098019,NA,31
+3514002#,Peribronchial fibrosis of lung,6934015#,1,0,1,2554951000006110#,Peribronchial fibrosis of lung,^ESCTPE255495,NA,6934015,NA,31
+13274008#,Atrophic fibrosis of lung,22716014#,1,0,1,2710541000006117#,Atrophic fibrosis of lung,^ESCTAT271054,NA,22716014,NA,31
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732781000006111#,Bauxite pneumoconiosis,^ESCTBA273278,NA,24975013,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732791000006114#,Bauxite workers' disease,^ESCTBA273279,NA,24976014,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732831000006119#,Bauxite fibrosis,^ESCTBA273283,NA,24980016,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732811000006113#,Bauxite lung,^ESCTBA273281,NA,24978010,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,24973018#,Bauxite fibrosis of lung,H431,H431.00,24975013,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732801000006110#,Corundum smelters' lung,^ESCTCO273280,NA,24977017,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732761000006118#,Bauxite fibrosis of lung,^ESCTBA273276,NA,24973018,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732841000006112#,Shavers' disease,^ESCTSH273284,NA,24981017,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732821000006117#,Bauxite pulmonary fibrosis,^ESCTBA273282,NA,24979019,NA,32
+14700006#,Bauxite fibrosis of lung,24973018#,1,0,1,2732771000006113#,Bauxite fume pneumoconiosis,^ESCTBA273277,NA,24974012,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732781000006111#,Bauxite pneumoconiosis,^ESCTBA273278,NA,24975013,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732791000006114#,Bauxite workers' disease,^ESCTBA273279,NA,24976014,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732831000006119#,Bauxite fibrosis,^ESCTBA273283,NA,24980016,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732811000006113#,Bauxite lung,^ESCTBA273281,NA,24978010,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,24973018#,Bauxite fibrosis of lung,H431,H431.00,24975013,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732801000006110#,Corundum smelters' lung,^ESCTCO273280,NA,24977017,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732761000006118#,Bauxite fibrosis of lung,^ESCTBA273276,NA,24973018,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732841000006112#,Shavers' disease,^ESCTSH273284,NA,24981017,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732821000006117#,Bauxite pulmonary fibrosis,^ESCTBA273282,NA,24979019,NA,32
+14700006#,Bauxite pulmonary fibrosis,24979019#,1,0,1,2732771000006113#,Bauxite fume pneumoconiosis,^ESCTBA273277,NA,24974012,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,2776011000006116#,Graphite pneumoconiosis,^ESCTGR277601,NA,29397015,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,2776021000006112#,Graphite lung disease,^ESCTGR277602,NA,29398013,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,29395011#,Graphite fibrosis of lung,H433,H433.00,29397015,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,2776031000006110#,Graphite fibrosis,^ESCTGR277603,NA,29399017,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,2776001000006119#,Graphitosis,^ESCTGR277600,NA,29396012,NA,32
+17385007#,Graphite fibrosis of lung,29395011#,1,0,1,2775991000006115#,Graphite fibrosis of lung,^ESCTGR277599,NA,29395011,NA,32
+28168000#,"Idiopathic fibrosing alveolitis, chronic form",47154017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+30042003#,Confluent fibrosis of lung,50269016#,1,0,1,2983601000006118#,Confluent fibrosis of lung,^ESCTCO298360,NA,50269016,NA,31
+33548005#,Anthracosilicosis,55978018#,1,0,1,3039801000006114#,Anthracosilicosis,^ESCTAN303980,NA,55978018,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047501000006116#,Hematite pneumoconiosis,^ESCTHE304750,NA,56780010,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047521000006114#,Hematite miners' lung disease,^ESCTHE304752,NA,56782019,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047511000006118#,Silicosiderosis,^ESCTSI304751,NA,56781014,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047531000006112#,Haematite miners' lung disease,^ESCTHA304753,NA,485715014,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047491000006112#,Haematite pneumoconiosis,^ESCTHA304749,NA,56779012,NA,31
+34004002#,Siderosilicosis,56775018#,1,0,1,3047481000006114#,Siderosilicosis,^ESCTSI304748,NA,56775018,NA,31
+34627006#,Alveolar-capillary block,57785013#,1,0,1,3057501000006119#,Decreased D>L<,^ESCTDE305750,NA,57786014,NA,31
+34627006#,Alveolar-capillary block,57785013#,1,0,1,3057491000006110#,Alveolar-capillary block,^ESCTAL305749,NA,57785013,NA,31
+34627006#,Alveolar-capillary block,57785013#,1,0,1,3057481000006112#,Decreased diffusion capacity of lung,^ESCTDE305748,NA,57784012,NA,31
+35037009#,"Acute interstitial pneumonitis, NOS",58465013#,1,0,1,3064351000006114#,Acute interstitial pneumonitis,^ESCTAC306435,NA,58469019,NA,31
+35037009#,"Acute interstitial pneumonitis, NOS",58465013#,1,0,1,3064361000006111#,Atypical bronchopneumonia,^ESCTAT306436,NA,58470018,NA,31
+35037009#,"Acute interstitial pneumonitis, NOS",58465013#,1,0,1,3064341000006112#,Primary atypical pneumonia,^ESCTPR306434,NA,58468010,NA,31
+35037009#,"Acute interstitial pneumonitis, NOS",58465013#,1,0,1,3064321000006117#,Primary atypical interstitial pneumonia,^ESCTPR306432,NA,58461016,NA,31
+35037009#,"Acute interstitial pneumonitis, NOS",58465013#,1,0,1,3064331000006119#,Atypical interstitial pneumonia,^ESCTAT306433,NA,58462011,NA,31
+35037009#,Acute interstitial pneumonitis,58469019#,1,0,1,3064351000006114#,Acute interstitial pneumonitis,^ESCTAC306435,NA,58469019,NA,31
+35037009#,Acute interstitial pneumonitis,58469019#,1,0,1,3064361000006111#,Atypical bronchopneumonia,^ESCTAT306436,NA,58470018,NA,31
+35037009#,Acute interstitial pneumonitis,58469019#,1,0,1,3064341000006112#,Primary atypical pneumonia,^ESCTPR306434,NA,58468010,NA,31
+35037009#,Acute interstitial pneumonitis,58469019#,1,0,1,3064321000006117#,Primary atypical interstitial pneumonia,^ESCTPR306432,NA,58461016,NA,31
+35037009#,Acute interstitial pneumonitis,58469019#,1,0,1,3064331000006119#,Atypical interstitial pneumonia,^ESCTAT306433,NA,58462011,NA,31
+36599006#,Chronic fibrosis of lung,61081015#,1,0,1,3089991000006115#,Chronic fibrosis of lung,^ESCTCH308999,NA,61081015,NA,31
+45157009#,Idiopathic fibrosing alveolitis,75302014#,1,0,1,12716191000006115#,Idiopathic interstitial pneumonia,^ESCT1271619,NA,197847012,NA,31
+45157009#,Idiopathic fibrosing alveolitis,75302014#,1,0,1,12757781000006113#,Idiopathic fibrosing alveolitis,^ESCT1275778,NA,75302014,NA,31
+45157009#,Idiopathic fibrosing alveolitis,75302014#,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,885000000000000,NA,32
+45157009#,Diffuse interstitial pulmonary fibrosis,75303016#,1,0,1,12716191000006115#,Idiopathic interstitial pneumonia,^ESCT1271619,NA,197847012,NA,31
+45157009#,Diffuse interstitial pulmonary fibrosis,75303016#,1,0,1,12757781000006113#,Idiopathic fibrosing alveolitis,^ESCT1275778,NA,75302014,NA,31
+45157009#,Diffuse interstitial pulmonary fibrosis,75303016#,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,885000000000000,NA,32
+45157009#,"Idiopathic fibrosing alveolitis, acute fatal form",75304010#,1,0,1,12716191000006115#,Idiopathic interstitial pneumonia,^ESCT1271619,NA,197847012,NA,31
+45157009#,"Idiopathic fibrosing alveolitis, acute fatal form",75304010#,1,0,1,12757781000006113#,Idiopathic fibrosing alveolitis,^ESCT1275778,NA,75302014,NA,31
+45157009#,"Idiopathic fibrosing alveolitis, acute fatal form",75304010#,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,885000000000000,NA,32
+45157009#,Diffuse idiopathic pulmonary fibrosis,75306012#,1,0,1,12716191000006115#,Idiopathic interstitial pneumonia,^ESCT1271619,NA,197847012,NA,31
+45157009#,Diffuse idiopathic pulmonary fibrosis,75306012#,1,0,1,12757781000006113#,Idiopathic fibrosing alveolitis,^ESCT1275778,NA,75302014,NA,31
+45157009#,Diffuse idiopathic pulmonary fibrosis,75306012#,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,885000000000000,NA,32
+47515009#,Simple silicosis,79212010#,1,0,1,79212010#,Simple silicosis,H421,H421.00,79212010,NA,32
+49840000#,Complicated silicosis,83019014#,1,0,1,83019014#,Complicated silicosis,H422,H422.00,83019014,NA,32
+50196008#,Perialveolar fibrosis of lung,83615019#,1,0,1,3313091000006115#,Perialveolar fibrosis of lung,^ESCTPE331309,NA,83615019,NA,31
+56841008#,Massive fibrosis of lung,94527017#,1,0,1,3423211000006118#,Massive fibrosis of lung,^ESCTMA342321,NA,94527017,NA,31
+57124002#,Postinflammatory pulmonary fibrosis,95005014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,95600015#,1,0,1,3434211000006119#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,^ESCTCH343421,NA,95600015,NA,31
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,95600015#,1,0,1,3434201000006117#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,^ESCTCH343420,NA,2817453011,NA,31
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes and vapors,95601016#,1,0,1,3434211000006119#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,^ESCTCH343421,NA,95600015,NA,31
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes and vapors,95601016#,1,0,1,3434201000006117#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,^ESCTCH343420,NA,2817453011,NA,31
+64667001#,Interstitial pneumonitis,107472019#,1,0,1,3551861000006113#,Interstitial pneumonitis,^ESCTIN355186,NA,107472019,NA,32
+64667001#,Interstitial pneumonitis,107472019#,1,0,1,107470010#,Interstitial pneumonia,H56y1,H56y100,107470010,NA,32
+68759006#,"Idiopathic fibrosing alveolitis, subacute form",114204018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,189221016#,Hypersensitivity pneumonitis,H35-1,H35..11,189221016,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,301532018#,Allergic alveolitis and pneumonitis NOS,H35zz,H35zz00,178500017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,301534017#,Hypersensitivity pneumonitis NOS,H35z1,H35z100,189221016,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,477131000006116#,Allergic alveolitis and pneumonitis NOS,H35z,H35z.00,178500017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103621000006115#,Allergic interstitial pneumonitis,^ESCTAL310362,NA,189216019,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103601000006113#,Allergic alveolitis,^ESCTAL310360,NA,189214016,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103641000006110#,EAA - Extrinsic allergic alveolitis,^ESCTEA310364,NA,486725010,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103651000006112#,Bagpipe lung,^ESCTBA310365,NA,3452511014,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,301528012#,Other allergic alveolitis,H35y,H35y.00,178500017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103611000006111#,Allergic pneumonitis,^ESCTAL310361,NA,189215015,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103581000006115#,Extrinsic allergic bronchiolo-alveolitis,^ESCTEX310358,NA,189212017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,301531013#,Other allergic alveolitis NOS,H35yz,H35yz00,178500017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,301533011#,Allergic extrinsic alveolitis NOS,H35z0,H35z000,178500017,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,3103591000006117#,Hypersensitivity pneumonia,^ESCTHY310359,NA,189213010,NA,32
+37471005#,Allergic interstitial pneumonitis,189216019#,1,0,1,178500017#,Extrinsic allergic alveolitis,H35,H35..00,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,189221016#,Hypersensitivity pneumonitis,H35-1,H35..11,189221016,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,301532018#,Allergic alveolitis and pneumonitis NOS,H35zz,H35zz00,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,301534017#,Hypersensitivity pneumonitis NOS,H35z1,H35z100,189221016,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,477131000006116#,Allergic alveolitis and pneumonitis NOS,H35z,H35z.00,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103621000006115#,Allergic interstitial pneumonitis,^ESCTAL310362,NA,189216019,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103601000006113#,Allergic alveolitis,^ESCTAL310360,NA,189214016,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103641000006110#,EAA - Extrinsic allergic alveolitis,^ESCTEA310364,NA,486725010,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103651000006112#,Bagpipe lung,^ESCTBA310365,NA,3452511014,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,301528012#,Other allergic alveolitis,H35y,H35y.00,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103611000006111#,Allergic pneumonitis,^ESCTAL310361,NA,189215015,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103581000006115#,Extrinsic allergic bronchiolo-alveolitis,^ESCTEX310358,NA,189212017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,301531013#,Other allergic alveolitis NOS,H35yz,H35yz00,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,301533011#,Allergic extrinsic alveolitis NOS,H35z0,H35z000,178500017,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,3103591000006117#,Hypersensitivity pneumonia,^ESCTHY310359,NA,189213010,NA,32
+37471005#,"Allergic interstitial pneumonitis, NOS",189220015#,1,0,1,178500017#,Extrinsic allergic alveolitis,H35,H35..00,178500017,NA,32
+28168000#,Idiopathic pulmonary fibrosis,196655012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+129459004#,"Idiopathic pulmonary fibrosis, acute fatal form",208197013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+140190005#,O/E - fibrosis of lung present,222103017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155590008#,Silicosis,242372010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155600007#,Radiation-induced diffuse interstitial pulmonary fibrosis,242385013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155613001#,Pulmonary fibrosis,242403015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155624004#,Idiopathic fibrosing alveolitis,242425014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+186726005#,HIV disease resulting in lymphoid interstitial pneumonitis,287032015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196007007#,Simple silicosis,301553010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196008002#,Complicated silicosis,301554016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196009005#,Massive silicotic fibrosis,301555015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196121006#,Lung: [cirrhosis of] or [postinflammatory pulmonary fibrosis],301696011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196121006#,Postinflammatory pulmonary fibrosis,301698012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196123009#,Idiopathic fibrosing alveolitis,301703018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196126001#,Idiopathic fibrosing alveolitis NOS,301709019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196246002#,[X]Other interstitial pulmonary diseases with fibrosis,301852014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+206313009#,Prematurity with interstitial pulmonary fibrosis,316360010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233625007#,Giant cell interstitial pneumonitis,350075017#,1,0,1,5053651000006117#,Giant cell pneumonia,^ESCTGI505365,NA,350074018,NA,31
+233721005#,Usual interstitial pneumonitis,350216019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233722003#,Giant cell interstitial pneumonitis,350218018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233723008#,Bronchiolitis obliterans with usual interstitial pneumonitis,350219014#,1,0,1,5054911000006110#,BIP - Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBI505491,NA,350220015,NA,31
+233723008#,Bronchiolitis obliterans with usual interstitial pneumonitis,350219014#,1,0,1,5054901000006112#,Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBR505490,NA,350219014,NA,31
+233723008#,BIP - Bronchiolitis obliterans with usual interstitial pneumonitis,350220015#,1,0,1,5054911000006110#,BIP - Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBI505491,NA,350220015,NA,31
+233723008#,BIP - Bronchiolitis obliterans with usual interstitial pneumonitis,350220015#,1,0,1,5054901000006112#,Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBR505490,NA,350219014,NA,31
+233760007#,Acute silicosis,350269018#,1,0,1,5055391000006119#,Alveolar silicolipoproteinosis,^ESCTAL505539,NA,350270017,NA,31
+233760007#,Acute silicosis,350269018#,1,0,1,5055381000006117#,Acute silicosis,^ESCTAC505538,NA,350269018,NA,31
+233761006#,Active silicosis,350271018#,1,0,1,5055411000006119#,Active silicosis,^ESCTAC505541,NA,350271018,NA,31
+233761006#,Active silicosis,350271018#,1,0,1,5055401000006117#,Subacute silicosis,^ESCTSU505540,NA,350272013,NA,31
+233761006#,Subacute silicosis,350272013#,1,0,1,5055411000006119#,Active silicosis,^ESCTAC505541,NA,350271018,NA,31
+233761006#,Subacute silicosis,350272013#,1,0,1,5055401000006117#,Subacute silicosis,^ESCTSU505540,NA,350272013,NA,31
+233762004#,Chronic silicosis,350273015#,1,0,1,5055421000006110#,Chronic silicosis,^ESCTCH505542,NA,350273015,NA,31
+233770009#,Pulmonary fibrosis due to sarcoidosis,350286012#,1,0,1,5055561000006115#,Stage 4 pulmonary sarcoidosis,^ESCTST505556,NA,350287015,NA,31
+233770009#,Pulmonary fibrosis due to sarcoidosis,350286012#,1,0,1,5055571000006110#,Pulmonary fibrosis due to sarcoidosis,^ESCTPU505557,NA,350286012,NA,31
+237121003#,UIP - Usual interstitial pneumonitis,355421015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+237121003#,Usual interstitial pneumonitis,355422010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+264539004#,Irradiation fibrosis,393011012#,1,0,1,5477311000006112#,Irradiation fibrosis,^ESCTIR547731,NA,393011012,NA,31
+266410004#,Idiopathic fibrosing alveolitis,396300019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+805002#,Nodular silicosis,504443016#,1,0,1,2411019#,Silicosis,H42-99,H42..99,2411019,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,141591000006118#,Silica and silicate pneumoconiosis,H42,H42..00,2411019,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,301838012#,[X]Pneumoconiosis due to other dust containing silica,Hyu40,Hyu4000,2408015,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,2511271000006119#,Pneumoconiosis caused by silica,^ESCTPN251127,NA,3290968015,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,2511261000006114#,Silicatosis,^ESCTSI251126,NA,2671938017,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,2511231000006117#,Pneumoconiosis due to silica,^ESCTPN251123,NA,2408015,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,2511251000006112#,Nodular silicosis,^ESCTNO251125,NA,504443016,NA,32
+805002#,Nodular silicosis,504443016#,1,0,1,301556019#,Silica pneumoconiosis NOS,H42z,H42z.00,2408015,NA,32
+140190005#,O/E - fibrosis of lung present,518844017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155590008#,Silicosis,535936012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155600007#,Radiation-induced diffuse interstitial pulmonary fibrosis,535947017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155613001#,Pulmonary fibrosis,535962015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+186726005#,HIV disease resulting in lymphoid interstitial pneumonitis (disorder),569800014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196007007#,Simple silicosis,580183012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196008002#,Complicated silicosis,580184018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196009005#,Massive silicotic fibrosis (disorder),580185017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196121006#,Lung: [cirrhosis of] or [postinflammatory pulmonary fibrosis],580312019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196126001#,Idiopathic fibrosing alveolitis NOS (disorder),580318015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196246002#,[X]Other interstitial pulmonary diseases with fibrosis (disorder),580453014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+206313009#,Prematurity with interstitial pulmonary fibrosis (disorder),591791019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233721005#,Usual interstitial pneumonitis [Ambiguous],621943017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233722003#,Giant cell interstitial pneumonitis [Ambiguous],621944011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233723008#,Bronchiolitis obliterans with usual interstitial pneumonitis (disorder),621946013#,1,0,1,5054911000006110#,BIP - Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBI505491,NA,350220015,NA,31
+233723008#,Bronchiolitis obliterans with usual interstitial pneumonitis (disorder),621946013#,1,0,1,5054901000006112#,Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCTBR505490,NA,350219014,NA,31
+233760007#,Acute silicosis (disorder),621989012#,1,0,1,5055391000006119#,Alveolar silicolipoproteinosis,^ESCTAL505539,NA,350270017,NA,31
+233760007#,Acute silicosis (disorder),621989012#,1,0,1,5055381000006117#,Acute silicosis,^ESCTAC505538,NA,350269018,NA,31
+233761006#,Subacute silicosis (disorder),621990015#,1,0,1,5055411000006119#,Active silicosis,^ESCTAC505541,NA,350271018,NA,31
+233761006#,Subacute silicosis (disorder),621990015#,1,0,1,5055401000006117#,Subacute silicosis,^ESCTSU505540,NA,350272013,NA,31
+233762004#,Chronic silicosis (disorder),621991016#,1,0,1,5055421000006110#,Chronic silicosis,^ESCTCH505542,NA,350273015,NA,31
+237121003#,Usual interstitial pneumonitis (disorder),625807016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+13274008#,Atrophic fibrosis of lung (disorder),737330013#,1,0,1,2710541000006117#,Atrophic fibrosis of lung,^ESCTAT271054,NA,22716014,NA,31
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732781000006111#,Bauxite pneumoconiosis,^ESCTBA273278,NA,24975013,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732791000006114#,Bauxite workers' disease,^ESCTBA273279,NA,24976014,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732831000006119#,Bauxite fibrosis,^ESCTBA273283,NA,24980016,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732811000006113#,Bauxite lung,^ESCTBA273281,NA,24978010,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,24973018#,Bauxite fibrosis of lung,H431,H431.00,24975013,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732801000006110#,Corundum smelters' lung,^ESCTCO273280,NA,24977017,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732761000006118#,Bauxite fibrosis of lung,^ESCTBA273276,NA,24973018,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732841000006112#,Shavers' disease,^ESCTSH273284,NA,24981017,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732821000006117#,Bauxite pulmonary fibrosis,^ESCTBA273282,NA,24979019,NA,32
+14700006#,Bauxite fibrosis of lung (disorder),740950016#,1,0,1,2732771000006113#,Bauxite fume pneumoconiosis,^ESCTBA273277,NA,24974012,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,2776011000006116#,Graphite pneumoconiosis,^ESCTGR277601,NA,29397015,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,2776021000006112#,Graphite lung disease,^ESCTGR277602,NA,29398013,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,29395011#,Graphite fibrosis of lung,H433,H433.00,29397015,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,2776031000006110#,Graphite fibrosis,^ESCTGR277603,NA,29399017,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,2776001000006119#,Graphitosis,^ESCTGR277600,NA,29396012,NA,32
+17385007#,Graphite fibrosis of lung (disorder),744585015#,1,0,1,2775991000006115#,Graphite fibrosis of lung,^ESCTGR277599,NA,29395011,NA,32
+28168000#,"Idiopathic fibrosing alveolitis, chronic form (disorder)",758817013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+30042003#,Confluent fibrosis of lung (disorder),761003012#,1,0,1,2983601000006118#,Confluent fibrosis of lung,^ESCTCO298360,NA,50269016,NA,31
+33548005#,Anthracosilicosis (disorder),764965016#,1,0,1,3039801000006114#,Anthracosilicosis,^ESCTAN303980,NA,55978018,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047501000006116#,Hematite pneumoconiosis,^ESCTHE304750,NA,56780010,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047521000006114#,Hematite miners' lung disease,^ESCTHE304752,NA,56782019,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047511000006118#,Silicosiderosis,^ESCTSI304751,NA,56781014,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047531000006112#,Haematite miners' lung disease,^ESCTHA304753,NA,485715014,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047491000006112#,Haematite pneumoconiosis,^ESCTHA304749,NA,56779012,NA,31
+34004002#,Siderosilicosis (disorder),765477013#,1,0,1,3047481000006114#,Siderosilicosis,^ESCTSI304748,NA,56775018,NA,31
+3514002#,Peribronchial fibrosis of lung (disorder),766747014#,1,0,1,2554951000006110#,Peribronchial fibrosis of lung,^ESCTPE255495,NA,6934015,NA,31
+36599006#,Chronic fibrosis of lung (disorder),768368018#,1,0,1,3089991000006115#,Chronic fibrosis of lung,^ESCTCH308999,NA,61081015,NA,31
+45157009#,Idiopathic fibrosing alveolitis (disorder),782365015#,1,0,1,12716191000006115#,Idiopathic interstitial pneumonia,^ESCT1271619,NA,197847012,NA,31
+45157009#,Idiopathic fibrosing alveolitis (disorder),782365015#,1,0,1,12757781000006113#,Idiopathic fibrosing alveolitis,^ESCT1275778,NA,75302014,NA,31
+45157009#,Idiopathic fibrosing alveolitis (disorder),782365015#,1,0,1,885481000006119#,Idiopath. fibrosing alveolitis,H563-99,H563.99,885000000000000,NA,32
+47515009#,Simple silicosis (disorder),784982013#,1,0,1,79212010#,Simple silicosis,H421,H421.00,79212010,NA,32
+49840000#,Complicated silicosis (disorder),787562013#,1,0,1,83019014#,Complicated silicosis,H422,H422.00,83019014,NA,32
+50196008#,Perialveolar fibrosis of lung (disorder),787957015#,1,0,1,3313091000006115#,Perialveolar fibrosis of lung,^ESCTPE331309,NA,83615019,NA,31
+56841008#,Massive fibrosis of lung (disorder),795398017#,1,0,1,3423211000006118#,Massive fibrosis of lung,^ESCTMA342321,NA,94527017,NA,31
+57124002#,Postinflammatory pulmonary fibrosis (disorder),795712018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors (disorder),796115015#,1,0,1,3434211000006119#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,^ESCTCH343421,NA,95600015,NA,31
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors (disorder),796115015#,1,0,1,3434201000006117#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,^ESCTCH343420,NA,2817453011,NA,31
+68759006#,"Idiopathic fibrosing alveolitis, subacute form (disorder)",808629010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+28168000#,IPF - Idiopathic pulmonary fibrosis,1225795013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+405570007#,Post-radiotherapy pulmonary fibrosis (disorder),2149400010#,1,0,1,6715591000006119#,Post-radiotherapy pulmonary fibrosis,^ESCTPO671559,NA,2157365017,NA,31
+405570007#,Post-radiotherapy pulmonary fibrosis,2157365017#,1,0,1,6715591000006119#,Post-radiotherapy pulmonary fibrosis,^ESCTPO671559,NA,2157365017,NA,31
+186726005#,Human immunodeficiency virus (HIV) disease resulting in lymphoid interstitial pneumonitis (disorder),2608204015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+186726005#,Human immunodeficiency virus (HIV) disease resulting in lymphoid interstitial pneumonitis,2619464017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+426437004#,Familial idiopathic pulmonary fibrosis (disorder),2662335014#,1,0,1,7059121000006115#,Familial idiopathic pulmonary fibrosis,^ESCTFA705912,NA,2674143014,NA,31
+426437004#,Familial idiopathic pulmonary fibrosis,2674143014#,1,0,1,7059121000006115#,Familial idiopathic pulmonary fibrosis,^ESCTFA705912,NA,2674143014,NA,31
+196007007#,Simple silicosis (disorder),2711341019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233722003#,Giant cell interstitial pneumonitis (disorder),2712687015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+233721005#,Usual interstitial pneumonitis (disorder),2712866010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155613001#,Pulmonary fibrosis (disorder),2721100019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155600007#,Radiation-induced diffuse interstitial pulmonary fibrosis (disorder),2740624014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155590008#,Silicosis (disorder),2740964011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+140190005#,O/E - fibrosis of lung present (finding),2753927010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196121006#,Lung: [cirrhosis of] or [postinflammatory pulmonary fibrosis] (disorder),2754806010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+196008002#,Complicated silicosis (disorder),2763093016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,2817453011#,1,0,1,3434211000006119#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapors,^ESCTCH343421,NA,95600015,NA,31
+57488007#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,2817453011#,1,0,1,3434201000006117#,Chronic pulmonary fibrosis due to inhalation of chemical fumes AND/OR vapours,^ESCTCH343420,NA,2817453011,NA,31
+186726005#,Human immunodeficiency virus disease resulting in lymphoid interstitial pneumonitis,2913754016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+186726005#,Human immunodeficiency virus disease resulting in lymphoid interstitial pneumonitis (disorder),2914142015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+700252003#,"Idiopathic fibrosing alveolitis, subacute form",2989746016#,1,0,1,7532761000006119#,Subacute idiopathic pulmonary fibrosis,^ESCTSU753276,NA,2990052015,NA,31
+700252003#,"Idiopathic fibrosing alveolitis, subacute form",2989746016#,1,0,1,7532771000006114#,Scadding syndrome,^ESCTSC753277,NA,2989732016,NA,31
+700252003#,"Idiopathic fibrosing alveolitis, subacute form",2989746016#,1,0,1,7532781000006112#,"Idiopathic fibrosing alveolitis, subacute form",^ESCTID753278,NA,2989746016,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis (disorder),2989857016#,1,0,1,7532751000006116#,Cryptogenic fibrosing alveolitis,^ESCTCR753275,NA,2989736018,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis (disorder),2989857016#,1,0,1,7532731000006111#,Chronic idiopathic pulmonary fibrosis,^ESCTCH753273,NA,2989942010,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis (disorder),2989857016#,1,0,1,7532741000006118#,CFA - Cryptogenic fibrosing alveolitis,^ESCTCF753274,NA,2989697015,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis,2989942010#,1,0,1,7532751000006116#,Cryptogenic fibrosing alveolitis,^ESCTCR753275,NA,2989736018,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis,2989942010#,1,0,1,7532731000006111#,Chronic idiopathic pulmonary fibrosis,^ESCTCH753273,NA,2989942010,NA,31
+700251005#,Chronic idiopathic pulmonary fibrosis,2989942010#,1,0,1,7532741000006118#,CFA - Cryptogenic fibrosing alveolitis,^ESCTCF753274,NA,2989697015,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis,2990052015#,1,0,1,7532761000006119#,Subacute idiopathic pulmonary fibrosis,^ESCTSU753276,NA,2990052015,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis,2990052015#,1,0,1,7532771000006114#,Scadding syndrome,^ESCTSC753277,NA,2989732016,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis,2990052015#,1,0,1,7532781000006112#,"Idiopathic fibrosing alveolitis, subacute form",^ESCTID753278,NA,2989746016,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis (disorder),2990109018#,1,0,1,7532761000006119#,Subacute idiopathic pulmonary fibrosis,^ESCTSU753276,NA,2990052015,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis (disorder),2990109018#,1,0,1,7532771000006114#,Scadding syndrome,^ESCTSC753277,NA,2989732016,NA,31
+700252003#,Subacute idiopathic pulmonary fibrosis (disorder),2990109018#,1,0,1,7532781000006112#,"Idiopathic fibrosing alveolitis, subacute form",^ESCTID753278,NA,2989746016,NA,31
+707434003#,Pulmonary fibrosis due to Hermansky-Pudlak syndrome (disorder),3030125015#,1,0,1,7617491000006117#,Pulmonary fibrosis due to Hermansky-Pudlak syndrome,^ESCTPU761749,NA,3030130016,NA,31
+707434003#,Pulmonary fibrosis due to Hermansky-Pudlak syndrome,3030130016#,1,0,1,7617491000006117#,Pulmonary fibrosis due to Hermansky-Pudlak syndrome,^ESCTPU761749,NA,3030130016,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,CPFE - combined pulmonary fibrosis and emphysema,3032723014#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Combined pulmonary fibrosis and emphysema syndrome,3032733018#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),3032781013#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627151000006113#,CPFE - combined pulmonary fibrosis and emphysema,^ESCTCP762715,NA,3032723014,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627161000006110#,Combined pulmonary fibrosis and emphysema syndrome,^ESCTCO762716,NA,3032733018,NA,31
+708030004#,Pulmonary emphysema co-occurrent with fibrosis of lung,3032793016#,1,0,1,7627141000006111#,Pulmonary emphysema co-occurrent with fibrosis of lung,^ESCTPU762714,NA,3032793016,NA,31
+708537005#,Acute idiopathic pulmonary fibrosis (disorder),3034812018#,1,0,1,7635761000006116#,"Idiopathic pulmonary fibrosis, acute fatal form",^ESCTID763576,NA,3034814017,NA,31
+708537005#,Acute idiopathic pulmonary fibrosis (disorder),3034812018#,1,0,1,7635751000006118#,Acute idiopathic pulmonary fibrosis,^ESCTAC763575,NA,3034813011,NA,31
+708537005#,Acute idiopathic pulmonary fibrosis,3034813011#,1,0,1,7635761000006116#,"Idiopathic pulmonary fibrosis, acute fatal form",^ESCTID763576,NA,3034814017,NA,31
+708537005#,Acute idiopathic pulmonary fibrosis,3034813011#,1,0,1,7635751000006118#,Acute idiopathic pulmonary fibrosis,^ESCTAC763575,NA,3034813011,NA,31
+708537005#,"Idiopathic pulmonary fibrosis, acute fatal form",3034814017#,1,0,1,7635761000006116#,"Idiopathic pulmonary fibrosis, acute fatal form",^ESCTID763576,NA,3034814017,NA,31
+708537005#,"Idiopathic pulmonary fibrosis, acute fatal form",3034814017#,1,0,1,7635751000006118#,Acute idiopathic pulmonary fibrosis,^ESCTAC763575,NA,3034813011,NA,31
+713244007#,Drug induced pulmonary fibrosis (disorder),3288465012#,1,0,1,7701591000006116#,Drug induced pulmonary fibrosis,^ESCTDR770159,NA,3288493011,NA,31
+713244007#,Drug induced pulmonary fibrosis,3288493011#,1,0,1,7701591000006116#,Drug induced pulmonary fibrosis,^ESCTDR770159,NA,3288493011,NA,31
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,474819014#,Cryptogenic organising pneumonia,H564-1,H564.11,3315464015,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,11778031000006112#,BOOP - Bronchiolitis obliterans organizing pneumonia,^ESCT1177803,NA,3525382010,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,11777991000006114#,Bronchiolitis obliterans organizing pneumonia,^ESCT1177799,NA,3525379017,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,11778021000006114#,Bronchiolitis obliterans with usual interstitial pneumonitis,^ESCT1177802,NA,3525381015,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,7783521000006118#,COP - Cryptogenic organizing pneumonitis,^ESCTCO778352,NA,3315466018,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,7783511000006114#,COP - Cryptogenic organising pneumonitis,^ESCTCO778351,NA,3315465019,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,7783501000006111#,Cryptogenic organizing pneumonia,^ESCTCR778350,NA,3315463014,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,474828010#,Bronchiolitis obliterans organising pneumonia,H564,H564.00,3525380019,NA,32
+719218000#,Bronchiolitis obliterans with usual interstitial pneumonitis,3525381015#,1,0,1,11778011000006118#,BOOP - Bronchiolitis obliterans organising pneumonia,^ESCT1177801,NA,3525383017,NA,32
+405570007#,Pulmonary fibrosis due to and following radiotherapy (disorder),3723922017#,1,0,1,6715591000006119#,Post-radiotherapy pulmonary fibrosis,^ESCTPO671559,NA,2157365017,NA,31
+405570007#,Pulmonary fibrosis due to and following radiotherapy,3723990019#,1,0,1,6715591000006119#,Post-radiotherapy pulmonary fibrosis,^ESCTPO671559,NA,2157365017,NA,31
+789574002#,Acute exacerbation of idiopathic pulmonary fibrosis (disorder),3789793012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+789574002#,Acute exacerbation of idiopathic pulmonary fibrosis,3789794018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+846637007#,Chronic pulmonary fibrosis caused by chemical vapours,3914777014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+846637007#,Chronic pulmonary fibrosis caused by chemical vapors,3914778016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+846637007#,Chronic pulmonary fibrosis caused by chemical vapors (disorder),3914779012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA

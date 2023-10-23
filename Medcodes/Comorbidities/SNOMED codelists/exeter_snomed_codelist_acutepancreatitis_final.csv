@@ -1,0 +1,135 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+10665004#,Mumps pancreatitis,18532015#,1,1,2,18532015#,Mumps pancreatitis,A723,A723.00,18532015,NA,32
+10665004#,Mumps pancreatitis (disorder),582943010#,1,1,2,18532015#,Mumps pancreatitis,A723,A723.00,18532015,NA,32
+235947007#,Cytomegaloviral pancreatitis,353692014#,1,1,2,353692014#,Cytomegaloviral pancreatitis,A7851,A785100,353692014,NA,32
+235947007#,Cytomegaloviral pancreatitis (disorder),624475010#,1,1,2,353692014#,Cytomegaloviral pancreatitis,A7851,A785100,353692014,NA,32
+234367000#,Pancytopenia with pancreatitis,351123016#,1,1,2,351123016#,Pancytopenia with pancreatitis,D2016-2,D201612,351123016,NA,32
+234367000#,Pancytopenia with pancreatitis (disorder),622675015#,1,1,2,351123016#,Pancytopenia with pancreatitis,D2016-2,D201612,351123016,NA,32
+197456007#,Acute pancreatitis,303630010#,1,1,2,303630010#,Acute pancreatitis,J670,J670.00,303630010,NA,32
+197456007#,Acute pancreatitis,303630010#,1,1,2,303632019#,Acute pancreatitis unspecified,J6700,J670000,303630010,NA,32
+197456007#,Acute pancreatitis,303630010#,1,1,2,1816471000006113#,Other acute pancreatitis,J670y,J670y00,303630010,NA,32
+197456007#,Acute pancreatitis,303630010#,1,1,2,396402014#,Acute pancreatitis NOS,J670z,J670z00,303630010,NA,32
+197456007#,Acute pancreatitis,303630010#,1,1,2,4787911000006115#,AP - Acute pancreatitis,^ESCTAP478791,NA,303631014,NA,32
+197456007#,AP - Acute pancreatitis,303631014#,1,1,2,303630010#,Acute pancreatitis,J670,J670.00,303630010,NA,32
+197456007#,AP - Acute pancreatitis,303631014#,1,1,2,303632019#,Acute pancreatitis unspecified,J6700,J670000,303630010,NA,32
+197456007#,AP - Acute pancreatitis,303631014#,1,1,2,1816471000006113#,Other acute pancreatitis,J670y,J670y00,303630010,NA,32
+197456007#,AP - Acute pancreatitis,303631014#,1,1,2,396402014#,Acute pancreatitis NOS,J670z,J670z00,303630010,NA,32
+197456007#,AP - Acute pancreatitis,303631014#,1,1,2,4787911000006115#,AP - Acute pancreatitis,^ESCTAP478791,NA,303631014,NA,32
+197456007#,Acute pancreatitis (disorder),581836018#,1,1,2,303630010#,Acute pancreatitis,J670,J670.00,303630010,NA,32
+197456007#,Acute pancreatitis (disorder),581836018#,1,1,2,303632019#,Acute pancreatitis unspecified,J6700,J670000,303630010,NA,32
+197456007#,Acute pancreatitis (disorder),581836018#,1,1,2,1816471000006113#,Other acute pancreatitis,J670y,J670y00,303630010,NA,32
+197456007#,Acute pancreatitis (disorder),581836018#,1,1,2,396402014#,Acute pancreatitis NOS,J670z,J670z00,303630010,NA,32
+197456007#,Acute pancreatitis (disorder),581836018#,1,1,2,4787911000006115#,AP - Acute pancreatitis,^ESCTAP478791,NA,303631014,NA,32
+197458008#,Acute recurrent pancreatitis,303633012#,1,1,2,303633012#,Acute recurrent pancreatitis,J6701,J670100,303633012,NA,32
+197458008#,Acute recurrent pancreatitis (disorder),581838017#,1,1,2,303633012#,Acute recurrent pancreatitis,J6701,J670100,303633012,NA,32
+4399003#,Acute hemorrhagic pancreatitis,7699015#,1,1,2,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,493743018,NA,32
+4399003#,Acute hemorrhagic pancreatitis,7699015#,1,1,2,2568871000006112#,Acute hemorrhagic pancreatitis,^ESCTAC256887,NA,7699015,NA,32
+4399003#,Acute hemorrhagic pancreatitis,7699015#,1,1,2,2568891000006113#,Haemorrhagic pancreatitis,^ESCTHA256889,NA,493744012,NA,32
+4399003#,Acute hemorrhagic pancreatitis,7699015#,1,1,2,2568881000006110#,Hemorrhagic pancreatitis,^ESCTHE256888,NA,7701015,NA,32
+4399003#,Hemorrhagic pancreatitis,7701015#,1,1,2,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,493743018,NA,32
+4399003#,Hemorrhagic pancreatitis,7701015#,1,1,2,2568871000006112#,Acute hemorrhagic pancreatitis,^ESCTAC256887,NA,7699015,NA,32
+4399003#,Hemorrhagic pancreatitis,7701015#,1,1,2,2568891000006113#,Haemorrhagic pancreatitis,^ESCTHA256889,NA,493744012,NA,32
+4399003#,Hemorrhagic pancreatitis,7701015#,1,1,2,2568881000006110#,Hemorrhagic pancreatitis,^ESCTHE256888,NA,7701015,NA,32
+4399003#,Acute haemorrhagic pancreatitis,493743018#,1,1,2,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,493743018,NA,32
+4399003#,Acute haemorrhagic pancreatitis,493743018#,1,1,2,2568871000006112#,Acute hemorrhagic pancreatitis,^ESCTAC256887,NA,7699015,NA,32
+4399003#,Acute haemorrhagic pancreatitis,493743018#,1,1,2,2568891000006113#,Haemorrhagic pancreatitis,^ESCTHA256889,NA,493744012,NA,32
+4399003#,Acute haemorrhagic pancreatitis,493743018#,1,1,2,2568881000006110#,Hemorrhagic pancreatitis,^ESCTHE256888,NA,7701015,NA,32
+4399003#,Haemorrhagic pancreatitis,493744012#,1,1,2,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,493743018,NA,32
+4399003#,Haemorrhagic pancreatitis,493744012#,1,1,2,2568871000006112#,Acute hemorrhagic pancreatitis,^ESCTAC256887,NA,7699015,NA,32
+4399003#,Haemorrhagic pancreatitis,493744012#,1,1,2,2568891000006113#,Haemorrhagic pancreatitis,^ESCTHA256889,NA,493744012,NA,32
+4399003#,Haemorrhagic pancreatitis,493744012#,1,1,2,2568881000006110#,Hemorrhagic pancreatitis,^ESCTHE256888,NA,7701015,NA,32
+4399003#,Acute hemorrhagic pancreatitis (disorder),781066014#,1,1,2,493743018#,Acute haemorrhagic pancreatitis,J6702,J670200,493743018,NA,32
+4399003#,Acute hemorrhagic pancreatitis (disorder),781066014#,1,1,2,2568871000006112#,Acute hemorrhagic pancreatitis,^ESCTAC256887,NA,7699015,NA,32
+4399003#,Acute hemorrhagic pancreatitis (disorder),781066014#,1,1,2,2568891000006113#,Haemorrhagic pancreatitis,^ESCTHA256889,NA,493744012,NA,32
+4399003#,Acute hemorrhagic pancreatitis (disorder),781066014#,1,1,2,2568881000006110#,Hemorrhagic pancreatitis,^ESCTHE256888,NA,7701015,NA,32
+197460005#,Acute suppurative pancreatitis,303636016#,1,1,2,303636016#,Acute suppurative pancreatitis,J6703,J670300,303636016,NA,32
+197460005#,Acute suppurative pancreatitis (disorder),581840010#,1,1,2,303636016#,Acute suppurative pancreatitis,J6703,J670300,303636016,NA,32
+59154002#,Subacute pancreatitis,98289011#,1,1,2,98289011#,Subacute pancreatitis,J6704,J670400,98289011,NA,32
+59154002#,Subacute pancreatitis (disorder),797965019#,1,1,2,98289011#,Subacute pancreatitis,J6704,J670400,98289011,NA,32
+235941008#,Gallstone acute pancreatitis,353686015#,1,1,2,353686015#,Gallstone acute pancreatitis,J6705,J670500,353686015,NA,32
+235941008#,Gallstone acute pancreatitis (disorder),624468014#,1,1,2,353686015#,Gallstone acute pancreatitis,J6705,J670500,353686015,NA,32
+235943006#,Idiopathic acute pancreatitis,353688019#,1,1,2,353688019#,Idiopathic acute pancreatitis,J6706,J670600,353688019,NA,32
+235943006#,Idiopathic acute pancreatitis (disorder),624471018#,1,1,2,353688019#,Idiopathic acute pancreatitis,J6706,J670600,353688019,NA,32
+235942001#,Alcohol-induced acute pancreatitis,353687012#,1,1,2,353687012#,Alcohol-induced acute pancreatitis,J6708,J670800,353687012,NA,32
+235942001#,Alcohol-induced acute pancreatitis (disorder),624469018#,1,1,2,353687012#,Alcohol-induced acute pancreatitis,J6708,J670800,353687012,NA,32
+235944000#,Drug-induced acute pancreatitis,353689010#,1,1,2,353689010#,Drug-induced acute pancreatitis,J6709,J670900,353689010,NA,32
+235944000#,Drug-induced acute pancreatitis (disorder),624472013#,1,1,2,353689010#,Drug-induced acute pancreatitis,J6709,J670900,353689010,NA,32
+235945004#,Acute pancreatitis due to infection,353690018#,1,1,2,5087661000006118#,Acute pancreatitis due to infection,^ESCTAC508766,NA,353690018,NA,31
+235945004#,Acute pancreatitis due to infection (disorder),624473015#,1,1,2,5087661000006118#,Acute pancreatitis due to infection,^ESCTAC508766,NA,353690018,NA,31
+235946003#,Viral acute pancreatitis,353691019#,1,1,2,5087671000006113#,Viral acute pancreatitis,^ESCTVI508767,NA,353691019,NA,31
+235946003#,Viral acute pancreatitis (disorder),624474014#,1,1,2,5087671000006113#,Viral acute pancreatitis,^ESCTVI508767,NA,353691019,NA,31
+235948002#,Postoperative acute pancreatitis,353693016#,1,1,2,5087691000006114#,Postoperative acute pancreatitis,^ESCTPO508769,NA,353693016,NA,31
+235948002#,Postoperative acute pancreatitis (disorder),624476011#,1,1,2,5087691000006114#,Postoperative acute pancreatitis,^ESCTPO508769,NA,353693016,NA,31
+235950005#,Traumatic acute pancreatitis,353696012#,1,1,2,5087721000006116#,Traumatic acute pancreatitis,^ESCTTR508772,NA,353696012,NA,31
+235950005#,Traumatic acute pancreatitis (disorder),624478012#,1,1,2,5087721000006116#,Traumatic acute pancreatitis,^ESCTTR508772,NA,353696012,NA,31
+277537008#,Post-ERCP acute pancreatitis,414108010#,1,1,2,5600731000006112#,Post-ERCP acute pancreatitis,^ESCTPO560073,NA,414108010,NA,31
+277537008#,Post-ERCP acute pancreatitis,414108010#,1,1,2,5600741000006119#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,^ESCTPO560074,NA,2669858017,NA,31
+277537008#,Post-ERCP acute pancreatitis (disorder),670585019#,1,1,2,5600731000006112#,Post-ERCP acute pancreatitis,^ESCTPO560073,NA,414108010,NA,31
+277537008#,Post-ERCP acute pancreatitis (disorder),670585019#,1,1,2,5600741000006119#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,^ESCTPO560074,NA,2669858017,NA,31
+277537008#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis (disorder),2462579016#,1,1,2,5600731000006112#,Post-ERCP acute pancreatitis,^ESCTPO560073,NA,414108010,NA,31
+277537008#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis (disorder),2462579016#,1,1,2,5600741000006119#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,^ESCTPO560074,NA,2669858017,NA,31
+277537008#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,2669858017#,1,1,2,5600731000006112#,Post-ERCP acute pancreatitis,^ESCTPO560073,NA,414108010,NA,31
+277537008#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,2669858017#,1,1,2,5600741000006119#,Post-endoscopic retrograde cholangiopancreatography acute pancreatitis,^ESCTPO560074,NA,2669858017,NA,31
+7881005#,Acute necrotizing pancreatitis,14030012#,1,1,2,2625421000006118#,Acute necrotizing pancreatitis,^ESCTAC262542,NA,14030012,NA,31
+7881005#,Acute necrotizing pancreatitis,14030012#,1,1,2,2625431000006115#,Necrotizing pancreatitis,^ESCTNE262543,NA,14031011,NA,31
+7881005#,Acute necrotizing pancreatitis,14030012#,1,1,2,2625411000006114#,Acute necrotising pancreatitis,^ESCTAC262541,NA,503919017,NA,31
+7881005#,Acute necrotizing pancreatitis,14030012#,1,1,2,2625441000006113#,Necrotising pancreatitis,^ESCTNE262544,NA,503918013,NA,31
+7881005#,Necrotizing pancreatitis,14031011#,1,1,2,2625421000006118#,Acute necrotizing pancreatitis,^ESCTAC262542,NA,14030012,NA,31
+7881005#,Necrotizing pancreatitis,14031011#,1,1,2,2625431000006115#,Necrotizing pancreatitis,^ESCTNE262543,NA,14031011,NA,31
+7881005#,Necrotizing pancreatitis,14031011#,1,1,2,2625411000006114#,Acute necrotising pancreatitis,^ESCTAC262541,NA,503919017,NA,31
+7881005#,Necrotizing pancreatitis,14031011#,1,1,2,2625441000006113#,Necrotising pancreatitis,^ESCTNE262544,NA,503918013,NA,31
+7881005#,Necrotising pancreatitis,503918013#,1,1,2,2625421000006118#,Acute necrotizing pancreatitis,^ESCTAC262542,NA,14030012,NA,31
+7881005#,Necrotising pancreatitis,503918013#,1,1,2,2625431000006115#,Necrotizing pancreatitis,^ESCTNE262543,NA,14031011,NA,31
+7881005#,Necrotising pancreatitis,503918013#,1,1,2,2625411000006114#,Acute necrotising pancreatitis,^ESCTAC262541,NA,503919017,NA,31
+7881005#,Necrotising pancreatitis,503918013#,1,1,2,2625441000006113#,Necrotising pancreatitis,^ESCTNE262544,NA,503918013,NA,31
+7881005#,Acute necrotising pancreatitis,503919017#,1,1,2,2625421000006118#,Acute necrotizing pancreatitis,^ESCTAC262542,NA,14030012,NA,31
+7881005#,Acute necrotising pancreatitis,503919017#,1,1,2,2625431000006115#,Necrotizing pancreatitis,^ESCTNE262543,NA,14031011,NA,31
+7881005#,Acute necrotising pancreatitis,503919017#,1,1,2,2625411000006114#,Acute necrotising pancreatitis,^ESCTAC262541,NA,503919017,NA,31
+7881005#,Acute necrotising pancreatitis,503919017#,1,1,2,2625441000006113#,Necrotising pancreatitis,^ESCTNE262544,NA,503918013,NA,31
+7881005#,Acute necrotizing pancreatitis (disorder),819792018#,1,1,2,2625421000006118#,Acute necrotizing pancreatitis,^ESCTAC262542,NA,14030012,NA,31
+7881005#,Acute necrotizing pancreatitis (disorder),819792018#,1,1,2,2625431000006115#,Necrotizing pancreatitis,^ESCTNE262543,NA,14031011,NA,31
+7881005#,Acute necrotizing pancreatitis (disorder),819792018#,1,1,2,2625411000006114#,Acute necrotising pancreatitis,^ESCTAC262541,NA,503919017,NA,31
+7881005#,Acute necrotizing pancreatitis (disorder),819792018#,1,1,2,2625441000006113#,Necrotising pancreatitis,^ESCTNE262544,NA,503918013,NA,31
+247421000000100#,NA,NA#,0,1,1,404861000000110#,History of acute pancreatitis,14CG,14CG.00,405000000000000,NA,32
+811431000000107#,NA,NA#,0,1,1,2116751000000111#,Biliary acute pancreatitis,J6707,J670700,212e13,NA,32
+75694006#,Pancreatitis,125722013#,0,1,1,3730761000006113#,Inflammation of pancreas,^ESCTIN373076,NA,3028736011,NA,32
+75694006#,Pancreatitis,125722013#,0,1,1,125722013#,Pancreatitis,J670z-1,J670z11,125722013,NA,32
+75694006#,"Pancreatitis, NOS",125723015#,0,1,1,3730761000006113#,Inflammation of pancreas,^ESCTIN373076,NA,3028736011,NA,32
+75694006#,"Pancreatitis, NOS",125723015#,0,1,1,125722013#,Pancreatitis,J670z-1,J670z11,125722013,NA,32
+75694006#,Pancreatitis (disorder),816332017#,0,1,1,3730761000006113#,Inflammation of pancreas,^ESCTIN373076,NA,3028736011,NA,32
+75694006#,Pancreatitis (disorder),816332017#,0,1,1,125722013#,Pancreatitis,J670z-1,J670z11,125722013,NA,32
+75694006#,Inflammation of pancreas,3028736011#,0,1,1,3730761000006113#,Inflammation of pancreas,^ESCTIN373076,NA,3028736011,NA,32
+75694006#,Inflammation of pancreas,3028736011#,0,1,1,125722013#,Pancreatitis,J670z-1,J670z11,125722013,NA,32
+8551005#,Recurrent acute pancreatitis,15101013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+39726008#,Acute pancreatitis,66995018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+39726008#,Idiopathic acute pancreatitis,66996017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+46626002#,Subcutaneous nodular fat necrosis in pancreatitis,77714017#,1,0,1,3253081000006116#,Subcutaneous nodular fat necrosis in pancreatitis,^ESCTSU325308,NA,77714017,NA,31
+155834006#,Acute pancreatitis,242900013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+186697004#,Cytomegaloviral pancreatitis,286983012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191250008#,Pancytopenia: [with malformation] or [with pancreatitis] or [NOS],294206014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+191250008#,Pancytopenia with pancreatitis,294208010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197457003#,Acute pancreatitis unspecified,303632019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197459000#,Acute hemorrhagic pancreatitis,303634018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197459000#,Acute haemorrhagic pancreatitis,303635017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197461009#,Pancreatitis (& [acute NOS]),303637013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197461009#,Acute pancreatitis NOS,303639011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266476001#,Acute pancreatitis NOS,396402014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155834006#,Acute pancreatitis,536207011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+186697004#,Cytomegaloviral pancreatitis,569767016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197457003#,Acute pancreatitis unspecified (disorder),581837010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197459000#,Acute hemorrhagic pancreatitis [dup] (disorder),581839013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197461009#,Pancreatitis (& [acute NOS]),581841014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+266476001#,Acute pancreatitis NOS (disorder),658977016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+39726008#,Acute pancreatitis (disorder) [Ambiguous],776234019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+46626002#,Subcutaneous nodular fat necrosis in pancreatitis (disorder),783996010#,1,0,1,3253081000006116#,Subcutaneous nodular fat necrosis in pancreatitis,^ESCTSU325308,NA,77714017,NA,31
+8551005#,Recurrent acute pancreatitis (disorder),827580013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394519007#,Gallstone acute pancreatitis,1468459018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+394519007#,Gallstone acute pancreatitis,1488252019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197461009#,Pancreatitis (& [acute NOS]) (disorder),2714910010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+186697004#,Cytomegaloviral pancreatitis (disorder),2720965018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197459000#,Acute hemorrhagic pancreatitis (disorder),2741375011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155834006#,Acute pancreatitis (disorder),2748189017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+39726008#,Acute pancreatitis (disorder),2756322015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+96081000119101#,Acute pancreatitis due to common bile duct calculus (disorder),3082355013#,1,0,1,8030241000006115#,Acute pancreatitis due to common bile duct calculus,^ESCTAC803024,NA,3082356014,NA,31
+96081000119101#,Acute pancreatitis due to common bile duct calculus,3082356014#,1,0,1,8030241000006115#,Acute pancreatitis due to common bile duct calculus,^ESCTAC803024,NA,3082356014,NA,31
+394519007#,Gallstone acute pancreatitis (disorder),3084732011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

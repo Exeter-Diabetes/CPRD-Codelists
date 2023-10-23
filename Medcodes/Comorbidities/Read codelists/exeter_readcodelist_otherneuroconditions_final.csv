@@ -1,0 +1,282 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+F231.#,Congenital hemiplegia,1,1,2,72531016#,Infantile hemiplegia,F231,F231.00,1593000,3769017,NA,32,F231.00#
+F234.#,Infantile hemiplegia NOS,1,1,2,297232013#,Infantile hemiplegia NOS,F234,F234.00,1593000,3769017,NA,32,F234.00#
+F23..#,Congenital cerebral palsy,1,1,2,542541000006112#,Cerebral atonia,F23-4,F23..14,128188000,206411014,NA,32,F23..14#
+F23..#,Congenital cerebral palsy,1,1,2,740431000006115#,Littles disease,F23-3,F23..13,128188000,206411014,NA,32,F23..13#
+F23..#,Congenital cerebral palsy,1,1,2,411454011#,Congenital spastic cerebral palsy,F23-1,F23..11,230773005,2995835018,NA,32,F23..11#
+F23..#,Congenital cerebral palsy,1,1,2,411453017#,Congenital cerebral palsy,F23,F23..00,128188000,2995060017,NA,32,F23..00#
+F23..#,Congenital cerebral palsy,1,1,2,345771011#,Infantile cerebral palsy,F23-2,F23..12,128188000,2995381013,NA,32,F23..12#
+F23y0#,Ataxic infantile cerebral palsy,1,1,2,297234014#,Ataxic infantile cerebral palsy,F23y0,F23y000,278512001,2995485017,NA,32,F23y000#
+F23y1#,Flaccid infantile cerebral palsy,1,1,2,761411000006111#,Flaccid infantile cerebral palsy,F23y1,F23y100,192958009,297235010,NA,32,F23y100#
+F23y.#,Other congenital cerebral palsy,1,1,2,297233015#,Other congenital cerebral palsy,F23y,F23y.00,128188000,206411014,NA,32,F23y.00#
+F23yz#,Other infantile cerebral palsy NOS,1,1,2,297238012#,Other infantile cerebral palsy NOS,F23yz,F23yz00,128188000,206411014,NA,32,F23yz00#
+F23z.#,Congenital cerebral palsy NOS,1,1,2,297239016#,Congenital cerebral palsy NOS,F23z,F23z.00,128188000,2995060017,NA,32,F23z.00#
+Fyu90#,[X]Other infantile cerebral palsy,1,1,2,299394017#,[X]Other infantile cerebral palsy,Fyu90,Fyu9000,128188000,206411014,NA,32,Fyu9000#
+G669.#,"Cerebral palsy, not congenital or infantile, acute",1,1,2,451123015#,"Cerebral palsy, not congenital or infantile, acute",G669,G669.00,307756005,451123015,NA,32,G669.00#
+F22..#,Hemiplegia,1,1,2,820131000006114#,Hemiparesis,F22-1,F22..11,20022000,33703013,NA,32,F22..11#
+F22..#,Hemiplegia,1,1,2,84272011#,Hemiplegia,F22,F22..00,50582007,84272011,NA,32,F22..00#
+F220.#,Flaccid hemiplegia,1,1,2,134251013#,Flaccid hemiplegia,F220,F220.00,80935004,134251013,NA,32,F220.00#
+F221.#,Spastic hemiplegia,1,1,2,450556015#,Spastic foot,F221-1,F221.11,307324001,450556015,NA,32,F221.11#
+F221.#,Spastic hemiplegia,1,1,2,132112014#,Spastic hemiplegia,F221,F221.00,79633009,132112014,NA,32,F221.00#
+F222.#,Left hemiplegia,1,1,2,415147018#,Left hemiplegia,F222,F222.00,278285008,415147018,NA,32,F222.00#
+F222.#,Left hemiplegia,1,1,2,415152011#,Left sided weakness,F222-1,F222.11,278287000,415152011,NA,32,F222.11#
+F223.#,Right hemiplegia,1,1,2,415149015#,Right sided weakness,F223-1,F223.11,278286009,415149015,NA,32,F223.11#
+F223.#,Right hemiplegia,1,1,2,415146010#,Right hemiplegia,F223,F223.00,278284007,415146010,NA,32,F223.00#
+F22z.#,Hemiplegia NOS,1,1,2,297210016#,Hemiplegia NOS,F22z,F22z.00,50582007,84272011,NA,32,F22z.00#
+F240.#,Quadriplegia,1,1,2,19943011#,Quadriplegia,F240,F240.00,11538006,19943011,NA,32,F240.00#
+F240.#,Quadriplegia,1,1,2,19944017#,Tetraplegia,F240-1,F240.11,11538006,19944017,NA,32,F240.11#
+F1522#,Progressive bulbar palsy,1,1,2,90263012#,Progressive bulbar palsy,F1522,F152200,54304004,90263012,NA,32,F152200#
+F1524#,Primary lateral sclerosis,1,1,2,134744017#,Primary lateral sclerosis,F1524,F152400,81211007,134744017,NA,32,F152400#
+F152.#,Motor neurone disease,1,1,2,486695013#,Motor neurone disease,F152,F152.00,37340000,486695013,NA,32,F152.00#
+F152z#,Motor neurone disease NOS,1,1,2,297130012#,Motor neurone disease NOS,F152z,F152z00,37340000,486695013,NA,32,F152z00#
+F200.#,Multiple sclerosis of the brain stem,1,1,2,695191000006119#,Multiple sclerosis of the brain stem,F200,F200.00,192926004,297176011,NA,32,F200.00#
+F201.#,Multiple sclerosis of the spinal cord,1,1,2,297177019#,Multiple sclerosis of the spinal cord,F201,F201.00,192927008,297177019,NA,32,F201.00#
+F202.#,Generalised multiple sclerosis,1,1,2,297179016#,Generalised multiple sclerosis,F202,F202.00,192928003,297179016,NA,32,F202.00#
+F203.#,Exacerbation of multiple sclerosis,1,1,2,297180018#,Exacerbation of multiple sclerosis,F203,F203.00,192929006,297180018,NA,32,F203.00#
+F20..#,Multiple sclerosis,1,1,2,41398015#,Multiple sclerosis,F20,F20..00,24700007,41398015,NA,32,F20..00#
+F20..#,Multiple sclerosis,1,1,2,1223979019#,Disseminated sclerosis,F20-1,F20..11,24700007,1223979019,NA,32,F20..11#
+F20z.#,Multiple sclerosis NOS,1,1,2,297181019#,Multiple sclerosis NOS,F20z,F20z.00,24700007,41398015,NA,32,F20z.00#
+F3801#,Juvenile or adult myasthenia gravis,1,1,2,297581011#,Juvenile or adult myasthenia gravis,F3801,F380100,193207007,297581011,NA,32,F380100#
+F380.#,Myasthenia gravis,1,1,2,151829017#,Myasthenia gravis,F380,F380.00,91637004,151829017,NA,32,F380.00#
+F380z#,Myasthenia gravis NOS,1,1,2,297582016#,Myasthenia gravis NOS,F380z,F380z00,91637004,151829017,NA,32,F380z00#
+Eu023#,[X]Dementia in Parkinson's disease,1,1,2,295688010#,Dementia in Parkinsons disease,Eu023,Eu02300,425390006,2921040013,NA,32,Eu02300#
+F12..#,Parkinson's disease,1,1,2,81717011#,Parkinson's disease,F12,F12..00,49049000,81717011,NA,32,F12..00#
+F12z.#,Parkinson's disease NOS,1,1,2,297037012#,Parkinson's disease NOS,F12z,F12z.00,49049000,81717011,NA,32,F12z.00#
+38Gw.#,Gross Motor Function Classification System Cerebral Palsy,1,0,1,1883621000006119#,Gross motor function classification system for cerebral palsy,38Gw,38Gw.00,707621005,3030870013,NA,32,38Gw.00#
+F1370#,Athetoid cerebral palsy,1,0,1,124599018#,Vogt's disease,F1370-1,F137011,193497004,297977018,NA,32,F137011#
+F1370#,Athetoid cerebral palsy,1,0,1,124598014#,Athetoid cerebral palsy,F1370,F137000,75019001,124598014,NA,32,F137000#
+F1371#,Double athetosis,1,0,1,450600011#,Congenital athetosis,F1371-1,F137111,307355007,450600011,NA,32,F137111#
+F1371#,Double athetosis,1,0,1,27369019#,Double athetosis,F1371,F137100,16171003,27369019,NA,32,F137100#
+F137.#,Athetoid cerebral palsy,1,0,1,92747014#,Symptomatic torsion dystonia,F137,F137.00,55776008,92747014,NA,32,F137.00#
+F137.#,Athetoid cerebral palsy,1,0,1,450601010#,Athetosis - congenital,F137-2,F137.12,307355007,450601010,NA,32,F137.12#
+F137.#,Athetoid cerebral palsy,1,0,1,497021000006113#,Athetoid cerebral palsy,F137-1,F137.11,75019001,124598014,NA,32,F137.11#
+F137.#,Athetoid cerebral palsy,1,0,1,297977018#,Vogt's disease,F137-3,F137.13,193497004,297977018,NA,32,F137.13#
+F2300#,Congenital paraplegia,1,0,1,297221013#,Congenital paraplegia,F2300,F230000,192949002,297221013,NA,32,F230000#
+F2301#,Cerebral palsy with spastic diplegia,1,0,1,1815931000006114#,Spastic diplegic cerebral palsy,F2301-1,F230111,58193001,2168501000000119,NA,32,F230111#
+F2301#,Cerebral palsy with spastic diplegia,1,0,1,543071000006115#,Cerebral palsy with spastic diplegia,F2301,F230100,230773005,345773014,NA,32,F230100#
+F230.#,Congenital diplegia,1,0,1,223801000000115#,Paraplegia - congenital,F230-1,F230.11,192949002,297221013,NA,32,F230.11#
+F230.#,Congenital diplegia,1,0,1,411456013#,Congenital diplegia,F230,F230.00,58193001,96717010,NA,32,F230.00#
+F230z#,Congenital diplegia NOS,1,0,1,297223011#,Congenital diplegia NOS,F230z,F230z00,58193001,96715019,NA,32,F230z00#
+F232.#,Congenital quadriplegia,1,0,1,411455012#,Congenital quadriplegia,F232,F232.00,275468009,411455012,NA,32,F232.00#
+F232.#,Congenital quadriplegia,1,0,1,110721000006114#,Tetraplegia - congenital,F232-1,F232.11,275468009,411455012,NA,32,F232.11#
+F233.#,Congenital monoplegia,1,0,1,497600015#,Congenital monoplegia,F233,F233.00,56409008,497600015,NA,32,F233.00#
+F233.#,Congenital monoplegia,1,0,1,345779013#,Congenital spastic foot,F233-1,F233.11,230779009,345779013,NA,32,F233.11#
+F23y2#,Spastic cerebral palsy,1,0,1,345773014#,Spastic cerebral palsy,F23y2,F23y200,230773005,345773014,NA,32,F23y200#
+F23y3#,Dyskinetic cerebral palsy,1,0,1,345780011#,Dyskinetic cerebral palsy,F23y3,F23y300,230780007,345780011,NA,32,F23y300#
+F23y4#,Ataxic diplegic cerebral palsy,1,0,1,2475877015#,Ataxic diplegic cerebral palsy,F23y4,F23y400,58193001,96715019,NA,32,F23y400#
+F23y5#,Worster-Drought syndrome,1,0,1,557181000000116#,Worster Drought syndrome,F23y5,F23y500,716335003,3305548017,NA,32,F23y500#
+F23y5#,Worster-Drought syndrome,1,0,1,551481000000119#,Congenital suprabulbar paresis,F23y5-1,F23y511,716335003,3305547010,NA,32,F23y511#
+F23y6#,Choreoathetoid cerebral palsy,1,0,1,2283041000000116#,Choreo-athetotic cerebral palsy,F23y6-1,F23y611,885831000000109,2283041000000116,NA,32,F23y611#
+F23y6#,Choreoathetoid cerebral palsy,1,0,1,2283831000000117#,Choreoathetoid cerebral palsy,F23y6,F23y600,885831000000109,2283831000000117,NA,32,F23y600#
+F2B0.#,Spastic quadriplegic cerebral palsy,1,0,1,1815951000006119#,Spastic quadriplegic cerebral palsy,F2B0,F2B0.00,48721008,3010116017,NA,32,F2B0.00#
+F2B1.#,Spastic hemiplegic cerebral palsy,1,0,1,2122001000000116#,Spastic hemiplegic cerebral palsy,F2B1,F2B1.00,813921000000104,2122001000000116,NA,32,F2B1.00#
+F2B..#,Cerebral palsy,1,0,1,206411014#,Cerebral palsy,F2B,F2B..00,128188000,206411014,NA,32,F2B..00#
+F2By.#,Other cerebral palsy,1,0,1,1815971000006112#,Other cerebral palsy,F2By,F2By.00,128188000,206411014,NA,32,F2By.00#
+F2Bz.#,Cerebral palsy NOS,1,0,1,1815981000006110#,Cerebral palsy NOS,F2Bz,F2Bz.00,128188000,206411014,NA,32,F2Bz.00#
+Fyu9.#,[X]Cerebral palsy and other paralytic syndromes,1,0,1,299393011#,[X]Cerebral palsy and other paralytic syndromes,Fyu9,Fyu9.00,408371000000100,897791000000110,NA,32,Fyu9.00#
+2833.#,O/E - hemiplegia,1,0,1,254829017#,O/E - hemiplegia,2833,2833.00,163601006,254829017,NA,27,2833.00#
+2835.#,O/E - paraplegia,1,0,1,254833012#,O/E - paraplegia,2835,2835.00,163604003,254833012,NA,27,2835.00#
+2982.#,O/E - hemiplegic posture,1,0,1,254939012#,O/E - hemiplegic posture,2982,2982.00,163676000,254939012,NA,27,2982.00#
+2983.#,O/E - paraplegic in flexion,1,0,1,254940014#,O/E - paraplegic in flexion,2983,2983.00,163677009,254940014,NA,27,2983.00#
+F038.#,Tropical spastic paraplegia,1,0,1,494103012#,Tropical spastic paraplegia,F038,F038.00,714279000,3299127017,NA,32,F038.00#
+F141.#,Hereditary spastic paraplegia,1,0,1,66483014#,Hereditary spastic paraplegia,F141,F141.00,39912006,66483014,NA,32,F141.00#
+F2400#,Flaccid tetraplegia,1,0,1,297241015#,Flaccid tetraplegia,F2400,F240000,192964002,297241015,NA,32,F240000#
+F2401#,Spastic tetraplegia,1,0,1,297242010#,Spastic tetraplegia,F2401,F240100,192965001,297242010,NA,32,F240100#
+F241.#,Paraplegia,1,0,1,100323011#,Paraplegia,F241,F241.00,60389000,100323011,NA,32,F241.00#
+F2410#,Flaccid paraplegia,1,0,1,297243017#,Flaccid paraplegia,F2410,F241000,192966000,297243017,NA,32,F241000#
+F2411#,Spastic paraplegia,1,0,1,297244011#,Spastic paraplegia,F2411,F241100,192967009,297244011,NA,32,F241100#
+N2310#,Massive muscular calcification associated with paraplegia,1,0,1,716831000006114#,Massive muscular calcification associated with paraplegia,N2310-1,N231011,82725007,3036461013,NA,32,N231011#
+N2310#,Massive muscular calcification associated with paraplegia,1,0,1,400312014#,"Muscular calcification and ossification, unspecified",N2310,N231000,44551007,74306017,NA,32,N231000#
+7Q041#,Amyotrophic lateral sclerosis drugs Band 1,1,0,1,351861000000110#,Amyotrophic lateral sclerosis drugs Band 1,7Q041,7Q04100,221551000000100,351861000000110,NA,32,7Q04100#
+F1520#,Amyotrophic lateral sclerosis,1,0,1,142653015#,Amyotrophic lateral sclerosis,F1520,F152000,86044005,142653015,NA,32,F152000#
+F1521#,Progressive muscular atrophy,1,0,1,147444011#,Progressive muscular atrophy,F1521,F152100,88923002,147444011,NA,32,F152100#
+F1521#,Progressive muscular atrophy,1,0,1,631811000006111#,Duchenne Aran muscular atrophy,F1521-1,F152111,88923002,147444011,NA,32,F152111#
+F1523#,Pseudobulbar palsy,1,0,1,13165015#,Pseudobulbar palsy,F1523,F152300,7379000,13165015,NA,32,F152300#
+F15..#,Anterior horn cell disease,1,0,1,142016013#,Anterior horn cell disease,F15,F15..00,85672005,142016013,NA,32,F15..00#
+F15y.#,Other anterior horn cell disease,1,0,1,297131011#,Other anterior horn cell disease,F15y,F15y.00,85672005,142016013,NA,32,F15y.00#
+F15z.#,Anterior horn cell disease NOS,1,0,1,297132016#,Anterior horn cell disease NOS,F15z,F15z.00,85672005,142016013,NA,32,F15z.00#
+666A.#,Multiple sclerosis review,1,0,1,299241000000110#,Multiple sclerosis review,666A,666A.00,198491000000106,299241000000110,NA,1,666A.00#
+666B.#,Multiple sclerosis multidisciplinary review,1,0,1,315671000000110#,Multiple sclerosis multidisciplinary review,666B,666B.00,205631000000104,315671000000110,NA,1,666B.00#
+8Cc0.#,Management of multiple sclerosis in onset phase,1,0,1,699671000000115#,Management of multiple sclerosis in onset phase,8Cc0,8Cc0.00,367561000000107,699671000000115,NA,32,8Cc0.00#
+8Cc1.#,Management of multiple sclerosis in early disease phase,1,0,1,699731000000110#,Management of multiple sclerosis in early disease phase,8Cc1,8Cc1.00,367591000000101,699731000000110,NA,32,8Cc1.00#
+8Cc2.#,Management of multiple sclerosis in stable disability phase,1,0,1,699791000000111#,Management of multiple sclerosis in stable disability phase,8Cc2,8Cc2.00,367621000000103,699791000000111,NA,32,8Cc2.00#
+8Cc4.#,Management of multiple sclerosis in palliative phase,1,0,1,699911000000117#,Management of multiple sclerosis in palliative phase,8Cc4,8Cc4.00,367681000000102,699911000000117,NA,32,8Cc4.00#
+8CS1.#,Multiple sclerosis care plan agreed,1,0,1,300141000000119#,Multiple sclerosis care plan agreed,8CS1,8CS1.00,811881000000109,2117681000000111,NA,32,8CS1.00#
+8IAb.#,Multiple sclerosis review declined,1,0,1,1148911000000119#,Multiple sclerosis review declined,8IAb,8IAb.00,515931000000104,1148911000000119,NA,32,8IAb.00#
+9kG..#,Spec serv for pat with multiple sclerosis - enh serv admin,1,0,1,979461000006111#,Specialised services for patients with multiple sclerosis enhanced services administration,9kG,9kG..00,166411000000100,1154041000000111,NA,37,9kG..00#
+9mD0.#,Multiple sclerosis monitoring first letter,1,0,1,1674381000000115#,Multiple sclerosis monitoring first letter,9mD0,9mD0.00,759051000000102,1674381000000115,NA,37,9mD0.00#
+9mD1.#,Multiple sclerosis monitoring second letter,1,0,1,1674661000000118#,Multiple sclerosis monitoring second letter,9mD1,9mD1.00,759091000000105,1674661000000118,NA,37,9mD1.00#
+9mD..#,Multiple sclerosis monitoring administration,1,0,1,1674121000000119#,Multiple sclerosis monitoring administration,9mD,9mD..00,758981000000100,1674121000000119,NA,37,9mD..00#
+F204.#,Benign multiple sclerosis,1,0,1,641211000000118#,Benign multiple sclerosis,F204,F204.00,438511000,2791037019,NA,32,F204.00#
+F206.#,Primary progressive multiple sclerosis,1,0,1,2692565012#,Primary progressive multiple sclerosis,F206,F206.00,428700003,2692565012,NA,32,F206.00#
+F207.#,Relapsing and remitting multiple sclerosis,1,0,1,1682241000006111#,Relapsing remitting multiple sclerosis,F207,F207.00,426373005,2674690012,NA,32,F207.00#
+F208.#,Secondary progressive multiple sclerosis,1,0,1,2674605012#,Secondary progressive multiple sclerosis,F208,F208.00,425500002,2674605012,NA,32,F208.00#
+147F.#,History of Parkinson's disease,1,0,1,1148731000000112#,History of Parkinson's disease,147F,147F.00,515841000000104,1148731000000112,NA,32,147F.00#
+F11x9#,Cerebral degeneration in Parkinson's disease,1,0,1,636681000000117#,Cerebral degeneration in Parkinson's disease,F11x9,F11x900,341551000000108,636681000000117,NA,32,F11x900#
+F120.#,Paralysis agitans,1,0,1,81719014#,Paralysis agitans,F120,F120.00,49049000,81717011,NA,32,F120.00#
+F390.#,Congenital hereditary muscular dystrophy,0,1,1,178743010#,Congenital hereditary muscular dystrophy,F390,F390.00,111501005,178743010,NA,32,F390.00#
+F390z#,Congenital hereditary muscular dystrophy NOS,0,1,1,297607019#,Congenital hereditary muscular dystrophy NOS,F390z,F390z00,73297009,121721014,NA,32,F390z00#
+F391.#,Hereditary progressive muscular dystrophy,0,1,1,297608012#,Hereditary progressive muscular dystrophy,F391,F391.00,193225000,297608012,NA,32,F391.00#
+F3910#,Duchenne muscular dystrophy,0,1,1,127307018#,Duchenne muscular dystrophy,F3910,F391000,76670001,127307018,NA,32,F391000#
+F3910#,Duchenne muscular dystrophy,0,1,1,198381000006110#,Pseudohypertrophic dystrophy,F3910-1,F391011,76670001,127308011,NA,32,F391011#
+F3911#,Erb's muscular dystrophy,0,1,1,130209011#,Erb's muscular dystrophy,F3911,F391100,78468005,130209011,NA,32,F391100#
+F3912#,Pelvic muscular dystrophy,0,1,1,297610014#,Pelvic muscular dystrophy,F3912,F391200,193227008,297610014,NA,32,F391200#
+F3913#,Other limb girdle muscular dystrophy,0,1,1,27731000006112#,Other limb-girdle muscular dystrophy,F3913,F391300,93153005,154132017,NA,32,F391300#
+F3914#,Facioscapulohumeral muscular dystrophy,0,1,1,661251000006116#,Facioscapulohumeral atrophy,F3914-1,F391411,399091004,1778554019,NA,32,F391411#
+F3914#,Facioscapulohumeral muscular dystrophy,0,1,1,1778554019#,Facioscapulohumeral muscular dystrophy,F3914,F391400,399091004,1778554019,NA,32,F391400#
+F3915#,Distal muscular dystrophy with juvenile onset,0,1,1,625401000006110#,Distal (Gower's) muscular dystrophy,F3915,F391500,193230001,297615016,NA,32,F391500#
+F3916#,Ocular muscular dystrophy,0,1,1,112508017#,Ocular muscular dystrophy,F3916,F391600,67747009,112508017,NA,32,F391600#
+F3917#,Oculopharyngeal muscular dystrophy,0,1,1,127990018#,Oculopharyngeal muscular dystrophy,F3917,F391700,77097004,127990018,NA,32,F391700#
+F3918#,Becker muscular dystrophy,0,1,1,1481810012#,Becker muscular dystrophy,F3918,F391800,387732009,1481810012,NA,32,F391800#
+F391y#,(Oth specif hered progress musc dystrophy) or (distal dystr),0,1,1,399421019#,Other specified hereditary progressive muscular dystrophy,F391y,F391y00,73297009,121721014,NA,32,F391y00#
+F391y#,(Oth specif hered progress musc dystrophy) or (distal dystr),0,1,1,625421000006117#,Distal dystrophy,F391y-1,F391y11,58795000,97704017,NA,32,F391y11#
+F391z#,Hereditary progressive muscular dystrophy NOS,0,1,1,297623019#,Hereditary progressive muscular dystrophy NOS,F391z,F391z00,73297009,121721014,NA,32,F391z00#
+F39B.#,Muscular dystrophy,0,1,1,121721014#,Muscular dystrophy,F39B,F39B.00,73297009,121721014,NA,32,F39B.00#
+X005Q#,Neuraxonal leucodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X005Q#
+X40VL#,Late infantile metachromatic leucodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40VL#
+X40VM#,Juvenile metachromatic leucodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40VM#
+X40VN#,Adult metachromatic leucodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X40VN#
+X708H#,Muscular dystrophy with predom proximl limb girdle distribut,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708H#
+X708I#,X-linked muscular dystrophy with limb girdle distribution,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708I#
+X708J#,X-linked muscular dystrophy with abnormal dystrophin,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708J#
+X708K#,Intermediate X-linked muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708K#
+X708L#,Manifesting female carrier of X-linked muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708L#
+X708M#,X-linked limb girdle muscul dystrophy with normal dystrophin,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708M#
+X708N#,Ji muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708N#
+X708P#,Autosomal recess muscular dystrophy with limb girdle distrib,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708P#
+X708S#,Fukuyama muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708S#
+X708T#,Autosomal recess muscular dystrophy with gene located at 15q,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708T#
+X708U#,Reunion-Indiana Amish type muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708U#
+X708V#,Congenital muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708V#
+X708W#,Western type of congenital muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708W#
+X708Y#,Ullrich congenital muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708Y#
+X708Z#,Eichsfeld type congenital muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708Z#
+X708b#,Hutterite type of muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708b#
+X708d#,Autosomal domin muscular dystrophy with limb girdle distrib,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708d#
+X708e#,Autosomal domin muscular dystrophy with gene located at 5q31,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708e#
+X708f#,Late onset proximal muscular dystrophy with dysarthria,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708f#
+X708g#,Muscular dystrophy not predom limb girdle in distribution,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708g#
+X708h#,X-linked muscular dystrophy not predominantly limb girdle,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708h#
+X708i#,Emery-Dreifuss muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708i#
+X708k#,Autosom recessive muscular dystrophy not predom limb girdle,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708k#
+X708l#,Scapulohumeral muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708l#
+X708m#,Distal muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708m#
+X708n#,Autosomal dominant muscular dystrophy not predom limb girdle,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708n#
+X708o#,Benign scapuloperoneal muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708o#
+X708q#,Benign congen muscular dystrophy wth finger flex contracture,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708q#
+X708r#,Distal muscular dystrophy with adult onset,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X708r#
+XE15p#,Other specified hereditary progressive muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE15p#
+XE18Z#,Muscular dystrophy (& [Duchenne muscular dystrophy]),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE18Z#
+Xa0ON#,Severe childhood autosomal recessive muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0ON#
+Xa0ZY#,Cerebro-oculo-dysgenesis-muscular dystrophy syndrome,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0ZY#
+Xa0lL#,Muscular dystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0lL#
+XaB4V#,Leucodystrophy without a known biochemical basis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaB4V#
+XaXGu#,Adult autosomal dominant leucodystrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXGu#
+X00Em#,Infantile cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Em#
+X00En#,Spastic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00En#
+X00Eo#,Cerebral palsy with spastic tetraparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Eo#
+X00Eq#,Cerebral palsy with spastic/ataxic diplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Eq#
+X00Er#,Monoplegic cerebral palsy affecting upper limb,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Er#
+X00Es#,Monoplegic cerebral palsy affecting lower limb,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Es#
+X00Eu#,Dyskinetic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Eu#
+X00Ew#,Dystonic/rigid cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Ew#
+XE181#,Cerebral palsy (&/or infantile) &/or infantile hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE181#
+XE2Q7#,Athetoid cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2Q7#
+XE2Q8#,Cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2Q8#
+XE2Q9#,Cerebral palsy with spastic diplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2Q9#
+XE2se#,Cerebral palsy with spastic tetraplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2se#
+XM1Pu#,Congenital cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Pu#
+XM1Pv#,Congenital spastic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Pv#
+Xa0lM#,Ataxic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0lM#
+XaBE2#,"Cerebral palsy, not congenital or infantile, acute",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBE2#
+XaYfK#,Spastic hemiplegic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYfK#
+XaYgp#,Spastic quadriplegic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYgp#
+XaaVG#,Gross Motor Function Classification System Cerebral Palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaaVG#
+XaadE#,Choreoathetoid cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaadE#
+Xab3R#,Bilateral spastic cerebral palsy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xab3R#
+A411.#,Creutzfeldt-Jakob disease,0,1,1,2386018#,Jakob-Creutzfeldt disease,A411,A411.00,792004,2386018,NA,32,A411.00#
+F11x7#,Cerebral degeneration due to Creutzfeldt-Jakob disease,0,1,1,542651000006110#,Cerebral degeneration due to Jakob - Creutzfeldt disease,F11x7,F11x700,192818008,297019011,NA,32,F11x700#
+XaA1S#,New variant of Creutzfeldt-Jakob disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaA1S#
+XabVp#,Sporadic Creutzfeldt-Jakob disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XabVp#
+X007Q#,Alternating hemiplegia of childhood,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X007Q#
+X00DE#,Lacunar ataxic hemiparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00DE#
+X76n9#,Hemiparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X76n9#
+XE15T#,Hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE15T#
+XE15U#,Spastic hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE15U#
+Xa0fr#,Right hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0fr#
+Xa0fs#,Left hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0fs#
+Xa0ft#,Right hemiparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0ft#
+Xa0fu#,Left hemiparesis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0fu#
+XaELO#,Residual hemiplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaELO#
+XaL3N#,Hemiparesis NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaL3N#
+Y3466#,Hemiplegic,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y3466#
+Eu022#,[X]Dementia in Huntington's disease,0,1,1,295687017#,Dementia due to Huntington chorea,Eu022,Eu02200,442344002,2820374011,NA,32,Eu02200#
+F134.#,Huntington's disease,0,1,1,97642017#,Huntington's chorea,F134,F134.00,58756001,97642017,NA,32,F134.00#
+X003p#,Juvenile onset Huntington's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X003p#
+X003q#,Late onset Huntington's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X003q#
+X003r#,Akinetic-rigid form of Huntington's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X003r#
+F1304#,Progressive supranuclear palsy,0,1,1,48512013#,Progressive supranuclear ophthalmoplegia,F1304,F130400,28978003,48512013,NA,32,F130400#
+X002i#,Western Pacific motor neurone disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X002i#
+X002j#,Madras-type motor neurone disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X002j#
+X002l#,Paraneoplastic motor neurone disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X002l#
+X005c#,Acute relapsing multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X005c#
+X005d#,Chronic progressive multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X005d#
+X005e#,Remittent-progressive multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X005e#
+X00AX#,Chr inflamm demyelinat polyradiculoneuropathy with cns demye,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00AX#
+XaKA8#,Specialised services for pts with multiple sclerosis ESA,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKA8#
+XaKvm#,Multiple sclerosis review,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKvm#
+XaKvn#,Multiple sclerosis multidisciplinary review,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKvn#
+XaKzg#,Multiple sclerosis care plan agreed,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKzg#
+XaOzZ#,Benign multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOzZ#
+XaP0X#,Malignant multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaP0X#
+XaP0r#,Primary progressive multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaP0r#
+XaP1B#,Relapsing and remitting multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaP1B#
+XaP1V#,Secondary progressive multiple sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaP1V#
+XaPSY#,Management of multiple sclerosis in onset phase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPSY#
+XaPSZ#,Management of multiple sclerosis in early disease phase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPSZ#
+XaPSa#,Management of multiple sclerosis in stable disability phase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPSa#
+XaPSb#,Management of MS in progressive disability phase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPSb#
+XaPSc#,Management of multiple sclerosis in palliative phase,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaPSc#
+XaX9A#,Multiple sclerosis monitoring administration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX9A#
+XaX9F#,Multiple sclerosis monitoring first letter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX9F#
+XaX9H#,Multiple sclerosis monitoring second letter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX9H#
+XaX9J#,Multiple sclerosis monitoring telephone invitation,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX9J#
+XaX9L#,Multiple sclerosis monitoring third letter,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaX9L#
+XaXsg#,Referral to community multiple sclerosis team,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXsg#
+F3800#,Persistent neonatal myasthenia gravis,0,1,1,297580012#,Persistent neonatal myasthenia gravis,F3800,F380000,193206003,297580012,NA,32,F380000#
+F381.#,Myasthenic syndrome due to disease EC,0,1,1,297583014#,Myasthenic syndrome due to disease EC,F381,F381.00,193209005,297583014,NA,32,F381.00#
+F3810#,Eaton Lambert myasthenic syndrome,0,1,1,2168441000000115#,Lambert-Eaton syndrome,F3810-1,F381011,56989000,2168441000000115,NA,32,F381011#
+F3810#,Eaton Lambert myasthenic syndrome,0,1,1,94780015#,Eaton-Lambert syndrome,F3810,F381000,56989000,94780015,NA,32,F381000#
+F3813#,(Myasth syndr due to diab amyotroph) or (diab amyotroph),0,1,1,65526011#,Diabetic amyotrophy,F3813-1,F381311,39058009,65526011,NA,32,F381311#
+F3813#,(Myasth syndr due to diab amyotroph) or (diab amyotroph),0,1,1,399419012#,Myasthenic syndrome due to diabetic amyotrophy,F3813,F381300,267604001,399419012,NA,32,F381300#
+F383.#,Congenital and developmental myasthenia,0,1,1,297593019#,Congenital and developmental myasthenia,F383,F383.00,193216006,297593019,NA,32,F383.00#
+Fyu84#,[X]Other myasthenic syndromes in neoplastic disease CE,0,1,1,412051000006115#,[X]Other myasthenic syndromes in neoplastic disease CE,Fyu84,Fyu8400,91637004,151829017,NA,32,Fyu8400#
+Fyu85#,[X]Myasthenic syndromes/other diseases classified elsewhere,0,1,1,399201000006114#,[X]Myasthenic syndromes/other diseases classified elsewhere,Fyu85,Fyu8500,91637004,151829017,NA,32,Fyu8500#
+X00Cb#,Genetically determined myasthenia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Cb#
+X00Ce#,Congenital myasthenia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Ce#
+X00Cu#,Myasthenia gravis associated with thymoma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Cu#
+X00Cv#,Generalised myasthenia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Cv#
+X00Cw#,Myopathy in myasthenia gravis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Cw#
+XE15n#,Myasthenic syndrome due to diabetic amyotrophy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE15n#
+X003a#,Juvenile Parkinson's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X003a#
+XaOfZ#,Cerebral degeneration in Parkinson's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaOfZ#
+XaQwf#,History of Parkinson's disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaQwf#
+XaZYZ#,Lindop Parkinson's assessment scale,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZYZ#
+XaZxQ#,Referral to Parkinson's service,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZxQ#
+XaaRV#,Referral to community Parkinson's service,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaaRV#
+Xab7w#,Seen by Parkinson's disease service,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xab7w#
+XabbC#,Referral to community Parkinson disease clin nurse spcialist,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XabbC#
+XaeUN#,"Multiple system atrophy, Parkinson variant",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaeUN#
+F140.#,Friedreich ataxia,0,1,1,18091019#,Friedreich ataxia,F140,F140.00,10394003,2840401010,NA,32,F140.00#
+F142.#,Primary cerebellar degeneration,0,1,1,39846012#,Primary cerebellar degeneration,F142,F142.00,23732000,39846012,NA,32,F142.00#
+F142z#,Primary cerebellar degeneration NOS,0,1,1,297108011#,Primary cerebellar degeneration NOS,F142z,F142z00,23732000,39846012,NA,32,F142z00#
+F1440#,Alcoholic cerebellar degeneration,0,1,1,478046010#,Cerebellar ataxia due to alcoholism,F1440,F144000,361272001,478046010,NA,32,F144000#
+X002R#,Prog spinocerebellar ataxia with retained tendon reflexes,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X002R#
+X002U#,Secondary cerebellar degeneration,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X002U#
+XaeUM#,"Multiple system atrophy, cerebellar variant",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaeUM#
+X76je#,Spastic quadriplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X76je#
+XM1Pw#,Congenital quadriplegia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Pw#
+A413.#,Progressive multifocal leucoencephalopathy,0,1,1,37365019#,PML - Progressive multifocal leukoencephalopathy,A413-1,A413.11,22255007,481280018,NA,32,A413.11#
+A413.#,Progressive multifocal leucoencephalopathy,0,1,1,481281019#,Progressive multifocal leucoencephalopathy,A413,A413.00,22255007,481281019,NA,32,A413.00#
+F0301#,Subacute sclerosing panencephalitis,0,1,1,641041000006119#,Encephalitis due to subacute sclerosing panencephalitis,F0301,F030100,192685000,296838010,NA,32,F030100#
+F11x8#,Cerebral degeneration due to multifocal leucoencephalopathy,0,1,1,542661000006112#,Cerebral degeneration due to progressive multifocal leucoencephalopathy,F11x8,F11x800,192819000,297021018,NA,32,F11x800#

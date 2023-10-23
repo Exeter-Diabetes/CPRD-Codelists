@@ -1,0 +1,110 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14A2.#,H/O: hypertension,1,1,2,251674014#,H/O: hypertension,14A2,14A2.00,161501007,251674014,NA,32,14A2.00#
+662F.#,Hypertension treatm. started,1,1,2,264485019#,Treatment for hypertension started,662F,662F.00,170586008,2694699015,NA,1,662F.00#
+662G.#,Hypertensive treatm.changed,1,1,2,264486018#,Hypertensive treatment changed,662G,662G.00,170587004,2871342011,NA,1,662G.00#
+662O.#,On treatment for hypertension,1,1,2,443764015#,On treatment for hypertension,662O,662O.00,302192008,443764015,NA,1,662O.00#
+G2...#,Hypertensive disease,1,1,2,64168014#,Hypertensive disease,G2,G2...00,38341003,64168014,NA,32,G2...00#
+G2...#,Hypertensive disease,1,1,2,523801000006119#,BP - hypertensive disease,G2-1,G2...11,38341003,64168014,NA,32,G2...11#
+G20..#,Essential hypertension,1,1,2,99042012#,Essential hypertension,G20,G20..00,59621000,99042012,NA,32,G20..00#
+G20..#,Essential hypertension,1,1,2,64172013#,Elevated blood pressure,G20-1,G20..11,24184005,196353013,NA,32,G20..11#
+G20..#,Essential hypertension,1,1,2,99047018#,Primary hypertension,G20-2,G20..12,59621000,99047018,NA,32,G20..12#
+G200.#,Malignant essential hypertension,1,1,2,131046010#,Malignant essential hypertension,G200,G200.00,78975002,131046010,NA,32,G200.00#
+G200.#,Malignant essential hypertension,1,1,2,884121000006111#,Malignant hypertension,G200-99,G200.99,78975002,884121000006111,NA,32,G200.99#
+G201.#,Benign essential hypertension,1,1,2,3135013#,Benign essential hypertension,G201,G201.00,1201005,3135013,NA,32,G201.00#
+G202.#,Systolic hypertension,1,1,2,93494011#,Systolic hypertension,G202,G202.00,56218007,93494011,NA,32,G202.00#
+G20z.#,Essential hypertension NOS,1,1,2,395751018#,Essential hypertension NOS,G20z,G20z.00,59621000,99042012,NA,32,G20z.00#
+G20z.#,Essential hypertension NOS,1,1,2,790121000006116#,Hypertension,G20z-1,G20z.11,38341003,64176011,NA,32,G20z.11#
+G21..#,Hypertensive heart disease,1,1,2,107545013#,Hypertensive heart disease,G21,G21..00,64715009,107545013,NA,32,G21..00#
+G210.#,Malignant hypertensive heart disease,1,1,2,90135019#,Malignant hypertensive heart disease,G210,G210.00,54225002,90135019,NA,32,G210.00#
+G2100#,Malignant hypertensive heart disease without CCF,1,1,2,728681000006116#,Malignant hypertensive heart disease without congestive heart failure,G2100,G210000,36315003,60617018,NA,32,G210000#
+G2101#,Malignant hypertensive heart disease with CCF,1,1,2,728671000006119#,Malignant hypertensive heart disease with congestive cardiac failure,G2101,G210100,83105008,1236017010,NA,32,G210100#
+G211.#,Benign hypertensive heart disease,1,1,2,60444016#,Benign hypertensive heart disease,G211,G211.00,36221001,60444016,NA,32,G211.00#
+G2110#,Benign hypertensive heart disease without CCF,1,1,2,504911000006115#,Benign hypertensive heart disease without CCF,G2110,G211000,77970009,129404019,NA,32,G211000#
+G2111#,Benign hypertensive heart disease with CCF,1,1,2,504901000006118#,Benign hypertensive heart disease with congestive cardiac failure,G2111,G211100,194767001,299653017,NA,32,G211100#
+G21z.#,Hypertensive heart disease NOS,1,1,2,741661000006118#,Hypertensive heart disease NOS,G21z,G21z.00,64715009,107545013,NA,32,G21z.00#
+G21z0#,Hypertensive heart disease NOS without CCF,1,1,2,741691000006114#,Hypertensive heart disease NOS without CCF,G21z0,G21z000,64715009,107545013,NA,32,G21z000#
+G21z0#,Hypertensive heart disease NOS without CCF,1,1,2,411508017#,Cardiomegaly - hypertensive,G21z0-1,G21z011,275516004,411508017,NA,32,G21z011#
+G21z1#,Hypertensive heart disease NOS with CCF,1,1,2,741681000006111#,Hypertensive heart disease NOS with CCF,G21z1,G21z100,64715009,107545013,NA,32,G21z100#
+G22..#,Hypertensive renal disease,1,1,2,64282015#,Hypertensive renal disease,G22,G22..00,38481006,64282015,NA,32,G22..00#
+G22..#,Hypertensive renal disease,1,1,2,54939014#,Nephrosclerosis,G22-1,G22..11,38481006,64282015,NA,32,G22..11#
+G220.#,Malignant hypertensive renal disease,1,1,2,108730018#,Malignant hypertensive renal disease,G220,G220.00,65443008,108730018,NA,32,G220.00#
+G221.#,Benign hypertensive renal disease,1,1,2,1409014#,Benign hypertensive renal disease,G221,G221.00,193003,1409014,NA,32,G221.00#
+G222.#,Hypertensive renal disease with renal failure,1,1,2,299665018#,Hypertensive renal disease with renal failure,G222,G222.00,49220004,81984019,NA,32,G222.00#
+G22z.#,Hypertensive renal disease NOS,1,1,2,395753015#,Hypertensive renal disease NOS,G22z,G22z.00,38481006,64282015,NA,32,G22z.00#
+G22z.#,Hypertensive renal disease NOS,1,1,2,47076011#,Renal hypertension,G22z-1,G22z.11,38481006,64282015,NA,32,G22z.11#
+G23..#,Hypertensive heart and renal disease,1,1,2,143003017#,Hypertensive heart AND renal disease,G23,G23..00,86234004,143003017,NA,32,G23..00#
+G23..#,Hypertensive heart and renal disease,1,1,2,884131000006114#,Hypertensive renal + heart dis,G23-99,G23..99,86234004,884131000006114,NA,32,G23..99#
+G230.#,Malignant hypertensive heart and renal disease,1,1,2,110659019#,Malignant hypertensive heart AND renal disease,G230,G230.00,66610008,110659019,NA,32,G230.00#
+G231.#,Benign hypertensive heart and renal disease,1,1,2,109700019#,Benign hypertensive heart AND renal disease,G231,G231.00,66052004,109700019,NA,32,G231.00#
+G232.#,Hypertensive heart&renal dis wth (congestive) heart failure,1,1,2,741701000006114#,Hypertensive heart and renal disease with (congestive) heart failure,G232,G232.00,194779001,299672017,NA,32,G232.00#
+G233.#,Hypertensive heart and renal disease with renal failure,1,1,2,299673010#,Hypertensive heart and renal disease with renal failure,G233,G233.00,194780003,299673010,NA,32,G233.00#
+G234.#,Hyperten heart&renal dis+both(congestv)heart and renal fail,1,1,2,789941000006117#,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,G234,G234.00,194781004,299674016,NA,32,G234.00#
+G23z.#,Hypertensive heart and renal disease NOS,1,1,2,299675015#,Hypertensive heart and renal disease NOS,G23z,G23z.00,86234004,143003017,NA,32,G23z.00#
+G2y..#,Other specified hypertensive disease,1,1,2,299686018#,Other specified hypertensive disease,G2y,G2y..00,38341003,1215744012,NA,32,G2y..00#
+G2z..#,Hypertensive disease NOS,1,1,2,299687010#,Hypertensive disorder,G2z,G2z..00,38341003,1215744012,NA,32,G2z..00#
+G672.#,Hypertensive encephalopathy,1,1,2,84111015#,Hypertensive encephalopathy,G672,G672.00,50490005,84111015,NA,32,G672.00#
+G672.#,Hypertensive encephalopathy,1,1,2,84112010#,Hypertensive crisis,G672-1,G672.11,50490005,84111015,NA,32,G672.11#
+Gyu2.#,[X]Hypertensive diseases,1,1,2,300869017#,[X]Hypertensive diseases,Gyu2,Gyu2.00,38341003,1215744012,NA,32,Gyu2.00#
+L122.#,Other pre-existing hypertension in preg/childbirth/puerp,1,1,2,305764016#,Other pre-existing hypertension in preg/childbirth/puerp,L122,L122.00,86041002,142647015,NA,32,L122.00#
+L1220#,Other pre-existing hypertension in preg/childb/puerp unspec,1,1,2,19451000006111#,Other pre-existing hypertension in preg/childb/puerp unspec,L1220,L122000,86041002,142647015,NA,32,L122000#
+L1221#,Other pre-existing hypertension in preg/childb/puerp - deliv,1,1,2,19431000006116#,Other pre-existing hypertension in preg/childb/puerp - deliv,L1221,L122100,86041002,142647015,NA,32,L122100#
+L1223#,Other pre-exist hypertension in preg/childb/puerp-not deliv,1,1,2,19421000006119#,Other pre-exist hypertension in preg/childb/puerp-not deliv,L1223,L122300,86041002,142647015,NA,32,L122300#
+L122z#,Other pre-existing hypertension in preg/childb/puerp NOS,1,1,2,19441000006114#,Other pre-existing hypertension in preg/childb/puerp NOS,L122z,L122z00,86041002,142647015,NA,32,L122z00#
+L127.#,Pre-eclampsia or eclampsia with pre-existing hypertension,1,1,2,305818015#,Pre-eclampsia or eclampsia with pre-existing hypertension,L127,L127.00,198997005,305818015,NA,32,L127.00#
+L127z#,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,1,1,2,212961000006118#,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,L127z,L127z00,198997005,305818015,NA,32,L127z00#
+L128.#,Pre-exist hypertension compl preg childbirth and puerperium,1,1,2,213111000006112#,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",L128,L128.00,199005000,305826011,NA,32,L128.00#
+L1280#,Pre-exist hyperten heart dis compl preg childbth+puerperium,1,1,2,213091000006115#,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",L1280,L128000,199006004,305827019,NA,32,L128000#
+L1282#,Pre-exist 2ndry hypertens comp preg childbth and puerperium,1,1,2,213081000006118#,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",L1282,L128200,199008003,305829016,NA,32,L128200#
+G24..#,Secondary hypertension,1,1,2,53452019#,Secondary hypertension,G24,G24..00,31992008,53452019,NA,32,G24..00#
+G240.#,Secondary malignant hypertension,1,1,2,151161000006115#,Malignant secondary hypertension,G240,G240.00,89242004,147988014,NA,32,G240.00#
+G2400#,Secondary malignant renovascular hypertension,1,1,2,299676019#,Secondary malignant renovascular hypertension,G2400,G240000,194783001,299676019,NA,32,G240000#
+G240z#,Secondary malignant hypertension NOS,1,1,2,299677011#,Secondary malignant hypertension NOS,G240z,G240z00,89242004,147988014,NA,32,G240z00#
+G241.#,Secondary benign hypertension,1,1,2,299678018#,Secondary benign hypertension,G241,G241.00,194785008,299678018,NA,32,G241.00#
+G2410#,Secondary benign renovascular hypertension,1,1,2,2478822013#,Secondary benign renovascular hypertension,G2410,G241000,73410007,2478822013,NA,32,G241000#
+G241z#,Secondary benign hypertension NOS,1,1,2,299680012#,Benign secondary hypertension,G241z,G241z00,194785008,2470031013,NA,32,G241z00#
+G244.#,Hypertension secondary to endocrine disorders,1,1,2,299681011#,Hypertension secondary to endocrine disorders,G244,G244.00,194788005,299681011,NA,32,G244.00#
+G24z.#,Secondary hypertension NOS,1,1,2,158241000006117#,Secondary hypertension NOS,G24z,G24z.00,31992008,53452019,NA,32,G24z.00#
+G24z0#,Secondary renovascular hypertension NOS,1,1,2,299683014#,Renovascular hypertension,G24z0,G24z000,123799005,192288012,NA,32,G24z000#
+G24zz#,Secondary hypertension NOS,1,1,2,299682016#,Secondary hypertension NOS,G24zz,G24zz00,31992008,53452019,NA,32,G24zz00#
+Gyu21#,[X]Hypertension secondary to other renal disorders,1,1,2,300871017#,[X]Hypertension secondary to other renal disorders,Gyu21,Gyu2100,31992008,53452019,NA,32,Gyu2100#
+6627.#,Good hypertension control,1,0,1,264471012#,Good hypertension control,6627,6627.00,170577003,264471012,NA,1,6627.00#
+6628.#,Poor hypertension control,1,0,1,264472017#,Poor hypertension control,6628,6628.00,170578008,264472017,NA,1,6628.00#
+662b.#,Moderate hypertension control,1,0,1,1780318013#,Moderate hypertension control,662b,662b.00,401117004,1780318013,NA,1,662b.00#
+F4213#,Hypertensive retinopathy,1,0,1,12496011#,Hypertensive retinopathy,F4213,F421300,6962006,12496011,NA,32,F421300#
+G203.#,Diastolic hypertension,1,0,1,80224019#,Diastolic hypertension,G203,G203.00,48146000,80224019,NA,32,G203.00#
+G21zz#,Hypertensive heart disease NOS,1,0,1,299655012#,Hypertensive heart disease NOS,G21zz,G21zz00,64715009,107545013,NA,32,G21zz00#
+6627.#,Good hypertension control,0,1,1,264471012#,Good hypertension control,6627,6627.00,170577003,264471012,NA,1,6627.00#
+6628.#,Poor hypertension control,0,1,1,264472017#,Poor hypertension control,6628,6628.00,170578008,264472017,NA,1,6628.00#
+F4211#,Hypertensive retinopathy,0,1,1,496971000006110#,Atheroscleritic retinopathy,F4211-2,F421112,95691008,158518015,NA,32,F421112#
+F4211#,Hypertensive retinopathy,0,1,1,497011000006117#,Atherosclerotic retinopathy,F4211,F421100,95691008,158518015,NA,32,F421100#
+F4211#,Hypertensive retinopathy,0,1,1,223851000000119#,Arterosclerotic retinopathy,F4211-1,F421111,95691008,158518015,NA,32,F421111#
+G210z#,Malignant hypertensive heart disease NOS,0,1,1,299650019#,Malignant hypertensive heart disease NOS,G210z,G210z00,54225002,90135019,NA,32,G210z00#
+G211z#,Benign hypertensive heart disease NOS,0,1,1,299654011#,Benign hypertensive heart disease NOS,G211z,G211z00,36221001,60444016,NA,32,G211z00#
+Gyu20#,[X]Other secondary hypertension,0,1,1,300870016#,[X]Other secondary hypertension,Gyu20,Gyu2000,31992008,53452019,NA,32,Gyu2000#
+L1222#,Oth pre-exist hypert in preg/childb/puerp -del with p/n comp,0,1,1,39871000006113#,Oth pre-exist hypert in preg/childb/puerp -del with p/n comp,L1222,L122200,86041002,142647015,NA,32,L122200#
+L1224#,Other pre-exist hypertension in preg/childb/puerp + p/n comp,0,1,1,19411000006110#,Other pre-exist hypertension in preg/childb/puerp + p/n comp,L1224,L122400,86041002,142647015,NA,32,L122400#
+L1281#,Pre-exist hyperten heart renal dis comp preg chldbirth/puerp,0,1,1,213101000006114#,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",L1281,L128100,199007008,305828012,NA,32,L128100#
+XE0Ub#,Hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ub#
+XE0Uc#,Essential hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Uc#
+XE0Ud#,Essential hypertension NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ud#
+XE0Ue#,Hypertensive heart disease NOS without CCF,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ue#
+XE0Uf#,Hypertensive renal disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Uf#
+XE0VM#,Hypertensive encephalopathy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0VM#
+XE0W8#,(Hypertensive disease) or (hypertension),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0W8#
+XE0xu#,Pregnancy with hypertension (& [pre-existing]),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0xu#
+XM1Qp#,Cardiomegaly - hypertensive,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Qp#
+XSDSb#,Diastolic hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XSDSb#
+Xa0Cs#,Labile hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0Cs#
+Xa0kX#,Renovascular hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0kX#
+Xa0lt#,Pre-existing hypertension complicating pregnancy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0lt#
+Xa3fQ#,Malignant hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa3fQ#
+Xa8HD#,On treatment for hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa8HD#
+XaIy8#,Moderate hypertension control,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaIy8#
+XaZWm#,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZWm#
+XaZWn#,Severe hypertension (Nat Inst for Health Clinical Ex 2011),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZWn#
+XaZbT#,Hypertension resistant to drug therapy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZbT#
+XaZbz#,Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZbz#
+XaZzo#,Nocturnal hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaZzo#
+Xab9L#,Stage 1 hyperten (NICE 2011) without evidnce end organ damge,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xab9L#
+Xab9M#,Stage 1 hyperten (NICE 2011) with evidnce end organ damge,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xab9M#
+Y1328#,Refractory Hypertension,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Y1328#

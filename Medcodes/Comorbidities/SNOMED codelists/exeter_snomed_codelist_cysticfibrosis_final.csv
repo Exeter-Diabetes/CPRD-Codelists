@@ -1,0 +1,240 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+190905008#,Cystic fibrosis,293528019#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,Cystic fibrosis,293528019#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,CF - Cystic fibrosis,293529010#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,Fibrocystic disease,293530017#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+190905008#,CF,293531018#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,CF,293531018#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,CF,293531018#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,CF,293531018#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,CF,293531018#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,CF,293531018#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,CF,293531018#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,CF,293531018#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,Mucoviscidosis,293532013#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,293539016#,Cystic fibrosis NOS,C370z,C370z00,293528019,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,1227346010#,Cystic fibrosis with combined manifestations,C370y-1,C370y11,293528019,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,293528019#,Cystic fibrosis,C370,C370.00,293528019,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,293530017#,Fibrocystic disease,C370-1,C370.11,293530017,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,4760431000006115#,CF - Cystic fibrosis,^ESCTCF476043,NA,293529010,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,293532013#,Mucoviscidosis,C370-2,C370.12,293532013,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,4760451000006110#,CF,^ESCTCF476045,NA,293531018,NA,32
+190905008#,Cystic fibrosis (disorder),574544017#,1,1,2,451084014#,Cystic fibrosis with other manifestations,C370y,C370y00,293528019,NA,32
+81423003#,Cystic fibrosis without meconium ileus,135084012#,1,1,2,3824111000006115#,Cystic fibrosis without meconium ileus,^ESCTCY382411,NA,135084012,NA,32
+81423003#,Cystic fibrosis without meconium ileus,135084012#,1,1,2,1495466012#,Cystic fibrosis with no meconium ileus,C3700,C370000,1495466012,NA,32
+81423003#,Cystic fibrosis without meconium ileus (disorder),822693016#,1,1,2,3824111000006115#,Cystic fibrosis without meconium ileus,^ESCTCY382411,NA,135084012,NA,32
+81423003#,Cystic fibrosis without meconium ileus (disorder),822693016#,1,1,2,1495466012#,Cystic fibrosis with no meconium ileus,C3700,C370000,1495466012,NA,32
+81423003#,Cystic fibrosis with no meconium ileus,1495466012#,1,1,2,3824111000006115#,Cystic fibrosis without meconium ileus,^ESCTCY382411,NA,135084012,NA,32
+81423003#,Cystic fibrosis with no meconium ileus,1495466012#,1,1,2,1495466012#,Cystic fibrosis with no meconium ileus,C3700,C370000,1495466012,NA,32
+86092005#,Cystic fibrosis with meconium ileus,142759013#,1,1,2,1495490013#,Meconium ileus in cystic fibrosis,C3701-1,C370111,1495490013,NA,32
+86092005#,Cystic fibrosis with meconium ileus,142759013#,1,1,2,142759013#,Cystic fibrosis with meconium ileus,C3701,C370100,142759013,NA,32
+86092005#,Cystic fibrosis with meconium ileus,142759013#,1,1,2,3899691000006112#,Meconium ileus of the newborn,^ESCTME389969,NA,142761016,NA,32
+86092005#,Cystic fibrosis with meconium ileus,142759013#,1,1,2,3899681000006114#,Meconium obstruction of intestine in mucoviscidosis,^ESCTME389968,NA,142760015,NA,32
+86092005#,Meconium obstruction of intestine in mucoviscidosis,142760015#,1,1,2,1495490013#,Meconium ileus in cystic fibrosis,C3701-1,C370111,1495490013,NA,32
+86092005#,Meconium obstruction of intestine in mucoviscidosis,142760015#,1,1,2,142759013#,Cystic fibrosis with meconium ileus,C3701,C370100,142759013,NA,32
+86092005#,Meconium obstruction of intestine in mucoviscidosis,142760015#,1,1,2,3899691000006112#,Meconium ileus of the newborn,^ESCTME389969,NA,142761016,NA,32
+86092005#,Meconium obstruction of intestine in mucoviscidosis,142760015#,1,1,2,3899681000006114#,Meconium obstruction of intestine in mucoviscidosis,^ESCTME389968,NA,142760015,NA,32
+86092005#,Cystic fibrosis with meconium ileus (disorder),828283011#,1,1,2,1495490013#,Meconium ileus in cystic fibrosis,C3701-1,C370111,1495490013,NA,32
+86092005#,Cystic fibrosis with meconium ileus (disorder),828283011#,1,1,2,142759013#,Cystic fibrosis with meconium ileus,C3701,C370100,142759013,NA,32
+86092005#,Cystic fibrosis with meconium ileus (disorder),828283011#,1,1,2,3899691000006112#,Meconium ileus of the newborn,^ESCTME389969,NA,142761016,NA,32
+86092005#,Cystic fibrosis with meconium ileus (disorder),828283011#,1,1,2,3899681000006114#,Meconium obstruction of intestine in mucoviscidosis,^ESCTME389968,NA,142760015,NA,32
+86092005#,Meconium ileus in cystic fibrosis,1495490013#,1,1,2,1495490013#,Meconium ileus in cystic fibrosis,C3701-1,C370111,1495490013,NA,32
+86092005#,Meconium ileus in cystic fibrosis,1495490013#,1,1,2,142759013#,Cystic fibrosis with meconium ileus,C3701,C370100,142759013,NA,32
+86092005#,Meconium ileus in cystic fibrosis,1495490013#,1,1,2,3899691000006112#,Meconium ileus of the newborn,^ESCTME389969,NA,142761016,NA,32
+86092005#,Meconium ileus in cystic fibrosis,1495490013#,1,1,2,3899681000006114#,Meconium obstruction of intestine in mucoviscidosis,^ESCTME389968,NA,142760015,NA,32
+86555001#,Cystic fibrosis of the lung,143537016#,1,1,2,3907561000006119#,Pulmonary cystic fibrosis,^ESCTPU390756,NA,143539018,NA,32
+86555001#,Cystic fibrosis of the lung,143537016#,1,1,2,606441000006110#,Cystic fibrosis of the lung,C3702,C370200,143537016,NA,32
+86555001#,Cystic fibrosis of the lung,143537016#,1,1,2,3907551000006116#,Mucoviscidosis involving the lung,^ESCTMU390755,NA,143538014,NA,32
+86555001#,Mucoviscidosis involving the lung,143538014#,1,1,2,3907561000006119#,Pulmonary cystic fibrosis,^ESCTPU390756,NA,143539018,NA,32
+86555001#,Mucoviscidosis involving the lung,143538014#,1,1,2,606441000006110#,Cystic fibrosis of the lung,C3702,C370200,143537016,NA,32
+86555001#,Mucoviscidosis involving the lung,143538014#,1,1,2,3907551000006116#,Mucoviscidosis involving the lung,^ESCTMU390755,NA,143538014,NA,32
+86555001#,Pulmonary cystic fibrosis,143539018#,1,1,2,3907561000006119#,Pulmonary cystic fibrosis,^ESCTPU390756,NA,143539018,NA,32
+86555001#,Pulmonary cystic fibrosis,143539018#,1,1,2,606441000006110#,Cystic fibrosis of the lung,C3702,C370200,143537016,NA,32
+86555001#,Pulmonary cystic fibrosis,143539018#,1,1,2,3907551000006116#,Mucoviscidosis involving the lung,^ESCTMU390755,NA,143538014,NA,32
+86555001#,Cystic fibrosis of the lung (disorder),828843013#,1,1,2,3907561000006119#,Pulmonary cystic fibrosis,^ESCTPU390756,NA,143539018,NA,32
+86555001#,Cystic fibrosis of the lung (disorder),828843013#,1,1,2,606441000006110#,Cystic fibrosis of the lung,C3702,C370200,143537016,NA,32
+86555001#,Cystic fibrosis of the lung (disorder),828843013#,1,1,2,3907551000006116#,Mucoviscidosis involving the lung,^ESCTMU390755,NA,143538014,NA,32
+190909002#,Cystic fibrosis with intestinal manifestations,293537019#,1,1,2,293537019#,Cystic fibrosis with intestinal manifestations,C3703,C370300,293537019,NA,32
+190909002#,Cystic fibrosis with intestinal manifestations (disorder),574548019#,1,1,2,293537019#,Cystic fibrosis with intestinal manifestations,C3703,C370300,293537019,NA,32
+426705001#,Diabetes mellitus associated with cystic fibrosis (disorder),2662758014#,1,1,2,7063141000006118#,Diabetes mellitus co-occurrent and due to cystic fibrosis,^ESCTDI706314,NA,3440582013,NA,32
+426705001#,Diabetes mellitus associated with cystic fibrosis (disorder),2662758014#,1,1,2,494831000000119#,Diabetes mellitus associated with cystic fibrosis,C10N1,C10N100,2674608014,NA,32
+426705001#,Diabetes mellitus associated with cystic fibrosis,2674608014#,1,1,2,7063141000006118#,Diabetes mellitus co-occurrent and due to cystic fibrosis,^ESCTDI706314,NA,3440582013,NA,32
+426705001#,Diabetes mellitus associated with cystic fibrosis,2674608014#,1,1,2,494831000000119#,Diabetes mellitus associated with cystic fibrosis,C10N1,C10N100,2674608014,NA,32
+426705001#,Diabetes mellitus co-occurrent and due to cystic fibrosis (disorder),3440581018#,1,1,2,7063141000006118#,Diabetes mellitus co-occurrent and due to cystic fibrosis,^ESCTDI706314,NA,3440582013,NA,32
+426705001#,Diabetes mellitus co-occurrent and due to cystic fibrosis (disorder),3440581018#,1,1,2,494831000000119#,Diabetes mellitus associated with cystic fibrosis,C10N1,C10N100,2674608014,NA,32
+426705001#,Diabetes mellitus co-occurrent and due to cystic fibrosis,3440582013#,1,1,2,7063141000006118#,Diabetes mellitus co-occurrent and due to cystic fibrosis,^ESCTDI706314,NA,3440582013,NA,32
+426705001#,Diabetes mellitus co-occurrent and due to cystic fibrosis,3440582013#,1,1,2,494831000000119#,Diabetes mellitus associated with cystic fibrosis,C10N1,C10N100,2674608014,NA,32
+427022004#,Liver disease due to cystic fibrosis (disorder),2661423014#,1,1,2,2675247013#,Liver disease due to cystic fibrosis,C3707,C370700,2675247013,NA,32
+427022004#,Liver disease due to cystic fibrosis,2675247013#,1,1,2,2675247013#,Liver disease due to cystic fibrosis,C3707,C370700,2675247013,NA,32
+235978006#,Cystic fibrosis of pancreas,353731011#,1,1,2,5088111000006112#,Fibrocystic disease of the pancreas,^ESCTFI508811,NA,353732016,NA,31
+235978006#,Cystic fibrosis of pancreas,353731011#,1,1,2,5088121000006116#,Mucoviscidosis of pancreas,^ESCTMU508812,NA,353733014,NA,31
+235978006#,Cystic fibrosis of pancreas,353731011#,1,1,2,5088101000006114#,Cystic fibrosis of pancreas,^ESCTCY508810,NA,353731011,NA,31
+235978006#,Cystic fibrosis of pancreas,353731011#,1,1,2,5088131000006118#,Fibrocystic disease of pancreas,^ESCTFI508813,NA,353734015,NA,31
+235978006#,Fibrocystic disease of the pancreas,353732016#,1,1,2,5088111000006112#,Fibrocystic disease of the pancreas,^ESCTFI508811,NA,353732016,NA,31
+235978006#,Fibrocystic disease of the pancreas,353732016#,1,1,2,5088121000006116#,Mucoviscidosis of pancreas,^ESCTMU508812,NA,353733014,NA,31
+235978006#,Fibrocystic disease of the pancreas,353732016#,1,1,2,5088101000006114#,Cystic fibrosis of pancreas,^ESCTCY508810,NA,353731011,NA,31
+235978006#,Fibrocystic disease of the pancreas,353732016#,1,1,2,5088131000006118#,Fibrocystic disease of pancreas,^ESCTFI508813,NA,353734015,NA,31
+235978006#,Mucoviscidosis of pancreas,353733014#,1,1,2,5088111000006112#,Fibrocystic disease of the pancreas,^ESCTFI508811,NA,353732016,NA,31
+235978006#,Mucoviscidosis of pancreas,353733014#,1,1,2,5088121000006116#,Mucoviscidosis of pancreas,^ESCTMU508812,NA,353733014,NA,31
+235978006#,Mucoviscidosis of pancreas,353733014#,1,1,2,5088101000006114#,Cystic fibrosis of pancreas,^ESCTCY508810,NA,353731011,NA,31
+235978006#,Mucoviscidosis of pancreas,353733014#,1,1,2,5088131000006118#,Fibrocystic disease of pancreas,^ESCTFI508813,NA,353734015,NA,31
+235978006#,Fibrocystic disease of pancreas,353734015#,1,1,2,5088111000006112#,Fibrocystic disease of the pancreas,^ESCTFI508811,NA,353732016,NA,31
+235978006#,Fibrocystic disease of pancreas,353734015#,1,1,2,5088121000006116#,Mucoviscidosis of pancreas,^ESCTMU508812,NA,353733014,NA,31
+235978006#,Fibrocystic disease of pancreas,353734015#,1,1,2,5088101000006114#,Cystic fibrosis of pancreas,^ESCTCY508810,NA,353731011,NA,31
+235978006#,Fibrocystic disease of pancreas,353734015#,1,1,2,5088131000006118#,Fibrocystic disease of pancreas,^ESCTFI508813,NA,353734015,NA,31
+235978006#,Cystic fibrosis of pancreas (disorder),624511014#,1,1,2,5088111000006112#,Fibrocystic disease of the pancreas,^ESCTFI508811,NA,353732016,NA,31
+235978006#,Cystic fibrosis of pancreas (disorder),624511014#,1,1,2,5088121000006116#,Mucoviscidosis of pancreas,^ESCTMU508812,NA,353733014,NA,31
+235978006#,Cystic fibrosis of pancreas (disorder),624511014#,1,1,2,5088101000006114#,Cystic fibrosis of pancreas,^ESCTCY508810,NA,353731011,NA,31
+235978006#,Cystic fibrosis of pancreas (disorder),624511014#,1,1,2,5088131000006118#,Fibrocystic disease of pancreas,^ESCTFI508813,NA,353734015,NA,31
+85809002#,Cystic fibrosis,142247013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+154767009#,Cystic fibrosis,240664011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190906009#,Cystic fibrosis with no meconium ileus,293533015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190907000#,Meconium ileus in cystic fibrosis,293534014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190907000#,Cystic fibrosis with meconium ileus,293535010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190908005#,Cystic fibrosis with pulmonary manifestations,293536011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190910007#,Cystic fibrosis with other manifestations,293538012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190911006#,Cystic fibrosis NOS,293539016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+307732006#,Cystic fibrosis with other manifestations,451084014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+154767009#,Cystic fibrosis,535023014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190906009#,Cystic fibrosis with no meconium ileus (disorder),574545016#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190907000#,Meconium ileus in cystic fibrosis (disorder),574546015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190908005#,Cystic fibrosis with pulmonary manifestations (disorder),574547012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190910007#,Cystic fibrosis with other manifestations,574549010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+190911006#,Cystic fibrosis NOS (disorder),574550010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+307732006#,Cystic fibrosis with other manifestations (disorder),704292014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+85809002#,Cystic fibrosis (disorder) [Ambiguous],827940010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+307732006#,Cystic fibrosis with combined manifestations,1227346010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+206471004#,Perinatal jaundice due to cystic fibrosis,2532189012#,1,0,1,4838121000006118#,Perinatal jaundice due to cystic fibrosis,^ESCTPE483812,NA,2532189012,NA,32
+206471004#,Perinatal jaundice due to cystic fibrosis,2532189012#,1,0,1,316643011#,Perinatal jaundice due to mucoviscidosis,Q4352,Q435200,316643011,NA,32
+427089005#,Diabetes mellitus due to cystic fibrosis (disorder),2661426018#,1,0,1,7068831000006114#,Diabetes mellitus due to cystic fibrosis,^ESCTDI706883,NA,2675251010,NA,31
+427089005#,Diabetes mellitus due to cystic fibrosis,2675251010#,1,0,1,7068831000006114#,Diabetes mellitus due to cystic fibrosis,^ESCTDI706883,NA,2675251010,NA,31
+190910007#,Cystic fibrosis with other manifestations (disorder),2720976019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+85809002#,Cystic fibrosis (disorder),2743966014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+154767009#,Cystic fibrosis (disorder),2757925018#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+698940002#,Arthropathy associated with cystic fibrosis,2981772011#,1,0,1,7514991000006113#,Arthropathy associated with cystic fibrosis,^ESCTAR751499,NA,2981772011,NA,31
+698940002#,Arthropathy associated with cystic fibrosis (disorder),2981959015#,1,0,1,7514991000006113#,Arthropathy associated with cystic fibrosis,^ESCTAR751499,NA,2981772011,NA,31
+707418001#,Male infertility due to cystic fibrosis (disorder),3030099016#,1,0,1,7617251000006110#,Male infertility in classical cystic fibrosis,^ESCTMA761725,NA,3030103014,NA,31
+707418001#,Male infertility due to cystic fibrosis (disorder),3030099016#,1,0,1,7617241000006113#,Male infertility due to cystic fibrosis,^ESCTMA761724,NA,3030124016,NA,31
+707419009#,Osteoporosis due to cystic fibrosis,3030101011#,1,0,1,7617261000006112#,Osteoporosis due to cystic fibrosis,^ESCTOS761726,NA,3030101011,NA,31
+707419009#,Osteoporosis due to cystic fibrosis,3030101011#,1,0,1,7617271000006117#,Osteoporosis in classical cystic fibrosis,^ESCTOS761727,NA,3030132012,NA,31
+707418001#,Male infertility in classical cystic fibrosis,3030103014#,1,0,1,7617251000006110#,Male infertility in classical cystic fibrosis,^ESCTMA761725,NA,3030103014,NA,31
+707418001#,Male infertility in classical cystic fibrosis,3030103014#,1,0,1,7617241000006113#,Male infertility due to cystic fibrosis,^ESCTMA761724,NA,3030124016,NA,31
+707420003#,Portal hypertension due to cystic fibrosis,3030104015#,1,0,1,7617291000006116#,Portal hypertension in classical cystic fibrosis,^ESCTPO761729,NA,3030122017,NA,31
+707420003#,Portal hypertension due to cystic fibrosis,3030104015#,1,0,1,7617281000006119#,Portal hypertension due to cystic fibrosis,^ESCTPO761728,NA,3030104015,NA,31
+707420003#,Portal hypertension due to cystic fibrosis (disorder),3030109013#,1,0,1,7617291000006116#,Portal hypertension in classical cystic fibrosis,^ESCTPO761729,NA,3030122017,NA,31
+707420003#,Portal hypertension due to cystic fibrosis (disorder),3030109013#,1,0,1,7617281000006119#,Portal hypertension due to cystic fibrosis,^ESCTPO761728,NA,3030104015,NA,31
+707420003#,Portal hypertension in classical cystic fibrosis,3030122017#,1,0,1,7617291000006116#,Portal hypertension in classical cystic fibrosis,^ESCTPO761729,NA,3030122017,NA,31
+707420003#,Portal hypertension in classical cystic fibrosis,3030122017#,1,0,1,7617281000006119#,Portal hypertension due to cystic fibrosis,^ESCTPO761728,NA,3030104015,NA,31
+707418001#,Male infertility due to cystic fibrosis,3030124016#,1,0,1,7617251000006110#,Male infertility in classical cystic fibrosis,^ESCTMA761725,NA,3030103014,NA,31
+707418001#,Male infertility due to cystic fibrosis,3030124016#,1,0,1,7617241000006113#,Male infertility due to cystic fibrosis,^ESCTMA761724,NA,3030124016,NA,31
+707419009#,Osteoporosis due to cystic fibrosis (disorder),3030131017#,1,0,1,7617261000006112#,Osteoporosis due to cystic fibrosis,^ESCTOS761726,NA,3030101011,NA,31
+707419009#,Osteoporosis due to cystic fibrosis (disorder),3030131017#,1,0,1,7617271000006117#,Osteoporosis in classical cystic fibrosis,^ESCTOS761727,NA,3030132012,NA,31
+707419009#,Osteoporosis in classical cystic fibrosis,3030132012#,1,0,1,7617261000006112#,Osteoporosis due to cystic fibrosis,^ESCTOS761726,NA,3030101011,NA,31
+707419009#,Osteoporosis in classical cystic fibrosis,3030132012#,1,0,1,7617271000006117#,Osteoporosis in classical cystic fibrosis,^ESCTOS761727,NA,3030132012,NA,31
+707450006#,Pancreatic insufficiency due to cystic fibrosis of pancreas (disorder),3030196013#,1,0,1,7617671000006115#,Pancreatic insufficiency due to cystic fibrosis of pancreas,^ESCTPA761767,NA,3030197016,NA,31
+707450006#,Pancreatic insufficiency due to cystic fibrosis of pancreas,3030197016#,1,0,1,7617671000006115#,Pancreatic insufficiency due to cystic fibrosis of pancreas,^ESCTPA761767,NA,3030197016,NA,31
+707536003#,Digestive system manifestation co-occurrent and due to cystic fibrosis,3030424013#,1,0,1,7619291000006113#,Digestive manifestation of classical cystic fibrosis,^ESCTDI761929,NA,3030494018,NA,31
+707536003#,Digestive system manifestation co-occurrent and due to cystic fibrosis,3030424013#,1,0,1,7619281000006110#,Digestive system manifestation co-occurrent and due to cystic fibrosis,^ESCTDI761928,NA,3030424013,NA,31
+707542004#,Otorhinolaryngological manifestation of classical cystic fibrosis,3030431012#,1,0,1,7619391000006119#,Otorhinolaryngological manifestation of classical cystic fibrosis,^ESCTOT761939,NA,3030431012,NA,31
+707542004#,Otorhinolaryngological manifestation of classical cystic fibrosis,3030431012#,1,0,1,7619381000006117#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis,^ESCTOT761938,NA,3030868016,NA,31
+707536003#,Digestive system manifestation co-occurrent and due to cystic fibrosis (disorder),3030475011#,1,0,1,7619291000006113#,Digestive manifestation of classical cystic fibrosis,^ESCTDI761929,NA,3030494018,NA,31
+707536003#,Digestive system manifestation co-occurrent and due to cystic fibrosis (disorder),3030475011#,1,0,1,7619281000006110#,Digestive system manifestation co-occurrent and due to cystic fibrosis,^ESCTDI761928,NA,3030424013,NA,31
+707536003#,Digestive manifestation of classical cystic fibrosis,3030494018#,1,0,1,7619291000006113#,Digestive manifestation of classical cystic fibrosis,^ESCTDI761929,NA,3030494018,NA,31
+707536003#,Digestive manifestation of classical cystic fibrosis,3030494018#,1,0,1,7619281000006110#,Digestive system manifestation co-occurrent and due to cystic fibrosis,^ESCTDI761928,NA,3030424013,NA,31
+707577004#,Female infertility due to cystic fibrosis (disorder),3030602015#,1,0,1,7620171000006116#,Female hypofertility due to cystic fibrosis,^ESCTFE762017,NA,3030648012,NA,31
+707577004#,Female infertility due to cystic fibrosis (disorder),3030602015#,1,0,1,7620151000006114#,Female infertility due to cystic fibrosis,^ESCTFE762015,NA,3030631016,NA,31
+707577004#,Female infertility due to cystic fibrosis (disorder),3030602015#,1,0,1,7620161000006111#,Female hypofertility in classical cystic fibrosis,^ESCTFE762016,NA,3030614011,NA,31
+707577004#,Female hypofertility in classical cystic fibrosis,3030614011#,1,0,1,7620171000006116#,Female hypofertility due to cystic fibrosis,^ESCTFE762017,NA,3030648012,NA,31
+707577004#,Female hypofertility in classical cystic fibrosis,3030614011#,1,0,1,7620151000006114#,Female infertility due to cystic fibrosis,^ESCTFE762015,NA,3030631016,NA,31
+707577004#,Female hypofertility in classical cystic fibrosis,3030614011#,1,0,1,7620161000006111#,Female hypofertility in classical cystic fibrosis,^ESCTFE762016,NA,3030614011,NA,31
+707577004#,Female infertility due to cystic fibrosis,3030631016#,1,0,1,7620171000006116#,Female hypofertility due to cystic fibrosis,^ESCTFE762017,NA,3030648012,NA,31
+707577004#,Female infertility due to cystic fibrosis,3030631016#,1,0,1,7620151000006114#,Female infertility due to cystic fibrosis,^ESCTFE762015,NA,3030631016,NA,31
+707577004#,Female infertility due to cystic fibrosis,3030631016#,1,0,1,7620161000006111#,Female hypofertility in classical cystic fibrosis,^ESCTFE762016,NA,3030614011,NA,31
+707577004#,Female hypofertility due to cystic fibrosis,3030648012#,1,0,1,7620171000006116#,Female hypofertility due to cystic fibrosis,^ESCTFE762017,NA,3030648012,NA,31
+707577004#,Female hypofertility due to cystic fibrosis,3030648012#,1,0,1,7620151000006114#,Female infertility due to cystic fibrosis,^ESCTFE762015,NA,3030631016,NA,31
+707577004#,Female hypofertility due to cystic fibrosis,3030648012#,1,0,1,7620161000006111#,Female hypofertility in classical cystic fibrosis,^ESCTFE762016,NA,3030614011,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus (disorder),3030657018#,1,0,1,7620181000006118#,Perforation of intestine due to cystic fibrosis with meconium ileus,^ESCTPE762018,NA,3030671014,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus (disorder),3030657018#,1,0,1,7620201000006117#,Intestinal perforation due to cystic fibrosis with meconium ileus,^ESCTIN762020,NA,3034788018,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus (disorder),3030657018#,1,0,1,7620191000006115#,Meconium ileus in cystic fibrosis with perforation,^ESCTME762019,NA,3030666019,NA,31
+707578009#,Meconium ileus in cystic fibrosis with perforation,3030666019#,1,0,1,7620181000006118#,Perforation of intestine due to cystic fibrosis with meconium ileus,^ESCTPE762018,NA,3030671014,NA,31
+707578009#,Meconium ileus in cystic fibrosis with perforation,3030666019#,1,0,1,7620201000006117#,Intestinal perforation due to cystic fibrosis with meconium ileus,^ESCTIN762020,NA,3034788018,NA,31
+707578009#,Meconium ileus in cystic fibrosis with perforation,3030666019#,1,0,1,7620191000006115#,Meconium ileus in cystic fibrosis with perforation,^ESCTME762019,NA,3030666019,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus,3030671014#,1,0,1,7620181000006118#,Perforation of intestine due to cystic fibrosis with meconium ileus,^ESCTPE762018,NA,3030671014,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus,3030671014#,1,0,1,7620201000006117#,Intestinal perforation due to cystic fibrosis with meconium ileus,^ESCTIN762020,NA,3034788018,NA,31
+707578009#,Perforation of intestine due to cystic fibrosis with meconium ileus,3030671014#,1,0,1,7620191000006115#,Meconium ileus in cystic fibrosis with perforation,^ESCTME762019,NA,3030666019,NA,31
+707542004#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis,3030868016#,1,0,1,7619391000006119#,Otorhinolaryngological manifestation of classical cystic fibrosis,^ESCTOT761939,NA,3030431012,NA,31
+707542004#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis,3030868016#,1,0,1,7619381000006117#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis,^ESCTOT761938,NA,3030868016,NA,31
+707542004#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis (disorder),3030873010#,1,0,1,7619391000006119#,Otorhinolaryngological manifestation of classical cystic fibrosis,^ESCTOT761939,NA,3030431012,NA,31
+707542004#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis (disorder),3030873010#,1,0,1,7619381000006117#,Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis,^ESCTOT761938,NA,3030868016,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis (disorder),3031263014#,1,0,1,7622831000006110#,Elevated hepatic enzymes in classical cystic fibrosis,^ESCTEL762283,NA,3031348013,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis (disorder),3031263014#,1,0,1,7622821000006112#,Elevated liver enzymes level due to cystic fibrosis,^ESCTEL762282,NA,3031287011,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis,3031287011#,1,0,1,7622831000006110#,Elevated hepatic enzymes in classical cystic fibrosis,^ESCTEL762283,NA,3031348013,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis,3031287011#,1,0,1,7622821000006112#,Elevated liver enzymes level due to cystic fibrosis,^ESCTEL762282,NA,3031287011,NA,31
+707766007#,Exocrine pancreatic manifestation of classic cystic fibrosis,3031326019#,1,0,1,7623271000006117#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,^ESCTEX762327,NA,3031398014,NA,31
+707766007#,Exocrine pancreatic manifestation of classic cystic fibrosis,3031326019#,1,0,1,7623281000006119#,Exocrine pancreatic manifestation of classic cystic fibrosis,^ESCTEX762328,NA,3031326019,NA,31
+707734002#,Elevated hepatic enzymes in classical cystic fibrosis,3031348013#,1,0,1,7622831000006110#,Elevated hepatic enzymes in classical cystic fibrosis,^ESCTEL762283,NA,3031348013,NA,31
+707734002#,Elevated hepatic enzymes in classical cystic fibrosis,3031348013#,1,0,1,7622821000006112#,Elevated liver enzymes level due to cystic fibrosis,^ESCTEL762282,NA,3031287011,NA,31
+707766007#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis (disorder),3031356011#,1,0,1,7623271000006117#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,^ESCTEX762327,NA,3031398014,NA,31
+707766007#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis (disorder),3031356011#,1,0,1,7623281000006119#,Exocrine pancreatic manifestation of classic cystic fibrosis,^ESCTEX762328,NA,3031326019,NA,31
+707766007#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,3031398014#,1,0,1,7623271000006117#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,^ESCTEX762327,NA,3031398014,NA,31
+707766007#,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis,3031398014#,1,0,1,7623281000006119#,Exocrine pancreatic manifestation of classic cystic fibrosis,^ESCTEX762328,NA,3031326019,NA,31
+707578009#,Intestinal perforation due to cystic fibrosis with meconium ileus,3034788018#,1,0,1,7620181000006118#,Perforation of intestine due to cystic fibrosis with meconium ileus,^ESCTPE762018,NA,3030671014,NA,31
+707578009#,Intestinal perforation due to cystic fibrosis with meconium ileus,3034788018#,1,0,1,7620201000006117#,Intestinal perforation due to cystic fibrosis with meconium ileus,^ESCTIN762020,NA,3034788018,NA,31
+707578009#,Intestinal perforation due to cystic fibrosis with meconium ileus,3034788018#,1,0,1,7620191000006115#,Meconium ileus in cystic fibrosis with perforation,^ESCTME762019,NA,3030666019,NA,31
+716088000#,Follicular hamartoma with alopecia and cystic fibrosis syndrome (disorder),3304685012#,1,0,1,7742121000006112#,Follicular hamartoma with alopecia and cystic fibrosis syndrome,^ESCTFO774212,NA,3304686013,NA,31
+716088000#,Follicular hamartoma with alopecia and cystic fibrosis syndrome,3304686013#,1,0,1,7742121000006112#,Follicular hamartoma with alopecia and cystic fibrosis syndrome,^ESCTFO774212,NA,3304686013,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome (disorder),3320635015#,1,0,1,7803031000006110#,Lubani Al-Saleh Teebi syndrome,^ESCTLU780303,NA,3322186017,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome (disorder),3320635015#,1,0,1,7803011000006116#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,^ESCTCY780301,NA,3322185018,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome (disorder),3320635015#,1,0,1,7803021000006112#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,^ESCTCY780302,NA,3320636019,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,3320636019#,1,0,1,7803031000006110#,Lubani Al-Saleh Teebi syndrome,^ESCTLU780303,NA,3322186017,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,3320636019#,1,0,1,7803011000006116#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,^ESCTCY780301,NA,3322185018,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,3320636019#,1,0,1,7803021000006112#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,^ESCTCY780302,NA,3320636019,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,3322185018#,1,0,1,7803031000006110#,Lubani Al-Saleh Teebi syndrome,^ESCTLU780303,NA,3322186017,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,3322185018#,1,0,1,7803011000006116#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,^ESCTCY780301,NA,3322185018,NA,31
+720401009#,Cystic fibrosis with gastritis and megaloblastic anaemia syndrome,3322185018#,1,0,1,7803021000006112#,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,^ESCTCY780302,NA,3320636019,NA,31
+721197001#,Polyneuropathy due to classical cystic fibrosis (disorder),3324587015#,1,0,1,7813571000006118#,Polyneuropathy due to classical cystic fibrosis,^ESCTPO781357,NA,3324588013,NA,31
+721197001#,Polyneuropathy due to classical cystic fibrosis,3324588013#,1,0,1,7813571000006118#,Polyneuropathy due to classical cystic fibrosis,^ESCTPO781357,NA,3324588013,NA,31
+725052002#,Fetal cystic fibrosis (disorder),3437590014#,1,0,1,7864831000006119#,Foetal cystic fibrosis,^ESCTFO786483,NA,3437592018,NA,31
+725052002#,Fetal cystic fibrosis (disorder),3437590014#,1,0,1,7864821000006117#,Fetal cystic fibrosis,^ESCTFE786482,NA,3437591013,NA,31
+725052002#,Fetal cystic fibrosis,3437591013#,1,0,1,7864831000006119#,Foetal cystic fibrosis,^ESCTFO786483,NA,3437592018,NA,31
+725052002#,Fetal cystic fibrosis,3437591013#,1,0,1,7864821000006117#,Fetal cystic fibrosis,^ESCTFE786482,NA,3437591013,NA,31
+725052002#,Foetal cystic fibrosis,3437592018#,1,0,1,7864831000006119#,Foetal cystic fibrosis,^ESCTFO786483,NA,3437592018,NA,31
+725052002#,Foetal cystic fibrosis,3437592018#,1,0,1,7864821000006117#,Fetal cystic fibrosis,^ESCTFE786482,NA,3437591013,NA,31
+762269004#,Classical cystic fibrosis (disorder),3636279017#,1,0,1,3636280019#,Classical cystic fibrosis,^ESCT1168917,NA,3636280019,NA,31
+762269004#,Classical cystic fibrosis,3636280019#,1,0,1,3636280019#,Classical cystic fibrosis,^ESCT1168917,NA,3636280019,NA,31
+762270003#,Atypical cystic fibrosis (disorder),3636281015#,1,0,1,3636282010#,Atypical cystic fibrosis,^ESCT1168918,NA,3636282010,NA,31
+762270003#,Atypical cystic fibrosis,3636282010#,1,0,1,3636282010#,Atypical cystic fibrosis,^ESCT1168918,NA,3636282010,NA,31
+762271004#,Subclinical cystic fibrosis,3636283017#,1,0,1,3636283017#,Subclinical cystic fibrosis,^ESCT1168919,NA,3636283017,NA,31
+762271004#,Subclinical cystic fibrosis (disorder),3636284011#,1,0,1,3636283017#,Subclinical cystic fibrosis,^ESCT1168919,NA,3636283017,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis (finding),3777951019#,1,0,1,7622831000006110#,Elevated hepatic enzymes in classical cystic fibrosis,^ESCTEL762283,NA,3031348013,NA,31
+707734002#,Elevated liver enzymes level due to cystic fibrosis (finding),3777951019#,1,0,1,7622821000006112#,Elevated liver enzymes level due to cystic fibrosis,^ESCTEL762282,NA,3031287011,NA,31
+817966005#,Distal intestinal obstruction syndrome due to cystic fibrosis,3854356014#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+817966005#,Distal intestinal obstruction syndrome due to cystic fibrosis (disorder),3854357017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+817966005#,DIOS (distal intestinal obstruction syndrome) due to cystic fibrosis,3854358010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA

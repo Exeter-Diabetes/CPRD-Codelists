@@ -1,0 +1,98 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+23022004#,Tuberculous bronchiectasis,38677017#,1,1,2,38677017#,Tuberculous bronchiectasis,A115,A115.00,38677017,NA,32
+23022004#,Tuberculous bronchiectasis,38677017#,1,1,2,2867041000006113#,Post-tuberculous bronchiectasis,^ESCTPO286704,NA,1223017012,NA,32
+23022004#,Tuberculous bronchiectasis (disorder),752496017#,1,1,2,38677017#,Tuberculous bronchiectasis,A115,A115.00,38677017,NA,32
+23022004#,Tuberculous bronchiectasis (disorder),752496017#,1,1,2,2867041000006113#,Post-tuberculous bronchiectasis,^ESCTPO286704,NA,1223017012,NA,32
+23022004#,Post-tuberculous bronchiectasis,1223017012#,1,1,2,38677017#,Tuberculous bronchiectasis,A115,A115.00,38677017,NA,32
+23022004#,Post-tuberculous bronchiectasis,1223017012#,1,1,2,2867041000006113#,Post-tuberculous bronchiectasis,^ESCTPO286704,NA,1223017012,NA,32
+12295008#,Bronchiectasis,21163015#,1,1,2,301526011#,Bronchiectasis NOS,H34z,H34z.00,21163015,NA,32
+12295008#,Bronchiectasis,21163015#,1,1,2,21163015#,Bronchiectasis,H34,H34..00,21163015,NA,32
+12295008#,"Bronchiectasis, NOS",21164014#,1,1,2,301526011#,Bronchiectasis NOS,H34z,H34z.00,21163015,NA,32
+12295008#,"Bronchiectasis, NOS",21164014#,1,1,2,21163015#,Bronchiectasis,H34,H34..00,21163015,NA,32
+12295008#,Bronchiectasis (disorder),724377016#,1,1,2,301526011#,Bronchiectasis NOS,H34z,H34z.00,21163015,NA,32
+12295008#,Bronchiectasis (disorder),724377016#,1,1,2,21163015#,Bronchiectasis,H34,H34..00,21163015,NA,32
+195984007#,Recurrent bronchiectasis,301524014#,1,1,2,301524014#,Recurrent bronchiectasis,H340,H340.00,301524014,NA,32
+195984007#,Recurrent bronchiectasis (disorder),580154014#,1,1,2,301524014#,Recurrent bronchiectasis,H340,H340.00,301524014,NA,32
+195985008#,Post-infective bronchiectasis,301525010#,1,1,2,301525010#,Post-infective bronchiectasis,H341,H341.00,301525010,NA,32
+195985008#,Post-infective bronchiectasis,301525010#,1,1,2,4781641000006119#,Postinfectious bronchiectasis,^ESCTPO478164,NA,3035694012,NA,32
+195985008#,Post-infective bronchiectasis (disorder),580155010#,1,1,2,301525010#,Post-infective bronchiectasis,H341,H341.00,301525010,NA,32
+195985008#,Post-infective bronchiectasis (disorder),580155010#,1,1,2,4781641000006119#,Postinfectious bronchiectasis,^ESCTPO478164,NA,3035694012,NA,32
+195985008#,Postinfectious bronchiectasis,3035694012#,1,1,2,301525010#,Post-infective bronchiectasis,H341,H341.00,301525010,NA,32
+195985008#,Postinfectious bronchiectasis,3035694012#,1,1,2,4781641000006119#,Postinfectious bronchiectasis,^ESCTPO478164,NA,3035694012,NA,32
+77593006#,Congenital bronchiectasis,128792019#,1,1,2,3762481000006115#,Developmental bronchiectasis,^ESCTDE376248,NA,1234135018,NA,32
+77593006#,Congenital bronchiectasis,128792019#,1,1,2,128792019#,Congenital bronchiectasis,P861,P861.00,128792019,NA,32
+77593006#,Congenital bronchiectasis (disorder),818440016#,1,1,2,3762481000006115#,Developmental bronchiectasis,^ESCTDE376248,NA,1234135018,NA,32
+77593006#,Congenital bronchiectasis (disorder),818440016#,1,1,2,128792019#,Congenital bronchiectasis,P861,P861.00,128792019,NA,32
+77593006#,Developmental bronchiectasis,1234135018#,1,1,2,3762481000006115#,Developmental bronchiectasis,^ESCTDE376248,NA,1234135018,NA,32
+77593006#,Developmental bronchiectasis,1234135018#,1,1,2,128792019#,Congenital bronchiectasis,P861,P861.00,128792019,NA,32
+233627004#,Congenital cystic bronchiectasis,350079011#,1,1,2,5053661000006115#,Congenital cystic bronchiectasis,^ESCTCO505366,NA,350079011,NA,31
+233627004#,Congenital cystic bronchiectasis (disorder),621835011#,1,1,2,5053661000006115#,Congenital cystic bronchiectasis,^ESCTCO505366,NA,350079011,NA,31
+233628009#,Acquired bronchiectasis,350080014#,1,1,2,5053671000006110#,Acquired bronchiectasis,^ESCTAC505367,NA,350080014,NA,31
+233628009#,Acquired bronchiectasis (disorder),621836012#,1,1,2,5053671000006110#,Acquired bronchiectasis,^ESCTAC505367,NA,350080014,NA,31
+233629001#,Idiopathic bronchiectasis,350081013#,1,1,2,5053681000006113#,Idiopathic bronchiectasis,^ESCTID505368,NA,350081013,NA,31
+233629001#,Idiopathic bronchiectasis (disorder),621837015#,1,1,2,5053681000006113#,Idiopathic bronchiectasis,^ESCTID505368,NA,350081013,NA,31
+233630006#,Obstructive bronchiectasis,350082018#,1,1,2,5053691000006111#,Obstructive bronchiectasis,^ESCTOB505369,NA,350082018,NA,31
+233630006#,Obstructive bronchiectasis (disorder),621839017#,1,1,2,5053691000006111#,Obstructive bronchiectasis,^ESCTOB505369,NA,350082018,NA,31
+233631005#,Toxin-induced bronchiectasis,350083011#,1,1,2,5053701000006111#,Toxin-induced bronchiectasis,^ESCTTO505370,NA,350083011,NA,31
+233631005#,Toxin-induced bronchiectasis (disorder),621840015#,1,1,2,5053701000006111#,Toxin-induced bronchiectasis,^ESCTTO505370,NA,350083011,NA,31
+233632003#,Bronchiectasis due to toxic aspiration,350084017#,1,1,2,5053721000006118#,Bronchiectasis caused by toxic aspiration,^ESCTBR505372,NA,3296043010,NA,31
+233632003#,Bronchiectasis due to toxic aspiration,350084017#,1,1,2,5053711000006114#,Bronchiectasis due to toxic aspiration,^ESCTBR505371,NA,350084017,NA,31
+233632003#,Bronchiectasis due to toxic aspiration (disorder),621841016#,1,1,2,5053721000006118#,Bronchiectasis caused by toxic aspiration,^ESCTBR505372,NA,3296043010,NA,31
+233632003#,Bronchiectasis due to toxic aspiration (disorder),621841016#,1,1,2,5053711000006114#,Bronchiectasis due to toxic aspiration,^ESCTBR505371,NA,350084017,NA,31
+233632003#,Bronchiectasis caused by toxic aspiration,3296043010#,1,1,2,5053721000006118#,Bronchiectasis caused by toxic aspiration,^ESCTBR505372,NA,3296043010,NA,31
+233632003#,Bronchiectasis caused by toxic aspiration,3296043010#,1,1,2,5053711000006114#,Bronchiectasis due to toxic aspiration,^ESCTBR505371,NA,350084017,NA,31
+233632003#,Bronchiectasis caused by toxic aspiration (disorder),3296514010#,1,1,2,5053721000006118#,Bronchiectasis caused by toxic aspiration,^ESCTBR505372,NA,3296043010,NA,31
+233632003#,Bronchiectasis caused by toxic aspiration (disorder),3296514010#,1,1,2,5053711000006114#,Bronchiectasis due to toxic aspiration,^ESCTBR505371,NA,350084017,NA,31
+233633008#,Bronchiectasis due to toxic inhalation,350085016#,1,1,2,5053731000006115#,Bronchiectasis due to toxic inhalation,^ESCTBR505373,NA,350085016,NA,31
+233633008#,Bronchiectasis due to toxic inhalation,350085016#,1,1,2,5053741000006113#,Bronchiectasis caused by toxic inhalation,^ESCTBR505374,NA,3296270013,NA,31
+233633008#,Bronchiectasis due to toxic inhalation (disorder),621842011#,1,1,2,5053731000006115#,Bronchiectasis due to toxic inhalation,^ESCTBR505373,NA,350085016,NA,31
+233633008#,Bronchiectasis due to toxic inhalation (disorder),621842011#,1,1,2,5053741000006113#,Bronchiectasis caused by toxic inhalation,^ESCTBR505374,NA,3296270013,NA,31
+233633008#,Bronchiectasis caused by toxic inhalation (disorder),3292633014#,1,1,2,5053731000006115#,Bronchiectasis due to toxic inhalation,^ESCTBR505373,NA,350085016,NA,31
+233633008#,Bronchiectasis caused by toxic inhalation (disorder),3292633014#,1,1,2,5053741000006113#,Bronchiectasis caused by toxic inhalation,^ESCTBR505374,NA,3296270013,NA,31
+233633008#,Bronchiectasis caused by toxic inhalation,3296270013#,1,1,2,5053731000006115#,Bronchiectasis due to toxic inhalation,^ESCTBR505373,NA,350085016,NA,31
+233633008#,Bronchiectasis caused by toxic inhalation,3296270013#,1,1,2,5053741000006113#,Bronchiectasis caused by toxic inhalation,^ESCTBR505374,NA,3296270013,NA,31
+233634002#,Post-lung transplantation bronchiectasis,350086015#,1,1,2,5053751000006110#,Post-lung transplantation bronchiectasis,^ESCTPO505375,NA,350086015,NA,31
+233634002#,Post-lung transplantation bronchiectasis (disorder),621843018#,1,1,2,5053751000006110#,Post-lung transplantation bronchiectasis,^ESCTPO505375,NA,350086015,NA,31
+268321003#,Bronchiectasis - congen,401032013#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+268321003#,Congenital bronchiectasis,401033015#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+268321003#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital),401035010#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+268321003#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital),661048010#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+268321003#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital) (disorder),2717760017#,1,1,2,"NA#",NA,NA,NA,NA,NA,NA
+12310001#,Childhood bronchiectasis,21192016#,1,0,1,2696011000006118#,Childhood bronchiectasis,^ESCTCH269601,NA,21192016,NA,31
+13217005#,Fusiform bronchiectasis,22621017#,1,0,1,2709771000006113#,Fusiform bronchiectasis,^ESCTFU270977,NA,22621017,NA,31
+19325002#,Traction bronchiectasis,32582011#,1,0,1,2806691000006111#,Traction bronchiectasis,^ESCTTR280669,NA,32582011,NA,31
+42402006#,"Bronchiectasis, chronic sinusitis and dextrocardia syndrome",70750014#,1,0,1,755691000006114#,Kartageners syndrome,PK35,PK35.00,1229862018,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis and dextrocardia syndrome",70750014#,1,0,1,3183591000006116#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",^ESCTBR318359,NA,70751013,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis and dextrocardia syndrome",70750014#,1,0,1,3183581000006119#,Kartagener syndrome,^ESCTKA318358,NA,70749014,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis and dextrocardia syndrome",70750014#,1,0,1,3183601000006112#,Siewert syndrome,^ESCTSI318360,NA,1229861013,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",70751013#,1,0,1,755691000006114#,Kartageners syndrome,PK35,PK35.00,1229862018,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",70751013#,1,0,1,3183591000006116#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",^ESCTBR318359,NA,70751013,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",70751013#,1,0,1,3183581000006119#,Kartagener syndrome,^ESCTKA318358,NA,70749014,NA,32
+42402006#,"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome",70751013#,1,0,1,3183601000006112#,Siewert syndrome,^ESCTSI318360,NA,1229861013,NA,32
+51068008#,Adult bronchiectasis,85092015#,1,0,1,3327421000006113#,Adult bronchiectasis,^ESCTAD332742,NA,85092015,NA,31
+52500008#,Saccular bronchiectasis,87367014#,1,0,1,3351181000006110#,Saccular bronchiectasis,^ESCTSA335118,NA,87367014,NA,31
+83457000#,Cylindrical bronchiectasis,138420013#,1,0,1,3858081000006116#,Cylindrical bronchiectasis,^ESCTCY385808,NA,138420013,NA,31
+155580000#,Bronchiectasis,242353010#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+156938004#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital),244913015#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195986009#,Bronchiectasis NOS,301526011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+155580000#,Bronchiectasis,535925017#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+156938004#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital),537433012#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+195986009#,Bronchiectasis NOS (disorder),580156011#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+12310001#,Childhood bronchiectasis (disorder),724999019#,1,0,1,2696011000006118#,Childhood bronchiectasis,^ESCTCH269601,NA,21192016,NA,31
+13217005#,Fusiform bronchiectasis (disorder),736676014#,1,0,1,2709771000006113#,Fusiform bronchiectasis,^ESCTFU270977,NA,22621017,NA,31
+19325002#,Traction bronchiectasis (disorder),747323016#,1,0,1,2806691000006111#,Traction bronchiectasis,^ESCTTR280669,NA,32582011,NA,31
+51068008#,Adult bronchiectasis (disorder),788926018#,1,0,1,3327421000006113#,Adult bronchiectasis,^ESCTAD332742,NA,85092015,NA,31
+52500008#,Saccular bronchiectasis (disorder),790515017#,1,0,1,3351181000006110#,Saccular bronchiectasis,^ESCTSA335118,NA,87367014,NA,31
+83457000#,Cylindrical bronchiectasis (disorder),825094016#,1,0,1,3858081000006116#,Cylindrical bronchiectasis,^ESCTCY385808,NA,138420013,NA,31
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,3901471000006118#,ICS - Immotile cilia syndrome,^ESCTIC390147,NA,1235106016,NA,32
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,3901501000006113#,Polynesian bronchiectasis,^ESCTPO390150,NA,1235109011,NA,32
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,3901451000006111#,Immotile cilia syndrome,^ESCTIM390145,NA,142944012,NA,32
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,1659531000006118#,Primary ciliary dyskinesia,Pyu9D,Pyu9D00,142945013,NA,32
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,3901491000006117#,Dysmotile cilia syndrome,^ESCTDY390149,NA,1235108015,NA,32
+86204009#,Polynesian bronchiectasis,1235109011#,1,0,1,3901481000006115#,PCD - Primary ciliary dyskinesia,^ESCTPC390148,NA,1235107013,NA,32
+155580000#,Bronchiectasis (disorder),2740536013#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+156938004#,(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital) (disorder),2757149019#,1,0,1,"NA#",NA,NA,NA,NA,NA,NA
+445378003#,Acute exacerbation of bronchiectasis (disorder),2869225017#,1,0,1,7307141000006111#,Acute exacerbation of bronchiectasis,^ESCTAC730714,NA,2871807015,NA,32
+445378003#,Acute exacerbation of bronchiectasis,2871807015#,1,0,1,7307141000006111#,Acute exacerbation of bronchiectasis,^ESCTAC730714,NA,2871807015,NA,32
+714203003#,Acute bronchitis co-occurrent with bronchiectasis,3298390012#,1,0,1,7715861000006113#,Acute bronchitis co-occurrent with bronchiectasis,^ESCTAC771586,NA,3298390012,NA,31
+714203003#,Acute bronchitis co-occurrent with bronchiectasis (disorder),3298721017#,1,0,1,7715861000006113#,Acute bronchitis co-occurrent with bronchiectasis,^ESCTAC771586,NA,3298390012,NA,31

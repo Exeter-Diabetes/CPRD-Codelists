@@ -1,0 +1,19 @@
+readcode,term_readcode,hdruk,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14CH.#,History of chronic pancreatitis,1,404881000000118#,History of chronic pancreatitis,14CH,14CH.00,247431000000103,404881000000118,NA,32,14CH.00#
+J671.#,Chronic pancreatitis,1,352985010#,Chronic pancreatitis,J671,J671.00,235494005,352985010,NA,32,J671.00#
+J6710#,Alcohol-induced chronic pancreatitis,1,353698013#,Alcohol-induced chronic pancreatitis,J6710,J671000,235952002,353698013,NA,32,J671000#
+J6711#,Gallstone chronic pancreatitis,1,353697015#,Gallstone chronic pancreatitis,J6711,J671100,235951009,353697015,NA,32,J671100#
+J6721#,Pseudocyst of pancreas,1,178612013#,Pseudocyst of pancreas,J6721,J672100,111374002,178612013,NA,32,J672100#
+Jyu84#,[X]Other chronic pancreatitis,1,303793019#,[X]Other chronic pancreatitis,Jyu84,Jyu8400,235494005,352985010,NA,32,Jyu8400#
+J672.#,Cyst and pseudocyst of pancreas,0,303643010#,Cyst and pseudocyst of pancreas,J672,J672.00,197464001,303643010,NA,32,J672.00#
+J672z#,Pancreatic cyst and pseudocyst NOS,0,303644016#,Pancreatic cyst and pseudocyst NOS,J672z,J672z00,197464001,303643010,NA,32,J672z00#
+X308u#,Gallstone chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308u#
+X308v#,Alcohol-induced chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308v#
+X308w#,Idiopathic chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308w#
+X308x#,Obstructive chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308x#
+X308y#,Drug-induced chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308y#
+X308z#,Familial chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,X308z#
+XE0dV#,(Diseases of pancreas NOS) or (cyst of pancreas) or (pseudocyst of pancreas),0,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dV#
+Xa7na#,Calcific chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7na#
+XaIv9#,Drainage of pancreatic pseudocyst,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaIv9#
+XaLov#,History of chronic pancreatitis,0,NA#,NA,NA,NA,NA,NA,NA,NA,XaLov#

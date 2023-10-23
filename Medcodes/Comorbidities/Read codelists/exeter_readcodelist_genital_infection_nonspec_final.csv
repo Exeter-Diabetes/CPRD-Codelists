@@ -1,0 +1,4 @@
+readcode,term_readcode,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+AB2..#,Thrush,129525017#,Candidiasis,AB2,AB2..00,78048006,129525017,NA,32,AB2..00#
+AB2..#,Thrush,503749013#,Thrush,AB2-2,AB2..12,78048006,503749013,NA,32,AB2..12#
+AB2..#,Thrush,129530018#,Moniliasis,AB2-1,AB2..11,78048006,129530018,NA,32,AB2..11#

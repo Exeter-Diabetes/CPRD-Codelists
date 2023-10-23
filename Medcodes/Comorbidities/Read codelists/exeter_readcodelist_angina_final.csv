@@ -1,0 +1,55 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+14A5.#,H/O: angina pectoris,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,161504004,251679016,NA,32,14A5.00#
+662K.#,Angina control,1,1,2,264492012#,Angina control,662K,662K.00,170593007,264492012,NA,1,662K.00#
+662K0#,Angina control - good,1,1,2,264493019#,Angina control - good,662K0,662K000,170594001,264493019,NA,1,662K000#
+662K1#,Angina control - poor,1,1,2,264494013#,Angina control - poor,662K1,662K100,170595000,264494013,NA,1,662K100#
+662K2#,Angina control - improving,1,1,2,264495014#,Angina control - improving,662K2,662K200,170596004,264495014,NA,1,662K200#
+662Kz#,Angina control NOS,1,1,2,264497018#,Angina control NOS,662Kz,662Kz00,170593007,264492012,NA,1,662Kz00#
+G33..#,Angina pectoris,1,1,2,299757012#,Angina pectoris,G33,G33..00,194828000,299757012,NA,32,G33..00#
+G330.#,Angina decubitus,1,1,2,98087016#,Angina decubitus,G330,G330.00,59021001,98087016,NA,32,G330.00#
+G3300#,Nocturnal angina,1,1,2,59952018#,Nocturnal angina,G3300,G330000,35928006,59952018,NA,32,G330000#
+G330z#,Angina decubitus NOS,1,1,2,299763015#,Angina decubitus NOS,G330z,G330z00,59021001,98087016,NA,32,G330z00#
+G33z.#,Angina pectoris NOS,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,194828000,299757012,NA,32,G33z.00#
+G33z3#,Angina on effort,1,1,2,442204010#,Angina on effort,G33z3,G33z300,300995000,442204010,NA,32,G33z300#
+G33zz#,Angina pectoris NOS,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,194828000,299757012,NA,32,G33zz00#
+Gyu30#,[X]Other forms of angina pectoris,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,194828000,299757012,NA,32,Gyu3000#
+662K3#,Angina control - worsening,1,1,2,264496010#,Angina control - worsening,662K3,662K300,170597008,264496010,NA,1,662K300#
+G311.#,Preinfarction syndrome,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,4557003,7845011,NA,32,G311.13#
+G311.#,Preinfarction syndrome,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,4557003,7847015,NA,32,G311.11#
+G311.#,Preinfarction syndrome,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,4557003,494262012,NA,32,G311.00#
+G311.#,Preinfarction syndrome,1,1,2,494260016#,Impending infarction,G311-2,G311.12,25106000,42087013,NA,32,G311.12#
+G311.#,Preinfarction syndrome,1,1,2,482811000006113#,Angina at rest,G311-4,G311.14,59021001,498328016,NA,32,G311.14#
+G33z4#,Ischaemic chest pain,1,0,1,338974012#,Ischaemic chest pain,G33z4,G33z400,225566008,338974012,NA,32,G33z400#
+14AJ.#,H/O: Angina in last year,1,0,1,451370011#,H/O: Angina in last year,14AJ,14AJ.00,308066006,451370011,NA,32,14AJ.00#
+8B27.#,Antianginal therapy,1,0,1,451425016#,Antianginal therapy,8B27,8B27.00,308117007,451425016,NA,32,8B27.00#
+G33z1#,Stenocardia,1,0,1,299758019#,Stenocardia,G33z1,G33z100,194828000,299758019,NA,32,G33z100#
+G33z2#,Syncope anginosa,1,0,1,36036010#,Syncope anginosa,G33z2,G33z200,21470009,36036010,NA,32,G33z200#
+G33z5#,Post infarct angina,1,0,1,458410010#,Post infarct angina,G33z5,G33z500,314116003,458410010,NA,32,G33z500#
+G33z6#,New onset angina,1,0,1,350350014#,New onset angina,G33z6,G33z600,233821000,350350014,NA,32,G33z600#
+G33z7#,Stable angina,1,0,1,350348018#,Stable angina,G33z7,G33z700,233819005,350348018,NA,32,G33z700#
+G34y0#,Chronic coronary insufficiency,1,0,1,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,413844008,2537483013,NA,32,G34y000#
+G3113#,Refractory angina,1,0,1,459487012#,Refractory angina,G3113,G311300,315025001,459487012,NA,32,G311300#
+G3114#,Worsening angina,1,0,1,494261017#,Worsening angina,G3114,G311400,4557003,494261017,NA,32,G311400#
+G3111#,Unstable angina,1,0,1,7845011#,Unstable angina,G3111,G311100,4557003,7845011,NA,32,G311100#
+G3112#,Angina at rest,1,0,1,498328016#,Angina at rest,G3112,G311200,59021001,498328016,NA,32,G311200#
+G311z#,Preinfarction syndrome NOS,1,0,1,299741012#,Preinfarction syndrome,G311z,G311z00,4557003,7844010,NA,32,G311z00#
+G33z0#,Status anginosus,1,0,1,32122016#,Status anginosus,G33z0,G33z000,19057007,32122016,NA,32,G33z000#
+G3115#,Acute coronary syndrome,1,0,1,1488382011#,Acute coronary syndrome,G3115,G311500,394659003,1488382011,NA,32,G311500#
+G331.#,Prinzmetal's angina,0,1,1,1235225010#,Prinzmetal's angina,G331,G331.00,87343002,1235225010,NA,32,G331.00#
+G331.#,Prinzmetal's angina,0,1,1,144819018#,Variant angina pectoris,G331-1,G331.11,87343002,1235225010,NA,32,G331.11#
+X2007#,Angina at rest,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X2007#
+X2008#,Stable angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X2008#
+X2009#,Unstable angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X2009#
+X200A#,New onset angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X200A#
+XE0Ui#,Worsening angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0Ui#
+Xa7nH#,Exercise-induced angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7nH#
+XaBL2#,H/O: Angina in last year,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBL2#
+XaBLr#,Antianginal therapy,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBLr#
+XaEXt#,Post infarct angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaEXt#
+XaFsG#,Refractory angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaFsG#
+XaXnr#,Frequency of angina,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXnr#
+G311.#,(Angina:[cresc][unstabl][at rest])(preinfar syn)(imp infarc),NA,NA,NA,72571000006115#,Unstable angina,G311-3,G311.13,4557003,7845011,NA,32,G311.13#
+G311.#,(Angina:[cresc][unstabl][at rest])(preinfar syn)(imp infarc),NA,NA,NA,7847015#,Crescendo angina,G311-1,G311.11,4557003,7847015,NA,32,G311.11#
+G311.#,(Angina:[cresc][unstabl][at rest])(preinfar syn)(imp infarc),NA,NA,NA,7844010#,Preinfarction syndrome,G311,G311.00,4557003,494262012,NA,32,G311.00#
+G311.#,(Angina:[cresc][unstabl][at rest])(preinfar syn)(imp infarc),NA,NA,NA,494260016#,Impending infarction,G311-2,G311.12,25106000,42087013,NA,32,G311.12#
+G311.#,(Angina:[cresc][unstabl][at rest])(preinfar syn)(imp infarc),NA,NA,NA,482811000006113#,Angina at rest,G311-4,G311.14,59021001,498328016,NA,32,G311.14#

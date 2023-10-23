@@ -1,0 +1,288 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+J612.#,Alcoholic cirrhosis of liver,1,1,2,126721013#,Florid cirrhosis,J612-1,J612.11,76301009,126721013,NA,32,J612.11#
+J612.#,Alcoholic cirrhosis of liver,1,1,2,476611000006116#,Alcoholic cirrhosis of liver,J612,J612.00,420054005,2920441014,NA,32,J612.00#
+J612.#,Alcoholic cirrhosis of liver,1,1,2,2579818016#,Laennec's cirrhosis,J612-2,J612.12,419728003,2576980018,NA,32,J612.12#
+J613.#,Alcoholic liver damage unspecified,1,1,2,886501000006115#,Alcoholic liver damage NOS,J613-99,J613.99,589511000000102,886501000006115,NA,32,J613.99#
+J613.#,Alcoholic liver damage unspecified,1,1,2,303399018#,Alcoholic liver damage,J613,J613.00,41309000,68906017,NA,32,J613.00#
+J6151#,Multilobular portal cirrhosis,1,1,2,396390012#,Multilobular portal cirrhosis,J6151,J615100,266469006,396390012,NA,32,J615100#
+J6151#,Multilobular portal cirrhosis,1,1,2,211821000006111#,Postnecrotic cirrhosis of liver,J6151-1,J615111,43904005,73201018,NA,32,J615111#
+J6153#,Diffuse nodular cirrhosis,1,1,2,303419015#,Diffuse nodular cirrhosis,J6153,J615300,197293003,303419015,NA,32,J615300#
+J6154#,Fatty portal cirrhosis,1,1,2,303420014#,Fatty portal cirrhosis,J6154,J615400,197294009,303420014,NA,32,J615400#
+J6155#,Hypertrophic portal cirrhosis,1,1,2,493707012#,Hypertrophic portal cirrhosis,J6155,J615500,43904005,493707012,NA,32,J615500#
+J6156#,Capsular portal cirrhosis,1,1,2,303425016#,Capsular portal cirrhosis,J6156,J615600,197296006,303425016,NA,32,J615600#
+J6157#,Cardiac portal cirrhosis,1,1,2,123999018#,Congestive cirrhosis,J6157-1,J615711,74669004,123997016,NA,32,J615711#
+J6157#,Cardiac portal cirrhosis,1,1,2,396391011#,Cardiac portal cirrhosis,J6157,J615700,266470007,396391011,NA,32,J615700#
+J6158#,Juvenile portal cirrhosis,1,1,2,396392016#,Juvenile portal cirrhosis,J6158,J615800,266471006,396392016,NA,32,J615800#
+J6158#,Juvenile portal cirrhosis,1,1,2,11267010#,Indian childhood cirrhosis,J6158-2,J615812,6183001,11267010,NA,32,J615812#
+J6158#,Juvenile portal cirrhosis,1,1,2,550431000006116#,Childhood function cirrhosis,J6158-1,J615811,197284004,303401012,NA,32,J615811#
+J615D#,Bacterial portal cirrhosis,1,1,2,303437019#,Bacterial portal cirrhosis,J615D,J615D00,197303009,303437019,NA,32,J615D00#
+J615G#,Zooparasitic portal cirrhosis,1,1,2,303440019#,Zooparasitic portal cirrhosis,J615G,J615G00,197306001,303440019,NA,32,J615G00#
+J615H#,Infectious cirrhosis NOS,1,1,2,303441015#,Infectious cirrhosis,J615H,J615H00,235896001,353622016,NA,32,J615H00#
+J615.#,Cirrhosis - non alcoholic,1,1,2,2576980018#,Portal cirrhosis,J615-1,J615.11,419728003,2576980018,NA,32,J615.11#
+J615.#,Cirrhosis - non alcoholic,1,1,2,221111000000114#,Cirrhosis - non-alcoholic,J615,J615.00,266468003,396389015,NA,32,J615.00#
+J615y#,Portal cirrhosis unspecified,1,1,2,303442010#,Portal cirrhosis unspecified,J615y,J615y00,419728003,2576980018,NA,32,J615y00#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,396393014#,Non-alcoholic cirrhosis NOS,J615z,J615z00,266468003,396389015,NA,32,J615z00#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,353621011#,"Laennec's cirrhosis, non-alcoholic",J615z-4,J615z14,235895002,353621011,NA,32,J615z14#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,603321000006118#,Cryptogenic cirrhosis,J615z-2,J615z12,89580002,148522018,NA,32,J615z12#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,731231000006114#,Macronodular cirrhosis of liver,J615z-1,J615z11,43904005,73201018,NA,32,J615z11#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,353613017#,Cirrhosis of liver,J615z-3,J615z13,19943007,33568015,NA,32,J615z13#
+J615z#,Non-alcoholic cirrhosis NOS,1,1,2,820381000006112#,Hepatic fibrosis,J615z-5,J615z15,62484002,103853010,NA,32,J615z15#
+J6161#,Secondary biliary cirrhosis,1,1,2,21289010#,Secondary biliary cirrhosis,J6161,J616100,12368000,21289010,NA,32,J616100#
+J6162#,Biliary cirrhosis of children,1,1,2,303452014#,Biliary cirrhosis of children,J6162,J616200,197310003,303452014,NA,32,J616200#
+J616.#,Biliary cirrhosis,1,1,2,4044018#,Biliary cirrhosis,J616,J616.00,1761006,4044018,NA,32,J616.00#
+J616z#,Biliary cirrhosis NOS,1,1,2,303453016#,Biliary cirrhosis NOS,J616z,J616z00,1761006,4044018,NA,32,J616z00#
+J617.#,Alcoholic hepatitis,1,1,2,353587018#,Alcoholic hepatitis,J617,J617.00,235875008,353587018,NA,32,J617.00#
+J61..#,Cirrhosis and chronic liver disease,1,1,2,303393017#,Cirrhosis and chronic liver disease,J61,J61..00,197279005,303393017,NA,32,J61..00#
+J61y3#,Portal fibrosis without cirrhosis,1,1,2,303458013#,Portal fibrosis without cirrhosis,J61y3,J61y300,197316009,303458013,NA,32,J61y300#
+J6356#,Toxic liver disease with fibrosis and cirrhosis of liver,1,1,2,303518014#,Toxic liver disease with fibrosis and cirrhosis of liver,J6356,J635600,197362001,303518014,NA,32,J635600#
+Jyu71#,[X]Other and unspecified cirrhosis of liver,1,1,2,303781011#,[X]Other and unspecified cirrhosis of liver,Jyu71,Jyu7100,19943007,33568015,NA,32,Jyu7100#
+J610.#,Alcoholic fatty liver,1,1,2,83834016#,Alcoholic fatty liver,J610,J610.00,50325005,83834016,NA,32,J610.00#
+A7071#,Chronic viral hepatitis B without delta-agent,1,1,2,286879013#,Chronic viral hepatitis B without delta-agent,A7071,A707100,186639003,286879013,NA,32,A707100#
+A7072#,Chronic viral hepatitis C,1,1,2,557071000006112#,Chronic hepatitis C,A7072,A707200,128302006,206586011,NA,32,A707200#
+AyuB1#,[X]Other chronic viral hepatitis,1,1,2,288169017#,[X]Other chronic viral hepatitis,AyuB1,AyuB100,10295004,17930015,NA,32,AyuB100#
+AyuB2#,"[X]Chronic viral hepatitis, unspecified",1,1,2,288170016#,"[X]Chronic viral hepatitis, unspecified",AyuB2,AyuB200,10295004,17930015,NA,32,AyuB200#
+J6141#,Autoimmune chronic active hepatitis,1,1,2,303404016#,Autoimmune chronic active hepatitis,J6141-1,J614111,197284004,303404016,NA,32,J614111#
+J6141#,Autoimmune chronic active hepatitis,1,1,2,303401012#,Chronic active hepatitis,J6141,J614100,197284004,303401012,NA,32,J614100#
+J6160#,Primary biliary cirrhosis,1,1,2,52980015#,Primary biliary cirrhosis,J6160,J616000,31712002,52980015,NA,32,J616000#
+J6617#,Primary sclerosing cholangitis,1,1,2,303614019#,Primary sclerosing cholangitis,J6617,J661700,197441003,303614019,NA,32,J661700#
+J611.#,Acute alcoholic hepatitis,1,1,2,17390014#,Acute alcoholic hepatitis,J611,J611.00,9953008,17390014,NA,32,J611.00#
+A7040#,Viral hepatitis C with coma,1,1,2,286868015#,Viral hepatitis C with coma,A7040,A704000,186628001,286868015,NA,32,A704000#
+A704.#,Other specified viral hepatitis with coma,1,1,2,286867013#,Other specified viral hepatitis with coma,A704,A704.00,3738000,7302012,NA,32,A704.00#
+A704z#,Other specified viral hepatitis with hepatic coma NOS,1,1,2,286869011#,Other specified viral hepatitis with hepatic coma NOS,A704z,A704z00,3738000,7302012,NA,32,A704z00#
+J6000#,Acute hepatic failure,1,1,2,303381014#,Acute hepatic failure,J6000,J600000,197270009,303381014,NA,32,J600000#
+J6000#,Acute hepatic failure,1,1,2,303379012#,Acute liver failure,J6000-1,J600011,197270009,303379012,NA,32,J600011#
+J6010#,Subacute hepatic failure,1,1,2,303388015#,Subacute hepatic failure,J6010,J601000,197275004,303388015,NA,32,J601000#
+SP086#,Liver transplant failure and rejection,1,1,2,324976011#,Liver transplant failure and rejection,SP086,SP08600,213153001,324976011,NA,32,SP08600#
+SP142#,Hepatic failure as a complication of care,1,1,2,325080013#,Hepatic failure as a complication of care,SP142,SP14200,213230009,325080013,NA,32,SP14200#
+SP142#,Hepatic failure as a complication of care,1,1,2,325079010#,Liver failure as a complication of care,SP142-1,SP14211,213230009,325079010,NA,32,SP14211#
+C3104#,Glycogenosis with hepatic cirrhosis,1,0,1,19362016#,Andersen's disease,C3104-2,C310412,11179002,19362016,NA,32,C310412#
+C3104#,Glycogenosis with hepatic cirrhosis,1,0,1,1495570018#,"Glycogenosis, type 4",C3104-1,C310411,11179002,1495570018,NA,32,C310411#
+C3104#,Glycogenosis with hepatic cirrhosis,1,0,1,803961000006119#,Glycogenosis with hepatic cirrhosis,C3104,C310400,29633007,49567015,NA,32,C310400#
+C3500#,Pigmentary cirrhosis of liver,1,0,1,813401000006113#,Hemochromatosis,C3500,C350000,399187006,1778642010,NA,32,C350000#
+C3500#,Pigmentary cirrhosis of liver,1,0,1,1786709019#,Pigmentary cirrhosis of liver,C3500-2,C350012,399126000,1786709019,NA,32,C350012#
+C3500#,Pigmentary cirrhosis of liver,1,0,1,1786715019#,Bronzed diabetes,C3500-1,C350011,399144008,1786715019,NA,32,C350011#
+C3500#,Pigmentary cirrhosis of liver,1,0,1,63781000006112#,Von Recklinghausen - Applebaum disease,C3500-3,C350013,35400008,486147017,NA,32,C350013#
+C3708#,Cystic fibrosis related cirrhosis,1,0,1,1736361000000112#,Cystic fibrosis related cirrhosis,C3708,C370800,776981000000103,1736361000000112,NA,32,C370800#
+G8522#,Oesophageal varices in cirrhosis of the liver,1,0,1,451442010#,Oesophageal varices in cirrhosis of the liver,G8522,G852200,308129003,451442010,NA,32,G852200#
+G8523#,Oesophageal varices in alcoholic cirrhosis of the liver,1,0,1,453265010#,Oesophageal varices in alcoholic cirrhosis of the liver,G8523,G852300,309783001,453265010,NA,32,G852300#
+J6120#,Alcoholic fibrosis and sclerosis of liver,1,0,1,353594015#,Alcoholic fibrosis and sclerosis of liver,J6120,J612000,235880004,353594015,NA,32,J612000#
+J6130#,Alcoholic hepatic failure,1,0,1,353595019#,Alcoholic hepatic failure,J6130,J613000,235881000,353595019,NA,32,J613000#
+J615C#,Xanthomatous portal cirrhosis,1,0,1,55851000006118#,Xanthomatous portal cirrhosis,J615C,J615C00,271440004,406232019,NA,32,J615C00#
+J6170#,Chronic alcoholic hepatitis,1,0,1,451124014#,Chronic alcoholic hepatitis,J6170,J617000,307757001,451124014,NA,32,J617000#
+J61y4#,Hepatic fibrosis,1,0,1,103853010#,Hepatic fibrosis,J61y4,J61y400,62484002,103853010,NA,32,J61y400#
+J61y5#,Hepatic sclerosis,1,0,1,353625019#,Hepatic sclerosis,J61y5,J61y500,235899008,353625019,NA,32,J61y500#
+J61y6#,Hepatic fibrosis with hepatic sclerosis,1,0,1,353627010#,Hepatic fibrosis with hepatic sclerosis,J61y6,J61y600,235901004,353627010,NA,32,J61y600#
+J61y7#,Steatosis of liver,1,0,1,303463012#,Steatosis of liver,J61y7,J61y700,197321007,303463012,NA,32,J61y700#
+J61y8#,Nonalcoholic steatohepatitis,1,0,1,2819666013#,Nonalcoholic steatohepatitis,J61y8,J61y800,442685003,2819666013,NA,32,J61y800#
+J61y9#,Fatty change of liver,1,0,1,1786211000006116#,Fatty liver,J61y9-1,J61y911,197321007,2819770010,NA,32,J61y911#
+J61y9#,Fatty change of liver,1,0,1,1786201000006119#,Fatty change of liver,J61y9,J61y900,197321007,303463012,NA,32,J61y900#
+141E.#,History of hepatitis B,1,0,1,2693857014#,History of hepatitis B,141E,141E.00,429721005,2693857014,NA,32,141E.00#
+14i..#,H/O hepatitis C antiviral drug therapy,1,0,1,2156971000000110#,H/O hepatitis C antiviral drug therapy,14i,14i..00,829691000000100,2156971000000110,NA,32,14i..00#
+21267#,Hepatitis C resolved,1,0,1,1686831000000111#,Hepatitis C resolved,21267,2126700,761381000000102,1686831000000111,NA,9,2126700#
+43B4.#,Hepatitis B surface antig +ve,1,0,1,820791000006114#,Hepatitis B surface antigen positive,43B4,43B4.00,165806002,257840015,NA,33,43B4.00#
+43B5.#,Hepatitis e antigen present,1,0,1,257841016#,Hepatitis e antigen present,43B5,43B5.00,165807006,257841016,NA,33,43B5.00#
+43j5.#,Hepatitis C nucleic acid detection,1,0,1,1786403019#,Hepatitis C nucleic acid detection,43j5,43j5.00,1030511000000102,2595451000000116,NA,33,43j5.00#
+43jG.#,Hepatitis B nucleic acid detection,1,0,1,1786360015#,Hepatitis B nucleic acid detection,43jG,43jG.00,1031571000000101,2595441000000119,NA,33,43jG.00#
+43X3.#,Hepatitis C antibody test positive,1,0,1,459095018#,Hepatitis C antibody test positive,43X3,43X3.00,314706002,459095018,NA,33,43X3.00#
+4J3B.#,Hepatitis C viral load,1,0,1,1488891017#,Hepatitis C viral load,4J3B,4J3B.00,992751000000109,2576171000000118,NA,47,4J3B.00#
+4J3D.#,Hepatitis B viral load,1,0,1,354081000000114#,Hepatitis B viral load,4J3D,4J3D.00,222531000000101,354081000000114,NA,47,4J3D.00#
+4JQ3.#,Hepatitis C virus genotype,1,0,1,1783609017#,Hepatitis C virus genotype,4JQ3,4JQ3.00,992771000000100,2581311000000111,NA,47,4JQ3.00#
+4JQD.#,Hepatitis C viral ribonucleic acid PCR positive,1,0,1,1766481000006112#,Hepatitis C viral ribonucleic acid polymerase chain reaction positive,4JQD,4JQD.00,760421000000100,1681741000000116,NA,47,4JQD.00#
+4JQD.#,Hepatitis C viral ribonucleic acid PCR positive,1,0,1,1739601000000111#,Hepatitis C PCR positive,4JQD-1,4JQD.11,760421000000100,1739601000000111,NA,47,4JQD.11#
+4JQF.#,Hepatitis C antigen positive,1,0,1,2118321000000118#,Hepatitis C antigen positive,4JQF,4JQF.00,812181000000106,2118321000000118,NA,47,4JQF.00#
+7Q052#,Hepatitis B treatment drugs Band 1,1,0,1,350841000000119#,Hepatitis B treatment drugs Band 1,7Q052,7Q05200,221021000000103,350841000000119,NA,32,7Q05200#
+8BB5.#,12 week virologic response to hepatitis C treatment,1,0,1,2155841000000118#,12 week virologic response to hepatitis C treatment,8BB5,8BB5.00,829241000000108,2155841000000118,NA,32,8BB5.00#
+A703.#,Viral (serum) hepatitis B,1,0,1,109733012#,Serum hepatitis,A703-99,A703.99,66071002,879221000006113,NA,32,A703.99#
+A703.#,Viral (serum) hepatitis B,1,0,1,61061000006116#,Serum hepatitis,A703,A703.00,66071002,109733012,NA,32,A703.00#
+A7050#,Viral hepatitis C without mention of hepatic coma,1,0,1,286871011#,Viral hepatitis C,A7050,A705000,50711007,84513012,NA,32,A705000#
+A7051#,Acute delta-(super)infection of hepatitis B carrier,1,0,1,353575013#,Acute delta-(super)infection of hepatitis B carrier,A7051,A705100,235865005,353575013,NA,32,A705100#
+A7070#,Chronic viral hepatitis B with delta-agent,1,0,1,353580016#,Chronic viral hepatitis B with delta-agent,A7070,A707000,235869004,353580016,NA,32,A707000#
+A7073#,Chronic viral hepatitis B,1,0,1,1232261014#,Chronic viral hepatitis B,A7073,A707300,61977001,1232261014,NA,32,A707300#
+A707.#,Chronic viral hepatitis,1,0,1,17930015#,Chronic viral hepatitis,A707,A707.00,10295004,17930015,NA,32,A707.00#
+A707X#,"Chronic viral hepatitis, unspecified",1,0,1,557081000006110#,"Chronic viral hepatitis, unspecified",A707X,A707X00,10295004,17930015,NA,32,A707X00#
+A70A.#,Hepatitis C genotype 1,1,0,1,2146441000000113#,Hepatitis C genotype 1,A70A,A70A.00,824841000000105,2146441000000113,NA,32,A70A.00#
+A70B.#,Hepatitis C genotype 2,1,0,1,2146461000000114#,Hepatitis C genotype 2,A70B,A70B.00,824851000000108,2146461000000114,NA,32,A70B.00#
+A70C.#,Hepatitis C genotype 3,1,0,1,2146501000000114#,Hepatitis C genotype 3,A70C,A70C.00,824871000000104,2146501000000114,NA,32,A70C.00#
+A70D.#,Hepatitis C genotype 4,1,0,1,2146521000000117#,Hepatitis C genotype 4,A70D,A70D.00,824881000000102,2146521000000117,NA,32,A70D.00#
+A70z0#,Hepatitis C,1,0,1,84516016#,Hepatitis C,A70z0,A70z000,50711007,84516016,NA,32,A70z000#
+Q4091#,Congenital hepatitis B infection,1,0,1,582851000006119#,Congenital viral hepatitis B infection,Q4091,Q409100,60498001,100520013,NA,32,Q409100#
+J63B.#,Autoimmune hepatitis,1,0,1,2159899016#,Autoimmune hepatitis,J63B,J63B.00,408335007,2159899016,NA,32,J63B.00#
+7L1f.#,Compensation for liver failure,1,0,1,538081000000115#,Compensation for liver failure,7L1f,7L1f.00,773411000000107,1726971000000115,NA,32,7L1f.00#
+7L1fz#,Compensation for liver failure NOS,1,0,1,538101000000114#,Liver failure support management,7L1fz,7L1fz00,773411000000107,1726971000000115,NA,32,7L1fz00#
+A700.#,Viral hepatitis A with coma,1,0,1,286858013#,Hepatic coma due to viral hepatitis A,A700,A700.00,16060001,3008400017,NA,32,A700.00#
+A702.#,Viral hepatitis B with coma,1,0,1,286862019#,Hepatic coma due to viral hepatitis B,A702,A702.00,26206000,3008554017,NA,32,A702.00#
+J6002#,Acute yellow atrophy,1,0,1,2619492010#,Acute yellow atrophy,J6002,J600200,197269008,2619492010,NA,32,J600200#
+J600.#,Acute necrosis of liver,1,0,1,303377014#,Acute necrosis of liver,J600,J600.00,197269008,303377014,NA,32,J600.00#
+J600z#,Acute necrosis of liver NOS,1,0,1,303385017#,Acute necrosis of liver NOS,J600z,J600z00,197269008,303377014,NA,32,J600z00#
+J6012#,Subacute yellow atrophy,1,0,1,303389011#,Subacute yellow atrophy,J6012,J601200,197276003,303389011,NA,32,J601200#
+J601.#,Subacute necrosis of liver,1,0,1,303387013#,Subacute necrosis of liver,J601,J601.00,197274000,303387013,NA,32,J601.00#
+J601z#,Subacute necrosis of liver NOS,1,0,1,303391015#,Subacute necrosis of liver NOS,J601z,J601z00,235856003,353559010,NA,32,J601z00#
+J60..#,Acute and subacute liver necrosis,1,0,1,886491000006111#,Acute/subac. necrosis of liver,J60-99,J60..99,197268000,886491000006111,NA,32,J60..99#
+J60..#,Acute and subacute liver necrosis,1,0,1,303376017#,Acute and subacute liver necrosis,J60,J60..00,197268000,303376017,NA,32,J60..00#
+J60z.#,Acute and subacute liver necrosis NOS,1,0,1,303392010#,Acute and subacute liver necrosis NOS,J60z,J60z.00,197268000,303376017,NA,32,J60z.00#
+J622.#,Hepatic coma,1,0,1,120980011#,Hepatic coma,J622,J622.00,72836002,120980011,NA,32,J622.00#
+J622.#,Hepatic coma,1,0,1,221131000000118#,Hepatic encephalopathy,J622-1,J622.11,13920009,23734015,NA,32,J622.11#
+J625.#,[X] Hepatic failure,1,0,1,359011000006113#,[X] Liver failure,J625-1,J625.11,59927004,498583014,NA,32,J625.11#
+J625.#,[X] Hepatic failure,1,0,1,358961000006119#,[X] Hepatic failure,J625,J625.00,59927004,99549014,NA,32,J625.00#
+J62y.#,Hepatic failure NOS,1,0,1,353596018#,Liver failure,J62y-2,J62y.12,59927004,498583014,NA,32,J62y.12#
+J62y.#,Hepatic failure NOS,1,0,1,99549014#,Hepatic failure,J62y-3,J62y.13,59927004,99549014,NA,32,J62y.13#
+J62y.#,Hepatic failure NOS,1,0,1,396394015#,Other sequelae of chronic liver disease,J62y,J62y.00,235856003,353559010,NA,32,J62y.00#
+J62y.#,Hepatic failure NOS,1,0,1,353597010#,Hepatic failure NOS,J62y-1,J62y.11,59927004,99549014,NA,32,J62y.11#
+J634.#,Hepatic infarction,1,0,1,30226018#,Hepatic infarction,J634,J634.00,17890003,30226018,NA,32,J634.00#
+J6351#,Toxic liver disease with hepatic necrosis,1,0,1,303512010#,Toxic liver disease with hepatic necrosis,J6351,J635100,197356006,303512010,NA,32,J635100#
+J6357#,Acute hepatic failure due to drugs,1,0,1,2534188017#,Acute hepatic failure due to drugs,J6357,J635700,413438002,2534188017,NA,5,J635700#
+J636.#,Central haemorrhagic necrosis of liver,1,0,1,303521011#,Central haemorrhagic necrosis of liver,J636,J636.00,197364000,303521011,NA,32,J636.00#
+7609.#,Open operations on oesophageal varices,0,1,1,268812014#,Open operations on oesophageal varices,7609,7609.00,173617001,268812014,NA,32,7609.00#
+76093#,Local ligation of oesophageal varices,0,1,1,862761000006111#,Oesophageal vessels ligated,76093-99,7609399,67364009,862761000006111,NA,32,7609399#
+76093#,Local ligation of oesophageal varices,0,1,1,737961000006116#,Ligation of oesophageal varices,76093,7609300,67364009,199882015,NA,32,7609300#
+76094#,Open injection sclerotherapy to oesophageal varices,0,1,1,862771000006116#,Oesophageal varices injected,76094-99,7609499,173621008,862771000006116,NA,32,7609499#
+76094#,Open injection sclerotherapy to oesophageal varices,0,1,1,268819017#,Open injection sclerotherapy to oesophageal varices,76094,7609400,173621008,268819017,NA,32,7609400#
+7609y#,Oesophageal varices operation: [OS open] or [Tanner],0,1,1,114801000006118#,Tanner devascularisation for bleeding varices,7609y-1,7609y11,173617001,268812014,NA,32,7609y11#
+7609y#,Oesophageal varices operation: [OS open] or [Tanner],0,1,1,394102015#,Other specified open operation on oesophageal varices,7609y,7609y00,173617001,268812014,NA,32,7609y00#
+7609z#,Open operation on oesophageal varices NOS,0,1,1,268827014#,Open operation on oesophageal varices NOS,7609z,7609z00,173617001,268812014,NA,32,7609z00#
+760C3#,Fibreoptic oesophagoscopy & injection sclerotherapy varices,0,1,1,708811000006119#,Fibreoptic endoscopic injection sclerotherapy to oesophageal varices,760C3,760C300,173639004,268880013,NA,32,760C300#
+760C5#,Fibreoptic oesophagoscopy and banding of oesophageal varices,0,1,1,268885015#,Fibreoptic endoscopic banding of oesophageal varices,760C5,760C500,173641003,268885015,NA,32,760C500#
+760F3#,Rigid oesophagoscopy and injection sclerotherapy of varices,0,1,1,163571000006112#,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope,760F3,760F300,173660005,268950019,NA,32,760F300#
+760F3#,Rigid oesophagoscopy and injection sclerotherapy of varices,0,1,1,987751000006119#,Oesophageal varices injected,760F3-99,760F399,173660005,987751000006119,NA,32,760F399#
+760F4#,Rigid oesophagoscopy and banding of oesophageal varices,0,1,1,268957016#,Rigid oesophagoscopic banding of oesophageal varices,760F4,760F400,173661009,268957016,NA,32,760F400#
+760J4#,Balloon tamponade of oesophagus,0,1,1,267161000006118#,Oesophageal tamponade,760J4,760J400,173679008,269009017,NA,32,760J400#
+7800.#,Liver transplant,0,1,1,30458014#,Transplantation of liver,7800,7800.00,18027006,30458014,NA,32,7800.00#
+7800.#,Liver transplant,0,1,1,864281000006116#,Liver transplant,7800-98,7800.98,18027006,864281000006116,NA,32,7800.98#
+7800.#,Liver transplant,0,1,1,864291000006118#,Total hepatectomy,7800-99,7800.99,18027006,864291000006118,NA,32,7800.99#
+78000#,Orthotopic liver transplant,0,1,1,31211000006119#,Orthotopic transplantation of liver,78000,7800000,174425003,270228010,NA,32,7800000#
+78001#,Heterotopic liver transplant,0,1,1,225661000006111#,Piggy back liver transplant,78001-2,7800112,174426002,270231011,NA,32,7800112#
+78001#,Heterotopic liver transplant,0,1,1,822591000006117#,Heterotopic liver transplant,78001,7800100,174426002,270229019,NA,32,7800100#
+78001#,Heterotopic liver transplant,0,1,1,500401000006116#,Auxillary liver transplant,78001-1,7800111,174426002,270230012,NA,32,7800111#
+78002#,Replacement of previous liver transplant,0,1,1,270232016#,Replacement of previous liver transplant,78002,7800200,174427006,270232016,NA,32,7800200#
+7800y#,Other specified transplantation of liver,0,1,1,270233014#,Other specified transplantation of liver,7800y,7800y00,18027006,30458014,NA,32,7800y00#
+7800z#,Transplantation of liver NOS,0,1,1,270234015#,Transplantation of liver NOS,7800z,7800z00,18027006,30458014,NA,32,7800z00#
+78052#,Exploration liver (& transplanted),0,1,1,352929018#,Exploration of liver transplant,78052-1,7805211,235458006,352929018,NA,32,7805211#
+78052#,Exploration liver (& transplanted),0,1,1,394236016#,Exploration of liver,78052,7805200,265437009,394236016,NA,32,7805200#
+78052#,Exploration liver (& transplanted),0,1,1,864341000006115#,Liver exploration,78052-99,7805299,265437009,864341000006115,NA,32,7805299#
+A706.#,Unspecified viral hepatitis with coma,0,1,1,286876018#,Unspecified viral hepatitis with coma,A706,A706.00,3738000,7302012,NA,32,A706.00#
+AyuB3#,[X]Unspecified viral hepatitis with coma,0,1,1,288171017#,Hepatic coma due to viral hepatitis,AyuB3,AyuB300,40946000,3008405010,NA,32,AyuB300#
+F10y0#,Progressive neuronal degeneration with liver cirrhosis,0,1,1,1222437010#,Alper's disease,F10y0,F10y000,20415001,1222437010,NA,32,F10y000#
+G850.#,Bleeding oesophageal varices,0,1,1,1216060010#,Oesophageal varices with bleeding,G850,G850.00,17709002,1216060010,NA,32,G850.00#
+G851.#,Oesophageal varices without bleeding,0,1,1,24192017#,Oesophageal varices without bleeding,G851,G851.00,14223005,24192017,NA,32,G851.00#
+G852.#,Oesophageal varices in diseases EC,0,1,1,300775019#,Oesophageal varices in diseases EC,G852,G852.00,195474004,300775019,NA,32,G852.00#
+G8520#,Oesophageal varices with bleeding in diseases EC,0,1,1,300776018#,Oesophageal varices with bleeding in diseases EC,G8520,G852000,195475003,300776018,NA,32,G852000#
+G8521#,Oesophageal varices without bleeding in diseases EC,0,1,1,300779013#,Oesophageal varices without bleeding in diseases EC,G8521,G852100,195476002,300779013,NA,32,G852100#
+G852z#,Oesophageal varices in diseases EC NOS,0,1,1,300784019#,Oesophageal varices in diseases EC NOS,G852z,G852z00,195474004,300774015,NA,32,G852z00#
+G857.#,Gastric varices,0,1,1,150964016#,Gastric varices,G857,G857.00,91109007,150964016,NA,32,G857.00#
+Gyu94#,[X]Oesophageal varices in diseases classified elsewhere,0,1,1,300993011#,[X]Oesophageal varices in diseases classified elsewhere,Gyu94,Gyu9400,28670008,48000018,NA,32,Gyu9400#
+J614.#,Chronic hepatitis,0,1,1,127487019#,Chronic hepatitis,J614,J614.00,76783007,127487019,NA,32,J614.00#
+J6140#,Chronic persistent hepatitis,0,1,1,69895016#,Chronic persistent hepatitis,J6140,J614000,41889008,69895016,NA,32,J614000#
+J6142#,Chronic aggressive hepatitis,0,1,1,553311000006111#,Chronic aggressive hepatitis,J6142,J614200,197284004,303401012,NA,32,J614200#
+J6143#,Recurrent hepatitis,0,1,1,303407011#,Recurrent hepatitis,J6143,J614300,197286002,303407011,NA,32,J614300#
+J614y#,Chronic hepatitis unspecified,0,1,1,303409014#,Chronic hepatitis unspecified,J614y,J614y00,76783007,127487019,NA,32,J614y00#
+J614z#,Chronic hepatitis NOS,0,1,1,303410016#,Chronic hepatitis NOS,J614z,J614z00,76783007,127487019,NA,32,J614z00#
+J6150#,Unilobular portal cirrhosis,0,1,1,303414013#,Unilobular portal cirrhosis,J6150,J615000,197291001,303414013,NA,32,J615000#
+J6152#,Mixed portal cirrhosis,0,1,1,477604016#,Mixed portal cirrhosis,J6152,J615200,15999000,477604016,NA,32,J615200#
+J6159#,Pigmentary portal cirrhosis,0,1,1,303433015#,Pigmentary portal cirrhosis,J6159,J615900,197299004,303433015,NA,32,J615900#
+J615A#,Pipestem portal cirrhosis,0,1,1,226161000006113#,Pipe-stem portal cirrhosis,J615A,J615A00,197300007,303434014,NA,32,J615A00#
+J615B#,Toxic portal cirrhosis,0,1,1,303435010#,Toxic portal cirrhosis,J615B,J615B00,197301006,303435010,NA,32,J615B00#
+J615F#,Syphilitic portal cirrhosis,0,1,1,303439016#,Syphilitic portal cirrhosis,J615F,J615F00,197305002,303439016,NA,32,J615F00#
+J61y.#,Other non-alcoholic chronic liver disease,0,1,1,303456012#,Chronic nonalcoholic liver disease,J61y,J61y.00,79720007,132267018,NA,32,J61y.00#
+J61y0#,Chronic yellow atrophy,0,1,1,504762019#,Chronic yellow liver atrophy,J61y0,J61y000,81675001,504762019,NA,32,J61y000#
+J61yz#,Other non-alcoholic chronic liver disease NOS,0,1,1,303464018#,Other non-alcoholic chronic liver disease NOS,J61yz,J61yz00,328383001,467154010,NA,32,J61yz00#
+J61z.#,Chronic liver disease NOS,0,1,1,303465017#,Chronic liver disease,J61z,J61z.00,328383001,467154010,NA,32,J61z.00#
+J62..#,Liver abscess and sequelae of chronic liver disease,0,1,1,303466016#,Liver abscess and sequelae of chronic liver disease,J62,J62..00,197324004,303466016,NA,32,J62..00#
+J623.#,Portal hypertension,0,1,1,57989014#,Portal hypertension,J623,J623.00,34742003,57989014,NA,32,J623.00#
+J624.#,Hepatorenal syndrome,0,1,1,85441018#,Hepatorenal syndrome,J624,J624.00,51292008,85441018,NA,32,J624.00#
+J62z.#,Liver abscess and chronic liver disease causing sequelae NOS,0,1,1,303489012#,Liver abscess and chronic liver disease causing sequelae NOS,J62z,J62z.00,197324004,303466016,NA,32,J62z.00#
+J630.#,Chronic passive congestion of liver,0,1,1,555881000006114#,Chronic passive liver congestion,J630,J630.00,34736002,57977012,NA,32,J630.00#
+J6353#,Toxic liver disease with chronic persistent hepatitis,0,1,1,303515012#,Toxic liver disease with chronic persistent hepatitis,J6353,J635300,197359004,303515012,NA,32,J635300#
+J6354#,Toxic liver disease with chronic lobular hepatitis,0,1,1,303516013#,Toxic liver disease with chronic lobular hepatitis,J6354,J635400,197360009,303516013,NA,32,J635400#
+J6355#,Toxic liver disease with chronic active hepatitis,0,1,1,303517016#,Toxic liver disease with chronic active hepatitis,J6355,J635500,197361008,303517016,NA,32,J635500#
+J63A.#,Hepatic granulomas in sarcoidosis,0,1,1,303525019#,Hepatic granulomas in sarcoidosis,J63A,J63A.00,197368002,303525019,NA,32,J63A.00#
+PB61.#,Atresia of bile ducts,0,1,1,128627011#,Biliary atresia,PB61,PB61.00,77480004,128627011,NA,32,PB61.00#
+PB61.#,Atresia of bile ducts,0,1,1,511611000006113#,Bile duct atresia,PB61-1,PB61.11,77480004,503590014,NA,32,PB61.11#
+PB610#,Congenital absence of bile duct,0,1,1,3268012#,Congenital absence of bile duct,PB610,PB61000,1287007,3268012,NA,32,PB61000#
+PB610#,Congenital absence of bile duct,0,1,1,3269016#,Agenesis of bile duct,PB610-1,PB61011,1287007,3268012,NA,32,PB61011#
+PB611#,Congenital hypoplasia of bile duct,0,1,1,113108015#,Congenital hypoplasia of bile duct,PB611,PB61100,68094008,113108015,NA,32,PB61100#
+PB614#,Atresia of bile duct (& [intrahepatic] or [extrahepatic],0,1,1,768541000006118#,Intrahepatic atresia of bile duct,PB614-1,PB61411,253807009,377894011,NA,32,PB61411#
+PB614#,Atresia of bile duct (& [intrahepatic] or [extrahepatic],0,1,1,221941000000113#,Atresia of bile duct,PB614,PB61400,77480004,503590014,NA,32,PB61400#
+PB614#,Atresia of bile duct (& [intrahepatic] or [extrahepatic],0,1,1,660151000006116#,Extrahepatic atresia of bile duct,PB614-2,PB61412,82821008,505285010,NA,32,PB61412#
+PB615#,Congenital absence of hepatic ducts,0,1,1,314032018#,Congenital absence of hepatic ducts,PB615,PB61500,204781002,314032018,NA,32,PB61500#
+PB615#,Congenital absence of hepatic ducts,0,1,1,314033011#,Agenesis of hepatic ducts,PB615-1,PB61511,204781002,314033011,NA,32,PB61511#
+PB616#,Atresia of hepatic ducts,0,1,1,314034017#,Atresia of hepatic ducts,PB616,PB61600,204782009,314034017,NA,32,PB61600#
+PB61z#,Biliary atresia NOS,0,1,1,314035016#,Biliary atresia NOS,PB61z,PB61z00,77480004,128627011,NA,32,PB61z00#
+PB635#,Alagille syndrome,0,1,1,53033015#,Alagille syndrome,PB635,PB63500,31742004,53033015,NA,32,PB63500#
+SP143#,Hepatorenal syndrome as a complication of care,0,1,1,325081012#,Hepatorenal syndrome as a complication of care,SP143,SP14300,213231008,325081012,NA,32,SP14300#
+X2063#,Oesophageal varices,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X2063#
+X20Uu#,Balln tamponade oesophagus using Sengstaken-Blakemore tube,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X20Uu#
+X20Uv#,Balloon tamponade of oesophagus using Minnesota tube,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X20Uv#
+X20Zz#,Exploration of liver transplant,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X20Zz#
+X306h#,Chronic viral hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306h#
+X306i#,Chronic viral hepatitis B,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306i#
+X306j#,Chronic viral hepatitis B with hepatitis D,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306j#
+X306k#,Chronic viral hepatitis C,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306k#
+X306l#,Chronic non-A non-B hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306l#
+X306r#,Alcoholic hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X306r#
+X3071#,Alcoholic liver disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3071#
+X3072#,Alcoholic fibrosis and sclerosis of liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3072#
+X3073#,Alcoholic hepatic failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3073#
+X3076#,Hepatic failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3076#
+X3077#,Liver failure NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3077#
+X3078#,Hepatic failure NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3078#
+X3079#,Fulminant hepatic failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3079#
+X307A#,Subfulminant hepatic failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307A#
+X307C#,Chronic hepatic failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307C#
+X307G#,Chronic lobular hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307G#
+X307I#,Drug-induced chronic hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307I#
+X307L#,Cirrhosis of liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307L#
+X307M#,Cirrhosis of liver NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307M#
+X307N#,Florid cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307N#
+X307O#,Cryptogenic cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307O#
+X307P#,Indian childhood cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307P#
+X307Q#,Micronodular cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307Q#
+X307R#,Portal cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307R#
+X307S#,"Laennec's cirrhosis, non-alcoholic",0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307S#
+X307T#,Infectious cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307T#
+X307U#,Hypoxia-associated cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307U#
+X307V#,Toxic cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307V#
+X307W#,Fibrosis of liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307W#
+X307X#,Congenital hepatic fibrosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307X#
+X307Y#,Pericellular fibrosis of congenital syphilis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307Y#
+X307Z#,Hepatic sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307Z#
+X307a#,Portal and splenic vein sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307a#
+X307b#,Hepatic fibrosis with hepatic sclerosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307b#
+X307c#,Intrahepatic phlebosclerosis and fibrosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307c#
+X307x#,Liver transplant disorder,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307x#
+X307y#,Liver transplant rejection,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307y#
+X307z#,Liver transplant failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X307z#
+X3085#,Ichthyosis congenita with biliary atresia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X3085#
+X7847#,Intrahepatic biliary atresia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7847#
+X7848#,Extrahepatic biliary atresia,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,X7848#
+XE0CP#,Other specified open operation on oesophageal varices,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0CP#
+XE0b4#,Alcoholic cirrhosis of liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b4#
+XE0b5#,Cirrhosis - non-alcoholic,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b5#
+XE0b6#,Multilobular portal cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b6#
+XE0b7#,Cardiac portal cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b7#
+XE0b8#,Juvenile portal cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b8#
+XE0bA#,Non-alcoholic cirrhosis NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0bA#
+XE0bC#,Other sequelae of chronic liver disease,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0bC#
+XE0dD#,(Cirrhos &/or chron liver dis) or (alcoholic liver disease),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dD#
+XE0dF#,Alcoholic liver damage NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dF#
+XE0dH#,Chronic hepatitis (& [NOS]/[active B]/[active]/[persistent]),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dH#
+XE0dJ#,Biliary cirrhosis (& [primary]),0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dJ#
+XE2up#,Cirrhosis secondary to cholestasis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XE2up#
+Xa9C7#,Cardiac cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,Xa9C7#
+XaBE3#,Chronic alcoholic hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBE3#
+XaBM6#,Oesophageal varices in cirrhosis of the liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaBM6#
+XaC1d#,Oesophageal varices in alcoholic cirrhosis of the liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaC1d#
+XaE6u#,Oesophageal varices NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaE6u#
+XaJTk#,Autoimmune hepatitis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJTk#
+XaJxp#,Acute hepatic failure due to drugs,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJxp#
+XaLdJ#,Fibreopt endoscop rubber band ligation of upper GIT varices,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLdJ#
+XaLde#,Transplantation of liver cells,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLde#
+XaLdf#,Orthotopic transplantation of whole liver,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaLdf#
+XaMMe#,Orthotopic transplantation of liver NEC,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMMe#
+XaMuG#,Compensation for liver failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMuG#
+XaMuH#,Other specified compensation for liver failure,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMuH#
+XaMuI#,Compensation for liver failure NOS,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMuI#
+XaREa#,Liver disease due to cystic fibrosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaREa#
+XaXi9#,Cystic fibrosis related cirrhosis,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXi9#
+XaYbp#,Viral hepatitis with hepatic coma,0,1,1,NA#,NA,NA,NA,NA,NA,NA,NA,XaYbp#
+ZV427#,[V]Liver transplanted,0,1,1,460651015#,Transplanted liver present,ZV427,ZV42700,737297006,3527364013,NA,32,ZV42700#
+ZV7C0#,[V]Assessment for liver transplant,0,1,1,461319017#,[V]Assessment for liver transplant,ZV7C0,ZV7C000,400381000000101,1004021000000115,NA,32,ZV7C000#

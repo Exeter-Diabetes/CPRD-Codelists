@@ -1,0 +1,31 @@
+readcode,term_readcode,v2,ctv3,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+E200.#,Anxiety states,1,1,2,488201000006114#,Anxiety disorder,E200,E200.00,197480006,303689015,NA,32,E200.00#
+E200.#,Anxiety states,1,1,2,304838011#,Anxiety state,E200-99,E200.99,198288003,882361000006113,NA,32,E200.99#
+E2002#,Generalised anxiety disorder,1,1,2,481154010#,Generalised anxiety disorder,E2002,E200200,21897009,481154010,NA,32,E200200#
+E2004#,Chronic anxiety,1,1,2,294960010#,Chronic anxiety,E2004,E200400,191708009,294960010,NA,32,E200400#
+E2005#,Recurrent anxiety,1,1,2,294961014#,Recurrent anxiety,E2005,E200500,191709001,294961014,NA,32,E200500#
+E200z#,Anxiety state NOS,1,1,2,294963012#,Anxiety state,E200z,E200z00,198288003,304838011,NA,32,E200z00#
+Eu41.#,[X]Other anxiety disorders,1,1,2,296238018#,[X]Other anxiety disorders,Eu41,Eu41.00,197480006,303689015,NA,32,Eu41.00#
+Eu410#,[X]Panic disorder [episodic paroxysmal anxiety],1,1,2,418031000006113#,[X]Panic attack,Eu410-1,Eu41011,371631005,1210253015,NA,32,Eu41011#
+Eu410#,[X]Panic disorder [episodic paroxysmal anxiety],1,1,2,418061000006116#,[X]Panic state,Eu410-2,Eu41012,371631005,1210253015,NA,32,Eu41012#
+Eu410#,[X]Panic disorder [episodic paroxysmal anxiety],1,1,2,296239014#,[X]Panic disorder [episodic paroxysmal anxiety],Eu410,Eu41000,371631005,1210253015,NA,32,Eu41000#
+Eu413#,[X]Other mixed anxiety disorders,1,1,2,296245018#,[X]Other mixed anxiety disorders,Eu413,Eu41300,231504006,346979010,NA,32,Eu41300#
+Eu41z#,"[X]Anxiety disorder, unspecified",1,1,2,363661000006113#,[X]Anxiety NOS,Eu41z-1,Eu41z11,197480006,303689015,NA,32,Eu41z11#
+Eu41z#,"[X]Anxiety disorder, unspecified",1,1,2,296249012#,"[X]Anxiety disorder, unspecified",Eu41z,Eu41z00,197480006,303689015,NA,32,Eu41z00#
+E2000#,Anxiety state unspecified,1,0,1,294953016#,Anxiety state unspecified,E2000,E200000,198288003,304838011,NA,32,E200000#
+E2001#,Panic disorder,1,0,1,1210253015#,Panic disorder,E2001,E200100,371631005,1210253015,NA,32,E200100#
+E2001#,Panic disorder,1,0,1,339044013#,Panic attack,E2001-1,E200111,225624000,339044013,NA,32,E200111#
+E2003#,Anxiety with depression,1,0,1,488211000006112#,Mixed anxiety and depressive disorder,E2003,E200300,231504006,346979010,NA,32,E200300#
+Eu411#,[X]Generalized anxiety disorder,1,0,1,388071000006116#,[X]Generalized anxiety disorder,Eu411,Eu41100,21897009,481154010,NA,32,Eu41100#
+Eu411#,[X]Generalized anxiety disorder,1,0,1,363651000006111#,Anxiety neurosis,Eu411-1,Eu41111,207363009,317740010,NA,32,Eu41111#
+Eu411#,[X]Generalized anxiety disorder,1,0,1,363681000006115#,[X]Anxiety state,Eu411-3,Eu41113,198288003,304838011,NA,32,Eu41113#
+Eu411#,[X]Generalized anxiety disorder,1,0,1,363671000006118#,[X]Anxiety reaction,Eu411-2,Eu41112,197480006,303689015,NA,32,Eu41112#
+Eu412#,[X]Mixed anxiety and depressive disorder,1,0,1,398351000006110#,[X]Mild anxiety depression,Eu412-1,Eu41211,231504006,346979010,NA,32,Eu41211#
+Eu412#,[X]Mixed anxiety and depressive disorder,1,0,1,398561000006117#,[X]Mixed anxiety and depressive disorder,Eu412,Eu41200,231504006,346979010,NA,32,Eu41200#
+Eu41y#,[X]Other specified anxiety disorders,1,0,1,363641000006114#,[X]Anxiety hysteria,Eu41y-1,Eu41y11,197480006,303689015,NA,32,Eu41y11#
+Eu41y#,[X]Other specified anxiety disorders,1,0,1,401881014#,[X]Other specified anxiety disorders,Eu41y,Eu41y00,197480006,303689015,NA,32,Eu41y00#
+XE1Y7#,Panic disorder,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE1Y7#
+X00Sb#,Mixed anxiety and depressive disorder,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X00Sb#
+X00RP#,Organic anxiety disorder,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X00RP#
+X00Sc#,Anxiety hysteria,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,X00Sc#
+XE1Zj#,[X]Other specified anxiety disorders,0,1,1,"NA#",NA,NA,NA,NA,NA,NA,NA,XE1Zj#

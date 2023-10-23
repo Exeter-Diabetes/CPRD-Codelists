@@ -1,0 +1,568 @@
+snomedcode,Description,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+46866001#,Fracture of lower limb (disorder),319249015#,"Open fracture of tibia and fibula, unspecified part, NOS",S33yz,S33yz00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),319343016#,"Other, multiple and ill-defined fractures of lower limb NOS",S3xz,S3xz.00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),455453011#,"Closed fracture of lower limb, level unspecified",S370,S370.00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),257181000006118#,"Open fracture of tibia and fibula, unspecified part, NOS",S33y,S33y.00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),319333019#,Fracture of lower limb,S37,S37..00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),696431000006119#,"Multiple #both legs, leg + arm ,leg + rib + sternum",S3y,S3y..00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),455454017#,"Open fracture of lower limb, level unspecified",S371,S371.00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),895911000006116#,Multiple fractures,S3y-99,S3y..99,895911000006116#,NA,32
+46866001#,Fracture of lower limb (disorder),78112010#,Fracture of bone of lower limb,S3,S3...00,1230400018#,NA,32
+46866001#,Fracture of lower limb (disorder),3257571000006117#,Fracture of leg,^ESCTFR325757,NA,78115012#,NA,32
+46866001#,Fracture of lower limb (disorder),696441000006112#,"Multiple #both legs, leg + arm, leg + rib + sternum NOS",S3yz,S3yz.00,78112010#,NA,32
+46866001#,Fracture of lower limb (disorder),1230401019#,Leg fracture,S3-1,S3...11,1230401019#,NA,32
+52603002#,Closed fracture of lower limb (disorder),3352741000006113#,Closed fracture of lower limb,^ESCTCL335274,NA,87542010#,NA,32
+52603002#,Closed fracture of lower limb (disorder),3352751000006110#,Closed fracture of leg,^ESCTCL335275,NA,87545012#,NA,32
+52603002#,Closed fracture of lower limb (disorder),696351000006119#,"Multiple closed #both legs, leg + arm, leg + rib + sternum",S3y0,S3y0.00,87542010#,NA,32
+42188001#,Closed fracture of ankle (disorder),319271013#,Closed fracture of ankle,S34x,S34x.00,70403018#,NA,32
+209349006#,Closed fracture dislocation of ankle joint (disorder),565421000006116#,"Closed fracture dislocation, ankle joint",S4G0,S4G0.00,320047016#,NA,32
+209349006#,Closed fracture dislocation of ankle joint (disorder),4849711000006118#,Closed fracture dislocation of ankle joint,^ESCTCL484971,NA,3028534011#,NA,32
+209351005#,Closed fracture subluxation of ankle joint (disorder),565751000006117#,"Closed fracture-subluxation, ankle joint",S4G2,S4G2.00,320049018#,NA,32
+209351005#,Closed fracture subluxation of ankle joint (disorder),4849751000006117#,Closed fracture subluxation of ankle joint,^ESCTCL484975,NA,3028605011#,NA,32
+209352003#,Open fracture subluxation of ankle joint (disorder),255641000006113#,"Open fracture-subluxation, ankle joint",S4G3,S4G3.00,320050018#,NA,32
+209352003#,Open fracture subluxation of ankle joint (disorder),4849761000006115#,Open fracture subluxation of ankle joint,^ESCTOP484976,NA,3028385016#,NA,32
+263115008#,Fracture subluxation of ankle joint (disorder),5460951000006115#,Fracture subluxation of ankle joint,^ESCTFR546095,NA,391233013#,NA,31
+208634001#,Closed fracture distal tibia (disorder),319227014#,Closed fracture distal tibia,S334,S334.00,319227014#,NA,32
+208635000#,"Closed fracture distal tibia, extra-articular (disorder)",319228016#,"Closed fracture distal tibia, extra-articular",S3340,S334000,319228016#,NA,32
+208636004#,"Closed fracture distal tibia, intra-articular (disorder)",319229012#,"Closed fracture distal tibia, intra-articular",S3341,S334100,319229012#,NA,32
+446298003#,Closed pilon fracture (disorder),7322331000006111#,Closed pilon fracture,^ESCTCL732233,NA,2882755015#,NA,31
+445410003#,Closed fracture of distal tibia and distal fibula (disorder),1175081000000117#,Closed fracture of distal tibia and fibula,S33C,S33C.00,1666471000000113#,NA,32
+445410003#,Closed fracture of distal tibia and distal fibula (disorder),7307671000006112#,Closed fracture of distal tibia and distal fibula,^ESCTCL730767,NA,2871075011#,NA,32
+25899002#,Closed bimalleolar fracture (disorder),632621000006112#,"Dupuytren's fracture, fibula",S344-1,S344.11,43394011#,NA,32
+25899002#,Closed bimalleolar fracture (disorder),561441000006114#,Closed bimalleolar fracture,S344,S344.00,43394011#,NA,32
+208663003#,"Closed fracture ankle, bimalleolar, high fibular fracture (disorder)",319262016#,"Closed fracture ankle, bimalleolar, high fibular fracture",S3441,S344100,319262016#,NA,32
+208662008#,"Closed fracture ankle, bimalleolar, low fibular fracture (disorder)",319261011#,"Closed fracture ankle, bimalleolar, low fibular fracture",S3440,S344000,319261011#,NA,32
+6698000#,Closed trimalleolar fracture (disorder),989611000006116#,#Ankle - trimalleolar,S346-99,S346.99,989611000006116#,NA,32
+6698000#,Closed trimalleolar fracture (disorder),1232867019#,"Closed fracture ankle, trimalleolar",S346,S346.00,1232867019#,NA,32
+6698000#,Closed trimalleolar fracture (disorder),2606951000006119#,Closed trimalleolar fracture,^ESCTCL260695,NA,12100015#,NA,32
+208667002#,"Closed fracture ankle, trimalleolar, high fibular fracture (disorder)",319266018#,"Closed fracture ankle, trimalleolar, high fibular fracture",S3461,S346100,319266018#,NA,32
+208666006#,"Closed fracture ankle, trimalleolar, low fibular fracture (disorder)",319265019#,"Closed fracture ankle, trimalleolar, low fibular fracture",S3460,S346000,319265019#,NA,32
+90338005#,Open trimalleolar fracture (disorder),3968511000006117#,Open trimalleolar fracture,^ESCTOP396851,NA,149736018#,NA,32
+90338005#,Open trimalleolar fracture (disorder),1235556018#,"Open fracture ankle, trimalleolar",S347,S347.00,1235556018#,NA,32
+208669004#,"Open fracture ankle, trimalleolar, high fibular fracture (disorder)",319268017#,"Open fracture ankle, trimalleolar, high fibular fracture",S3471,S347100,319268017#,NA,32
+705080006#,Closed fracture of epiphyseal plate of distal tibia (disorder),7598221000006114#,Closed fracture of epiphyseal plate of distal tibia,^ESCTCL759822,NA,3023039013#,NA,31
+705080006#,Closed fracture of epiphyseal plate of distal tibia (disorder),7598231000006112#,Closed fracture of physis of distal tibia,^ESCTCL759823,NA,3023058016#,NA,31
+15385006#,Closed fracture of medial malleolus (disorder),2744121000006115#,Closed fracture of medial malleolus,^ESCTCL274412,NA,26096019#,NA,32
+15385006#,Closed fracture of medial malleolus (disorder),1221187014#,"Closed fracture ankle, medial malleolus",S340,S340.00,1221187014#,NA,32
+15385006#,Closed fracture of medial malleolus (disorder),989581000006112#,#Ankle - medial malleolus,S340-99,S340.99,989581000006112#,NA,32
+308153009#,Closed fracture of distal fibula (disorder),451471011#,Closed fracture of distal fibula,S3390,S339000,451471011#,NA,32
+34268009#,Closed fracture of lateral malleolus (disorder),3051871000006115#,Closed fracture of lateral malleolus,^ESCTCL305187,NA,57222012#,NA,32
+34268009#,Closed fracture of lateral malleolus (disorder),1228159014#,"Closed fracture ankle, lateral malleolus",S342,S342.00,1228159014#,NA,32
+34268009#,Closed fracture of lateral malleolus (disorder),989591000006110#,#Ankle - lateral malleolus,S342-99,S342.99,989591000006110#,NA,32
+208658002#,"Closed fracture ankle, lateral malleolus, high (disorder)",319253018#,"Closed fracture ankle, lateral malleolus, high",S3421,S342100,319253018#,NA,32
+208657007#,"Closed fracture ankle, lateral malleolus, low (disorder)",319252011#,"Closed fracture ankle, lateral malleolus, low",S3420,S342000,319252011#,NA,32
+79626009#,Closed fracture of talus (disorder),132104018#,Closed fracture of talus,S3521,S352100,132104018#,NA,32
+79626009#,Closed fracture of talus (disorder),132103012#,Closed fracture of astragalus,S3521-1,S352111,132103012#,NA,32
+208686005#,"Closed fracture talus, body (disorder)",319295010#,"Closed fracture talus, body",S352A,S352A00,319295010#,NA,32
+208684008#,"Closed fracture talus, head (disorder)",319293015#,"Closed fracture talus, head",S3528,S352800,319293015#,NA,32
+208685009#,"Closed fracture talus, neck (disorder)",319294014#,"Closed fracture talus, neck",S3529,S352900,319294014#,NA,32
+428151000#,Closed fracture of bone of knee joint (disorder),2693040014#,Closed fracture of bone of knee joint,ESCTCL9,NA,2693040014#,NA,32
+209340005#,Closed fracture dislocation of knee joint (disorder),565491000006119#,"Closed fracture dislocation, knee joint",S4F0,S4F0.00,320038012#,NA,32
+209340005#,Closed fracture dislocation of knee joint (disorder),4849581000006118#,Closed fracture dislocation of knee joint,^ESCTCL484958,NA,3028590017#,NA,32
+209344001#,Closed fracture dislocation of patellofemoral joint (disorder),4849651000006110#,Closed fracture dislocation of patellofemoral joint,^ESCTCL484965,NA,3028414012#,NA,32
+209344001#,Closed fracture dislocation of patellofemoral joint (disorder),565521000006117#,"Closed fracture dislocation, patellofemoral joint",S4F4,S4F4.00,320042010#,NA,32
+209342002#,Closed fracture subluxation of knee joint (disorder),4849621000006118#,Closed fracture subluxation of knee joint,^ESCTCL484962,NA,3028448013#,NA,32
+209342002#,Closed fracture subluxation of knee joint (disorder),565841000006114#,"Closed fracture subluxation, knee joint",S4F2,S4F2.00,320040019#,NA,32
+47848000#,Closed fracture of condyle of tibia (disorder),564111000006118#,Closed fracture of condyle of tibia,S3300-1,S330011,79735012#,NA,32
+208613008#,Closed fracture intercondylar spine of tibia (disorder),12220961000006113#,Closed fracture intercondylar spine of tibia,^ESCT1222096,NA,3698588016#,NA,32
+208613008#,Closed fracture intercondylar spine of tibia (disorder),12220981000006115#,Closed fracture of tibial eminence,^ESCT1222098,NA,3698577010#,NA,32
+208613008#,Closed fracture intercondylar spine of tibia (disorder),319203012#,"Closed fracture spine, tibia",S3306,S330600,3698576018#,NA,32
+208613008#,Closed fracture intercondylar spine of tibia (disorder),12484081000006118#,"Closed fracture spine, tibia",^ESCT1248408,NA,319203012#,NA,32
+208613008#,Closed fracture intercondylar spine of tibia (disorder),12220971000006118#,Closed fracture of tibial spine,^ESCT1222097,NA,3698576018#,NA,32
+208612003#,"Closed fracture proximal tibia, bicondylar (disorder)",319202019#,"Closed fracture proximal tibia, bicondylar",S3305,S330500,319202019#,NA,32
+208611005#,"Closed fracture proximal tibia, lateral condyle (plateau) (disorder)",319201014#,"Closed fracture proximal tibia, lateral condyle (plateau)",S3304,S330400,319201014#,NA,32
+208610006#,"Closed fracture proximal tibia, medial condyle (plateau) (disorder)",319200010#,"Closed fracture proximal tibia, medial condyle (plateau)",S3303,S330300,319200010#,NA,32
+66926007#,Closed fracture of femoral condyle of femur (disorder),319160016#,Closed fracture of femoral condyle of femur,S3121,S312100,111159013#,NA,32
+208581008#,"Closed fracture distal femur, bicondylar (T-Y fracture) (disorder)",319164013#,"Closed fracture distal femur, bicondylar (T-Y fracture)",S3126,S312600,319164013#,NA,32
+208580009#,"Closed fracture distal femur, lateral condyle (disorder)",319163019#,"Closed fracture distal femur, lateral condyle",S3125,S312500,319163019#,NA,32
+208579006#,"Closed fracture distal femur, medial condyle (disorder)",319162012#,"Closed fracture distal femur, medial condyle",S3124,S312400,319162012#,NA,32
+80756009#,Closed fracture of patella (disorder),563861000006112#,Closed fracture of patella,S320,S320.00,133953010#,NA,32
+208601003#,"Closed fracture patella, comminuted (stellate) (disorder)",319188010#,"Closed fracture patella, comminuted (stellate)",S3204,S320400,319188010#,NA,32
+208598008#,"Closed fracture patella, distal pole (disorder)",319183018#,"Closed fracture patella, distal pole",S3202,S320200,319183018#,NA,32
+208597003#,"Closed fracture patella, proximal pole (disorder)",319182011#,"Closed fracture patella, proximal pole",S3201,S320100,319182011#,NA,32
+208596007#,"Closed fracture patella, transverse (disorder)",319181016#,"Closed fracture patella, transverse",S3200,S320000,319181016#,NA,32
+208600002#,"Closed fracture patella, vertical (disorder)",319186014#,"Closed fracture patella, vertical",S3203,S320300,319186014#,NA,32
+428020005#,Closed osteochondral fracture of patella (disorder),7082201000006118#,Closed osteochondral fracture of patella,^ESCTCL708220,NA,2695003015#,NA,31
+25415003#,Closed fracture of femur (disorder),2906471000006119#,Closed fracture of upper leg,^ESCTCL290647,NA,42620014#,NA,32
+25415003#,Closed fracture of femur (disorder),2906461000006114#,Closed fracture of thigh,^ESCTCL290646,NA,42619015#,NA,32
+25415003#,Closed fracture of femur (disorder),319140012#,Closed fracture of femur,S30w,S30w.00,42617018#,NA,32
+25415003#,Closed fracture of femur (disorder),402875016#,"Closed fracture of femur, unspecified part",S3100,S310000,42617018#,NA,32
+705090003#,Closed fracture of apophysis of femur (disorder),7598371000006118#,Closed fracture of apophysis of femur,^ESCTCL759837,NA,3023298013#,NA,31
+705090003#,Closed fracture of apophysis of femur (disorder),7598381000006115#,Closed apophyseal fracture of femur,^ESCTCL759838,NA,3023270010#,NA,31
+62125005#,Closed fracture of epiphysis of femur (disorder),3509401000006116#,Closed fracture of epiphysis of femur,^ESCTCL350940,NA,103262018#,NA,31
+62125005#,Closed fracture of epiphysis of femur (disorder),3509411000006118#,Closed transepiphyseal fracture of femur,^ESCTCL350941,NA,103263011#,NA,31
+275340006#,Closed fracture of greater trochanter of femur (disorder),411307011#,"Closed fracture of femur, greater trochanter",S3020-1,S302011,411307011#,NA,32
+275340006#,Closed fracture of greater trochanter of femur (disorder),5572321000006113#,Closed fracture of greater trochanter of femur,^ESCTCL557232,NA,2470168014#,NA,32
+426382004#,Closed avulsion fracture of greater trochanter of femur (disorder),7058191000006111#,Closed avulsion fracture of greater trochanter of femur,^ESCTCL705819,NA,2675311010#,NA,31
+208526001#,Closed fracture of head of femur (disorder),4843731000006114#,Closed fracture of head of femur,^ESCTCL484373,NA,2470070019#,NA,32
+208526001#,Closed fracture of head of femur (disorder),319090013#,Closed fracture head of femur,S3004,S300400,319090013#,NA,32
+15912331000119106#,Closed fracture of head of left femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+15912431000119100#,Closed fracture of head of right femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+703994007#,Closed intra-articular fracture of head of femur (disorder),7585101000006116#,Closed intra-articular fracture of head of femur,^ESCTCL758510,NA,3013346014#,NA,31
+703994007#,Closed intra-articular fracture of head of femur (disorder),7585111000006118#,Closed articular fracture of head of femur,^ESCTCL758511,NA,3012154013#,NA,31
+275338001#,Closed subcapital fracture of femur (disorder),570551000006114#,"Cls # prox femur, subcapital, Garden grade unspec.",S3005,S300500,411305015#,NA,32
+275338001#,Closed subcapital fracture of femur (disorder),5572281000006119#,Closed subcapital fracture of femur,^ESCTCL557228,NA,2470166013#,NA,32
+275338001#,Closed subcapital fracture of femur (disorder),411305015#,"Closed fracture of femur, subcapital",S300y-1,S300y11,411305015#,NA,32
+208528000#,"Closed fracture proximal femur, subcapital, Garden grade I (disorder)",319092017#,"Closed fracture proximal femur, subcapital, Garden grade I",S3006,S300600,319092017#,NA,32
+208529008#,"Closed fracture proximal femur, subcapital, Garden grade II (disorder)",319093010#,"Closed fracture proximal femur, subcapital, Garden grade II",S3007,S300700,319093010#,NA,32
+208530003#,"Closed fracture proximal femur, subcapital, Garden grade III (disorder)",319094016#,"Closed fracture proximal femur, subcapital, Garden grade III",S3008,S300800,319094016#,NA,32
+208531004#,"Closed fracture proximal femur, subcapital, Garden grade IV (disorder)",319095015#,"Closed fracture proximal femur, subcapital, Garden grade IV",S3009,S300900,319095015#,NA,32
+275341005#,Closed fracture of lesser trochanter of femur (disorder),5572341000006118#,Closed fracture of lesser trochanter of femur,^ESCTCL557234,NA,2470169018#,NA,32
+275341005#,Closed fracture of lesser trochanter of femur (disorder),411308018#,"Closed fracture of femur, lesser trochanter",S3020-2,S302012,411308018#,NA,32
+427688003#,Closed avulsion fracture of lesser trochanter of femur (disorder),7077591000006117#,Closed avulsion fracture of lesser trochanter of femur,^ESCTCL707759,NA,2674304015#,NA,31
+208578003#,Closed fracture of lower epiphysis of femur (disorder),319161017#,"Closed fracture of femur, lower epiphysis",S3122,S312200,319161017#,NA,32
+208578003#,Closed fracture of lower epiphysis of femur (disorder),4844001000006118#,Closed fracture of lower epiphysis of femur,^ESCTCL484400,NA,2470071015#,NA,32
+427509002#,Closed Salter-Harris type I fracture of lower epiphysis of femur (disorder),7074941000006110#,Closed Salter-Harris type I fracture of lower epiphysis of femur,^ESCTCL707494,NA,2676020017#,NA,31
+427509002#,Closed Salter-Harris type I fracture of lower epiphysis of femur (disorder),7074951000006112#,Closed Salter-Harris type 1 fracture of distal end of femur,^ESCTCL707495,NA,2676021018#,NA,31
+427584009#,Closed Salter-Harris type II fracture of lower epiphysis of femur (disorder),7076051000006119#,Closed Salter-Harris type 2 fracture of distal end of femur,^ESCTCL707605,NA,2676024014#,NA,31
+427584009#,Closed Salter-Harris type II fracture of lower epiphysis of femur (disorder),7076041000006116#,Closed Salter-Harris type II fracture of lower epiphysis of femur,^ESCTCL707604,NA,2676023015#,NA,31
+428357005#,Closed Salter-Harris type III fracture of lower epiphysis of femur (disorder),7087311000006110#,Closed Salter-Harris type 3 fracture of distal end of femur,^ESCTCL708731,NA,2695411019#,NA,31
+428357005#,Closed Salter-Harris type III fracture of lower epiphysis of femur (disorder),7087291000006111#,Closed Salter-Harris type III fracture of distal end of femur,^ESCTCL708729,NA,2694907014#,NA,31
+428357005#,Closed Salter-Harris type III fracture of lower epiphysis of femur (disorder),7087301000006112#,Closed Salter-Harris type III fracture of lower epiphysis of femur,^ESCTCL708730,NA,2692958010#,NA,31
+427826000#,Closed Salter-Harris type IV fracture of lower epiphysis of femur (disorder),7079351000006112#,Closed Salter-Harris type IV fracture of lower epiphysis of femur,^ESCTCL707935,NA,2695570012#,NA,31
+427826000#,Closed Salter-Harris type IV fracture of lower epiphysis of femur (disorder),7079341000006110#,Closed Salter-Harris type IV fracture of distal femur,^ESCTCL707934,NA,2692687014#,NA,31
+428232002#,Closed Salter-Harris type V fracture of lower epiphysis of femur (disorder),7085341000006119#,"Closed fracture of distal femur, Salter-Harris type V",^ESCTCL708534,NA,2693569014#,NA,31
+428232002#,Closed Salter-Harris type V fracture of lower epiphysis of femur (disorder),7085331000006112#,Closed Salter-Harris type V fracture of lower epiphysis of femur,^ESCTCL708533,NA,2693568018#,NA,31
+428232002#,Closed Salter-Harris type V fracture of lower epiphysis of femur (disorder),7085321000006114#,Closed Salter-Harris type V fracture of distal femur,^ESCTCL708532,NA,2694142012#,NA,31
+30905007#,Closed supracondylar fracture of femur (disorder),1227400011#,"Closed fracture distal femur, supracondylar",S3123,S312300,1227400011#,NA,32
+30905007#,Closed supracondylar fracture of femur (disorder),2998131000006111#,Closed supracondylar fracture of femur,^ESCTCL299813,NA,51734014#,NA,32
+447394009#,Closed comminuted supracondylar fracture of femur (disorder),7339251000006119#,Closed comminuted supracondylar fracture of femur,^ESCTCL733925,NA,2884240012#,NA,31
+263233008#,"Closed fracture of femur, distal end (disorder)",319159014#,"Closed fracture of distal femur, unspecified",S3120,S312000,391397014#,NA,32
+263233008#,"Closed fracture of femur, distal end (disorder)",391397014#,"Closed fracture of femur, distal end",S312-1,S312.11,391397014#,NA,32
+263233008#,"Closed fracture of femur, distal end (disorder)",319166010#,Closed fracture of distal femur not otherwise specified,S312z,S312z00,391397014#,NA,32
+263233008#,"Closed fracture of femur, distal end (disorder)",5462401000006114#,Closed fracture of lower end of femur,^ESCTCL546240,NA,2536031019#,NA,32
+263233008#,"Closed fracture of femur, distal end (disorder)",222331000000113#,Closed fracture of distal end of femur,S312,S312.00,2536032014#,NA,32
+208582001#,"Closed fracture distal femur, comminuted/intra-articular (disorder)",319165014#,"Closed fracture distal femur, comminuted/intra-articular",S312x,S312x00,319165014#,NA,32
+705091004#,Closed fracture of epiphyseal plate of distal femur (disorder),7598391000006117#,Closed fracture of epiphyseal plate of distal femur,^ESCTCL759839,NA,3023206017#,NA,31
+705091004#,Closed fracture of epiphyseal plate of distal femur (disorder),7598401000006115#,Closed fracture of physis of distal femur,^ESCTCL759840,NA,3023202015#,NA,31
+429342005#,Closed osteochondral fracture of distal femur (disorder),7101881000006113#,Closed osteochondral fracture of distal femur,^ESCTCL710188,NA,2695243016#,NA,31
+69830008#,Multiple closed fractures of lower end of femur (disorder),3635421000006112#,Multiple closed fractures of lower end of femur,^ESCTMU363542,NA,115981011#,NA,31
+359820003#,Closed fracture of neck of femur (disorder),11923811000006113#,"Cls # prox femur, intracapsular section, unspecified",^ESCT1192381,NA,570541000006112#,NA,32
+359820003#,Closed fracture of neck of femur (disorder),402874017#,Closed fracture of neck of femur,S30y,S30y.00,475220015#,NA,32
+1705000#,Closed fracture of base of neck of femur (disorder),565211000006111#,"Closed fracture, base of neck of femur",S3003-1,S300311,3954014#,NA,32
+1705000#,Closed fracture of base of neck of femur (disorder),564391000006113#,Closed fracture of base of neck of femur,S3003,S300300,3954014#,NA,32
+1705000#,Closed fracture of base of neck of femur (disorder),2525641000006118#,Closed fracture of cervicotrochanteric section of femur,^ESCTCL252564,NA,3955010#,NA,32
+20100009#,Closed fracture of intracapsular section of femur (disorder),570541000006112#,Closed fracture of intracapsular section of femur,S3000,S300000,33823015#,NA,32
+20100009#,Closed fracture of intracapsular section of femur (disorder),2819451000006111#,Closed fracture of intracapsular section of femur,^ESCTCL281945,NA,2819451000006111#,NA,32
+52450003#,Closed fracture of midcervical section of femur (disorder),3350451000006118#,Closed fracture of midcervical section of femur,^ESCTCL335045,NA,87278016#,NA,31
+208524003#,"Closed fracture proximal femur, midcervical section (disorder)",319087019#,"Closed fracture proximal femur, midcervical section",S3002,S300200,319087019#,NA,32
+208521006#,"Closed fracture proximal femur, transcervical (disorder)",564491000006115#,"Closed fracture proximal femur, transcervical, NOS",S300z,S300z00,319084014#,NA,32
+208521006#,"Closed fracture proximal femur, transcervical (disorder)",402869013#,"Closed fracture proximal femur, other transcervical",S300y,S300y00,319084014#,NA,32
+208521006#,"Closed fracture proximal femur, transcervical (disorder)",319084014#,"Closed fracture proximal femur, transcervical",S300,S300.00,319084014#,NA,32
+79484004#,Closed transcervical fracture of femur (disorder),3792621000006119#,Closed transcervical fracture of femur,^ESCTCL379262,NA,131867014#,NA,31
+26442006#,Closed fracture of shaft of femur (disorder),1225039011#,Closed fracture shaft of femur,S3101,S310100,1225039011#,NA,32
+26442006#,Closed fracture of shaft of femur (disorder),319147010#,Closed fracture of shaft of femur,S310,S310.00,44288010#,NA,32
+445899009#,Closed fracture of trochanter of femur (disorder),7315641000006114#,Closed fracture of trochanter of femur,^ESCTCL731564,NA,2882330011#,NA,31
+15912531000119101#,Closed fracture of trochanter of left femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+15912631000119102#,Closed fracture of trochanter of right femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208551000#,"Closed fracture proximal femur, subtrochanteric (disorder)",319124014#,"Closed fracture proximal femur, subtrochanteric",S3022,S302200,319124014#,NA,32
+208551000#,"Closed fracture proximal femur, subtrochanteric (disorder)",4843911000006117#,Closed subtrochanteric fracture of femur,^ESCTCL484391,NA,2920599012#,NA,32
+89820008#,Closed intertrochanteric fracture (disorder),562981000006117#,Closed intertrochanteric fracture,S3024,S302400,148902010#,NA,32
+208548007#,"Closed fracture of proximal femur, pertrochanteric (disorder)",319118015#,"Closed fracture of proximal femur, pertrochanteric",S302,S302.00,319118015#,NA,32
+208548007#,"Closed fracture of proximal femur, pertrochanteric (disorder)",570571000006116#,"Cls # proximal femur, trochanteric section, unspecified",S3020,S302000,319118015#,NA,32
+208548007#,"Closed fracture of proximal femur, pertrochanteric (disorder)",570531000006119#,"Cls # of proximal femur, pertrochanteric section, NOS",S302z,S302z00,319118015#,NA,32
+208552007#,"Closed fracture proximal femur, intertrochanteric, comminuted (disorder)",570561000006111#,"Closed fracture proximal femur, intertrochanteric, comminuted",S3023,S302300,319125010#,NA,32
+208550004#,"Closed fracture proximal femur, intertrochanteric, two part (disorder)",319123015#,"Closed fracture proximal femur, intertrochanteric, two part",S3021,S302100,319123015#,NA,32
+22802006#,Closed pertrochanteric fracture (disorder),2863351000006117#,Closed pertrochanteric fracture,^ESCTCL286335,NA,38272018#,NA,31
+263232003#,Fracture of distal end of femur (disorder),391396017#,Fracture of lower end of femur,S315,S315.00,391396017#,NA,32
+263232003#,Fracture of distal end of femur (disorder),5462371000006111#,Fracture of distal end of femur,^ESCTFR546237,NA,391395018#,NA,32
+263232003#,Fracture of distal end of femur (disorder),989551000006116#,#Lower end of femur,S315-99,S315.99,989551000006116#,NA,32
+788892006#,Complex fracture of lower end of femur not extending into joint (disorder),NA#,NA,NA,NA,NA#,NA,NA
+263236000#,Fracture of femoral condyle (disorder),5462461000006110#,Fracture of femoral condyle,^ESCTFR546246,NA,391400017#,NA,31
+19652000#,Open fracture of femoral condyle of femur (disorder),319171015#,Open fracture of femoral condyle of femur,S3131,S313100,33084011#,NA,32
+208590001#,"Open fracture distal femur, bicondylar (T-Y fracture) (disorder)",319175012#,"Open fracture distal femur, bicondylar (T-Y fracture)",S3136,S313600,319175012#,NA,32
+208589005#,"Open fracture distal femur, lateral condyle (disorder)",319174011#,"Open fracture distal femur, lateral condyle",S3135,S313500,319174011#,NA,32
+208588002#,"Open fracture distal femur, medial condyle (disorder)",319173017#,"Open fracture distal femur, medial condyle",S3134,S313400,319173017#,NA,32
+82640004#,Stieda's fracture (disorder),3844331000006114#,Stieda's fracture,^ESCTST384433,NA,137093012#,NA,31
+82640004#,Stieda's fracture (disorder),3844341000006116#,Stieda fracture,^ESCTST384434,NA,2838503012#,NA,31
+704061004#,Stress fracture of lateral condyle of femur (disorder),7585871000006119#,Stress fracture of lateral femoral condyle,^ESCTST758587,NA,3010224015#,NA,31
+704061004#,Stress fracture of lateral condyle of femur (disorder),7585861000006114#,Stress fracture of lateral condyle of femur,^ESCTST758586,NA,3010712014#,NA,31
+789045000#,Simple fracture of lower end of femur not extending into joint (disorder),NA#,NA,NA,NA,NA#,NA,NA
+263235001#,Supracondylar fracture femur (disorder),5462451000006113#,Supracondylar fracture femur,^ESCTSU546245,NA,391399012#,NA,31
+789058004#,Wedge fracture of lower end of femur not extending into joint (disorder),NA#,NA,NA,NA,NA#,NA,NA
+206213006#,Fracture of femur due to birth trauma (disorder),316188011#,Fracture of femur due to birth trauma,Q2032,Q203200,316188011#,NA,32
+263225007#,Fracture of proximal end of femur (disorder),391384012#,Hip fracture,S30-1,S30..11,391384012#,NA,32
+263225007#,Fracture of proximal end of femur (disorder),5462241000006110#,Fracture of proximal end of femur,^ESCTFR546224,NA,391383018#,NA,32
+263225007#,Fracture of proximal end of femur (disorder),391393013#,Hip fracture NOS,S30y-1,S30y.11,391384012#,NA,32
+198741000000106#,"Closed fracture of femur, upper epiphysis (disorder)",299771000000110#,"Closed fracture of femur, upper epiphysis",S300A,S300A00,299771000000110#,NA,32
+5913000#,Fracture of neck of femur (disorder),895691000006117#,#Neck of femur,S30-99,S30..99,895691000006117#,NA,32
+5913000#,Fracture of neck of femur (disorder),44341000006111#,"Opn # proximal femur, intracapsular section, unspecified",S3010,S301000,10843018#,NA,32
+5913000#,Fracture of neck of femur (disorder),2593861000006110#,Fracture of hip,^ESCTFR259386,NA,10846014#,NA,32
+5913000#,Fracture of neck of femur (disorder),2593851000006113#,Femoral neck fracture,^ESCTFE259385,NA,10845013#,NA,32
+5913000#,Fracture of neck of femur (disorder),2593871000006115#,NOF - Fracture of neck of femur,^ESCTNO259387,NA,498354012#,NA,32
+5913000#,Fracture of neck of femur (disorder),265421000006113#,"Open # of proximal femur, trochanteric section, unspecified",S3030,S303000,10843018#,NA,32
+5913000#,Fracture of neck of femur (disorder),10843018#,Fracture of neck of femur,S30,S30..00,10843018#,NA,32
+263228009#,Basicervical fracture of neck of femur (disorder),5462311000006119#,Basal cervical fracture of neck of femur,^ESCTBA546231,NA,391389019#,NA,31
+263228009#,Basicervical fracture of neck of femur (disorder),5462301000006117#,Basicervical fracture of neck of femur,^ESCTBA546230,NA,391390011#,NA,31
+263231005#,Open fracture of base of neck of femur (disorder),391394019#,Open fracture base of neck of femur,S3013-1,S301311,391394019#,NA,32
+263231005#,Open fracture of base of neck of femur (disorder),5462341000006115#,Open fracture of base of neck of femur,^ESCTOP546234,NA,2470133014#,NA,32
+263231005#,Open fracture of base of neck of femur (disorder),2536030018#,"Open fracture proximal femur, basicervical",S3013,S301300,2536030018#,NA,32
+10821891000119104#,Open fracture of base of neck of left femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+263227004#,Midcervical fracture of neck of femur (disorder),5462291000006118#,Transcervical fracture of neck of femur,^ESCTTR546229,NA,391388010#,NA,31
+263227004#,Midcervical fracture of neck of femur (disorder),5462281000006116#,Midcervical fracture of neck of femur,^ESCTMI546228,NA,391387017#,NA,31
+84320000#,Open fracture of midcervical section of femur (disorder),3871801000006111#,Open fracture of midcervical section of femur,^ESCTOP387180,NA,139846011#,NA,31
+30489009#,Open fracture of intracapsular section of femur (disorder),2991051000006111#,Open fracture of intracapsular section of femur,^ESCTOP299105,NA,51020018#,NA,31
+361119006#,Open fracture of neck of femur (disorder),319145019#,Open fracture of neck of femur,S30z,S30z.00,477343011#,NA,32
+208555009#,"Open fracture of proximal femur, pertrochanteric (disorder)",258191000006119#,"Open fracture of proximal femur, pertrochanteric, NOS",S303z,S303z00,319128012#,NA,32
+208555009#,"Open fracture of proximal femur, pertrochanteric (disorder)",319128012#,"Open fracture of proximal femur, pertrochanteric",S303,S303.00,319128012#,NA,32
+409666003#,Pathological fracture of neck of femur (disorder),6782121000006115#,Pathological fracture of neck of femur,^ESCTPA678212,NA,2471435018#,NA,31
+704063001#,Stress fracture of neck of femur (disorder),7585901000006119#,Stress fracture of hip,^ESCTST758590,NA,3010341015#,NA,31
+704063001#,Stress fracture of neck of femur (disorder),7585891000006118#,Stress fracture of neck of femur,^ESCTST758589,NA,3010693010#,NA,31
+431031001#,Pathological fracture of neck of femur associated with osteoporosis (disorder),7130281000006112#,Pathological fracture of neck of femur associated with osteoporosis,^ESCTPA713028,NA,2770901010#,NA,31
+788943004#,Fracture of proximal epiphysis of femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208523009#,"Closed fracture proximal femur, transepiphyseal (disorder)",319086011#,"Closed fracture proximal femur, transepiphyseal",S3001,S300100,319086011#,NA,32
+301034006#,Fracture of greater trochanter (disorder),5888201000006117#,Fracture of greater trochanter,^ESCTFR588820,NA,442264013#,NA,31
+275343008#,Open fracture of greater trochanter of femur (disorder),5572381000006112#,Open fracture of greater trochanter of femur,^ESCTOP557238,NA,2470171018#,NA,32
+275343008#,Open fracture of greater trochanter of femur (disorder),411310016#,"Open fracture of femur, greater trochanter",S3030-1,S303011,411310016#,NA,32
+66483005#,Open pertrochanteric fracture (disorder),12192871000006116#,Open fracture of greater trochanter of femur and lesser trochanter of femur,^ESCT1219287,NA,3670262012#,NA,31
+66483005#,Open pertrochanteric fracture (disorder),3581121000006117#,Open pertrochanteric fracture,^ESCTOP358112,NA,110463017#,NA,31
+127287001#,Intertrochanteric fracture (disorder),4396061000006115#,Extracapsular fracture of neck of femur,^ESCTEX439606,NA,474096019#,NA,32
+127287001#,Intertrochanteric fracture (disorder),4396081000006113#,Trochanteric fracture of neck of femur,^ESCTTR439608,NA,474098018#,NA,32
+127287001#,Intertrochanteric fracture (disorder),4396091000006111#,Intertrochanteric fracture of femur,^ESCTIN439609,NA,474099014#,NA,32
+127287001#,Intertrochanteric fracture (disorder),4396071000006110#,Pertrochanteric fracture of neck of femur,^ESCTPE439607,NA,474097011#,NA,32
+127287001#,Intertrochanteric fracture (disorder),4396051000006117#,Intertrochanteric fracture,^ESCTIN439605,NA,575010#,NA,31
+428112005#,Malunion of fracture of proximal femur (disorder),7083681000006117#,Malunion of fracture of hip,^ESCTMA708368,NA,2692837017#,NA,31
+428112005#,Malunion of fracture of proximal femur (disorder),7083671000006115#,Malunion of fracture of proximal femur,^ESCTMA708367,NA,2695872010#,NA,31
+428112005#,Malunion of fracture of proximal femur (disorder),7083691000006119#,Malunion of hip fracture,^ESCTMA708369,NA,2693943013#,NA,31
+198751000000109#,"Open fracture of femur, upper epiphysis (disorder)",299791000000114#,"Open fracture of femur, upper epiphysis",S301A,S301A00,299791000000114#,NA,32
+12746007#,Open transcervical fracture of femur (disorder),257561000006119#,"Open fracture proximal femur, transcervical, NOS",S301z,S301z00,21881015#,NA,32
+12746007#,Open transcervical fracture of femur (disorder),402871013#,"Open fracture proximal femur, other transcervical",S301y,S301y00,21881015#,NA,32
+12746007#,Open transcervical fracture of femur (disorder),2702681000006114#,Open transcervical fracture of femur,^ESCTOP270268,NA,21881015#,NA,32
+12746007#,Open transcervical fracture of femur (disorder),319100018#,"Open fracture proximal femur, transcervical",S301,S301.00,3043023014#,NA,32
+704171000#,Pathological fracture of proximal end of femur (disorder),7587311000006112#,Pathological fracture of proximal end of femur,^ESCTPA758731,NA,3012060011#,NA,31
+704334005#,Pathological fracture of proximal femur due to osteoporosis (disorder),7589501000006113#,Pathological fracture of proximal femur due to osteoporosis,^ESCTPA758950,NA,3012879013#,NA,31
+704334005#,Pathological fracture of proximal femur due to osteoporosis (disorder),7589511000006111#,Osteoporotic fracture of hip,^ESCTOS758951,NA,3012964017#,NA,31
+704287008#,Pathological fracture of proximal femur due to secondary osteoporosis (disorder),7588821000006111#,Pathological fracture of proximal femur due to secondary osteoporosis,^ESCTPA758882,NA,3012751014#,NA,31
+704287008#,Pathological fracture of proximal femur due to secondary osteoporosis (disorder),7588831000006114#,Secondary osteoporotic fracture of hip,^ESCTSE758883,NA,3012659019#,NA,31
+704291003#,Pathological fracture of femur due to secondary osteoporosis (disorder),7588901000006112#,Pathological fracture of femur due to secondary osteoporosis,^ESCTPA758890,NA,3012724011#,NA,31
+704291003#,Pathological fracture of femur due to secondary osteoporosis (disorder),7588911000006110#,Secondary osteoporotic fracture of femur,^ESCTSE758891,NA,3012741013#,NA,31
+15970001000004108#,Periprosthetic fracture of proximal femur (disorder),9869431000006114#,Periprosthetic fracture of proximal femur,^ESCTPE986943,NA,3047590012#,NA,31
+15970001000004108#,Periprosthetic fracture of proximal femur (disorder),9869421000006111#,Periprosthetic fracture of hip,^ESCTPE986942,NA,3047588011#,NA,31
+263229001#,Subtrochanteric fracture of femur (disorder),391392015#,Subtrochanteric fracture,S305,S305.00,391392015#,NA,32
+263229001#,Subtrochanteric fracture of femur (disorder),5462321000006110#,Subtrochanteric fracture of femur,^ESCTSU546232,NA,391391010#,NA,32
+208558006#,"Open fracture proximal femur, subtrochanteric (disorder)",319134017#,"Open fracture proximal femur, subtrochanteric",S3032,S303200,319134017#,NA,32
+208558006#,"Open fracture proximal femur, subtrochanteric (disorder)",4843961000006119#,Open subtrochanteric fracture of femur,^ESCTOP484396,NA,2920905019#,NA,32
+54441004#,Fracture of shaft of femur (disorder),989541000006118#,#Shaft of femur,S314-99,S314.99,989541000006118#,NA,32
+54441004#,Fracture of shaft of femur (disorder),90489010#,Fracture of shaft of femur,S314,S314.00,90489010#,NA,32
+6628008#,Open fracture of shaft of femur (disorder),1232781014#,Open fracture shaft of femur,S3111,S311100,1232781014#,NA,32
+6628008#,Open fracture of shaft of femur (disorder),2605851000006117#,Open fracture of shaft of femur,^ESCTOP260585,NA,11991014#,NA,32
+704068005#,Stress fracture of shaft of femur (disorder),7585961000006118#,Stress fracture of shaft of femur,^ESCTST758596,NA,3011925017#,NA,31
+704068005#,Stress fracture of shaft of femur (disorder),7585971000006113#,Stress fracture of femoral shaft,^ESCTST758597,NA,3011878019#,NA,31
+208731002#,Multiple fractures of femur (disorder),319340018#,Multiple fractures of femur,S3x2,S3x2.00,319340018#,NA,32
+45455009#,Multiple open fractures of lower end of femur (disorder),3233361000006110#,Multiple open fractures of lower end of femur,^ESCTMU323336,NA,75777019#,NA,31
+705093001#,Open fracture of apophysis of femur (disorder),7598431000006111#,Open fracture of apophysis of femur,^ESCTOP759843,NA,3023243015#,NA,31
+705093001#,Open fracture of apophysis of femur (disorder),7598441000006118#,Open apophyseal fracture of femur,^ESCTOP759844,NA,3023196018#,NA,31
+87173003#,Open fracture of epiphysis of femur (disorder),3917371000006116#,Open fracture of epiphysis of femur,^ESCTOP391737,NA,144551010#,NA,31
+87173003#,Open fracture of epiphysis of femur (disorder),3917381000006118#,Open transepiphyseal fracture of femur,^ESCTOP391738,NA,144552015#,NA,31
+41191003#,Open fracture of head of femur (disorder),259461000006112#,Open fracture of head of femur,S3014,S301400,68712015#,NA,32
+15911931000119102#,Open fracture of head of left femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+15912091000119107#,Open fracture of head of right femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208543003#,Open subcapital fracture of proximal femur Garden grade III (disorder),319111014#,"Open fracture proximal femur,subcapital, Garden grade III",S3018,S301800,319111014#,NA,32
+208544009#,Open subcapital fracture of proximal femur Garden grade IV (disorder),319112019#,"Open fracture proximal femur,subcapital, Garden grade IV",S3019,S301900,319112019#,NA,32
+705124002#,Open intra-articular fracture of head of femur (disorder),7598931000006115#,Open articular fracture of head of femur,^ESCTOP759893,NA,3023373014#,NA,31
+705124002#,Open intra-articular fracture of head of femur (disorder),7598921000006118#,Open intra-articular fracture of head of femur,^ESCTOP759892,NA,3023378017#,NA,31
+263226008#,Subcapital fracture of neck of femur (disorder),5462261000006114#,Subcapital fracture of neck of femur,^ESCTSU546226,NA,391386014#,NA,31
+263226008#,Subcapital fracture of neck of femur (disorder),5462271000006119#,Intracapsular fracture of neck of femur,^ESCTIN546227,NA,391385013#,NA,31
+275339009#,Open subcapital fracture of femur (disorder),411306019#,"Open fracture of femur, subcapital",S301y-1,S301y11,411306019#,NA,32
+275339009#,Open subcapital fracture of femur (disorder),5572301000006115#,Open subcapital fracture of femur,^ESCTOP557230,NA,2470167016#,NA,32
+10834301000119104#,Open fracture of subcapital section of head of right femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208541001#,Open subcapital fracture of proximal femur Garden grade I (disorder),319109017#,"Open fracture proximal femur,subcapital, Garden grade I",S3016,S301600,319109017#,NA,32
+208542008#,Open subcapital fracture of proximal femur Garden grade II (disorder),319110010#,"Open fracture proximal femur,subcapital, Garden grade II",S3017,S301700,319110010#,NA,32
+203374004#,Non-traumatic acute slipped upper femoral epiphysis (disorder),587321000006118#,Non-traumatic acute slipped upper femoral epiphysis,N3220,N322000,312043010#,NA,32
+203375003#,Non-traumatic acute-on-chronic slipped upper femoral epiphysis (disorder),587331000006115#,Non traumatic acute-on-chronic slipped upp femoral epiphysis,N3221,N322100,312044016#,NA,32
+203375003#,Non-traumatic acute-on-chronic slipped upper femoral epiphysis (disorder),4820451000006118#,Non-traumatic acute-on-chronic slipped upper femoral epiphysis,^ESCTNO482045,NA,312044016#,NA,32
+203376002#,Non-traumatic chronic slipped upper femoral epiphysis (disorder),587341000006113#,Non traumatic chronic slipped upper femoral epiphysis,N3222,N322200,312045015#,NA,32
+203376002#,Non-traumatic chronic slipped upper femoral epiphysis (disorder),4820461000006116#,Non-traumatic chronic slipped upper femoral epiphysis,^ESCTNO482046,NA,312045015#,NA,32
+275342003#,Open fracture of lesser trochanter of femur (disorder),5572361000006119#,Open fracture of lesser trochanter of femur,^ESCTOP557236,NA,2470170017#,NA,32
+275342003#,Open fracture of lesser trochanter of femur (disorder),411309014#,"Open fracture of femur, lesser trochanter",S3030-2,S303012,411309014#,NA,32
+208587007#,Open fracture of lower epiphysis of femur (disorder),319172010#,"Open fracture of femur, lower epiphysis",S3132,S313200,319172010#,NA,32
+208587007#,Open fracture of lower epiphysis of femur (disorder),4844061000006117#,Open fracture of lower epiphysis of femur,^ESCTOP484406,NA,2470072010#,NA,32
+79978005#,Open supracondylar fracture of femur (disorder),1234424019#,"Open fracture distal femur, supracondylar",S3133,S313300,1234424019#,NA,32
+79978005#,Open supracondylar fracture of femur (disorder),3800941000006118#,Open supracondylar fracture of femur,^ESCTOP380094,NA,132683014#,NA,32
+445733003#,Open comminuted supracondylar fracture of femur (disorder),7312791000006117#,Open comminuted supracondylar fracture of femur,^ESCTOP731279,NA,2883505018#,NA,31
+208536009#,"Open fracture proximal femur, transepiphyseal (disorder)",319102014#,"Open fracture proximal femur, transepiphyseal",S3011,S301100,319102014#,NA,32
+28576007#,Open fracture of femur (disorder),2959121000006112#,Open fracture of upper leg,^ESCTOP295912,NA,47835015#,NA,32
+28576007#,Open fracture of femur (disorder),2959111000006116#,Open fracture of thigh,^ESCTOP295911,NA,47834016#,NA,32
+28576007#,Open fracture of femur (disorder),319141011#,Open fracture of femur,S30x,S30x.00,47832017#,NA,32
+10820181000119103#,Open fracture of distal end of left femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+10822371000119100#,Open fracture of distal end of right femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+26938002#,Open intertrochanteric fracture (disorder),258471000006114#,Open intertrochanteric fracture,S3034,S303400,45058017#,NA,32
+409667007#,Pathological fracture of femur (disorder),6782131000006117#,Pathological fracture of femur,^ESCTPA678213,NA,2471436017#,NA,31
+704253003#,Pathological fracture of femur due to neoplastic disease (disorder),7588411000006118#,Pathological fracture of femur due to neoplastic disease,^ESCTPA758841,NA,3010970019#,NA,31
+704249000#,Pathological fracture of proximal femur due to neoplastic disease (disorder),7588371000006119#,Pathological fracture of hip due to neoplastic disease,^ESCTPA758837,NA,3010364018#,NA,31
+704249000#,Pathological fracture of proximal femur due to neoplastic disease (disorder),7588361000006114#,Pathological fracture of proximal femur due to neoplastic disease,^ESCTPA758836,NA,3011859019#,NA,31
+704067000#,Stress fracture of femur (disorder),7585951000006115#,Stress fracture of femur,^ESCTST758595,NA,3010361014#,NA,31
+890095006#,Atypical fracture of femur (disorder),NA#,NA,NA,NA,NA#,NA,NA
+704330001#,Pathological fracture of femur due to osteoporosis (disorder),7589431000006116#,Osteoporotic fracture of femur,^ESCTOS758943,NA,3012824017#,NA,31
+704330001#,Pathological fracture of femur due to osteoporosis (disorder),7589421000006119#,Pathological fracture of femur due to osteoporosis,^ESCTPA758942,NA,3012770016#,NA,31
+878852003#,Fracture of knee (disorder),NA#,NA,NA,NA,NA#,NA,NA
+263090000#,Fracture dislocation of patellofemoral joint (disorder),5460701000006117#,Fracture dislocation of patellofemoral joint,^ESCTFR546070,NA,391207017#,NA,31
+263114007#,Fracture subluxation of patellofemoral joint (disorder),5460941000006117#,Fracture subluxation of patellofemoral joint,^ESCTFR546094,NA,391232015#,NA,31
+209346004#,Closed fracture subluxation of patellofemoral joint (disorder),565871000006118#,"Closed fracture-subluxation, patello-femoral joint",S4F6,S4F6.00,320044011#,NA,32
+209346004#,Closed fracture subluxation of patellofemoral joint (disorder),4849681000006119#,Closed fracture subluxation of patellofemoral joint,^ESCTCL484968,NA,3028473013#,NA,32
+209347008#,Open fracture subluxation of patellofemoral joint (disorder),255771000006110#,"Open fracture-subluxation, patello-femoral joint",S4F7,S4F7.00,320045012#,NA,32
+209347008#,Open fracture subluxation of patellofemoral joint (disorder),4849691000006116#,Open fracture subluxation of patellofemoral joint,^ESCTOP484969,NA,3028381013#,NA,32
+209343007#,Open fracture subluxation of knee joint (disorder),4849641000006113#,Open fracture subluxation of knee joint,^ESCTOP484964,NA,3028501014#,NA,32
+209343007#,Open fracture subluxation of knee joint (disorder),255731000006112#,"Open fracture-subluxation, knee joint",S4F3,S4F3.00,320041015#,NA,32
+428256003#,Fracture of condyle of tibia (disorder),7085701000006115#,Fracture of condyle of tibia,^ESCTFR708570,NA,2693691011#,NA,31
+735671008#,Fracture of lateral condyle of tibia (disorder),3515149015#,Fracture of lateral condyle of tibia,^ESCT1165849,NA,3515149015#,NA,31
+735672001#,Fracture of medial condyle of tibia (disorder),3515151016#,Fracture of medial condyle of tibia,^ESCT1165850,NA,3515151016#,NA,31
+281843000#,Fracture of tibial spine (disorder),5656601000006118#,Fracture of tibial spine,^ESCTFR565660,NA,419959012#,NA,31
+871545004#,Open fracture of tibial condyle (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208622009#,Open fracture intercondylar spine of tibia (disorder),12221011000006118#,Open fracture tibial spine,^ESCT1222101,NA,3698583013#,NA,32
+208622009#,Open fracture intercondylar spine of tibia (disorder),12221001000006116#,Open fracture tibial eminence,^ESCT1222100,NA,3698581010#,NA,32
+208622009#,Open fracture intercondylar spine of tibia (disorder),12220991000006117#,Open fracture intercondylar spine of tibia,^ESCT1222099,NA,3698582015#,NA,32
+208622009#,Open fracture intercondylar spine of tibia (disorder),12453181000006110#,"Open fracture spine, tibia",^ESCT1245318,NA,319215011#,NA,32
+208622009#,Open fracture intercondylar spine of tibia (disorder),319215011#,"Open fracture spine, tibia",S3316,S331600,3698581010#,NA,32
+10819101000119107#,Open fracture of intercondylar spine of left tibia (disorder),NA#,NA,NA,NA,NA#,NA,NA
+10832221000119109#,Open fracture of intercondylar spine of right tibia (disorder),NA#,NA,NA,NA,NA#,NA,NA
+51037009#,Fracture of patella (disorder),85039010#,Fracture of patella,S32,S32..00,85039010#,NA,32
+51037009#,Fracture of patella (disorder),895741000006115#,#Patella,S32-99,S32..99,895741000006115#,NA,32
+51037009#,Fracture of patella (disorder),3327021000006117#,Fracture of knee-cap,^ESCTFR332702,NA,1230939017#,NA,32
+51037009#,Fracture of patella (disorder),319194019#,"Fracture of patella, NOS",S32z,S32z.00,85039010#,NA,32
+51037009#,Fracture of patella (disorder),291981000006119#,#Knee-cap,S32-1,S32..11,85039010#,NA,32
+307178006#,Comminuted fracture of patella (disorder),5965371000006118#,Comminuted fracture of patella,^ESCTCO596537,NA,450375012#,NA,31
+208606008#,"Open fracture patella, comminuted (stellate) (disorder)",319193013#,"Open fracture patella, comminuted (stellate)",S3214,S321400,319193013#,NA,32
+111643005#,Open fracture of patella (disorder),257771000006115#,Open fracture of patella,S321,S321.00,178870011#,NA,32
+208604006#,"Open fracture patella, distal pole (disorder)",319191010#,"Open fracture patella, distal pole",S3212,S321200,319191010#,NA,32
+208603000#,"Open fracture patella, proximal pole (disorder)",319190011#,"Open fracture patella, proximal pole",S3211,S321100,319190011#,NA,32
+208602005#,"Open fracture patella, transverse (disorder)",319189019#,"Open fracture patella, transverse",S3210,S321000,319189019#,NA,32
+208605007#,"Open fracture patella, vertical (disorder)",319192015#,"Open fracture patella, vertical",S3213,S321300,319192015#,NA,32
+426777008#,Pathological fracture of patella (disorder),7064141000006115#,Pathological fracture of patella,^ESCTPA706414,NA,2673511013#,NA,31
+428019004#,Open fracture of bone of knee joint (disorder),2694503015#,Open fracture of bone of knee joint,ESCTOP9,NA,2694503015#,NA,32
+209341009#,Open fracture dislocation of knee joint (disorder),256141000006110#,"Open fracture dislocation, knee joint",S4F1,S4F1.00,320039016#,NA,32
+209341009#,Open fracture dislocation of knee joint (disorder),4849601000006111#,Open fracture dislocation of knee joint,^ESCTOP484960,NA,3028457019#,NA,32
+209345000#,Open fracture dislocation of patellofemoral joint (disorder),256181000006116#,"Open fracture-dislocation, patello-femoral joint",S4F5,S4F5.00,320043017#,NA,32
+209345000#,Open fracture dislocation of patellofemoral joint (disorder),4849671000006117#,Open fracture dislocation of patellofemoral joint,^ESCTOP484967,NA,3028407010#,NA,32
+95853005#,Metaphyseal fracture of bone of lower limb (disorder),4063311000006113#,Metaphyseal fracture of bone of lower limb,^ESCTME406331,NA,158770016#,NA,31
+37619006#,Open multiple fractures of lower limb AND ribs (disorder),3105851000006114#,Open multiple fractures of lower limb AND ribs,^ESCTOP310585,NA,62744011#,NA,31
+414292006#,Fracture of lower leg (disorder),325450012#,[X]Fractures of other parts of lower leg,Syu83,Syu8300,2533504018#,NA,32
+414292006#,Fracture of lower leg (disorder),792901000006112#,"Fracture of lower leg, part unspecified",S3X,S3X..00,2533504018#,NA,32
+414292006#,Fracture of lower leg (disorder),325460015#,Fracture of lower leg,Syu8D,Syu8D00,2533504018#,NA,32
+414292006#,Fracture of lower leg (disorder),391381016#,Lower leg fracture NOS,S33x-1,S33x.11,2533504018#,NA,32
+413876003#,Closed fracture of lower leg (disorder),2533503012#,Closed fracture of lower leg,ESCTCL10,NA,2533503012#,NA,32
+447395005#,Closed fracture of fibula (disorder),319242012#,Closed fracture of fibula,S33x1,S33x100,2883200010#,NA,32
+77803008#,Closed fracture of shaft of fibula (disorder),1234168013#,Closed fracture shaft of fibula,S3321,S332100,1234168013#,NA,32
+77803008#,Closed fracture of shaft of fibula (disorder),3765931000006116#,Closed fracture of shaft of fibula,^ESCTCL376593,NA,129124012#,NA,32
+208629000#,"Closed fracture of tibia and fibula, shaft (disorder)",989571000006114#,#Tibia/fibula - shaft,S3322-99,S332299,989571000006114#,NA,32
+208629000#,"Closed fracture of tibia and fibula, shaft (disorder)",319223013#,"Closed fracture of tibia and fibula, shaft, NOS",S332z,S332z00,319222015#,NA,32
+208629000#,"Closed fracture of tibia and fibula, shaft (disorder)",319222015#,"Closed fracture of tibia and fibula, shaft",S3322,S332200,319222015#,NA,32
+28012007#,Closed fracture of shaft of tibia (disorder),564861000006114#,Closed fracture of shaft of tibia,S3320,S332000,46894013#,NA,32
+413877007#,Closed fracture of tibia AND fibula (disorder),319243019#,"Closed fracture of tibia and fibula, unspecified part",S33x2,S33x200,2533502019#,NA,32
+413877007#,Closed fracture of tibia AND fibula (disorder),564071000006114#,Closed fracture of tibia AND fibula,S33x,S33x.00,2533502019#,NA,32
+413877007#,Closed fracture of tibia AND fibula (disorder),402876015#,"Closed fracture of tibia and fibula, unspecified part, NOS",S33xz,S33xz00,2533502019#,NA,32
+705082003#,Closed fracture of epiphyseal plate of distal fibula (disorder),7598261000006115#,Closed fracture of epiphyseal plate of distal fibula,^ESCTCL759826,NA,3023001017#,NA,31
+705082003#,Closed fracture of epiphyseal plate of distal fibula (disorder),7598271000006110#,Closed fracture of physis of distal fibula,^ESCTCL759827,NA,3023055018#,NA,31
+59639009#,Closed fracture of upper end of fibula (disorder),1231985013#,Closed fracture proximal fibula,S3301,S330100,1231985013#,NA,32
+59639009#,Closed fracture of upper end of fibula (disorder),3468781000006119#,Closed fracture of upper end of fibula,^ESCTCL346878,NA,99083010#,NA,32
+208615001#,"Closed fracture fibula, neck (disorder)",319205017#,"Closed fracture fibula, neck",S3309,S330900,319205017#,NA,32
+704209008#,Closed fracture of epiphysis of proximal fibula (disorder),7587831000006110#,Closed fracture of epiphysis of proximal fibula,^ESCTCL758783,NA,3010944015#,NA,31
+28359007#,Closed fracture of head of fibula (disorder),1225880017#,"Closed fracture fibula, head",S3308,S330800,1225880017#,NA,32
+28359007#,Closed fracture of head of fibula (disorder),2955351000006115#,Closed fracture of head of fibula,^ESCTCL295535,NA,47476019#,NA,32
+447139008#,Closed fracture of tibia (disorder),319241017#,Closed fracture of tibia,S33x0,S33x000,2883830012#,NA,32
+23900009#,Closed fracture of upper end of tibia (disorder),563891000006116#,Closed fracture of upper end of tibia,S3300,S330000,40149012#,NA,32
+705092006#,Closed fracture of epiphyseal plate of proximal tibia (disorder),7598421000006113#,Closed fracture of physis of proximal tibia,^ESCTCL759842,NA,3023263010#,NA,31
+705092006#,Closed fracture of epiphyseal plate of proximal tibia (disorder),7598411000006117#,Closed fracture of epiphyseal plate of proximal tibia,^ESCTCL759841,NA,3023255014#,NA,31
+428798001#,Closed fracture of tibial plateau (disorder),7093881000006117#,Closed fracture of tibial plateau,^ESCTCL709388,NA,2694923014#,NA,31
+703998005#,Closed bicondylar fracture of tibial plateau (disorder),7585151000006117#,Closed bicondylar fracture of tibial plateau,^ESCTCL758515,NA,3010964013#,NA,31
+263237009#,Closed fracture of tibial tuberosity (disorder),319204018#,"Closed fracture tubercle, tibia",S3307,S330700,391401018#,NA,32
+263237009#,Closed fracture of tibial tuberosity (disorder),5462481000006117#,Closed fracture of tuberosity of tibia,^ESCTCL546248,NA,2476029011#,NA,32
+263237009#,Closed fracture of tibial tuberosity (disorder),391401018#,Closed fracture of tibial tuberosity,S3300-2,S330012,391401018#,NA,32
+428797006#,Closed osteochondral fracture of proximal tibia (disorder),7093871000006115#,Closed osteochondral fracture of proximal tibia,^ESCTCL709387,NA,2694258018#,NA,31
+111644004#,Closed fracture of upper end of lower leg (disorder),364017010#,"Closed fracture of tibia and fibula, proximal",S3302,S330200,364017010#,NA,32
+111644004#,Closed fracture of upper end of lower leg (disorder),4198231000006111#,Closed fracture of upper end of tibia AND fibula,^ESCTCL419823,NA,187866014#,NA,32
+111644004#,Closed fracture of upper end of lower leg (disorder),4198221000006113#,Closed fracture of upper end of lower leg,^ESCTCL419822,NA,178871010#,NA,32
+111644004#,Closed fracture of upper end of lower leg (disorder),564011000006117#,"Closed fracture of tibia and fibula, proximal",S330,S330.00,364017010#,NA,32
+287077002#,Fracture malunion - lower leg (disorder),5722201000006111#,Fracture malunion - lower leg,^ESCTFR572220,NA,426589011#,NA,31
+75591007#,Fracture of fibula (disorder),319247018#,"Open fracture of fibula, unspecified part, NOS",S33y1,S33y100,125543012#,NA,32
+75591007#,Fracture of fibula (disorder),792711000006112#,Fracture of fibula,S339,S339.00,125543012#,NA,32
+263242001#,Fracture of distal end of fibula (disorder),5462541000006112#,Fracture of distal end of fibula,^ESCTFR546254,NA,391407019#,NA,32
+736517000#,Avulsion fracture of anterior fibula (disorder),3517971010#,Wagstaffe's fracture,^ESCT1166726,NA,3517971010#,NA,31
+736517000#,Avulsion fracture of anterior fibula (disorder),3517970011#,Avulsion fracture of anterior fibula,^ESCT1166725,NA,3517970011#,NA,31
+735844006#,Avulsion of ligament with bony fragment of lateral malleolus (disorder),3515554015#,Avulsion of ligament with bony fragment of lateral malleolus,^ESCT1166049,NA,3515554015#,NA,31
+263244000#,Bimalleolar fracture of ankle (disorder),222361000000115#,Pott's fracture of ankle,S344-2,S344.12,391410014#,NA,32
+263244000#,Bimalleolar fracture of ankle (disorder),5462551000006114#,Bimalleolar fracture of ankle,^ESCTBI546255,NA,391409016#,NA,32
+263244000#,Bimalleolar fracture of ankle (disorder),5462571000006116#,Fracture of medial and lateral malleoli,^ESCTFR546257,NA,391411013#,NA,32
+263244000#,Bimalleolar fracture of ankle (disorder),989601000006119#,#Ankle - bimalleolar - Potts #,S344-99,S344.99,989601000006119#,NA,32
+26908008#,Open bimalleolar fracture (disorder),1225141010#,"Open fracture ankle, bimalleolar",S345,S345.00,1225141010#,NA,32
+26908008#,Open bimalleolar fracture (disorder),2930921000006118#,Open bimalleolar fracture,^ESCTOP293092,NA,45018019#,NA,32
+208665005#,"Open fracture ankle, bimalleolar, high fibular fracture (disorder)",319264015#,"Open fracture ankle, bimalleolar, high fibular fracture",S3451,S345100,319264015#,NA,32
+208664009#,"Open fracture ankle, bimalleolar, low fibular fracture (disorder)",319263014#,"Open fracture ankle, bimalleolar, low fibular fracture",S3450,S345000,319263014#,NA,32
+123975002#,Trimalleolar fracture (disorder),4358311000006113#,Trimalleolar fracture,^ESCTTR435831,NA,192464012#,NA,31
+735847004#,Fracture of distal fibula above syndesmosis (disorder),3515560015#,Fracture of distal fibula above syndesmosis,^ESCT1166052,NA,3515560015#,NA,31
+281535004#,Fracture of lateral malleolus (disorder),419567010#,Fracture of lateral malleolus,S349,S349.00,419567010#,NA,32
+281535004#,Fracture of lateral malleolus (disorder),5652781000006115#,Ankle fracture - lateral malleolus,^ESCTAN565278,NA,419568017#,NA,32
+735845007#,Fracture of lateral malleolus at syndesmosis (disorder),3515556018#,Fracture of lateral malleolus at syndesmosis,^ESCT1166050,NA,3515556018#,NA,31
+735842005#,Fracture of lateral malleolus below syndesmosis (disorder),3515550012#,Fracture of lateral malleolus below syndesmosis,^ESCT1166047,NA,3515550012#,NA,31
+4673003#,Open fracture of lateral malleolus (disorder),1230391011#,"Open fracture ankle, lateral malleolus",S343,S343.00,1230391011#,NA,32
+4673003#,Open fracture of lateral malleolus (disorder),2573541000006116#,Open fracture of lateral malleolus,^ESCTOP257354,NA,8810018#,NA,32
+307727005#,Open fracture of distal fibula (disorder),451079015#,Open fracture of distal fibula,S3391,S339100,451079015#,NA,32
+445311003#,Open fracture of distal tibia and distal fibula (disorder),7306131000006116#,"Open fracture of tibia and fibula, distal",^ESCTOP730613,NA,1666671000000110#,NA,32
+445311003#,Open fracture of distal tibia and distal fibula (disorder),7306111000006110#,Open fracture of distal tibia and distal fibula,^ESCTOP730611,NA,2872181015#,NA,32
+445311003#,Open fracture of distal tibia and distal fibula (disorder),1175111000000113#,Open fracture of distal tibia and fibula,S33B,S33B.00,1666481000000110#,NA,32
+67394003#,Fracture of shaft of fibula (disorder),3596471000006116#,Fracture of shaft of fibula,^ESCTFR359647,NA,111997012#,NA,31
+315643003#,Dupuytren's fracture dislocation ankle (disorder),6060451000006118#,Dupuytren fracture dislocation ankle,^ESCTDU606045,NA,2839565012#,NA,31
+315643003#,Dupuytren's fracture dislocation ankle (disorder),6060441000006115#,Dupuytren's fracture dislocation ankle,^ESCTDU606044,NA,460162016#,NA,31
+271577005#,Fracture of shaft of tibia and fibula (disorder),5526331000006114#,Fracture of shaft of tibia and fibula,^ESCTFR552633,NA,406420015#,NA,31
+111646002#,Open fracture of shaft of fibula (disorder),1219675016#,Open fracture shaft of fibula,S3331,S333100,1219675016#,NA,32
+111646002#,Open fracture of shaft of fibula (disorder),4198271000006114#,Open fracture of shaft of fibula,^ESCTOP419827,NA,178873013#,NA,32
+208632002#,"Open fracture of tibia and fibula, shaft (disorder)",319226017#,"Open fracture of tibia and fibula, shaft, NOS",S333z,S333z00,319225018#,NA,32
+208632002#,"Open fracture of tibia and fibula, shaft (disorder)",319225018#,"Open fracture of tibia and fibula, shaft",S3332,S333200,319225018#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),895751000006118#,#Tibia/fibula - shaft,S33-95,S33..95,895751000006118#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),895781000006114#,#Tibia alone,S33-98,S33..98,895781000006114#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),895791000006112#,#Tibia/fibula,S33-99,S33..99,895791000006112#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),991701000006114#,#Tibia/fibula NOS,S33-94,S33..94,991701000006114#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),319250015#,"Fracture of tibia and fibula, NOS",S33z,S33z.00,2533505017#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),2533505017#,Fracture of tibia AND fibula,S33,S33..00,2533505017#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),895761000006116#,#Tibia/fibula - upper end,S33-96,S33..96,895761000006116#,NA,32
+414293001#,Fracture of tibia AND fibula (disorder),895771000006111#,#Fibula alone,S33-97,S33..97,895771000006111#,NA,32
+414943006#,Open fracture of tibia AND fibula (disorder),319248011#,Open fracture of tibia AND fibula,S33y2,S33y200,2533506016#,NA,32
+19350001000004107#,Stress fracture of tibia and fibula (disorder),10192751000006111#,Stress fracture of tibia and fibula,^ESCTST1019275,NA,3046918015#,NA,31
+21867001#,Fracture of upper end of fibula (disorder),2847771000006112#,Fracture of proximal end of fibula,^ESCTFR284777,NA,1222676015#,NA,31
+21867001#,Fracture of upper end of fibula (disorder),2847761000006117#,Fracture of upper end of fibula,^ESCTFR284776,NA,36682015#,NA,31
+281533006#,Fracture of head of fibula (disorder),5652751000006111#,Fracture of head of fibula,^ESCTFR565275,NA,419565019#,NA,31
+733296003#,Avulsion of head of fibula (disorder),7956391000006115#,Avulsion of head of fibula,^ESCTAV795639,NA,3499174011#,NA,31
+208624005#,"Open fracture fibula, head (disorder)",319217015#,"Open fracture fibula, head",S3318,S331800,319217015#,NA,32
+281534000#,Fracture of neck of fibula (disorder),5652761000006113#,Fracture of neck of fibula,^ESCTFR565276,NA,419566018#,NA,31
+208625006#,"Open fracture fibula, neck (disorder)",319218013#,"Open fracture fibula, neck",S3319,S331900,319218013#,NA,32
+59556008#,Open fracture of upper end of fibula (disorder),1231972010#,Open fracture proximal fibula,S3311,S331100,1231972010#,NA,32
+59556008#,Open fracture of upper end of fibula (disorder),3467351000006110#,Open fracture of upper end of fibula,^ESCTOP346735,NA,98920018#,NA,32
+10837061000119109#,Open fracture of proximal left fibula (disorder),NA#,NA,NA,NA,NA#,NA,NA
+10817541000119106#,Open fracture of proximal right fibula (disorder),NA#,NA,NA,NA,NA#,NA,NA
+447017008#,Open fracture of fibula (disorder),7333611000006115#,Open fracture of fibula,^ESCTOP733361,NA,2883319019#,NA,32
+10821131000119109#,Open fracture of left fibula (disorder),NA#,NA,NA,NA,NA#,NA,NA
+10821091000119107#,Open fracture of right fibula (disorder),NA#,NA,NA,NA,NA#,NA,NA
+445527009#,Pathological fracture of fibula (disorder),7309571000006117#,Pathological fracture of fibula,^ESCTPA730957,NA,2871717016#,NA,31
+704252008#,Pathological fracture of fibula due to neoplastic disease (disorder),7588401000006116#,Pathological fracture of fibula due to neoplastic disease,^ESCTPA758840,NA,3010439017#,NA,31
+442538002#,Stress fracture of fibula (disorder),7265681000006113#,Stress fracture of fibula,^ESCTST726568,NA,2820410014#,NA,31
+704331002#,Pathological fracture of fibula due to osteoporosis (disorder),7589441000006114#,Pathological fracture of fibula due to osteoporosis,^ESCTPA758944,NA,3012784014#,NA,31
+704331002#,Pathological fracture of fibula due to osteoporosis (disorder),7589451000006111#,Osteoporotic fracture of fibula,^ESCTOS758945,NA,3012854010#,NA,31
+704290002#,Pathological fracture of fibula due to secondary osteoporosis (disorder),7588881000006110#,Pathological fracture of fibula due to secondary osteoporosis,^ESCTPA758888,NA,3012681012#,NA,31
+704290002#,Pathological fracture of fibula due to secondary osteoporosis (disorder),7588891000006113#,Secondary osteoporotic fracture of fibula,^ESCTSE758889,NA,3012696011#,NA,31
+31978002#,Fracture of tibia (disorder),53428014#,Fracture of tibia,S33A,S33A.00,53428014#,NA,32
+278537006#,Fracture of distal end of tibia (disorder),5614391000006116#,Fracture of distal end of tibia,^ESCTFR561439,NA,415488012#,NA,32
+278537006#,Fracture of distal end of tibia (disorder),415489016#,Fracture of lower end of tibia,S338,S338.00,415489016#,NA,32
+6990005#,Fracture of shaft of tibia (disorder),12536011#,Fracture of shaft of tibia,S337,S337.00,12536011#,NA,32
+6990005#,Fracture of shaft of tibia (disorder),989561000006119#,#Tibia alone,S337-99,S337.99,989561000006119#,NA,32
+22234005#,Open fracture of shaft of tibia (disorder),1222720019#,Open fracture shaft of tibia,S3330,S333000,1222720019#,NA,32
+22234005#,Open fracture of shaft of tibia (disorder),2854201000006115#,Open fracture of shaft of tibia,^ESCTOP285420,NA,37324019#,NA,32
+20433007#,Fracture of upper end of tibia (disorder),34376013#,Fracture of upper end of tibia,S336,S336.00,34376013#,NA,32
+733295004#,Avulsion of tibial tuberosity (disorder),7956381000006118#,Avulsion of tibial tuberosity,^ESCTAV795638,NA,3499173017#,NA,31
+735669008#,Fracture of metaphysis of proximal tibia (disorder),3515145014#,Metaphyseal fracture of upper end of tibia,^ESCT1165847,NA,3515145014#,NA,31
+735669008#,Fracture of metaphysis of proximal tibia (disorder),3515144013#,Fracture of metaphysis of proximal tibia,^ESCT1165846,NA,3515144013#,NA,31
+428257007#,Fracture of tibial plateau (disorder),1756451000006110#,Fracture of tibial plateau,S3360,S336000,2694844010#,NA,32
+446980008#,Open fracture of tibial plateau (disorder),1668051000000112#,Open fracture of tibial plateau,S331A,S331A00,2884198012#,NA,32
+111645003#,Open fracture of upper end of tibia (disorder),4198251000006116#,Open fracture of upper end of tibia,^ESCTOP419825,NA,178872015#,NA,32
+111645003#,Open fracture of upper end of tibia (disorder),257801000006118#,Open fracture proximal tibia,S3310,S331000,2969178012#,NA,32
+263238004#,Open fracture of tibial tuberosity (disorder),319216012#,"Open fracture tubercle, tibia",S3317,S331700,391402013#,NA,32
+263238004#,Open fracture of tibial tuberosity (disorder),391402013#,Open fracture of tibial tuberosity,S3310-2,S331012,391402013#,NA,32
+446979005#,Open fracture of tibia (disorder),319246010#,Open fracture of tibia,S33y0,S33y000,2882648014#,NA,32
+208637008#,Open fracture distal tibia (disorder),319230019#,Open fracture distal tibia,S335,S335.00,319230019#,NA,32
+208638003#,"Open fracture distal tibia, extra-articular (disorder)",319231015#,"Open fracture distal tibia, extra-articular",S3350,S335000,319231015#,NA,32
+208639006#,"Open fracture distal tibia, intra-articular (disorder)",319232010#,"Open fracture distal tibia, intra-articular",S3351,S335100,319232010#,NA,32
+446981007#,Open pilon fracture (disorder),7333051000006114#,Open pilon fracture,^ESCTOP733305,NA,2882649018#,NA,31
+54530004#,Open fracture of medial malleolus (disorder),3384911000006110#,Open fracture of medial malleolus,^ESCTOP338491,NA,90638018#,NA,32
+54530004#,Open fracture of medial malleolus (disorder),1231346013#,"Open fracture ankle, medial malleolus",S341,S341.00,1231346013#,NA,32
+445526000#,Pathological fracture of tibia (disorder),7309561000006112#,Pathological fracture of tibia,^ESCTPA730956,NA,2871716013#,NA,31
+704245006#,Pathological fracture of tibia due to neoplastic disease (disorder),7588281000006114#,Pathological fracture of tibia due to neoplastic disease,^ESCTPA758828,NA,3011492015#,NA,31
+704245006#,Pathological fracture of tibia due to neoplastic disease (disorder),7588291000006112#,Pathological fracture of tibia due to tumor,^ESCTPA758829,NA,3034380011#,NA,31
+704245006#,Pathological fracture of tibia due to neoplastic disease (disorder),7588301000006113#,Pathological fracture of tibia due to tumour,^ESCTPA758830,NA,3034381010#,NA,31
+442205007#,Stress fracture of tibia (disorder),7261181000006117#,Stress fracture of tibia,^ESCTST726118,NA,2819075011#,NA,31
+704338008#,Pathological fracture of tibia due to osteoporosis (disorder),7589581000006116#,Pathological fracture of tibia due to osteoporosis,^ESCTPA758958,NA,3012949017#,NA,31
+704338008#,Pathological fracture of tibia due to osteoporosis (disorder),7589591000006118#,Osteoporotic fracture of tibia,^ESCTOS758959,NA,3012885018#,NA,31
+704283007#,Pathological fracture of tibia due to secondary osteoporosis (disorder),7588751000006113#,Secondary osteoporotic fracture of tibia,^ESCTSE758875,NA,3012762014#,NA,31
+704283007#,Pathological fracture of tibia due to secondary osteoporosis (disorder),7588741000006111#,Pathological fracture of tibia due to secondary osteoporosis,^ESCTPA758874,NA,3012649015#,NA,31
+206214000#,Fracture of tibia and/or fibula due to birth trauma (disorder),4836171000006116#,Fracture of tibia and/or fibula due to birth trauma,^ESCTFR483617,NA,1489803016#,NA,32
+206214000#,Fracture of tibia and/or fibula due to birth trauma (disorder),316189015#,Fracture of tibia or fibula due to birth trauma,Q2033,Q203300,316189015#,NA,32
+208732009#,Multiple fractures of lower leg (disorder),319341019#,Multiple fractures of lower leg,S3x3,S3x3.00,319341019#,NA,32
+69166006#,Fracture of upper end of lower leg (disorder),3624961000006112#,Fracture of upper end of tibia AND fibula,^ESCTFR362496,NA,114885011#,NA,32
+69166006#,Fracture of upper end of lower leg (disorder),3624951000006110#,Fracture of upper end of lower leg,^ESCTFR362495,NA,114882014#,NA,32
+69166006#,Fracture of upper end of lower leg (disorder),564031000006111#,"Closed fracture of tibia and fibula, proximal NOS",S330z,S330z00,114882014#,NA,32
+9344009#,Open fracture of upper end of lower leg (disorder),2649051000006117#,Open fracture of upper end of tibia AND fibula,^ESCTOP264905,NA,16395011#,NA,32
+9344009#,Open fracture of upper end of lower leg (disorder),319219017#,"Open fracture of tibia and fibula, proximal NOS",S331z,S331z00,16393016#,NA,32
+9344009#,Open fracture of upper end of lower leg (disorder),257931000006116#,"Open fracture of tibia and fibula, proximal",S3312,S331200,16393016#,NA,32
+9344009#,Open fracture of upper end of lower leg (disorder),257921000006119#,Open fracture of upper end of lower leg,S331,S331.00,16393016#,NA,32
+414942001#,Open fracture of lower leg (disorder),2533507013#,Open fracture of lower leg,ESCTOP10,NA,2533507013#,NA,32
+10830061000119105#,Open fracture of left lower leg (disorder),NA#,NA,NA,NA,NA#,NA,NA
+10816221000119100#,Open fracture of right lower leg (disorder),NA#,NA,NA,NA,NA#,NA,NA
+208621002#,"Open fracture proximal tibia, bicondylar (disorder)",319214010#,"Open fracture proximal tibia, bicondylar",S3315,S331500,319214010#,NA,32
+208620001#,"Open fracture proximal tibia, lateral condyle (plateau) (disorder)",319213016#,"Open fracture proximal tibia, lateral condyle (plateau)",S3314,S331400,319213016#,NA,32
+208619007#,"Open fracture proximal tibia, medial condyle (plateau) (disorder)",319212014#,"Open fracture proximal tibia, medial condyle (plateau)",S3313,S331300,319212014#,NA,32
+287069001#,Pathological fracture - lower leg (disorder),5722091000006112#,Pathological fracture - lower leg,^ESCTPA572209,NA,426580010#,NA,31
+287069001#,Pathological fracture - lower leg (disorder),892421000006112#,Path.fracture - lower leg,N331-93,N331.93,892421000006112#,NA,32
+263091001#,Fracture dislocation of ankle joint (disorder),5460711000006119#,Fracture dislocation of ankle joint,^ESCTFR546071,NA,391208010#,NA,31
+209350006#,Open fracture dislocation of ankle joint (disorder),4849731000006112#,Open fracture dislocation of ankle joint,^ESCTOP484973,NA,3028416014#,NA,32
+209350006#,Open fracture dislocation of ankle joint (disorder),256061000006110#,"Open fracture dislocation, ankle joint",S4G1,S4G1.00,320048014#,NA,32
+733297007#,Complicated fracture of ankle (disorder),7956401000006118#,Complicated fracture of ankle,^ESCTCO795640,NA,3499176013#,NA,31
+48187004#,Open fracture of ankle (disorder),319272018#,Open fracture of ankle,S34y,S34y.00,80287011#,NA,32
+704173002#,Pathological fracture of ankle (disorder),7587331000006118#,Pathological fracture of ankle,^ESCTPA758733,NA,3010811013#,NA,31
+704255005#,Pathological fracture of ankle due to neoplastic disease (disorder),7588431000006112#,Pathological fracture of ankle due to neoplastic disease,^ESCTPA758843,NA,3012400016#,NA,31
+704070001#,Stress fracture of ankle (disorder),7585991000006114#,Stress fracture of ankle,^ESCTST758599,NA,3011077013#,NA,31
+704328003#,Pathological fracture of ankle due to osteoporosis (disorder),7589381000006112#,Pathological fracture of ankle due to osteoporosis,^ESCTPA758938,NA,3012801012#,NA,31
+704328003#,Pathological fracture of ankle due to osteoporosis (disorder),7589391000006110#,Osteoporotic fracture of ankle,^ESCTOS758939,NA,3012792017#,NA,31
+704293000#,Pathological fracture of ankle due to secondary osteoporosis (disorder),7588941000006114#,Pathological fracture of ankle due to secondary osteoporosis,^ESCTPA758894,NA,3012663014#,NA,31
+704293000#,Pathological fracture of ankle due to secondary osteoporosis (disorder),7588951000006111#,Secondary osteoporotic fracture of ankle,^ESCTSE758895,NA,3012648011#,NA,31
+263087006#,Fracture dislocation of joint of lower limb (disorder),5460671000006118#,Fracture dislocation of joint of lower limb,^ESCTFR546067,NA,391204012#,NA,31
+263089009#,Fracture dislocation of knee joint (disorder),5460691000006117#,Fracture dislocation of knee joint,^ESCTFR546069,NA,391206014#,NA,31
+263112006#,Fracture subluxation of joint of lower limb (disorder),5460921000006112#,Fracture subluxation of joint of lower limb,^ESCTFR546092,NA,391230011#,NA,31
+263113001#,Fracture subluxation of knee joint (disorder),5460931000006110#,Fracture subluxation of knee joint,^ESCTFR546093,NA,391231010#,NA,31
+64569008#,Closed fractures of multiple bones of lower limb (disorder),253061000006117#,Closed fractures of multiple bones of lower limb,S3x0,S3x0.00,107298010#,NA,32
+4208000#,Closed multiple fractures of both lower limbs (disorder),2566031000006119#,Closed multiple fractures of both lower limbs,^ESCTCL256603,NA,8088019#,NA,31
+4208000#,Closed multiple fractures of both lower limbs (disorder),2566041000006112#,Closed multiple fractures of both legs,^ESCTCL256604,NA,8091019#,NA,31
+53441009#,Closed multiple fractures of lower limb AND ribs (disorder),3366801000006113#,Closed multiple fractures of lower limb AND ribs,^ESCTCL336680,NA,88862014#,NA,31
+42109006#,Closed multiple fractures of lower limb with ribs AND sternum (disorder),3178751000006118#,Closed multiple fractures of lower limb with ribs AND sternum,^ESCTCL317875,NA,70275012#,NA,31
+41392003#,Closed multiple fractures of lower limb AND sternum (disorder),3167011000006113#,Closed multiple fractures of lower limb AND sternum,^ESCTCL316701,NA,69040014#,NA,31
+51155003#,Closed multiple fractures of upper AND lower limbs (disorder),3329041000006118#,Closed multiple fractures of upper AND lower limbs,^ESCTCL332904,NA,85228019#,NA,31
+311857007#,Closed fractures involving multiple regions upper with lower limb (disorder),557951000006118#,Closed fractures involving multiple regions upper with lower limb,SR150,SR15000,455496018#,NA,32
+71620000#,Fracture of femur (disorder),319154016#,"Open fracture of femur, unspecified part",S3110,S311000,118977010#,NA,32
+71620000#,Fracture of femur (disorder),319155015#,"Open fracture of femur, shaft or unspecified part, NOS",S311z,S311z00,118977010#,NA,32
+71620000#,Fracture of femur (disorder),391382011#,Upper leg fracture NOS,S3100-2,S310012,118977010#,NA,32
+71620000#,Fracture of femur (disorder),319146018#,Fracture of femur,S31,S31..00,118977010#,NA,32
+71620000#,Fracture of femur (disorder),105741000006114#,Thigh fracture NOS,S3100-1,S310011,118977010#,NA,32
+71620000#,Fracture of femur (disorder),325439014#,[X]Fractures of other parts of femur,Syu72,Syu7200,118977010#,NA,32
+71620000#,Fracture of femur (disorder),319180015#,"Fracture of femur, NOS",S31z,S31z.00,118978017#,NA,32
+71620000#,Fracture of femur (disorder),3664921000006112#,Fracture of thigh,^ESCTFR366492,NA,118981010#,NA,32
+71620000#,Fracture of femur (disorder),3664931000006110#,Fracture of upper leg,^ESCTFR366493,NA,118982015#,NA,32
+71620000#,Fracture of femur (disorder),319152017#,"Closed fracture of shaft or unspecified part, NOS",S310z,S310z00,118977010#,NA,32
+71620000#,Fracture of femur (disorder),319153010#,"Open fracture of femur, shaft or unspecified part",S311,S311.00,118977010#,NA,32
+32805004#,Fractures of multiple bones of lower limb (disorder),319337018#,Fractures of multiple bones of lower limb,S3x,S3x..00,54758014#,NA,32
+213355001#,Fractures involving multiple regions of both lower limbs (disorder),325252019#,Fractures involving multiple regions of both lower limbs,SR14,SR14.00,325252019#,NA,32
+37490002#,Open multiple fractures of both lower limbs (disorder),3103901000006115#,Open multiple fractures of both legs,^ESCTOP310390,NA,62528016#,NA,31
+37490002#,Open multiple fractures of both lower limbs (disorder),3103891000006119#,Open multiple fractures of both lower limbs,^ESCTOP310389,NA,62525018#,NA,31
+771489001#,Fractures involving multiple regions of left lower limb (disorder),NA#,NA,NA,NA,NA#,NA,NA
+771490005#,Fractures involving multiple regions of right lower limb (disorder),NA#,NA,NA,NA,NA#,NA,NA
+9327005#,Multiple fractures of lower limb AND ribs (disorder),2648831000006113#,Multiple fractures of lower limb AND ribs,^ESCTMU264883,NA,16366019#,NA,31
+90799002#,Multiple fractures of lower limb with ribs AND sternum (disorder),3975681000006113#,Multiple fractures of lower limb with ribs AND sternum,^ESCTMU397568,NA,150463016#,NA,31
+20594000#,Open multiple fractures of lower limb with ribs AND sternum (disorder),2827581000006118#,Open multiple fractures of lower limb with ribs AND sternum,^ESCTOP282758,NA,34656010#,NA,31
+4478002#,Multiple fractures of upper AND lower limbs (disorder),2570231000006118#,Multiple fractures of upper AND lower limbs,^ESCTMU257023,NA,7606015#,NA,31
+213358004#,Fractures involving multiple regions of upper limb(s) with lower limb(s) (disorder),792401000006116#,Fractures involing multiple regions of upper limb(s) with lower limb(s),SR15,SR15.00,325255017#,NA,32
+311859005#,Open fracture involving multiple regions upper with lower limbs (disorder),259491000006116#,Open fracture involving multiple regions upper with lower limbs,SR151,SR15100,455498017#,NA,32
+17367000#,Open multiple fractures of upper AND lower limbs (disorder),2775551000006119#,Open multiple fractures of upper AND lower limbs,^ESCTOP277555,NA,29363010#,NA,31
+22225000#,Open fracture of multiple bones of lower limb (disorder),319339015#,Open fracture of multiple bones of lower limb,S3x1,S3x1.00,37308015#,NA,32
+50531009#,Open fracture of lower limb (disorder),695611000006115#,"Multiple open #both legs, leg + arm, leg + rib + sternum",S3y1,S3y1.00,84170010#,NA,32
+50531009#,Open fracture of lower limb (disorder),3318251000006111#,Open fracture of lower limb,^ESCTOP331825,NA,84170010#,NA,32
+50531009#,Open fracture of lower limb (disorder),3318261000006113#,Open fracture of leg,^ESCTOP331826,NA,84173012#,NA,32
+432076004#,Repair of fracture of lower limb bone by nailing using fluoroscopic guidance (procedure),7152551000006119#,Fluoroscopy guided pinning of lower limb bone,^ESCTFL715255,NA,696961000000113#,NA,31
+432076004#,Repair of fracture of lower limb bone by nailing using fluoroscopic guidance (procedure),7152571000006112#,Fluoroscopic guidance for pinning of lower limb bone,^ESCTFL715257,NA,709841000000116#,NA,31
+432076004#,Repair of fracture of lower limb bone by nailing using fluoroscopic guidance (procedure),7152561000006117#,Repair of fracture of lower limb bone by nailing using fluoroscopic guidance,^ESCTRE715256,NA,2769772017#,NA,31
+449646009#,Reduction of open fracture of lower limb with internal fixation (procedure),7373261000006118#,Reduction of open fracture of lower limb with internal fixation,^ESCTRE737326,NA,2913156013#,NA,31
+449647000#,Reduction of open fracture of lower leg with internal fixation (procedure),7373271000006113#,Reduction of open fracture of lower leg with internal fixation,^ESCTRE737327,NA,2912824012#,NA,31
+449685002#,Debridement of open fracture of lower leg (procedure),7373651000006117#,Debridement of open fracture of lower leg,^ESCTDE737365,NA,2912794013#,NA,31
+50067005#,Debridement of open fracture of fibula (procedure),3310821000006116#,Debridement of open fracture of fibula,^ESCTDE331082,NA,83403011#,NA,31
+67872001#,Debridement of open fracture of tibia and fibula (procedure),3604031000006110#,Debridement of open fracture of tibia and fibula,^ESCTDE360403,NA,112743019#,NA,31
+139471000119103#,Aftercare for osteoporotic fracture of lower limb (regime/therapy),8043781000006112#,Aftercare for osteoporotic fracture of lower limb,^ESCTAF804378,NA,2989330014#,NA,31
+139471000119103#,Aftercare for osteoporotic fracture of lower limb (regime/therapy),8043791000006110#,Aftercare for osteoporotic fracture of lower leg,^ESCTAF804379,NA,2989303016#,NA,31
+699155000#,Closed reduction of fracture of patella without internal fixation (procedure),7517801000006117#,Closed reduction of fracture of patella without internal fixation,^ESCTCL751780,NA,2982884016#,NA,31
+69505002#,Internal fixation of patella without fracture reduction (procedure),3630501000006112#,Internal fixation of patella without fracture reduction,^ESCTIN363050,NA,115479018#,NA,31
+87905008#,Gosselin's fracture (disorder),3928591000006117#,Gosselin's fracture,^ESCTGO392859,NA,145727014#,NA,31
+87905008#,Gosselin's fracture (disorder),3928601000006113#,Gosselin fracture,^ESCTGO392860,NA,2839810019#,NA,31
+263241008#,Tillaux fracture (disorder),5462531000006119#,Tilleau fracture,^ESCTTI546253,NA,391406011#,NA,31
+263246003#,Fracture of talus (disorder),391413011#,Fracture of talus,S355,S355.00,391413011#,NA,32
+429664005#,Fracture of posterior process of talus (disorder),7106811000006113#,Fracture of posterior process of talus,^ESCTFR710681,NA,2694226011#,NA,31
+3381004#,Open fracture of talus (disorder),6700013#,Open fracture of astragalus,S3531-1,S353111,6700013#,NA,32
+3381004#,Open fracture of talus (disorder),6701012#,Open fracture of talus,S3531,S353100,6701012#,NA,32
+208698000#,"Open fracture talus, body (disorder)",319307010#,"Open fracture talus, body",S353A,S353A00,319307010#,NA,32
+208696001#,"Open fracture talus, head (disorder)",319305019#,"Open fracture talus, head",S3538,S353800,319305019#,NA,32
+208697005#,"Open fracture talus, neck (disorder)",319306018#,"Open fracture talus, neck",S3539,S353900,319306018#,NA,32
+26176009#,Shepherd's fracture (disorder),2918941000006117#,Shepherd fracture,^ESCTSH291894,NA,2839235015#,NA,31
+26176009#,Shepherd's fracture (disorder),2918931000006110#,Shepherd's fracture,^ESCTSH291893,NA,43855018#,NA,31

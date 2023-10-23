@@ -1,0 +1,42 @@
+readcode,term_readcode,cal,man,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+C104.#,Diabetes mellitus with renal manifestation,1,1,2,881481000006117#,Diabetes + nephropathy,C104-99,C104.99,127013003,881481000006117,NA,32,C104.99#
+C104.#,Diabetes mellitus with renal manifestation,1,1,2,616461000006112#,Diabetes mellitus with renal manifestation,C104,C104.00,127013003,301016,NA,32,C104.00#
+C104.#,Diabetes mellitus with renal manifestation,1,1,2,205225016#,Diabetic nephropathy,C104-1,C104.11,127013003,205225016,NA,32,C104.11#
+C1040#,"Diabetes mellitus, juvenile type, with renal manifestation",1,1,2,616661000006114#,"Diabetes mellitus, juvenile type, with renal manifestation",C1040,C104000,421893009,2618211013,NA,32,C104000#
+C1041#,"Diabetes mellitus, adult onset, with renal manifestation",1,1,2,616551000006111#,"Diabetes mellitus, adult onset, with renal manifestation",C1041,C104100,420279001,2615535015,NA,32,C104100#
+C104y#,Other specified diabetes mellitus with renal complications,1,1,2,292495016#,Other specified diabetes mellitus with renal complications,C104y,C104y00,127013003,301016,NA,32,C104y00#
+C104z#,Diabetes mellitis with nephropathy NOS,1,1,2,292496015#,Diabetes mellitus with nephropathy NOS,C104z,C104z00,127013003,301016,NA,32,C104z00#
+C1080#,Insulin-dependent diabetes mellitus with renal complications,1,1,2,771501000006119#,Insulin-dependent diabetes mellitus with renal complications,C1080,C108000,127013003,301016,NA,32,C108000#
+C1080#,Insulin-dependent diabetes mellitus with renal complications,1,1,2,84801000006111#,Type I diabetes mellitus with renal complications,C1080-1,C108011,421893009,2623054013,NA,32,C108011#
+C1080#,Insulin-dependent diabetes mellitus with renal complications,1,1,2,84431000006117#,Type 1 diabetes mellitus with renal complications,C1080-2,C108012,421893009,2618211013,NA,32,C108012#
+C1090#,Non-insulin-dependent diabetes mellitus with renal comps,1,1,2,84981000006114#,Type II diabetes mellitus with renal complications,C1090-1,C109011,420279001,3013392012,NA,32,C109011#
+C1090#,Non-insulin-dependent diabetes mellitus with renal comps,1,1,2,587521000006111#,Non-insulin-dependent diabetes mellitus with renal comps,C1090,C109000,420279001,2615535015,NA,32,C109000#
+C1090#,Non-insulin-dependent diabetes mellitus with renal comps,1,1,2,84611000006113#,Type 2 diabetes mellitus with renal complications,C1090-2,C109012,420279001,2618208012,NA,32,C109012#
+C10E0#,Type 1 diabetes mellitus with renal complications,1,1,2,913441000006119#,Insulin-dependent diabetes mellitus with renal complications,C10E0-2,C10E012,127013003,301016,NA,32,C10E012#
+C10E0#,Type 1 diabetes mellitus with renal complications,1,1,2,913461000006115#,Type I diabetes mellitus with renal complications,C10E0-1,C10E011,421893009,2623054013,NA,32,C10E011#
+C10E0#,Type 1 diabetes mellitus with renal complications,1,1,2,913451000006117#,Type 1 diabetes mellitus with renal complications,C10E0,C10E000,421893009,2618211013,NA,32,C10E000#
+C10F0#,Type 2 diabetes mellitus with renal complications,1,1,2,914041000006111#,Type II diabetes mellitus with renal complications,C10F0-1,C10F011,420279001,3013392012,NA,32,C10F011#
+C10F0#,Type 2 diabetes mellitus with renal complications,1,1,2,914031000006118#,Renal disorder associated with type II diabetes mellitus,C10F0,C10F000,420279001,2618208012,NA,32,C10F000#
+C10FC#,Type 2 diabetes mellitus with nephropathy,1,1,2,914271000006114#,Type II diabetes mellitus with nephropathy,C10FC-1,C10FC11,420279001,3013392012,NA,32,C10FC11#
+C10FC#,Type 2 diabetes mellitus with nephropathy,1,1,2,914261000006119#,Diabetes type 2 with nephropathy,C10FC,C10FC00,420279001,3035432019,NA,32,C10FC00#
+C108D#,Insulin dependent diabetes mellitus with nephropathy,1,0,1,84371000006110#,Type 1 diabetes mellitus with nephropathy,C108D-2,C108D12,421893009,2623054013,NA,32,C108D12#
+C108D#,Insulin dependent diabetes mellitus with nephropathy,1,0,1,84741000006118#,Type I diabetes mellitus with nephropathy,C108D-1,C108D11,421893009,2623054013,NA,32,C108D11#
+C108D#,Insulin dependent diabetes mellitus with nephropathy,1,0,1,771391000006117#,Insulin dependent diabetes mellitus with nephropathy,C108D,C108D00,127013003,301016,NA,32,C108D00#
+C109C#,Non-insulin dependent diabetes mellitus with nephropathy,1,0,1,280531000006119#,Non-insulin dependent diabetes mellitus with nephropathy,C109C,C109C00,420279001,3035432019,NA,32,C109C00#
+C109C#,Non-insulin dependent diabetes mellitus with nephropathy,1,0,1,84921000006110#,Renal disorder due to type 2 diabetes mellitus,C109C-1,C109C11,420279001,3013392012,NA,32,C109C11#
+C109C#,Non-insulin dependent diabetes mellitus with nephropathy,1,0,1,84551000006113#,Type 2 diabetes mellitus with nephropathy,C109C-2,C109C12,420279001,3035432019,NA,32,C109C12#
+C10ED#,Type 1 diabetes mellitus with nephropathy,1,0,1,913851000006119#,Type I diabetes mellitus with nephropathy,C10ED-1,C10ED11,421893009,2623054013,NA,32,C10ED11#
+C10ED#,Type 1 diabetes mellitus with nephropathy,1,0,1,913831000006114#,Insulin dependent diabetes mellitus with nephropathy,C10ED-2,C10ED12,127013003,301016,NA,32,C10ED12#
+C10ED#,Type 1 diabetes mellitus with nephropathy,1,0,1,913841000006116#,Renal disorder associated with type 1 diabetes mellitus,C10ED,C10ED00,421893009,2623054013,NA,32,C10ED00#
+C10EK#,Type 1 diabetes mellitus with persistent proteinuria,1,0,1,928471000006114#,Type I diabetes mellitus with persistent proteinuria,C10EK-1,C10EK11,420514000,2967914011,NA,32,C10EK11#
+C10EK#,Type 1 diabetes mellitus with persistent proteinuria,1,0,1,928461000006119#,Persistent proteinuria associated with type 1 diabetes mellitus,C10EK,C10EK00,420514000,2967914011,NA,32,C10EK00#
+C10EL#,Type 1 diabetes mellitus with persistent microalbuminuria,1,0,1,1780311019#,Type 1 diabetes mellitus with persistent microalbuminuria,C10EL,C10EL00,401110002,1780311019,NA,32,C10EL00#
+C10EL#,Type 1 diabetes mellitus with persistent microalbuminuria,1,0,1,928491000006110#,Type I diabetes mellitus with persistent microalbuminuria,C10EL-1,C10EL11,401110002,1780311019,NA,32,C10EL11#
+C10FL#,Type 2 diabetes mellitus with persistent proteinuria,1,0,1,928541000006117#,Persistent proteinuria associated with type 2 diabetes mellitus,C10FL,C10FL00,421986006,2967751013,NA,32,C10FL00#
+C10FL#,Type 2 diabetes mellitus with persistent proteinuria,1,0,1,928551000006115#,Type II diabetes mellitus with persistent proteinuria,C10FL-1,C10FL11,421986006,2967751013,NA,32,C10FL11#
+C10FM#,Type 2 diabetes mellitus with persistent microalbuminuria,1,0,1,928571000006113#,Type II diabetes mellitus with persistent microalbuminuria,C10FM-1,C10FM11,420715001,2967769016,NA,32,C10FM11#
+C10FM#,Type 2 diabetes mellitus with persistent microalbuminuria,1,0,1,928561000006118#,Persistent microalbuminuria associated with type 2 diabetes mellitus,C10FM,C10FM00,420715001,2967769016,NA,32,C10FM00#
+C314.#,Renal diabetes,1,0,1,398848019#,Renal glycosuria,C314,C314.00,267430007,398848019,NA,32,C314.00#
+C314.#,Renal diabetes,1,0,1,354316011#,Kidney disorder due to diabetes mellitus,C314-1,C314.11,127013003,3688488015,NA,32,C314.11#
+K01x1#,Nephrotic syndrome in diabetes mellitus,1,0,1,303846016#,Nephrotic syndrome in diabetes mellitus,K01x1,K01x100,197605007,303846016,NA,32,K01x100#
+K01x1#,Nephrotic syndrome in diabetes mellitus,1,0,1,303847013#,Kimmelstiel - Wilson disease,K01x1-1,K01x111,197605007,303847013,NA,32,K01x111#

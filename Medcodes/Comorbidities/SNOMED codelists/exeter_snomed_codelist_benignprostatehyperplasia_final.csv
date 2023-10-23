@@ -1,0 +1,300 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+197959008#,Prostatic hyperplasia of the lateral lobe,304383016#,1,1,2,304383016#,Prostatic hyperplasia of the lateral lobe,K201,K201.00,304383016,NA,32
+197959008#,Prostatic hyperplasia of the lateral lobe (disorder),582399015#,1,1,2,304383016#,Prostatic hyperplasia of the lateral lobe,K201,K201.00,304383016,NA,32
+197960003#,Prostatic hyperplasia of the medial lobe,304384010#,1,1,2,304384010#,Prostatic hyperplasia of the medial lobe,K202,K202.00,304384010,NA,32
+197960003#,Prostatic hyperplasia of the medial lobe (disorder),582400010#,1,1,2,304384010#,Prostatic hyperplasia of the medial lobe,K202,K202.00,304384010,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign prostatic hyperplasia,396731012#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Hyperplasia of prostate,396732017#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Prostatic hypertrophy,396733010#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign myoma of prostate,396734016#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,BPH,396735015#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,BPH,396735015#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,BPH,396735015#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,BPH,396735015#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,BPH,396735015#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,BPH,396735015#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,BPH,396735015#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,BPH,396735015#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,BPH,396735015#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,BPH,396735015#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,BPH,396735015#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,BPH,396735015#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign enlargement of prostate,396736019#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign adenoma of prostate,396737011#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign prostatic hypertrophy,396738018#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign fibroma of prostate,396739014#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Prostatic area hypertrophy,396740011#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,BEP - Benign enlargement of prostate,396741010#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,BPH - Benign prostatic hypertrophy,396742015#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Benign prostatic hyperplasia (disorder),659082016#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,Nodular hyperplasia of prostate gland,2773715017#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493331000006118#,Prostatic area hypertrophy,^ESCTPR549333,NA,396740011,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493351000006113#,BPH - Benign prostatic hypertrophy,^ESCTBP549335,NA,396742015,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493301000006114#,Benign enlargement of prostate,^ESCTBE549330,NA,396736019,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493281000006110#,Prostatic hypertrophy,^ESCTPR549328,NA,396733010,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493291000006113#,Benign myoma of prostate,^ESCTBE549329,NA,396734016,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,645331000006112#,Benign prostatic hyperplasia,K20-4,K20..14,396731012,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493361000006110#,Nodular hyperplasia of prostate gland,^ESCTNO549336,NA,2773715017,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493321000006116#,Benign fibroma of prostate,^ESCTBE549332,NA,396739014,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,396738018#,Benign prostatic hypertrophy,K20,K20..00,396738018,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,11851221000006114#,BPH - benign prostatic hyperplasia,^ESCT1185122,NA,3513761015,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,396742015#,BPH - Benign prostatic hypertrophy,K20-5,K20..15,396738018,NA,32
+266569009#,BPH - benign prostatic hyperplasia,3513761015#,1,1,2,5493341000006111#,BEP - Benign enlargement of prostate,^ESCTBE549334,NA,396741010,NA,32
+236646007#,Benign prostatic hypertroph with outflow obstruction,354717016#,1,1,2,5097061000006111#,Benign prostatic hypertrophy with outflow obstruction,^ESCTBE509706,NA,2470105014,NA,31
+236646007#,Benign prostatic hypertroph with outflow obstruction (disorder),625268015#,1,1,2,5097061000006111#,Benign prostatic hypertrophy with outflow obstruction,^ESCTBE509706,NA,2470105014,NA,31
+236646007#,Benign prostatic hypertrophy with outflow obstruction (disorder),2462203015#,1,1,2,5097061000006111#,Benign prostatic hypertrophy with outflow obstruction,^ESCTBE509706,NA,2470105014,NA,31
+236646007#,Benign prostatic hypertrophy with outflow obstruction,2470105014#,1,1,2,5097061000006111#,Benign prostatic hypertrophy with outflow obstruction,^ESCTBE509706,NA,2470105014,NA,31
+254902007#,Benign prostatic hypertroph without outflow obstruction,379771010#,1,1,2,5352601000006114#,Benign prostatic hypertrophy without outflow obstruction,^ESCTBE535260,NA,2773349010,NA,31
+254902007#,Benign prostatic hypertroph without outflow obstruction (disorder),645860010#,1,1,2,5352601000006114#,Benign prostatic hypertrophy without outflow obstruction,^ESCTBE535260,NA,2773349010,NA,31
+254902007#,Benign prostatic hypertrophy without outflow obstruction (disorder),2736872019#,1,1,2,5352601000006114#,Benign prostatic hypertrophy without outflow obstruction,^ESCTBE535260,NA,2773349010,NA,31
+254902007#,Benign prostatic hypertrophy without outflow obstruction,2773349010#,1,1,2,5352601000006114#,Benign prostatic hypertrophy without outflow obstruction,^ESCTBE535260,NA,2773349010,NA,31
+433234005#,Hyperplasia of prostate (disorder),2744359012#,0,1,1,304385011#,Prostatic hyperplasia NOS,K20z,K20z.00,2769992019,NA,32
+433234005#,Hyperplasia of prostate (disorder),2744359012#,0,1,1,304382014#,Hyperplasia of prostate,K200,K200.00,2769992019,NA,32
+433234005#,Hyperplasia of prostate,2769992019#,0,1,1,304385011#,Prostatic hyperplasia NOS,K20z,K20z.00,2769992019,NA,32
+433234005#,Hyperplasia of prostate,2769992019#,0,1,1,304382014#,Hyperplasia of prostate,K200,K200.00,2769992019,NA,32
+21173002#,Benign adenoma of prostate,35586019#,0,1,1,35587011#,Adenoma of prostate,B7C20,B7C2000,35587011,NA,32
+21173002#,Benign adenoma of prostate,35586019#,0,1,1,35586019#,Benign adenoma of prostate,K20-1,K20..11,35586019,NA,32
+21173002#,Adenoma of prostate,35587011#,0,1,1,35587011#,Adenoma of prostate,B7C20,B7C2000,35587011,NA,32
+21173002#,Adenoma of prostate,35587011#,0,1,1,35586019#,Benign adenoma of prostate,K20-1,K20..11,35586019,NA,32
+21173002#,Benign adenoma of prostate (disorder),750438010#,0,1,1,35587011#,Adenoma of prostate,B7C20,B7C2000,35587011,NA,32
+21173002#,Benign adenoma of prostate (disorder),750438010#,0,1,1,35586019#,Benign adenoma of prostate,K20-1,K20..11,35586019,NA,32
+47014000#,Fibroma of prostate,78361016#,0,1,1,78361016#,Fibroma of prostate,B7C21,B7C2100,78361016,NA,32
+47014000#,Fibroma of prostate,78361016#,0,1,1,504861000006113#,Benign fibroma of prostate,K20-2,K20..12,78361016,NA,32
+47014000#,Fibroma of prostate (disorder),784426018#,0,1,1,78361016#,Fibroma of prostate,B7C21,B7C2100,78361016,NA,32
+47014000#,Fibroma of prostate (disorder),784426018#,0,1,1,504861000006113#,Benign fibroma of prostate,K20-2,K20..12,78361016,NA,32
+81021006#,Myoma of prostate,134409015#,0,1,1,505011000006115#,Benign myoma of prostate,K20-3,K20..13,134409015,NA,32
+81021006#,Myoma of prostate,134409015#,0,1,1,134409015#,Myoma of prostate,B7C22,B7C2200,134409015,NA,32
+81021006#,Myoma of prostate (disorder),822247012#,0,1,1,505011000006115#,Benign myoma of prostate,K20-3,K20..13,134409015,NA,32
+81021006#,Myoma of prostate (disorder),822247012#,0,1,1,134409015#,Myoma of prostate,B7C22,B7C2200,134409015,NA,32
+11441004#,Prostatism,19794011#,0,1,1,19794011#,Prostatism,K20-6,K20..16,19794011,NA,32
+11441004#,Prostatism,19794011#,0,1,1,203421000006110#,Prostatism,1AA,1AA..00,19794011,NA,32
+11441004#,"Prostatism, NOS",19795012#,0,1,1,19794011#,Prostatism,K20-6,K20..16,19794011,NA,32
+11441004#,"Prostatism, NOS",19795012#,0,1,1,203421000006110#,Prostatism,1AA,1AA..00,19794011,NA,32
+11441004#,Prostatism (disorder),658776015#,0,1,1,19794011#,Prostatism,K20-6,K20..16,19794011,NA,32
+11441004#,Prostatism (disorder),658776015#,0,1,1,203421000006110#,Prostatism,1AA,1AA..00,19794011,NA,32
+61059009#,Benign prostatic hyperplasia,189443014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+61059009#,"Benign prostatic hyperplasia, NOS",189445019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+61059009#,Benign prostatic hypertrophy,189449013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155906003#,Prostatic hyper -benign,243063019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155906003#,Benign prostatic hypertrophy,243065014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155906003#,Benign prostatic hyper.,243067018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,(Benign prostate tumor (& [adenoma] or [fibroma] or [myoma]) or prostatism or benign prostatic hypertrophy,304371018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,BPH - Benign prostatic hypertrophy,304373015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,Benign prostatic hypertrophy,304375010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,Benign fibroma of prostate,304376011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,BPH - benign prostatic hypertrophy,304377019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,Benign myoma of prostate,304380018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,(Benign prostate tumour (& [adenoma] or [fibroma] or [myoma]) or prostatism or benign prostatic hypertrophy,304381019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197958000#,Prostatic hyperplasia unspecified,304382014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197961004#,Prostatic hyperplasia NOS,304385011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270536001#,Prostatic hyper -benign,405217016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270536001#,Benign prostatic hypertrophy,405219018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+270536001#,Benign prostatic hyper.,405220012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367483003#,"Benign prostatic hyperplasia, NOS",492346015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,(Benign prostate tumour (& [adenoma] or [fibroma] or [myoma]) or prostatism or benign prostatic hypertrophy,582396010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197958000#,Prostatic hyperplasia unspecified (disorder),582398011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197961004#,Prostatic hyperplasia NOS (disorder),582401014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+197957005#,(Benign prostate tumour (& [adenoma] or [fibroma] or [myoma]) or prostatism or benign prostatic hypertrophy (disorder),2754813010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+444808002#,Benign localized hyperplasia of prostate (disorder),2868985015#,1,0,1,7298191000006111#,Benign localized hyperplasia of prostate,^ESCTBE729819,NA,2872878011,NA,31
+444808002#,Benign localized hyperplasia of prostate (disorder),2868985015#,1,0,1,7298201000006114#,Localized BPH (benign prostatic hyperplasia),^ESCTLO729820,NA,3039275019,NA,31
+444808002#,Benign localized hyperplasia of prostate (disorder),2868985015#,1,0,1,7298211000006112#,Localised BPH (benign prostatic hyperplasia),^ESCTLO729821,NA,3039320011,NA,31
+444808002#,Benign localized hyperplasia of prostate (disorder),2868985015#,1,0,1,7298181000006113#,Benign localised hyperplasia of prostate,^ESCTBE729818,NA,2872877018,NA,31
+444808002#,Benign localised hyperplasia of prostate,2872877018#,1,0,1,7298191000006111#,Benign localized hyperplasia of prostate,^ESCTBE729819,NA,2872878011,NA,31
+444808002#,Benign localised hyperplasia of prostate,2872877018#,1,0,1,7298201000006114#,Localized BPH (benign prostatic hyperplasia),^ESCTLO729820,NA,3039275019,NA,31
+444808002#,Benign localised hyperplasia of prostate,2872877018#,1,0,1,7298211000006112#,Localised BPH (benign prostatic hyperplasia),^ESCTLO729821,NA,3039320011,NA,31
+444808002#,Benign localised hyperplasia of prostate,2872877018#,1,0,1,7298181000006113#,Benign localised hyperplasia of prostate,^ESCTBE729818,NA,2872877018,NA,31
+444808002#,Benign localized hyperplasia of prostate,2872878011#,1,0,1,7298191000006111#,Benign localized hyperplasia of prostate,^ESCTBE729819,NA,2872878011,NA,31
+444808002#,Benign localized hyperplasia of prostate,2872878011#,1,0,1,7298201000006114#,Localized BPH (benign prostatic hyperplasia),^ESCTLO729820,NA,3039275019,NA,31
+444808002#,Benign localized hyperplasia of prostate,2872878011#,1,0,1,7298211000006112#,Localised BPH (benign prostatic hyperplasia),^ESCTLO729821,NA,3039320011,NA,31
+444808002#,Benign localized hyperplasia of prostate,2872878011#,1,0,1,7298181000006113#,Benign localised hyperplasia of prostate,^ESCTBE729818,NA,2872877018,NA,31
+1711000119101#,Nocturia associated with benign prostatic hypertrophy,2967656013#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+1711000119101#,Nocturia due to benign prostatic hypertrophy,3013171017#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+117521000119100#,Weak urinary stream due to benign prostatic hypertrophy (finding),3013211016#,1,0,1,8036871000006114#,Weak urinary stream due to benign prostatic hypertrophy,^ESCTWE803687,NA,3013224016,NA,31
+117521000119100#,Weak urinary stream due to benign prostatic hypertrophy,3013224016#,1,0,1,8036871000006114#,Weak urinary stream due to benign prostatic hypertrophy,^ESCTWE803687,NA,3013224016,NA,31
+1711000119101#,Nocturia due to benign prostatic hypertrophy (finding),3013235014#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31
+117491000119102#,Straining on urination due to benign prostatic hypertrophy (finding),3013335011#,1,0,1,8036841000006118#,Straining on urination due to benign prostatic hypertrophy,^ESCTST803684,NA,3013345013,NA,31
+117491000119102#,Straining on urination due to benign prostatic hypertrophy,3013345013#,1,0,1,8036841000006118#,Straining on urination due to benign prostatic hypertrophy,^ESCTST803684,NA,3013345013,NA,31
+117501000119109#,Urinary hesitancy due to benign prostatic hypertrophy (finding),3013356013#,1,0,1,8036851000006116#,Urinary hesitancy due to benign prostatic hypertrophy,^ESCTUR803685,NA,3013361010,NA,31
+117501000119109#,Urinary hesitancy due to benign prostatic hypertrophy,3013361010#,1,0,1,8036851000006116#,Urinary hesitancy due to benign prostatic hypertrophy,^ESCTUR803685,NA,3013361010,NA,31
+30041000119101#,Lower urinary tract symptoms due to benign prostatic hypertrophy (finding),3013446010#,1,0,1,8014281000006114#,Lower urinary tract symptoms due to benign prostatic hypertrophy,^ESCTLO801428,NA,3013451016,NA,31
+30041000119101#,Lower urinary tract symptoms due to benign prostatic hypertrophy,3013451016#,1,0,1,8014281000006114#,Lower urinary tract symptoms due to benign prostatic hypertrophy,^ESCTLO801428,NA,3013451016,NA,31
+117531000119102#,Urinary frequency due to benign prostatic hypertrophy,3013549018#,1,0,1,8036881000006112#,Urinary frequency due to benign prostatic hypertrophy,^ESCTUR803688,NA,3013549018,NA,31
+117531000119102#,Urinary frequency due to benign prostatic hypertrophy (finding),3013560010#,1,0,1,8036881000006112#,Urinary frequency due to benign prostatic hypertrophy,^ESCTUR803688,NA,3013549018,NA,31
+117551000119108#,Incomplete emptying of bladder due to benign prostatic hypertrophy,3013563012#,1,0,1,8036901000006114#,Urinary retention due to benign prostatic hypertrophy,^ESCTUR803690,NA,3013673015,NA,31
+117551000119108#,Incomplete emptying of bladder due to benign prostatic hypertrophy,3013563012#,1,0,1,8036911000006112#,Incomplete emptying of bladder due to benign prostatic hypertrophy,^ESCTIN803691,NA,3013563012,NA,31
+117551000119108#,Incomplete emptying of bladder due to benign prostatic hypertrophy (finding),3013569011#,1,0,1,8036901000006114#,Urinary retention due to benign prostatic hypertrophy,^ESCTUR803690,NA,3013673015,NA,31
+117551000119108#,Incomplete emptying of bladder due to benign prostatic hypertrophy (finding),3013569011#,1,0,1,8036911000006112#,Incomplete emptying of bladder due to benign prostatic hypertrophy,^ESCTIN803691,NA,3013563012,NA,31
+117511000119107#,Urinary urgency due to benign prostatic hypertrophy,3013590015#,1,0,1,8036861000006119#,Urinary urgency due to benign prostatic hypertrophy,^ESCTUR803686,NA,3013590015,NA,31
+117511000119107#,Urinary urgency due to benign prostatic hypertrophy (finding),3013597017#,1,0,1,8036861000006119#,Urinary urgency due to benign prostatic hypertrophy,^ESCTUR803686,NA,3013590015,NA,31
+117541000119106#,Urinary incontinence due to benign prostatic hypertrophy (finding),3013613010#,1,0,1,8036891000006110#,Urinary incontinence due to benign prostatic hypertrophy,^ESCTUR803689,NA,3013614016,NA,31
+117541000119106#,Urinary incontinence due to benign prostatic hypertrophy,3013614016#,1,0,1,8036891000006110#,Urinary incontinence due to benign prostatic hypertrophy,^ESCTUR803689,NA,3013614016,NA,31
+117551000119108#,Urinary retention due to benign prostatic hypertrophy,3013673015#,1,0,1,8036901000006114#,Urinary retention due to benign prostatic hypertrophy,^ESCTUR803690,NA,3013673015,NA,31
+117551000119108#,Urinary retention due to benign prostatic hypertrophy,3013673015#,1,0,1,8036911000006112#,Incomplete emptying of bladder due to benign prostatic hypertrophy,^ESCTIN803691,NA,3013563012,NA,31
+444808002#,Localized BPH (benign prostatic hyperplasia),3039275019#,1,0,1,7298191000006111#,Benign localized hyperplasia of prostate,^ESCTBE729819,NA,2872878011,NA,31
+444808002#,Localized BPH (benign prostatic hyperplasia),3039275019#,1,0,1,7298201000006114#,Localized BPH (benign prostatic hyperplasia),^ESCTLO729820,NA,3039275019,NA,31
+444808002#,Localized BPH (benign prostatic hyperplasia),3039275019#,1,0,1,7298211000006112#,Localised BPH (benign prostatic hyperplasia),^ESCTLO729821,NA,3039320011,NA,31
+444808002#,Localized BPH (benign prostatic hyperplasia),3039275019#,1,0,1,7298181000006113#,Benign localised hyperplasia of prostate,^ESCTBE729818,NA,2872877018,NA,31
+444808002#,Localised BPH (benign prostatic hyperplasia),3039320011#,1,0,1,7298191000006111#,Benign localized hyperplasia of prostate,^ESCTBE729819,NA,2872878011,NA,31
+444808002#,Localised BPH (benign prostatic hyperplasia),3039320011#,1,0,1,7298201000006114#,Localized BPH (benign prostatic hyperplasia),^ESCTLO729820,NA,3039275019,NA,31
+444808002#,Localised BPH (benign prostatic hyperplasia),3039320011#,1,0,1,7298211000006112#,Localised BPH (benign prostatic hyperplasia),^ESCTLO729821,NA,3039320011,NA,31
+444808002#,Localised BPH (benign prostatic hyperplasia),3039320011#,1,0,1,7298181000006113#,Benign localised hyperplasia of prostate,^ESCTBE729818,NA,2872877018,NA,31
+712818008#,Benign localized prostatic hyperplasia without outflow obstruction,3285631016#,1,0,1,7695881000006112#,Benign localized hyperplasia of prostate without outflow obstruction,^ESCTBE769588,NA,3286764016,NA,31
+712818008#,Benign localized prostatic hyperplasia without outflow obstruction,3285631016#,1,0,1,7695871000006114#,Benign localized prostatic hyperplasia without outflow obstruction,^ESCTBE769587,NA,3285631016,NA,31
+712818008#,Benign localized prostatic hyperplasia without outflow obstruction,3285631016#,1,0,1,7695861000006119#,Benign localised hyperplasia of prostate without outflow obstruction,^ESCTBE769586,NA,3286694017,NA,31
+712818008#,Benign localised hyperplasia of prostate without outflow obstruction,3286694017#,1,0,1,7695881000006112#,Benign localized hyperplasia of prostate without outflow obstruction,^ESCTBE769588,NA,3286764016,NA,31
+712818008#,Benign localised hyperplasia of prostate without outflow obstruction,3286694017#,1,0,1,7695871000006114#,Benign localized prostatic hyperplasia without outflow obstruction,^ESCTBE769587,NA,3285631016,NA,31
+712818008#,Benign localised hyperplasia of prostate without outflow obstruction,3286694017#,1,0,1,7695861000006119#,Benign localised hyperplasia of prostate without outflow obstruction,^ESCTBE769586,NA,3286694017,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction (disorder),3286761012#,1,0,1,7695881000006112#,Benign localized hyperplasia of prostate without outflow obstruction,^ESCTBE769588,NA,3286764016,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction (disorder),3286761012#,1,0,1,7695871000006114#,Benign localized prostatic hyperplasia without outflow obstruction,^ESCTBE769587,NA,3285631016,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction (disorder),3286761012#,1,0,1,7695861000006119#,Benign localised hyperplasia of prostate without outflow obstruction,^ESCTBE769586,NA,3286694017,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction,3286764016#,1,0,1,7695881000006112#,Benign localized hyperplasia of prostate without outflow obstruction,^ESCTBE769588,NA,3286764016,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction,3286764016#,1,0,1,7695871000006114#,Benign localized prostatic hyperplasia without outflow obstruction,^ESCTBE769587,NA,3285631016,NA,31
+712818008#,Benign localized hyperplasia of prostate without outflow obstruction,3286764016#,1,0,1,7695861000006119#,Benign localised hyperplasia of prostate without outflow obstruction,^ESCTBE769586,NA,3286694017,NA,31
+722082000#,Obstructive nephropathy due to benign prostatic hyperplasia (disorder),3330507019#,1,0,1,7827101000006117#,Obstructive nephropathy due to prostatic hypertrophy,^ESCTOB782710,NA,3330502013,NA,31
+722082000#,Obstructive nephropathy due to benign prostatic hyperplasia (disorder),3330507019#,1,0,1,7827111000006119#,Obstructive nephropathy due to benign prostatic hyperplasia,^ESCTOB782711,NA,3330508012,NA,31
+722082000#,Obstructive nephropathy due to benign prostatic hyperplasia,3330508012#,1,0,1,7827101000006117#,Obstructive nephropathy due to prostatic hypertrophy,^ESCTOB782710,NA,3330502013,NA,31
+722082000#,Obstructive nephropathy due to benign prostatic hyperplasia,3330508012#,1,0,1,7827111000006119#,Obstructive nephropathy due to benign prostatic hyperplasia,^ESCTOB782711,NA,3330508012,NA,31
+1711000119101#,Nocturia associated with benign prostatic hypertrophy (finding),13611000119111#,1,0,1,7970051000006113#,Nocturia due to benign prostatic hypertrophy,^ESCTNO797005,NA,3013171017,NA,31

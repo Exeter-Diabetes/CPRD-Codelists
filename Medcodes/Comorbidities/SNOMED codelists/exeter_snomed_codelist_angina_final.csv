@@ -1,0 +1,554 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+161504004#,H/O: angina pectoris,251679016#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,H/O: angina pectoris,251679016#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+161504004#,History of - angina pectoris (context-dependent category),542540015#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,History of - angina pectoris (context-dependent category),542540015#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+161504004#,History of - angina pectoris (situation),2606661011#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,History of - angina pectoris (situation),2606661011#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+161504004#,History of - angina pectoris,2666050012#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,History of - angina pectoris,2666050012#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+161504004#,History of angina pectoris,2986318019#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,History of angina pectoris,2986318019#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+161504004#,History of angina pectoris (situation),2986464011#,1,1,2,4540501000006118#,History of angina pectoris,^ESCTHI454050,NA,2986318019,NA,32
+161504004#,History of angina pectoris (situation),2986464011#,1,1,2,251679016#,H/O: angina pectoris,14A5,14A5.00,251679016,NA,32
+170593007#,Angina control,264492012#,1,1,2,264492012#,Angina control,662K,662K.00,264492012,NA,1
+170593007#,Angina control,264492012#,1,1,2,264497018#,Angina control NOS,662Kz,662Kz00,264492012,NA,1
+170593007#,Angina control (finding),552562012#,1,1,2,264492012#,Angina control,662K,662K.00,264492012,NA,1
+170593007#,Angina control (finding),552562012#,1,1,2,264497018#,Angina control NOS,662Kz,662Kz00,264492012,NA,1
+170594001#,Angina control - good,264493019#,1,1,2,264493019#,Angina control - good,662K0,662K000,264493019,NA,1
+170594001#,Angina control - good (finding),552564013#,1,1,2,264493019#,Angina control - good,662K0,662K000,264493019,NA,1
+170595000#,Angina control - poor,264494013#,1,1,2,264494013#,Angina control - poor,662K1,662K100,264494013,NA,1
+170595000#,Angina control - poor (finding),552565014#,1,1,2,264494013#,Angina control - poor,662K1,662K100,264494013,NA,1
+170596004#,Angina control - improving,264495014#,1,1,2,264495014#,Angina control - improving,662K2,662K200,264495014,NA,1
+170596004#,Angina control - improving (finding),552566010#,1,1,2,264495014#,Angina control - improving,662K2,662K200,264495014,NA,1
+194828000#,Angina,299755016#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Angina,299755016#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Angina,299755016#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Angina,299755016#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Angina,299755016#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Angina,299755016#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Angina,299755016#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Angina,299755016#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Angina,299755016#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Angina,299755016#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Angina,299755016#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Cardiac angina,299756015#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Angina pectoris,299757012#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Stenocardia,299758019#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Anginal syndrome,299759010#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,AP - Angina pectoris,299760017#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Ischemic heart disease - angina,299761018#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Ischaemic heart disease - angina,299762013#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,299758019#,Stenocardia,G33z1,G33z100,299758019,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,299765010#,Angina pectoris NOS,G33zz,G33zz00,299757012,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,300874013#,[X]Other forms of angina pectoris,Gyu30,Gyu3000,299757012,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4775981000006112#,Cardiac angina,^ESCTCA477598,NA,299756015,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4776031000006115#,Ischaemic heart disease - angina,^ESCTIS477603,NA,299762013,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4776011000006114#,AP - Angina pectoris,^ESCTAP477601,NA,299760017,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4776021000006118#,Ischemic heart disease - angina,^ESCTIS477602,NA,299761018,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,299757012#,Angina pectoris,G33,G33..00,299757012,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4775971000006114#,Angina,^ESCTAN477597,NA,299755016,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,4776001000006111#,Anginal syndrome,^ESCTAN477600,NA,299759010,NA,32
+194828000#,Angina (disorder),578858017#,1,1,2,482941000006119#,Angina pectoris NOS,G33z,G33z.00,299757012,NA,32
+59021001#,Angina decubitus,98087016#,1,1,2,299763015#,Angina decubitus NOS,G330z,G330z00,98087016,NA,32
+59021001#,Angina decubitus,98087016#,1,1,2,98087016#,Angina decubitus,G330,G330.00,98087016,NA,32
+59021001#,Angina decubitus,98087016#,1,1,2,3458791000006114#,Anginal chest pain at rest,^ESCTAN345879,NA,98088014,NA,32
+59021001#,Angina decubitus,98087016#,1,1,2,498328016#,Angina at rest,G3112,G311200,498328016,NA,32
+59021001#,Angina decubitus,98087016#,1,1,2,482811000006113#,Angina at rest,G311-4,G311.14,498328016,NA,32
+59021001#,Anginal chest pain at rest,98088014#,1,1,2,299763015#,Angina decubitus NOS,G330z,G330z00,98087016,NA,32
+59021001#,Anginal chest pain at rest,98088014#,1,1,2,98087016#,Angina decubitus,G330,G330.00,98087016,NA,32
+59021001#,Anginal chest pain at rest,98088014#,1,1,2,3458791000006114#,Anginal chest pain at rest,^ESCTAN345879,NA,98088014,NA,32
+59021001#,Anginal chest pain at rest,98088014#,1,1,2,498328016#,Angina at rest,G3112,G311200,498328016,NA,32
+59021001#,Anginal chest pain at rest,98088014#,1,1,2,482811000006113#,Angina at rest,G311-4,G311.14,498328016,NA,32
+59021001#,Angina at rest,498328016#,1,1,2,299763015#,Angina decubitus NOS,G330z,G330z00,98087016,NA,32
+59021001#,Angina at rest,498328016#,1,1,2,98087016#,Angina decubitus,G330,G330.00,98087016,NA,32
+59021001#,Angina at rest,498328016#,1,1,2,3458791000006114#,Anginal chest pain at rest,^ESCTAN345879,NA,98088014,NA,32
+59021001#,Angina at rest,498328016#,1,1,2,498328016#,Angina at rest,G3112,G311200,498328016,NA,32
+59021001#,Angina at rest,498328016#,1,1,2,482811000006113#,Angina at rest,G311-4,G311.14,498328016,NA,32
+59021001#,Angina decubitus (disorder),797818014#,1,1,2,299763015#,Angina decubitus NOS,G330z,G330z00,98087016,NA,32
+59021001#,Angina decubitus (disorder),797818014#,1,1,2,98087016#,Angina decubitus,G330,G330.00,98087016,NA,32
+59021001#,Angina decubitus (disorder),797818014#,1,1,2,3458791000006114#,Anginal chest pain at rest,^ESCTAN345879,NA,98088014,NA,32
+59021001#,Angina decubitus (disorder),797818014#,1,1,2,498328016#,Angina at rest,G3112,G311200,498328016,NA,32
+59021001#,Angina decubitus (disorder),797818014#,1,1,2,482811000006113#,Angina at rest,G311-4,G311.14,498328016,NA,32
+35928006#,Nocturnal angina,59952018#,1,1,2,59952018#,Nocturnal angina,G3300,G330000,59952018,NA,32
+35928006#,Nocturnal angina (disorder),767622011#,1,1,2,59952018#,Nocturnal angina,G3300,G330000,59952018,NA,32
+300995000#,Exercise-induced angina,442203016#,1,1,2,5887611000006117#,Exercise-induced angina,^ESCTEX588761,NA,442203016,NA,32
+300995000#,Exercise-induced angina,442203016#,1,1,2,442204010#,Angina on effort,G33z3,G33z300,442204010,NA,32
+300995000#,Exercise-induced angina,442203016#,1,1,2,5887631000006111#,Exertional angina,^ESCTEX588763,NA,442205011,NA,32
+300995000#,Exercise-induced angina,442203016#,1,1,2,5887641000006118#,Angina of effort,^ESCTAN588764,NA,442206012,NA,32
+300995000#,Angina on effort,442204010#,1,1,2,5887611000006117#,Exercise-induced angina,^ESCTEX588761,NA,442203016,NA,32
+300995000#,Angina on effort,442204010#,1,1,2,442204010#,Angina on effort,G33z3,G33z300,442204010,NA,32
+300995000#,Angina on effort,442204010#,1,1,2,5887631000006111#,Exertional angina,^ESCTEX588763,NA,442205011,NA,32
+300995000#,Angina on effort,442204010#,1,1,2,5887641000006118#,Angina of effort,^ESCTAN588764,NA,442206012,NA,32
+300995000#,Exertional angina,442205011#,1,1,2,5887611000006117#,Exercise-induced angina,^ESCTEX588761,NA,442203016,NA,32
+300995000#,Exertional angina,442205011#,1,1,2,442204010#,Angina on effort,G33z3,G33z300,442204010,NA,32
+300995000#,Exertional angina,442205011#,1,1,2,5887631000006111#,Exertional angina,^ESCTEX588763,NA,442205011,NA,32
+300995000#,Exertional angina,442205011#,1,1,2,5887641000006118#,Angina of effort,^ESCTAN588764,NA,442206012,NA,32
+300995000#,Angina of effort,442206012#,1,1,2,5887611000006117#,Exercise-induced angina,^ESCTEX588761,NA,442203016,NA,32
+300995000#,Angina of effort,442206012#,1,1,2,442204010#,Angina on effort,G33z3,G33z300,442204010,NA,32
+300995000#,Angina of effort,442206012#,1,1,2,5887631000006111#,Exertional angina,^ESCTEX588763,NA,442205011,NA,32
+300995000#,Angina of effort,442206012#,1,1,2,5887641000006118#,Angina of effort,^ESCTAN588764,NA,442206012,NA,32
+300995000#,Exercise-induced angina (disorder),696738010#,1,1,2,5887611000006117#,Exercise-induced angina,^ESCTEX588761,NA,442203016,NA,32
+300995000#,Exercise-induced angina (disorder),696738010#,1,1,2,442204010#,Angina on effort,G33z3,G33z300,442204010,NA,32
+300995000#,Exercise-induced angina (disorder),696738010#,1,1,2,5887631000006111#,Exertional angina,^ESCTEX588763,NA,442205011,NA,32
+300995000#,Exercise-induced angina (disorder),696738010#,1,1,2,5887641000006118#,Angina of effort,^ESCTAN588764,NA,442206012,NA,32
+170597008#,Angina control - worsening,264496010#,1,1,2,264496010#,Angina control - worsening,662K3,662K300,264496010,NA,1
+170597008#,Angina control - worsening (finding),552567018#,1,1,2,264496010#,Angina control - worsening,662K3,662K300,264496010,NA,1
+4557003#,Preinfarction syndrome,7844010#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Preinfarction syndrome,7844010#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Unstable angina,7845011#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Intermediate coronary syndrome,7846012#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Crescendo angina,7847015#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Impending infarction,494260016#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Worsening angina,494261017#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Pre-infarction syndrome,494262012#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Preinfarction syndrome (disorder),782824011#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,494261017#,Worsening angina,G3114,G311400,494261017,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,72571000006115#,Unstable angina,G311-3,G311.13,7845011,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,2571571000006113#,Preinfarction angina,^ESCTPR257157,NA,2819370013,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,2571531000006110#,Intermediate coronary syndrome,^ESCTIN257153,NA,7846012,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,7847015#,Crescendo angina,G311-1,G311.11,7847015,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,7845011#,Unstable angina,G3111,G311100,7845011,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,7844010#,Preinfarction syndrome,G311,G311.00,494262012,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,2571561000006118#,Pre-infarction syndrome,^ESCTPR257156,NA,494262012,NA,32
+4557003#,Preinfarction angina,2819370013#,1,1,2,299741012#,Preinfarction syndrome,G311z,G311z00,7844010,NA,32
+225566008#,Ischemic chest pain,338973018#,1,1,2,4943331000006119#,Ischemic chest pain,^ESCTIS494333,NA,338973018,NA,32
+225566008#,Ischemic chest pain,338973018#,1,1,2,338974012#,Ischaemic chest pain,G33z4,G33z400,338974012,NA,32
+225566008#,Ischaemic chest pain,338974012#,1,1,2,4943331000006119#,Ischemic chest pain,^ESCTIS494333,NA,338973018,NA,32
+225566008#,Ischaemic chest pain,338974012#,1,1,2,338974012#,Ischaemic chest pain,G33z4,G33z400,338974012,NA,32
+225566008#,Ischemic chest pain (finding),612826015#,1,1,2,4943331000006119#,Ischemic chest pain,^ESCTIS494333,NA,338973018,NA,32
+225566008#,Ischemic chest pain (finding),612826015#,1,1,2,338974012#,Ischaemic chest pain,G33z4,G33z400,338974012,NA,32
+308066006#,H/O: Angina in last year,451370011#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,H/O: Angina in last year,451370011#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of - Angina in last year (context-dependent category),704572015#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of - Angina in last year (context-dependent category),704572015#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of - angina in last year (context-dependent category),2572027018#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of - angina in last year (context-dependent category),2572027018#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of - angina in last year (situation),2611217016#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of - angina in last year (situation),2611217016#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of - angina in last year,2670367017#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of - angina in last year,2670367017#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of angina in last year (situation),2986653018#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of angina in last year (situation),2986653018#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308066006#,History of angina in last year,2986990019#,1,1,2,451370011#,H/O: Angina in last year,14AJ,14AJ.00,451370011,NA,32
+308066006#,History of angina in last year,2986990019#,1,1,2,5974501000006114#,History of angina in last year,^ESCTHI597450,NA,2986990019,NA,32
+308117007#,Antianginal therapy,451425016#,1,1,2,451425016#,Antianginal therapy,8B27,8B27.00,451425016,NA,32
+308117007#,Antianginal therapy (procedure),704629018#,1,1,2,451425016#,Antianginal therapy,8B27,8B27.00,451425016,NA,32
+21470009#,Syncope anginosa,36036010#,1,1,2,36036010#,Syncope anginosa,G33z2,G33z200,36036010,NA,32
+21470009#,Syncope anginosa (disorder),750768019#,1,1,2,36036010#,Syncope anginosa,G33z2,G33z200,36036010,NA,32
+314116003#,Post infarct angina,458410010#,1,1,2,458410010#,Post infarct angina,G33z5,G33z500,458410010,NA,32
+314116003#,Post infarct angina (disorder),710887017#,1,1,2,458410010#,Post infarct angina,G33z5,G33z500,458410010,NA,32
+233821000#,New onset angina,350350014#,1,1,2,350350014#,New onset angina,G33z6,G33z600,350350014,NA,32
+233821000#,New onset angina (disorder),622059017#,1,1,2,350350014#,New onset angina,G33z6,G33z600,350350014,NA,32
+233819005#,Stable angina,350348018#,1,1,2,350348018#,Stable angina,G33z7,G33z700,350348018,NA,32
+233819005#,Stable angina (disorder),622056012#,1,1,2,350348018#,Stable angina,G33z7,G33z700,350348018,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischemia (disorder),2531172018#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischemia,2534673014#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic myocardial ischaemia,2534674015#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,2534674015#,Chronic myocardial ischaemia,G34y1,G34y100,2534674015,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,6847871000006116#,Chronic myocardial ischemia,^ESCTCH684787,NA,2534673014,NA,32
+413844008#,Chronic coronary insufficiency,2537483013#,1,1,2,2537483013#,Chronic coronary insufficiency,G34y0,G34y000,2537483013,NA,32
+315025001#,Refractory angina,459487012#,1,1,2,459487012#,Refractory angina,G3113,G311300,459487012,NA,32
+315025001#,Refractory angina (disorder),711874018#,1,1,2,459487012#,Refractory angina,G3113,G311300,459487012,NA,32
+19057007#,Status anginosus,32122016#,1,1,2,32122016#,Status anginosus,G33z0,G33z000,32122016,NA,32
+19057007#,Status anginosus (disorder),746783011#,1,1,2,32122016#,Status anginosus,G33z0,G33z000,32122016,NA,32
+194814006#,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction),299727015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Angina at rest,299728013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Pre-infarction syndrome,299729017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Unstable angina,299730010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Crescendo angina,299731014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Preinfarction syndrome,299732019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,Impending infarction,299733012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction),578842015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+194814006#,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction) (disorder),2763593010#,1,1,2,NA#,NA,NA,NA,NA,NA,NA
+87343002#,Prinzmetal angina,144818014#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Prinzmetal angina,144818014#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Prinzmetal angina,144818014#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Prinzmetal angina,144818014#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Prinzmetal angina,144818014#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Prinzmetal angina,144818014#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Variant angina pectoris,144819018#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Prinzmental angina,144820012#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Prinzmetal angina (disorder),829797011#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Variant angina,1235223015#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Coronary artery spasm angina,1235224014#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,3920021000006112#,Coronary artery spasm angina,^ESCTCO392002,NA,1235224014,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,3919991000006112#,Prinzmetal angina,^ESCTPR391999,NA,144818014,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,3920001000006119#,Variant angina pectoris,^ESCTVA392000,NA,144819018,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,3920011000006116#,Variant angina,^ESCTVA392001,NA,1235223015,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,1235225010#,Prinzmetal's angina,G331,G331.00,1235225010,NA,32
+87343002#,Prinzmetal's angina,1235225010#,1,1,2,144819018#,Variant angina pectoris,G331-1,G331.11,1235225010,NA,32
+194823009#,Acute coronary insufficiency,299745015#,1,1,2,299745015#,Acute coronary insufficiency,G31y0,G31y000,299745015,NA,32
+194823009#,Acute coronary insufficiency,299745015#,1,1,2,931961000006117#,Acute coronary syndrome,G31y0-99,G31y099,931961000000000,NA,32
+194823009#,Acute coronary insufficiency (disorder),578853014#,1,1,2,299745015#,Acute coronary insufficiency,G31y0,G31y000,299745015,NA,32
+194823009#,Acute coronary insufficiency (disorder),578853014#,1,1,2,931961000006117#,Acute coronary syndrome,G31y0-99,G31y099,931961000000000,NA,32
+704207005#,Frequency of angina,3010438013#,1,1,2,1752201000000116#,Frequency of angina,187,187..00,3010438013,NA,27
+704207005#,Frequency of angina (observable entity),3010803015#,1,1,2,1752201000000116#,Frequency of angina,187,187..00,3010438013,NA,27
+17828002#,Angina pectoris,30117014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,"Angina pectoris, NOS",30118016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,"Angina, NOS",30119012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Cardiac angina,30120018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Angina of effort,30121019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Anginal syndrome,30122014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Stenocardia,30123016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Angina,30124010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+61490001#,"Angina, class I",102153019#,1,0,1,3499001000006116#,"Angina, class I",^ESCTAN349900,NA,102153019,NA,31
+64333001#,Preinfarction angina,106937016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+72050006#,Agranulocytic angina,119724015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85284003#,"Angina, class III",141382014#,1,0,1,3886751000006118#,"Angina, class III",^ESCTAN388675,NA,141382014,NA,31
+89323001#,"Angina, class IV",148118017#,1,0,1,3951991000006119#,"Angina, class IV",^ESCTAN395199,NA,148118017,NA,31
+147844002#,Angina control,231584012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151155002#,Antianginal therapy,235761012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155307004#,Angina,241799012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155308009#,Unstable angina,241800011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155309001#,Refractory angina,241801010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155310006#,Post infarct angina,241802015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155311005#,New onset angina,241803013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155312003#,Stable angina,241804019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155313008#,Angina at rest,241805018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155314002#,Worsening angina,241806017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161517001#,H/O: Angina in last year,251703013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170598003#,Angina control NOS,264497018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182824004#,Antianginal therapy,282635014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194816008#,Unstable angina,299737013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194817004#,Angina at rest,299738015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194818009#,Refractory angina,299739011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194819001#,Worsening angina,299740013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194820007#,Preinfarction syndrome NOS,299741012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194829008#,Angina decubitus NOS,299763015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194830003#,Angina pectoris NOS,299765010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194831004#,Status anginosus,299766011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194832006#,Stenocardia,299767019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194833001#,Syncope anginosa,299768012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194834007#,Exercise-induced angina,299769016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194835008#,Ischaemic chest pain,299771016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194836009#,Post infarct angina,299772011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194837000#,New onset angina,299773018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194838005#,Stable angina,299774012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194839002#,Angina pectoris NOS,299775013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195541002#,[X]Other forms of angina pectoris,300874013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233818002#,Angina at rest,350347011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233820004#,Unstable angina,350349014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+23687008#,Angina pectoris with documented spasm,481684018#,1,0,1,39773018#,Coronary artery spasm,G332,G332.00,39773018,NA,32
+23687008#,Angina pectoris with documented spasm,481684018#,1,0,1,2878031000006112#,Angina pectoris with documented spasm,^ESCTAN287803,NA,481684018,NA,32
+23687008#,Angina pectoris with documented spasm,481684018#,1,0,1,2878041000006119#,Coronary spasm,^ESCTCO287804,NA,481685017,NA,32
+367416001#,Angina pectoris,491923010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367416001#,"Angina pectoris, NOS",491924016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367416001#,"Angina, NOS",491925015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147844002#,Angina control,527339016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151155002#,Antianginal therapy,531014019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155307004#,Angina,535622017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155308009#,Unstable angina,535624016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155309001#,Refractory angina,535625015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155310006#,Post infarct angina,535626019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155311005#,New onset angina,535627011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155312003#,Stable angina,535628018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155313008#,Angina at rest,535629014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155314002#,Worsening angina,535630016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161517001#,H/O: Angina in last year,542554011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+170598003#,Angina control NOS (finding),552568011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182824004#,Antianginal therapy,566237013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194816008#,Unstable angina,578845018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194817004#,Angina at rest,578846017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194818009#,Refractory angina,578847014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194819001#,Worsening angina,578849012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194820007#,Preinfarction syndrome NOS (disorder),578850012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194829008#,Angina decubitus NOS (disorder),578859013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194830003#,Angina pectoris NOS (disorder),578861016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194831004#,Status anginosus [dup] (disorder),578862011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194832006#,Stenocardia (disorder),578863018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194833001#,Syncope anginosa [dup] (disorder),578864012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194834007#,Exercise-induced angina,578865013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194835008#,Ischaemic chest pain,578866014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194836009#,Post infarct angina,578867017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194837000#,New onset angina,578868010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194838005#,Stable angina,578869019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194839002#,Angina pectoris NOS,578870018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+195541002#,[X]Other forms of angina pectoris (disorder),579654012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233818002#,Angina at rest,622055011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233820004#,Unstable angina,622057015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Angina pectoris (disorder) [Ambiguous],745176017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+367416001#,Angina pectoris (disorder),775478019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+41334000#,"Angina, class II (disorder)",778111012#,1,0,1,3166141000006114#,"Angina, class II",^ESCTAN316614,NA,68946011,NA,31
+64333001#,Preinfarction angina (disorder),803715015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+85284003#,"Angina, class III (disorder)",827305018#,1,0,1,3886751000006118#,"Angina, class III",^ESCTAN388675,NA,141382014,NA,31
+89323001#,"Angina, class IV (disorder)",832193012#,1,0,1,3951991000006119#,"Angina, class IV",^ESCTAN395199,NA,148118017,NA,31
+371806006#,Progressive Angina (disorder),1197101012#,1,0,1,6360381000006116#,Progressive Angina,^ESCTPR636038,NA,1210401014,NA,31
+371806006#,Progressive Angina (disorder),1197101012#,1,0,1,12276271000006112#,Progressive angina,^ESCT1227627,NA,3673888019,NA,31
+371807002#,Atypical angina (disorder),1197102017#,1,0,1,6360391000006118#,Atypical angina,^ESCTAT636039,NA,1210402019,NA,31
+371808007#,Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder),1197103010#,1,0,1,6360411000006118#,Recurrent angina status post percutaneous transluminal coronary angioplasty,^ESCTRE636041,NA,1210403012,NA,31
+371808007#,Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder),1197103010#,1,0,1,6360401000006116#,Recurrent angina after percutaneous transluminal coronary angioplasty,^ESCTRE636040,NA,2470265017,NA,31
+371809004#,Recurrent angina status post coronary stent placement (disorder),1197104016#,1,0,1,6360431000006112#,Recurrent angina status post coronary stent placement,^ESCTRE636043,NA,1210404018,NA,31
+371809004#,Recurrent angina status post coronary stent placement (disorder),1197104016#,1,0,1,6360421000006114#,Recurrent angina after coronary stent placement,^ESCTRE636042,NA,2470266016,NA,31
+371810009#,Recurrent angina status post coronary artery bypass graft (disorder),1197105015#,1,0,1,6360441000006119#,Recurrent angina after coronary artery bypass graft,^ESCTRE636044,NA,2470267013,NA,31
+371810009#,Recurrent angina status post coronary artery bypass graft (disorder),1197105015#,1,0,1,6360451000006117#,Recurrent angina status post coronary artery bypass graft,^ESCTRE636045,NA,1210405017,NA,31
+371811008#,Recurrent angina status post rotational atherectomy (disorder),1197106019#,1,0,1,6360471000006110#,Recurrent angina status post rotational atherectomy,^ESCTRE636047,NA,1210406016,NA,31
+371811008#,Recurrent angina status post rotational atherectomy (disorder),1197106019#,1,0,1,6360461000006115#,Recurrent angina post rotational atherectomy,^ESCTRE636046,NA,2470268015,NA,31
+371812001#,Recurrent angina status post directional coronary atherectomy (disorder),1197107011#,1,0,1,6360481000006113#,Recurrent angina after directional coronary atherectomy,^ESCTRE636048,NA,2470269011,NA,31
+371812001#,Recurrent angina status post directional coronary atherectomy (disorder),1197107011#,1,0,1,6360491000006111#,Recurrent angina status post directional coronary atherectomy,^ESCTRE636049,NA,1210407013,NA,31
+371806006#,Progressive Angina,1210401014#,1,0,1,6360381000006116#,Progressive Angina,^ESCTPR636038,NA,1210401014,NA,31
+371806006#,Progressive Angina,1210401014#,1,0,1,12276271000006112#,Progressive angina,^ESCT1227627,NA,3673888019,NA,31
+371807002#,Atypical angina,1210402019#,1,0,1,6360391000006118#,Atypical angina,^ESCTAT636039,NA,1210402019,NA,31
+371808007#,Recurrent angina status post percutaneous transluminal coronary angioplasty,1210403012#,1,0,1,6360411000006118#,Recurrent angina status post percutaneous transluminal coronary angioplasty,^ESCTRE636041,NA,1210403012,NA,31
+371808007#,Recurrent angina status post percutaneous transluminal coronary angioplasty,1210403012#,1,0,1,6360401000006116#,Recurrent angina after percutaneous transluminal coronary angioplasty,^ESCTRE636040,NA,2470265017,NA,31
+371809004#,Recurrent angina status post coronary stent placement,1210404018#,1,0,1,6360431000006112#,Recurrent angina status post coronary stent placement,^ESCTRE636043,NA,1210404018,NA,31
+371809004#,Recurrent angina status post coronary stent placement,1210404018#,1,0,1,6360421000006114#,Recurrent angina after coronary stent placement,^ESCTRE636042,NA,2470266016,NA,31
+371810009#,Recurrent angina status post coronary artery bypass graft,1210405017#,1,0,1,6360441000006119#,Recurrent angina after coronary artery bypass graft,^ESCTRE636044,NA,2470267013,NA,31
+371810009#,Recurrent angina status post coronary artery bypass graft,1210405017#,1,0,1,6360451000006117#,Recurrent angina status post coronary artery bypass graft,^ESCTRE636045,NA,1210405017,NA,31
+371811008#,Recurrent angina status post rotational atherectomy,1210406016#,1,0,1,6360471000006110#,Recurrent angina status post rotational atherectomy,^ESCTRE636047,NA,1210406016,NA,31
+371811008#,Recurrent angina status post rotational atherectomy,1210406016#,1,0,1,6360461000006115#,Recurrent angina post rotational atherectomy,^ESCTRE636046,NA,2470268015,NA,31
+371812001#,Recurrent angina status post directional coronary atherectomy,1210407013#,1,0,1,6360481000006113#,Recurrent angina after directional coronary atherectomy,^ESCTRE636048,NA,2470269011,NA,31
+371812001#,Recurrent angina status post directional coronary atherectomy,1210407013#,1,0,1,6360491000006111#,Recurrent angina status post directional coronary atherectomy,^ESCTRE636049,NA,1210407013,NA,31
+371808007#,Recurrent angina after percutaneous transluminal coronary angioplasty,2470265017#,1,0,1,6360411000006118#,Recurrent angina status post percutaneous transluminal coronary angioplasty,^ESCTRE636041,NA,1210403012,NA,31
+371808007#,Recurrent angina after percutaneous transluminal coronary angioplasty,2470265017#,1,0,1,6360401000006116#,Recurrent angina after percutaneous transluminal coronary angioplasty,^ESCTRE636040,NA,2470265017,NA,31
+371809004#,Recurrent angina after coronary stent placement,2470266016#,1,0,1,6360431000006112#,Recurrent angina status post coronary stent placement,^ESCTRE636043,NA,1210404018,NA,31
+371809004#,Recurrent angina after coronary stent placement,2470266016#,1,0,1,6360421000006114#,Recurrent angina after coronary stent placement,^ESCTRE636042,NA,2470266016,NA,31
+371810009#,Recurrent angina after coronary artery bypass graft,2470267013#,1,0,1,6360441000006119#,Recurrent angina after coronary artery bypass graft,^ESCTRE636044,NA,2470267013,NA,31
+371810009#,Recurrent angina after coronary artery bypass graft,2470267013#,1,0,1,6360451000006117#,Recurrent angina status post coronary artery bypass graft,^ESCTRE636045,NA,1210405017,NA,31
+371811008#,Recurrent angina post rotational atherectomy,2470268015#,1,0,1,6360471000006110#,Recurrent angina status post rotational atherectomy,^ESCTRE636047,NA,1210406016,NA,31
+371811008#,Recurrent angina post rotational atherectomy,2470268015#,1,0,1,6360461000006115#,Recurrent angina post rotational atherectomy,^ESCTRE636046,NA,2470268015,NA,31
+371812001#,Recurrent angina after directional coronary atherectomy,2470269011#,1,0,1,6360481000006113#,Recurrent angina after directional coronary atherectomy,^ESCTRE636048,NA,2470269011,NA,31
+371812001#,Recurrent angina after directional coronary atherectomy,2470269011#,1,0,1,6360491000006111#,Recurrent angina status post directional coronary atherectomy,^ESCTRE636049,NA,1210407013,NA,31
+429559004#,Typical angina (disorder),2691623013#,1,0,1,7105241000006116#,Typical angina,^ESCTTY710524,NA,2692821011,NA,31
+429559004#,Typical angina,2692821011#,1,0,1,7105241000006116#,Typical angina,^ESCTTY710524,NA,2692821011,NA,31
+194834007#,Exercise-induced angina (disorder),2720091019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+151155002#,Antianginal therapy (procedure),2720730013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155314002#,Worsening angina (disorder),2721249016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155308009#,Unstable angina (disorder),2721251017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194817004#,Angina at rest (disorder),2721405016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+182824004#,Antianginal therapy (procedure),2722167016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194819001#,Worsening angina (disorder),2723071013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194839002#,Angina pectoris NOS (disorder),2723072018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+147844002#,Angina control (procedure),2724268019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194835008#,Ischaemic chest pain (disorder),2726071017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194838005#,Stable angina (disorder),2726072012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194836009#,Post infarct angina (disorder),2727614010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138786001#,H/O: Angina in last year (situation),2732002018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155312003#,Stable angina (disorder),2739160012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155309001#,Refractory angina (disorder),2739161011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155310006#,Post infarct angina (disorder),2739162016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155307004#,Angina (disorder),2739504014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155313008#,Angina at rest (disorder),2739505010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161517001#,H/O: Angina in last year (situation),2739833019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+155311005#,New onset angina (disorder),2740369014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194831004#,Status anginosus (disorder),2741357010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194833001#,Syncope anginosa (disorder),2741358017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+17828002#,Angina pectoris (disorder),2741916014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233818002#,Angina at rest (disorder),2744142012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233820004#,Unstable angina (disorder),2748198019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138776002#,H/O: angina pectoris (situation),2752520013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194818009#,Refractory angina (disorder),2756235010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194837000#,New onset angina (disorder),2757000012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+194816008#,Unstable angina (disorder),2760514016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+791000119109#,Angina associated with type II diabetes mellitus,2967590010#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Angina associated with type II diabetes mellitus,2967590010#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Angina associated with type II diabetes mellitus,2967590010#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
+791000119109#,Diabetic angina pectoris associated with type 2 diabetes mellitus,2967662015#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Diabetic angina pectoris associated with type 2 diabetes mellitus,2967662015#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Diabetic angina pectoris associated with type 2 diabetes mellitus,2967662015#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
+791000119109#,Angina associated with type 2 diabetes mellitus,2967773018#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Angina associated with type 2 diabetes mellitus,2967773018#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Angina associated with type 2 diabetes mellitus,2967773018#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
+15960061000119102#,Unstable angina co-occurrent and due to coronary arteriosclerosis (disorder),3323415013#,1,0,1,9868461000006110#,Unstable angina co-occurrent and due to coronary arteriosclerosis,^ESCTUN986846,NA,3323416014,NA,31
+15960061000119102#,Unstable angina co-occurrent and due to coronary arteriosclerosis,3323416014#,1,0,1,9868461000006110#,Unstable angina co-occurrent and due to coronary arteriosclerosis,^ESCTUN986846,NA,3323416014,NA,31
+15960141000119102#,Angina co-occurrent and due to coronary arteriosclerosis (disorder),3323421012#,1,0,1,9868481000006117#,Angina co-occurrent and due to coronary arteriosclerosis,^ESCTAN986848,NA,3323422017,NA,31
+15960141000119102#,Angina co-occurrent and due to coronary arteriosclerosis,3323422017#,1,0,1,9868481000006117#,Angina co-occurrent and due to coronary arteriosclerosis,^ESCTAN986848,NA,3323422017,NA,31
+15960381000119109#,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder),3323423010#,1,0,1,9868511000006113#,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,^ESCTAN986851,NA,3323424016,NA,31
+15960381000119109#,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,3323424016#,1,0,1,9868511000006113#,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,^ESCTAN986851,NA,3323424016,NA,31
+736059007#,Angina self management plan,3516223013#,1,0,1,3516223013#,Angina self management plan,^ESCT1166277,NA,3516223013,NA,31
+15960581000119102#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,3645094018#,1,0,1,12125951000006116#,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,^ESCT1212595,NA,3645095017,NA,31
+15960581000119102#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,3645094018#,1,0,1,12125961000006119#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,^ESCT1212596,NA,3645094018,NA,31
+15960581000119102#,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,3645095017#,1,0,1,12125951000006116#,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,^ESCT1212595,NA,3645095017,NA,31
+15960581000119102#,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,3645095017#,1,0,1,12125961000006119#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,^ESCT1212596,NA,3645094018,NA,31
+15960581000119102#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),3645096016#,1,0,1,12125951000006116#,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,^ESCT1212595,NA,3645095017,NA,31
+15960581000119102#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),3645096016#,1,0,1,12125961000006119#,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,^ESCT1212596,NA,3645094018,NA,31
+15960661000119107#,Arteriosclerosis of coronary artery bypass graft with unstable angina,3645127016#,1,0,1,12125971000006114#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,^ESCT1212597,NA,3645129018,NA,31
+15960661000119107#,Arteriosclerosis of coronary artery bypass graft with unstable angina,3645127016#,1,0,1,12125981000006112#,Arteriosclerosis of coronary artery bypass graft with unstable angina,^ESCT1212598,NA,3645127016,NA,31
+15960661000119107#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder),3645128014#,1,0,1,12125971000006114#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,^ESCT1212597,NA,3645129018,NA,31
+15960661000119107#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder),3645128014#,1,0,1,12125981000006112#,Arteriosclerosis of coronary artery bypass graft with unstable angina,^ESCT1212598,NA,3645127016,NA,31
+15960661000119107#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,3645129018#,1,0,1,12125971000006114#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,^ESCT1212597,NA,3645129018,NA,31
+15960661000119107#,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,3645129018#,1,0,1,12125981000006112#,Arteriosclerosis of coronary artery bypass graft with unstable angina,^ESCT1212598,NA,3645127016,NA,31
+371806006#,Progressive angina (disorder),3673887012#,1,0,1,6360381000006116#,Progressive Angina,^ESCTPR636038,NA,1210401014,NA,31
+371806006#,Progressive angina (disorder),3673887012#,1,0,1,12276271000006112#,Progressive angina,^ESCT1227627,NA,3673888019,NA,31
+371806006#,Progressive angina,3673888019#,1,0,1,6360381000006116#,Progressive Angina,^ESCTPR636038,NA,1210401014,NA,31
+371806006#,Progressive angina,3673888019#,1,0,1,12276271000006112#,Progressive angina,^ESCT1227627,NA,3673888019,NA,31
+16754391000119100#,Stable angina due to coronary arteriosclerosis (disorder),3756805011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16754391000119100#,Coronary arteriosclerosis with stable angina,3756806012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+16754391000119100#,Stable angina due to coronary arteriosclerosis,3756807015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+233845001#,Microvascular angina,3775839016#,1,0,1,350379019#,Cardiac syndrome X,G37,G37..00,350379019,NA,32
+233845001#,Microvascular angina,3775839016#,1,0,1,5056491000006117#,Chest pain with normal coronary angiography,^ESCTCH505649,NA,350380016,NA,32
+15960541000119107#,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft,3779541018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+15960541000119107#,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),3779542013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+791000119109#,Angina due to type 2 diabetes mellitus,3800478017#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Angina due to type 2 diabetes mellitus,3800478017#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Angina due to type 2 diabetes mellitus,3800478017#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
+791000119109#,Angina due to type 2 diabetes mellitus (disorder),3800479013#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Angina due to type 2 diabetes mellitus (disorder),3800479013#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Angina due to type 2 diabetes mellitus (disorder),3800479013#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
+791000119109#,Angina associated with type II diabetes mellitus (disorder),6251000119117#,1,0,1,7966951000006119#,Diabetic angina pectoris associated with type 2 diabetes mellitus,^ESCTDI796695,NA,2967662015,NA,32
+791000119109#,Angina associated with type II diabetes mellitus (disorder),6251000119117#,1,0,1,7966931000006114#,Angina associated with type 2 diabetes mellitus,^ESCTAN796693,NA,2967773018,NA,32
+791000119109#,Angina associated with type II diabetes mellitus (disorder),6251000119117#,1,0,1,7966941000006116#,Angina associated with type II diabetes mellitus,^ESCTAN796694,NA,2967590010,NA,32
