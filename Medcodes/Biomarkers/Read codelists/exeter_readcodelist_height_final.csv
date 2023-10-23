@@ -1,0 +1,23 @@
+readcode,term_readcode,coding_system,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+229..#,O/E - height,read2,253669010#,Standing height,229,229..00,248333004,370729019,NA,2,229..00#
+2291.#,O/E - height greater than 20% below average,read2,271181000006113#,O/E-height > 20% below average,2291,2291.00,162756007,253670011,NA,2,2291.00#
+2292.#,O/E - height 10-20% below average,read2,284561000006119#,O/E - height 10-20% < average,2292,2292.00,162757003,253671010,NA,2,2292.00#
+2293.#,O/E -height within 10% average,read2,253672015#,O/E -height within 10% average,2293,2293.00,162758008,253672015,NA,2,2293.00#
+2294.#,O/E-height 10-20% over average,read2,253673013#,O/E-height 10-20% over average,2294,2294.00,162759000,253673013,NA,2,2294.00#
+2295.#,O/E - height greater than 20% over average,read2,272151000006114#,O/E -height > 20% over average,2295,2295.00,162760005,253674019,NA,2,2295.00#
+2296.#,O/E - loss of height,read2,253675018#,O/E - loss of height,2296,2296.00,162761009,253675018,NA,2,2296.00#
+229Z.#,O/E - height NOS,read2,253676017#,O/E - height NOS,229Z,229Z.00,248333004,370729019,NA,2,229Z.00#
+Ua14m#,Tall for age,read3,NA#,NA,NA,NA,NA,NA,NA,NA,Ua14m#
+Ua17e#,Height increased,read3,NA#,NA,NA,NA,NA,NA,NA,NA,Ua17e#
+X40Op#,Constitutional tall stature,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X40Op#
+X76Bl#,General appraisal of height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bl#
+X76Bm#,Tall stature,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bm#
+X76Bo#,Has grown shorter,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bo#
+X76Bq#,Has grown in height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bq#
+X76Bs#,Body height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bs#
+X76Bt#,Standing height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76Bt#
+Xa0MN#,Short stature,read3,NA#,NA,NA,NA,NA,NA,NA,NA,Xa0MN#
+XaBte#,Normal height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XaBte#
+XM01F#,Decrease in height,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XM01F#
+XM07b#,Height static,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XM07b#
+C1303#,Constitutional tall stature,read3,356419015#,Constitutional tall stature,C1303,C130300,237835004,356419015,NA,32,C130300#

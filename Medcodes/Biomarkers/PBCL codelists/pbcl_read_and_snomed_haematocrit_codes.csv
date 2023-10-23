@@ -1,0 +1,7 @@
+"V2_READ_CODE","V2_TERM","V3_READ_CODE","V3_TERM","SNOMED_CONCEPTID","SNOMED_TERM","KEY"
+"425..#","Haematocrit - PCV","XE2Zq#","Haematocrit - PCV level","1022291000000105#","Haematocrit",""
+"425..#","Haematocrit - PCV","XE2Zq#","Haematocrit - PCV level","28317006#","Haematocrit determination",""
+"425..#","Haematocrit - PCV","XE2Zq#","Haematocrit - PCV level","250231008#","Packed cell volume measurement",""
+"4258.#","Haematocrit","X76tb#","Haematocrit","1022291000000105#","Haematocrit","Hct"
+"4258.#","Haematocrit","X76tb#","Haematocrit","28317006#","Haematocrit determination","Hct"
+"4258.#","Haematocrit","X76tb#","Haematocrit","250231008#","Packed cell volume measurement","Hct"

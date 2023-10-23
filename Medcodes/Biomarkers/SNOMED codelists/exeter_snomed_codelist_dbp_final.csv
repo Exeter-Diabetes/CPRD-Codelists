@@ -1,0 +1,201 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,cam,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+314460009#,Average night interval diastolic blood pressure,458823013#,1,1,1,3,458823013#,Average night interval diastolic blood pressure,246a,246a.00,458823013,NA,2
+314460009#,Average night interval diastolic blood pressure (observable entity),711267017#,1,1,1,3,458823013#,Average night interval diastolic blood pressure,246a,246a.00,458823013,NA,2
+163031004#,O/E - Diastolic BP reading,254076013#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,O/E - Diastolic BP reading,254076013#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,O/E - Diastolic BP reading,254076013#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+163031004#,On examination - Diastolic BP reading (context-dependent category),544204015#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,On examination - Diastolic BP reading (context-dependent category),544204015#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,On examination - Diastolic BP reading (context-dependent category),544204015#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+163031004#,On examination - Diastolic BP reading (finding),2561374018#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,On examination - Diastolic BP reading (finding),2561374018#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,On examination - Diastolic BP reading (finding),2561374018#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+163031004#,On examination - Diastolic blood pressure reading (finding),2659133014#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,On examination - Diastolic blood pressure reading (finding),2659133014#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,On examination - Diastolic blood pressure reading (finding),2659133014#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+163031004#,On examination - Diastolic blood pressure reading,2667439010#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,On examination - Diastolic blood pressure reading,2667439010#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,On examination - Diastolic blood pressure reading,2667439010#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+163031004#,On examination - Diastolic BP reading,2667440012#,1,1,1,3,4556621000006110#,On examination - Diastolic blood pressure reading,^ESCTON455662,NA,2667439010,NA,31
+163031004#,On examination - Diastolic BP reading,2667440012#,1,1,1,3,11924381000006114#,O/E - Diastolic BP reading,^ESCT1192438,NA,254076013,NA,27
+163031004#,On examination - Diastolic BP reading,2667440012#,1,1,1,3,4556631000006113#,On examination - Diastolic BP reading,^ESCTON455663,NA,2667440012,NA,31
+413605002#,Average home diastolic blood pressure (observable entity),2530200013#,1,1,1,3,2533636015#,Average home diastolic blood pressure,246c,246c.00,2533636015,NA,2
+413605002#,Average home diastolic blood pressure,2533636015#,1,1,1,3,2533636015#,Average home diastolic blood pressure,246c,246c.00,2533636015,NA,2
+400975005#,Standing diastolic blood pressure (observable entity),1768896011#,1,1,1,3,1780183016#,Standing diastolic blood pressure,246P,246P.00,1780183016,NA,2
+400975005#,Standing diastolic blood pressure,1780183016#,1,1,1,3,1780183016#,Standing diastolic blood pressure,246P,246P.00,1780183016,NA,2
+407555005#,Sitting diastolic blood pressure (observable entity),2151386013#,1,1,1,3,2159156012#,Sitting diastolic blood pressure,246R,246R.00,2159156012,NA,2
+407555005#,Sitting diastolic blood pressure,2159156012#,1,1,1,3,2159156012#,Sitting diastolic blood pressure,246R,246R.00,2159156012,NA,2
+407557002#,Lying diastolic blood pressure (observable entity),2151388014#,1,1,1,3,2159158013#,Lying diastolic blood pressure,246T,246T.00,2159158013,NA,2
+407557002#,Lying diastolic blood pressure,2159158013#,1,1,1,3,2159158013#,Lying diastolic blood pressure,246T,246T.00,2159158013,NA,2
+314462001#,Average 24 hour diastolic blood pressure,458825018#,1,1,1,3,458825018#,Average 24 hour diastolic blood pressure,246V,246V.00,458825018,NA,2
+314462001#,Average 24 hour diastolic blood pressure (observable entity),711269019#,1,1,1,3,458825018#,Average 24 hour diastolic blood pressure,246V,246V.00,458825018,NA,2
+314461008#,Average day interval diastolic blood pressure,458824019#,1,1,1,3,458824019#,Average day interval diastolic blood pressure,246X,246X.00,458824019,NA,2
+314461008#,Average day interval diastolic blood pressure (observable entity),711268010#,1,1,1,3,458824019#,Average day interval diastolic blood pressure,246X,246X.00,458824019,NA,2
+271650006#,Diastolic blood pressure,406508013#,1,1,1,3,5527231000006116#,DBP - Diastolic blood pressure,^ESCTDB552723,NA,1225213015,NA,2
+271650006#,Diastolic blood pressure,406508013#,1,1,1,3,5527221000006119#,DAP - Diastolic arterial pressure,^ESCTDA552722,NA,1225212013,NA,2
+271650006#,Diastolic blood pressure,406508013#,1,1,1,3,5527241000006114#,Diastolic arterial pressure,^ESCTDI552724,NA,2620223019,NA,2
+271650006#,Diastolic blood pressure,406508013#,1,1,1,3,5527211000006110#,Diastolic blood pressure,^ESCTDI552721,NA,406508013,NA,2
+271650006#,Diastolic blood pressure (observable entity),664068015#,1,1,1,3,5527231000006116#,DBP - Diastolic blood pressure,^ESCTDB552723,NA,1225213015,NA,2
+271650006#,Diastolic blood pressure (observable entity),664068015#,1,1,1,3,5527221000006119#,DAP - Diastolic arterial pressure,^ESCTDA552722,NA,1225212013,NA,2
+271650006#,Diastolic blood pressure (observable entity),664068015#,1,1,1,3,5527241000006114#,Diastolic arterial pressure,^ESCTDI552724,NA,2620223019,NA,2
+271650006#,Diastolic blood pressure (observable entity),664068015#,1,1,1,3,5527211000006110#,Diastolic blood pressure,^ESCTDI552721,NA,406508013,NA,2
+271650006#,DAP - Diastolic arterial pressure,1225212013#,1,1,1,3,5527231000006116#,DBP - Diastolic blood pressure,^ESCTDB552723,NA,1225213015,NA,2
+271650006#,DAP - Diastolic arterial pressure,1225212013#,1,1,1,3,5527221000006119#,DAP - Diastolic arterial pressure,^ESCTDA552722,NA,1225212013,NA,2
+271650006#,DAP - Diastolic arterial pressure,1225212013#,1,1,1,3,5527241000006114#,Diastolic arterial pressure,^ESCTDI552724,NA,2620223019,NA,2
+271650006#,DAP - Diastolic arterial pressure,1225212013#,1,1,1,3,5527211000006110#,Diastolic blood pressure,^ESCTDI552721,NA,406508013,NA,2
+271650006#,DBP - Diastolic blood pressure,1225213015#,1,1,1,3,5527231000006116#,DBP - Diastolic blood pressure,^ESCTDB552723,NA,1225213015,NA,2
+271650006#,DBP - Diastolic blood pressure,1225213015#,1,1,1,3,5527221000006119#,DAP - Diastolic arterial pressure,^ESCTDA552722,NA,1225212013,NA,2
+271650006#,DBP - Diastolic blood pressure,1225213015#,1,1,1,3,5527241000006114#,Diastolic arterial pressure,^ESCTDI552724,NA,2620223019,NA,2
+271650006#,DBP - Diastolic blood pressure,1225213015#,1,1,1,3,5527211000006110#,Diastolic blood pressure,^ESCTDI552721,NA,406508013,NA,2
+271650006#,Diastolic arterial pressure,2620223019#,1,1,1,3,5527231000006116#,DBP - Diastolic blood pressure,^ESCTDB552723,NA,1225213015,NA,2
+271650006#,Diastolic arterial pressure,2620223019#,1,1,1,3,5527221000006119#,DAP - Diastolic arterial pressure,^ESCTDA552722,NA,1225212013,NA,2
+271650006#,Diastolic arterial pressure,2620223019#,1,1,1,3,5527241000006114#,Diastolic arterial pressure,^ESCTDI552724,NA,2620223019,NA,2
+271650006#,Diastolic arterial pressure,2620223019#,1,1,1,3,5527211000006110#,Diastolic blood pressure,^ESCTDI552721,NA,406508013,NA,2
+314453003#,Average diastolic blood pressure,458816012#,1,1,0,2,458816012#,Average diastolic blood pressure,246m,246m.00,458816012,NA,2
+314453003#,Average diastolic blood pressure (observable entity),711259013#,1,1,0,2,458816012#,Average diastolic blood pressure,246m,246m.00,458816012,NA,2
+198091000000104#,NA,NA#,0,1,1,2,298311000000112#,Ambulatory diastolic blood pressure,246f,246f.00,298311000000112,NA,2
+198091000000104#,NA,NA#,0,1,1,2,8057991000006115#,Ambulatory diastolic BP (blood pressure),^ESCTAM805799,NA,1677381000000111,NA,2
+23154005#,Increased diastolic blood pressure,38886012#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,Increased diastolic blood pressure,38886012#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,Increased diastolic blood pressure,38886012#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,Increased diastolic blood pressure,38886012#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,Increased diastolic blood pressure,38886012#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+42689008#,Decreased diastolic blood pressure,71231018#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Decreased diastolic blood pressure,71231018#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Decreased diastolic blood pressure,71231018#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Decreased diastolic blood pressure,71231018#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Decreased diastolic blood pressure,71231018#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+49844009#,Abnormal diastolic blood pressure,83028010#,1,0,1,2,3306801000006114#,Abnormal diastolic arterial,^ESCTAB330680,NA,83029019,NA,31
+49844009#,Abnormal diastolic blood pressure,83028010#,1,0,1,2,3306781000006110#,Abnormal diastolic arterial pressure,^ESCTAB330678,NA,83026014,NA,31
+49844009#,Abnormal diastolic blood pressure,83028010#,1,0,1,2,3306791000006113#,Abnormal diastolic blood pressure,^ESCTAB330679,NA,83028010,NA,31
+53813002#,Normal diastolic blood pressure,89437013#,1,0,1,2,3372531000006111#,Normal diastolic arterial pressure,^ESCTNO337253,NA,89435017,NA,31
+53813002#,Normal diastolic blood pressure,89437013#,1,0,1,2,3372541000006118#,Normal diastolic blood pressure,^ESCTNO337254,NA,89437013,NA,31
+53813002#,Normal diastolic blood pressure,89437013#,1,0,1,2,3372551000006116#,Normal diastolic arterial,^ESCTNO337255,NA,89438015,NA,31
+314451001#,Minimum diastolic blood pressure,458814010#,1,0,1,2,6046181000006111#,Minimum diastolic blood pressure,^ESCTMI604618,NA,458814010,NA,31
+314452008#,Maximum diastolic blood pressure,458815011#,1,0,1,2,6046191000006114#,Maximum diastolic blood pressure,^ESCTMA604619,NA,458815011,NA,31
+314454009#,Minimum day interval diastolic blood pressure,458817015#,1,0,1,2,6046211000006110#,Minimum day interval diastolic blood pressure,^ESCTMI604621,NA,458817015,NA,31
+314455005#,Minimum night interval diastolic blood pressure,458818013#,1,0,1,2,6046221000006119#,Minimum night interval diastolic blood pressure,^ESCTMI604622,NA,458818013,NA,31
+314456006#,Minimum 24 hour diastolic blood pressure,458819017#,1,0,1,2,6046231000006116#,Minimum 24 hour diastolic blood pressure,^ESCTMI604623,NA,458819017,NA,31
+314457002#,Maximum night interval diastolic blood pressure,458820011#,1,0,1,2,6046241000006114#,Maximum night interval diastolic blood pressure,^ESCTMA604624,NA,458820011,NA,31
+314458007#,Maximum day interval diastolic blood pressure,458821010#,1,0,1,2,6046251000006111#,Maximum day interval diastolic blood pressure,^ESCTMA604625,NA,458821010,NA,31
+314459004#,Maximum 24 hour diastolic blood pressure,458822015#,1,0,1,2,6046261000006113#,Maximum 24 hour diastolic blood pressure,^ESCTMA604626,NA,458822015,NA,31
+314465004#,24 hour diastolic blood pressure,458828016#,1,0,1,2,6046321000006114#,24 hour diastolic blood pressure,^ESCT24604632,NA,458828016,NA,31
+314451001#,Minimum diastolic blood pressure (observable entity),711257010#,1,0,1,2,6046181000006111#,Minimum diastolic blood pressure,^ESCTMI604618,NA,458814010,NA,31
+314452008#,Maximum diastolic blood pressure (observable entity),711258017#,1,0,1,2,6046191000006114#,Maximum diastolic blood pressure,^ESCTMA604619,NA,458815011,NA,31
+314454009#,Minimum day interval diastolic blood pressure (observable entity),711260015#,1,0,1,2,6046211000006110#,Minimum day interval diastolic blood pressure,^ESCTMI604621,NA,458817015,NA,31
+314455005#,Minimum night interval diastolic blood pressure (observable entity),711261016#,1,0,1,2,6046221000006119#,Minimum night interval diastolic blood pressure,^ESCTMI604622,NA,458818013,NA,31
+314456006#,Minimum 24 hour diastolic blood pressure (observable entity),711263018#,1,0,1,2,6046231000006116#,Minimum 24 hour diastolic blood pressure,^ESCTMI604623,NA,458819017,NA,31
+314457002#,Maximum night interval diastolic blood pressure (observable entity),711264012#,1,0,1,2,6046241000006114#,Maximum night interval diastolic blood pressure,^ESCTMA604624,NA,458820011,NA,31
+314458007#,Maximum day interval diastolic blood pressure (observable entity),711265013#,1,0,1,2,6046251000006111#,Maximum day interval diastolic blood pressure,^ESCTMA604625,NA,458821010,NA,31
+314459004#,Maximum 24 hour diastolic blood pressure (observable entity),711266014#,1,0,1,2,6046261000006113#,Maximum 24 hour diastolic blood pressure,^ESCTMA604626,NA,458822015,NA,31
+314465004#,24 hour diastolic blood pressure (observable entity),711272014#,1,0,1,2,6046321000006114#,24 hour diastolic blood pressure,^ESCT24604632,NA,458828016,NA,31
+716632005#,Baseline diastolic blood pressure (observable entity),3306935016#,1,0,1,2,2418921000000115#,Baseline diastolic blood pressure,246n0,246n000,3306936015,NA,2
+716632005#,Baseline diastolic blood pressure,3306936015#,1,0,1,2,2418921000000115#,Baseline diastolic blood pressure,246n0,246n000,3306936015,NA,2
+23154005#,High diastolic arterial pressure,38882014#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,High diastolic arterial pressure,38882014#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,High diastolic arterial pressure,38882014#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,High diastolic arterial pressure,38882014#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,High diastolic arterial pressure,38882014#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,Increased diastolic arterial pressure,38883016#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,Increased diastolic arterial pressure,38883016#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,Increased diastolic arterial pressure,38883016#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,Increased diastolic arterial pressure,38883016#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,Increased diastolic arterial pressure,38883016#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,Increased diastolic arterial pulse pressure,38884010#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,Increased diastolic arterial pulse pressure,38884010#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,Increased diastolic arterial pulse pressure,38884010#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,Increased diastolic arterial pulse pressure,38884010#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,Increased diastolic arterial pulse pressure,38884010#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,High diastolic arterial pulse pressure,38885011#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,High diastolic arterial pulse pressure,38885011#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,High diastolic arterial pulse pressure,38885011#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,High diastolic arterial pulse pressure,38885011#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,High diastolic arterial pulse pressure,38885011#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,Increased diastolic arterial,38887015#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,Increased diastolic arterial,38887015#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,Increased diastolic arterial,38887015#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,Increased diastolic arterial,38887015#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,Increased diastolic arterial,38887015#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,High diastolic arterial,38888013#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,High diastolic arterial,38888013#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,High diastolic arterial,38888013#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,High diastolic arterial,38888013#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,High diastolic arterial,38888013#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+23154005#,Increased diastolic arterial pressure (finding),752642014#,1,0,1,2,2869181000006114#,High diastolic arterial pressure,^ESCTHI286918,NA,38882014,NA,31
+23154005#,Increased diastolic arterial pressure (finding),752642014#,1,0,1,2,2869191000006112#,Increased diastolic blood pressure,^ESCTIN286919,NA,38886012,NA,31
+23154005#,Increased diastolic arterial pressure (finding),752642014#,1,0,1,2,2869211000006113#,High diastolic arterial,^ESCTHI286921,NA,38888013,NA,31
+23154005#,Increased diastolic arterial pressure (finding),752642014#,1,0,1,2,2869171000006111#,Increased diastolic arterial pressure,^ESCTIN286917,NA,38883016,NA,31
+23154005#,Increased diastolic arterial pressure (finding),752642014#,1,0,1,2,2869201000006110#,Increased diastolic arterial,^ESCTIN286920,NA,38887015,NA,31
+42689008#,Low diastolic arterial pressure,71227012#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Low diastolic arterial pressure,71227012#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Low diastolic arterial pressure,71227012#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Low diastolic arterial pressure,71227012#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Low diastolic arterial pressure,71227012#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Decreased diastolic arterial pressure,71228019#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Decreased diastolic arterial pressure,71228019#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Decreased diastolic arterial pressure,71228019#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Decreased diastolic arterial pressure,71228019#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Decreased diastolic arterial pressure,71228019#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Decreased diastolic arterial pulse pressure,71229010#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Decreased diastolic arterial pulse pressure,71229010#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Decreased diastolic arterial pulse pressure,71229010#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Decreased diastolic arterial pulse pressure,71229010#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Decreased diastolic arterial pulse pressure,71229010#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Low diastolic arterial pulse pressure,71230017#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Low diastolic arterial pulse pressure,71230017#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Low diastolic arterial pulse pressure,71230017#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Low diastolic arterial pulse pressure,71230017#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Low diastolic arterial pulse pressure,71230017#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Decreased diastolic arterial,71232013#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Decreased diastolic arterial,71232013#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Decreased diastolic arterial,71232013#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Decreased diastolic arterial,71232013#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Decreased diastolic arterial,71232013#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Low diastolic arterial,71233015#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Low diastolic arterial,71233015#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Low diastolic arterial,71233015#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Low diastolic arterial,71233015#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Low diastolic arterial,71233015#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+42689008#,Decreased diastolic arterial pressure (finding),779615013#,1,0,1,2,3188161000006112#,Low diastolic arterial,^ESCTLO318816,NA,71233015,NA,31
+42689008#,Decreased diastolic arterial pressure (finding),779615013#,1,0,1,2,3188121000006118#,Decreased diastolic arterial pressure,^ESCTDE318812,NA,71228019,NA,31
+42689008#,Decreased diastolic arterial pressure (finding),779615013#,1,0,1,2,3188151000006110#,Decreased diastolic arterial,^ESCTDE318815,NA,71232013,NA,31
+42689008#,Decreased diastolic arterial pressure (finding),779615013#,1,0,1,2,3188141000006113#,Decreased diastolic blood pressure,^ESCTDE318814,NA,71231018,NA,31
+42689008#,Decreased diastolic arterial pressure (finding),779615013#,1,0,1,2,3188131000006115#,Low diastolic arterial pressure,^ESCTLO318813,NA,71227012,NA,31
+49844009#,Abnormal diastolic arterial pressure,83026014#,1,0,1,2,3306801000006114#,Abnormal diastolic arterial,^ESCTAB330680,NA,83029019,NA,31
+49844009#,Abnormal diastolic arterial pressure,83026014#,1,0,1,2,3306781000006110#,Abnormal diastolic arterial pressure,^ESCTAB330678,NA,83026014,NA,31
+49844009#,Abnormal diastolic arterial pressure,83026014#,1,0,1,2,3306791000006113#,Abnormal diastolic blood pressure,^ESCTAB330679,NA,83028010,NA,31
+49844009#,Abnormal diastolic arterial pulse pressure,83027017#,1,0,1,2,3306801000006114#,Abnormal diastolic arterial,^ESCTAB330680,NA,83029019,NA,31
+49844009#,Abnormal diastolic arterial pulse pressure,83027017#,1,0,1,2,3306781000006110#,Abnormal diastolic arterial pressure,^ESCTAB330678,NA,83026014,NA,31
+49844009#,Abnormal diastolic arterial pulse pressure,83027017#,1,0,1,2,3306791000006113#,Abnormal diastolic blood pressure,^ESCTAB330679,NA,83028010,NA,31
+49844009#,Abnormal diastolic arterial,83029019#,1,0,1,2,3306801000006114#,Abnormal diastolic arterial,^ESCTAB330680,NA,83029019,NA,31
+49844009#,Abnormal diastolic arterial,83029019#,1,0,1,2,3306781000006110#,Abnormal diastolic arterial pressure,^ESCTAB330678,NA,83026014,NA,31
+49844009#,Abnormal diastolic arterial,83029019#,1,0,1,2,3306791000006113#,Abnormal diastolic blood pressure,^ESCTAB330679,NA,83028010,NA,31
+49844009#,Abnormal diastolic arterial pressure (finding),787567019#,1,0,1,2,3306801000006114#,Abnormal diastolic arterial,^ESCTAB330680,NA,83029019,NA,31
+49844009#,Abnormal diastolic arterial pressure (finding),787567019#,1,0,1,2,3306781000006110#,Abnormal diastolic arterial pressure,^ESCTAB330678,NA,83026014,NA,31
+49844009#,Abnormal diastolic arterial pressure (finding),787567019#,1,0,1,2,3306791000006113#,Abnormal diastolic blood pressure,^ESCTAB330679,NA,83028010,NA,31
+53813002#,Normal diastolic arterial pressure,89435017#,1,0,1,2,3372531000006111#,Normal diastolic arterial pressure,^ESCTNO337253,NA,89435017,NA,31
+53813002#,Normal diastolic arterial pressure,89435017#,1,0,1,2,3372541000006118#,Normal diastolic blood pressure,^ESCTNO337254,NA,89437013,NA,31
+53813002#,Normal diastolic arterial pressure,89435017#,1,0,1,2,3372551000006116#,Normal diastolic arterial,^ESCTNO337255,NA,89438015,NA,31
+53813002#,Normal diastolic arterial pulse pressure,89436016#,1,0,1,2,3372531000006111#,Normal diastolic arterial pressure,^ESCTNO337253,NA,89435017,NA,31
+53813002#,Normal diastolic arterial pulse pressure,89436016#,1,0,1,2,3372541000006118#,Normal diastolic blood pressure,^ESCTNO337254,NA,89437013,NA,31
+53813002#,Normal diastolic arterial pulse pressure,89436016#,1,0,1,2,3372551000006116#,Normal diastolic arterial,^ESCTNO337255,NA,89438015,NA,31
+53813002#,Normal diastolic arterial,89438015#,1,0,1,2,3372531000006111#,Normal diastolic arterial pressure,^ESCTNO337253,NA,89435017,NA,31
+53813002#,Normal diastolic arterial,89438015#,1,0,1,2,3372541000006118#,Normal diastolic blood pressure,^ESCTNO337254,NA,89437013,NA,31
+53813002#,Normal diastolic arterial,89438015#,1,0,1,2,3372551000006116#,Normal diastolic arterial,^ESCTNO337255,NA,89438015,NA,31
+53813002#,Normal diastolic arterial pressure (finding),791975010#,1,0,1,2,3372531000006111#,Normal diastolic arterial pressure,^ESCTNO337253,NA,89435017,NA,31
+53813002#,Normal diastolic arterial pressure (finding),791975010#,1,0,1,2,3372541000006118#,Normal diastolic blood pressure,^ESCTNO337254,NA,89437013,NA,31
+53813002#,Normal diastolic arterial pressure (finding),791975010#,1,0,1,2,3372551000006116#,Normal diastolic arterial,^ESCTNO337255,NA,89438015,NA,31
+67726005#,"Diastolic blood pressure, NOS",112472017#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+67726005#,Diastolic blood pressure,112473010#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140244007#,O/E - Diastolic BP reading,222166011#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140244007#,O/E - Diastolic BP reading,518903019#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+174255007#,Non-invasive diastolic blood pressure,1221536017#,1,0,0,1,4660721000006115#,Non-invasive diastolic blood pressure,^ESCTNO466072,NA,1221536017,NA,31
+174255007#,Non-invasive diastolic blood pressure,1221536017#,1,0,0,1,4660711000006111#,Non-invasive diastolic arterial pressure,^ESCTNO466071,NA,269956016,NA,31
+251073000#,Invasive diastolic blood pressure,1224584013#,1,0,0,1,5295081000006115#,Invasive diastolic arterial pressure,^ESCTIN529508,NA,374208016,NA,31
+251073000#,Invasive diastolic blood pressure,1224584013#,1,0,0,1,5295091000006117#,Invasive diastolic blood pressure,^ESCTIN529509,NA,1224584013,NA,31
+140244007#,O/E - Diastolic BP reading (finding),2731267016#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+446226005#,Diastolic blood pressure on admission (observable entity),2879860019#,1,0,0,1,7321231000006110#,Diastolic blood pressure on admission,^ESCTDI732123,NA,2883277012,NA,31
+446226005#,Diastolic blood pressure on admission,2883277012#,1,0,0,1,7321231000006110#,Diastolic blood pressure on admission,^ESCTDI732123,NA,2883277012,NA,31
+708507001#,Diastolic blood pressure of neonate at birth,3033275013#,1,0,0,1,7635351000006119#,Diastolic blood pressure of neonate at birth,^ESCTDI763535,NA,3033275013,NA,31
+708507001#,Diastolic blood pressure of neonate at birth (observable entity),3033671013#,1,0,0,1,7635351000006119#,Diastolic blood pressure of neonate at birth,^ESCTDI763535,NA,3033275013,NA,31
+1091811000000102#,NA,NA#,0,0,1,1,619931000006119#,Diastolic arterial pressure,246A,246A.00,2734671000000117,NA,2

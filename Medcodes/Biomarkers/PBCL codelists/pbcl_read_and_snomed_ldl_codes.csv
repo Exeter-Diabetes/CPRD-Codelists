@@ -1,0 +1,11 @@
+V2_READ_CODE,V2_TERM,V3_READ_CODE,V3_TERM,SNOMED_CONCEPTID,SNOMED_TERM
+44P6.#,Serum LDL cholesterol level,44P6.#,Serum LDL cholesterol level,1022191000000100#,Serum low density lipoprotein cholesterol level
+44P6.#,Serum LDL cholesterol level,44P6.#,Serum LDL cholesterol level,166833005#,Serum LDL cholesterol measurement
+44PD.#,Serum fast LDL cholesterol lev,44PD.#,Serum fast LDL cholesterol lev,1026471000000106#,Serum fasting LDL (low density lipoprotein) cholesterol level
+44PE.#,Ser random LDL cholesterol lev,44PE.#,Ser random LDL cholesterol lev,1026481000000108#,Serum random LDL (low density lipoprotein) cholesterol level
+44PI.#,Calculated LDL cholesterol lev,XaIp4#,Calculated LDL cholesterol lev,1014501000000104#,Calculated LDL (low density lipoprotein) cholesterol level
+44PI.#,Calculated LDL cholesterol lev,XaIp4#,Calculated LDL cholesterol lev,395065005#,Calculated LDL cholesterol level
+44d4.#,Plasma rndm LDL cholest level,44d4.#,Plasma rndm LDL cholest level,1028851000000104#,Plasma random LDL (low density lipoprotein) cholesterol level
+44d5.#,Plasma fast LDL cholest level,44d5.#,Plasma fast LDL cholest level,1028861000000101#,Plasma fasting LDL (low density lipoprotein) cholesterol level
+44dB.#,Plasma LDL cholesterol level,XaEVs#,Plasma LDL cholesterol level,1010591000000104#,Plasma LDL (low density lipoprotein) cholesterol level
+44dB.#,Plasma LDL cholesterol level,XaEVs#,Plasma LDL cholesterol level,314036004#,Plasma LDL cholesterol measurement

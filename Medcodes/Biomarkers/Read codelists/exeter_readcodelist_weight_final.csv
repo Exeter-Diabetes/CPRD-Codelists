@@ -1,0 +1,27 @@
+readcode,term_readcode,coding_system,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+1621.#,Weight steady,read2,2536041016#,Weight static,1621-1,1621.11,271398006,2536041016,NA,27,1621.11#
+1621.#,Weight steady,read2,406169014#,Weight steady,1621,1621.00,271398006,406169014,NA,27,1621.00#
+Ua17A#,Baseline weight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,Ua17A#
+X40YL#,Overweight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X40YL#
+22A..#,O/E - weight,read2,253677014#,Body weight,22A,22A..00,27113001,45352010,NA,2,22A..00#
+22A1.#,O/E - weight > 20% below ideal,read2,272551000006116#,O/E - weight > 20% below ideal,22A1,22A1.00,162764001,253678016,NA,2,22A1.00#
+22A2.#,O/E -weight 10-20% below ideal,read2,253679012#,O/E -weight 10-20% below ideal,22A2,22A2.00,162765000,253679012,NA,2,22A2.00#
+22A3.#,O/E - weight within 10% ideal,read2,253680010#,O/E - weight within 10% ideal,22A3,22A3.00,162766004,253680010,NA,2,22A3.00#
+22A4.#,O/E - weight 10-20% over ideal,read2,411922013#,O/E - overweight,22A4-1,22A4.11,275947003,411922013,NA,27,22A4.11#
+22A4.#,O/E - weight 10-20% over ideal,read2,402435016#,O/E - weight 10-20% over ideal,22A4,22A4.00,268915006,402435016,NA,27,22A4.00#
+22A5.#,O/E - weight > 20% over ideal,read2,253576010#,O/E - obese,22A5-1,22A5.11,162690006,253576010,NA,27,22A5.11#
+22A5.#,O/E - weight > 20% over ideal,read2,217781000000116#,O/E - weight greater than 20% over ideal,22A5,22A5.00,268916007,402436015,NA,27,22A5.00#
+22A6.#,O/E - Underweight,read2,253687013#,O/E - Underweight,22A6,22A6.00,162769006,253687013,NA,2,22A6.00#
+22A7.#,Baseline weight,read2,1780175010#,Baseline weight,22A7,22A7.00,400967004,1780175010,NA,2,22A7.00#
+22AA.#,Overweight,read2,356960015#,Overweight,22AA,22AA.00,238131007,356960015,NA,2,22AA.00#
+22AZ.#,O/E - weight NOS,read2,253688015#,O/E - weight NOS,22AZ,22AZ.00,27113001,45352010,NA,2,22AZ.00#
+X76C1#,General appraisal of weight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76C1#
+X76C6#,Weight static,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76C6#
+X76C7#,Body weight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76C7#
+X76CG#,Usual body weight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,X76CG#
+Xa7wK#,Body weight normal,read3,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7wK#
+XaYPL#,Weight screening,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XaYPL#
+XE1h3#,O/E - weight 10-20% over ideal,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1h3#
+XE2th#,Weight steady,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XE2th#
+XM01G#,Weight observation,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XM01G#
+XM1YD#,O/E - overweight,read3,NA#,NA,NA,NA,NA,NA,NA,NA,XM1YD#

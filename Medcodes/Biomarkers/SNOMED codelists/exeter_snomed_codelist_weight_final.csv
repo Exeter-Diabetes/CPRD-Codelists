@@ -1,0 +1,255 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+271398006#,Weight steady,406169014#,1,1,2,5524151000006112#,Weight stable,^ESCTWE552415,NA,406170010,NA,27
+271398006#,Weight steady,406169014#,1,1,2,2536041016#,Weight static,1621-1,1621.11,2536041016,NA,27
+271398006#,Weight steady,406169014#,1,1,2,406169014#,Weight steady,1621,1621.00,406169014,NA,27
+271398006#,Weight stable,406170010#,1,1,2,5524151000006112#,Weight stable,^ESCTWE552415,NA,406170010,NA,27
+271398006#,Weight stable,406170010#,1,1,2,2536041016#,Weight static,1621-1,1621.11,2536041016,NA,27
+271398006#,Weight stable,406170010#,1,1,2,406169014#,Weight steady,1621,1621.00,406169014,NA,27
+271398006#,Weight steady (finding),663786018#,1,1,2,5524151000006112#,Weight stable,^ESCTWE552415,NA,406170010,NA,27
+271398006#,Weight steady (finding),663786018#,1,1,2,2536041016#,Weight static,1621-1,1621.11,2536041016,NA,27
+271398006#,Weight steady (finding),663786018#,1,1,2,406169014#,Weight steady,1621,1621.00,406169014,NA,27
+271398006#,Weight static,2536041016#,1,1,2,5524151000006112#,Weight stable,^ESCTWE552415,NA,406170010,NA,27
+271398006#,Weight static,2536041016#,1,1,2,2536041016#,Weight static,1621-1,1621.11,2536041016,NA,27
+271398006#,Weight static,2536041016#,1,1,2,406169014#,Weight steady,1621,1621.00,406169014,NA,27
+162763007#,O/E - weight,253677014#,1,1,2,11905011000006114#,O/E - weight,^ESCT1190501,NA,253677014,NA,27
+162763007#,O/E - weight,253677014#,1,1,2,4551811000006113#,On examination - weight,^ESCTON455181,NA,2667035013,NA,31
+162763007#,On examination - weight (context-dependent category),543906019#,1,1,2,11905011000006114#,O/E - weight,^ESCT1190501,NA,253677014,NA,27
+162763007#,On examination - weight (context-dependent category),543906019#,1,1,2,4551811000006113#,On examination - weight,^ESCTON455181,NA,2667035013,NA,31
+162763007#,On examination - weight (finding),2560596017#,1,1,2,11905011000006114#,O/E - weight,^ESCT1190501,NA,253677014,NA,27
+162763007#,On examination - weight (finding),2560596017#,1,1,2,4551811000006113#,On examination - weight,^ESCTON455181,NA,2667035013,NA,31
+162763007#,On examination - weight,2667035013#,1,1,2,11905011000006114#,O/E - weight,^ESCT1190501,NA,253677014,NA,27
+162763007#,On examination - weight,2667035013#,1,1,2,4551811000006113#,On examination - weight,^ESCTON455181,NA,2667035013,NA,31
+162764001#,O/E - weight greater than 20% below ideal,253678016#,1,1,2,272551000006116#,O/E - weight > 20% below ideal,22A1,22A1.00,253678016,NA,2
+162764001#,O/E - weight greater than 20% below ideal,253678016#,1,1,2,4551821000006117#,O/E - weight greater than 20% below ideal,^ESCTOE455182,NA,253678016,NA,2
+162764001#,O/E - weight greater than 20% below ideal,253678016#,1,1,2,4551831000006119#,On examination - weight greater than 20% below ideal,^ESCTON455183,NA,2667036014,NA,2
+162764001#,On examination - weight greater than 20% below ideal (context-dependent category),543907011#,1,1,2,272551000006116#,O/E - weight > 20% below ideal,22A1,22A1.00,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal (context-dependent category),543907011#,1,1,2,4551821000006117#,O/E - weight greater than 20% below ideal,^ESCTOE455182,NA,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal (context-dependent category),543907011#,1,1,2,4551831000006119#,On examination - weight greater than 20% below ideal,^ESCTON455183,NA,2667036014,NA,2
+162764001#,On examination - weight greater than 20% below ideal (finding),2560597014#,1,1,2,272551000006116#,O/E - weight > 20% below ideal,22A1,22A1.00,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal (finding),2560597014#,1,1,2,4551821000006117#,O/E - weight greater than 20% below ideal,^ESCTOE455182,NA,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal (finding),2560597014#,1,1,2,4551831000006119#,On examination - weight greater than 20% below ideal,^ESCTON455183,NA,2667036014,NA,2
+162764001#,On examination - weight greater than 20% below ideal,2667036014#,1,1,2,272551000006116#,O/E - weight > 20% below ideal,22A1,22A1.00,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal,2667036014#,1,1,2,4551821000006117#,O/E - weight greater than 20% below ideal,^ESCTOE455182,NA,253678016,NA,2
+162764001#,On examination - weight greater than 20% below ideal,2667036014#,1,1,2,4551831000006119#,On examination - weight greater than 20% below ideal,^ESCTON455183,NA,2667036014,NA,2
+162765000#,O/E -weight 10-20% below ideal,253679012#,1,1,2,253679012#,O/E -weight 10-20% below ideal,22A2,22A2.00,253679012,NA,2
+162765000#,O/E -weight 10-20% below ideal,253679012#,1,1,2,4551851000006114#,On examination - weight 10-20% below ideal,^ESCTON455185,NA,2667037017,NA,2
+162765000#,On examination - weight 10-20% below ideal (context-dependent category),543908018#,1,1,2,253679012#,O/E -weight 10-20% below ideal,22A2,22A2.00,253679012,NA,2
+162765000#,On examination - weight 10-20% below ideal (context-dependent category),543908018#,1,1,2,4551851000006114#,On examination - weight 10-20% below ideal,^ESCTON455185,NA,2667037017,NA,2
+162765000#,On examination - weight 10-20% below ideal (finding),2560598016#,1,1,2,253679012#,O/E -weight 10-20% below ideal,22A2,22A2.00,253679012,NA,2
+162765000#,On examination - weight 10-20% below ideal (finding),2560598016#,1,1,2,4551851000006114#,On examination - weight 10-20% below ideal,^ESCTON455185,NA,2667037017,NA,2
+162765000#,On examination - weight 10-20% below ideal,2667037017#,1,1,2,253679012#,O/E -weight 10-20% below ideal,22A2,22A2.00,253679012,NA,2
+162765000#,On examination - weight 10-20% below ideal,2667037017#,1,1,2,4551851000006114#,On examination - weight 10-20% below ideal,^ESCTON455185,NA,2667037017,NA,2
+162766004#,O/E - weight within 10% ideal,253680010#,1,1,2,4551871000006116#,On examination - weight within 10% ideal,^ESCTON455187,NA,2667038010,NA,2
+162766004#,O/E - weight within 10% ideal,253680010#,1,1,2,253680010#,O/E - weight within 10% ideal,22A3,22A3.00,253680010,NA,2
+162766004#,On examination - weight within 10% ideal (context-dependent category),543910016#,1,1,2,4551871000006116#,On examination - weight within 10% ideal,^ESCTON455187,NA,2667038010,NA,2
+162766004#,On examination - weight within 10% ideal (context-dependent category),543910016#,1,1,2,253680010#,O/E - weight within 10% ideal,22A3,22A3.00,253680010,NA,2
+162766004#,On examination - weight within 10% ideal (finding),2560599012#,1,1,2,4551871000006116#,On examination - weight within 10% ideal,^ESCTON455187,NA,2667038010,NA,2
+162766004#,On examination - weight within 10% ideal (finding),2560599012#,1,1,2,253680010#,O/E - weight within 10% ideal,22A3,22A3.00,253680010,NA,2
+162766004#,On examination - weight within 10% ideal,2667038010#,1,1,2,4551871000006116#,On examination - weight within 10% ideal,^ESCTON455187,NA,2667038010,NA,2
+162766004#,On examination - weight within 10% ideal,2667038010#,1,1,2,253680010#,O/E - weight within 10% ideal,22A3,22A3.00,253680010,NA,2
+268915006#,O/E - weight 10-20% over ideal,402435016#,1,1,2,5507891000006111#,On examination - weight 10-20% over ideal,^ESCTON550789,NA,2669721010,NA,27
+268915006#,O/E - weight 10-20% over ideal,402435016#,1,1,2,402435016#,O/E - weight 10-20% over ideal,22A4,22A4.00,402435016,NA,27
+268915006#,On examination - weight 10-20% over ideal (context-dependent category),661712016#,1,1,2,5507891000006111#,On examination - weight 10-20% over ideal,^ESCTON550789,NA,2669721010,NA,27
+268915006#,On examination - weight 10-20% over ideal (context-dependent category),661712016#,1,1,2,402435016#,O/E - weight 10-20% over ideal,22A4,22A4.00,402435016,NA,27
+268915006#,On examination - weight 10-20% over ideal (finding),2571384018#,1,1,2,5507891000006111#,On examination - weight 10-20% over ideal,^ESCTON550789,NA,2669721010,NA,27
+268915006#,On examination - weight 10-20% over ideal (finding),2571384018#,1,1,2,402435016#,O/E - weight 10-20% over ideal,22A4,22A4.00,402435016,NA,27
+268915006#,On examination - weight 10-20% over ideal,2669721010#,1,1,2,5507891000006111#,On examination - weight 10-20% over ideal,^ESCTON550789,NA,2669721010,NA,27
+268915006#,On examination - weight 10-20% over ideal,2669721010#,1,1,2,402435016#,O/E - weight 10-20% over ideal,22A4,22A4.00,402435016,NA,27
+275947003#,O/E - overweight,411922013#,1,1,2,411922013#,O/E - overweight,22A4-1,22A4.11,411922013,NA,27
+275947003#,O/E - overweight,411922013#,1,1,2,5579041000006111#,On examination - overweight,^ESCTON557904,NA,2669994019,NA,27
+275947003#,On examination - overweight (context-dependent category),668792010#,1,1,2,411922013#,O/E - overweight,22A4-1,22A4.11,411922013,NA,27
+275947003#,On examination - overweight (context-dependent category),668792010#,1,1,2,5579041000006111#,On examination - overweight,^ESCTON557904,NA,2669994019,NA,27
+275947003#,On examination - overweight (finding),2571731019#,1,1,2,411922013#,O/E - overweight,22A4-1,22A4.11,411922013,NA,27
+275947003#,On examination - overweight (finding),2571731019#,1,1,2,5579041000006111#,On examination - overweight,^ESCTON557904,NA,2669994019,NA,27
+275947003#,On examination - overweight,2669994019#,1,1,2,411922013#,O/E - overweight,22A4-1,22A4.11,411922013,NA,27
+275947003#,On examination - overweight,2669994019#,1,1,2,5579041000006111#,On examination - overweight,^ESCTON557904,NA,2669994019,NA,27
+268916007#,O/E - weight greater than 20% over ideal,402436015#,1,1,2,12702731000006115#,O/E - weight > 20% over ideal,^ESCT1270273,NA,272561000006119,NA,27
+268916007#,O/E - weight greater than 20% over ideal,402436015#,1,1,2,5507911000006113#,On examination - weight greater than 20% over ideal,^ESCTON550791,NA,2669722015,NA,27
+268916007#,O/E - weight greater than 20% over ideal,402436015#,1,1,2,217781000000116#,O/E - weight greater than 20% over ideal,22A5,22A5.00,402436015,NA,27
+268916007#,O/E - weight greater than 20% over ideal,402436015#,1,1,2,5507901000006110#,O/E - weight greater than 20% over ideal,^ESCTOE550790,NA,5507901000006110,NA,27
+268916007#,On examination - weight greater than 20% over ideal (context-dependent category),661713014#,1,1,2,12702731000006115#,O/E - weight > 20% over ideal,^ESCT1270273,NA,272561000006119,NA,27
+268916007#,On examination - weight greater than 20% over ideal (context-dependent category),661713014#,1,1,2,5507911000006113#,On examination - weight greater than 20% over ideal,^ESCTON550791,NA,2669722015,NA,27
+268916007#,On examination - weight greater than 20% over ideal (context-dependent category),661713014#,1,1,2,217781000000116#,O/E - weight greater than 20% over ideal,22A5,22A5.00,402436015,NA,27
+268916007#,On examination - weight greater than 20% over ideal (context-dependent category),661713014#,1,1,2,5507901000006110#,O/E - weight greater than 20% over ideal,^ESCTOE550790,NA,5507901000006110,NA,27
+268916007#,On examination - weight greater than 20% over ideal (finding),2571385017#,1,1,2,12702731000006115#,O/E - weight > 20% over ideal,^ESCT1270273,NA,272561000006119,NA,27
+268916007#,On examination - weight greater than 20% over ideal (finding),2571385017#,1,1,2,5507911000006113#,On examination - weight greater than 20% over ideal,^ESCTON550791,NA,2669722015,NA,27
+268916007#,On examination - weight greater than 20% over ideal (finding),2571385017#,1,1,2,217781000000116#,O/E - weight greater than 20% over ideal,22A5,22A5.00,402436015,NA,27
+268916007#,On examination - weight greater than 20% over ideal (finding),2571385017#,1,1,2,5507901000006110#,O/E - weight greater than 20% over ideal,^ESCTOE550790,NA,5507901000006110,NA,27
+268916007#,On examination - weight greater than 20% over ideal,2669722015#,1,1,2,12702731000006115#,O/E - weight > 20% over ideal,^ESCT1270273,NA,272561000006119,NA,27
+268916007#,On examination - weight greater than 20% over ideal,2669722015#,1,1,2,5507911000006113#,On examination - weight greater than 20% over ideal,^ESCTON550791,NA,2669722015,NA,27
+268916007#,On examination - weight greater than 20% over ideal,2669722015#,1,1,2,217781000000116#,O/E - weight greater than 20% over ideal,22A5,22A5.00,402436015,NA,27
+268916007#,On examination - weight greater than 20% over ideal,2669722015#,1,1,2,5507901000006110#,O/E - weight greater than 20% over ideal,^ESCTOE550790,NA,5507901000006110,NA,27
+162769006#,O/E - Underweight,253687013#,1,1,2,253687013#,O/E - Underweight,22A6,22A6.00,253687013,NA,2
+162769006#,O/E - Underweight,253687013#,1,1,2,4551891000006115#,On examination - Underweight,^ESCTON455189,NA,2667039019,NA,2
+162769006#,On examination - Underweight (context-dependent category),543913019#,1,1,2,253687013#,O/E - Underweight,22A6,22A6.00,253687013,NA,2
+162769006#,On examination - Underweight (context-dependent category),543913019#,1,1,2,4551891000006115#,On examination - Underweight,^ESCTON455189,NA,2667039019,NA,2
+162769006#,On examination - Underweight (finding),2560600010#,1,1,2,253687013#,O/E - Underweight,22A6,22A6.00,253687013,NA,2
+162769006#,On examination - Underweight (finding),2560600010#,1,1,2,4551891000006115#,On examination - Underweight,^ESCTON455189,NA,2667039019,NA,2
+162769006#,On examination - Underweight,2667039019#,1,1,2,253687013#,O/E - Underweight,22A6,22A6.00,253687013,NA,2
+162769006#,On examination - Underweight,2667039019#,1,1,2,4551891000006115#,On examination - Underweight,^ESCTON455189,NA,2667039019,NA,2
+400967004#,Baseline weight (observable entity),1768888018#,1,1,2,1780175010#,Baseline weight,22A7,22A7.00,1780175010,NA,2
+400967004#,Baseline weight,1780175010#,1,1,2,1780175010#,Baseline weight,22A7,22A7.00,1780175010,NA,2
+238131007#,Overweight,356960015#,1,1,2,5117851000006111#,Patient overweight,^ESCTPA511785,NA,356961016,NA,2
+238131007#,Overweight,356960015#,1,1,2,356960015#,Overweight,22AA,22AA.00,356960015,NA,2
+238131007#,Patient overweight,356961016#,1,1,2,5117851000006111#,Patient overweight,^ESCTPA511785,NA,356961016,NA,2
+238131007#,Patient overweight,356961016#,1,1,2,356960015#,Overweight,22AA,22AA.00,356960015,NA,2
+238131007#,Overweight (finding),626970013#,1,1,2,5117851000006111#,Patient overweight,^ESCTPA511785,NA,356961016,NA,2
+238131007#,Overweight (finding),626970013#,1,1,2,356960015#,Overweight,22AA,22AA.00,356960015,NA,2
+404639000#,General appraisal of patient weight (procedure),2148469019#,1,1,2,6702421000006113#,General appraisal of weight,^ESCTGE670242,NA,2162791012,NA,31
+404639000#,General appraisal of patient weight (procedure),2148469019#,1,1,2,6702411000006117#,General appraisal of patient weight,^ESCTGE670241,NA,2156534018,NA,31
+404639000#,General appraisal of patient weight,2156534018#,1,1,2,6702421000006113#,General appraisal of weight,^ESCTGE670242,NA,2162791012,NA,31
+404639000#,General appraisal of patient weight,2156534018#,1,1,2,6702411000006117#,General appraisal of patient weight,^ESCTGE670241,NA,2156534018,NA,31
+404639000#,General appraisal of weight,2162791012#,1,1,2,6702421000006113#,General appraisal of weight,^ESCTGE670242,NA,2162791012,NA,31
+404639000#,General appraisal of weight,2162791012#,1,1,2,6702411000006117#,General appraisal of patient weight,^ESCTGE670241,NA,2156534018,NA,31
+27113001#,Body weight,45352010#,1,1,2,253688015#,O/E - weight NOS,22AZ,22AZ.00,45352010,NA,2
+27113001#,Body weight,45352010#,1,1,2,2934311000006118#,Weight,^ESCTWE293431,NA,598581000000118,NA,2
+27113001#,Body weight,45352010#,1,1,2,2934301000006116#,Body weight,^ESCTBO293430,NA,2934301000006116,NA,2
+27113001#,Body weight,45352010#,1,1,2,253677014#,Body weight,22A,22A..00,45352010,NA,2
+27113001#,"Body weight, NOS",45353017#,1,1,2,253688015#,O/E - weight NOS,22AZ,22AZ.00,45352010,NA,2
+27113001#,"Body weight, NOS",45353017#,1,1,2,2934311000006118#,Weight,^ESCTWE293431,NA,598581000000118,NA,2
+27113001#,"Body weight, NOS",45353017#,1,1,2,2934301000006116#,Body weight,^ESCTBO293430,NA,2934301000006116,NA,2
+27113001#,"Body weight, NOS",45353017#,1,1,2,253677014#,Body weight,22A,22A..00,45352010,NA,2
+27113001#,Body weight (observable entity),757644016#,1,1,2,253688015#,O/E - weight NOS,22AZ,22AZ.00,45352010,NA,2
+27113001#,Body weight (observable entity),757644016#,1,1,2,2934311000006118#,Weight,^ESCTWE293431,NA,598581000000118,NA,2
+27113001#,Body weight (observable entity),757644016#,1,1,2,2934301000006116#,Body weight,^ESCTBO293430,NA,2934301000006116,NA,2
+27113001#,Body weight (observable entity),757644016#,1,1,2,253677014#,Body weight,22A,22A..00,45352010,NA,2
+162690006#,O/E - obese,253576010#,0,1,1,253576010#,O/E - obese,22A5-1,22A5.11,253576010,NA,27
+162690006#,O/E - obese,253576010#,0,1,1,4550451000006118#,On examination - obese,^ESCTON455045,NA,2666174013,NA,27
+162690006#,O/E - obese,253576010#,0,1,1,280881000006115#,O/E - obese,222A,222A.00,253576010,NA,27
+162690006#,On examination - obese (context-dependent category),543824018#,0,1,1,253576010#,O/E - obese,22A5-1,22A5.11,253576010,NA,27
+162690006#,On examination - obese (context-dependent category),543824018#,0,1,1,4550451000006118#,On examination - obese,^ESCTON455045,NA,2666174013,NA,27
+162690006#,On examination - obese (context-dependent category),543824018#,0,1,1,280881000006115#,O/E - obese,222A,222A.00,253576010,NA,27
+162690006#,On examination - obese (finding),2560452015#,0,1,1,253576010#,O/E - obese,22A5-1,22A5.11,253576010,NA,27
+162690006#,On examination - obese (finding),2560452015#,0,1,1,4550451000006118#,On examination - obese,^ESCTON455045,NA,2666174013,NA,27
+162690006#,On examination - obese (finding),2560452015#,0,1,1,280881000006115#,O/E - obese,222A,222A.00,253576010,NA,27
+162690006#,On examination - obese,2666174013#,0,1,1,253576010#,O/E - obese,22A5-1,22A5.11,253576010,NA,27
+162690006#,On examination - obese,2666174013#,0,1,1,4550451000006118#,On examination - obese,^ESCTON455045,NA,2666174013,NA,27
+162690006#,On examination - obese,2666174013#,0,1,1,280881000006115#,O/E - obese,222A,222A.00,253576010,NA,27
+43664005#,Normal weight,72805014#,0,1,1,3203281000006116#,Normal weight,^ESCTNO320328,NA,72805014,NA,27
+43664005#,Normal weight (finding),780703016#,0,1,1,3203281000006116#,Normal weight,^ESCTNO320328,NA,72805014,NA,27
+804271000000109#,NA,NA#,0,1,1,59281000006111#,Weight screening,6878-1,6878.11,1798011000000116,NA,1
+107647005#,Weight finding,202291010#,0,1,1,4150511000006113#,Weight finding,^ESCTWE415051,NA,202291010,NA,31
+107647005#,Weight finding (finding),593160010#,0,1,1,4150511000006113#,Weight finding,^ESCTWE415051,NA,202291010,NA,31
+23495001#,Patient overweight,39448019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+26499003#,Normal body weight,44377019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+60861008#,Patient underweight,101129010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+105722002#,Body weight AND/OR growth problem,169843011#,1,0,1,4123251000006116#,Body weight AND/OR growth problem,^ESCTBO412325,NA,169843011,NA,31
+139087009#,Weight steady,220596017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139985004#,O/E - weight,221837014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139987007#,O/E - weight greater than 20% below ideal,221841013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139988002#,O/E -weight 10-20% below ideal,221842018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139989005#,O/E - weight within 10% ideal,221843011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139990001#,O/E - overweight (& [weight 10-20% over ideal]),221844017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139990001#,O/E - weight 10-20% over ideal,221845016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139990001#,O/E - overweight,221846015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139991002#,O/E - weight > 20% over ideal,221847012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139991002#,O/E weight: [>20% over ideal] or [obese],221849010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139992009#,O/E - weight NOS,221850010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161830009#,(Weight steady) or (weight static),252188014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161830009#,Weight steady,252189018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161830009#,Weight static,252190010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162767008#,O/E - overweight (& [weight 10-20% over ideal]),253681014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162767008#,O/E - weight 10-20% over ideal,253682019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162767008#,O/E - overweight,253683012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162768003#,O/E - weight > 20% over ideal,253684018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162768003#,O/E weight: [>20% over ideal] or [obese],253686016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162770007#,O/E - weight NOS,253688015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+248342006#,Underweight,370738017#,1,0,1,2159952010#,Underweight,R0348,R034800,370738017,NA,32
+248342006#,Underweight,370738017#,1,0,1,5256251000006115#,Patient underweight,^ESCTPA525625,NA,370739013,NA,32
+248342006#,Patient underweight,370739013#,1,0,1,2159952010#,Underweight,R0348,R034800,370738017,NA,32
+248342006#,Patient underweight,370739013#,1,0,1,5256251000006115#,Patient underweight,^ESCTPA525625,NA,370739013,NA,32
+248344007#,Weight static,370741014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+248345008#,Body weight,370742019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301333006#,Finding of measures of body weight,442611018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301335004#,Body weight normal,442613015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301336003#,Body weight problem,442614014#,1,0,1,5892251000006115#,Body weight problem,^ESCTBO589225,NA,442614014,NA,31
+26499003#,Body weight normal,483243016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+363804004#,Body weight characteristic,486928016#,1,0,1,6251121000006113#,Body weight characteristic,^ESCTBO625112,NA,486928016,NA,31
+363808001#,Body weight measure,486932010#,1,0,1,6251161000006119#,Weight measurement,^ESCTWE625116,NA,587821000000119,NA,31
+363808001#,Body weight measure,486932010#,1,0,1,6251151000006116#,Body weight measure,^ESCTBO625115,NA,486932010,NA,31
+139087009#,Weight steady,517619014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139985004#,O/E - weight,518615017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139987007#,O/E - weight greater than 20% below ideal,518619011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139988002#,O/E -weight 10-20% below ideal,518620017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139989005#,O/E - weight within 10% ideal,518621018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139990001#,O/E - overweight (& [weight 10-20% over ideal]),518622013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139991002#,O/E weight: [>20% over ideal] or [obese],518623015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139992009#,O/E - weight NOS,518624014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161830009#,(Weight steady) or (weight static),542903018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162767008#,O/E - overweight (& [weight 10-20% over ideal]),543911017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162768003#,O/E weight: [>20% over ideal] or [obese],543912012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+105722002#,Body weight AND/OR growth problem (finding),574402014#,1,0,1,4123251000006116#,Body weight AND/OR growth problem,^ESCTBO412325,NA,169843011,NA,31
+248342006#,Underweight (finding),638631017#,1,0,1,2159952010#,Underweight,R0348,R034800,370738017,NA,32
+248342006#,Underweight (finding),638631017#,1,0,1,5256251000006115#,Patient underweight,^ESCTPA525625,NA,370739013,NA,32
+248344007#,Weight static (finding),638633019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+248345008#,Body weight [dup] (observable entity),638634013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301333006#,Finding of measures of body weight (finding),697117018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301335004#,Body weight normal [dup] (finding),697120014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301336003#,Body weight problem (finding),697121013#,1,0,1,5892251000006115#,Body weight problem,^ESCTBO589225,NA,442614014,NA,31
+26499003#,Body weight normal (finding),756937018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+363804004#,Body weight characteristic (observable entity),769982017#,1,0,1,6251121000006113#,Body weight characteristic,^ESCTBO625112,NA,486928016,NA,31
+363808001#,Body weight measure (observable entity),769987011#,1,0,1,6251161000006119#,Weight measurement,^ESCTWE625116,NA,587821000000119,NA,31
+363808001#,Body weight measure (observable entity),769987011#,1,0,1,6251151000006116#,Body weight measure,^ESCTBO625115,NA,486932010,NA,31
+248341004#,General appraisal of weight,1224093015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+248345008#,Body weight - observation,1224094014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+271604008#,Weight observation,1225202018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301333006#,Observation of measures of body weight,1226969013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392758003#,O/E - Underweight (context-dependent category),1466939019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392758003#,O/E - Underweight,1486734013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+408388001#,[D]Underweight (context-dependent category),2152219010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+408388001#,[D]Underweight,2159952010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+424927000#,Body weight with shoes (observable entity),2640413019#,1,0,1,7035491000006110#,Body weight with shoes,^ESCTBO703549,NA,2644469018,NA,31
+425024002#,Body weight without shoes (observable entity),2640620018#,1,0,1,7037161000006118#,Body weight without shoes,^ESCTBO703716,NA,2644678019,NA,31
+424927000#,Body weight with shoes,2644469018#,1,0,1,7035491000006110#,Body weight with shoes,^ESCTBO703549,NA,2644469018,NA,31
+425024002#,Body weight without shoes,2644678019#,1,0,1,7037161000006118#,Body weight without shoes,^ESCTBO703716,NA,2644678019,NA,31
+139991002#,O/E weight: [>20% over ideal] or [obese] (finding),2709394018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139990001#,O/E - overweight (& [weight 10-20% over ideal]) (finding),2714640014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162767008#,O/E - overweight (& [weight 10-20% over ideal]) (finding),2715105016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139985004#,O/E - weight (finding),2717250013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139992009#,O/E - weight NOS (finding),2717251012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162768003#,O/E weight: [>20% over ideal] or [obese] (finding),2718580017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139987007#,O/E - weight greater than 20% below ideal (finding),2730769013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139989005#,O/E - weight within 10% ideal (finding),2731197017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139988002#,O/E -weight 10-20% below ideal (finding),2731255018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139087009#,Weight steady (finding),2739070012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301335004#,Body weight normal (finding),2742238018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161830009#,(Weight steady) or (weight static) (finding),2748989016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+248345008#,Body weight (observable entity),2760915011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+445541000#,Dry body weight (observable entity),2870066015#,1,0,1,7309791000006112#,Dry body weight,^ESCTDR730979,NA,2871038018,NA,31
+445541000#,Dry body weight (observable entity),2870066015#,1,0,1,7309801000006113#,Dry weight,^ESCTDR730980,NA,2871039014,NA,31
+445541000#,Dry body weight,2871038018#,1,0,1,7309791000006112#,Dry body weight,^ESCTDR730979,NA,2871038018,NA,31
+445541000#,Dry body weight,2871038018#,1,0,1,7309801000006113#,Dry weight,^ESCTDR730980,NA,2871039014,NA,31
+450451007#,Overweight in childhood,2915882016#,1,0,1,7378901000006115#,Overweight in childhood,^ESCTOV737890,NA,2915882016,NA,31
+450451007#,Overweight in childhood (finding),2916448011#,1,0,1,7378901000006115#,Overweight in childhood,^ESCTOV737890,NA,2915882016,NA,31
+717923002#,Moderate underweight in infancy childhood and adolescence (finding),3310610010#,1,0,1,7764391000006112#,Moderate underweight in infants children and adolescents,^ESCTMO776439,NA,3310612019,NA,31
+717923002#,Moderate underweight in infancy childhood and adolescence (finding),3310610010#,1,0,1,7764381000006114#,Moderate underweight in infancy childhood and adolescence,^ESCTMO776438,NA,3310611014,NA,31
+717923002#,Moderate underweight in infancy childhood and adolescence,3310611014#,1,0,1,7764391000006112#,Moderate underweight in infants children and adolescents,^ESCTMO776439,NA,3310612019,NA,31
+717923002#,Moderate underweight in infancy childhood and adolescence,3310611014#,1,0,1,7764381000006114#,Moderate underweight in infancy childhood and adolescence,^ESCTMO776438,NA,3310611014,NA,31
+717923002#,Moderate underweight in infants children and adolescents,3310612019#,1,0,1,7764391000006112#,Moderate underweight in infants children and adolescents,^ESCTMO776439,NA,3310612019,NA,31
+717923002#,Moderate underweight in infants children and adolescents,3310612019#,1,0,1,7764381000006114#,Moderate underweight in infancy childhood and adolescence,^ESCTMO776438,NA,3310611014,NA,31
+717924008#,Severe underweight in infancy childhood and adolescence (finding),3310908011#,1,0,1,7764401000006114#,Severe underweight in infancy childhood and adolescence,^ESCTSE776440,NA,3310909015,NA,31
+717924008#,Severe underweight in infancy childhood and adolescence (finding),3310908011#,1,0,1,7764411000006112#,Severe underweight in infants children and adolescents,^ESCTSE776441,NA,3310910013,NA,31
+717924008#,Severe underweight in infancy childhood and adolescence,3310909015#,1,0,1,7764401000006114#,Severe underweight in infancy childhood and adolescence,^ESCTSE776440,NA,3310909015,NA,31
+717924008#,Severe underweight in infancy childhood and adolescence,3310909015#,1,0,1,7764411000006112#,Severe underweight in infants children and adolescents,^ESCTSE776441,NA,3310910013,NA,31
+717924008#,Severe underweight in infants children and adolescents,3310910013#,1,0,1,7764401000006114#,Severe underweight in infancy childhood and adolescence,^ESCTSE776440,NA,3310909015,NA,31
+717924008#,Severe underweight in infants children and adolescents,3310910013#,1,0,1,7764411000006112#,Severe underweight in infants children and adolescents,^ESCTSE776441,NA,3310910013,NA,31
+734435008#,Body weight abnormal for age (finding),3506662016#,1,0,1,3506663014#,Weight abnormal for age,^ESCT1164427,NA,3506663014,NA,31
+734435008#,Body weight abnormal for age (finding),3506662016#,1,0,1,3506664015#,Body weight abnormal for age,^ESCT1164428,NA,3506664015,NA,31
+734435008#,Body weight abnormal for age,3506664015#,1,0,1,3506663014#,Weight abnormal for age,^ESCT1164427,NA,3506663014,NA,31
+734435008#,Body weight abnormal for age,3506664015#,1,0,1,3506664015#,Body weight abnormal for age,^ESCT1164428,NA,3506664015,NA,31
+735395000#,Current body weight (observable entity),3514399015#,1,0,1,3514400010#,Current body weight,^ESCT1165415,NA,3514400010,NA,31
+735395000#,Current body weight,3514400010#,1,0,1,3514400010#,Current body weight,^ESCT1165415,NA,3514400010,NA,31
+762490009#,Underweight in infancy,3636754016#,1,0,1,3636754016#,Underweight in infancy,^ESCT1169221,NA,3636754016,NA,31
+762490009#,Underweight in infancy (finding),3636755015#,1,0,1,3636754016#,Underweight in infancy,^ESCT1169221,NA,3636754016,NA,31
+762491008#,Underweight in childhood,3636756019#,1,0,1,3636756019#,Underweight in childhood,^ESCT1169222,NA,3636756019,NA,31
+762491008#,Underweight in childhood (finding),3636757011#,1,0,1,3636756019#,Underweight in childhood,^ESCT1169222,NA,3636756019,NA,31
+762492001#,Underweight in adolescence,3636758018#,1,0,1,3636758018#,Underweight in adolescence,^ESCT1169223,NA,3636758018,NA,31
+762492001#,Underweight in adolescence (finding),3636759014#,1,0,1,3636758018#,Underweight in adolescence,^ESCT1169223,NA,3636758018,NA,31
+784399000#,Self reported body weight (observable entity),3768524012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+784399000#,Self reported body weight,3768525013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+363808001#,Measured body weight (observable entity),3768528010#,1,0,1,6251161000006119#,Weight measurement,^ESCTWE625116,NA,587821000000119,NA,31
+363808001#,Measured body weight (observable entity),3768528010#,1,0,1,6251151000006116#,Body weight measure,^ESCTBO625115,NA,486932010,NA,31
+363808001#,Measured body weight,3768529019#,1,0,1,6251161000006119#,Weight measurement,^ESCTWE625116,NA,587821000000119,NA,31
+363808001#,Measured body weight,3768529019#,1,0,1,6251151000006116#,Body weight measure,^ESCTBO625115,NA,486932010,NA,31
+786458005#,Self reported usual body weight,3771685011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+786458005#,Self reported usual body weight (observable entity),3771686012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA

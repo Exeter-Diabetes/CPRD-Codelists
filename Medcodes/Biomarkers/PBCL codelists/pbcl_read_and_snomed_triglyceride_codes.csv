@@ -1,0 +1,11 @@
+V2_READ_CODE,V2_TERM,V3_READ_CODE,V3_TERM,SNOMED_CONCEPTID,SNOMED_TERM
+44Q..#,Serum triglycerides,XE2q9#,Serum triglyceride levels,1005691000000109#,Serum triglycerides level
+44Q..#,Serum triglycerides,XE2q9#,Serum triglyceride levels,271245006#,Measurement of serum triglyceride level
+44Q4.#,Serum fasting triglyceride lev,44Q4.#,Serum fasting triglyceride lev,1026491000000105#,Serum fasting triglyceride level
+44Q5.#,Serum random triglyceride lev,44Q5.#,Serum random triglyceride lev,1026501000000104#,Serum random triglyceride level
+44e..#,Plasma triglyceride level,44e..#,Plasma triglyceride level,1010601000000105#,Plasma triglyceride level
+44e..#,Plasma triglyceride level,44e..#,Plasma triglyceride level,167082000#,Plasma triglyceride measurement
+44e0.#,Plasma rndm triglyceride level,44e0.#,Plasma rndm triglyceride level,1028871000000108#,Plasma random triglyceride level
+44e1.#,Plasma fast triglyceride level,44e1.#,Plasma fast triglyceride level,1031321000000109#,Plasma fasting triglyceride level
+4QA1.#,Triglyceride level,X772O#,Triglyceride level,850991000000104#,Triglyceride level
+4QA1.#,Triglyceride level,X772O#,Triglyceride level,14740000#,Triglycerides measurement

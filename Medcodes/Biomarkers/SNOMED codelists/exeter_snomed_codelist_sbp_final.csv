@@ -1,0 +1,221 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,cam,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+314440001#,Average systolic blood pressure,458803012#,1,1,1,3,458803012#,Average systolic blood pressure,246l,246l.00,458803012,NA,2
+314440001#,Average systolic blood pressure (observable entity),711245018#,1,1,1,3,458803012#,Average systolic blood pressure,246l,246l.00,458803012,NA,2
+314445006#,Average night interval systolic blood pressure,458808015#,1,1,1,3,458808015#,Average night interval systolic blood pressure,246b,246b.00,458808015,NA,2
+314445006#,Average night interval systolic blood pressure (observable entity),711250012#,1,1,1,3,458808015#,Average night interval systolic blood pressure,246b,246b.00,458808015,NA,2
+413606001#,Average home systolic blood pressure (observable entity),2530179016#,1,1,1,3,2533615017#,Average home systolic blood pressure,246d,246d.00,2533615017,NA,2
+413606001#,Average home systolic blood pressure,2533615017#,1,1,1,3,2533615017#,Average home systolic blood pressure,246d,246d.00,2533615017,NA,2
+400974009#,Standing systolic blood pressure (observable entity),1768895010#,1,1,1,3,1780182014#,Standing systolic blood pressure,246N,246N.00,1780182014,NA,2
+400974009#,Standing systolic blood pressure,1780182014#,1,1,1,3,1780182014#,Standing systolic blood pressure,246N,246N.00,1780182014,NA,2
+407554009#,Sitting systolic blood pressure (observable entity),2151385012#,1,1,1,3,2159155011#,Sitting systolic blood pressure,246Q,246Q.00,2159155011,NA,2
+407554009#,Sitting systolic blood pressure,2159155011#,1,1,1,3,2159155011#,Sitting systolic blood pressure,246Q,246Q.00,2159155011,NA,2
+407556006#,Lying systolic blood pressure (observable entity),2151387016#,1,1,1,3,2159157015#,Lying systolic blood pressure,246S,246S.00,2159157015,NA,2
+407556006#,Lying systolic blood pressure,2159157015#,1,1,1,3,2159157015#,Lying systolic blood pressure,246S,246S.00,2159157015,NA,2
+314449000#,Average 24 hour systolic blood pressure,458812014#,1,1,1,3,458812014#,Average 24 hour systolic blood pressure,246W,246W.00,458812014,NA,2
+314449000#,Average 24 hour systolic blood pressure (observable entity),711255019#,1,1,1,3,458812014#,Average 24 hour systolic blood pressure,246W,246W.00,458812014,NA,2
+314446007#,Average day interval systolic blood pressure,458809011#,1,1,1,3,458809011#,Average day interval systolic blood pressure,246Y,246Y.00,458809011,NA,2
+314446007#,Average day interval systolic blood pressure (observable entity),711252016#,1,1,1,3,458809011#,Average day interval systolic blood pressure,246Y,246Y.00,458809011,NA,2
+271649006#,Systolic blood pressure,406507015#,1,1,1,3,5527201000006112#,SAP - Systolic arterial pressure,^ESCTSA552720,NA,1225211018,NA,2
+271649006#,Systolic blood pressure,406507015#,1,1,1,3,5527191000006114#,Systolic blood pressure,^ESCTSY552719,NA,406507015,NA,2
+271649006#,Systolic blood pressure (observable entity),664067013#,1,1,1,3,5527201000006112#,SAP - Systolic arterial pressure,^ESCTSA552720,NA,1225211018,NA,2
+271649006#,Systolic blood pressure (observable entity),664067013#,1,1,1,3,5527191000006114#,Systolic blood pressure,^ESCTSY552719,NA,406507015,NA,2
+271649006#,SAP - Systolic arterial pressure,1225211018#,1,1,1,3,5527201000006112#,SAP - Systolic arterial pressure,^ESCTSA552720,NA,1225211018,NA,2
+271649006#,SAP - Systolic arterial pressure,1225211018#,1,1,1,3,5527191000006114#,Systolic blood pressure,^ESCTSY552719,NA,406507015,NA,2
+198081000000101#,NA,NA#,0,1,1,2,8057971000006116#,Ambulatory systolic BP (blood pressure),^ESCTAM805797,NA,1677251000000113,NA,2
+198081000000101#,NA,NA#,0,1,1,2,298281000000114#,Ambulatory systolic blood pressure,246e,246e.00,298281000000114,NA,2
+12929001#,Normal systolic blood pressure,22163017#,1,0,1,2,2705401000006110#,Normal systolic blood pressure,^ESCTNO270540,NA,22163017,NA,31
+12929001#,Normal systolic blood pressure,22163017#,1,0,1,2,2705391000006113#,Normal systolic arterial pressure,^ESCTNO270539,NA,22164011,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,Increased systolic blood pressure,30500012#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18352002#,Abnormal systolic blood pressure,30984012#,1,0,1,2,2791701000006118#,Abnormal systolic blood pressure,^ESCTAB279170,NA,30984012,NA,31
+18352002#,Abnormal systolic blood pressure,30984012#,1,0,1,2,2791691000006118#,Abnormal systolic arterial pressure,^ESCTAB279169,NA,30985013,NA,31
+72313002#,"Systolic blood pressure, NOS",120162018#,1,0,1,2,3676261000006112#,Systolic arterial pressure,^ESCTSY367626,NA,3676261000006112,NA,2
+72313002#,"Systolic blood pressure, NOS",120162018#,1,0,1,2,114311000006111#,Systolic arterial pressure,2469,2469.00,120159016,NA,2
+72313002#,"Systolic blood pressure, NOS",120162018#,1,0,1,2,3676271000006117#,Systolic blood pressure,^ESCTSY367627,NA,120163011,NA,2
+72313002#,Systolic blood pressure,120163011#,1,0,1,2,3676261000006112#,Systolic arterial pressure,^ESCTSY367626,NA,3676261000006112,NA,2
+72313002#,Systolic blood pressure,120163011#,1,0,1,2,114311000006111#,Systolic arterial pressure,2469,2469.00,120159016,NA,2
+72313002#,Systolic blood pressure,120163011#,1,0,1,2,3676271000006117#,Systolic blood pressure,^ESCTSY367627,NA,120163011,NA,2
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Decreased systolic blood pressure,134383017#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+163030003#,O/E - Systolic BP reading,254075012#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,O/E - Systolic BP reading,254075012#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,O/E - Systolic BP reading,254075012#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+314438006#,Minimum systolic blood pressure,458801014#,1,0,1,2,6046051000006119#,Minimum systolic blood pressure,^ESCTMI604605,NA,458801014,NA,31
+314439003#,Maximum systolic blood pressure,458802019#,1,0,1,2,6046061000006117#,Maximum systolic blood pressure,^ESCTMA604606,NA,458802019,NA,31
+314441002#,Minimum day interval systolic blood pressure,458804018#,1,0,1,2,6046081000006110#,Minimum day interval systolic blood pressure,^ESCTMI604608,NA,458804018,NA,31
+314442009#,Minimum night interval systolic blood pressure,458805017#,1,0,1,2,6046091000006113#,Minimum night interval systolic blood pressure,^ESCTMI604609,NA,458805017,NA,31
+314443004#,Maximum night interval systolic blood pressure,458806016#,1,0,1,2,6046101000006119#,Maximum night interval systolic blood pressure,^ESCTMA604610,NA,458806016,NA,31
+314444005#,Maximum day interval systolic blood pressure,458807013#,1,0,1,2,6046111000006116#,Maximum day interval systolic blood pressure,^ESCTMA604611,NA,458807013,NA,31
+314447003#,Minimum 24 hour systolic blood pressure,458810018#,1,0,1,2,6046141000006117#,Minimum 24 hour systolic blood pressure,^ESCTMI604614,NA,458810018,NA,31
+314448008#,Maximum 24 hour systolic blood pressure,458811019#,1,0,1,2,6046151000006115#,Maximum 24 hour systolic blood pressure,^ESCTMA604615,NA,458811019,NA,31
+314464000#,24 hour systolic blood pressure,458827014#,1,0,1,2,6046311000006118#,24 hour systolic blood pressure,^ESCT24604631,NA,458827014,NA,31
+163030003#,On examination - Systolic BP reading (context-dependent category),544203014#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,On examination - Systolic BP reading (context-dependent category),544203014#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,On examination - Systolic BP reading (context-dependent category),544203014#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+314438006#,Minimum systolic blood pressure (observable entity),711243013#,1,0,1,2,6046051000006119#,Minimum systolic blood pressure,^ESCTMI604605,NA,458801014,NA,31
+314439003#,Maximum systolic blood pressure (observable entity),711244019#,1,0,1,2,6046061000006117#,Maximum systolic blood pressure,^ESCTMA604606,NA,458802019,NA,31
+314441002#,Minimum day interval systolic blood pressure (observable entity),711246017#,1,0,1,2,6046081000006110#,Minimum day interval systolic blood pressure,^ESCTMI604608,NA,458804018,NA,31
+314442009#,Minimum night interval systolic blood pressure (observable entity),711247014#,1,0,1,2,6046091000006113#,Minimum night interval systolic blood pressure,^ESCTMI604609,NA,458805017,NA,31
+314443004#,Maximum night interval systolic blood pressure (observable entity),711248016#,1,0,1,2,6046101000006119#,Maximum night interval systolic blood pressure,^ESCTMA604610,NA,458806016,NA,31
+314444005#,Maximum day interval systolic blood pressure (observable entity),711249012#,1,0,1,2,6046111000006116#,Maximum day interval systolic blood pressure,^ESCTMA604611,NA,458807013,NA,31
+314447003#,Minimum 24 hour systolic blood pressure (observable entity),711253014#,1,0,1,2,6046141000006117#,Minimum 24 hour systolic blood pressure,^ESCTMI604614,NA,458810018,NA,31
+314448008#,Maximum 24 hour systolic blood pressure (observable entity),711254015#,1,0,1,2,6046151000006115#,Maximum 24 hour systolic blood pressure,^ESCTMA604615,NA,458811019,NA,31
+314464000#,24 hour systolic blood pressure (observable entity),711271019#,1,0,1,2,6046311000006118#,24 hour systolic blood pressure,^ESCT24604631,NA,458827014,NA,31
+251070002#,Non-invasive systolic blood pressure,1224580016#,1,0,1,2,5295031000006116#,SAP - Systolic arterial pressure,^ESCTSA529503,NA,1224579019,NA,31
+251070002#,Non-invasive systolic blood pressure,1224580016#,1,0,1,2,5295041000006114#,Non-invasive systolic blood pressure,^ESCTNO529504,NA,1224580016,NA,31
+251070002#,Non-invasive systolic blood pressure,1224580016#,1,0,1,2,5295021000006119#,Non-invasive systolic arterial pressure,^ESCTNO529502,NA,374205018,NA,31
+399304008#,Systolic blood pressure on admission (observable entity),1767224014#,1,0,1,2,6620591000006114#,Systolic blood pressure on admission,^ESCTSY662059,NA,1778756019,NA,31
+399304008#,Systolic blood pressure on admission,1778756019#,1,0,1,2,6620591000006114#,Systolic blood pressure on admission,^ESCTSY662059,NA,1778756019,NA,31
+163030003#,On examination - Systolic BP reading (finding),2561373012#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,On examination - Systolic BP reading (finding),2561373012#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,On examination - Systolic BP reading (finding),2561373012#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+163030003#,On examination - Systolic BP reading,2667438019#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,On examination - Systolic BP reading,2667438019#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,On examination - Systolic BP reading,2667438019#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+163030003#,On examination - Systolic blood pressure reading (finding),2972191013#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,On examination - Systolic blood pressure reading (finding),2972191013#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,On examination - Systolic blood pressure reading (finding),2972191013#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+163030003#,On examination - Systolic blood pressure reading,2972649012#,1,0,1,2,4556601000006117#,On examination - Systolic blood pressure reading,^ESCTON455660,NA,2972649012,NA,31
+163030003#,On examination - Systolic blood pressure reading,2972649012#,1,0,1,2,11903371000006115#,O/E - Systolic BP reading,^ESCT1190337,NA,254075012,NA,27
+163030003#,On examination - Systolic blood pressure reading,2972649012#,1,0,1,2,4556591000006113#,On examination - Systolic BP reading,^ESCTON455659,NA,2667438019,NA,31
+707303003#,Post exercise systolic blood pressure response abnormal (finding),3029805018#,1,0,1,2,7615061000006110#,Post exercise systolic blood pressure response abnormal,^ESCTPO761506,NA,3029809012,NA,31
+707303003#,Post exercise systolic blood pressure response abnormal,3029809012#,1,0,1,2,7615061000006110#,Post exercise systolic blood pressure response abnormal,^ESCTPO761506,NA,3029809012,NA,31
+716579001#,Baseline systolic blood pressure (observable entity),3306693010#,1,0,1,2,2418961000000111#,Baseline systolic blood pressure,246n1,246n100,3306694016,NA,2
+716579001#,Baseline systolic blood pressure,3306694016#,1,0,1,2,2418961000000111#,Baseline systolic blood pressure,246n1,246n100,3306694016,NA,2
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,High systolic arterial pressure,30496010#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,Increased systolic arterial pressure,30497018#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,Increased systolic arterial pulse pressure,30498011#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,High systolic arterial pulse pressure,30499015#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,Increased systolic arterial,30501011#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,High systolic arterial,30502016#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786481000006111#,Increased systolic arterial pressure,^ESCTIN278648,NA,30497018,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786501000006118#,High systolic arterial pulse pressure,^ESCTHI278650,NA,30499015,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786511000006115#,Increased systolic blood pressure,^ESCTIN278651,NA,30500012,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786531000006114#,High systolic arterial,^ESCTHI278653,NA,30502016,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786521000006111#,Increased systolic arterial,^ESCTIN278652,NA,30501011,NA,31
+18050000#,Increased systolic arterial pressure (finding),745423019#,1,0,1,2,2786491000006114#,High systolic arterial pressure,^ESCTHI278649,NA,30496010,NA,31
+18352002#,Abnormal systolic arterial pulse pressure,30983018#,1,0,1,2,2791701000006118#,Abnormal systolic blood pressure,^ESCTAB279170,NA,30984012,NA,31
+18352002#,Abnormal systolic arterial pulse pressure,30983018#,1,0,1,2,2791691000006118#,Abnormal systolic arterial pressure,^ESCTAB279169,NA,30985013,NA,31
+18352002#,Abnormal systolic arterial pressure,30985013#,1,0,1,2,2791701000006118#,Abnormal systolic blood pressure,^ESCTAB279170,NA,30984012,NA,31
+18352002#,Abnormal systolic arterial pressure,30985013#,1,0,1,2,2791691000006118#,Abnormal systolic arterial pressure,^ESCTAB279169,NA,30985013,NA,31
+18352002#,Abnormal systolic arterial pressure (finding),745764011#,1,0,1,2,2791701000006118#,Abnormal systolic blood pressure,^ESCTAB279170,NA,30984012,NA,31
+18352002#,Abnormal systolic arterial pressure (finding),745764011#,1,0,1,2,2791691000006118#,Abnormal systolic arterial pressure,^ESCTAB279169,NA,30985013,NA,31
+251070002#,Non-invasive systolic arterial pressure,374205018#,1,0,1,2,5295031000006116#,SAP - Systolic arterial pressure,^ESCTSA529503,NA,1224579019,NA,31
+251070002#,Non-invasive systolic arterial pressure,374205018#,1,0,1,2,5295041000006114#,Non-invasive systolic blood pressure,^ESCTNO529504,NA,1224580016,NA,31
+251070002#,Non-invasive systolic arterial pressure,374205018#,1,0,1,2,5295021000006119#,Non-invasive systolic arterial pressure,^ESCTNO529502,NA,374205018,NA,31
+251070002#,Non-invasive systolic arterial pressure (observable entity),641538012#,1,0,1,2,5295031000006116#,SAP - Systolic arterial pressure,^ESCTSA529503,NA,1224579019,NA,31
+251070002#,Non-invasive systolic arterial pressure (observable entity),641538012#,1,0,1,2,5295041000006114#,Non-invasive systolic blood pressure,^ESCTNO529504,NA,1224580016,NA,31
+251070002#,Non-invasive systolic arterial pressure (observable entity),641538012#,1,0,1,2,5295021000006119#,Non-invasive systolic arterial pressure,^ESCTNO529502,NA,374205018,NA,31
+251070002#,SAP - Systolic arterial pressure,1224579019#,1,0,1,2,5295031000006116#,SAP - Systolic arterial pressure,^ESCTSA529503,NA,1224579019,NA,31
+251070002#,SAP - Systolic arterial pressure,1224579019#,1,0,1,2,5295041000006114#,Non-invasive systolic blood pressure,^ESCTNO529504,NA,1224580016,NA,31
+251070002#,SAP - Systolic arterial pressure,1224579019#,1,0,1,2,5295021000006119#,Non-invasive systolic arterial pressure,^ESCTNO529502,NA,374205018,NA,31
+251070002#,Non-invasive SAP (systolic arterial pressure),3901584012#,1,0,1,2,5295031000006116#,SAP - Systolic arterial pressure,^ESCTSA529503,NA,1224579019,NA,31
+251070002#,Non-invasive SAP (systolic arterial pressure),3901584012#,1,0,1,2,5295041000006114#,Non-invasive systolic blood pressure,^ESCTNO529504,NA,1224580016,NA,31
+251070002#,Non-invasive SAP (systolic arterial pressure),3901584012#,1,0,1,2,5295021000006119#,Non-invasive systolic arterial pressure,^ESCTNO529502,NA,374205018,NA,31
+12929001#,Normal systolic arterial pulse pressure,22162010#,1,0,1,2,2705401000006110#,Normal systolic blood pressure,^ESCTNO270540,NA,22163017,NA,31
+12929001#,Normal systolic arterial pulse pressure,22162010#,1,0,1,2,2705391000006113#,Normal systolic arterial pressure,^ESCTNO270539,NA,22164011,NA,31
+12929001#,Normal systolic arterial pressure,22164011#,1,0,1,2,2705401000006110#,Normal systolic blood pressure,^ESCTNO270540,NA,22163017,NA,31
+12929001#,Normal systolic arterial pressure,22164011#,1,0,1,2,2705391000006113#,Normal systolic arterial pressure,^ESCTNO270539,NA,22164011,NA,31
+12929001#,Normal systolic arterial pressure (finding),733400017#,1,0,1,2,2705401000006110#,Normal systolic blood pressure,^ESCTNO270540,NA,22163017,NA,31
+12929001#,Normal systolic arterial pressure (finding),733400017#,1,0,1,2,2705391000006113#,Normal systolic arterial pressure,^ESCTNO270539,NA,22164011,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Low systolic arterial pressure,134379017#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Decreased systolic arterial pressure,134380019#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Decreased systolic arterial pulse pressure,134381015#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Low systolic arterial pulse pressure,134382010#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Decreased systolic arterial,134384011#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Low systolic arterial,134385012#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817681000006115#,Decreased systolic arterial,^ESCTDE381768,NA,134384011,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817661000006113#,Low systolic arterial pulse pressure,^ESCTLO381766,NA,134382010,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817671000006118#,Decreased systolic blood pressure,^ESCTDE381767,NA,134383017,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817641000006114#,Decreased systolic arterial pressure,^ESCTDE381764,NA,134380019,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817691000006117#,Low systolic arterial,^ESCTLO381769,NA,134385012,NA,31
+81010002#,Decreased systolic arterial pressure (finding),822234019#,1,0,1,2,3817651000006111#,Low systolic arterial pressure,^ESCTLO381765,NA,134379017,NA,31
+72313002#,Systolic arterial pressure,120159016#,1,0,1,2,3676261000006112#,Systolic arterial pressure,^ESCTSY367626,NA,3676261000006112,NA,2
+72313002#,Systolic arterial pressure,120159016#,1,0,1,2,114311000006111#,Systolic arterial pressure,2469,2469.00,120159016,NA,2
+72313002#,Systolic arterial pressure,120159016#,1,0,1,2,3676271000006117#,Systolic blood pressure,^ESCTSY367627,NA,120163011,NA,2
+72313002#,"Systolic arterial pulse pressure, NOS",120161013#,1,0,1,2,3676261000006112#,Systolic arterial pressure,^ESCTSY367626,NA,3676261000006112,NA,2
+72313002#,"Systolic arterial pulse pressure, NOS",120161013#,1,0,1,2,114311000006111#,Systolic arterial pressure,2469,2469.00,120159016,NA,2
+72313002#,"Systolic arterial pulse pressure, NOS",120161013#,1,0,1,2,3676271000006117#,Systolic blood pressure,^ESCTSY367627,NA,120163011,NA,2
+72313002#,Systolic arterial pressure (observable entity),812577018#,1,0,1,2,3676261000006112#,Systolic arterial pressure,^ESCTSY367626,NA,3676261000006112,NA,2
+72313002#,Systolic arterial pressure (observable entity),812577018#,1,0,1,2,114311000006111#,Systolic arterial pressure,2469,2469.00,120159016,NA,2
+72313002#,Systolic arterial pressure (observable entity),812577018#,1,0,1,2,3676271000006117#,Systolic blood pressure,^ESCTSY367627,NA,120163011,NA,2
+140243001#,O/E - Systolic BP reading,222165010#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140243001#,O/E - Systolic BP reading,518902012#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+251071003#,Invasive systolic blood pressure,1224582012#,1,0,0,1,5295061000006113#,SAP - Systolic arterial pressure,^ESCTSA529506,NA,1224581017,NA,31
+251071003#,Invasive systolic blood pressure,1224582012#,1,0,0,1,5295051000006111#,Invasive systolic arterial pressure,^ESCTIN529505,NA,374206017,NA,31
+251071003#,Invasive systolic blood pressure,1224582012#,1,0,0,1,5295071000006118#,Invasive systolic blood pressure,^ESCTIN529507,NA,1224582012,NA,31
+398300007#,Systolic blood pressure validity range (observable entity),1766219016#,1,0,0,1,6601471000006111#,Systolic blood pressure validity range,^ESCTSY660147,NA,1777840019,NA,31
+398300007#,Systolic blood pressure validity range,1777840019#,1,0,0,1,6601471000006111#,Systolic blood pressure validity range,^ESCTSY660147,NA,1777840019,NA,31
+140243001#,O/E - Systolic BP reading (finding),2751957014#,1,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+707304009#,Post exercise systolic blood pressure response normal,3029633015#,1,0,0,1,7615071000006115#,Post exercise systolic blood pressure response normal,^ESCTPO761507,NA,3029633015,NA,31
+707304009#,Post exercise systolic blood pressure response normal (finding),3029677010#,1,0,0,1,7615071000006115#,Post exercise systolic blood pressure response normal,^ESCTPO761507,NA,3029633015,NA,31
+708502007#,Systolic blood pressure of neonate at birth,3034025013#,1,0,0,1,7635271000006115#,Systolic blood pressure of neonate at birth,^ESCTSY763527,NA,3034025013,NA,31
+708502007#,Systolic blood pressure of neonate at birth (observable entity),3034305015#,1,0,0,1,7635271000006115#,Systolic blood pressure of neonate at birth,^ESCTSY763527,NA,3034025013,NA,31

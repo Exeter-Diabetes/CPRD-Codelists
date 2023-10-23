@@ -1,0 +1,11 @@
+V2_READ_CODE,V2_TERM,V3_READ_CODE,V3_TERM,SNOMED_CONCEPTID,SNOMED_TERM
+44J3.#,Serum creatinine,XE2q5#,Serum creatinine level,1000731000000107#,Serum creatinine level
+44J3.#,Serum creatinine,XE2q5#,Serum creatinine level,113075003#,"Creatinine measurement, serum"
+44JC.#,Cor plasma creatinine level,XaERX#,Cor plasma creatinine level,1000981000000109#,Corrected plasma creatinine level
+44JC.#,Cor plasma creatinine level,XaERX#,Cor plasma creatinine level,313817004#,Corrected plasma creatinine measurement
+44JD.#,Cor serum creatinine level,XaERc#,Cor serum creatinine level,1000991000000106#,Corrected serum creatinine level
+44JD.#,Cor serum creatinine level,XaERc#,Cor serum creatinine level,313822004#,Corrected serum creatinine measurement
+44JF.#,Plasma creatinine level,XaETQ#,Plasma creatinine level,1001011000000107#,Plasma creatinine level
+44JF.#,Plasma creatinine level,XaETQ#,Plasma creatinine level,313936008#,Plasma creatinine measurement
+4Q40.#,Creatinine level,X771Q#,Creatinine level,1032061000000108#,Creatinine level
+4Q40.#,Creatinine level,X771Q#,Creatinine level,70901006#,Creatinine measurement

@@ -1,0 +1,178 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,bhf,cam,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+301331008#,Finding of body mass index,442609010#,1,1,1,1,4,5892211000006116#,Finding of BMI (body mass index),^ESCTFI589221,NA,2227951000000116,NA,31
+301331008#,Finding of body mass index,442609010#,1,1,1,1,4,5892201000006119#,Observation of body mass index,^ESCTOB589220,NA,1226967010,NA,31
+301331008#,Finding of body mass index,442609010#,1,1,1,1,4,11923361000006119#,Finding of body mass index,^ESCT1192336,NA,442609010,NA,2
+301331008#,Finding of body mass index (finding),697115014#,1,1,1,1,4,5892211000006116#,Finding of BMI (body mass index),^ESCTFI589221,NA,2227951000000116,NA,31
+301331008#,Finding of body mass index (finding),697115014#,1,1,1,1,4,5892201000006119#,Observation of body mass index,^ESCTOB589220,NA,1226967010,NA,31
+301331008#,Finding of body mass index (finding),697115014#,1,1,1,1,4,11923361000006119#,Finding of body mass index,^ESCT1192336,NA,442609010,NA,2
+301331008#,Observation of body mass index,1226967010#,1,1,1,1,4,5892211000006116#,Finding of BMI (body mass index),^ESCTFI589221,NA,2227951000000116,NA,31
+301331008#,Observation of body mass index,1226967010#,1,1,1,1,4,5892201000006119#,Observation of body mass index,^ESCTOB589220,NA,1226967010,NA,31
+301331008#,Observation of body mass index,1226967010#,1,1,1,1,4,11923361000006119#,Finding of body mass index,^ESCT1192336,NA,442609010,NA,2
+60621009#,Body mass index,100716012#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,Body mass index,100716012#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,Body mass index,100716012#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,Body mass index,100716012#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,Body mass index,100716012#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+60621009#,"Body mass index, NOS",100717015#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,"Body mass index, NOS",100717015#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,"Body mass index, NOS",100717015#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,"Body mass index, NOS",100717015#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,"Body mass index, NOS",100717015#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+60621009#,Body mass index (observable entity),799594012#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,Body mass index (observable entity),799594012#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,Body mass index (observable entity),799594012#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,Body mass index (observable entity),799594012#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,Body mass index (observable entity),799594012#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+60621009#,Weight: body mass,2164080013#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,Weight: body mass,2164080013#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,Weight: body mass,2164080013#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,Weight: body mass,2164080013#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,Weight: body mass,2164080013#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+60621009#,BMI - Body mass index,2164081012#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,BMI - Body mass index,2164081012#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,BMI - Body mass index,2164081012#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,BMI - Body mass index,2164081012#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,BMI - Body mass index,2164081012#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+60621009#,Quetelet index,2620985015#,1,1,1,1,4,100716012#,Body mass index,22K,22K..00,100716012,NA,2
+60621009#,Quetelet index,2620985015#,1,1,1,1,4,3484811000006112#,Quetelet index,^ESCTQU348481,NA,2620985015,NA,2
+60621009#,Quetelet index,2620985015#,1,1,1,1,4,3484801000006114#,BMI - Body mass index,^ESCTBM348480,NA,2164081012,NA,2
+60621009#,Quetelet index,2620985015#,1,1,1,1,4,3484781000006110#,Body mass index,^ESCTBO348478,NA,3484781000006110,NA,2
+60621009#,Quetelet index,2620985015#,1,1,1,1,4,3484791000006113#,Weight: body mass,^ESCTWE348479,NA,2164080013,NA,2
+35425004#,Normal body mass index,59104012#,1,1,0,1,3,3070611000006119#,Normal BMI (body mass index),^ESCTNO307061,NA,2227901000000117,NA,2
+35425004#,Normal body mass index,59104012#,1,1,0,1,3,253844013#,Normal body mass index,22K1,22K1.00,59104012,NA,2
+35425004#,Normal body mass index (finding),767063018#,1,1,0,1,3,3070611000006119#,Normal BMI (body mass index),^ESCTNO307061,NA,2227901000000117,NA,2
+35425004#,Normal body mass index (finding),767063018#,1,1,0,1,3,253844013#,Normal body mass index,22K1,22K1.00,59104012,NA,2
+48499001#,Increased body mass index,80800016#,1,1,0,1,3,253845014#,Increased body mass index,22K2,22K2.00,80800016,NA,2
+48499001#,Increased body mass index,80800016#,1,1,0,1,3,3284711000006119#,Increased BMI (body mass index),^ESCTIN328471,NA,2227911000000115,NA,2
+48499001#,Increased body mass index (finding),786073015#,1,1,0,1,3,253845014#,Increased body mass index,22K2,22K2.00,80800016,NA,2
+48499001#,Increased body mass index (finding),786073015#,1,1,0,1,3,3284711000006119#,Increased BMI (body mass index),^ESCTIN328471,NA,2227911000000115,NA,2
+6497000#,Decreased body mass index,11777011#,1,1,0,1,3,2603621000006111#,Decreased BMI (body mass index),^ESCTDE260362,NA,2227891000000118,NA,2
+6497000#,Decreased body mass index,11777011#,1,1,0,1,3,253846010#,Decreased body mass index,22K3,22K3.00,11777011,NA,2
+6497000#,Decreased body mass index (finding),804421010#,1,1,0,1,3,2603621000006111#,Decreased BMI (body mass index),^ESCTDE260362,NA,2227891000000118,NA,2
+6497000#,Decreased body mass index (finding),804421010#,1,1,0,1,3,253846010#,Decreased body mass index,22K3,22K3.00,11777011,NA,2
+162863004#,Body mass index index 25-29 - overweight,253847018#,1,1,0,1,3,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,253847018,NA,2
+162863004#,Body mass index index 25-29 - overweight,253847018#,1,1,0,1,3,4553721000006113#,BMI 25-29 - overweight,^ESCTBM455372,NA,2164215019,NA,2
+162863004#,Body mass index index 25-29 - overweight,253847018#,1,1,0,1,3,4553701000006115#,Body mass index 25-29 - overweight,^ESCTBO455370,NA,2773979010,NA,2
+162863004#,Body mass index index 25-29 - overweight (finding),544017012#,1,1,0,1,3,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,253847018,NA,2
+162863004#,Body mass index index 25-29 - overweight (finding),544017012#,1,1,0,1,3,4553721000006113#,BMI 25-29 - overweight,^ESCTBM455372,NA,2164215019,NA,2
+162863004#,Body mass index index 25-29 - overweight (finding),544017012#,1,1,0,1,3,4553701000006115#,Body mass index 25-29 - overweight,^ESCTBO455370,NA,2773979010,NA,2
+162863004#,BMI 25-29 - overweight,2164215019#,1,1,0,1,3,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,253847018,NA,2
+162863004#,BMI 25-29 - overweight,2164215019#,1,1,0,1,3,4553721000006113#,BMI 25-29 - overweight,^ESCTBM455372,NA,2164215019,NA,2
+162863004#,BMI 25-29 - overweight,2164215019#,1,1,0,1,3,4553701000006115#,Body mass index 25-29 - overweight,^ESCTBO455370,NA,2773979010,NA,2
+162863004#,Body mass index 25-29 - overweight (finding),2736684019#,1,1,0,1,3,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,253847018,NA,2
+162863004#,Body mass index 25-29 - overweight (finding),2736684019#,1,1,0,1,3,4553721000006113#,BMI 25-29 - overweight,^ESCTBM455372,NA,2164215019,NA,2
+162863004#,Body mass index 25-29 - overweight (finding),2736684019#,1,1,0,1,3,4553701000006115#,Body mass index 25-29 - overweight,^ESCTBO455370,NA,2773979010,NA,2
+162863004#,Body mass index 25-29 - overweight,2773979010#,1,1,0,1,3,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,253847018,NA,2
+162863004#,Body mass index 25-29 - overweight,2773979010#,1,1,0,1,3,4553721000006113#,BMI 25-29 - overweight,^ESCTBM455372,NA,2164215019,NA,2
+162863004#,Body mass index 25-29 - overweight,2773979010#,1,1,0,1,3,4553701000006115#,Body mass index 25-29 - overweight,^ESCTBO455370,NA,2773979010,NA,2
+162864005#,Body mass index 30+ - obesity,253848011#,1,1,0,1,3,4553741000006118#,BMI 30+ - obesity,^ESCTBM455374,NA,2164216018,NA,2
+162864005#,Body mass index 30+ - obesity,253848011#,1,1,0,1,3,253848011#,Body mass index 30+ - obesity,22K5,22K5.00,253848011,NA,2
+162864005#,Body mass index 30+ - obesity (finding),544018019#,1,1,0,1,3,4553741000006118#,BMI 30+ - obesity,^ESCTBM455374,NA,2164216018,NA,2
+162864005#,Body mass index 30+ - obesity (finding),544018019#,1,1,0,1,3,253848011#,Body mass index 30+ - obesity,22K5,22K5.00,253848011,NA,2
+162864005#,BMI 30+ - obesity,2164216018#,1,1,0,1,3,4553741000006118#,BMI 30+ - obesity,^ESCTBM455374,NA,2164216018,NA,2
+162864005#,BMI 30+ - obesity,2164216018#,1,1,0,1,3,253848011#,Body mass index 30+ - obesity,22K5,22K5.00,253848011,NA,2
+310252000#,Body mass index less than 20,453856012#,1,1,0,1,3,5998281000006119#,BMI less than 20,^ESCTBM599828,NA,2164663010,NA,2
+310252000#,Body mass index less than 20,453856012#,1,1,0,1,3,453856012#,Body mass index less than 20,22K6,22K6.00,453856012,NA,2
+310252000#,Body mass index less than 20 (finding),706846015#,1,1,0,1,3,5998281000006119#,BMI less than 20,^ESCTBM599828,NA,2164663010,NA,2
+310252000#,Body mass index less than 20 (finding),706846015#,1,1,0,1,3,453856012#,Body mass index less than 20,22K6,22K6.00,453856012,NA,2
+310252000#,BMI less than 20,2164663010#,1,1,0,1,3,5998281000006119#,BMI less than 20,^ESCTBM599828,NA,2164663010,NA,2
+310252000#,BMI less than 20,2164663010#,1,1,0,1,3,453856012#,Body mass index less than 20,22K6,22K6.00,453856012,NA,2
+408512008#,Body mass index 40+ - severely obese (finding),2152343011#,1,1,0,1,3,2160062010#,Body mass index 40+ - severely obese,22K7,22K7.00,2160062010,NA,2
+408512008#,Body mass index 40+ - severely obese (finding),2152343011#,1,1,0,1,3,6763401000006111#,BMI (body mass index) 40+ - severely obese,^ESCTBM676340,NA,2227961000000118,NA,2
+408512008#,Body mass index 40+ - severely obese (finding),2152343011#,1,1,0,1,3,6763391000006114#,Body mass index 40+ - morbidly obese,^ESCTBO676339,NA,3005953017,NA,2
+408512008#,Body mass index 40+ - severely obese,2160062010#,1,1,0,1,3,2160062010#,Body mass index 40+ - severely obese,22K7,22K7.00,2160062010,NA,2
+408512008#,Body mass index 40+ - severely obese,2160062010#,1,1,0,1,3,6763401000006111#,BMI (body mass index) 40+ - severely obese,^ESCTBM676340,NA,2227961000000118,NA,2
+408512008#,Body mass index 40+ - severely obese,2160062010#,1,1,0,1,3,6763391000006114#,Body mass index 40+ - morbidly obese,^ESCTBO676339,NA,3005953017,NA,2
+408512008#,Body mass index 40+ - morbidly obese,3005953017#,1,1,0,1,3,2160062010#,Body mass index 40+ - severely obese,22K7,22K7.00,2160062010,NA,2
+408512008#,Body mass index 40+ - morbidly obese,3005953017#,1,1,0,1,3,6763401000006111#,BMI (body mass index) 40+ - severely obese,^ESCTBM676340,NA,2227961000000118,NA,2
+408512008#,Body mass index 40+ - morbidly obese,3005953017#,1,1,0,1,3,6763391000006114#,Body mass index 40+ - morbidly obese,^ESCTBO676339,NA,3005953017,NA,2
+412768003#,Body mass index 20-24 - normal (finding),2468221013#,1,1,0,1,3,2474325012#,Body mass index 20-24 - normal,22K8,22K8.00,2474325012,NA,2
+412768003#,Body mass index 20-24 - normal (finding),2468221013#,1,1,0,1,3,6831331000006118#,BMI (body mass index) 20-24 - normal,^ESCTBM683133,NA,2228011000000118,NA,2
+412768003#,Body mass index 20-24 - normal,2474325012#,1,1,0,1,3,2474325012#,Body mass index 20-24 - normal,22K8,22K8.00,2474325012,NA,2
+412768003#,Body mass index 20-24 - normal,2474325012#,1,1,0,1,3,6831331000006118#,BMI (body mass index) 20-24 - normal,^ESCTBM683133,NA,2228011000000118,NA,2
+846931000000101#,NA,NA#,0,1,1,1,3,2196071000000116#,Baseline body mass index,22KB,22KB.00,2196071000000116,NA,2
+846931000000101#,NA,NA#,0,1,1,1,3,8286991000006119#,Baseline BMI (body mass index),^ESCTBA828699,NA,2228241000000114,NA,2
+914721000000105#,NA,NA#,0,1,0,1,2,2350241000000116#,Obese class I (body mass index 30.0 - 34.9),22KC,22KC.00,2350241000000116,NA,2
+914731000000107#,NA,NA#,0,1,0,1,2,2350261000000115#,Obese class II (body mass index 35.0 - 39.9),22KD,22KD.00,2350261000000115,NA,2
+914741000000103#,NA,NA#,0,1,0,1,2,1900331000006113#,Obese class III (body mass index equal to or greater than 40.0),22KE,22KE.00,2350281000000112,NA,2
+248358009#,Weight for height,370755018#,1,1,0,0,2,5256401000006118#,Ponderal index,^ESCTPO525640,NA,1224095010,NA,2
+248358009#,Weight for height,370755018#,1,1,0,0,2,5256391000006115#,Weight for height,^ESCTWE525639,NA,370755018,NA,2
+248358009#,Weight for height (observable entity),638649017#,1,1,0,0,2,5256401000006118#,Ponderal index,^ESCTPO525640,NA,1224095010,NA,2
+248358009#,Weight for height (observable entity),638649017#,1,1,0,0,2,5256391000006115#,Weight for height,^ESCTWE525639,NA,370755018,NA,2
+248358009#,Ponderal index,1224095010#,1,1,0,0,2,5256401000006118#,Ponderal index,^ESCTPO525640,NA,1224095010,NA,2
+248358009#,Ponderal index,1224095010#,1,1,0,0,2,5256391000006115#,Weight for height,^ESCTWE525639,NA,370755018,NA,2
+427090001#,Body mass index less than 16.5 (finding),2661163017#,1,0,0,1,2,7068851000006119#,BMI (body mass index) less than 16.5,^ESCTBM706885,NA,2228201000000111,NA,31
+427090001#,Body mass index less than 16.5 (finding),2661163017#,1,0,0,1,2,7068841000006116#,Body mass index less than 16.5,^ESCTBO706884,NA,2673915012,NA,31
+427090001#,Body mass index less than 16.5,2673915012#,1,0,0,1,2,7068851000006119#,BMI (body mass index) less than 16.5,^ESCTBM706885,NA,2228201000000111,NA,31
+427090001#,Body mass index less than 16.5,2673915012#,1,0,0,1,2,7068841000006116#,Body mass index less than 16.5,^ESCTBO706884,NA,2673915012,NA,31
+443371000124107#,Body mass index 30.00 to 34.99,660391000124112#,1,0,0,1,2,12113171000006118#,Body mass index 30.00 to 34.99,^ESCT1211317,NA,660391000124112,NA,31
+443371000124107#,Body mass index 30.00 to 34.99,660391000124112#,1,0,0,1,2,12113161000006113#,Obese class I,^ESCT1211316,NA,660381000124114,NA,31
+443381000124105#,Body mass index 35.00 to 39.99,660431000124118#,1,0,0,1,2,12113191000006117#,Body mass index 35.00 to 39.99,^ESCT1211319,NA,660431000124118,NA,31
+443381000124105#,Body mass index 35.00 to 39.99,660431000124118#,1,0,0,1,2,12113181000006115#,Obese class II,^ESCT1211318,NA,660421000124116,NA,31
+443371000124107#,Obese class I (finding),660371000124111#,1,0,0,1,2,12113171000006118#,Body mass index 30.00 to 34.99,^ESCT1211317,NA,660391000124112,NA,31
+443371000124107#,Obese class I (finding),660371000124111#,1,0,0,1,2,12113161000006113#,Obese class I,^ESCT1211316,NA,660381000124114,NA,31
+443371000124107#,Obese class I,660381000124114#,1,0,0,1,2,12113171000006118#,Body mass index 30.00 to 34.99,^ESCT1211317,NA,660391000124112,NA,31
+443371000124107#,Obese class I,660381000124114#,1,0,0,1,2,12113161000006113#,Obese class I,^ESCT1211316,NA,660381000124114,NA,31
+443381000124105#,Obese class II (finding),660411000124112#,1,0,0,1,2,12113191000006117#,Body mass index 35.00 to 39.99,^ESCT1211319,NA,660431000124118,NA,31
+443381000124105#,Obese class II (finding),660411000124112#,1,0,0,1,2,12113181000006115#,Obese class II,^ESCT1211318,NA,660421000124116,NA,31
+443381000124105#,Obese class II,660421000124116#,1,0,0,1,2,12113191000006117#,Body mass index 35.00 to 39.99,^ESCT1211319,NA,660431000124118,NA,31
+443381000124105#,Obese class II,660421000124116#,1,0,0,1,2,12113181000006115#,Obese class II,^ESCT1211318,NA,660421000124116,NA,31
+140075008#,Body mass index,221960019#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140076009#,Body mass index normal K/M2,221961015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140077000#,Body mass index high K/M2,221962010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140078005#,Body mass index low K/M2,221963017#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140079002#,Body mass index index 25-29 - overweight,221964011#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140080004#,Body mass index 30+ - obesity,221965012#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140081000#,Body mass index less than 20,221966013#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162859006#,Body mass index,253843019#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162860001#,Body mass index normal K/M2,253844013#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162861002#,Body mass index high K/M2,253845014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162862009#,Body mass index low K/M2,253846010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162865006#,Body mass index less than 20,253849015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+248359001#,Quetelet index,370756017#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+248360006#,Weight for height,370757014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+363807006#,Body mass index,486931015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140075008#,Body mass index,518715014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140076009#,Body mass index normal K/M2,518716010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140077000#,Body mass index high K/M2,518718011#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140078005#,Body mass index low K/M2,518719015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140079002#,Body mass index index 25-29 - overweight,518720014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140080004#,Body mass index 30+ - obesity,518721013#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140081000#,Body mass index less than 20,518722018#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162859006#,Body mass index [dup] (observable entity),544013011#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162860001#,Body mass index normal K/M2 (finding),544014017#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162861002#,Body mass index high K/M2 (finding),544015016#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162862009#,Body mass index low K/M2 (finding),544016015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162865006#,Body mass index less than 20,544019010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+248359001#,Quetelet index (observable entity),638650017#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+248360006#,Weight for height,638651018#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+363807006#,Body mass index,769986019#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162859006#,Body mass index - observation,1221326012#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162859006#,BMI - Body mass index,1221327015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162859006#,Body mass index (observable entity),2710266012#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140078005#,Body mass index low K/M2 (finding),2729666010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140077000#,Body mass index high K/M2 (finding),2738409014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140080004#,Body mass index 30+ - obesity (finding),2746755018#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+162865006#,Body mass index less than 20 (finding),2753701015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140079002#,Body mass index index 25-29 - overweight (finding),2753878016#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140075008#,Body mass index (observable entity),2753879012#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140076009#,Body mass index normal K/M2 (finding),2754060018#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+363807006#,Body mass index (observable entity),2756273014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+140081000#,Body mass index less than 20 (finding),2758554017#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+248360006#,Weight for height (observable entity),2760823014#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+698094009#,Measurement of body mass index (procedure),2987339015#,1,0,0,0,1,7504441000006114#,Measurement of body mass index,^ESCTME750444,NA,2987393017,NA,31
+698094009#,Measurement of body mass index (procedure),2987339015#,1,0,0,0,1,7504451000006111#,Calculation of body mass index,^ESCTCA750445,NA,2987395012,NA,31
+698094009#,Measurement of body mass index,2987393017#,1,0,0,0,1,7504441000006114#,Measurement of body mass index,^ESCTME750444,NA,2987393017,NA,31
+698094009#,Measurement of body mass index,2987393017#,1,0,0,0,1,7504451000006111#,Calculation of body mass index,^ESCTCA750445,NA,2987395012,NA,31
+698094009#,Calculation of body mass index,2987395012#,1,0,0,0,1,7504441000006114#,Measurement of body mass index,^ESCTME750444,NA,2987393017,NA,31
+698094009#,Calculation of body mass index,2987395012#,1,0,0,0,1,7504451000006111#,Calculation of body mass index,^ESCTCA750445,NA,2987395012,NA,31
+722595002#,Overweight in adulthood with body mass index of 25 or more but less than 30 (finding),3332832016#,1,0,0,0,1,7833991000006118#,Overweight in adulthood with body mass index of 25 or more but less than 30,^ESCTOV783399,NA,3332833014,NA,31
+722595002#,Overweight in adulthood with body mass index of 25 or more but less than 30 (finding),3332832016#,1,0,0,0,1,7834001000006110#,Overweight in adulthood with BMI of 25 or more but less than 30,^ESCTOV783400,NA,3332834015,NA,31
+722595002#,Overweight in adulthood with body mass index of 25 or more but less than 30,3332833014#,1,0,0,0,1,7833991000006118#,Overweight in adulthood with body mass index of 25 or more but less than 30,^ESCTOV783399,NA,3332833014,NA,31
+722595002#,Overweight in adulthood with body mass index of 25 or more but less than 30,3332833014#,1,0,0,0,1,7834001000006110#,Overweight in adulthood with BMI of 25 or more but less than 30,^ESCTOV783400,NA,3332834015,NA,31
+819948005#,Body mass index equal to or greater than 40,3858274011#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+870194003#,Body mass index follow-up planning (procedure),3968441010#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+870194003#,Body mass index follow-up planning,3968442015#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+15051000175102#,Body mass index follow-up planning declined (situation),3968443013#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+15051000175102#,Body mass index follow-up planning declined,3968444019#,1,0,0,0,1,NA#,NA,NA,NA,NA,NA,NA
+

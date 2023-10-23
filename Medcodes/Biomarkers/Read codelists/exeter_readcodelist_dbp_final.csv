@@ -1,0 +1,21 @@
+readcode,term_readcode,CodingSystem,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+246a.#,NULL,CTV3,458823013#,Average night interval diastolic blood pressure,246a,246a.00,314460009,458823013,NA,2,246a.00#
+246A.#,O/E - Diastolic BP reading,CTV3,619931000006119#,Diastolic arterial pressure,246A,246A.00,1091811000000102,2734671000000117,NA,2,246A.00#
+246c.#,NULL,CTV3,2533636015#,Average home diastolic blood pressure,246c,246c.00,413605002,2533636015,NA,2,246c.00#
+246f.#,NULL,CTV3,298311000000112#,Ambulatory diastolic blood pressure,246f,246f.00,198091000000104,298311000000112,NA,2,246f.00#
+246P.#,NULL,CTV3,1780183016#,Standing diastolic blood pressure,246P,246P.00,400975005,1780183016,NA,2,246P.00#
+246R.#,NULL,CTV3,2159156012#,Sitting diastolic blood pressure,246R,246R.00,407555005,2159156012,NA,2,246R.00#
+246T.#,NULL,CTV3,2159158013#,Lying diastolic blood pressure,246T,246T.00,407557002,2159158013,NA,2,246T.00#
+246V.#,NULL,CTV3,458825018#,Average 24 hour diastolic blood pressure,246V,246V.00,314462001,458825018,NA,2,246V.00#
+246X.#,NULL,CTV3,458824019#,Average day interval diastolic blood pressure,246X,246X.00,314461008,458824019,NA,2,246X.00#
+XaF4a#,Average day interval diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4a#
+XaF4b#,Average 24 hour diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4b#
+XaF4S#,Average diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4S#
+XaF4Z#,Average night interval diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4Z#
+XaIwk#,Standing diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaIwk#
+XaJ2F#,Sitting diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ2F#
+XaJ2H#,Lying diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ2H#
+XaKFw#,Average home diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKFw#
+XaKjG#,Ambulatory diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKjG#
+XM02Y#,Diastolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XM02Y#
+246m.#,Average diastolic blood pressure,READ2,458816012#,Average diastolic blood pressure,246m,246m.00,314453003,458816012,NA,2,246m.00#

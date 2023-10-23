@@ -1,0 +1,23 @@
+readcode,term_readcode,CodingSystem,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+22K..#,Body Mass Index,READ2,100716012#,Body mass index,22K,22K..00,60621009,100716012,NA,2,22K..00#
+22K1.#,Body Mass Index normal K/M2,READ2,253844013#,Normal body mass index,22K1,22K1.00,35425004,59104012,NA,2,22K1.00#
+22K2.#,Body Mass Index high K/M2,READ2,253845014#,Increased body mass index,22K2,22K2.00,48499001,80800016,NA,2,22K2.00#
+22K3.#,Body Mass Index low K/M2,READ2,253846010#,Decreased body mass index,22K3,22K3.00,6497000,11777011,NA,2,22K3.00#
+22K4.#,Body mass index index 25-29 - overweight,READ2,253847018#,Body mass index index 25-29 - overweight,22K4,22K4.00,162863004,253847018,NA,2,22K4.00#
+22K5.#,Body mass index 30+ - obesity,READ2,253848011#,Body mass index 30+ - obesity,22K5,22K5.00,162864005,253848011,NA,2,22K5.00#
+22K6.#,Body mass index less than 20,READ2,453856012#,Body mass index less than 20,22K6,22K6.00,310252000,453856012,NA,2,22K6.00#
+22K7.#,Body mass index 40+ - severely obese,READ2,2160062010#,Body mass index 40+ - severely obese,22K7,22K7.00,408512008,2160062010,NA,2,22K7.00#
+22K8.#,Body mass index 20-24 - normal,READ2,2474325012#,Body mass index 20-24 - normal,22K8,22K8.00,412768003,2474325012,NA,2,22K8.00#
+22KB.#,Baseline body mass index,READ2,2196071000000116#,Baseline body mass index,22KB,22KB.00,846931000000101,2196071000000116,NA,2,22KB.00#
+22KC.#,Obese class I (body mass index 30.0 - 34.9),READ2,2350241000000116#,Obese class I (body mass index 30.0 - 34.9),22KC,22KC.00,914721000000105,2350241000000116,NA,2,22KC.00#
+22KD.#,Obese class II (body mass index 35.0 - 39.9),READ2,2350261000000115#,Obese class II (body mass index 35.0 - 39.9),22KD,22KD.00,914731000000107,2350261000000115,NA,2,22KD.00#
+22KE.#,Obese class III (body mass index equal to or greater than 40.0),READ2,1900331000006113#,Obese class III (body mass index equal to or greater than 40.0),22KE,22KE.00,914741000000103,2350281000000112,NA,2,22KE.00#
+X76CO#,Quetelet index,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,X76CO#
+XabHz#,Obese class III (body mass index equal to or greater than 40.0),CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XabHz#
+XabHy#,Obese class II (body mass index 35.0 - 39.9),CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XabHy#
+XabHx#,Obese class I (body mass index 30.0 - 34.9),CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XabHx#
+XaJqk#,Body mass index 20-24 - normal,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJqk#
+XaZcl#,Baseline body mass index,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaZcl#
+X76CN#,Weight for height,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,X76CN#
+XaJJH#,Body mass index 40+ - severely obese,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJJH#
+XaCDR#,Body mass index less than 20,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaCDR#

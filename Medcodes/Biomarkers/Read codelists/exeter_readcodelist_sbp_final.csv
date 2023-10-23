@@ -1,0 +1,21 @@
+readcode,term_readcode,CodingSystem,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+246b.#,NULL,CTV3,458808015#,Average night interval systolic blood pressure,246b,246b.00,314445006,458808015,NA,2,246b.00#
+246d.#,NULL,CTV3,2533615017#,Average home systolic blood pressure,246d,246d.00,413606001,2533615017,NA,2,246d.00#
+246e.#,NULL,CTV3,298281000000114#,Ambulatory systolic blood pressure,246e,246e.00,198081000000101,298281000000114,NA,2,246e.00#
+246N.#,NULL,CTV3,1780182014#,Standing systolic blood pressure,246N,246N.00,400974009,1780182014,NA,2,246N.00#
+246Q.#,NULL,CTV3,2159155011#,Sitting systolic blood pressure,246Q,246Q.00,407554009,2159155011,NA,2,246Q.00#
+246S.#,NULL,CTV3,2159157015#,Lying systolic blood pressure,246S,246S.00,407556006,2159157015,NA,2,246S.00#
+246W.#,NULL,CTV3,458812014#,Average 24 hour systolic blood pressure,246W,246W.00,314449000,458812014,NA,2,246W.00#
+246Y.#,NULL,CTV3,458809011#,Average day interval systolic blood pressure,246Y,246Y.00,314446007,458809011,NA,2,246Y.00#
+XaF4F#,Average systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4F#
+XaF4K#,Average night interval systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4K#
+XaF4L#,Average day interval systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4L#
+XaF4O#,Average 24 hour systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaF4O#
+XaIwj#,Standing systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaIwj#
+XaJ2E#,Sitting systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ2E#
+XaJ2G#,Lying systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJ2G#
+XaKFx#,Average home systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKFx#
+XaKjF#,Ambulatory systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKjF#
+XM02X#,Systolic blood pressure,CTV3,NA#,NA,NA,NA,NA,NA,NA,NA,XM02X#
+2469#,O/E - Systolic BP reading,READ2,NA#,NA,NA,NA,NA,NA,NA,NA,2469#
+246l.#,Average systolic blood pressure,READ2,458803012#,Average systolic blood pressure,246l,246l.00,314440001,458803012,NA,2,246l.00#

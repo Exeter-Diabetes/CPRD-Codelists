@@ -1,0 +1,6 @@
+V2_READ_CODE,V2_TERM,V3_READ_CODE,V3_TERM,SNOMED_CONCEPTID,SNOMED_TERM
+44H5.#,AST - aspartate transam.(SGOT),XE25Q#,Aspartate transaminase level,1031101000000102#,Aspartate aminotransferase level
+44HB.#,AST serum level,X771i#,AST serum level,1000881000000102#,Serum aspartate aminotransferase level
+44HB.#,AST serum level,X771i#,AST serum level,250641004#,AST serum measurement
+44HC.#,Plasma AST level,XaES6#,Plasma AST level,1000891000000100#,Plasma aspartate transaminase level
+44HC.#,Plasma AST level,XaES6#,Plasma AST level,313852007#,Plasma aspartate transaminase measurement

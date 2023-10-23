@@ -1,0 +1,9 @@
+V2_READ_CODE,V2_TERM,V3_READ_CODE,V3_TERM,SNOMED_CONCEPTID,SNOMED_TERM
+44P5.#,Serum HDL cholesterol level,44P5.#,Serum HDL cholesterol level,1005681000000107#,Serum high density lipoprotein cholesterol level
+44P5.#,Serum HDL cholesterol level,44P5.#,Serum HDL cholesterol level,166832000#,Serum HDL cholesterol measurement
+44PB.#,Serum fast HDL cholesterol lev,44PB.#,Serum fast HDL cholesterol lev,1026451000000102#,Serum fasting HDL (high density lipoprotein) cholesterol level
+44PC.#,Ser random HDL cholesterol lev,44PC.#,Ser random HDL cholesterol lev,1026461000000104#,Serum random HDL (high density lipoprotein) cholesterol level
+44d2.#,Plasma rndm HDL cholest level,44d2.#,Plasma rndm HDL cholest level,1028831000000106#,Plasma random HDL (high density lipoprotein) cholesterol level
+44d3.#,Plasma fast HDL cholest level,44d3.#,Plasma fast HDL cholest level,1028841000000102#,Plasma fasting HDL (high density lipoprotein) cholesterol level
+44dA.#,Plasma HDL cholesterol level,XaEVr#,Plasma HDL cholesterol level,1010581000000101#,Plasma HDL (high density lipoprotein) cholesterol level
+44dA.#,Plasma HDL cholesterol level,XaEVr#,Plasma HDL cholesterol level,314035000#,Plasma HDL cholesterol measurement

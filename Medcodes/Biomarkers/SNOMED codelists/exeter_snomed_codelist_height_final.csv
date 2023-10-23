@@ -1,0 +1,192 @@
+snomedcode,term_snomed,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+162755006#,O/E - height,253669010#,1,1,2,4551671000006115#,On examination - height,^ESCTON455167,NA,2666494014,NA,31
+162755006#,O/E - height,253669010#,1,1,2,11905141000006112#,O/E - height,^ESCT1190514,NA,253669010,NA,27
+162755006#,On examination - height (context-dependent category),543897018#,1,1,2,4551671000006115#,On examination - height,^ESCTON455167,NA,2666494014,NA,31
+162755006#,On examination - height (context-dependent category),543897018#,1,1,2,11905141000006112#,O/E - height,^ESCT1190514,NA,253669010,NA,27
+162755006#,On examination - height (finding),2560502014#,1,1,2,4551671000006115#,On examination - height,^ESCTON455167,NA,2666494014,NA,31
+162755006#,On examination - height (finding),2560502014#,1,1,2,11905141000006112#,O/E - height,^ESCT1190514,NA,253669010,NA,27
+162755006#,On examination - height,2666494014#,1,1,2,4551671000006115#,On examination - height,^ESCTON455167,NA,2666494014,NA,31
+162755006#,On examination - height,2666494014#,1,1,2,11905141000006112#,O/E - height,^ESCT1190514,NA,253669010,NA,27
+162756007#,O/E - height greater than 20% below average,253670011#,1,1,2,4551681000006117#,O/E - height greater than 20% below average,^ESCTOE455168,NA,253670011,NA,2
+162756007#,O/E - height greater than 20% below average,253670011#,1,1,2,271181000006113#,O/E-height > 20% below average,2291,2291.00,253670011,NA,2
+162756007#,O/E - height greater than 20% below average,253670011#,1,1,2,4551691000006119#,On examination - height greater than 20% below average,^ESCTON455169,NA,2666495010,NA,2
+162756007#,On examination - height greater than 20% below average (context-dependent category),543899015#,1,1,2,4551681000006117#,O/E - height greater than 20% below average,^ESCTOE455168,NA,253670011,NA,2
+162756007#,On examination - height greater than 20% below average (context-dependent category),543899015#,1,1,2,271181000006113#,O/E-height > 20% below average,2291,2291.00,253670011,NA,2
+162756007#,On examination - height greater than 20% below average (context-dependent category),543899015#,1,1,2,4551691000006119#,On examination - height greater than 20% below average,^ESCTON455169,NA,2666495010,NA,2
+162756007#,On examination - height greater than 20% below average (finding),2560503016#,1,1,2,4551681000006117#,O/E - height greater than 20% below average,^ESCTOE455168,NA,253670011,NA,2
+162756007#,On examination - height greater than 20% below average (finding),2560503016#,1,1,2,271181000006113#,O/E-height > 20% below average,2291,2291.00,253670011,NA,2
+162756007#,On examination - height greater than 20% below average (finding),2560503016#,1,1,2,4551691000006119#,On examination - height greater than 20% below average,^ESCTON455169,NA,2666495010,NA,2
+162756007#,On examination - height greater than 20% below average,2666495010#,1,1,2,4551681000006117#,O/E - height greater than 20% below average,^ESCTOE455168,NA,253670011,NA,2
+162756007#,On examination - height greater than 20% below average,2666495010#,1,1,2,271181000006113#,O/E-height > 20% below average,2291,2291.00,253670011,NA,2
+162756007#,On examination - height greater than 20% below average,2666495010#,1,1,2,4551691000006119#,On examination - height greater than 20% below average,^ESCTON455169,NA,2666495010,NA,2
+162757003#,O/E - height 10-20% below average,253671010#,1,1,2,4551711000006116#,On examination - height 10-20% below average,^ESCTON455171,NA,2666500013,NA,2
+162757003#,O/E - height 10-20% below average,253671010#,1,1,2,4551701000006119#,O/E - height 10-20% below average,^ESCTOE455170,NA,253671010,NA,2
+162757003#,O/E - height 10-20% below average,253671010#,1,1,2,284561000006119#,O/E - height 10-20% < average,2292,2292.00,253671010,NA,2
+162757003#,On examination - height 10-20% below average (context-dependent category),543900013#,1,1,2,4551711000006116#,On examination - height 10-20% below average,^ESCTON455171,NA,2666500013,NA,2
+162757003#,On examination - height 10-20% below average (context-dependent category),543900013#,1,1,2,4551701000006119#,O/E - height 10-20% below average,^ESCTOE455170,NA,253671010,NA,2
+162757003#,On examination - height 10-20% below average (context-dependent category),543900013#,1,1,2,284561000006119#,O/E - height 10-20% < average,2292,2292.00,253671010,NA,2
+162757003#,On examination - height 10-20% below average (finding),2560336019#,1,1,2,4551711000006116#,On examination - height 10-20% below average,^ESCTON455171,NA,2666500013,NA,2
+162757003#,On examination - height 10-20% below average (finding),2560336019#,1,1,2,4551701000006119#,O/E - height 10-20% below average,^ESCTOE455170,NA,253671010,NA,2
+162757003#,On examination - height 10-20% below average (finding),2560336019#,1,1,2,284561000006119#,O/E - height 10-20% < average,2292,2292.00,253671010,NA,2
+162757003#,On examination - height 10-20% below average,2666500013#,1,1,2,4551711000006116#,On examination - height 10-20% below average,^ESCTON455171,NA,2666500013,NA,2
+162757003#,On examination - height 10-20% below average,2666500013#,1,1,2,4551701000006119#,O/E - height 10-20% below average,^ESCTOE455170,NA,253671010,NA,2
+162757003#,On examination - height 10-20% below average,2666500013#,1,1,2,284561000006119#,O/E - height 10-20% < average,2292,2292.00,253671010,NA,2
+162758008#,O/E -height within 10% average,253672015#,1,1,2,253672015#,O/E -height within 10% average,2293,2293.00,253672015,NA,2
+162758008#,O/E -height within 10% average,253672015#,1,1,2,4551731000006110#,On examination - height within 10% average,^ESCTON455173,NA,2666501012,NA,2
+162758008#,On examination - height within 10% average (context-dependent category),543901012#,1,1,2,253672015#,O/E -height within 10% average,2293,2293.00,253672015,NA,2
+162758008#,On examination - height within 10% average (context-dependent category),543901012#,1,1,2,4551731000006110#,On examination - height within 10% average,^ESCTON455173,NA,2666501012,NA,2
+162758008#,On examination - height within 10% average (finding),2560337011#,1,1,2,253672015#,O/E -height within 10% average,2293,2293.00,253672015,NA,2
+162758008#,On examination - height within 10% average (finding),2560337011#,1,1,2,4551731000006110#,On examination - height within 10% average,^ESCTON455173,NA,2666501012,NA,2
+162758008#,On examination - height within 10% average,2666501012#,1,1,2,253672015#,O/E -height within 10% average,2293,2293.00,253672015,NA,2
+162758008#,On examination - height within 10% average,2666501012#,1,1,2,4551731000006110#,On examination - height within 10% average,^ESCTON455173,NA,2666501012,NA,2
+162759000#,O/E-height 10-20% over average,253673013#,1,1,2,253673013#,O/E-height 10-20% over average,2294,2294.00,253673013,NA,2
+162759000#,O/E-height 10-20% over average,253673013#,1,1,2,4551751000006115#,On examination - height 10-20% over average,^ESCTON455175,NA,2668038013,NA,2
+162759000#,On examination - height 10-20% over average (context-dependent category),543902017#,1,1,2,253673013#,O/E-height 10-20% over average,2294,2294.00,253673013,NA,2
+162759000#,On examination - height 10-20% over average (context-dependent category),543902017#,1,1,2,4551751000006115#,On examination - height 10-20% over average,^ESCTON455175,NA,2668038013,NA,2
+162759000#,On examination - height 10-20% over average (finding),2560592015#,1,1,2,253673013#,O/E-height 10-20% over average,2294,2294.00,253673013,NA,2
+162759000#,On examination - height 10-20% over average (finding),2560592015#,1,1,2,4551751000006115#,On examination - height 10-20% over average,^ESCTON455175,NA,2668038013,NA,2
+162759000#,On examination - height 10-20% over average,2668038013#,1,1,2,253673013#,O/E-height 10-20% over average,2294,2294.00,253673013,NA,2
+162759000#,On examination - height 10-20% over average,2668038013#,1,1,2,4551751000006115#,On examination - height 10-20% over average,^ESCTON455175,NA,2668038013,NA,2
+162760005#,O/E - height greater than 20% over average,253674019#,1,1,2,4551771000006113#,On examination - height greater than 20% over average,^ESCTON455177,NA,2668039017,NA,2
+162760005#,O/E - height greater than 20% over average,253674019#,1,1,2,4551761000006118#,O/E - height greater than 20% over average,^ESCTOE455176,NA,253674019,NA,2
+162760005#,O/E - height greater than 20% over average,253674019#,1,1,2,272151000006114#,O/E -height > 20% over average,2295,2295.00,253674019,NA,2
+162760005#,On examination - height greater than 20% over average (context-dependent category),543903010#,1,1,2,4551771000006113#,On examination - height greater than 20% over average,^ESCTON455177,NA,2668039017,NA,2
+162760005#,On examination - height greater than 20% over average (context-dependent category),543903010#,1,1,2,4551761000006118#,O/E - height greater than 20% over average,^ESCTOE455176,NA,253674019,NA,2
+162760005#,On examination - height greater than 20% over average (context-dependent category),543903010#,1,1,2,272151000006114#,O/E -height > 20% over average,2295,2295.00,253674019,NA,2
+162760005#,On examination - height greater than 20% over average (finding),2560593013#,1,1,2,4551771000006113#,On examination - height greater than 20% over average,^ESCTON455177,NA,2668039017,NA,2
+162760005#,On examination - height greater than 20% over average (finding),2560593013#,1,1,2,4551761000006118#,O/E - height greater than 20% over average,^ESCTOE455176,NA,253674019,NA,2
+162760005#,On examination - height greater than 20% over average (finding),2560593013#,1,1,2,272151000006114#,O/E -height > 20% over average,2295,2295.00,253674019,NA,2
+162760005#,On examination - height greater than 20% over average,2668039017#,1,1,2,4551771000006113#,On examination - height greater than 20% over average,^ESCTON455177,NA,2668039017,NA,2
+162760005#,On examination - height greater than 20% over average,2668039017#,1,1,2,4551761000006118#,O/E - height greater than 20% over average,^ESCTOE455176,NA,253674019,NA,2
+162760005#,On examination - height greater than 20% over average,2668039017#,1,1,2,272151000006114#,O/E -height > 20% over average,2295,2295.00,253674019,NA,2
+83077003#,Increased body height,137797015#,1,1,2,3851901000006119#,Tall stature for age,^ESCTTA385190,NA,137799017,NA,31
+83077003#,Increased body height,137797015#,1,1,2,3851891000006118#,Tall for age,^ESCTTA385189,NA,137798013,NA,31
+83077003#,Tall for age,137798013#,1,1,2,3851901000006119#,Tall stature for age,^ESCTTA385190,NA,137799017,NA,31
+83077003#,Tall for age,137798013#,1,1,2,3851891000006118#,Tall for age,^ESCTTA385189,NA,137798013,NA,31
+83077003#,Tall stature for age,137799017#,1,1,2,3851901000006119#,Tall stature for age,^ESCTTA385190,NA,137799017,NA,31
+83077003#,Tall stature for age,137799017#,1,1,2,3851891000006118#,Tall for age,^ESCTTA385189,NA,137798013,NA,31
+83077003#,Tall for age (finding),824634013#,1,1,2,3851901000006119#,Tall stature for age,^ESCTTA385190,NA,137799017,NA,31
+83077003#,Tall for age (finding),824634013#,1,1,2,3851891000006118#,Tall for age,^ESCTTA385189,NA,137798013,NA,31
+248327008#,General finding of height,370721016#,1,1,2,5256071000006119#,General finding of height,^ESCTGE525607,NA,370721016,NA,31
+248327008#,General finding of height,370721016#,1,1,2,5256081000006116#,General appraisal of height,^ESCTGE525608,NA,1224090017,NA,31
+248327008#,General finding of height (finding),638614012#,1,1,2,5256071000006119#,General finding of height,^ESCTGE525607,NA,370721016,NA,31
+248327008#,General finding of height (finding),638614012#,1,1,2,5256081000006116#,General appraisal of height,^ESCTGE525608,NA,1224090017,NA,31
+248327008#,General appraisal of height,1224090017#,1,1,2,5256071000006119#,General finding of height,^ESCTGE525607,NA,370721016,NA,31
+248327008#,General appraisal of height,1224090017#,1,1,2,5256081000006116#,General appraisal of height,^ESCTGE525608,NA,1224090017,NA,31
+248328003#,Tall stature,370722011#,1,1,2,5256091000006118#,Tall stature,^ESCTTA525609,NA,370722011,NA,31
+248328003#,Tall stature,370722011#,1,1,2,5256101000006112#,Large stature,^ESCTLA525610,NA,370723018,NA,31
+248328003#,Large stature,370723018#,1,1,2,5256091000006118#,Tall stature,^ESCTTA525609,NA,370722011,NA,31
+248328003#,Large stature,370723018#,1,1,2,5256101000006112#,Large stature,^ESCTLA525610,NA,370723018,NA,31
+248328003#,Tall stature (finding),638615013#,1,1,2,5256091000006118#,Tall stature,^ESCTTA525609,NA,370722011,NA,31
+248328003#,Tall stature (finding),638615013#,1,1,2,5256101000006112#,Large stature,^ESCTLA525610,NA,370723018,NA,31
+50373000#,Body height,83914018#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,Body height,83914018#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+50373000#,"Body height, NOS",83915017#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,"Body height, NOS",83915017#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+50373000#,"Body length, NOS",83916016#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,"Body length, NOS",83916016#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+50373000#,Body length,83917013#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,Body length,83917013#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+50373000#,Body height measure,495662010#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,Body height measure,495662010#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+50373000#,Body height measure (observable entity),788154012#,1,1,2,3315711000006110#,Body height measure,^ESCTBO331571,NA,495662010,NA,31
+50373000#,Body height measure (observable entity),788154012#,1,1,2,3315721000006119#,Body height,^ESCTBO331572,NA,83914018,NA,31
+248333004#,Standing height,370729019#,1,1,2,253669010#,Standing height,229,229..00,370729019,NA,2
+248333004#,Standing height,370729019#,1,1,2,5256151000006111#,Standing height,^ESCTST525615,NA,5256151000006111,NA,2
+248333004#,Standing height,370729019#,1,1,2,253676017#,O/E - height NOS,229Z,229Z.00,370729019,NA,2
+248333004#,Standing height (observable entity),638621012#,1,1,2,253669010#,Standing height,229,229..00,370729019,NA,2
+248333004#,Standing height (observable entity),638621012#,1,1,2,5256151000006111#,Standing height,^ESCTST525615,NA,5256151000006111,NA,2
+248333004#,Standing height (observable entity),638621012#,1,1,2,253676017#,O/E - height NOS,229Z,229Z.00,370729019,NA,2
+309534003#,Normal height,452982012#,1,1,2,5990011000006117#,Normal height,^ESCTNO599001,NA,452982012,NA,31
+309534003#,Normal height (finding),706058019#,1,1,2,5990011000006117#,Normal height,^ESCTNO599001,NA,452982012,NA,31
+271817008#,Has not grown in height,406786011#,1,1,2,5529871000006114#,Height static,^ESCTHE552987,NA,406788012,NA,32
+271817008#,Has not grown in height,406786011#,1,1,2,317246015#,Lack of growth,R0343,R034300,406787019,NA,32
+271817008#,Has not grown in height,406786011#,1,1,2,5529851000006116#,Has not grown in height,^ESCTHA552985,NA,406786011,NA,32
+271817008#,Lack of growth,406787019#,1,1,2,5529871000006114#,Height static,^ESCTHE552987,NA,406788012,NA,32
+271817008#,Lack of growth,406787019#,1,1,2,317246015#,Lack of growth,R0343,R034300,406787019,NA,32
+271817008#,Lack of growth,406787019#,1,1,2,5529851000006116#,Has not grown in height,^ESCTHA552985,NA,406786011,NA,32
+271817008#,Height static,406788012#,1,1,2,5529871000006114#,Height static,^ESCTHE552987,NA,406788012,NA,32
+271817008#,Height static,406788012#,1,1,2,317246015#,Lack of growth,R0343,R034300,406787019,NA,32
+271817008#,Height static,406788012#,1,1,2,5529851000006116#,Has not grown in height,^ESCTHA552985,NA,406786011,NA,32
+271817008#,Has not grown in height (finding),664266010#,1,1,2,5529871000006114#,Height static,^ESCTHE552987,NA,406788012,NA,32
+271817008#,Has not grown in height (finding),664266010#,1,1,2,317246015#,Lack of growth,R0343,R034300,406787019,NA,32
+271817008#,Has not grown in height (finding),664266010#,1,1,2,5529851000006116#,Has not grown in height,^ESCTHA552985,NA,406786011,NA,32
+17489000#,Body height normal for age,29563014#,1,0,1,2777641000006111#,Body height normal for age,^ESCTBO277764,NA,29563014,NA,31
+58236001#,Normal height and weight,96781018#,1,0,1,3446211000006113#,Normal height and weight,^ESCTNO344621,NA,96781018,NA,31
+58236001#,Normal height and weight,96781018#,1,0,1,3446201000006110#,Normal growth,^ESCTNO344620,NA,498112017,NA,31
+129814003#,Body height abnormal for age,208651012#,1,0,1,4431301000006114#,Body height abnormal for age,^ESCTBO443130,NA,208651012,NA,31
+129814003#,Body height abnormal for age,208651012#,1,0,1,11784691000006115#,Height abnormal for age,^ESCT1178469,NA,3506665019,NA,31
+139977008#,O/E - height,221829018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139978003#,O/E - height greater than 20% below average,221830011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139979006#,O/E - height 10-20% below average,221831010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139980009#,O/E -height within 10% average,221832015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139981008#,O/E-height 10-20% over average,221833013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139982001#,O/E - height greater than 20% over average,221834019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139983006#,O/E - loss of height,221835018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139984000#,O/E - height NOS,221836017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140065005#,O/E - short stature,221950011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158283003#,[D]Short stature,246913017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162762002#,O/E - height NOS,253676017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162849005#,O/E - short stature,253826017#,1,0,1,4553551000006113#,On examination - short stature,^ESCTON455355,NA,2667500015,NA,27
+162849005#,O/E - short stature,253826017#,1,0,1,253826017#,O/E - short stature,22I6,22I6.00,253826017,NA,27
+190465003#,Constitutional tall stature,292697019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+190584003#,Constitutional short stature,292934013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206930002#,[D]Short stature,317248019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206931003#,"[D]Short stature, constitutional",317249010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+277266007#,SS - Short stature,413727017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+277266007#,Short stature,413729019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301330009#,Finding of measures of body height and growth,442608019#,1,0,1,5892181000006115#,Observation of measures of body height and growth,^ESCTOB589218,NA,1226966018,NA,31
+301330009#,Finding of measures of body height and growth,442608019#,1,0,1,5892171000006118#,Finding of measures of body height and growth,^ESCTFI589217,NA,442608019,NA,31
+139977008#,O/E - height,518607015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139978003#,O/E - height greater than 20% below average,518608013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139979006#,O/E - height 10-20% below average,518609017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139980009#,O/E -height within 10% average,518610010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139981008#,O/E-height 10-20% over average,518611014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139982001#,O/E - height greater than 20% over average,518612019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139983006#,O/E - loss of height,518613012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139984000#,O/E - height NOS,518614018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140065005#,O/E - short stature,518704016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158283003#,[D]Short stature,538927012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+162849005#,On examination - short stature (context-dependent category),544002013#,1,0,1,4553551000006113#,On examination - short stature,^ESCTON455355,NA,2667500015,NA,27
+162849005#,On examination - short stature (context-dependent category),544002013#,1,0,1,253826017#,O/E - short stature,22I6,22I6.00,253826017,NA,27
+190465003#,Constitutional tall stature,574046011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206930002#,[D]Short stature (context-dependent category),592481014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206931003#,"[D]Short stature, constitutional (context-dependent category)",592482019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+277266007#,Short stature (finding),670282015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+301330009#,Finding of measures of body height and growth (finding),697114013#,1,0,1,5892181000006115#,Observation of measures of body height and growth,^ESCTOB589218,NA,1226966018,NA,31
+301330009#,Finding of measures of body height and growth (finding),697114013#,1,0,1,5892171000006118#,Finding of measures of body height and growth,^ESCTFI589217,NA,442608019,NA,31
+129814003#,Body height abnormal for age (finding),733999019#,1,0,1,4431301000006114#,Body height abnormal for age,^ESCTBO443130,NA,208651012,NA,31
+129814003#,Body height abnormal for age (finding),733999019#,1,0,1,11784691000006115#,Height abnormal for age,^ESCT1178469,NA,3506665019,NA,31
+17489000#,Body height normal for age (finding),744796014#,1,0,1,2777641000006111#,Body height normal for age,^ESCTBO277764,NA,29563014,NA,31
+301330009#,Observation of measures of body height and growth,1226966018#,1,0,1,5892181000006115#,Observation of measures of body height and growth,^ESCTOB589218,NA,1226966018,NA,31
+301330009#,Observation of measures of body height and growth,1226966018#,1,0,1,5892171000006118#,Finding of measures of body height and growth,^ESCTFI589217,NA,442608019,NA,31
+206930002#,[D]Short stature (situation),2608512012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+206931003#,"[D]Short stature, constitutional (situation)",2608513019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+422065006#,Constitutional short stature,2618325012#,1,0,1,317249010#,Constitutional short stature,R0346,R034600,2618325012,NA,32
+425115008#,Abnormal height in relation to growth / age standard (finding),2639153019#,1,0,1,7038841000006114#,Abnormal height in relation to growth / age standard,^ESCTAB703884,NA,2643129017,NA,31
+425115008#,Abnormal height in relation to growth / age standard,2643129017#,1,0,1,7038841000006114#,Abnormal height in relation to growth / age standard,^ESCTAB703884,NA,2643129017,NA,31
+162849005#,On examination - short stature,2667500015#,1,0,1,4553551000006113#,On examination - short stature,^ESCTON455355,NA,2667500015,NA,27
+162849005#,On examination - short stature,2667500015#,1,0,1,253826017#,O/E - short stature,22I6,22I6.00,253826017,NA,27
+139980009#,O/E -height within 10% average (finding),2717252017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139977008#,O/E - height (finding),2729517015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139984000#,O/E - height NOS (finding),2730768017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+140065005#,O/E - short stature (finding),2730775016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139978003#,O/E - height greater than 20% below average (finding),2731198010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139981008#,O/E-height 10-20% over average (finding),2732927011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+158283003#,[D]Short stature (situation),2735041012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139979006#,O/E - height 10-20% below average (finding),2752649010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139983006#,O/E - loss of height (finding),2758387017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+139982001#,O/E - height greater than 20% over average (finding),2762501014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+444000005#,Short stature for age (finding),2836218018#,1,0,1,7286591000006116#,Short stature for age,^ESCTSH728659,NA,2841264013,NA,31
+444000005#,Short stature for age,2841264013#,1,0,1,7286591000006116#,Short stature for age,^ESCTSH728659,NA,2841264013,NA,31
+190465003#,Constitutional tall stature (finding),3085161011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+237835004#,Constitutional tall stature (finding),626619019#,1,1,2,356419015#,Constitutional tall stature,C1303,C130300,356419015,NA,32
+237835004#,Constitutional tall stature,356419015#,1,1,2,356419015#,Constitutional tall stature,C1303,C130300,356419015,NA,32
+237836003#,Short stature,2920995012#,1,1,2,5113041000006114#,SS - Short stature,^ESCTSS511304,NA,2162284013,NA,32
+237836003#,Short stature,2920995012#,1,1,2,5113031000006116#,Small stature,^ESCTSM511303,NA,356421013,NA,32
+237836003#,Short stature,2920995012#,1,1,2,317248019#,Short stature,R0345,R034500,2920995012,NA,32
+237836003#,SS - Short stature,2162284013#,1,1,2,317248019#,Short stature,R0345,R034500,2920995012,NA,32
+237836003#,SS - Short stature,2162284013#,1,1,2,5113041000006114#,SS - Short stature,^ESCTSS511304,NA,2162284013,NA,32
+237836003#,Small stature,356421013#,1,1,2,5113041000006114#,SS - Short stature,^ESCTSS511304,NA,2162284013,NA,32
+237836003#,Small stature,356421013#,1,1,2,5113031000006116#,Small stature,^ESCTSM511303,NA,356421013,NA,32
+237836003#,Small stature,356421013#,1,1,2,317248019#,Short stature,R0345,R034500,2920995012,NA,32
