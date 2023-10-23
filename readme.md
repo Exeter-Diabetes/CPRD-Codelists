@@ -1,5 +1,5 @@
 # Exeter Diabetes codelists
-CPRD Aurum codelists from the Exeter Diabetes team. These include medcode (for use with the Observation table) and prodcode (for use with the Drug Issue table) lists, as well as ICD10 and OPCS4 codelists for use with linked HES APC data. We have also included Read and SNOMED codelists created during medcode list development (see Code list generation process below).
+CPRD Aurum codelists from the Exeter Diabetes team. These include medcode (for use with the Observation table) and prodcode (for use with the Drug Issue table) lists, as well as ICD10 and OPCS4 codelists for use with linked HES APC data. We have also included Read and SNOMED codelists created during medcode list development (see [Code list generation process](https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/readme.md#code-list-generation-process) below).
 
 All codelists are based on an October 2020 extract of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
 
