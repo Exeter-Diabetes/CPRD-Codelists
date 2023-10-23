@@ -1,0 +1,441 @@
+readcode,term_readcode,CodingSystem,Category,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+1361.#,Teetotaller,CTV3,AlcoholConsumptionLevel0,291355016#,Teetotaller,1361,1361,105542008,291355016,NA,17,1361.00#
+1361.#,Teetotaller,CTV3,AlcoholConsumptionLevel0,587231000006111#,Non drinker alcohol,1361-1,1361.11,105542008,291352018,NA,17,1361.11#
+1361.#,Teetotaller,CTV3,AlcoholConsumptionLevel0,291352018#,Non-drinker alcohol,1361-2,1361.12,105542008,291352018,NA,17,1361.12#
+136A.#,Ex-trivial drinker - less than 1 unit/day,CTV3,AlcoholConsumptionLevel0,250321015#,Ex-trivial drinker (<1u/day),136A,136A.00,160582009,250321015,NA,17,136A.00#
+136M.#,Current non-drinker,CTV3,AlcoholConsumptionLevel0,217461000000118#,Non - drinker,136M,136M.00,105542008,2659856015,NA,17,136M.00#
+Ub0lH#,Lifetime non-drinker,CTV3,AlcoholConsumptionLevel0,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lH#
+1361.#,Teetotaller,READ2,AlcoholConsumptionLevel0,291355016#,Teetotaller,1361,1361,105542008,291355016,NA,17,1361.00#
+1361.#,Teetotaller,READ2,AlcoholConsumptionLevel0,587231000006111#,Non drinker alcohol,1361-1,1361.11,105542008,291352018,NA,17,1361.11#
+1361.#,Teetotaller,READ2,AlcoholConsumptionLevel0,291352018#,Non-drinker alcohol,1361-2,1361.12,105542008,291352018,NA,17,1361.12#
+136A.#,Ex-trivial drinker (<1u/day),READ2,AlcoholConsumptionLevel0,250321015#,Ex-trivial drinker (<1u/day),136A,136A.00,160582009,250321015,NA,17,136A.00#
+136M.#,Current non drinker,READ2,AlcoholConsumptionLevel0,217461000000118#,Non - drinker,136M,136M.00,105542008,2659856015,NA,17,136M.00#
+XaBDY#,[V] Alcohol use,CTV3,AlcoholConsumptionLevel0,NA#,NA,NA,NA,NA,NA,NA,NA,XaBDY#
+1362.#,Drinks: [rarely] or [<1u/day],CTV3,AlcoholConsumptionLevel1,397729013#,Trivial drinker - <1u/day,1362,1362,266917007,397729013,NA,17,1362.00#
+1362.#,Drinks: [rarely] or [<1u/day],CTV3,AlcoholConsumptionLevel1,629811000006113#,Occasional drinker,1362-2,1362.12,228276006,342318019,NA,17,1362.12#
+1362.#,Drinks: [rarely] or [<1u/day],CTV3,AlcoholConsumptionLevel1,629821000006117#,Drinks rarely,1362-1,1362.11,266917007,397729013,NA,17,1362.11#
+1363.#,Light drinker - 1-2u/day,CTV3,AlcoholConsumptionLevel1,250312016#,Light drinker - 1-2u/day,1363,1363,160575005,250312016,NA,17,1363.00#
+136F.#,Spirit drinker,CTV3,AlcoholConsumptionLevel1,250331010#,Spirit drinker,136F,136F.00,160588008,250331010,NA,17,136F.00#
+136G.#,Beer drinker,CTV3,AlcoholConsumptionLevel1,250332015#,Beer drinker,136G,136G.00,160589000,250332015,NA,17,136G.00#
+136H.#,Drinks beer and spirits,CTV3,AlcoholConsumptionLevel1,250333013#,Drinks beer and spirits,136H,136H.00,160590009,250333013,NA,17,136H.00#
+136I.#,Drinks wine,CTV3,AlcoholConsumptionLevel1,250334019#,Drinks wine,136I,136I.00,160591008,250334019,NA,17,136I.00#
+136J.#,Social drinker,CTV3,AlcoholConsumptionLevel1,47085011#,Social drinker,136J,136J.00,28127009,47085011,NA,17,136J.00#
+136L.#,Alcohol intake within recommended sensible limits,CTV3,AlcoholConsumptionLevel1,250340014#,Alcohol intake within recommended sensible limits,136L,136L.00,160593006,250340014,NA,17,136L.00#
+136Z.#,Alcohol consumption NOS,CTV3,AlcoholConsumptionLevel1,476411000006118#,Alcohol consumption NOS,136Z,136Z.00,160573003,1221271018,NA,17,136Z.00#
+Ub0lg#,Drinks alone,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lg#
+Ub0lh#,Drinks in company,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lh#
+Ub0li#,Drinks with family,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0li#
+Ub0lJ#,Current drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lJ#
+Ub0lK#,Occasional drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lK#
+Ub0ll#,Drinks with friends,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0ll#
+Ub0lL#,Light drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lL#
+Ub0lm#,Drinks with work colleagues,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lm#
+Ub0ln#,Drinks with business associates,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0ln#
+Ub0lo#,Drinks with acquaintances,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lo#
+Ub0lp#,Drinks with strangers,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lp#
+Ub0lQ#,Secret drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lQ#
+Ub0lU#,Drinks at home,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lU#
+Ub0lx#,Weekend drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lx#
+Ub0lX#,Park drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lX#
+Ub0m3#,Habitual drinker,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0m3#
+Ub0mi#,Ashamed of drinking,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mi#
+X007p#,Hangover from alcohol,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,X007p#
+X00Rm#,Acute alcohol intoxication,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Rm#
+X00Rn#,Inebriety NOS,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Rn#
+X00Ro#,Drunkenness NOS,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,X00Ro#
+XacHR#,Family wellbeing discussion about alcohol,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XacHR#
+XaFvp#,Patient advised about alcohol,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaFvp#
+XaFw4#,Pain in lymph nodes after alcohol consumption,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaFw4#
+XaJIr#,Lifestyle advice regarding alcohol,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaJIr#
+XaKAn#,Alcohol questionnaire completed,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaKAn#
+XaMwb#,Alcohol screen - alcohol use disorder identification test consumption questions completed,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMwb#
+XaMwZ#,Alcohol screen - alcohol use disorder identification test completed,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaMwZ#
+XaNO9#,FAST - Fast Alcohol Screening Test,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaNO9#
+XaNOA#,Alcohol consumption screening test declined,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaNOA#
+XaORO#,Single alcohol screening questionnaire,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaORO#
+XaORP#,Alcohol use disorder identification test consumption questionnaire,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaORP#
+XaRC8#,Five-shot questionnaire on heavy drinking,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaRC8#
+XaXan#,Advised to abstain from alcohol consumption,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXan#
+XaXjf#,Lower risk drinking,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XaXjf#
+XE0of#,Trivial drinker - <1u/day,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XE0of#
+XM0aC#,Alcohol dependence scale,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XM0aC#
+XM0il#,Short alcohol dependence data,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XM0il#
+XM1D0#,Finding of alcohol in blood,CTV3,AlcoholConsumptionLevel1,NA#,NA,NA,NA,NA,NA,NA,NA,XM1D0#
+ZV791#,[V]Screening for alcoholism,CTV3,AlcoholConsumptionLevel1,461292011#,Screening for alcohol abuse,ZV791,ZV79100,713107002,3288139019,NA,32,ZV79100#
+1362.#,Trivial drinker - <1u/day,READ2,AlcoholConsumptionLevel1,397729013#,Trivial drinker - <1u/day,1362,1362,266917007,397729013,NA,17,1362.00#
+1362.#,Trivial drinker - <1u/day,READ2,AlcoholConsumptionLevel1,629811000006113#,Occasional drinker,1362-2,1362.12,228276006,342318019,NA,17,1362.12#
+1362.#,Trivial drinker - <1u/day,READ2,AlcoholConsumptionLevel1,629821000006117#,Drinks rarely,1362-1,1362.11,266917007,397729013,NA,17,1362.11#
+1363.#,Light drinker - 1-2u/day,READ2,AlcoholConsumptionLevel1,250312016#,Light drinker - 1-2u/day,1363,1363,160575005,250312016,NA,17,1363.00#
+136d.#,Lower risk drinking,READ2,AlcoholConsumptionLevel1,1738421000000111#,Lower risk drinking,136d,136d.00,7.77671E+14,1.73842E+15,NA,17,136d.00#
+136F.#,Spirit drinker,READ2,AlcoholConsumptionLevel1,250331010#,Spirit drinker,136F,136F.00,160588008,250331010,NA,17,136F.00#
+136G.#,Beer drinker,READ2,AlcoholConsumptionLevel1,250332015#,Beer drinker,136G,136G.00,160589000,250332015,NA,17,136G.00#
+136H.#,Drinks beer and spirits,READ2,AlcoholConsumptionLevel1,250333013#,Drinks beer and spirits,136H,136H.00,160590009,250333013,NA,17,136H.00#
+136I.#,Drinks wine,READ2,AlcoholConsumptionLevel1,250334019#,Drinks wine,136I,136I.00,160591008,250334019,NA,17,136I.00#
+136J.#,Social drinker,READ2,AlcoholConsumptionLevel1,47085011#,Social drinker,136J,136J.00,28127009,47085011,NA,17,136J.00#
+136L.#,Alcohol intake within recommended sensible limits,READ2,AlcoholConsumptionLevel1,250340014#,Alcohol intake within recommended sensible limits,136L,136L.00,160593006,250340014,NA,17,136L.00#
+136N.#,Light drinker,READ2,AlcoholConsumptionLevel1,342320016#,Light drinker,136N,136N.00,228277002,342320016,NA,17,136N.00#
+136Z.#,Alcohol consumption NOS,READ2,AlcoholConsumptionLevel1,476411000006118#,Alcohol consumption NOS,136Z,136Z.00,160573003,1221271018,NA,17,136Z.00#
+1D19.#,Pain in lymph nodes after alcohol consumption,READ2,AlcoholConsumptionLevel1,459715013#,Pain in lymph nodes after alcohol consumption,1D19,1D19.00,315226008,459715013,NA,27,1D19.00#
+388u.#,Fast alcohol screening test,READ2,AlcoholConsumptionLevel1,538891000000111#,FAST (Fast Alcohol Screening Test) score,388u,388u.00,1.0846E+15,2.71772E+15,NA,3,388u.00#
+38Df.#,Five-shot questionnaire on heavy drinking,READ2,AlcoholConsumptionLevel1,1168961000000110#,Five-Shot questionnaire score,38Df,38Df.00,763106009,3700227010,NA,3,38Df.00#
+67H0.#,Lifestyle advice regarding alcohol,READ2,AlcoholConsumptionLevel1,936001000006111#,Advice relating to alcohol consumption,67H0,67H0.00,281078001,2575919017,NA,17,67H0.00#
+8CAM.#,Patient advised about alcohol,READ2,AlcoholConsumptionLevel1,240741000006114#,Education about alcohol consumption,8CAM,8CAM.00,281078001,2871969016,NA,17,8CAM.00#
+8CAM0#,Advised to abstain from alcohol consumption,READ2,AlcoholConsumptionLevel1,1724531000000116#,Advised to abstain from alcohol consumption,8CAM0,8CAM000,704106009,3010632015,NA,32,8CAM000#
+ZV791#,[V]Screening for alcoholism,READ2,AlcoholConsumptionLevel1,461292011#,Screening for alcohol abuse,ZV791,ZV79100,713107002,3288139019,NA,32,ZV79100#
+1364.#,Moderate drinker - 3-6u/day,CTV3,AlcoholConsumptionLevel2,250313014#,Moderate drinker - 3-6u/day,1364,1364,160576006,250313014,NA,17,1364.00#
+136K.#,Alcohol intake above recommended sensible limits,CTV3,AlcoholConsumptionLevel2,250335018#,Alcohol intake above recommended sensible limits,136K,136K.00,160592001,250335018,NA,17,136K.00#
+2577.#,O/E - breath - alcohol smell,CTV3,AlcoholConsumptionLevel2,254305017#,O/E - breath - alcohol smell,2577,2577,163184002,254305017,NA,27,2577.00#
+2577.#,O/E - breath - alcohol smell,CTV3,AlcoholConsumptionLevel2,254306016#,O/E - alcoholic breath,2577-1,2577.11,163184002,254306016,NA,27,2577.11#
+6792.#,Health education - alcohol,CTV3,AlcoholConsumptionLevel2,817981000006115#,Health education - alcohol,6792,6792,408947007,2579616015,NA,17,6792.00#
+8CE1.#,Alcohol leaflet given,CTV3,AlcoholConsumptionLevel2,283028013#,Alcohol leaflet given,8CE1,8CE1.00,183098002,283028013,NA,32,8CE1.00#
+J153.#,Alcoholic gastritis,CTV3,AlcoholConsumptionLevel2,4525015#,Alcoholic gastritis,J153,J153.00,2043009,4525015,NA,32,J153.00#
+J610.#,Alcoholic fatty liver,CTV3,AlcoholConsumptionLevel2,83834016#,Alcoholic fatty liver,J610,J610.00,50325005,83834016,NA,32,J610.00#
+J611.#,Acute alcoholic hepatitis,CTV3,AlcoholConsumptionLevel2,17390014#,Acute alcoholic hepatitis,J611,J611.00,9953008,17390014,NA,32,J611.00#
+J613.#,Alcoholic liver damage unspecified,CTV3,AlcoholConsumptionLevel2,886501000006115#,Alcoholic liver damage NOS,J613-99,J613.99,5.89511E+14,8.86501E+14,NA,32,J613.99#
+J613.#,Alcoholic liver damage unspecified,CTV3,AlcoholConsumptionLevel2,303399018#,Alcoholic liver damage,J613,J613.00,41309000,68906017,NA,32,J613.00#
+R103.#,[D]Alcohol blood level excessive,CTV3,AlcoholConsumptionLevel2,317636014#,High ethanol level in blood,R103,R103.00,441685000,2817390013,NA,32,R103.00#
+SLH3.#,Alcohol deterrent poisoning,CTV3,AlcoholConsumptionLevel2,1225183017#,Alcohol deterrent poisoning,SLH3,SLH3.00,27134008,1225183017,NA,32,SLH3.00#
+SM000#,Ethanol causing toxic effect,CTV3,AlcoholConsumptionLevel2,1234742013#,Ethanol causing toxic effect,SM000,SM00000,82782008,1234742013,NA,32,SM00000#
+U209.#,[X]Intentional self poisoning by and exposure to alcohol,CTV3,AlcoholConsumptionLevel2,393861000006111#,[X]Intentional self poisoning by and exposure to alcohol,U209,U209.00,271982007,407014015,NA,32,U209.00#
+Ua1Ml#,Alcohol reduction programme,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1Ml#
+Ua1Mm#,Alcohol withdrawal regime,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ua1Mm#
+Ub0lM#,Moderate drinker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lM#
+Ub0lR#,Problem drinker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lR#
+Ub0ly#,Binge drinker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0ly#
+Ub0lz#,Alcoholic binges exceeding sensible amounts,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lz#
+Ub0m1#,Regular drinker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0m1#
+Ub0m2#,Daily drinker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0m2#
+Ub0mh#,Attitude to drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mh#
+Ub0mI#,Drinking takes priority over social obligations,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mI#
+Ub0mj#,Feels should cut down drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mj#
+Ub0mJ#,Drinking takes priority over family obligations,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mJ#
+Ub0mK#,Drinking takes priority over financial obligations,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mK#
+Ub0ml#,Feels afraid of being an alcoholic,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0ml#
+Ub0mN#,Unable to control drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mN#
+Ub0mO#,Unable to abstain from drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mO#
+Ub0mP#,Unable to control drinking once started,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mP#
+Ub0mQ#,Unable to control spontaneous drinking bouts,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mQ#
+Ub0mR#,Unable to stop drinking before intoxication,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mR#
+X308j#,Alcohol-induced acute pancreatitis,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,X308j#
+Xa7On#,Alcoholism counselling,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Xa7On#
+XaboV#,Referral to mental health services deferred until alcohol misuse resolved,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaboV#
+XabUM#,Hospital alcohol liaison team report received,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XabUM#
+XaBYL#,Alcohol-induced flushing,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaBYL#
+Xac6H#,Specialist alcohol treatment service signposted,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,Xac6H#
+XacTX#,Emergency department attendance related to personal alcohol consumption,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XacTX#
+XacTY#,Hospital attendance related to personal alcohol consumption,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XacTY#
+XaIN4#,Under care of community alcohol team,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaIN4#
+XaIPn#,Referral to community alcohol team,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaIPn#
+XaK9f#,Alcohol misuse enhanced services administration,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaK9f#
+XaKAC#,Alcohol consumption counselling,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaKAC#
+XaKAo#,Alcohol counselling by other agencies,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaKAo#
+XaKvA#,Hazardous alcohol use,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaKvA#
+XaLQs#,Discussion about maternal wellbeing - alcohol,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaLQs#
+XaMhj#,Disqualified from driving due to excess alcohol,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaMhj#
+XaMwb#,Alcohol screen - alcohol use disorder identification test consumption questions completed,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaMwb#
+XaMwZ#,Alcohol screen - alcohol use disorder identification test completed,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaMwZ#
+XaORP#,Alcohol use disorder identification test consumption questionnaire,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaORP#
+XaORR#,Referral to specialist alcohol treatment service,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaORR#
+XaPmB#,Advised to contact primary care alcohol worker,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaPmB#
+XaPPv#,Brief intervention for excessive alcohol consumption completed,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaPPv#
+XaPty#,Brief intervention for excessive alcohol consumption declined,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaPty#
+XaPwp#,Declined referral to specialist alcohol treatment service,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaPwp#
+XaPwt#,Alcohol units consumed on heaviest drinking day,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaPwt#
+XaXjd#,Increasing risk drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaXjd#
+XaXje#,Higher risk drinking,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaXje#
+XaXkb#,Referral to community alcohol team declined,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaXkb#
+XaYLJ#,"Cycle of change stage, alcohol",CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XaYLJ#
+XE0qe#,Excessive fluid intake,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XE0qe#
+XM0c2#,Comprehensive drinker profile,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XM0c2#
+XM0ii#,Severity of alcohol dependence questionnaire,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XM0ii#
+XM0zW#,Alcohol blood elevated   [D],CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XM0zW#
+XSBcu#,Alcohol rehabilitation,CTV3,AlcoholConsumptionLevel2,NA#,NA,NA,NA,NA,NA,NA,NA,XSBcu#
+1364.#,Moderate drinker - 3-6u/day,READ2,AlcoholConsumptionLevel2,250313014#,Moderate drinker - 3-6u/day,1364,1364,160576006,250313014,NA,17,1364.00#
+136a.#,Increasing risk drinking,READ2,AlcoholConsumptionLevel2,1738341000000110#,Increasing risk drinking,136a,136a.00,7.77631E+14,1.73834E+15,NA,17,136a.00#
+136b.#,Feels should cut down drinking,READ2,AlcoholConsumptionLevel2,342421016#,Feels should cut down drinking,136b,136b.00,228362008,342421016,NA,17,136b.00#
+136c.#,Higher risk drinking,READ2,AlcoholConsumptionLevel2,1738381000000119#,Higher risk drinking,136c,136c.00,7.77651E+14,1.73838E+15,NA,17,136c.00#
+136K.#,Alcohol intake above recommended sensible limits,READ2,AlcoholConsumptionLevel2,250335018#,Alcohol intake above recommended sensible limits,136K,136K.00,160592001,250335018,NA,17,136K.00#
+136O.#,Moderate drinker,READ2,AlcoholConsumptionLevel2,73012011#,Moderate drinker,136O,136O.00,43783005,73012011,NA,17,136O.00#
+136R.#,Binge drinker,READ2,AlcoholConsumptionLevel2,342366014#,Binge drinker,136R,136R.00,228315001,342366014,NA,17,136R.00#
+136S.#,Hazardous alcohol use,READ2,AlcoholConsumptionLevel2,299061000000117#,Hazardous alcohol use,136S,136S.00,1.98421E+14,2.99061E+14,NA,17,136S.00#
+136X.#,Alcohol units consumed on heaviest drinking day,READ2,AlcoholConsumptionLevel2,750721000000118#,Number of alcohol units consumed on heaviest drinking day,136X,136X.00,442547005,2819352010,NA,17,136X.00#
+13ZY.#,Disqualified from driving due to excess alcohol,READ2,AlcoholConsumptionLevel2,480271000000113#,Disqualified from driving due to excess alcohol,13ZY,13ZY.00,2.79651E+14,4.80271E+14,NA,17,13ZY.00#
+2577.#,O/E - breath - alcohol smell,READ2,AlcoholConsumptionLevel2,254305017#,O/E - breath - alcohol smell,2577,2577,163184002,254305017,NA,27,2577.00#
+2577.#,O/E - breath - alcohol smell,READ2,AlcoholConsumptionLevel2,254306016#,O/E - alcoholic breath,2577-1,2577.11,163184002,254306016,NA,27,2577.11#
+38Dz.#,Severity of alcohol dependence questionnaire,READ2,AlcoholConsumptionLevel2,409424013#,SADQ - Severity of alcohol dependence questionnaire,38Dz-1,38Dz.11,443504004,2839850016,NA,32,38Dz.11#
+38Dz.#,Severity of alcohol dependence questionnaire,READ2,AlcoholConsumptionLevel2,409423019#,Severity of alcohol dependence questionnaire score,38Dz,38Dz.00,443504004,2839850016,NA,32,38Dz.00#
+6792.#,Health ed. - alcohol,READ2,AlcoholConsumptionLevel2,817981000006115#,Health education - alcohol,6792,6792,408947007,2579616015,NA,17,6792.00#
+67K6.#,"Cycle of change stage, alcohol",READ2,AlcoholConsumptionLevel2,1792751000000118#,"Cycle of change stage, alcohol",67K6,67K6.00,8.01811E+14,1.79275E+15,NA,17,67K6.00#
+8CdK.#,Specialist alcohol treatment service signposted,READ2,AlcoholConsumptionLevel2,2419601000000110#,Specialist alcohol treatment service signposted,8CdK,8CdK.00,9.46101E+14,2.4196E+15,NA,32,8CdK.00#
+8CE1.#,Alcohol leaflet given,READ2,AlcoholConsumptionLevel2,283028013#,Alcohol leaflet given,8CE1,8CE1.00,183098002,283028013,NA,32,8CE1.00#
+8H7p.#,Referral to community alcohol team,READ2,AlcoholConsumptionLevel2,1484890014#,Referral to community alcohol team,8H7p,8H7p.00,390857005,1484890014,NA,40,8H7p.00#
+8HkG.#,Referral to specialist alcohol treatment service,READ2,AlcoholConsumptionLevel2,622961000000116#,Referral to specialist alcohol treatment service,8HkG,8HkG.00,431260004,2768649019,NA,40,8HkG.00#
+8IAF.#,Brief intervention for excessive alcohol consumption declined,READ2,AlcoholConsumptionLevel2,1704281000006117#,Brief intervention for excessive alcohol consumption declined,8IAF,8IAF.00,3.79411E+14,7.47421E+14,NA,32,8IAF.00#
+8IAJ.#,Declined referral to specialist alcohol treatment service,READ2,AlcoholConsumptionLevel2,750531000000113#,Declined referral to specialist alcohol treatment service,8IAJ,8IAJ.00,3.80861E+14,7.50531E+14,NA,32,8IAJ.00#
+8IEA.#,Referral to community alcohol team declined,READ2,AlcoholConsumptionLevel2,1746481000000112#,Referral to community alcohol team declined,8IEA,8IEA.00,7.81191E+14,1.74648E+15,NA,32,8IEA.00#
+9EVD.#,Hospital alcohol liaison team report received,READ2,AlcoholConsumptionLevel2,2364891000000111#,Hospital alcohol liaison team report received,9EVD,9EVD.00,9.21441E+14,2.36489E+15,NA,37,9EVD.00#
+9k11.#,Alcohol consumption counselling,READ2,AlcoholConsumptionLevel2,2532939017#,Alcohol consumption counselling,9k11,9k11.00,413473000,2532939017,NA,37,9k11.00#
+9k14.#,Alcohol counselling by other agencies,READ2,AlcoholConsumptionLevel2,2534258017#,Alcohol counselling by other agencies,9k14,9k14.00,5.27961E+14,1.17961E+15,NA,37,9k14.00#
+9k1A.#,Brief intervention for excessive alcohol consumption completed,READ2,AlcoholConsumptionLevel2,1680121000006110#,Brief intervention for excessive alcohol consumption completed,9k1A,9k1A.00,3.66371E+14,6.91601E+14,NA,37,9k1A.00#
+9NN2.#,Under care of community alcohol team,READ2,AlcoholConsumptionLevel2,216585018#,Under care of community alcohol team,9NN2,9NN2.00,135827004,216585018,NA,37,9NN2.00#
+9Nz9.#,Emergency department attendance related to personal alcohol consumption,READ2,AlcoholConsumptionLevel2,1947501000006118#,Emergency department attendance related to personal alcohol consumption,9Nz9,9Nz9.00,9.63261E+14,2.45424E+15,NA,37,9Nz9.00#
+9NzA.#,Hospital attendance related to personal alcohol consumption,READ2,AlcoholConsumptionLevel2,2454281000000112#,Hospital attendance related to personal alcohol consumption,9NzA,9NzA.00,9.63281E+14,2.45428E+15,NA,37,9NzA.00#
+J153.#,Alcoholic gastritis,READ2,AlcoholConsumptionLevel2,4525015#,Alcoholic gastritis,J153,J153.00,2043009,4525015,NA,32,J153.00#
+J610.#,Alcoholic fatty liver,READ2,AlcoholConsumptionLevel2,83834016#,Alcoholic fatty liver,J610,J610.00,50325005,83834016,NA,32,J610.00#
+J611.#,Acute alcoholic hepatitis,READ2,AlcoholConsumptionLevel2,17390014#,Acute alcoholic hepatitis,J611,J611.00,9953008,17390014,NA,32,J611.00#
+J613.#,Alcoholic liver damage unspecified,READ2,AlcoholConsumptionLevel2,886501000006115#,Alcoholic liver damage NOS,J613-99,J613.99,5.89511E+14,8.86501E+14,NA,32,J613.99#
+J613.#,Alcoholic liver damage unspecified,READ2,AlcoholConsumptionLevel2,303399018#,Alcoholic liver damage,J613,J613.00,41309000,68906017,NA,32,J613.00#
+J6708#,Alcohol-induced acute pancreatitis,READ2,AlcoholConsumptionLevel2,353687012#,Alcohol-induced acute pancreatitis,J6708,J670800,235942001,353687012,NA,32,J670800#
+R103.#,[D]Alcohol blood level excessive,READ2,AlcoholConsumptionLevel2,317636014#,High ethanol level in blood,R103,R103.00,441685000,2817390013,NA,32,R103.00#
+SLH3.#,Alcohol deterrent poisoning,READ2,AlcoholConsumptionLevel2,1225183017#,Alcohol deterrent poisoning,SLH3,SLH3.00,27134008,1225183017,NA,32,SLH3.00#
+SM000#,Ethanol causing toxic effect,READ2,AlcoholConsumptionLevel2,1234742013#,Ethanol causing toxic effect,SM000,SM00000,82782008,1234742013,NA,32,SM00000#
+U209.#,[X]Intentional self poisoning by and exposure to alcohol,READ2,AlcoholConsumptionLevel2,393861000006111#,[X]Intentional self poisoning by and exposure to alcohol,U209,U209.00,271982007,407014015,NA,32,U209.00#
+1365.#,Heavy drinker - 7-9u/day,CTV3,AlcoholConsumptionLevel3,250314015#,Heavy drinker - 7-9u/day,1365,1365,160577002,250314015,NA,17,1365.00#
+136D.#,Ex-heavy drinker - (7-9u/day),CTV3,AlcoholConsumptionLevel3,250324011#,Ex-heavy drinker - (7-9u/day),136D,136D.00,160585006,250324011,NA,17,136D.00#
+136E.#,Ex-very heavy drinker - greater than 9 units/day,CTV3,AlcoholConsumptionLevel3,250329018#,Ex-very heavy drinker-(>9u/d),136E,136E.00,160587003,250329018,NA,17,136E.00#
+13Y8.#,Alcoholics anonymous,CTV3,AlcoholConsumptionLevel3,251195015#,Alcoholics anonymous,13Y8,13Y8.00,1.09995E+15,2.7539E+15,NA,17,13Y8.00#
+8BA8.#,Alcohol detoxification,CTV3,AlcoholConsumptionLevel3,106878015#,Alcohol detoxification,8BA8,8BA8.00,64297001,106878015,NA,32,8BA8.00#
+8H35.#,Admitted to alcohol detoxification centre,CTV3,AlcoholConsumptionLevel3,283559019#,Admitted to alcohol detoxification centre,8H35,8H35.00,183486001,283559019,NA,40,8H35.00#
+E01..#,Alcoholic psychoses,CTV3,AlcoholConsumptionLevel3,476741000006111#,Alcohol-induced psychosis,E01,E01..00,42344001,70655012,NA,32,E01..00#
+E010.#,Delirium tremens,CTV3,AlcoholConsumptionLevel3,15243013#,Alcohol withdrawal delirium,E010,E010.00,8635005,15243013,NA,32,E010.00#
+E010.#,Delirium tremens,CTV3,AlcoholConsumptionLevel3,15244019#,Delirium tremens,E010-2,E010.12,8635005,15244019,NA,32,E010.12#
+E010.#,Delirium tremens,CTV3,AlcoholConsumptionLevel3,507053019#,DTs - delirium tremens,E010-1,E010.11,8635005,507053019,NA,32,E010.11#
+E011.#,Korsakov psychosis,CTV3,AlcoholConsumptionLevel3,476361000006114#,Alcohol amnestic syndrome,E011,E011.00,69482004,501300010,NA,32,E011.00#
+E0111#,Korsakov's alcoholic psychosis with peripheral neuritis,CTV3,AlcoholConsumptionLevel3,294662017#,Korsakov's alcoholic psychosis with peripheral neuritis,E0111,E011100,191471000,294662017,NA,32,E011100#
+E0112#,Wernicke-Korsakov syndrome,CTV3,AlcoholConsumptionLevel3,501294012#,Wernicke-Korsakov syndrome,E0112,E011200,69482004,501294012,NA,32,E011200#
+E011z#,Alcohol amnestic syndrome NOS,CTV3,AlcoholConsumptionLevel3,294664016#,Alcohol amnestic syndrome NOS,E011z,E011z00,73097000,121405015,NA,32,E011z00#
+E012.#,Alcoholic dementia: [other] or [NOS],CTV3,AlcoholConsumptionLevel3,346929012#,Alcoholic dementia,E012-1,E012.11,281004,1225776018,NA,32,E012.11#
+E012.#,Alcoholic dementia: [other] or [NOS],CTV3,AlcoholConsumptionLevel3,401760017#,Other alcoholic dementia,E012,E012.00,281004,1225776018,NA,32,E012.00#
+E0120#,Chronic alcoholic brain syndrome,CTV3,AlcoholConsumptionLevel3,294668018#,Chronic alcoholic brain syndrome,E0120,E012000,191475009,294668018,NA,32,E012000#
+E013.#,Alcohol withdrawal hallucinosis,CTV3,AlcoholConsumptionLevel3,294669014#,Alcohol withdrawal hallucinosis,E013,E013.00,191476005,294669014,NA,32,E013.00#
+E014.#,Pathological alcohol intoxication,CTV3,AlcoholConsumptionLevel3,294670010#,Drunkenness - pathological,E014-1,E014.11,191477001,294670010,NA,32,E014.11#
+E014.#,Pathological alcohol intoxication,CTV3,AlcoholConsumptionLevel3,294671014#,Pathological alcohol intoxication,E014,E014.00,191477001,294671014,NA,32,E014.00#
+E015.#,Alcoholic paranoia,CTV3,AlcoholConsumptionLevel3,294672019#,Alcoholic paranoia,E015,E015.00,191478006,294672019,NA,32,E015.00#
+E01y.#,Other alcoholic psychosis,CTV3,AlcoholConsumptionLevel3,882221000006114#,Other alcoholic psychoses,E01y-99,E01y.99,6.23961E+14,8.82221E+14,NA,32,E01y.99#
+E01y.#,Other alcoholic psychosis,CTV3,AlcoholConsumptionLevel3,294673012#,Other alcoholic psychosis,E01y,E01y.00,42344001,70655012,NA,32,E01y.00#
+E01y0#,Alcohol withdrawal syndrome,CTV3,AlcoholConsumptionLevel3,294674018#,Alcohol withdrawal syndrome,E01y0,E01y000,191480000,294674018,NA,32,E01y000#
+E01yz#,Other alcoholic psychosis NOS,CTV3,AlcoholConsumptionLevel3,294675017#,Other alcoholic psychosis NOS,E01yz,E01yz00,42344001,70655012,NA,32,E01yz00#
+E01z.#,Alcoholic psychosis NOS,CTV3,AlcoholConsumptionLevel3,294676016#,Alcoholic psychosis NOS,E01z,E01z.00,42344001,70655012,NA,32,E01z.00#
+E23..#,(Alcohol dependence syndrome [including alcoholism]) or (alcohol problem drinking),CTV3,AlcoholConsumptionLevel3,12878014#,Alcoholism,E23-1,E23..11,66590003,110629012,NA,32,E23..11#
+E23..#,(Alcohol dependence syndrome [including alcoholism]) or (alcohol problem drinking),CTV3,AlcoholConsumptionLevel3,500478011#,Alcohol dependence syndrome,E23,E23..00,66590003,500478011,NA,32,E23..00#
+E23..#,(Alcohol dependence syndrome [including alcoholism]) or (alcohol problem drinking),CTV3,AlcoholConsumptionLevel3,502017010#,Alcohol problem drinking,E23-2,E23..12,7200002,502017010,NA,32,E23..12#
+E230.#,Acute alcoholic intoxication in alcoholism,CTV3,AlcoholConsumptionLevel3,295126010#,Alcohol dependence with acute alcoholic intoxication,E230-1,E230.11,191802004,295126010,NA,32,E230.11#
+E230.#,Acute alcoholic intoxication in alcoholism,CTV3,AlcoholConsumptionLevel3,295127018#,Acute alcoholic intoxication in alcoholism,E230,E230.00,191802004,295127018,NA,32,E230.00#
+E2300#,"Acute alcoholic intoxication, unspecified, in alcoholism",CTV3,AlcoholConsumptionLevel3,295128011#,"Acute alcoholic intoxication, unspecified, in alcoholism",E2300,E230000,191802004,295127018,NA,32,E230000#
+E2301#,Continuous acute alcoholic intoxication in alcoholism,CTV3,AlcoholConsumptionLevel3,295129015#,Continuous acute alcoholic intoxication in alcoholism,E2301,E230100,191804003,295129015,NA,32,E230100#
+E2302#,Episodic acute alcoholic intoxication in alcoholism,CTV3,AlcoholConsumptionLevel3,295130013#,Episodic acute alcoholic intoxication in alcoholism,E2302,E230200,191805002,295130013,NA,32,E230200#
+E2303#,"Acute alcoholic intoxication in remission, in alcoholism",CTV3,AlcoholConsumptionLevel3,295131012#,"Acute alcoholic intoxication in remission, in alcoholism",E2303,E230300,191806001,295131012,NA,32,E230300#
+E230z#,Acute alcoholic intoxication in alcoholism NOS,CTV3,AlcoholConsumptionLevel3,295132017#,Acute alcoholic intoxication in alcoholism NOS,E230z,E230z00,191802004,295127018,NA,32,E230z00#
+E231.#,Chronic alcoholism (& [dipsomania]),CTV3,AlcoholConsumptionLevel3,502016018#,Dipsomania,E231-1,E231.11,7200002,502016018,NA,32,E231.11#
+E231.#,Chronic alcoholism (& [dipsomania]),CTV3,AlcoholConsumptionLevel3,110629012#,Chronic alcoholism,E231,E231.00,66590003,110629012,NA,32,E231.00#
+E2310#,Unspecified chronic alcoholism,CTV3,AlcoholConsumptionLevel3,295136019#,Alcohol dependence,E2310,E231000,66590003,110628016,NA,32,E231000#
+E2311#,Continuous chronic alcoholism,CTV3,AlcoholConsumptionLevel3,295139014#,Continuous chronic alcoholism,E2311,E231100,191811004,295139014,NA,32,E231100#
+E2312#,Episodic chronic alcoholism,CTV3,AlcoholConsumptionLevel3,295141010#,Episodic chronic alcoholism,E2312,E231200,191812006,295141010,NA,32,E231200#
+E2313#,Chronic alcoholism in remission,CTV3,AlcoholConsumptionLevel3,295142015#,Chronic alcoholism in remission,E2313,E231300,191813001,295142015,NA,32,E231300#
+E231z#,Chronic alcoholism NOS,CTV3,AlcoholConsumptionLevel3,295143013#,Chronic alcoholism NOS,E231z,E231z00,66590003,110629012,NA,32,E231z00#
+E23z.#,Alcohol dependence syndrome NOS,CTV3,AlcoholConsumptionLevel3,295144019#,Alcohol dependence syndrome NOS,E23z,E23z.00,66590003,500478011,NA,32,E23z.00#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,401797010#,Nondependent alcohol abuse,E250,E250.00,268645007,401797010,NA,32,E250.00#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,346930019#,Inebriety NOS,E250-3,E250.13,25702006,43081018,NA,32,E250.13#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,769451000006111#,Intoxication - alcohol,E250-4,E250.14,25702006,43083015,NA,32,E250.14#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,346931015#,Drunkenness,E250-1,E250.11,25702006,43083015,NA,32,E250.11#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,223671000000110#,Hangover from alcohol,E250-2,E250.12,32553006,485256013,NA,32,E250.12#
+E250.#,(Alcohol intoxication) or (hangover following alcohol consumption) or (nondependent alcohol abuse) or (drunkenness NOS) or (inebriety NOS),CTV3,AlcoholConsumptionLevel3,882531000006110#,Non-dependent abuse of alcohol,E250-99,E250.99,268645007,8.82531E+14,NA,32,E250.99#
+E2500#,"Nondependent alcohol abuse, unspecified",CTV3,AlcoholConsumptionLevel3,295251015#,"Nondependent alcohol abuse, unspecified",E2500,E250000,268645007,401797010,NA,32,E250000#
+E2501#,"Nondependent alcohol abuse, continuous",CTV3,AlcoholConsumptionLevel3,295252010#,"Nondependent alcohol abuse, continuous",E2501,E250100,191882002,295252010,NA,32,E250100#
+E2502#,"Nondependent alcohol abuse, episodic",CTV3,AlcoholConsumptionLevel3,295253017#,"Nondependent alcohol abuse, episodic",E2502,E250200,191883007,295253017,NA,32,E250200#
+E2503#,Nondependent alcohol abuse in remission,CTV3,AlcoholConsumptionLevel3,295254011#,Nondependent alcohol abuse in remission,E2503,E250300,191884001,295254011,NA,32,E250300#
+E250z#,Nondependent alcohol abuse NOS,CTV3,AlcoholConsumptionLevel3,295255012#,Nondependent alcohol abuse NOS,E250z,E250z00,268645007,401797010,NA,32,E250z00#
+Eu10.#,[X]Mental and behavioural disorders due to use of alcohol,CTV3,AlcoholConsumptionLevel3,295765017#,Alcohol-induced organic mental disorder,Eu10,Eu10.00,29212009,48886010,NA,32,Eu10.00#
+Eu100#,[X]Mental and behavioural disorders due to use of alcohol: acute intoxication,CTV3,AlcoholConsumptionLevel3,362251000006117#,Alcohol intoxication,Eu100-1,Eu10011,25702006,43081018,NA,32,Eu10011#
+Eu100#,[X]Mental and behavioural disorders due to use of alcohol: acute intoxication,CTV3,AlcoholConsumptionLevel3,397611000006115#,[X]Mental & behav dis due to use alcohol: acute intoxication,Eu100,Eu10000,25702006,43081018,NA,32,Eu10000#
+Eu101#,[X]Mental and behavioural disorders due to use of alcohol: harmful use,CTV3,AlcoholConsumptionLevel3,397881000006114#,Alcohol abuse,Eu101,Eu10100,15167005,25750014,NA,32,Eu10100#
+Eu102#,[X] (Mental and behavioural disorders due to use of alcohol: dependence syndrome) or (chronic alcoholism [& (addiction) or (dipsomania)]),CTV3,AlcoholConsumptionLevel3,362921000006118#,[X]Alcohol addiction,Eu102-1,Eu10211,66590003,500478011,NA,32,Eu10211#
+Eu102#,[X] (Mental and behavioural disorders due to use of alcohol: dependence syndrome) or (chronic alcoholism [& (addiction) or (dipsomania)]),CTV3,AlcoholConsumptionLevel3,377081000006114#,[X]Dipsomania,Eu102-3,Eu10213,66590003,500478011,NA,32,Eu10213#
+Eu102#,[X] (Mental and behavioural disorders due to use of alcohol: dependence syndrome) or (chronic alcoholism [& (addiction) or (dipsomania)]),CTV3,AlcoholConsumptionLevel3,397801000006117#,[X]Mental and behav dis due to use alcohol: dependence syndr,Eu102,Eu10200,66590003,500478011,NA,32,Eu10200#
+Eu102#,[X] (Mental and behavioural disorders due to use of alcohol: dependence syndrome) or (chronic alcoholism [& (addiction) or (dipsomania)]),CTV3,AlcoholConsumptionLevel3,370971000006114#,[X]Chronic alcoholism,Eu102-2,Eu10212,66590003,110629012,NA,32,Eu10212#
+Eu103#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state,CTV3,AlcoholConsumptionLevel3,397811000006119#,[X]Mental and behav dis due to use alcohol: withdrawal state,Eu103,Eu10300,191480000,294674018,NA,32,Eu10300#
+Eu104#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,CTV3,AlcoholConsumptionLevel3,376451000006113#,"[X]Delirium tremens, alcohol induced",Eu104-1,Eu10411,8635005,15243013,NA,32,Eu10411#
+Eu104#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,CTV3,AlcoholConsumptionLevel3,397211000006118#,[X]Men & behav dis due alcohl: withdrawl state with delirium,Eu104,Eu10400,8635005,15243013,NA,32,Eu10400#
+Eu105#,[X] Mental and behavioural disorders due to use of alcohol: psychotic disorder (& [hallucinosis] or [jealousy] or [paranoia] or [psychosis NOS]),CTV3,AlcoholConsumptionLevel3,397621000006111#,Alcohol-induced psychosis,Eu105,Eu10500,42344001,70655012,NA,32,Eu10500#
+Eu105#,[X] Mental and behavioural disorders due to use of alcohol: psychotic disorder (& [hallucinosis] or [jealousy] or [paranoia] or [psychosis NOS]),CTV3,AlcoholConsumptionLevel3,362961000006112#,[X]Alcoholic jealousy,Eu105-2,Eu10512,42344001,70655012,NA,32,Eu10512#
+Eu105#,[X] Mental and behavioural disorders due to use of alcohol: psychotic disorder (& [hallucinosis] or [jealousy] or [paranoia] or [psychosis NOS]),CTV3,AlcoholConsumptionLevel3,362981000006119#,[X]Alcoholic psychosis NOS,Eu105-4,Eu10514,42344001,70655012,NA,32,Eu10514#
+Eu105#,[X] Mental and behavioural disorders due to use of alcohol: psychotic disorder (& [hallucinosis] or [jealousy] or [paranoia] or [psychosis NOS]),CTV3,AlcoholConsumptionLevel3,362951000006110#,Alcoholic hallucinosis,Eu105-1,Eu10511,7052005,1233279015,NA,32,Eu10511#
+Eu105#,[X] Mental and behavioural disorders due to use of alcohol: psychotic disorder (& [hallucinosis] or [jealousy] or [paranoia] or [psychosis NOS]),CTV3,AlcoholConsumptionLevel3,362971000006117#,[X]Alcoholic paranoia,Eu105-3,Eu10513,42344001,70655012,NA,32,Eu10513#
+Eu106#,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,CTV3,AlcoholConsumptionLevel3,394681000006119#,Korsakoff's psychosis,Eu106-1,Eu10611,69482004,115434017,NA,32,Eu10611#
+Eu106#,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,CTV3,AlcoholConsumptionLevel3,397791000006118#,Alcohol amnestic disorder,Eu106,Eu10600,73097000,121405015,NA,32,Eu10600#
+Eu107#,[X] (Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder) or (chronic alcoholic brain syndrome [& dementia NOS]),CTV3,AlcoholConsumptionLevel3,362941000006113#,[X]Alcoholic dementia NOS,Eu107-1,Eu10711,281004,1225776018,NA,32,Eu10711#
+Eu107#,[X] (Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder) or (chronic alcoholic brain syndrome [& dementia NOS]),CTV3,AlcoholConsumptionLevel3,397201000006116#,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,Eu107,Eu10700,42344001,70655012,NA,32,Eu10700#
+Eu107#,[X] (Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder) or (chronic alcoholic brain syndrome [& dementia NOS]),CTV3,AlcoholConsumptionLevel3,370961000006119#,[X]Chronic alcoholic brain syndrome,Eu107-2,Eu10712,191475009,294668018,NA,32,Eu10712#
+Eu10y#,[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders,CTV3,AlcoholConsumptionLevel3,397241000006119#,[X]Men & behav dis due to use alcohol: oth men & behav dis,Eu10y,Eu10y00,29212009,48886010,NA,32,Eu10y00#
+Eu10z#,[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder,CTV3,AlcoholConsumptionLevel3,397431000006111#,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,Eu10z,Eu10z00,91388009,151411015,NA,32,Eu10z00#
+F11x0#,Alcoholic encephalopathy,CTV3,AlcoholConsumptionLevel3,542611000006114#,Cerebral degeneration due to alcoholism,F11x0,F11x000,192811002,297011014,NA,32,F11x000#
+F11x0#,Alcoholic encephalopathy,CTV3,AlcoholConsumptionLevel3,297011014#,Alcoholic encephalopathy,F11x0-1,F11x011,192811002,297011014,NA,32,F11x011#
+F1440#,Alcoholic cerebellar degeneration,CTV3,AlcoholConsumptionLevel3,478046010#,Cerebellar ataxia due to alcoholism,F1440,F144000,361272001,478046010,NA,32,F144000#
+F375.#,Alcohol-related polyneuropathy,CTV3,AlcoholConsumptionLevel3,14103017#,Alcohol-induced polyneuropathy,F375,F375.00,7916009,14104011,NA,32,F375.00#
+G555.#,Alcohol-induced heart muscle disease,CTV3,AlcoholConsumptionLevel3,138527014#,Alcoholic cardiomyopathy,G555,G555.00,83521008,138527014,NA,32,G555.00#
+J612.#,Cirrhosis: [florid] or [alcoholic],CTV3,AlcoholConsumptionLevel3,126721013#,Florid cirrhosis,J612-1,J612.11,76301009,126721013,NA,32,J612.11#
+J612.#,Cirrhosis: [florid] or [alcoholic],CTV3,AlcoholConsumptionLevel3,476611000006116#,Alcoholic cirrhosis of liver,J612,J612.00,420054005,2920441014,NA,32,J612.00#
+J612.#,Cirrhosis: [florid] or [alcoholic],CTV3,AlcoholConsumptionLevel3,2579818016#,Laennec's cirrhosis,J612-2,J612.12,419728003,2576980018,NA,32,J612.12#
+U60H3#,[X]Alcohol deterrents causing adverse effects in therapeutic use,CTV3,AlcoholConsumptionLevel3,350971000006112#,[X] Adverse reaction to alcohol deterrents,U60H3-1,U60H311,292416003,432554017,NA,5,U60H311#
+U60H3#,[X]Alcohol deterrents causing adverse effects in therapeutic use,CTV3,AlcoholConsumptionLevel3,362931000006115#,[X]Alcohol deterrents caus adverse effects in therapeut use,U60H3,U60H300,292416003,432554017,NA,5,U60H300#
+Ub0lO#,Heavy drinker,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lO#
+Ub0lP#,Very heavy drinker,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lP#
+Ub0lt#,Drinks in morning to get rid of hangover,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0lt#
+Ub0m0#,Alcoholic binges exceeding safe amounts,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0m0#
+Ub0mk#,Feels drinking is out of control,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0mk#
+X006u#,Alcohol-induced epilepsy,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X006u#
+X00FS#,Alcoholic coma,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X00FS#
+X306r#,Alcoholic hepatitis,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X306r#
+X3071#,Alcoholic liver disease,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X3071#
+X3072#,Alcoholic fibrosis and sclerosis of liver,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X3072#
+X3073#,Alcoholic hepatic failure,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X3073#
+X308v#,Alcohol-induced chronic pancreatitis,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X308v#
+X40MG#,Alcohol-induced pseudo-Cushing's syndrome,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,X40MG#
+Xa17e#,Alcoholic hallucinosis,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xa17e#
+Xa1yZ#,Alcohol abuse,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1yZ#
+Xa2lt#,Persistent alcohol abuse,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xa2lt#
+XaamS#,In-house alcohol detoxification,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaamS#
+XaBE3#,Chronic alcoholic hepatitis,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaBE3#
+Xabi9#,Severe alcohol dependence,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xabi9#
+XaC1d#,Oesophageal varices in alcoholic cirrhosis of the liver,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaC1d#
+Xacab#,Withdrawn from alcohol detoxification programme,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xacab#
+XacfZ#,Alcohol relapse prevention,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XacfZ#
+Xacmc#,Alcohol harm reduction programme,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xacmc#
+Xactr#,Alcohol twelve step programme,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,Xactr#
+XaJni#,Alcohol disorder monitoring,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaJni#
+XaKV2#,Alcohol induced hallucinations,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKV2#
+XaKvB#,Harmful alcohol use,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaKvB#
+XaLrN#,Alcohol abuse monitoring,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaLrN#
+XaLsx#,Delivery of rehabilitation for alcohol addiction,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaLsx#
+XaLWu#,[X]Alcohol withdrawal-induced seizure,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaLWu#
+XaPPy#,Extended intervention for excessive alcohol consumption completed,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaPPy#
+XaX4S#,Extended intervention for excessive alcohol consumption declined,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaX4S#
+XaXlZ#,Replaces meals with drinks,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XaXlZ#
+XE0b4#,Alcoholic cirrhosis of liver,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE0b4#
+XE0dF#,Alcoholic liver damage NOS,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE0dF#
+XE1Xu#,Other alcoholic dementia,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1Xu#
+XE1YQ#,Chronic alcoholism,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1YQ#
+XE1YX#,Nondependent alcohol abuse,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1YX#
+XE1ZE#,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1ZE#
+XE1ZF#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1ZF#
+XE1ZG#,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder,CTV3,AlcoholConsumptionLevel3,NA#,NA,NA,NA,NA,NA,NA,NA,XE1ZG#
+ZV57A#,[V]Alcohol rehabilitation,CTV3,AlcoholConsumptionLevel3,460926018#,[V]Alcohol rehabilitation,ZV57A,ZV57A00,4.71691E+14,1.00133E+15,NA,32,ZV57A00#
+ZV6D6#,[V]Alcohol abuse counselling and surveillance,CTV3,AlcoholConsumptionLevel3,461112017#,Alcoholism counselling,ZV6D6,ZV6D600,24165007,1206287010,NA,32,ZV6D600#
+1365.#,Heavy drinker - 7-9u/day,READ2,AlcoholConsumptionLevel3,250314015#,Heavy drinker - 7-9u/day,1365,1365,160577002,250314015,NA,17,1365.00#
+1366.#,Very heavy drinker - >9u/day,READ2,AlcoholConsumptionLevel3,250316018#,Very heavy drinker - >9u/day,1366,1366,160578007,250316018,NA,17,1366.00#
+136D.#,Ex-heavy drinker - (7-9u/day),READ2,AlcoholConsumptionLevel3,250324011#,Ex-heavy drinker - (7-9u/day),136D,136D.00,160585006,250324011,NA,17,136D.00#
+136E.#,Ex-very heavy drinker-(>9u/d),READ2,AlcoholConsumptionLevel3,250329018#,Ex-very heavy drinker-(>9u/d),136E,136E.00,160587003,250329018,NA,17,136E.00#
+136P.#,Heavy drinker,READ2,AlcoholConsumptionLevel3,144179014#,Heavy drinker,136P,136P.00,86933000,144179014,NA,17,136P.00#
+136Q.#,Very heavy drinker,READ2,AlcoholConsumptionLevel3,342322012#,Very heavy drinker,136Q,136Q.00,228279004,342322012,NA,17,136Q.00#
+136T.#,Harmful alcohol use,READ2,AlcoholConsumptionLevel3,299081000000114#,Harmful alcohol use,136T,136T.00,1.98431E+14,2.99081E+14,NA,17,136T.00#
+136W.#,Alcohol misuse,READ2,AlcoholConsumptionLevel3,606991000000117#,Alcohol misuse,136W,136W.00,15167005,6.06991E+14,NA,32,136W.00#
+136Y.#,Drinks in morning to get rid of hangover,READ2,AlcoholConsumptionLevel3,342361016#,Drinks in morning to get rid of hangover,136Y,136Y.00,228310006,342361016,NA,17,136Y.00#
+13Y8.#,Alcoholics anonymous,READ2,AlcoholConsumptionLevel3,251195015#,Alcoholics anonymous,13Y8,13Y8.00,1.09995E+15,2.7539E+15,NA,17,13Y8.00#
+1B1c.#,Alcohol induced hallucinations,READ2,AlcoholConsumptionLevel3,2549849017#,Alcohol induced hallucinations,1B1c,1B1c.00,417633001,2549849017,NA,27,1B1c.00#
+1F9D.#,Replaces meals with drinks,READ2,AlcoholConsumptionLevel3,1748121000000117#,Replaces meals with drinks,1F9D,1F9D.00,7.81911E+14,1.74812E+15,NA,27,1F9D.00#
+66e..#,Alcohol disorder monitoring,READ2,AlcoholConsumptionLevel3,2474678017#,Alcohol disorder monitoring,66e,66e..00,413130000,2474678017,NA,1,66e..00#
+66e0.#,Alcohol abuse monitoring,READ2,AlcoholConsumptionLevel3,405461000000114#,Alcohol abuse monitoring,6.60E+01,66e0.00,2.47721E+14,4.05461E+14,NA,1,66e0.00#
+7P221#,Delivery of rehabilitation for alcohol addiction,READ2,AlcoholConsumptionLevel3,371501000000110#,Delivery of rehabilitation for alcohol addiction,7P221,7P22100,2.31161E+14,3.71501E+14,NA,32,7P22100#
+8BA8.#,Alcohol detoxification,READ2,AlcoholConsumptionLevel3,106878015#,Alcohol detoxification,8BA8,8BA8.00,64297001,106878015,NA,32,8BA8.00#
+8BAs.#,Alcohol relapse prevention,READ2,AlcoholConsumptionLevel3,2467301000000111#,Alcohol relapse prevention,8BAs,8BAs.00,9.68891E+14,2.4673E+15,NA,32,8BAs.00#
+8BAu.#,Alcohol harm reduction programme,READ2,AlcoholConsumptionLevel3,2475831000000114#,Alcohol harm reduction programme,8BAu,8BAu.00,720175009,3319643016,NA,32,8BAu.00#
+8BAw.#,Alcohol twelve step programme,READ2,AlcoholConsumptionLevel3,2485391000000114#,Alcohol twelve step programme,8BAw,8BAw.00,720178006,3319659016,NA,32,8BAw.00#
+8H35.#,Admitted to alcohol detoxification centre,READ2,AlcoholConsumptionLevel3,283559019#,Admitted to alcohol detoxification centre,8H35,8H35.00,183486001,283559019,NA,40,8H35.00#
+8IAt.#,Extended intervention for excessive alcohol consumption declined,READ2,AlcoholConsumptionLevel3,1754191000006119#,Extended intervention for excessive alcohol consumption declined,8IAt,8IAt.00,7.54831E+14,1.66064E+15,NA,32,8IAt.00#
+9k1B.#,Extended intervention for excessive alcohol consumption completed,READ2,AlcoholConsumptionLevel3,1680131000006113#,Extended intervention for excessive alcohol consumption completed,9k1B,9k1B.00,3.66421E+14,6.91701E+14,NA,37,9k1B.00#
+9NgzH#,Withdrawn from alcohol detoxification programme,READ2,AlcoholConsumptionLevel3,2462911000000112#,Withdrawn from alcohol detoxification programme,9NgzH,9NgzH00,719340007,3316032010,NA,37,9NgzH00#
+9NJz.#,In-house alcohol detoxification,READ2,AlcoholConsumptionLevel3,2298341000000114#,In-house alcohol detoxification,9NJz,9NJz.00,8.92631E+14,2.29834E+15,NA,37,9NJz.00#
+C1505#,Alcohol-induced pseudo-Cushing's syndrome,READ2,AlcoholConsumptionLevel3,356292013#,Alcohol-induced pseudo-Cushing's syndrome,C1505,C150500,237738005,356292013,NA,15,C150500#
+E01..#,Alcoholic psychoses,READ2,AlcoholConsumptionLevel3,476741000006111#,Alcohol-induced psychosis,E01,E01..00,42344001,70655012,NA,32,E01..00#
+E010.#,Alcohol withdrawal delirium,READ2,AlcoholConsumptionLevel3,15243013#,Alcohol withdrawal delirium,E010,E010.00,8635005,15243013,NA,32,E010.00#
+E010.#,Alcohol withdrawal delirium,READ2,AlcoholConsumptionLevel3,15244019#,Delirium tremens,E010-2,E010.12,8635005,15244019,NA,32,E010.12#
+E010.#,Alcohol withdrawal delirium,READ2,AlcoholConsumptionLevel3,507053019#,DTs - delirium tremens,E010-1,E010.11,8635005,507053019,NA,32,E010.11#
+E011.#,Alcohol amnestic syndrome,READ2,AlcoholConsumptionLevel3,476361000006114#,Alcohol amnestic syndrome,E011,E011.00,69482004,501300010,NA,32,E011.00#
+E0110#,Korsakov's alcoholic psychosis,READ2,AlcoholConsumptionLevel3,753331000006118#,Korsakov alcoholic psychosis,E0110,E011000,69482004,501296014,NA,32,E011000#
+E0111#,Korsakov's alcoholic psychosis with peripheral neuritis,READ2,AlcoholConsumptionLevel3,294662017#,Korsakov's alcoholic psychosis with peripheral neuritis,E0111,E011100,191471000,294662017,NA,32,E011100#
+E0112#,Wernicke-Korsakov syndrome,READ2,AlcoholConsumptionLevel3,501294012#,Wernicke-Korsakov syndrome,E0112,E011200,69482004,501294012,NA,32,E011200#
+E011z#,Alcohol amnestic syndrome NOS,READ2,AlcoholConsumptionLevel3,294664016#,Alcohol amnestic syndrome NOS,E011z,E011z00,73097000,121405015,NA,32,E011z00#
+E012.#,Other alcoholic dementia,READ2,AlcoholConsumptionLevel3,346929012#,Alcoholic dementia,E012-1,E012.11,281004,1225776018,NA,32,E012.11#
+E012.#,Other alcoholic dementia,READ2,AlcoholConsumptionLevel3,401760017#,Other alcoholic dementia,E012,E012.00,281004,1225776018,NA,32,E012.00#
+E0120#,Chronic alcoholic brain syndrome,READ2,AlcoholConsumptionLevel3,294668018#,Chronic alcoholic brain syndrome,E0120,E012000,191475009,294668018,NA,32,E012000#
+E013.#,Alcohol withdrawal hallucinosis,READ2,AlcoholConsumptionLevel3,294669014#,Alcohol withdrawal hallucinosis,E013,E013.00,191476005,294669014,NA,32,E013.00#
+E014.#,Pathological alcohol intoxication,READ2,AlcoholConsumptionLevel3,294670010#,Drunkenness - pathological,E014-1,E014.11,191477001,294670010,NA,32,E014.11#
+E014.#,Pathological alcohol intoxication,READ2,AlcoholConsumptionLevel3,294671014#,Pathological alcohol intoxication,E014,E014.00,191477001,294671014,NA,32,E014.00#
+E015.#,Alcoholic paranoia,READ2,AlcoholConsumptionLevel3,294672019#,Alcoholic paranoia,E015,E015.00,191478006,294672019,NA,32,E015.00#
+E01y.#,Other alcoholic psychosis,READ2,AlcoholConsumptionLevel3,882221000006114#,Other alcoholic psychoses,E01y-99,E01y.99,6.23961E+14,8.82221E+14,NA,32,E01y.99#
+E01y.#,Other alcoholic psychosis,READ2,AlcoholConsumptionLevel3,294673012#,Other alcoholic psychosis,E01y,E01y.00,42344001,70655012,NA,32,E01y.00#
+E01y0#,Alcohol withdrawal syndrome,READ2,AlcoholConsumptionLevel3,294674018#,Alcohol withdrawal syndrome,E01y0,E01y000,191480000,294674018,NA,32,E01y000#
+E01yz#,Other alcoholic psychosis NOS,READ2,AlcoholConsumptionLevel3,294675017#,Other alcoholic psychosis NOS,E01yz,E01yz00,42344001,70655012,NA,32,E01yz00#
+E01z.#,Alcoholic psychosis NOS,READ2,AlcoholConsumptionLevel3,294676016#,Alcoholic psychosis NOS,E01z,E01z.00,42344001,70655012,NA,32,E01z.00#
+E23..#,Alcohol dependence syndrome,READ2,AlcoholConsumptionLevel3,12878014#,Alcoholism,E23-1,E23..11,66590003,110629012,NA,32,E23..11#
+E23..#,Alcohol dependence syndrome,READ2,AlcoholConsumptionLevel3,500478011#,Alcohol dependence syndrome,E23,E23..00,66590003,500478011,NA,32,E23..00#
+E23..#,Alcohol dependence syndrome,READ2,AlcoholConsumptionLevel3,502017010#,Alcohol problem drinking,E23-2,E23..12,7200002,502017010,NA,32,E23..12#
+E230.#,Acute alcoholic intoxication in alcoholism,READ2,AlcoholConsumptionLevel3,295126010#,Alcohol dependence with acute alcoholic intoxication,E230-1,E230.11,191802004,295126010,NA,32,E230.11#
+E230.#,Acute alcoholic intoxication in alcoholism,READ2,AlcoholConsumptionLevel3,295127018#,Acute alcoholic intoxication in alcoholism,E230,E230.00,191802004,295127018,NA,32,E230.00#
+E2300#,"Acute alcoholic intoxication, unspecified, in alcoholism",READ2,AlcoholConsumptionLevel3,295128011#,"Acute alcoholic intoxication, unspecified, in alcoholism",E2300,E230000,191802004,295127018,NA,32,E230000#
+E2301#,Continuous acute alcoholic intoxication in alcoholism,READ2,AlcoholConsumptionLevel3,295129015#,Continuous acute alcoholic intoxication in alcoholism,E2301,E230100,191804003,295129015,NA,32,E230100#
+E2302#,Episodic acute alcoholic intoxication in alcoholism,READ2,AlcoholConsumptionLevel3,295130013#,Episodic acute alcoholic intoxication in alcoholism,E2302,E230200,191805002,295130013,NA,32,E230200#
+E2303#,"Acute alcoholic intoxication in remission, in alcoholism",READ2,AlcoholConsumptionLevel3,295131012#,"Acute alcoholic intoxication in remission, in alcoholism",E2303,E230300,191806001,295131012,NA,32,E230300#
+E230z#,Acute alcoholic intoxication in alcoholism NOS,READ2,AlcoholConsumptionLevel3,295132017#,Acute alcoholic intoxication in alcoholism NOS,E230z,E230z00,191802004,295127018,NA,32,E230z00#
+E231.#,Chronic alcoholism,READ2,AlcoholConsumptionLevel3,502016018#,Dipsomania,E231-1,E231.11,7200002,502016018,NA,32,E231.11#
+E231.#,Chronic alcoholism,READ2,AlcoholConsumptionLevel3,110629012#,Chronic alcoholism,E231,E231.00,66590003,110629012,NA,32,E231.00#
+E2310#,Unspecified chronic alcoholism,READ2,AlcoholConsumptionLevel3,295136019#,Alcohol dependence,E2310,E231000,66590003,110628016,NA,32,E231000#
+E2311#,Continuous chronic alcoholism,READ2,AlcoholConsumptionLevel3,295139014#,Continuous chronic alcoholism,E2311,E231100,191811004,295139014,NA,32,E231100#
+E2312#,Episodic chronic alcoholism,READ2,AlcoholConsumptionLevel3,295141010#,Episodic chronic alcoholism,E2312,E231200,191812006,295141010,NA,32,E231200#
+E2313#,Chronic alcoholism in remission,READ2,AlcoholConsumptionLevel3,295142015#,Chronic alcoholism in remission,E2313,E231300,191813001,295142015,NA,32,E231300#
+E231z#,Chronic alcoholism NOS,READ2,AlcoholConsumptionLevel3,295143013#,Chronic alcoholism NOS,E231z,E231z00,66590003,110629012,NA,32,E231z00#
+E23z.#,Alcohol dependence syndrome NOS,READ2,AlcoholConsumptionLevel3,295144019#,Alcohol dependence syndrome NOS,E23z,E23z.00,66590003,500478011,NA,32,E23z.00#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,401797010#,Nondependent alcohol abuse,E250,E250.00,268645007,401797010,NA,32,E250.00#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,346930019#,Inebriety NOS,E250-3,E250.13,25702006,43081018,NA,32,E250.13#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,769451000006111#,Intoxication - alcohol,E250-4,E250.14,25702006,43083015,NA,32,E250.14#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,346931015#,Drunkenness,E250-1,E250.11,25702006,43083015,NA,32,E250.11#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,223671000000110#,Hangover from alcohol,E250-2,E250.12,32553006,485256013,NA,32,E250.12#
+E250.#,Nondependent alcohol abuse,READ2,AlcoholConsumptionLevel3,882531000006110#,Non-dependent abuse of alcohol,E250-99,E250.99,268645007,8.82531E+14,NA,32,E250.99#
+E2500#,"Nondependent alcohol abuse, unspecified",READ2,AlcoholConsumptionLevel3,295251015#,"Nondependent alcohol abuse, unspecified",E2500,E250000,268645007,401797010,NA,32,E250000#
+E2501#,"Nondependent alcohol abuse, continuous",READ2,AlcoholConsumptionLevel3,295252010#,"Nondependent alcohol abuse, continuous",E2501,E250100,191882002,295252010,NA,32,E250100#
+E2502#,"Nondependent alcohol abuse, episodic",READ2,AlcoholConsumptionLevel3,295253017#,"Nondependent alcohol abuse, episodic",E2502,E250200,191883007,295253017,NA,32,E250200#
+E2503#,Nondependent alcohol abuse in remission,READ2,AlcoholConsumptionLevel3,295254011#,Nondependent alcohol abuse in remission,E2503,E250300,191884001,295254011,NA,32,E250300#
+E250z#,Nondependent alcohol abuse NOS,READ2,AlcoholConsumptionLevel3,295255012#,Nondependent alcohol abuse NOS,E250z,E250z00,268645007,401797010,NA,32,E250z00#
+Eu10.#,[X]Mental and behavioural disorders due to use of alcohol,READ2,AlcoholConsumptionLevel3,295765017#,Alcohol-induced organic mental disorder,Eu10,Eu10.00,29212009,48886010,NA,32,Eu10.00#
+Eu100#,[X]Mental and behavioural disorders due to use of alcohol: acute intoxication,READ2,AlcoholConsumptionLevel3,362251000006117#,Alcohol intoxication,Eu100-1,Eu10011,25702006,43081018,NA,32,Eu10011#
+Eu100#,[X]Mental and behavioural disorders due to use of alcohol: acute intoxication,READ2,AlcoholConsumptionLevel3,397611000006115#,[X]Mental & behav dis due to use alcohol: acute intoxication,Eu100,Eu10000,25702006,43081018,NA,32,Eu10000#
+Eu101#,[X]Mental and behavioural disorders due to use of alcohol: harmful use,READ2,AlcoholConsumptionLevel3,397881000006114#,Alcohol abuse,Eu101,Eu10100,15167005,25750014,NA,32,Eu10100#
+Eu102#,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,READ2,AlcoholConsumptionLevel3,362921000006118#,[X]Alcohol addiction,Eu102-1,Eu10211,66590003,500478011,NA,32,Eu10211#
+Eu102#,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,READ2,AlcoholConsumptionLevel3,377081000006114#,[X]Dipsomania,Eu102-3,Eu10213,66590003,500478011,NA,32,Eu10213#
+Eu102#,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,READ2,AlcoholConsumptionLevel3,397801000006117#,[X]Mental and behav dis due to use alcohol: dependence syndr,Eu102,Eu10200,66590003,500478011,NA,32,Eu10200#
+Eu102#,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,READ2,AlcoholConsumptionLevel3,370971000006114#,[X]Chronic alcoholism,Eu102-2,Eu10212,66590003,110629012,NA,32,Eu10212#
+Eu103#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state,READ2,AlcoholConsumptionLevel3,397811000006119#,[X]Mental and behav dis due to use alcohol: withdrawal state,Eu103,Eu10300,191480000,294674018,NA,32,Eu10300#
+Eu104#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,READ2,AlcoholConsumptionLevel3,376451000006113#,"[X]Delirium tremens, alcohol induced",Eu104-1,Eu10411,8635005,15243013,NA,32,Eu10411#
+Eu104#,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,READ2,AlcoholConsumptionLevel3,397211000006118#,[X]Men & behav dis due alcohl: withdrawl state with delirium,Eu104,Eu10400,8635005,15243013,NA,32,Eu10400#
+Eu105#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,READ2,AlcoholConsumptionLevel3,397621000006111#,Alcohol-induced psychosis,Eu105,Eu10500,42344001,70655012,NA,32,Eu10500#
+Eu105#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,READ2,AlcoholConsumptionLevel3,362961000006112#,[X]Alcoholic jealousy,Eu105-2,Eu10512,42344001,70655012,NA,32,Eu10512#
+Eu105#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,READ2,AlcoholConsumptionLevel3,362981000006119#,[X]Alcoholic psychosis NOS,Eu105-4,Eu10514,42344001,70655012,NA,32,Eu10514#
+Eu105#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,READ2,AlcoholConsumptionLevel3,362951000006110#,Alcoholic hallucinosis,Eu105-1,Eu10511,7052005,1233279015,NA,32,Eu10511#
+Eu105#,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,READ2,AlcoholConsumptionLevel3,362971000006117#,[X]Alcoholic paranoia,Eu105-3,Eu10513,42344001,70655012,NA,32,Eu10513#
+Eu106#,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,READ2,AlcoholConsumptionLevel3,394681000006119#,Korsakoff's psychosis,Eu106-1,Eu10611,69482004,115434017,NA,32,Eu10611#
+Eu106#,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,READ2,AlcoholConsumptionLevel3,397791000006118#,Alcohol amnestic disorder,Eu106,Eu10600,73097000,121405015,NA,32,Eu10600#
+Eu107#,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder,READ2,AlcoholConsumptionLevel3,362941000006113#,[X]Alcoholic dementia NOS,Eu107-1,Eu10711,281004,1225776018,NA,32,Eu10711#
+Eu107#,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder,READ2,AlcoholConsumptionLevel3,397201000006116#,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,Eu107,Eu10700,42344001,70655012,NA,32,Eu10700#
+Eu107#,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder,READ2,AlcoholConsumptionLevel3,370961000006119#,[X]Chronic alcoholic brain syndrome,Eu107-2,Eu10712,191475009,294668018,NA,32,Eu10712#
+Eu108#,[X]Alcohol withdrawal-induced seizure,READ2,AlcoholConsumptionLevel3,315091000000117#,Alcohol withdrawal-induced seizure,Eu108,Eu10800,308742005,452061016,NA,32,Eu10800#
+Eu10y#,[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders,READ2,AlcoholConsumptionLevel3,397241000006119#,[X]Men & behav dis due to use alcohol: oth men & behav dis,Eu10y,Eu10y00,29212009,48886010,NA,32,Eu10y00#
+Eu10z#,[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder,READ2,AlcoholConsumptionLevel3,397431000006111#,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,Eu10z,Eu10z00,91388009,151411015,NA,32,Eu10z00#
+F11x0#,Cerebral degeneration due to alcoholism,READ2,AlcoholConsumptionLevel3,542611000006114#,Cerebral degeneration due to alcoholism,F11x0,F11x000,192811002,297011014,NA,32,F11x000#
+F11x0#,Cerebral degeneration due to alcoholism,READ2,AlcoholConsumptionLevel3,297011014#,Alcoholic encephalopathy,F11x0-1,F11x011,192811002,297011014,NA,32,F11x011#
+F1440#,Cerebellar ataxia due to alcoholism,READ2,AlcoholConsumptionLevel3,478046010#,Cerebellar ataxia due to alcoholism,F1440,F144000,361272001,478046010,NA,32,F144000#
+F25B.#,Alcohol-induced epilepsy,READ2,AlcoholConsumptionLevel3,478024019#,Alcohol-induced epilepsy,F25B,F25B.00,361268000,478024019,NA,15,F25B.00#
+F375.#,Alcoholic polyneuropathy,READ2,AlcoholConsumptionLevel3,14103017#,Alcohol-induced polyneuropathy,F375,F375.00,7916009,14104011,NA,32,F375.00#
+G555.#,Alcoholic cardiomyopathy,READ2,AlcoholConsumptionLevel3,138527014#,Alcoholic cardiomyopathy,G555,G555.00,83521008,138527014,NA,32,G555.00#
+G8523#,Oesophageal varices in alcoholic cirrhosis of the liver,READ2,AlcoholConsumptionLevel3,453265010#,Oesophageal varices in alcoholic cirrhosis of the liver,G8523,G852300,309783001,453265010,NA,32,G852300#
+J612.#,Alcoholic cirrhosis of liver,READ2,AlcoholConsumptionLevel3,126721013#,Florid cirrhosis,J612-1,J612.11,76301009,126721013,NA,32,J612.11#
+J612.#,Alcoholic cirrhosis of liver,READ2,AlcoholConsumptionLevel3,476611000006116#,Alcoholic cirrhosis of liver,J612,J612.00,420054005,2920441014,NA,32,J612.00#
+J612.#,Alcoholic cirrhosis of liver,READ2,AlcoholConsumptionLevel3,2579818016#,Laennec's cirrhosis,J612-2,J612.12,419728003,2576980018,NA,32,J612.12#
+J6120#,Alcoholic fibrosis and sclerosis of liver,READ2,AlcoholConsumptionLevel3,353594015#,Alcoholic fibrosis and sclerosis of liver,J6120,J612000,235880004,353594015,NA,32,J612000#
+J6130#,Alcoholic hepatic failure,READ2,AlcoholConsumptionLevel3,353595019#,Alcoholic hepatic failure,J6130,J613000,235881000,353595019,NA,32,J613000#
+J617.#,Alcoholic hepatitis,READ2,AlcoholConsumptionLevel3,353587018#,Alcoholic hepatitis,J617,J617.00,235875008,353587018,NA,32,J617.00#
+J6170#,Chronic alcoholic hepatitis,READ2,AlcoholConsumptionLevel3,451124014#,Chronic alcoholic hepatitis,J6170,J617000,307757001,451124014,NA,32,J617000#
+J6710#,Alcohol-induced chronic pancreatitis,READ2,AlcoholConsumptionLevel3,353698013#,Alcohol-induced chronic pancreatitis,J6710,J671000,235952002,353698013,NA,32,J671000#
+U60H3#,[X]Alcohol deterrents causing adverse effects in therapeutic use,READ2,AlcoholConsumptionLevel3,350971000006112#,[X] Adverse reaction to alcohol deterrents,U60H3-1,U60H311,292416003,432554017,NA,5,U60H311#
+U60H3#,[X]Alcohol deterrents causing adverse effects in therapeutic use,READ2,AlcoholConsumptionLevel3,362931000006115#,[X]Alcohol deterrents caus adverse effects in therapeut use,U60H3,U60H300,292416003,432554017,NA,5,U60H300#
+ZV57A#,[V]Alcohol rehabilitation,READ2,AlcoholConsumptionLevel3,460926018#,[V]Alcohol rehabilitation,ZV57A,ZV57A00,4.71691E+14,1.00133E+15,NA,32,ZV57A00#
+ZV6D6#,[V]Alcohol abuse counselling and surveillance,READ2,AlcoholConsumptionLevel3,461112017#,Alcoholism counselling,ZV6D6,ZV6D600,24165007,1206287010,NA,32,ZV6D600#

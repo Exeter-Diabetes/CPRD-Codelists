@@ -1,0 +1,240 @@
+readcode,term_readcode,CodingSystem,Category,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+137..#,Tobacco consumption,READ2,Active smoker,102921000006112#,Tobacco smoking consumption,137,137..00,266918002,397730015,NA,17,137..00#
+137..#,Tobacco consumption,READ2,Active smoker,137721000006115#,Smoker - amount smoked,137-1,137..11,266918002,397730015,NA,17,137..11#
+1372.#,Trivial smoker - < 1 cig/day,READ2,Active smoker,397733018#,Occasional smoker,1372-1,1372.11,428041000124106,2717161000000119,NA,17,1372.11#
+1372.#,Trivial smoker - < 1 cig/day,READ2,Active smoker,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372.00,266920004,397735013,NA,17,1372.00#
+1373.#,Light smoker - 1-9 cigs/day,READ2,Active smoker,743331000006116#,Light cigarette smoker (1-9 cigs/day),1373,1373.00,160603005,250358015,NA,17,1373.00#
+1374.#,Moderate smoker - 10-19 cigs/d,READ2,Active smoker,700121000006118#,Moderate cigarette smoker (10-19 cigs/day),1374,1374.00,160604004,250359011,NA,17,1374.00#
+1375.#,Heavy smoker - 20-39 cigs/day,READ2,Active smoker,819331000006110#,Heavy cigarette smoker (20-39 cigs/day),1375,1375.00,160605003,250360018,NA,17,1375.00#
+1376.#,Very heavy smoker - 40+cigs/d,READ2,Active smoker,67621000006112#,Very heavy cigarette smoker (40+ cigs/day),1376,1376.00,160606002,250362014,NA,17,1376.00#
+137a.#,Pipe tobacco consumption,READ2,Active smoker,344795016#,Pipe tobacco consumption,137a,137a.00,230058003,344795016,NA,17,137a.00#
+137b.#,Ready to stop smoking,READ2,Active smoker,1488577017#,Ready to stop smoking,137b,137b.00,394872000,1488577017,NA,17,137b.00#
+137c.#,Thinking about stopping smoking,READ2,Active smoker,1488576014#,Thinking about stopping smoking,137c,137c.00,394871007,1488576014,NA,17,137c.00#
+137C.#,Keeps trying to stop smoking,READ2,Active smoker,250368013#,Keeps trying to stop smoking,137C,137C.00,160612007,250368013,NA,17,137C.00#
+137d.#,Not interested in stopping smoking,READ2,Active smoker,1488578010#,Not interested in stopping smoking,137d,137d.00,394873005,1488578010,NA,17,137d.00#
+137e.#,Smoking restarted,READ2,Active smoker,2670126018#,Smoking restarted,137e,137e.00,308438006,2670126018,NA,17,137e.00#
+137f.#,Reason for restarting smoking,READ2,Active smoker,1780360012#,Reason for restarting smoking,137f,137f.00,401159003,1780360012,NA,17,137f.00#
+137g.#,Cigarette pack-years,READ2,Active smoker,1780396011#,Cigarette pack-years,137g,137g.00,401201003,1780396011,NA,17,137g.00#
+137G.#,Trying to give up smoking,READ2,Active smoker,250372012#,Trying to give up smoking,137G,137G.00,160616005,250372012,NA,17,137G.00#
+137h.#,Minutes from waking to first tobacco consumption,READ2,Active smoker,2474719011#,Minutes from waking to first tobacco consumption,137h,137h.00,413173009,2474719011,NA,17,137h.00#
+137H.#,Pipe smoker,READ2,Active smoker,136515019#,Pipe smoker,137H,137H.00,82302008,136515019,NA,17,137H.00#
+137J.#,Cigar smoker,READ2,Active smoker,99639019#,Cigar smoker,137J,137J.00,59978006,99639019,NA,17,137J.00#
+137m.#,Failed attempt to stop smoking,READ2,Active smoker,1592611000000110#,Failed attempt to stop smoking,137m,137m.00,446172000,2882460017,NA,17,137m.00#
+137M.#,Rolls own cigarettes,READ2,Active smoker,250375014#,Rolls own cigarettes,137M,137M.00,160619003,250375014,NA,17,137M.00#
+137o.#,Waterpipe tobacco consumption,READ2,Active smoker,2170961000000116#,Waterpipe tobacco consumption,137o,137o.00,836001000000109,2170961000000116,NA,17,137o.00#
+137P.#,Cigarette smoker,READ2,Active smoker,108938018#,Cigarette smoker,137P,137P.00,65568007,108938018,NA,17,137P.00#
+137P.#,Cigarette smoker,READ2,Active smoker,128130017#,Smoker,137P-1,137P.11,77176002,128130017,NA,17,137P.11#
+137Q.#,Smoking started,READ2,Active smoker,2669652019#,Smoking started,137Q,137Q.00,266929003,2669652019,NA,17,137Q.00#
+137Q.#,Smoking started,READ2,Active smoker,137791000006118#,Smoking restarted,137Q-1,137Q.11,308438006,2670126018,NA,17,137Q.11#
+137R.#,Current smoker,READ2,Active smoker,503483019#,Current smoker,137R,137R.00,77176002,503483019,NA,17,137R.00#
+137V.#,Smoking reduced,READ2,Active smoker,216212011#,Smoking reduced,137V,137V.00,134406006,216212011,NA,17,137V.00#
+137X.#,Cigarette consumption,READ2,Active smoker,344793011#,Cigarette consumption,137X,137X.00,230056004,344793011,NA,17,137X.00#
+137Y.#,Cigar consumption,READ2,Active smoker,344794017#,Cigar consumption,137Y,137Y.00,230057008,344794017,NA,17,137Y.00#
+137Z.#,Tobacco consumption NOS,READ2,Active smoker,250387019#,Tobacco consumption NOS,137Z,137Z.00,266918002,397730015,NA,17,137Z.00#
+6791.#,Health ed. - smoking,READ2,Active smoker,818061000006111#,Smoking cessation education,6791,6791.00,225323000,2575784012,NA,17,6791.00#
+67H1.#,Lifestyle advice regarding smoking,READ2,Active smoker,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,225324006,338609015,NA,17,67H1.00#
+67H6.#,Brief intervention for smoking cessation,READ2,Active smoker,1125741000000111#,Brief intervention for smoking cessation,67H6,67H6.00,506491000000102,1125741000000111,NA,17,67H6.00#
+8CdB.#,Stop smoking service opportunity signposted,READ2,Active smoker,1750931000000118#,Stop smoking service opportunity signposted,8CdB,8CdB.00,783011000000105,1750931000000118,NA,32,8CdB.00#
+8H7i.#,Referral to smoking cessation advisor,READ2,Active smoker,1489355012#,Referral to smoking cessation advisor,8H7i,8H7i.00,395700008,1489355012,NA,40,8H7i.00#
+8HBM.#,Stop smoking face to face follow-up,READ2,Active smoker,1123541000000118#,Stop smoking face to face follow-up,8HBM,8HBM.00,505581000000108,1123541000000118,NA,40,8HBM.00#
+8HkQ.#,Referral to NHS stop smoking service,READ2,Active smoker,1715591000006117#,Referral to National Health Service stop smoking service,8HkQ,8HkQ.00,505281000000106,1122921000000113,NA,40,8HkQ.00#
+8HTK.#,Referral to stop-smoking clinic,READ2,Active smoker,459722017#,Referral to stop-smoking clinic,8HTK,8HTK.00,315232003,459722017,NA,40,8HTK.00#
+8IAj.#,Smoking cessation advice declined,READ2,Active smoker,1176421000000118#,Smoking cessation advice declined,8IAj,8IAj.00,527151000000107,1176421000000118,NA,32,8IAj.00#
+8IEK.#,Smoking cessation programme declined,READ2,Active smoker,1175011000000112#,Smoking cessation programme declined,8IEK,8IEK.00,1087441000000106,2724181000000114,NA,32,8IEK.00#
+8IEM.#,Smoking cessation drug therapy declined,READ2,Active smoker,2141561000000115#,Smoking cessation drug therapy declined,8IEM,8IEM.00,822591000000108,2141561000000115,NA,32,8IEM.00#
+8IEo.#,Referral to smoking cessation service declined,READ2,Active smoker,2251871000000112#,Referral to smoking cessation service declined,8IEo,8IEo.00,871641000000105,2251871000000112,NA,32,8IEo.00#
+8T08.#,Referral to smoking cessation service,READ2,Active smoker,2251911000000114#,Referral to smoking cessation service,8T08,8T08.00,871661000000106,2251911000000114,NA,32,8T08.00#
+9kf1.#,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration,READ2,Active smoker,1704561000006112#,Referred for chronic obstructive pulmonary disease structured smoking assessment,9kf1,9kf1.00,375851000000108,739301000000115,NA,37,9kf1.00#
+9kf1.#,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration,READ2,Active smoker,1704551000006110#,Referred for COPD structured smoking assessment,9kf1-1,9kf1.11,375851000000108,739301000000115,NA,37,9kf1.11#
+9N2k.#,Seen by smoking cessation advisor,READ2,Active smoker,1780273014#,Seen by smoking cessation advisor,9N2k,9N2k.00,401068004,1780273014,NA,37,9N2k.00#
+9N4M.#,DNA - Did not attend smoking cessation clinic,READ2,Active smoker,62881000000117#,DNA - Did not attend smoking cessation clinic,9N4M,9N4M.00,25261000000107,62881000000117,NA,37,9N4M.00#
+9NS02#,Referral for smoking cessation service offered,READ2,Active smoker,1709641000000115#,Referral for smoking cessation service offered,9NS02,9NS0200,767641000000109,1709641000000115,NA,37,9NS0200#
+9OO..#,Anti-smoking monitoring admin.,READ2,Active smoker,21681000000118#,Anti-smoking monitoring admin.,9OO,9OO..00,714001000000108,1565241000000115,NA,37,9OO..00#
+9OO..#,Anti-smoking monitoring admin.,READ2,Active smoker,25281000000119#,Stop smoking clinic administration,9OO-1,9OO..11,714021000000104,1565261000000119,NA,37,9OO..11#
+9OO..#,Anti-smoking monitoring admin.,READ2,Active smoker,21691000000116#,Anti-smoking monitoring administration,9OO-2,9OO..12,714001000000108,1565241000000115,NA,37,9OO..12#
+9OO1.#,Attends stop smoking monitor.,READ2,Active smoker,498831000006118#,Attends stop smoking monitoring,9OO1,9OO1.00,185789006,285791018,NA,37,9OO1.00#
+9OO2.#,Refuses stop smoking monitor,READ2,Active smoker,285792013#,Monitoring of smoking cessation therapy refused,9OO2,9OO2.00,765001003,3656021018,NA,37,9OO2.00#
+9OO3.#,Stop smoking monitor default,READ2,Active smoker,285793015#,Stop smoking monitor default,9OO3,9OO3.00,185791003,285793015,NA,37,9OO3.00#
+9OO4.#,Stop smoking monitor 1st lettr,READ2,Active smoker,128311000006112#,Stop smoking monitoring first letter,9OO4,9OO4.00,185792005,285794014,NA,37,9OO4.00#
+9OO5.#,Stop smoking monitor 2nd lettr,READ2,Active smoker,128321000006116#,Stop smoking monitoring second letter,9OO5,9OO5.00,185793000,285795010,NA,37,9OO5.00#
+9OO6.#,Stop smoking monitor 3rd lettr,READ2,Active smoker,128331000006118#,Stop smoking monitoring third letter,9OO6,9OO6.00,185794006,285796011,NA,37,9OO6.00#
+9OO7.#,Stop smoking monitor verb.inv.,READ2,Active smoker,128371000006115#,Stop smoking monitoring verbal invite,9OO7,9OO7.00,185795007,285797019,NA,37,9OO7.00#
+9OO8.#,Stop smoking monitor phone inv,READ2,Active smoker,128361000006110#,Stop smoking monitoring telephone invite,9OO8,9OO8.00,185796008,285798012,NA,37,9OO8.00#
+9OO9.#,Stop smoking monitoring delete,READ2,Active smoker,285805010#,Stop smoking monitoring delete,9OO9,9OO9.00,185798009,285805010,NA,37,9OO9.00#
+9OOA.#,Stop smoking monitor.chck done,READ2,Active smoker,128381000006117#,Stop smoking monitoring check done,9OOA,9OOA.00,185799001,285806011,NA,37,9OOA.00#
+9OOB.#,Stop smoking invitation short message service text message,READ2,Active smoker,1751721000000113#,Stop smoking invitation short message service text message,9OOB,9OOB.00,783381000000101,1751721000000113,NA,37,9OOB.00#
+9OOB0#,Stop smoking invitation first short message service text message,READ2,Active smoker,1785671000006116#,Stop smoking invitation first short message service text message,9OOB0,9OOB000,783401000000101,1751761000000117,NA,37,9OOB000#
+9OOB1#,Stop smoking invitation second short message service text message,READ2,Active smoker,1785681000006118#,Stop smoking invitation second short message service text message,9OOB1,9OOB100,783441000000103,1751861000000114,NA,37,9OOB100#
+9OOB2#,Stop smoking invitation third short message service text message,READ2,Active smoker,1785691000006115#,Stop smoking invitation third short message service text message,9OOB2,9OOB200,783481000000106,1751951000000118,NA,37,9OOB200#
+9OOZ.#,Stop smoking monitor admin.NOS,READ2,Active smoker,16261000000110#,Stop smoking monitoring administration,9OOZ,9OOZ.00,714001000000108,1567181000000113,NA,37,9OOZ.00#
+H3101#,Smokers' cough,READ2,Active smoker,78013015#,Smokers' cough,H3101,H310100,46802002,78013015,NA,32,H310100#
+1377.#,Ex-trivial smoker (<1/day),READ2,Ex-smoker,250363016#,Ex-trivial cigarette smoker (<1/day),1377,1377.00,266921000,397736014,NA,17,1377.00#
+1378.#,Ex-light smoker (1-9/day),READ2,Ex-smoker,250364010#,Ex-light cigarette smoker (1-9/day),1378,1378.00,266922007,397737017,NA,17,1378.00#
+1379.#,Ex-moderate smoker (10-19/day),READ2,Ex-smoker,250365011#,Ex-moderate cigarette smoker (10-19/day),1379,1379.00,266923002,397738010,NA,17,1379.00#
+137A.#,Ex-heavy smoker (20-39/day),READ2,Ex-smoker,250366012#,Ex-heavy cigarette smoker (20-39/day),137A,137A.00,266924008,397739019,NA,17,137A.00#
+137B.#,Ex-very heavy smoker (40+/day),READ2,Ex-smoker,250367015#,Ex-very heavy cigarette smoker (40+/day),137B,137B.00,266925009,397740017,NA,17,137B.00#
+137F.#,Ex-smoker - amount unknown,READ2,Ex-smoker,250371017#,Ex-smoker - amount unknown,137F,137F.00,8517006,15047015,NA,17,137F.00#
+137F.#,Ex-smoker - amount unknown,READ2,Ex-smoker,903041000006110#,EX-Smoker NOS,137F-99,137F.99,266928006,903041000006110,NA,17,137F.99#
+137j.#,Ex-cigarette smoker,READ2,Ex-smoker,418914010#,Ex-cigarette smoker,137j,137j.00,281018007,418914010,NA,17,137j.00#
+137K.#,Stopped smoking,READ2,Ex-smoker,250373019#,Stopped smoking,137K,137K.00,160617001,250373019,NA,17,137K.00#
+137K0#,Recently stopped smoking,READ2,Ex-smoker,1151791000000117#,Recently stopped smoking,137K0,137K000,517211000000106,1151791000000117,NA,17,137K000#
+137l.#,Ex roll-up cigarette smoker,READ2,Ex-smoker,1059701000000119#,Ex roll-up cigarette smoker,137l,137l.00,492191000000103,1059701000000119,NA,17,137l.00#
+137N.#,Ex pipe smoker,READ2,Ex-smoker,649831000006117#,Ex-pipe smoker,137N,137N.00,160620009,250376010,NA,17,137N.00#
+137O.#,Ex cigar smoker,READ2,Ex-smoker,649821000006115#,Ex-cigar smoker,137O,137O.00,160621008,250377018,NA,17,137O.00#
+137S.#,Ex smoker,READ2,Ex-smoker,649841000006110#,Ex-smoker,137S,137S.00,8517006,15047015,NA,17,137S.00#
+137T.#,Date ceased smoking,READ2,Ex-smoker,250385010#,Date ceased smoking,137T,137T.00,160625004,250385010,NA,17,137T.00#
+1371.#,Never smoked tobacco,READ2,Non-smoker,14866014#,Non-smoker,1371-1,1371.11,8392000,14866014,NA,17,1371.11#
+1371.#,Never smoked tobacco,READ2,Non-smoker,397732011#,Never smoked tobacco,1371,1371.00,266919005,397732011,NA,17,1371.00#
+137L.#,Current non-smoker,READ2,Non-smoker,903051000006112#,Tobacco Consumption Nil,137L-99,137L.99,160618006,903051000006112,NA,17,137L.99#
+137L.#,Current non-smoker,READ2,Non-smoker,250374013#,Current non-smoker,137L,137L.00,160618006,250374013,NA,17,137L.00#
+137..#,[Tobacco consumption] or [smoker - amount smoked],CTV3,Active smoker,102921000006112#,Tobacco smoking consumption,137,137..00,266918002,397730015,NA,17,137..00#
+137..#,[Tobacco consumption] or [smoker - amount smoked],CTV3,Active smoker,137721000006115#,Smoker - amount smoked,137-1,137..11,266918002,397730015,NA,17,137..11#
+1372.#,(Trivial smoker - < 1 cig/day) or (occasional smoker),CTV3,Active smoker,397733018#,Occasional smoker,1372-1,1372.11,428041000124106,2717161000000119,NA,17,1372.11#
+1372.#,(Trivial smoker - < 1 cig/day) or (occasional smoker),CTV3,Active smoker,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372.00,266920004,397735013,NA,17,1372.00#
+1373.#,Light cigarette smoker (1-9 cigs/day),CTV3,Active smoker,743331000006116#,Light cigarette smoker (1-9 cigs/day),1373,1373.00,160603005,250358015,NA,17,1373.00#
+1374.#,Moderate cigarette smoker (10-19 cigs/day),CTV3,Active smoker,700121000006118#,Moderate cigarette smoker (10-19 cigs/day),1374,1374.00,160604004,250359011,NA,17,1374.00#
+1375.#,Heavy cigarette smoker (20-39 cigs/day),CTV3,Active smoker,819331000006110#,Heavy cigarette smoker (20-39 cigs/day),1375,1375.00,160605003,250360018,NA,17,1375.00#
+1376.#,Very heavy cigarette smoker (40+ cigs/day),CTV3,Active smoker,67621000006112#,Very heavy cigarette smoker (40+ cigs/day),1376,1376.00,160606002,250362014,NA,17,1376.00#
+137a.#,NULL,CTV3,Active smoker,344795016#,Pipe tobacco consumption,137a,137a.00,230058003,344795016,NA,17,137a.00#
+137b.#,NULL,CTV3,Active smoker,1488577017#,Ready to stop smoking,137b,137b.00,394872000,1488577017,NA,17,137b.00#
+137c.#,NULL,CTV3,Active smoker,1488576014#,Thinking about stopping smoking,137c,137c.00,394871007,1488576014,NA,17,137c.00#
+137C.#,Keeps trying to stop smoking,CTV3,Active smoker,250368013#,Keeps trying to stop smoking,137C,137C.00,160612007,250368013,NA,17,137C.00#
+137d.#,NULL,CTV3,Active smoker,1488578010#,Not interested in stopping smoking,137d,137d.00,394873005,1488578010,NA,17,137d.00#
+137e.#,NULL,CTV3,Active smoker,2670126018#,Smoking restarted,137e,137e.00,308438006,2670126018,NA,17,137e.00#
+137f.#,NULL,CTV3,Active smoker,1780360012#,Reason for restarting smoking,137f,137f.00,401159003,1780360012,NA,17,137f.00#
+137g.#,NULL,CTV3,Active smoker,1780396011#,Cigarette pack-years,137g,137g.00,401201003,1780396011,NA,17,137g.00#
+137G.#,Trying to give up smoking,CTV3,Active smoker,250372012#,Trying to give up smoking,137G,137G.00,160616005,250372012,NA,17,137G.00#
+137h.#,NULL,CTV3,Active smoker,2474719011#,Minutes from waking to first tobacco consumption,137h,137h.00,413173009,2474719011,NA,17,137h.00#
+137H.#,Pipe smoker,CTV3,Active smoker,136515019#,Pipe smoker,137H,137H.00,82302008,136515019,NA,17,137H.00#
+137J.#,Cigar smoker,CTV3,Active smoker,99639019#,Cigar smoker,137J,137J.00,59978006,99639019,NA,17,137J.00#
+137m.#,NULL,CTV3,Active smoker,1592611000000110#,Failed attempt to stop smoking,137m,137m.00,446172000,2882460017,NA,17,137m.00#
+137M.#,Rolls own cigarettes,CTV3,Active smoker,250375014#,Rolls own cigarettes,137M,137M.00,160619003,250375014,NA,17,137M.00#
+137o.#,NULL,CTV3,Active smoker,2170961000000116#,Waterpipe tobacco consumption,137o,137o.00,836001000000109,2170961000000116,NA,17,137o.00#
+137P.#,Smoker (& cigarette),CTV3,Active smoker,108938018#,Cigarette smoker,137P,137P.00,65568007,108938018,NA,17,137P.00#
+137P.#,Smoker (& cigarette),CTV3,Active smoker,128130017#,Smoker,137P-1,137P.11,77176002,128130017,NA,17,137P.11#
+137Q.#,Smoking: [started] or [restarted],CTV3,Active smoker,2669652019#,Smoking started,137Q,137Q.00,266929003,2669652019,NA,17,137Q.00#
+137Q.#,Smoking: [started] or [restarted],CTV3,Active smoker,137791000006118#,Smoking restarted,137Q-1,137Q.11,308438006,2670126018,NA,17,137Q.11#
+137R.#,Smoker,CTV3,Active smoker,503483019#,Current smoker,137R,137R.00,77176002,503483019,NA,17,137R.00#
+137V.#,NULL,CTV3,Active smoker,216212011#,Smoking reduced,137V,137V.00,134406006,216212011,NA,17,137V.00#
+137X.#,NULL,CTV3,Active smoker,344793011#,Cigarette consumption,137X,137X.00,230056004,344793011,NA,17,137X.00#
+137Y.#,NULL,CTV3,Active smoker,344794017#,Cigar consumption,137Y,137Y.00,230057008,344794017,NA,17,137Y.00#
+137Z.#,Tobacco consumption NOS,CTV3,Active smoker,250387019#,Tobacco consumption NOS,137Z,137Z.00,266918002,397730015,NA,17,137Z.00#
+6791.#,Health education - smoking,CTV3,Active smoker,818061000006111#,Smoking cessation education,6791,6791.00,225323000,2575784012,NA,17,6791.00#
+67H1.#,NULL,CTV3,Active smoker,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,225324006,338609015,NA,17,67H1.00#
+67H6.#,NULL,CTV3,Active smoker,1125741000000111#,Brief intervention for smoking cessation,67H6,67H6.00,506491000000102,1125741000000111,NA,17,67H6.00#
+8CdB.#,NULL,CTV3,Active smoker,1750931000000118#,Stop smoking service opportunity signposted,8CdB,8CdB.00,783011000000105,1750931000000118,NA,32,8CdB.00#
+8H7i.#,NULL,CTV3,Active smoker,1489355012#,Referral to smoking cessation advisor,8H7i,8H7i.00,395700008,1489355012,NA,40,8H7i.00#
+8HBM.#,NULL,CTV3,Active smoker,1123541000000118#,Stop smoking face to face follow-up,8HBM,8HBM.00,505581000000108,1123541000000118,NA,40,8HBM.00#
+8HkQ.#,NULL,CTV3,Active smoker,1715591000006117#,Referral to National Health Service stop smoking service,8HkQ,8HkQ.00,505281000000106,1122921000000113,NA,40,8HkQ.00#
+8HTK.#,NULL,CTV3,Active smoker,459722017#,Referral to stop-smoking clinic,8HTK,8HTK.00,315232003,459722017,NA,40,8HTK.00#
+8IAj.#,NULL,CTV3,Active smoker,1176421000000118#,Smoking cessation advice declined,8IAj,8IAj.00,527151000000107,1176421000000118,NA,32,8IAj.00#
+8IEK.#,NULL,CTV3,Active smoker,1175011000000112#,Smoking cessation programme declined,8IEK,8IEK.00,1087441000000106,2724181000000114,NA,32,8IEK.00#
+8IEM.#,NULL,CTV3,Active smoker,2141561000000115#,Smoking cessation drug therapy declined,8IEM,8IEM.00,822591000000108,2141561000000115,NA,32,8IEM.00#
+8IEo.#,NULL,CTV3,Active smoker,2251871000000112#,Referral to smoking cessation service declined,8IEo,8IEo.00,871641000000105,2251871000000112,NA,32,8IEo.00#
+8T08.#,NULL,CTV3,Active smoker,2251911000000114#,Referral to smoking cessation service,8T08,8T08.00,871661000000106,2251911000000114,NA,32,8T08.00#
+9kf1.#,NULL,CTV3,Active smoker,1704561000006112#,Referred for chronic obstructive pulmonary disease structured smoking assessment,9kf1,9kf1.00,375851000000108,739301000000115,NA,37,9kf1.00#
+9kf1.#,NULL,CTV3,Active smoker,1704551000006110#,Referred for COPD structured smoking assessment,9kf1-1,9kf1.11,375851000000108,739301000000115,NA,37,9kf1.11#
+9N2k.#,NULL,CTV3,Active smoker,1780273014#,Seen by smoking cessation advisor,9N2k,9N2k.00,401068004,1780273014,NA,37,9N2k.00#
+9N4M.#,NULL,CTV3,Active smoker,62881000000117#,DNA - Did not attend smoking cessation clinic,9N4M,9N4M.00,25261000000107,62881000000117,NA,37,9N4M.00#
+9NS02#,NULL,CTV3,Active smoker,1709641000000115#,Referral for smoking cessation service offered,9NS02,9NS0200,767641000000109,1709641000000115,NA,37,9NS0200#
+9OO..#,Stop smoking monitoring admin: [monitoring] or [clinic],CTV3,Active smoker,21681000000118#,Anti-smoking monitoring admin.,9OO,9OO..00,714001000000108,1565241000000115,NA,37,9OO..00#
+9OO..#,Stop smoking monitoring admin: [monitoring] or [clinic],CTV3,Active smoker,25281000000119#,Stop smoking clinic administration,9OO-1,9OO..11,714021000000104,1565261000000119,NA,37,9OO..11#
+9OO..#,Stop smoking monitoring admin: [monitoring] or [clinic],CTV3,Active smoker,21691000000116#,Anti-smoking monitoring administration,9OO-2,9OO..12,714001000000108,1565241000000115,NA,37,9OO..12#
+9OO1.#,Attends stop smoking monitoring,CTV3,Active smoker,498831000006118#,Attends stop smoking monitoring,9OO1,9OO1.00,185789006,285791018,NA,37,9OO1.00#
+9OO2.#,Refuses stop smoking monitor,CTV3,Active smoker,285792013#,Monitoring of smoking cessation therapy refused,9OO2,9OO2.00,765001003,3656021018,NA,37,9OO2.00#
+9OO3.#,Stop smoking monitor default,CTV3,Active smoker,285793015#,Stop smoking monitor default,9OO3,9OO3.00,185791003,285793015,NA,37,9OO3.00#
+9OO4.#,Stop smoking monitoring first letter,CTV3,Active smoker,128311000006112#,Stop smoking monitoring first letter,9OO4,9OO4.00,185792005,285794014,NA,37,9OO4.00#
+9OO5.#,Stop smoking monitoring second letter,CTV3,Active smoker,128321000006116#,Stop smoking monitoring second letter,9OO5,9OO5.00,185793000,285795010,NA,37,9OO5.00#
+9OO6.#,Stop smoking monitoring third letter,CTV3,Active smoker,128331000006118#,Stop smoking monitoring third letter,9OO6,9OO6.00,185794006,285796011,NA,37,9OO6.00#
+9OO7.#,Stop smoking monitoring verbal invite,CTV3,Active smoker,128371000006115#,Stop smoking monitoring verbal invite,9OO7,9OO7.00,185795007,285797019,NA,37,9OO7.00#
+9OO8.#,Stop smoking monitoring telephone invite,CTV3,Active smoker,128361000006110#,Stop smoking monitoring telephone invite,9OO8,9OO8.00,185796008,285798012,NA,37,9OO8.00#
+9OO9.#,Stop smoking monitoring delete,CTV3,Active smoker,285805010#,Stop smoking monitoring delete,9OO9,9OO9.00,185798009,285805010,NA,37,9OO9.00#
+9OOA.#,Stop smoking monitoring check done,CTV3,Active smoker,128381000006117#,Stop smoking monitoring check done,9OOA,9OOA.00,185799001,285806011,NA,37,9OOA.00#
+9OOB.#,NULL,CTV3,Active smoker,1751721000000113#,Stop smoking invitation short message service text message,9OOB,9OOB.00,783381000000101,1751721000000113,NA,37,9OOB.00#
+9OOB0#,NULL,CTV3,Active smoker,1785671000006116#,Stop smoking invitation first short message service text message,9OOB0,9OOB000,783401000000101,1751761000000117,NA,37,9OOB000#
+9OOB1#,NULL,CTV3,Active smoker,1785681000006118#,Stop smoking invitation second short message service text message,9OOB1,9OOB100,783441000000103,1751861000000114,NA,37,9OOB100#
+9OOB2#,NULL,CTV3,Active smoker,1785691000006115#,Stop smoking invitation third short message service text message,9OOB2,9OOB200,783481000000106,1751951000000118,NA,37,9OOB200#
+9OOZ.#,Stop smoking monitor admin.NOS,CTV3,Active smoker,16261000000110#,Stop smoking monitoring administration,9OOZ,9OOZ.00,714001000000108,1567181000000113,NA,37,9OOZ.00#
+H3101#,Smokers' cough,CTV3,Active smoker,78013015#,Smokers' cough,H3101,H310100,46802002,78013015,NA,32,H310100#
+Ub0oo#,Tobacco smoking behaviour,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0oo#
+Ub1tI#,Cigarette consumption,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tI#
+Ub1tJ#,Cigar consumption,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tJ#
+Ub1tK#,Pipe tobacco consumption,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tK#
+Ub1tR#,Occasional cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tR#
+Ub1tS#,Light cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tS#
+Ub1tT#,Moderate cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tT#
+Ub1tU#,Heavy cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tU#
+Ub1tV#,Very heavy cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tV#
+Ub1tW#,Chain smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1tW#
+Xaa26#,Number of previous attempts to stop smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Xaa26#
+XaaDx#,Referral to smoking cessation service declined,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaaDx#
+XaaDy#,Referral to smoking cessation service,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaaDy#
+XaBSp#,Smoking restarted,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaBSp#
+XaFw9#,Referral to stop-smoking clinic,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaFw9#
+XaIIu#,Smoking reduced,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaIIu#
+XaIkW#,Thinking about stopping smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaIkW#
+XaIkX#,Ready to stop smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaIkX#
+XaIkY#,Not interested in stopping smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaIkY#
+XaItC#,Referral to smoking cessation advisor,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaItC#
+XaItg#,Reason for restarting smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaItg#
+XaIuQ#,Cigarette pack-years,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaIuQ#
+XaJIs#,Lifestyle advice regarding smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaJIs#
+XaJX2#,Minutes from waking to first tobacco consumption,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaJX2#
+XaLQh#,Wants to stop smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaLQh#
+XaPls#,Referred for chronic obstructive pulmonary disease structured smoking assessment,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaPls#
+XaPlu#,Chronic obstructive pulmonary disease structured smoking assessment declined,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaPlu#
+XaQT5#,Referral to NHS stop smoking service,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaQT5#
+XaQU8#,Stop smoking face to face follow-up,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaQU8#
+XaQVQ#,Brief intervention for smoking cessation,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaQVQ#
+XaREz#,Smoking cessation programme declined,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaREz#
+XaRFh#,Smoking cessation advice declined,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaRFh#
+XaWNE#,Failed attempt to stop smoking,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaWNE#
+XaXnf#,Stop smoking invitation short message service text message,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXnf#
+XaXnG#,Stop smoking service opportunity signposted,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXnG#
+XaXR4#,Referral for smoking cessation service offered,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXR4#
+XE0og#,Tobacco smoking consumption,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0og#
+XE0oi#,Trivial cigarette smoker (less than one cigarette/day),CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0oi#
+XE0oo#,Tobacco smoking consumption unknown,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0oo#
+XE0oq#,Cigarette smoker,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0oq#
+XE0or#,Smoking started,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0or#
+XE2Ni#,Anti-smoking monitoring admin.,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE2Ni#
+XM1Rv#,Stop smoking clinic admin.,CTV3,Active smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XM1Rv#
+1377.#,Ex-trivial smoker (<1/day),CTV3,Ex-smoker,250363016#,Ex-trivial cigarette smoker (<1/day),1377,1377.00,266921000,397736014,NA,17,1377.00#
+1378.#,Ex-light smoker (1-9/day),CTV3,Ex-smoker,250364010#,Ex-light cigarette smoker (1-9/day),1378,1378.00,266922007,397737017,NA,17,1378.00#
+1379.#,Ex-moderate smoker (10-19/day),CTV3,Ex-smoker,250365011#,Ex-moderate cigarette smoker (10-19/day),1379,1379.00,266923002,397738010,NA,17,1379.00#
+137A.#,Ex-heavy smoker (20-39/day),CTV3,Ex-smoker,250366012#,Ex-heavy cigarette smoker (20-39/day),137A,137A.00,266924008,397739019,NA,17,137A.00#
+137B.#,Ex-very heavy smoker (40+/day),CTV3,Ex-smoker,250367015#,Ex-very heavy cigarette smoker (40+/day),137B,137B.00,266925009,397740017,NA,17,137B.00#
+137F.#,Ex-smoker - amount unknown,CTV3,Ex-smoker,250371017#,Ex-smoker - amount unknown,137F,137F.00,8517006,15047015,NA,17,137F.00#
+137F.#,Ex-smoker - amount unknown,CTV3,Ex-smoker,903041000006110#,EX-Smoker NOS,137F-99,137F.99,266928006,903041000006110,NA,17,137F.99#
+137j.#,NULL,CTV3,Ex-smoker,418914010#,Ex-cigarette smoker,137j,137j.00,281018007,418914010,NA,17,137j.00#
+137K.#,Stopped smoking,CTV3,Ex-smoker,250373019#,Stopped smoking,137K,137K.00,160617001,250373019,NA,17,137K.00#
+137K0#,NULL,CTV3,Ex-smoker,1151791000000117#,Recently stopped smoking,137K0,137K000,517211000000106,1151791000000117,NA,17,137K000#
+137l.#,NULL,CTV3,Ex-smoker,1059701000000119#,Ex roll-up cigarette smoker,137l,137l.00,492191000000103,1059701000000119,NA,17,137l.00#
+137N.#,Ex-pipe smoker,CTV3,Ex-smoker,649831000006117#,Ex-pipe smoker,137N,137N.00,160620009,250376010,NA,17,137N.00#
+137O.#,Ex-cigar smoker,CTV3,Ex-smoker,649821000006115#,Ex-cigar smoker,137O,137O.00,160621008,250377018,NA,17,137O.00#
+137S.#,NULL,CTV3,Ex-smoker,649841000006110#,Ex-smoker,137S,137S.00,8517006,15047015,NA,17,137S.00#
+137T.#,Date ceased smoking,CTV3,Ex-smoker,250385010#,Date ceased smoking,137T,137T.00,160625004,250385010,NA,17,137T.00#
+Ub0p1#,Time since stopped smoking,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0p1#
+Ub1na#,Ex-smoker,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub1na#
+Xa1bv#,Ex-cigarette smoker,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Xa1bv#
+XaCGl#,Smoking monitoring invitation,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaCGl#
+XaQ8V#,Ex roll-up cigarette smoker,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaQ8V#
+XaQzw#,Recently stopped smoking,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaQzw#
+XaXng#,Stop smoking invitation first short message service text message,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXng#
+XaXni#,Stop smoking invitation second short message service text message,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXni#
+XaXnk#,Stop smoking invitation third short message service text message,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXnk#
+XaXP6#,Stopped smoking during pregnancy,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXP6#
+XaXP8#,Stopped smoking before pregnancy,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXP8#
+XaXP9#,Smoker before confirmation of pregnancy,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XaXP9#
+XE0oj#,Ex-trivial cigarette smoker (<1/day),CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0oj#
+XE0ok#,Ex-light cigarette smoker (1-9/day),CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ok#
+XE0ol#,Ex-moderate cigarette smoker (10-19/day),CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0ol#
+XE0om#,Ex-heavy cigarette smoker (20-39/day),CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0om#
+XE0on#,Ex-very heavy cigarette smoker (40+/day),CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0on#
+XE0op#,Ex-cigarette smoker amount unknown,CTV3,Ex-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0op#
+1371.#,Non-smoker (& [never smoked tobacco]),CTV3,Non-smoker,14866014#,Non-smoker,1371-1,1371.11,8392000,14866014,NA,17,1371.11#
+1371.#,Non-smoker (& [never smoked tobacco]),CTV3,Non-smoker,397732011#,Never smoked tobacco,1371,1371.00,266919005,397732011,NA,17,1371.00#
+137L.#,Current non-smoker,CTV3,Non-smoker,903051000006112#,Tobacco Consumption Nil,137L-99,137L.99,160618006,903051000006112,NA,17,137L.99#
+137L.#,Current non-smoker,CTV3,Non-smoker,250374013#,Current non-smoker,137L,137L.00,160618006,250374013,NA,17,137L.00#
+Ub0oq#,Non-smoker,CTV3,Non-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,Ub0oq#
+XE0oh#,Never smoked tobacco,CTV3,Non-smoker,NA#,NA,NA,NA,NA,NA,NA,NA,XE0oh#

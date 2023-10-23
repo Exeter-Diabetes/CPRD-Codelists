@@ -1,0 +1,1069 @@
+snomedcode,term_snomed,category,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+297289008#,World languages,First Language Not English,437781010#,1,1,2,437781010#,World languages,13b,13b..00,437781010,NA,17
+297289008#,World languages (qualifier value),First Language Not English,692606013#,1,1,2,437781010#,World languages,13b,13b..00,437781010,NA,17
+297463006#,Vietnamese language,First Language Not English,437977019#,1,1,2,437977019#,Vietnamese language,13b0,13b0.00,437977019,NA,17
+297463006#,Vietnamese language (qualifier value),First Language Not English,692799015#,1,1,2,437977019#,Vietnamese language,13b0,13b0.00,437977019,NA,17
+297877001#,Cantonese Chinese dialect,First Language Not English,438450019#,1,1,2,438450019#,Cantonese Chinese dialect,13b1,13b1.00,438450019,NA,17
+297877001#,Cantonese Chinese dialect (qualifier value),First Language Not English,693257010#,1,1,2,438450019#,Cantonese Chinese dialect,13b1,13b1.00,438450019,NA,17
+297530002#,Sylheti,First Language Not English,438053013#,1,1,2,5841411000006115#,Sylheti,^ESCTSY584141,NA,438053013,NA,17
+297530002#,Sylheti,First Language Not English,438053013#,1,1,2,438054019#,Sylhety,13b2,13b2.00,438054019,NA,17
+297530002#,Sylhety,First Language Not English,438054019#,1,1,2,5841411000006115#,Sylheti,^ESCTSY584141,NA,438053013,NA,17
+297530002#,Sylhety,First Language Not English,438054019#,1,1,2,438054019#,Sylhety,13b2,13b2.00,438054019,NA,17
+297530002#,Sylhety (qualifier value),First Language Not English,692872013#,1,1,2,5841411000006115#,Sylheti,^ESCTSY584141,NA,438053013,NA,17
+297530002#,Sylhety (qualifier value),First Language Not English,692872013#,1,1,2,438054019#,Sylhety,13b2,13b2.00,438054019,NA,17
+313421002#,Creole language,First Language Not English,457311012#,1,1,2,6029861000006115#,CrÃ©ole language,^ESCTCR602986,NA,2819356013,NA,17
+313421002#,Creole language,First Language Not English,457311012#,1,1,2,457311012#,Creole language,13b3,13b3.00,457311012,NA,17
+313421002#,Creole language (qualifier value),First Language Not English,710186011#,1,1,2,6029861000006115#,CrÃ©ole language,^ESCTCR602986,NA,2819356013,NA,17
+313421002#,Creole language (qualifier value),First Language Not English,710186011#,1,1,2,457311012#,Creole language,13b3,13b3.00,457311012,NA,17
+313421002#,Créole language,First Language Not English,2819356013#,1,1,2,6029861000006115#,CrÃ©ole language,^ESCTCR602986,NA,2819356013,NA,17
+313421002#,Créole language,First Language Not English,2819356013#,1,1,2,457311012#,Creole language,13b3,13b3.00,457311012,NA,17
+313421002#,Créole language (qualifier value),First Language Not English,2819357016#,1,1,2,6029861000006115#,CrÃ©ole language,^ESCTCR602986,NA,2819356013,NA,17
+313421002#,Créole language (qualifier value),First Language Not English,2819357016#,1,1,2,457311012#,Creole language,13b3,13b3.00,457311012,NA,17
+313422009#,Mirpuri language,First Language Not English,457312017#,1,1,2,457312017#,Mirpuri language,13b4,13b4.00,457312017,NA,17
+313422009#,Mirpuri language (qualifier value),First Language Not English,710187019#,1,1,2,457312017#,Mirpuri language,13b4,13b4.00,457312017,NA,17
+315566006#,Main spoken language Arabic,First Language Not English,460083013#,1,1,2,460083013#,Main spoken language Arabic,13l0,13l0.00,460083013,NA,17
+315566006#,Main spoken language Arabic (finding),First Language Not English,712470018#,1,1,2,460083013#,Main spoken language Arabic,13l0,13l0.00,460083013,NA,17
+315567002#,Main spoken language Bengali,First Language Not English,460084019#,1,1,2,460084019#,Main spoken language Bengali,13l1,13l1.00,460084019,NA,17
+315567002#,Main spoken language Bengali (finding),First Language Not English,712471019#,1,1,2,460084019#,Main spoken language Bengali,13l1,13l1.00,460084019,NA,17
+315568007#,Main spoken language Cantonese,First Language Not English,460085018#,1,1,2,460085018#,Main spoken language Cantonese,13l2,13l2.00,460085018,NA,17
+315568007#,Main spoken language Cantonese (finding),First Language Not English,712472014#,1,1,2,460085018#,Main spoken language Cantonese,13l2,13l2.00,460085018,NA,17
+315569004#,Main spoken language Czech,First Language Not English,460086017#,1,1,2,460086017#,Main spoken language Czech,13l3,13l3.00,460086017,NA,17
+315569004#,Main spoken language Czech (finding),First Language Not English,712473016#,1,1,2,460086017#,Main spoken language Czech,13l3,13l3.00,460086017,NA,17
+315571004#,Main spoken language French,First Language Not English,460088016#,1,1,2,460088016#,Main spoken language French,13l5,13l5.00,460088016,NA,17
+315571004#,Main spoken language French (finding),First Language Not English,712475011#,1,1,2,460088016#,Main spoken language French,13l5,13l5.00,460088016,NA,17
+315572006#,Main spoken language Gujerati,First Language Not English,460089012#,1,1,2,460089012#,Main spoken language Gujerati,13l6,13l6.00,460089012,NA,17
+315572006#,Main spoken language Gujerati,First Language Not English,460089012#,1,1,2,2418501000000119#,Main spoken language Gujarati,13l6-1,13l6.11,2.42E+15,NA,17
+315572006#,Main spoken language Gujerati (finding),First Language Not English,712476012#,1,1,2,460089012#,Main spoken language Gujerati,13l6,13l6.00,460089012,NA,17
+315572006#,Main spoken language Gujerati (finding),First Language Not English,712476012#,1,1,2,2418501000000119#,Main spoken language Gujarati,13l6-1,13l6.11,2.42E+15,NA,17
+315574007#,Main spoken language Hausa,First Language Not English,460092011#,1,1,2,460092011#,Main spoken language Hausa,13l7,13l7.00,460092011,NA,17
+315574007#,Main spoken language Hausa (finding),First Language Not English,712479017#,1,1,2,460092011#,Main spoken language Hausa,13l7,13l7.00,460092011,NA,17
+315575008#,Main spoken language Hindi,First Language Not English,460093018#,1,1,2,460093018#,Main spoken language Hindi,13l8,13l8.00,460093018,NA,17
+315575008#,Main spoken language Hindi (finding),First Language Not English,712481015#,1,1,2,460093018#,Main spoken language Hindi,13l8,13l8.00,460093018,NA,17
+315576009#,Main spoken language Iba,First Language Not English,460094012#,1,1,2,12490781000006113#,Main spoken language Iban,^ESCT1249078,NA,7.29E+14,NA,17
+315576009#,Main spoken language Iba,First Language Not English,460094012#,1,1,2,12488001000006115#,Main spoken language Iba,^ESCT1248800,NA,7.31E+14,NA,17
+315576009#,Main spoken language Iba,First Language Not English,460094012#,1,1,2,728541000000119#,Main spoken language Iban,13l9-1,13l9.11,460094012,NA,17
+315576009#,Main spoken language Iba,First Language Not English,460094012#,1,1,2,6059611000006118#,Main spoken language Iba,^ESCTMA605961,NA,6.06E+15,NA,17
+315576009#,Main spoken language Iba,First Language Not English,460094012#,1,1,2,460094012#,Main spoken language Iba,13l9,13l9.00,460094012,NA,17
+315576009#,Main spoken language Iba (finding),First Language Not English,712482010#,1,1,2,12490781000006113#,Main spoken language Iban,^ESCT1249078,NA,7.29E+14,NA,17
+315576009#,Main spoken language Iba (finding),First Language Not English,712482010#,1,1,2,12488001000006115#,Main spoken language Iba,^ESCT1248800,NA,7.31E+14,NA,17
+315576009#,Main spoken language Iba (finding),First Language Not English,712482010#,1,1,2,728541000000119#,Main spoken language Iban,13l9-1,13l9.11,460094012,NA,17
+315576009#,Main spoken language Iba (finding),First Language Not English,712482010#,1,1,2,6059611000006118#,Main spoken language Iba,^ESCTMA605961,NA,6.06E+15,NA,17
+315576009#,Main spoken language Iba (finding),First Language Not English,712482010#,1,1,2,460094012#,Main spoken language Iba,13l9,13l9.00,460094012,NA,17
+315577000#,Main spoken language Kutchi,First Language Not English,460095013#,1,1,2,460095013#,Main spoken language Kutchi,13lA,13lA.00,460095013,NA,17
+315577000#,Main spoken language Kutchi (finding),First Language Not English,712483017#,1,1,2,460095013#,Main spoken language Kutchi,13lA,13lA.00,460095013,NA,17
+315578005#,Main spoken language Mandarin,First Language Not English,460096014#,1,1,2,460096014#,Main spoken language Mandarin,13lB,13lB.00,460096014,NA,17
+315578005#,Main spoken language Mandarin (finding),First Language Not English,712484011#,1,1,2,460096014#,Main spoken language Mandarin,13lB,13lB.00,460096014,NA,17
+315579002#,Main spoken language Polish,First Language Not English,460097017#,1,1,2,460097017#,Main spoken language Polish,13lC,13lC.00,460097017,NA,17
+315579002#,Main spoken language Polish (finding),First Language Not English,712485012#,1,1,2,460097017#,Main spoken language Polish,13lC,13lC.00,460097017,NA,17
+315580004#,Main spoken language Portuguese,First Language Not English,460098010#,1,1,2,460098010#,Main spoken language Portuguese,13lD,13lD.00,460098010,NA,17
+315580004#,Main spoken language Portuguese (finding),First Language Not English,712486013#,1,1,2,460098010#,Main spoken language Portuguese,13lD,13lD.00,460098010,NA,17
+315581000#,Main spoken language Punjabi,First Language Not English,460099019#,1,1,2,460099019#,Main spoken language Punjabi,13lE,13lE.00,460099019,NA,17
+315581000#,Main spoken language Punjabi,First Language Not English,460099019#,1,1,2,684831000000116#,Main spoken language Panjabi,13lE-1,13lE.11,6.85E+14,NA,17
+315581000#,Main spoken language Punjabi (finding),First Language Not English,712487016#,1,1,2,460099019#,Main spoken language Punjabi,13lE,13lE.00,460099019,NA,17
+315581000#,Main spoken language Punjabi (finding),First Language Not English,712487016#,1,1,2,684831000000116#,Main spoken language Panjabi,13lE-1,13lE.11,6.85E+14,NA,17
+315582007#,Main spoken language Russian,First Language Not English,460100010#,1,1,2,460100010#,Main spoken language Russian,13lF,13lF.00,460100010,NA,17
+315582007#,Main spoken language Russian (finding),First Language Not English,712488014#,1,1,2,460100010#,Main spoken language Russian,13lF,13lF.00,460100010,NA,17
+315583002#,Main spoken language Somali,First Language Not English,460101014#,1,1,2,460101014#,Main spoken language Somali,13lG,13lG.00,460101014,NA,17
+315583002#,Main spoken language Somali (finding),First Language Not English,712489018#,1,1,2,460101014#,Main spoken language Somali,13lG,13lG.00,460101014,NA,17
+315584008#,Main spoken language Spanish,First Language Not English,460102019#,1,1,2,460102019#,Main spoken language Spanish,13lH,13lH.00,460102019,NA,17
+315584008#,Main spoken language Spanish (finding),First Language Not English,712491014#,1,1,2,460102019#,Main spoken language Spanish,13lH,13lH.00,460102019,NA,17
+315585009#,Main spoken language Swahili,First Language Not English,460103012#,1,1,2,460103012#,Main spoken language Swahili,13lI,13lI.00,460103012,NA,17
+315585009#,Main spoken language Swahili (finding),First Language Not English,712492019#,1,1,2,460103012#,Main spoken language Swahili,13lI,13lI.00,460103012,NA,17
+315586005#,Main spoken language Sylheti,First Language Not English,460104018#,1,1,2,460104018#,Main spoken language Sylheti,13lJ,13lJ.00,460104018,NA,17
+315586005#,Main spoken language Sylheti (finding),First Language Not English,712493012#,1,1,2,460104018#,Main spoken language Sylheti,13lJ,13lJ.00,460104018,NA,17
+315587001#,Main spoken language Tamil,First Language Not English,460105017#,1,1,2,460105017#,Main spoken language Tamil,13lK,13lK.00,460105017,NA,17
+315587001#,Main spoken language Tamil (finding),First Language Not English,712494018#,1,1,2,460105017#,Main spoken language Tamil,13lK,13lK.00,460105017,NA,17
+315589003#,Main spoken language Yoruba,First Language Not English,460107013#,1,1,2,460107013#,Main spoken language Yoruba,13lM,13lM.00,460107013,NA,17
+315589003#,Main spoken language Yoruba (finding),First Language Not English,712496016#,1,1,2,460107013#,Main spoken language Yoruba,13lM,13lM.00,460107013,NA,17
+395109004#,Main spoken language Kurdish (finding),First Language Not English,1469049019#,1,1,2,1488808019#,Main spoken language Kurdish,13lN,13lN.00,1488808019,NA,17
+395109004#,Main spoken language Kurdish,First Language Not English,1488808019#,1,1,2,1488808019#,Main spoken language Kurdish,13lN,13lN.00,1488808019,NA,17
+395108007#,Main spoken language Farsi (finding),First Language Not English,1469048010#,1,1,2,676361000000117#,Main spoken language Persian,13lO-1,13lO.11,6.76E+14,NA,17
+395108007#,Main spoken language Farsi (finding),First Language Not English,1469048010#,1,1,2,1488807012#,Main spoken language Farsi,13lO,13lO.00,1488807012,NA,17
+395108007#,Main spoken language Farsi,First Language Not English,1488807012#,1,1,2,676361000000117#,Main spoken language Persian,13lO-1,13lO.11,6.76E+14,NA,17
+395108007#,Main spoken language Farsi,First Language Not English,1488807012#,1,1,2,1488807012#,Main spoken language Farsi,13lO,13lO.00,1488807012,NA,17
+395110009#,Main spoken language Shona (finding),First Language Not English,1469050019#,1,1,2,1488809010#,Main spoken language Shona,13lP,13lP.00,1488809010,NA,17
+395110009#,Main spoken language Shona,First Language Not English,1488809010#,1,1,2,1488809010#,Main spoken language Shona,13lP,13lP.00,1488809010,NA,17
+407642001#,Main spoken language Italian (finding),First Language Not English,2151473015#,1,1,2,2159242019#,Main spoken language Italian,13lQ,13lQ.00,2159242019,NA,17
+407642001#,Main spoken language Italian,First Language Not English,2159242019#,1,1,2,2159242019#,Main spoken language Italian,13lQ,13lQ.00,2159242019,NA,17
+407643006#,Main spoken language German (finding),First Language Not English,2151474014#,1,1,2,2159243012#,Main spoken language German,13lR,13lR.00,2159243012,NA,17
+407643006#,Main spoken language German,First Language Not English,2159243012#,1,1,2,2159243012#,Main spoken language German,13lR,13lR.00,2159243012,NA,17
+407648002#,Main spoken language Albanian (finding),First Language Not English,2151479016#,1,1,2,2159248015#,Main spoken language Albanian,13lS,13lS.00,2159248015,NA,17
+407648002#,Main spoken language Albanian,First Language Not English,2159248015#,1,1,2,2159248015#,Main spoken language Albanian,13lS,13lS.00,2159248015,NA,17
+407650005#,Main spoken language Croatian (finding),First Language Not English,2151481019#,1,1,2,2159250011#,Main spoken language Croatian,13lT,13lT.00,2159250011,NA,17
+407650005#,Main spoken language Croatian (finding),First Language Not English,2151481019#,1,1,2,6750051000006116#,Main spoken language Croat,^ESCTMA675005,NA,2163858018,NA,17
+407650005#,Main spoken language Croatian (finding),First Language Not English,2151481019#,1,1,2,676391000000111#,Main spoken language Serbo-Croatian,13lT-1,13lT.11,6.76E+14,NA,17
+407650005#,Main spoken language Croatian,First Language Not English,2159250011#,1,1,2,2159250011#,Main spoken language Croatian,13lT,13lT.00,2159250011,NA,17
+407650005#,Main spoken language Croatian,First Language Not English,2159250011#,1,1,2,6750051000006116#,Main spoken language Croat,^ESCTMA675005,NA,2163858018,NA,17
+407650005#,Main spoken language Croatian,First Language Not English,2159250011#,1,1,2,676391000000111#,Main spoken language Serbo-Croatian,13lT-1,13lT.11,6.76E+14,NA,17
+407650005#,Main spoken language Croat,First Language Not English,2163858018#,1,1,2,2159250011#,Main spoken language Croatian,13lT,13lT.00,2159250011,NA,17
+407650005#,Main spoken language Croat,First Language Not English,2163858018#,1,1,2,6750051000006116#,Main spoken language Croat,^ESCTMA675005,NA,2163858018,NA,17
+407650005#,Main spoken language Croat,First Language Not English,2163858018#,1,1,2,676391000000111#,Main spoken language Serbo-Croatian,13lT-1,13lT.11,6.76E+14,NA,17
+407652002#,Main spoken language Greek (finding),First Language Not English,2151483016#,1,1,2,2159252015#,Main spoken language Greek,13lV,13lV.00,2159252015,NA,17
+407652002#,Main spoken language Greek,First Language Not English,2159252015#,1,1,2,2159252015#,Main spoken language Greek,13lV,13lV.00,2159252015,NA,17
+407654001#,Main spoken language Japanese (finding),First Language Not English,2151485011#,1,1,2,2159254019#,Main spoken language Japanese,13lW,13lW.00,2159254019,NA,17
+407654001#,Main spoken language Japanese,First Language Not English,2159254019#,1,1,2,2159254019#,Main spoken language Japanese,13lW,13lW.00,2159254019,NA,17
+407655000#,Main spoken language Korean (finding),First Language Not English,2151486012#,1,1,2,2159255018#,Main spoken language Korean,13lX,13lX.00,2159255018,NA,17
+407655000#,Main spoken language Korean,First Language Not English,2159255018#,1,1,2,2159255018#,Main spoken language Korean,13lX,13lX.00,2159255018,NA,17
+407656004#,Main spoken language Lithuanian (finding),First Language Not English,2151487015#,1,1,2,2159256017#,Main spoken language Lithuanian,13lY,13lY.00,2159256017,NA,17
+407656004#,Main spoken language Lithuanian,First Language Not English,2159256017#,1,1,2,2159256017#,Main spoken language Lithuanian,13lY,13lY.00,2159256017,NA,17
+407657008#,Main spoken language Turkish (finding),First Language Not English,2151488013#,1,1,2,2159257014#,Main spoken language Turkish,13lZ,13lZ.00,2159257014,NA,17
+407657008#,Main spoken language Turkish,First Language Not English,2159257014#,1,1,2,2159257014#,Main spoken language Turkish,13lZ,13lZ.00,2159257014,NA,17
+407659006#,Main spoken language Ukrainian (finding),First Language Not English,2151490014#,1,1,2,2159259012#,Main spoken language Ukrainian,13la,13la.00,2159259012,NA,17
+407659006#,Main spoken language Ukrainian,First Language Not English,2159259012#,1,1,2,2159259012#,Main spoken language Ukrainian,13la,13la.00,2159259012,NA,17
+407661002#,Main spoken language Vietnamese (finding),First Language Not English,2151492018#,1,1,2,2159261015#,Main spoken language Vietnamese,13lb,13lb.00,2159261015,NA,17
+407661002#,Main spoken language Vietnamese,First Language Not English,2159261015#,1,1,2,2159261015#,Main spoken language Vietnamese,13lb,13lb.00,2159261015,NA,17
+408525000#,Main spoken language Akan (finding),First Language Not English,2152356016#,1,1,2,2160075010#,Main spoken language Akan,13lc,13lc.00,2160075010,NA,17
+408525000#,Main spoken language Akan,First Language Not English,2160075010#,1,1,2,2160075010#,Main spoken language Akan,13lc,13lc.00,2160075010,NA,17
+408507007#,Main spoken language Amharic (finding),First Language Not English,2152338016#,1,1,2,2160057014#,Main spoken language Amharic,13ld,13ld.00,2160057014,NA,17
+408507007#,Main spoken language Amharic,First Language Not English,2160057014#,1,1,2,2160057014#,Main spoken language Amharic,13ld,13ld.00,2160057014,NA,17
+408513003#,Main spoken language Brawa (finding),First Language Not English,2152344017#,1,1,2,2160063017#,Main spoken language Brawa,13le,13le.00,2160063017,NA,17
+408513003#,Main spoken language Brawa,First Language Not English,2160063017#,1,1,2,2160063017#,Main spoken language Brawa,13le,13le.00,2160063017,NA,17
+408528003#,Main spoken language Dutch (finding),First Language Not English,2152359011#,1,1,2,2160078012#,Main spoken language Dutch,13lf,13lf.00,2160078012,NA,17
+408528003#,Main spoken language Dutch,First Language Not English,2160078012#,1,1,2,2160078012#,Main spoken language Dutch,13lf,13lf.00,2160078012,NA,17
+408515005#,Main spoken language Ethiopian (finding),First Language Not English,2152346015#,1,1,2,2160065012#,Main spoken language Ethiopian,13lg,13lg.00,2160065012,NA,17
+408515005#,Main spoken language Ethiopian,First Language Not English,2160065012#,1,1,2,2160065012#,Main spoken language Ethiopian,13lg,13lg.00,2160065012,NA,17
+408520005#,Main spoken language Flemish (finding),First Language Not English,2152351014#,1,1,2,2160070017#,Main spoken language Flemish,13lh,13lh.00,2160070017,NA,17
+408520005#,Main spoken language Flemish,First Language Not English,2160070017#,1,1,2,2160070017#,Main spoken language Flemish,13lh,13lh.00,2160070017,NA,17
+408521009#,Main spoken language French Creole (finding),First Language Not English,2152352019#,1,1,2,2160071018#,Main spoken language French Creole,13li,13li.00,2160071018,NA,17
+408521009#,Main spoken language French Creole (finding),First Language Not English,2152352019#,1,1,2,6763501000006112#,Main spoken language French CrÃ©ole,^ESCTMA676350,NA,2816311019,NA,17
+408521009#,Main spoken language French Creole,First Language Not English,2160071018#,1,1,2,2160071018#,Main spoken language French Creole,13li,13li.00,2160071018,NA,17
+408521009#,Main spoken language French Creole,First Language Not English,2160071018#,1,1,2,6763501000006112#,Main spoken language French CrÃ©ole,^ESCTMA676350,NA,2816311019,NA,17
+408521009#,Main spoken language French Créole,First Language Not English,2816311019#,1,1,2,2160071018#,Main spoken language French Creole,13li,13li.00,2160071018,NA,17
+408521009#,Main spoken language French Créole,First Language Not English,2816311019#,1,1,2,6763501000006112#,Main spoken language French CrÃ©ole,^ESCTMA676350,NA,2816311019,NA,17
+408521009#,Main spoken language French Créole (finding),First Language Not English,2816312014#,1,1,2,2160071018#,Main spoken language French Creole,13li,13li.00,2160071018,NA,17
+408521009#,Main spoken language French Créole (finding),First Language Not English,2816312014#,1,1,2,6763501000006112#,Main spoken language French CrÃ©ole,^ESCTMA676350,NA,2816311019,NA,17
+408522002#,Main spoken language Gaelic (finding),First Language Not English,2152353012#,1,1,2,2160072013#,Main spoken language Gaelic,13lj,13lj.00,2160072013,NA,17
+408522002#,Main spoken language Gaelic,First Language Not English,2160072013#,1,1,2,2160072013#,Main spoken language Gaelic,13lj,13lj.00,2160072013,NA,17
+408523007#,Main spoken language Hakka (finding),First Language Not English,2152354018#,1,1,2,2160073015#,Main spoken language Hakka,13lk,13lk.00,2160073015,NA,17
+408523007#,Main spoken language Hakka,First Language Not English,2160073015#,1,1,2,2160073015#,Main spoken language Hakka,13lk,13lk.00,2160073015,NA,17
+408524001#,Main spoken language Hebrew (finding),First Language Not English,2152355017#,1,1,2,2160074014#,Main spoken language Hebrew,13ll,13ll.00,2160074014,NA,17
+408524001#,Main spoken language Hebrew,First Language Not English,2160074014#,1,1,2,2160074014#,Main spoken language Hebrew,13ll,13ll.00,2160074014,NA,17
+408514009#,Main spoken language Igbo (finding),First Language Not English,2152345016#,1,1,2,2160064011#,Main spoken language Igbo,13lm,13lm.00,2160064011,NA,17
+408514009#,Main spoken language Igbo,First Language Not English,2160064011#,1,1,2,2160064011#,Main spoken language Igbo,13lm,13lm.00,2160064011,NA,17
+408526004#,Main spoken language Lingala (finding),First Language Not English,2152357013#,1,1,2,2160076011#,Main spoken language Lingala,13ln,13ln.00,2160076011,NA,17
+408526004#,Main spoken language Lingala,First Language Not English,2160076011#,1,1,2,2160076011#,Main spoken language Lingala,13ln,13ln.00,2160076011,NA,17
+408527008#,Main spoken language Luganda (finding),First Language Not English,2152358015#,1,1,2,6763581000006115#,Main spoken language Ganda,^ESCTMA676358,NA,2.48E+15,NA,17
+408527008#,Main spoken language Luganda (finding),First Language Not English,2152358015#,1,1,2,2160077019#,Main spoken language Luganda,13lo,13lo.00,2160077019,NA,17
+408527008#,Main spoken language Luganda,First Language Not English,2160077019#,1,1,2,6763581000006115#,Main spoken language Ganda,^ESCTMA676358,NA,2.48E+15,NA,17
+408527008#,Main spoken language Luganda,First Language Not English,2160077019#,1,1,2,2160077019#,Main spoken language Luganda,13lo,13lo.00,2160077019,NA,17
+408529006#,Main spoken language Malayalam (finding),First Language Not English,2152360018#,1,1,2,2160079016#,Main spoken language Malayalam,13lp,13lp.00,2160079016,NA,17
+408529006#,Main spoken language Malayalam,First Language Not English,2160079016#,1,1,2,2160079016#,Main spoken language Malayalam,13lp,13lp.00,2160079016,NA,17
+408530001#,Main spoken language Norwegian (finding),First Language Not English,2152361019#,1,1,2,2160080018#,Main spoken language Norwegian,13lq,13lq.00,2160080018,NA,17
+408530001#,Main spoken language Norwegian,First Language Not English,2160080018#,1,1,2,2160080018#,Main spoken language Norwegian,13lq,13lq.00,2160080018,NA,17
+408531002#,Main spoken language Pashto (finding),First Language Not English,2152362014#,1,1,2,2160081019#,Main spoken language Pashto,13lr,13lr.00,2160081019,NA,17
+408531002#,Main spoken language Pashto,First Language Not English,2160081019#,1,1,2,2160081019#,Main spoken language Pashto,13lr,13lr.00,2160081019,NA,17
+408534005#,Main spoken language Patois (finding),First Language Not English,2152365011#,1,1,2,2160084010#,Main spoken language Patois,13ls,13ls.00,2160084010,NA,17
+408534005#,Main spoken language Patois,First Language Not English,2160084010#,1,1,2,2160084010#,Main spoken language Patois,13ls,13ls.00,2160084010,NA,17
+408535006#,Main spoken language Serbian (finding),First Language Not English,2152366012#,1,1,2,2160085011#,Main spoken language Serbian,13lt,13lt.00,2160085011,NA,17
+408535006#,Main spoken language Serbian (finding),First Language Not English,2152366012#,1,1,2,676371000000112#,Main spoken language Serbo-Croatian,13lt-1,13lt.11,6.76E+14,NA,17
+408535006#,Main spoken language Serbian,First Language Not English,2160085011#,1,1,2,2160085011#,Main spoken language Serbian,13lt,13lt.00,2160085011,NA,17
+408535006#,Main spoken language Serbian,First Language Not English,2160085011#,1,1,2,676371000000112#,Main spoken language Serbo-Croatian,13lt-1,13lt.11,6.76E+14,NA,17
+408518007#,Main spoken language Sinhala (finding),First Language Not English,2152349010#,1,1,2,2160068014#,Main spoken language Sinhala,13lu,13lu.00,2160068014,NA,17
+408518007#,Main spoken language Sinhala (finding),First Language Not English,2152349010#,1,1,2,675961000000112#,Main spoken language Sinhalese,13lu-1,13lu.11,6.76E+14,NA,17
+408518007#,Main spoken language Sinhala,First Language Not English,2160068014#,1,1,2,2160068014#,Main spoken language Sinhala,13lu,13lu.00,2160068014,NA,17
+408518007#,Main spoken language Sinhala,First Language Not English,2160068014#,1,1,2,675961000000112#,Main spoken language Sinhalese,13lu-1,13lu.11,6.76E+14,NA,17
+408516006#,Main spoken language Swedish (finding),First Language Not English,2152347012#,1,1,2,2160066013#,Main spoken language Swedish,13lv,13lv.00,2160066013,NA,17
+408516006#,Main spoken language Swedish,First Language Not English,2160066013#,1,1,2,2160066013#,Main spoken language Swedish,13lv,13lv.00,2160066013,NA,17
+408517002#,Main spoken language Tagalog (finding),First Language Not English,2152348019#,1,1,2,2160067016#,Main spoken language Tagalog,13lw,13lw.00,2160067016,NA,17
+408517002#,Main spoken language Tagalog,First Language Not English,2160067016#,1,1,2,2160067016#,Main spoken language Tagalog,13lw,13lw.00,2160067016,NA,17
+408519004#,Main spoken language Thai (finding),First Language Not English,2152350010#,1,1,2,2160069018#,Main spoken language Thai,13lx,13lx.00,2160069018,NA,17
+408519004#,Main spoken language Thai,First Language Not English,2160069018#,1,1,2,2160069018#,Main spoken language Thai,13lx,13lx.00,2160069018,NA,17
+408533004#,Main spoken language Tigrinya (finding),First Language Not English,2152364010#,1,1,2,2160083016#,Main spoken language Tigrinya,13ly,13ly.00,2160083016,NA,17
+408533004#,Main spoken language Tigrinya,First Language Not English,2160083016#,1,1,2,2160083016#,Main spoken language Tigrinya,13ly,13ly.00,2160083016,NA,17
+408532009#,Main spoken language Welsh (finding),First Language Not English,2152363016#,1,1,2,2160082014#,Main spoken language Welsh,13lz,13lz.00,2160082014,NA,17
+408532009#,Main spoken language Welsh,First Language Not English,2160082014#,1,1,2,2160082014#,Main spoken language Welsh,13lz,13lz.00,2160082014,NA,17
+699945003#,Main spoken language Bulgarian (finding),First Language Not English,2987106012#,1,1,2,642141000000118#,Main spoken language Bulgarian,13u0,13u0.00,2987149013,NA,17
+699945003#,Main spoken language Bulgarian,First Language Not English,2987149013#,1,1,2,642141000000118#,Main spoken language Bulgarian,13u0,13u0.00,2987149013,NA,17
+698678003#,Main spoken language Romanian (finding),First Language Not English,2975222013#,1,1,2,642161000000117#,Main spoken language Romanian,13u1,13u1.00,2975385011,NA,17
+698678003#,Main spoken language Romanian,First Language Not English,2975385011#,1,1,2,642161000000117#,Main spoken language Romanian,13u1,13u1.00,2975385011,NA,17
+698916005#,Main spoken language Oromo (finding),First Language Not English,2981883012#,1,1,2,669921000000113#,Main spoken language Oromo,13u2,13u2.00,2981896013,NA,17
+698916005#,Main spoken language Oromo,First Language Not English,2981896013#,1,1,2,669921000000113#,Main spoken language Oromo,13u2,13u2.00,2981896013,NA,17
+698651000#,Main spoken language Abkhazian (finding),First Language Not English,2975263019#,1,1,2,669981000000114#,Main spoken language Abkhazian,13u3,13u3.00,2975307018,NA,17
+698651000#,Main spoken language Abkhazian (finding),First Language Not English,2975263019#,1,1,2,7511041000006119#,Main spoken language Abkhaz,^ESCTMA751104,NA,2.48E+15,NA,17
+698651000#,Main spoken language Abkhazian,First Language Not English,2975307018#,1,1,2,669981000000114#,Main spoken language Abkhazian,13u3,13u3.00,2975307018,NA,17
+698651000#,Main spoken language Abkhazian,First Language Not English,2975307018#,1,1,2,7511041000006119#,Main spoken language Abkhaz,^ESCTMA751104,NA,2.48E+15,NA,17
+698652007#,Main spoken language Afar (finding),First Language Not English,2975446015#,1,1,2,670041000000119#,Main spoken language Afar,13u4,13u4.00,2975447012,NA,17
+698652007#,Main spoken language Afar,First Language Not English,2975447012#,1,1,2,670041000000119#,Main spoken language Afar,13u4,13u4.00,2975447012,NA,17
+698653002#,Main spoken language Afrikaans (finding),First Language Not English,2975261017#,1,1,2,670101000000116#,Main spoken language Afrikaans,13u5,13u5.00,2975452019,NA,17
+698653002#,Main spoken language Afrikaans,First Language Not English,2975452019#,1,1,2,670101000000116#,Main spoken language Afrikaans,13u5,13u5.00,2975452019,NA,17
+698885002#,Main spoken language Armenian (finding),First Language Not English,2981679014#,1,1,2,670171000000112#,Main spoken language Armenian,13u6,13u6.00,2981897016,NA,17
+698885002#,Main spoken language Armenian,First Language Not English,2981897016#,1,1,2,670171000000112#,Main spoken language Armenian,13u6,13u6.00,2981897016,NA,17
+698886001#,Main spoken language Assamese,First Language Not English,2981849017#,1,1,2,670241000000111#,Main spoken language Assamese,13u7,13u7.00,2981849017,NA,17
+698886001#,Main spoken language Assamese (finding),First Language Not English,2981851018#,1,1,2,670241000000111#,Main spoken language Assamese,13u7,13u7.00,2981849017,NA,17
+698887005#,Main spoken language Aymara (finding),First Language Not English,2981536019#,1,1,2,670311000000117#,Main spoken language Aymara,13u8,13u8.00,2981945010,NA,17
+698887005#,Main spoken language Aymara,First Language Not English,2981945010#,1,1,2,670311000000117#,Main spoken language Aymara,13u8,13u8.00,2981945010,NA,17
+698888000#,Main spoken language Azerbaijani (finding),First Language Not English,2981561016#,1,1,2,670401000000112#,Main spoken language Azerbaijani,13u9,13u9.00,2981640015,NA,17
+698888000#,Main spoken language Azerbaijani,First Language Not English,2981640015#,1,1,2,670401000000112#,Main spoken language Azerbaijani,13u9,13u9.00,2981640015,NA,17
+698889008#,Main spoken language Bashkir,First Language Not English,2981741012#,1,1,2,670461000000111#,Main spoken language Bashkir,13uA,13uA.00,2981741012,NA,17
+698889008#,Main spoken language Bashkir (finding),First Language Not English,2981865016#,1,1,2,670461000000111#,Main spoken language Bashkir,13uA,13uA.00,2981741012,NA,17
+698654008#,Main spoken language Basque,First Language Not English,2975267018#,1,1,2,670521000000119#,Main spoken language Basque,13uB,13uB.00,2975267018,NA,17
+698654008#,Main spoken language Basque (finding),First Language Not English,2975282011#,1,1,2,670521000000119#,Main spoken language Basque,13uB,13uB.00,2975267018,NA,17
+698895009#,Main spoken language Jonkha (finding),First Language Not English,2981518019#,1,1,2,670581000000118#,Main spoken language Dzongkha,13uC,13uC.00,2981629011,NA,17
+698895009#,Main spoken language Jonkha (finding),First Language Not English,2981518019#,1,1,2,7514391000006112#,Main spoken language Jonkha,^ESCTMA751439,NA,2981844010,NA,17
+698895009#,Main spoken language Dzongkha,First Language Not English,2981629011#,1,1,2,670581000000118#,Main spoken language Dzongkha,13uC,13uC.00,2981629011,NA,17
+698895009#,Main spoken language Dzongkha,First Language Not English,2981629011#,1,1,2,7514391000006112#,Main spoken language Jonkha,^ESCTMA751439,NA,2981844010,NA,17
+698895009#,Main spoken language Jonkha,First Language Not English,2981844010#,1,1,2,670581000000118#,Main spoken language Dzongkha,13uC,13uC.00,2981629011,NA,17
+698895009#,Main spoken language Jonkha,First Language Not English,2981844010#,1,1,2,7514391000006112#,Main spoken language Jonkha,^ESCTMA751439,NA,2981844010,NA,17
+698656005#,Main spoken language Bihari,First Language Not English,2975117015#,1,1,2,670661000000114#,Main spoken language Bihari,13uD,13uD.00,2975117015,NA,17
+698656005#,Main spoken language Bihari (finding),First Language Not English,2975346016#,1,1,2,670661000000114#,Main spoken language Bihari,13uD,13uD.00,2975117015,NA,17
+698890004#,Main spoken language Bislama (finding),First Language Not English,2981871010#,1,1,2,670721000000112#,Main spoken language Bislama,13uE,13uE.00,2981914011,NA,17
+698890004#,Main spoken language Bislama,First Language Not English,2981914011#,1,1,2,670721000000112#,Main spoken language Bislama,13uE,13uE.00,2981914011,NA,17
+698657001#,Main spoken language Breton,First Language Not English,2975384010#,1,1,2,670781000000113#,Main spoken language Breton,13uF,13uF.00,2975384010,NA,17
+698657001#,Main spoken language Breton (finding),First Language Not English,2975427016#,1,1,2,670781000000113#,Main spoken language Breton,13uF,13uF.00,2975384010,NA,17
+698891000#,Main spoken language Burmese,First Language Not English,2981788011#,1,1,2,670851000000110#,Main spoken language Burmese,13uG,13uG.00,2981788011,NA,17
+698891000#,Main spoken language Burmese (finding),First Language Not English,2981939019#,1,1,2,670851000000110#,Main spoken language Burmese,13uG,13uG.00,2981788011,NA,17
+698655009#,Main spoken language Belarusian,First Language Not English,2975319014#,1,1,2,670911000000116#,Main spoken language Belarusian,13uH,13uH.00,2975319014,NA,17
+698655009#,Main spoken language Belarusian (finding),First Language Not English,2975371018#,1,1,2,670911000000116#,Main spoken language Belarusian,13uH,13uH.00,2975319014,NA,17
+698893002#,Main spoken language Central Khmer,First Language Not English,2981942013#,1,1,2,670971000000114#,Main spoken language Central Khmer,13uJ,13uJ.00,2981942013,NA,17
+698893002#,Main spoken language Central Khmer (finding),First Language Not English,2981958011#,1,1,2,670971000000114#,Main spoken language Central Khmer,13uJ,13uJ.00,2981942013,NA,17
+698892007#,Main spoken language Catalan,First Language Not English,2981517012#,1,1,2,671031000000118#,Main spoken language Catalan,13uK,13uK.00,2981517012,NA,17
+698892007#,Main spoken language Catalan (finding),First Language Not English,2981898014#,1,1,2,671031000000118#,Main spoken language Catalan,13uK,13uK.00,2981517012,NA,17
+698920009#,Main spoken language Slovak (finding),First Language Not English,2981734018#,1,1,2,662801000000116#,Main spoken language Slovak,13uL,13uL.00,2981854014,NA,17
+698920009#,Main spoken language Slovak,First Language Not English,2981854014#,1,1,2,662801000000116#,Main spoken language Slovak,13uL,13uL.00,2981854014,NA,17
+698658006#,Main spoken language Corsican (finding),First Language Not English,2975218015#,1,1,2,671171000000117#,Main spoken language Corsican,13uM,13uM.00,2975431010,NA,17
+698658006#,Main spoken language Corsican,First Language Not English,2975431010#,1,1,2,671171000000117#,Main spoken language Corsican,13uM,13uM.00,2975431010,NA,17
+698894008#,Main spoken language Danish,First Language Not English,2981631019#,1,1,2,671231000000110#,Main spoken language Danish,13uN,13uN.00,2981631019,NA,17
+698894008#,Main spoken language Danish (finding),First Language Not English,2981830016#,1,1,2,671231000000110#,Main spoken language Danish,13uN,13uN.00,2981631019,NA,17
+698896005#,Main spoken language Esperanto (finding),First Language Not English,2981688017#,1,1,2,671291000000111#,Main spoken language Esperanto,13uP,13uP.00,2981742017,NA,17
+698896005#,Main spoken language Esperanto,First Language Not English,2981742017#,1,1,2,671291000000111#,Main spoken language Esperanto,13uP,13uP.00,2981742017,NA,17
+698659003#,Main spoken language Estonian (finding),First Language Not English,2975265014#,1,1,2,671351000000111#,Main spoken language Estonian,13uQ,13uQ.00,2975382014,NA,17
+698659003#,Main spoken language Estonian,First Language Not English,2975382014#,1,1,2,671351000000111#,Main spoken language Estonian,13uQ,13uQ.00,2975382014,NA,17
+698660008#,Main spoken language Faroese,First Language Not English,2987090013#,1,1,2,671411000000115#,Main spoken language Faeroese,13uR,13uR.00,2.64E+15,NA,17
+698660008#,Main spoken language Faroese,First Language Not English,2987090013#,1,1,2,7511141000006115#,Main spoken language Faroese,^ESCTMA751114,NA,2987090013,NA,17
+698660008#,Main spoken language Faroese (finding),First Language Not English,2987105011#,1,1,2,671411000000115#,Main spoken language Faeroese,13uR,13uR.00,2.64E+15,NA,17
+698660008#,Main spoken language Faroese (finding),First Language Not English,2987105011#,1,1,2,7511141000006115#,Main spoken language Faroese,^ESCTMA751114,NA,2987090013,NA,17
+698897001#,Main spoken language Fijian (finding),First Language Not English,2981515016#,1,1,2,671491000000112#,Main spoken language Fijian,13uS,13uS.00,2981714019,NA,17
+698897001#,Main spoken language Fijian,First Language Not English,2981714019#,1,1,2,671491000000112#,Main spoken language Fijian,13uS,13uS.00,2981714019,NA,17
+414640006#,Main spoken language Finnish (finding),First Language Not English,2530108011#,1,1,2,2533545014#,Main spoken language Finnish,13uT,13uT.00,2533545014,NA,17
+414640006#,Main spoken language Finnish,First Language Not English,2533545014#,1,1,2,2533545014#,Main spoken language Finnish,13uT,13uT.00,2533545014,NA,17
+698661007#,Main spoken language Frisian (finding),First Language Not English,2975286014#,1,1,2,671631000000113#,Main spoken language Frisian,13uV,13uV.00,2975403018,NA,17
+698661007#,Main spoken language Frisian,First Language Not English,2975403018#,1,1,2,671631000000113#,Main spoken language Frisian,13uV,13uV.00,2975403018,NA,17
+698662000#,Main spoken language Galician,First Language Not English,2975144013#,1,1,2,671691000000114#,Main spoken language Galician,13uW,13uW.00,2975144013,NA,17
+698662000#,Main spoken language Galician (finding),First Language Not English,2975303019#,1,1,2,671691000000114#,Main spoken language Galician,13uW,13uW.00,2975144013,NA,17
+698898006#,Main spoken language Georgian,First Language Not English,2981763015#,1,1,2,671751000000110#,Main spoken language Georgian,13uX,13uX.00,2981763015,NA,17
+698898006#,Main spoken language Georgian (finding),First Language Not English,2981833019#,1,1,2,671751000000110#,Main spoken language Georgian,13uX,13uX.00,2981763015,NA,17
+698904004#,Main spoken language Kalaallisut,First Language Not English,2981813018#,1,1,2,671811000000118#,Main spoken language Greenlandic,13uY-1,13uY.11,2.34E+15,NA,17
+698904004#,Main spoken language Kalaallisut,First Language Not English,2981813018#,1,1,2,7514501000006110#,Main spoken language West Greenlandic,^ESCTMA751450,NA,2984271019,NA,17
+698904004#,Main spoken language Kalaallisut,First Language Not English,2981813018#,1,1,2,676151000000117#,Main spoken language Kalaallisut,13uY,13uY.00,2981813018,NA,17
+698904004#,Main spoken language Kalaallisut (finding),First Language Not English,2981846012#,1,1,2,671811000000118#,Main spoken language Greenlandic,13uY-1,13uY.11,2.34E+15,NA,17
+698904004#,Main spoken language Kalaallisut (finding),First Language Not English,2981846012#,1,1,2,7514501000006110#,Main spoken language West Greenlandic,^ESCTMA751450,NA,2984271019,NA,17
+698904004#,Main spoken language Kalaallisut (finding),First Language Not English,2981846012#,1,1,2,676151000000117#,Main spoken language Kalaallisut,13uY,13uY.00,2981813018,NA,17
+698904004#,Main spoken language West Greenlandic,First Language Not English,2984271019#,1,1,2,671811000000118#,Main spoken language Greenlandic,13uY-1,13uY.11,2.34E+15,NA,17
+698904004#,Main spoken language West Greenlandic,First Language Not English,2984271019#,1,1,2,7514501000006110#,Main spoken language West Greenlandic,^ESCTMA751450,NA,2984271019,NA,17
+698904004#,Main spoken language West Greenlandic,First Language Not English,2984271019#,1,1,2,676151000000117#,Main spoken language Kalaallisut,13uY,13uY.00,2981813018,NA,17
+698899003#,Main spoken language Guarani,First Language Not English,2981531012#,1,1,2,671871000000111#,Main spoken language Guarani,13uZ,13uZ.00,2981531012,NA,17
+698899003#,Main spoken language Guarani (finding),First Language Not English,2981709018#,1,1,2,671871000000111#,Main spoken language Guarani,13uZ,13uZ.00,2981531012,NA,17
+698900008#,Main spoken language Hungarian,First Language Not English,2981558017#,1,1,2,671931000000117#,Main spoken language Hungarian,13ua,13ua.00,2981558017,NA,17
+698900008#,Main spoken language Hungarian (finding),First Language Not English,2981974018#,1,1,2,671931000000117#,Main spoken language Hungarian,13ua,13ua.00,2981558017,NA,17
+698663005#,Main spoken language Icelandic,First Language Not English,2975259014#,1,1,2,671991000000116#,Main spoken language Icelandic,13ub,13ub.00,2975259014,NA,17
+698663005#,Main spoken language Icelandic (finding),First Language Not English,2975354019#,1,1,2,671991000000116#,Main spoken language Icelandic,13ub,13ub.00,2975259014,NA,17
+698901007#,Main spoken language Indonesian,First Language Not English,2981732019#,1,1,2,672051000000117#,Main spoken language Indonesian,13uc,13uc.00,2981732019,NA,17
+698901007#,Main spoken language Indonesian (finding),First Language Not English,2981932011#,1,1,2,672051000000117#,Main spoken language Indonesian,13uc,13uc.00,2981732019,NA,17
+698664004#,Main spoken language Interlingua,First Language Not English,2975348015#,1,1,2,672111000000115#,Main spoken language Interlingua,13ud,13ud.00,2975348015,NA,17
+698664004#,Main spoken language Interlingua (finding),First Language Not English,2975420019#,1,1,2,672111000000115#,Main spoken language Interlingua,13ud,13ud.00,2975348015,NA,17
+698902000#,Main spoken language Occidental,First Language Not English,2981521017#,1,1,2,7514471000006115#,Main spoken language Occidental,^ESCTMA751447,NA,2981521017,NA,17
+698902000#,Main spoken language Occidental,First Language Not English,2981521017#,1,1,2,672171000000113#,Main spoken language Interlingue,13ue,13ue.00,2981835014,NA,17
+698902000#,Main spoken language Occidental (finding),First Language Not English,2981583017#,1,1,2,7514471000006115#,Main spoken language Occidental,^ESCTMA751447,NA,2981521017,NA,17
+698902000#,Main spoken language Occidental (finding),First Language Not English,2981583017#,1,1,2,672171000000113#,Main spoken language Interlingue,13ue,13ue.00,2981835014,NA,17
+698902000#,Main spoken language Interlingue,First Language Not English,2981835014#,1,1,2,7514471000006115#,Main spoken language Occidental,^ESCTMA751447,NA,2981521017,NA,17
+698902000#,Main spoken language Interlingue,First Language Not English,2981835014#,1,1,2,672171000000113#,Main spoken language Interlingue,13ue,13ue.00,2981835014,NA,17
+698666002#,Main spoken language Inupiaq,First Language Not English,2975375010#,1,1,2,672231000000115#,Main spoken language Inupiaq,13uf,13uf.00,2975375010,NA,17
+698666002#,Main spoken language Inupiaq (finding),First Language Not English,2975468013#,1,1,2,672231000000115#,Main spoken language Inupiaq,13uf,13uf.00,2975375010,NA,17
+698665003#,Main spoken language Inuktitut (finding),First Language Not English,2975111019#,1,1,2,672291000000119#,Main spoken language Inuktitut,13ug,13ug.00,2975193015,NA,17
+698665003#,Main spoken language Inuktitut,First Language Not English,2975193015#,1,1,2,672291000000119#,Main spoken language Inuktitut,13ug,13ug.00,2975193015,NA,17
+698667006#,Main spoken language Irish,First Language Not English,2975226011#,1,1,2,672351000000119#,Main spoken language Irish,13uh,13uh.00,2975226011,NA,17
+698667006#,Main spoken language Irish (finding),First Language Not English,2975476010#,1,1,2,672351000000119#,Main spoken language Irish,13uh,13uh.00,2975226011,NA,17
+698903005#,Main spoken language Javanese,First Language Not English,2981729017#,1,1,2,672411000000110#,Main spoken language Javanese,13ui,13ui.00,2981729017,NA,17
+698903005#,Main spoken language Javanese (finding),First Language Not English,2981731014#,1,1,2,672411000000110#,Main spoken language Javanese,13ui,13ui.00,2981729017,NA,17
+698905003#,Main spoken language Kanarese (finding),First Language Not English,2981622019#,1,1,2,7514531000006119#,Main spoken language Kanarese,^ESCTMA751453,NA,2981654011,NA,17
+698905003#,Main spoken language Kanarese (finding),First Language Not English,2981622019#,1,1,2,672471000000117#,Main spoken language Kannada,13uj,13uj.00,2981752018,NA,17
+698905003#,Main spoken language Kanarese,First Language Not English,2981654011#,1,1,2,7514531000006119#,Main spoken language Kanarese,^ESCTMA751453,NA,2981654011,NA,17
+698905003#,Main spoken language Kanarese,First Language Not English,2981654011#,1,1,2,672471000000117#,Main spoken language Kannada,13uj,13uj.00,2981752018,NA,17
+698905003#,Main spoken language Kannada,First Language Not English,2981752018#,1,1,2,7514531000006119#,Main spoken language Kanarese,^ESCTMA751453,NA,2981654011,NA,17
+698905003#,Main spoken language Kannada,First Language Not English,2981752018#,1,1,2,672471000000117#,Main spoken language Kannada,13uj,13uj.00,2981752018,NA,17
+698906002#,Main spoken language Kashmiri (finding),First Language Not English,2981505010#,1,1,2,672531000000118#,Main spoken language Kashmiri,13uk,13uk.00,2981690016,NA,17
+698906002#,Main spoken language Kashmiri,First Language Not English,2981690016#,1,1,2,672531000000118#,Main spoken language Kashmiri,13uk,13uk.00,2981690016,NA,17
+698668001#,Main spoken language Kazakh,First Language Not English,2975247010#,1,1,2,672591000000117#,Main spoken language Kazakh,13ul,13ul.00,2975247010,NA,17
+698668001#,Main spoken language Kazakh (finding),First Language Not English,2975291010#,1,1,2,672591000000117#,Main spoken language Kazakh,13ul,13ul.00,2975247010,NA,17
+698907006#,Main spoken language Ruanda,First Language Not English,2981572014#,1,1,2,672651000000112#,Main spoken language Kinyarwanda,13um,13um.00,2981964016,NA,17
+698907006#,Main spoken language Ruanda,First Language Not English,2981572014#,1,1,2,7514571000006116#,Main spoken language Rwanda,^ESCTMA751457,NA,2981727015,NA,17
+698907006#,Main spoken language Ruanda,First Language Not English,2981572014#,1,1,2,7514561000006111#,Main spoken language Ruanda,^ESCTMA751456,NA,2981572014,NA,17
+698907006#,Main spoken language Rwanda,First Language Not English,2981727015#,1,1,2,672651000000112#,Main spoken language Kinyarwanda,13um,13um.00,2981964016,NA,17
+698907006#,Main spoken language Rwanda,First Language Not English,2981727015#,1,1,2,7514571000006116#,Main spoken language Rwanda,^ESCTMA751457,NA,2981727015,NA,17
+698907006#,Main spoken language Rwanda,First Language Not English,2981727015#,1,1,2,7514561000006111#,Main spoken language Ruanda,^ESCTMA751456,NA,2981572014,NA,17
+698907006#,Main spoken language Ruanda (finding),First Language Not English,2981962017#,1,1,2,672651000000112#,Main spoken language Kinyarwanda,13um,13um.00,2981964016,NA,17
+698907006#,Main spoken language Ruanda (finding),First Language Not English,2981962017#,1,1,2,7514571000006116#,Main spoken language Rwanda,^ESCTMA751457,NA,2981727015,NA,17
+698907006#,Main spoken language Ruanda (finding),First Language Not English,2981962017#,1,1,2,7514561000006111#,Main spoken language Ruanda,^ESCTMA751456,NA,2981572014,NA,17
+698907006#,Main spoken language Kinyarwanda,First Language Not English,2981964016#,1,1,2,672651000000112#,Main spoken language Kinyarwanda,13um,13um.00,2981964016,NA,17
+698907006#,Main spoken language Kinyarwanda,First Language Not English,2981964016#,1,1,2,7514571000006116#,Main spoken language Rwanda,^ESCTMA751457,NA,2981727015,NA,17
+698907006#,Main spoken language Kinyarwanda,First Language Not English,2981964016#,1,1,2,7514561000006111#,Main spoken language Ruanda,^ESCTMA751456,NA,2981572014,NA,17
+698908001#,Main spoken language Kirgiz,First Language Not English,2981779019#,1,1,2,672711000000119#,Main spoken language Kirghiz,13un,13un.00,2981824016,NA,17
+698908001#,Main spoken language Kirgiz,First Language Not English,2981779019#,1,1,2,7514591000006115#,Main spoken language Kirgiz,^ESCTMA751459,NA,2981779019,NA,17
+698908001#,Main spoken language Kirgiz (finding),First Language Not English,2981793014#,1,1,2,672711000000119#,Main spoken language Kirghiz,13un,13un.00,2981824016,NA,17
+698908001#,Main spoken language Kirgiz (finding),First Language Not English,2981793014#,1,1,2,7514591000006115#,Main spoken language Kirgiz,^ESCTMA751459,NA,2981779019,NA,17
+698908001#,Main spoken language Kirghiz,First Language Not English,2981824016#,1,1,2,672711000000119#,Main spoken language Kirghiz,13un,13un.00,2981824016,NA,17
+698908001#,Main spoken language Kirghiz,First Language Not English,2981824016#,1,1,2,7514591000006115#,Main spoken language Kirgiz,^ESCTMA751459,NA,2981779019,NA,17
+698679006#,Main spoken language Rundi (finding),First Language Not English,2975376011#,1,1,2,672771000000112#,Main spoken language Rundi,13uo,13uo.00,2975387015,NA,17
+698679006#,Main spoken language Rundi,First Language Not English,2975387015#,1,1,2,672771000000112#,Main spoken language Rundi,13uo,13uo.00,2975387015,NA,17
+698669009#,Main spoken language Lao,First Language Not English,2975273017#,1,1,2,672831000000116#,Main spoken language Lao,13up,13up.00,2975273017,NA,17
+698669009#,Main spoken language Lao (finding),First Language Not English,2975438016#,1,1,2,672831000000116#,Main spoken language Lao,13up,13up.00,2975273017,NA,17
+609092003#,Main spoken language Bamun,First Language Not English,2958733012#,1,1,2,1166921000000115#,Main spoken language Bamun,13uq,13uq.00,2958733012,NA,17
+609092003#,Main spoken language Bamun,First Language Not English,2958733012#,1,1,2,1166931000000118#,Main spoken language Bamoun,13uq-1,13uq.11,2958733012,NA,17
+609092003#,Main spoken language Bamun (finding),First Language Not English,2959384018#,1,1,2,1166921000000115#,Main spoken language Bamun,13uq,13uq.00,2958733012,NA,17
+609092003#,Main spoken language Bamun (finding),First Language Not English,2959384018#,1,1,2,1166931000000118#,Main spoken language Bamoun,13uq-1,13uq.11,2958733012,NA,17
+698909009#,Main spoken language Latvian (finding),First Language Not English,2981605016#,1,1,2,672951000000118#,Main spoken language Latvian,13ur,13ur.00,2981677011,NA,17
+698909009#,Main spoken language Latvian,First Language Not English,2981677011#,1,1,2,672951000000118#,Main spoken language Latvian,13ur,13ur.00,2981677011,NA,17
+698670005#,Main spoken language Macedonian,First Language Not English,2975266010#,1,1,2,673011000000110#,Main spoken language Macedonian,13us,13us.00,2975266010,NA,17
+698670005#,Main spoken language Macedonian (finding),First Language Not English,2975326014#,1,1,2,673011000000110#,Main spoken language Macedonian,13us,13us.00,2975266010,NA,17
+698671009#,Main spoken language Malagasy,First Language Not English,2975199016#,1,1,2,673071000000117#,Main spoken language Malagasy,13ut,13ut.00,2975199016,NA,17
+698671009#,Main spoken language Malagasy (finding),First Language Not English,2975216016#,1,1,2,673071000000117#,Main spoken language Malagasy,13ut,13ut.00,2975199016,NA,17
+698672002#,Main spoken language Malay (finding),First Language Not English,2975180013#,1,1,2,673131000000115#,Main spoken language Malay,13uu,13uu.00,2975473019,NA,17
+698672002#,Main spoken language Malay,First Language Not English,2975473019#,1,1,2,673131000000115#,Main spoken language Malay,13uu,13uu.00,2975473019,NA,17
+698910004#,Main spoken language Maltese (finding),First Language Not English,2981556018#,1,1,2,673191000000119#,Main spoken language Maltese,13uv,13uv.00,2981916013,NA,17
+698910004#,Main spoken language Maltese,First Language Not English,2981916013#,1,1,2,673191000000119#,Main spoken language Maltese,13uv,13uv.00,2981916013,NA,17
+698673007#,Main spoken language Maori (finding),First Language Not English,2975289019#,1,1,2,673251000000116#,Main spoken language Maori,13uw,13uw.00,2975304013,NA,17
+698673007#,Main spoken language Maori,First Language Not English,2975304013#,1,1,2,673251000000116#,Main spoken language Maori,13uw,13uw.00,2975304013,NA,17
+698674001#,Main spoken language Marathi,First Language Not English,2975414015#,1,1,2,673311000000113#,Main spoken language Marathi,13ux,13ux.00,2975414015,NA,17
+698674001#,Main spoken language Marathi (finding),First Language Not English,2975443011#,1,1,2,673311000000113#,Main spoken language Marathi,13ux,13ux.00,2975414015,NA,17
+698911000#,Main spoken language Moldavian,First Language Not English,2981527018#,1,1,2,7514631000006115#,Main spoken language Moldovan,^ESCTMA751463,NA,2984388012,NA,17
+698911000#,Main spoken language Moldavian,First Language Not English,2981527018#,1,1,2,673371000000115#,Main spoken language Moldavian,13uy,13uy.00,2981527018,NA,17
+698911000#,Main spoken language Moldavian (finding),First Language Not English,2981884018#,1,1,2,7514631000006115#,Main spoken language Moldovan,^ESCTMA751463,NA,2984388012,NA,17
+698911000#,Main spoken language Moldavian (finding),First Language Not English,2981884018#,1,1,2,673371000000115#,Main spoken language Moldavian,13uy,13uy.00,2981527018,NA,17
+698911000#,Main spoken language Moldovan,First Language Not English,2984388012#,1,1,2,7514631000006115#,Main spoken language Moldovan,^ESCTMA751463,NA,2984388012,NA,17
+698911000#,Main spoken language Moldovan,First Language Not English,2984388012#,1,1,2,673371000000115#,Main spoken language Moldavian,13uy,13uy.00,2981527018,NA,17
+698675000#,Main spoken language Mongolian,First Language Not English,2975112014#,1,1,2,673431000000112#,Main spoken language Mongolian,13uz,13uz.00,2975112014,NA,17
+698675000#,Main spoken language Mongolian (finding),First Language Not English,2975445016#,1,1,2,673431000000112#,Main spoken language Mongolian,13uz,13uz.00,2975112014,NA,17
+698912007#,Main spoken language Nauruan (finding),First Language Not English,2981628015#,1,1,2,7514651000006110#,Main spoken language Nauruan,^ESCTMA751465,NA,2981733012,NA,17
+698912007#,Main spoken language Nauruan (finding),First Language Not English,2981628015#,1,1,2,673491000000113#,Main spoken language Nauru,13w0,13w0.00,2981717014,NA,17
+698912007#,Main spoken language Nauru,First Language Not English,2981717014#,1,1,2,7514651000006110#,Main spoken language Nauruan,^ESCTMA751465,NA,2981733012,NA,17
+698912007#,Main spoken language Nauru,First Language Not English,2981717014#,1,1,2,673491000000113#,Main spoken language Nauru,13w0,13w0.00,2981717014,NA,17
+698912007#,Main spoken language Nauruan,First Language Not English,2981733012#,1,1,2,7514651000006110#,Main spoken language Nauruan,^ESCTMA751465,NA,2981733012,NA,17
+698912007#,Main spoken language Nauruan,First Language Not English,2981733012#,1,1,2,673491000000113#,Main spoken language Nauru,13w0,13w0.00,2981717014,NA,17
+698676004#,Main spoken language Nepali,First Language Not English,2975344018#,1,1,2,673551000000118#,Main spoken language Nepali,13w1,13w1.00,2975344018,NA,17
+698676004#,Main spoken language Nepali (finding),First Language Not English,2975411011#,1,1,2,673551000000118#,Main spoken language Nepali,13w1,13w1.00,2975344018,NA,17
+698914008#,Main spoken language Occitan,First Language Not English,2981578013#,1,1,2,673611000000118#,Main spoken language Occitan,13w2,13w2.00,2981578013,NA,17
+698914008#,Main spoken language Occitan (finding),First Language Not English,2981839015#,1,1,2,673611000000118#,Main spoken language Occitan,13w2,13w2.00,2981578013,NA,17
+698915009#,Main spoken language Oriya (finding),First Language Not English,2981719012#,1,1,2,673671000000111#,Main spoken language Oriya,13w3,13w3.00,2981758019,NA,17
+698915009#,Main spoken language Oriya,First Language Not English,2981758019#,1,1,2,673671000000111#,Main spoken language Oriya,13w3,13w3.00,2981758019,NA,17
+698677008#,Main spoken language Quechua,First Language Not English,2975360019#,1,1,2,673791000000115#,Main spoken language Quechua,13w5,13w5.00,2975360019,NA,17
+698677008#,Main spoken language Quechua (finding),First Language Not English,2975408010#,1,1,2,673791000000115#,Main spoken language Quechua,13w5,13w5.00,2975360019,NA,17
+698917001#,Main spoken language Romansh (finding),First Language Not English,2981529015#,1,1,2,673851000000115#,Main spoken language Romansh,13w6,13w6.00,2981775013,NA,17
+698917001#,Main spoken language Romansh,First Language Not English,2981775013#,1,1,2,673851000000115#,Main spoken language Romansh,13w6,13w6.00,2981775013,NA,17
+698680009#,Main spoken language Samoan,First Language Not English,2975155013#,1,1,2,673911000000114#,Main spoken language Samoan,13w7,13w7.00,2975155013,NA,17
+698680009#,Main spoken language Samoan (finding),First Language Not English,2975209017#,1,1,2,673911000000114#,Main spoken language Samoan,13w7,13w7.00,2975155013,NA,17
+698918006#,Main spoken language Sango,First Language Not English,2981667014#,1,1,2,673971000000116#,Main spoken language Sango,13w8,13w8.00,2981667014,NA,17
+698918006#,Main spoken language Sango (finding),First Language Not English,2981906017#,1,1,2,673971000000116#,Main spoken language Sango,13w8,13w8.00,2981667014,NA,17
+609093008#,Main spoken language Dari (finding),First Language Not English,2958095013#,1,1,2,1661561000000112#,Main spoken language Dari,13wA,13wA.00,2959107015,NA,17
+609093008#,Main spoken language Dari,First Language Not English,2959107015#,1,1,2,1661561000000112#,Main spoken language Dari,13wA,13wA.00,2959107015,NA,17
+698922001#,Main spoken language Southern Sotho (finding),First Language Not English,2981725011#,1,1,2,674151000000112#,Main spoken language Southern Sotho,13wB,13wB.00,2981794015,NA,17
+698922001#,Main spoken language Southern Sotho,First Language Not English,2981794015#,1,1,2,674151000000112#,Main spoken language Southern Sotho,13wB,13wB.00,2981794015,NA,17
+698684000#,Main spoken language Tswana (finding),First Language Not English,2975143019#,1,1,2,674211000000117#,Main spoken language Tswana,13wC,13wC.00,2975350011,NA,17
+698684000#,Main spoken language Tswana,First Language Not English,2975350011#,1,1,2,674211000000117#,Main spoken language Tswana,13wC,13wC.00,2975350011,NA,17
+698919003#,Main spoken language Sindhi,First Language Not English,2981509016#,1,1,2,674271000000110#,Main spoken language Sindhi,13wD,13wD.00,2981509016,NA,17
+698919003#,Main spoken language Sindhi (finding),First Language Not English,2981762013#,1,1,2,674271000000110#,Main spoken language Sindhi,13wD,13wD.00,2981509016,NA,17
+698913002#,Main spoken language Ndebele,First Language Not English,2981656013#,1,1,2,662861000000117#,Main spoken language Ndebele,13wE,13wE.00,2981656013,NA,17
+698913002#,Main spoken language Ndebele (finding),First Language Not English,2981796018#,1,1,2,662861000000117#,Main spoken language Ndebele,13wE,13wE.00,2981656013,NA,17
+698923006#,Main spoken language Swazi,First Language Not English,2981593012#,1,1,2,7514771000006110#,Main spoken language Swazi,^ESCTMA751477,NA,2981593012,NA,17
+698923006#,Main spoken language Swazi,First Language Not English,2981593012#,1,1,2,674391000000118#,Main spoken language Swati,13wF,13wF.00,2981802016,NA,17
+698923006#,Main spoken language Swazi (finding),First Language Not English,2981760017#,1,1,2,7514771000006110#,Main spoken language Swazi,^ESCTMA751477,NA,2981593012,NA,17
+698923006#,Main spoken language Swazi (finding),First Language Not English,2981760017#,1,1,2,674391000000118#,Main spoken language Swati,13wF,13wF.00,2981802016,NA,17
+698923006#,Main spoken language Swati,First Language Not English,2981802016#,1,1,2,7514771000006110#,Main spoken language Swazi,^ESCTMA751477,NA,2981593012,NA,17
+698923006#,Main spoken language Swati,First Language Not English,2981802016#,1,1,2,674391000000118#,Main spoken language Swati,13wF,13wF.00,2981802016,NA,17
+698921008#,Main spoken language Slovenian (finding),First Language Not English,2981542015#,1,1,2,674451000000119#,Main spoken language Slovenian,13wG,13wG.00,2981971014,NA,17
+698921008#,Main spoken language Slovenian,First Language Not English,2981971014#,1,1,2,674451000000119#,Main spoken language Slovenian,13wG,13wG.00,2981971014,NA,17
+698681008#,Main spoken language Sundanese,First Language Not English,2975219011#,1,1,2,674511000000119#,Main spoken language Sundanese,13wH,13wH.00,2975219011,NA,17
+698681008#,Main spoken language Sundanese (finding),First Language Not English,2975467015#,1,1,2,674511000000119#,Main spoken language Sundanese,13wH,13wH.00,2975219011,NA,17
+698682001#,Main spoken language Tajik (finding),First Language Not English,2975364011#,1,1,2,674571000000112#,Main spoken language Tajik,13wJ,13wJ.00,2975433013,NA,17
+698682001#,Main spoken language Tajik,First Language Not English,2975433013#,1,1,2,674571000000112#,Main spoken language Tajik,13wJ,13wJ.00,2975433013,NA,17
+698924000#,Main spoken language Tatar (finding),First Language Not English,2981682016#,1,1,2,674631000000111#,Main spoken language Tatar,13wK,13wK.00,2981924015,NA,17
+698924000#,Main spoken language Tatar (finding),First Language Not English,2981682016#,1,1,2,7514791000006111#,Main spoken language Tartar,^ESCTMA751479,NA,2981703017,NA,17
+698924000#,Main spoken language Tartar,First Language Not English,2981703017#,1,1,2,674631000000111#,Main spoken language Tatar,13wK,13wK.00,2981924015,NA,17
+698924000#,Main spoken language Tartar,First Language Not English,2981703017#,1,1,2,7514791000006111#,Main spoken language Tartar,^ESCTMA751479,NA,2981703017,NA,17
+698924000#,Main spoken language Tatar,First Language Not English,2981924015#,1,1,2,674631000000111#,Main spoken language Tatar,13wK,13wK.00,2981924015,NA,17
+698924000#,Main spoken language Tatar,First Language Not English,2981924015#,1,1,2,7514791000006111#,Main spoken language Tartar,^ESCTMA751479,NA,2981703017,NA,17
+698925004#,Main spoken language Telugu,First Language Not English,2981589018#,1,1,2,674691000000112#,Main spoken language Telugu,13wL,13wL.00,2981589018,NA,17
+698925004#,Main spoken language Telugu (finding),First Language Not English,2981970010#,1,1,2,674691000000112#,Main spoken language Telugu,13wL,13wL.00,2981589018,NA,17
+698926003#,Main spoken language Tibetan,First Language Not English,2981643018#,1,1,2,674751000000113#,Main spoken language Tibetan,13wM,13wM.00,2981643018,NA,17
+698926003#,Main spoken language Tibetan (finding),First Language Not English,2981706013#,1,1,2,674751000000113#,Main spoken language Tibetan,13wM,13wM.00,2981643018,NA,17
+698927007#,Main spoken language Tongan,First Language Not English,2981592019#,1,1,2,674811000000116#,Main spoken language Tongan,13wN,13wN.00,2981592019,NA,17
+698927007#,Main spoken language Tongan,First Language Not English,2981592019#,1,1,2,7514831000006116#,Main spoken language Tonga,^ESCTMA751483,NA,2.48E+15,NA,17
+698927007#,Main spoken language Tongan (finding),First Language Not English,2981639017#,1,1,2,674811000000116#,Main spoken language Tongan,13wN,13wN.00,2981592019,NA,17
+698927007#,Main spoken language Tongan (finding),First Language Not English,2981639017#,1,1,2,7514831000006116#,Main spoken language Tonga,^ESCTMA751483,NA,2.48E+15,NA,17
+698683006#,Main spoken language Tsonga,First Language Not English,2975423017#,1,1,2,674871000000114#,Main spoken language Tsonga,13wP,13wP.00,2975423017,NA,17
+698683006#,Main spoken language Tsonga (finding),First Language Not English,2975470016#,1,1,2,674871000000114#,Main spoken language Tsonga,13wP,13wP.00,2975423017,NA,17
+698928002#,Main spoken language Turkmen,First Language Not English,2981671012#,1,1,2,674931000000115#,Main spoken language Turkmen,13wQ,13wQ.00,2981671012,NA,17
+698928002#,Main spoken language Turkmen (finding),First Language Not English,2981967011#,1,1,2,674931000000115#,Main spoken language Turkmen,13wQ,13wQ.00,2981671012,NA,17
+698685004#,Main spoken language Twi (finding),First Language Not English,2975191018#,1,1,2,674991000000119#,Main spoken language Twi,13wR,13wR.00,2975318018,NA,17
+698685004#,Main spoken language Twi,First Language Not English,2975318018#,1,1,2,674991000000119#,Main spoken language Twi,13wR,13wR.00,2975318018,NA,17
+698929005#,Main spoken language Uigur (finding),First Language Not English,2981678018#,1,1,2,675051000000110#,Main spoken language Uighur,13wS,13wS.00,2981890019,NA,17
+698929005#,Main spoken language Uigur (finding),First Language Not English,2981678018#,1,1,2,7514861000006113#,Main spoken language Uigur,^ESCTMA751486,NA,2981870011,NA,17
+698929005#,Main spoken language Uigur,First Language Not English,2981870011#,1,1,2,675051000000110#,Main spoken language Uighur,13wS,13wS.00,2981890019,NA,17
+698929005#,Main spoken language Uigur,First Language Not English,2981870011#,1,1,2,7514861000006113#,Main spoken language Uigur,^ESCTMA751486,NA,2981870011,NA,17
+698929005#,Main spoken language Uighur,First Language Not English,2981890019#,1,1,2,675051000000110#,Main spoken language Uighur,13wS,13wS.00,2981890019,NA,17
+698929005#,Main spoken language Uighur,First Language Not English,2981890019#,1,1,2,7514861000006113#,Main spoken language Uigur,^ESCTMA751486,NA,2981870011,NA,17
+698930000#,Main spoken language Uzbek,First Language Not English,2981753011#,1,1,2,675111000000112#,Main spoken language Uzbek,13wT,13wT.00,2981753011,NA,17
+698930000#,Main spoken language Uzbek (finding),First Language Not English,2981783019#,1,1,2,675111000000112#,Main spoken language Uzbek,13wT,13wT.00,2981753011,NA,17
+609095001#,Main spoken language Tetum,First Language Not English,2959017010#,1,1,2,1658291000000118#,Main spoken language Tetum,13wV,13wV.00,2959017010,NA,17
+609095001#,Main spoken language Tetum (finding),First Language Not English,2959035018#,1,1,2,1658291000000118#,Main spoken language Tetum,13wV,13wV.00,2959017010,NA,17
+698932008#,Main spoken language Wolof,First Language Not English,2981524013#,1,1,2,675231000000112#,Main spoken language Wolof,13wW,13wW.00,2981524013,NA,17
+698932008#,Main spoken language Wolof (finding),First Language Not English,2981816014#,1,1,2,675231000000112#,Main spoken language Wolof,13wW,13wW.00,2981524013,NA,17
+698933003#,Main spoken language Xhosa,First Language Not English,2981571019#,1,1,2,675291000000113#,Main spoken language Xhosa,13wX,13wX.00,2981571019,NA,17
+698933003#,Main spoken language Xhosa (finding),First Language Not English,2981842014#,1,1,2,675291000000113#,Main spoken language Xhosa,13wX,13wX.00,2981571019,NA,17
+698934009#,Main spoken language Yiddish,First Language Not English,2981587016#,1,1,2,675351000000113#,Main spoken language Yiddish,13wY,13wY.00,2981587016,NA,17
+698934009#,Main spoken language Yiddish (finding),First Language Not English,2981929013#,1,1,2,675351000000113#,Main spoken language Yiddish,13wY,13wY.00,2981587016,NA,17
+698935005#,Main spoken language Chuang (finding),First Language Not English,2981594018#,1,1,2,675411000000117#,Main spoken language Zhuang,13wZ,13wZ.00,2981612013,NA,17
+698935005#,Main spoken language Chuang (finding),First Language Not English,2981594018#,1,1,2,7514931000006114#,Main spoken language Chuang,^ESCTMA751493,NA,2981923014,NA,17
+698935005#,Main spoken language Zhuang,First Language Not English,2981612013#,1,1,2,675411000000117#,Main spoken language Zhuang,13wZ,13wZ.00,2981612013,NA,17
+698935005#,Main spoken language Zhuang,First Language Not English,2981612013#,1,1,2,7514931000006114#,Main spoken language Chuang,^ESCTMA751493,NA,2981923014,NA,17
+698935005#,Main spoken language Chuang,First Language Not English,2981923014#,1,1,2,675411000000117#,Main spoken language Zhuang,13wZ,13wZ.00,2981612013,NA,17
+698935005#,Main spoken language Chuang,First Language Not English,2981923014#,1,1,2,7514931000006114#,Main spoken language Chuang,^ESCTMA751493,NA,2981923014,NA,17
+698936006#,Main spoken language Zulu,First Language Not English,2981528011#,1,1,2,675471000000110#,Main spoken language Zulu,13wa,13wa.00,2981528011,NA,17
+698936006#,Main spoken language Zulu (finding),First Language Not English,2981553014#,1,1,2,675471000000110#,Main spoken language Zulu,13wa,13wa.00,2981528011,NA,17
+609094002#,Main spoken language Konkani,First Language Not English,2958096014#,1,1,2,1658371000000110#,Main spoken language Konkani,13wb,13wb.00,2958096014,NA,17
+609094002#,Main spoken language Konkani (finding),First Language Not English,2958709018#,1,1,2,1658371000000110#,Main spoken language Konkani,13wb,13wb.00,2958096014,NA,17
+718512007#,Main spoken language Romany (finding),First Language Not English,3312624017#,1,1,2,2615731000000114#,Main spoken language Romany,13wd,NA,3312625016,NA,17
+718512007#,Main spoken language Romany (finding),First Language Not English,3312624017#,1,1,2,2615751000000119#,Main spoken language Romani,13wd-2,NA,3312626015,NA,17
+718512007#,Main spoken language Romany (finding),First Language Not English,3312624017#,1,1,2,2615761000000116#,Main spoken language Romsky,13wd-3,NA,3312627012,NA,17
+718512007#,Main spoken language Romany (finding),First Language Not English,3312624017#,1,1,2,2615771000000111#,Main spoken language Romanesa,13wd-4,NA,2.68E+15,NA,17
+718512007#,Main spoken language Romany (finding),First Language Not English,3312624017#,1,1,2,2643211000000115#,Main spoken language Romanes,13wd-1,NA,3312625016,NA,17
+718512007#,Main spoken language Romany,First Language Not English,3312625016#,1,1,2,2615731000000114#,Main spoken language Romany,13wd,NA,3312625016,NA,17
+718512007#,Main spoken language Romany,First Language Not English,3312625016#,1,1,2,2615751000000119#,Main spoken language Romani,13wd-2,NA,3312626015,NA,17
+718512007#,Main spoken language Romany,First Language Not English,3312625016#,1,1,2,2615761000000116#,Main spoken language Romsky,13wd-3,NA,3312627012,NA,17
+718512007#,Main spoken language Romany,First Language Not English,3312625016#,1,1,2,2615771000000111#,Main spoken language Romanesa,13wd-4,NA,2.68E+15,NA,17
+718512007#,Main spoken language Romany,First Language Not English,3312625016#,1,1,2,2643211000000115#,Main spoken language Romanes,13wd-1,NA,3312625016,NA,17
+718512007#,Main spoken language Romani,First Language Not English,3312626015#,1,1,2,2615731000000114#,Main spoken language Romany,13wd,NA,3312625016,NA,17
+718512007#,Main spoken language Romani,First Language Not English,3312626015#,1,1,2,2615751000000119#,Main spoken language Romani,13wd-2,NA,3312626015,NA,17
+718512007#,Main spoken language Romani,First Language Not English,3312626015#,1,1,2,2615761000000116#,Main spoken language Romsky,13wd-3,NA,3312627012,NA,17
+718512007#,Main spoken language Romani,First Language Not English,3312626015#,1,1,2,2615771000000111#,Main spoken language Romanesa,13wd-4,NA,2.68E+15,NA,17
+718512007#,Main spoken language Romani,First Language Not English,3312626015#,1,1,2,2643211000000115#,Main spoken language Romanes,13wd-1,NA,3312625016,NA,17
+718512007#,Main spoken language Romsky,First Language Not English,3312627012#,1,1,2,2615731000000114#,Main spoken language Romany,13wd,NA,3312625016,NA,17
+718512007#,Main spoken language Romsky,First Language Not English,3312627012#,1,1,2,2615751000000119#,Main spoken language Romani,13wd-2,NA,3312626015,NA,17
+718512007#,Main spoken language Romsky,First Language Not English,3312627012#,1,1,2,2615761000000116#,Main spoken language Romsky,13wd-3,NA,3312627012,NA,17
+718512007#,Main spoken language Romsky,First Language Not English,3312627012#,1,1,2,2615771000000111#,Main spoken language Romanesa,13wd-4,NA,2.68E+15,NA,17
+718512007#,Main spoken language Romsky,First Language Not English,3312627012#,1,1,2,2643211000000115#,Main spoken language Romanes,13wd-1,NA,3312625016,NA,17
+161147007#,Speaks English well,Speaks English,251255010#,1,1,2,251255010#,Speaks English well,13Z67,13Z6700,251255010,NA,17
+161147007#,Speaks English well (finding),Speaks English,542143012#,1,1,2,251255010#,Speaks English well,13Z67,13Z6700,251255010,NA,17
+315570003#,Main spoken language English,Speaks English,460087014#,1,1,2,460087014#,Main spoken language English,13l4,13l4.00,460087014,NA,17
+315570003#,Main spoken language English (finding),Speaks English,712474010#,1,1,2,460087014#,Main spoken language English,13l4,13l4.00,460087014,NA,17
+161148002#,Speaks English poorly,Non-English speaking,251256011#,1,1,2,251256011#,Speaks English poorly,13Z68,13Z6800,251256011,NA,17
+161148002#,Speaks English poorly (finding),Non-English speaking,542144018#,1,1,2,251256011#,Speaks English poorly,13Z68,13Z6800,251256011,NA,17
+315588006#,Main spoken language Urdu,First Language Not English,460106016#,1,1,2,460106016#,Main spoken language Urdu,13lL,13lL.00,460106016,NA,17
+315588006#,Main spoken language Urdu (finding),First Language Not English,712495017#,1,1,2,460106016#,Main spoken language Urdu,13lL,13lL.00,460106016,NA,17
+315593009#,Need for interpreter,Non-English speaking,460111019#,1,1,2,460111019#,Need for interpreter,9NU,9NU..00,460111019,NA,37
+315593009#,Need for interpreter (finding),Non-English speaking,712500019#,1,1,2,460111019#,Need for interpreter,9NU,9NU..00,460111019,NA,37
+315594003#,Interpreter needed,Non-English speaking,460112014#,1,1,2,1681051000006110#,Other interpreter needed,9Nm,9Nm..00,460112014,NA,37
+315594003#,Interpreter needed,Non-English speaking,460112014#,1,1,2,1681661000006118#,Further interpreter needed,9Nn,9Nn..00,460112014,NA,37
+315594003#,Interpreter needed,Non-English speaking,460112014#,1,1,2,460112014#,Interpreter needed,9NU0,9NU0.00,460112014,NA,37
+315594003#,Interpreter needed (finding),Non-English speaking,712502010#,1,1,2,1681051000006110#,Other interpreter needed,9Nm,9Nm..00,460112014,NA,37
+315594003#,Interpreter needed (finding),Non-English speaking,712502010#,1,1,2,1681661000006118#,Further interpreter needed,9Nn,9Nn..00,460112014,NA,37
+315594003#,Interpreter needed (finding),Non-English speaking,712502010#,1,1,2,460112014#,Interpreter needed,9NU0,9NU0.00,460112014,NA,37
+314430004#,Presence of interpreter,Non-English speaking,458791014#,1,1,2,458791014#,Presence of interpreter,9NQ,9NQ..00,458791014,NA,37
+314430004#,Presence of interpreter (finding),Non-English speaking,711234016#,1,1,2,458791014#,Presence of interpreter,9NQ,9NQ..00,458791014,NA,37
+314431000#,Interpreter present,Non-English speaking,458792019#,1,1,2,458792019#,Interpreter present,9NQ0,9NQ0.00,458792019,NA,37
+314431000#,Interpreter present (finding),Non-English speaking,711235015#,1,1,2,458792019#,Interpreter present,9NQ0,9NQ0.00,458792019,NA,37
+503511000000100#,NA,First Language Not English,NA#,0,1,1,1118721000000116#,Main spoken language Filipino,13w4,13w4.00,1.12E+15,NA,17
+511841000000102#,NA,First Language Not English,NA#,0,1,1,1138281000000117#,Main spoken language Hindko,13w9,13w9.00,1.14E+15,NA,17
+809341000000106#,NA,First Language Not English,NA#,0,1,1,2112371000000116#,Main spoken language Aragonese,13wc,13wc.00,2.11E+15,NA,17
+910241000000102#,NA,First Language Not English,NA#,0,1,1,2339911000000119#,First language not English,13Z69,13Z6900,2.34E+15,NA,17
+1047281000000107#,NA,Non-English speaking,NA#,0,1,1,2638621000000115#,Does not speak English,13ZA0,NA,2.64E+15,NA,17
+971041000000105#,NA,First Language Not English,NA#,0,1,1,1706151000006112#,Main spoken language Western Frisian,EMISNQMA43,NA,2.47E+15,NA,17
+971041000000105#,NA,First Language Not English,NA#,0,1,1,8356391000006115#,Main spoken language Western Frisian,^ESCTMA835639,NA,8.36E+15,NA,17
+970991000000108#,NA,First Language Not English,NA#,0,1,1,1706481000006111#,Main spoken language Tahitian,EMISNQMA76,NA,2.47E+15,NA,17
+970991000000108#,NA,First Language Not English,NA#,0,1,1,8356331000006119#,Main spoken language Tahitian,^ESCTMA835633,NA,8.36E+15,NA,17
+971011000000109#,NA,First Language Not English,NA#,0,1,1,8356341000006112#,Main spoken language Venda,^ESCTMA835634,NA,8.36E+15,NA,17
+971011000000109#,NA,First Language Not English,NA#,0,1,1,1706491000006114#,Main spoken language Venda,EMISNQMA77,NA,2.47E+15,NA,17
+971021000000103#,NA,First Language Not English,NA#,0,1,1,8356361000006111#,Main spoken language VolapÃ¼k,^ESCTMA835636,NA,2.47E+15,NA,17
+971021000000103#,NA,First Language Not English,NA#,0,1,1,8356371000006116#,Main spoken language Volapuk,^ESCTMA835637,NA,8.36E+15,NA,17
+971021000000103#,NA,First Language Not English,NA#,0,1,1,1706501000006118#,Main spoken language Volapuk,EMISNQMA78,NA,2.48E+15,NA,17
+971031000000101#,NA,First Language Not English,NA#,0,1,1,8356381000006118#,Main spoken language Walloon,^ESCTMA835638,NA,8.36E+15,NA,17
+971031000000101#,NA,First Language Not English,NA#,0,1,1,1706511000006115#,Main spoken language Walloon,EMISNQMA79,NA,2.47E+15,NA,17
+729041000000101#,NA,First Language Not English,NA#,0,1,1,1599291000000112#,Main spoken language Chewa,ESCTMA8-1,NA,1.60E+15,NA,17
+729041000000101#,NA,First Language Not English,NA#,0,1,1,1599281000000110#,Main spoken language Nyanja,ESCTMA8,NA,1.60E+15,NA,17
+970941000000103#,NA,First Language Not English,NA#,0,1,1,8356291000006114#,Main spoken language Scottish Gaelic,^ESCTMA835629,NA,2.47E+15,NA,17
+970961000000102#,NA,First Language Not English,NA#,0,1,1,8356301000006110#,Main spoken language Nuosu,^ESCTMA835630,NA,2.47E+15,NA,31
+970961000000102#,NA,First Language Not English,NA#,0,1,1,1706231000006111#,Main spoken language Sichuan Yi,EMISNQMA51,NA,2.48E+15,NA,17
+970771000000106#,NA,First Language Not English,NA#,0,1,1,1706341000006113#,Main spoken language Navajo,EMISNQMA62,NA,2.47E+15,NA,17
+970771000000106#,NA,First Language Not English,NA#,0,1,1,8356131000006116#,Main spoken language Navajo,^ESCTMA835613,NA,8.36E+15,NA,17
+970771000000106#,NA,First Language Not English,NA#,0,1,1,8356141000006114#,Main spoken language Navaho,^ESCTMA835614,NA,2.48E+15,NA,17
+970971000000109#,NA,First Language Not English,NA#,0,1,1,1706351000006110#,Main spoken language South Ndebele,EMISNQMA63,NA,2.47E+15,NA,17
+970971000000109#,NA,First Language Not English,NA#,0,1,1,8356321000006117#,Main spoken language South Ndebele,^ESCTMA835632,NA,8.36E+15,NA,17
+970801000000109#,NA,First Language Not English,NA#,0,1,1,8356161000006113#,Main spoken language Northern Ndebele,^ESCTMA835616,NA,8.36E+15,NA,17
+970801000000109#,NA,First Language Not English,NA#,0,1,1,1706361000006112#,Main spoken language Northern Ndebele,EMISNQMA64,NA,2.47E+15,NA,17
+970801000000109#,NA,First Language Not English,NA#,0,1,1,8356171000006118#,Main spoken language North Ndebele,^ESCTMA835617,NA,2.52E+15,NA,17
+970781000000108#,NA,First Language Not English,NA#,0,1,1,1706371000006117#,Main spoken language Ndonga,EMISNQMA65,NA,2.47E+15,NA,17
+970781000000108#,NA,First Language Not English,NA#,0,1,1,8356151000006111#,Main spoken language Ndonga,^ESCTMA835615,NA,8.36E+15,NA,17
+970831000000103#,NA,First Language Not English,NA#,0,1,1,8356211000006116#,Main spoken language Norwegian Nynorsk,^ESCTMA835621,NA,8.36E+15,NA,17
+970831000000103#,NA,First Language Not English,NA#,0,1,1,1706381000006119#,Main spoken language Norwegian Nynorsk,EMISNQMA66,NA,2.47E+15,NA,17
+970821000000100#,NA,First Language Not English,NA#,0,1,1,1706391000006116#,Main spoken language Norwegian Bokmal,EMISNQMA67,NA,2.48E+15,NA,17
+970821000000100#,NA,First Language Not English,NA#,0,1,1,8356191000006117#,Main spoken language Norwegian Bokmal,^ESCTMA835619,NA,8.36E+15,NA,17
+970821000000100#,NA,First Language Not English,NA#,0,1,1,8356201000006119#,Main spoken language Norwegian BokmÃ¥l,^ESCTMA835620,NA,2.47E+15,NA,17
+970851000000105#,NA,First Language Not English,NA#,0,1,1,8356221000006112#,Main spoken language Ojibwa,^ESCTMA835622,NA,8.36E+15,NA,17
+970851000000105#,NA,First Language Not English,NA#,0,1,1,1706411000006116#,Main spoken language Ojibwa,EMISNQMA69,NA,2.47E+15,NA,17
+970871000000101#,NA,First Language Not English,NA#,0,1,1,1706421000006112#,Main spoken language Ossetian,EMISNQMA70,NA,2.47E+15,NA,17
+970871000000101#,NA,First Language Not English,NA#,0,1,1,8356231000006110#,Main spoken language Ossetian,^ESCTMA835623,NA,8.36E+15,NA,17
+970881000000104#,NA,First Language Not English,NA#,0,1,1,8356241000006117#,Main spoken language Pali,^ESCTMA835624,NA,8.36E+15,NA,17
+970881000000104#,NA,First Language Not English,NA#,0,1,1,1706431000006110#,Main spoken language Pali,EMISNQMA71,NA,2.47E+15,NA,17
+970911000000104#,NA,First Language Not English,NA#,0,1,1,1706441000006117#,Main spoken language Pushto,EMISNQMA72,NA,2.47E+15,NA,17
+970921000000105#,NA,First Language Not English,NA#,0,1,1,1706451000006115#,Main spoken language Sanskrit,EMISNQMA73,NA,2.47E+15,NA,17
+970921000000105#,NA,First Language Not English,NA#,0,1,1,8356271000006113#,Main spoken language Sanskrit,^ESCTMA835627,NA,8.36E+15,NA,17
+970811000000106#,NA,First Language Not English,NA#,0,1,1,8356181000006115#,Main spoken language Northern Sami,^ESCTMA835618,NA,8.36E+15,NA,17
+970811000000106#,NA,First Language Not English,NA#,0,1,1,1706461000006118#,Main spoken language Northern Sami,EMISNQMA74,NA,2.47E+15,NA,17
+970931000000107#,NA,First Language Not English,NA#,0,1,1,1706471000006113#,Main spoken language Sardinian,EMISNQMA75,NA,2.47E+15,NA,17
+970931000000107#,NA,First Language Not English,NA#,0,1,1,8356281000006111#,Main spoken language Sardinian,^ESCTMA835628,NA,8.36E+15,NA,17
+729061000000100#,NA,First Language Not English,NA#,0,1,1,8228321000006112#,Main spoken language Kikuyu,^ESCTMA822832,NA,8.23E+15,NA,17
+729061000000100#,NA,First Language Not English,NA#,0,1,1,1706251000006116#,Main spoken language Kikuyu,EMISNQMA53,NA,1.60E+15,NA,17
+970741000000100#,NA,First Language Not English,NA#,0,1,1,1706171000006119#,Main spoken language Manx,EMISNQMA45,NA,2.47E+15,NA,17
+970741000000100#,NA,First Language Not English,NA#,0,1,1,8356111000006110#,Main spoken language Manx,^ESCTMA835611,NA,8.36E+15,NA,17
+970601000000105#,NA,First Language Not English,NA#,0,1,1,8355971000006111#,Main spoken language Haitian,^ESCTMA835597,NA,8.36E+15,NA,17
+970601000000105#,NA,First Language Not English,NA#,0,1,1,1706191000006118#,Main spoken language Haitian,EMISNQMA47,NA,2.47E+15,NA,17
+970611000000107#,NA,First Language Not English,NA#,0,1,1,1706201000006115#,Main spoken language Herero,EMISNQMA48,NA,2.47E+15,NA,17
+970611000000107#,NA,First Language Not English,NA#,0,1,1,8355981000006114#,Main spoken language Herero,^ESCTMA835598,NA,8.36E+15,NA,17
+970621000000101#,NA,First Language Not English,NA#,0,1,1,8356001000006113#,Main spoken language Hiri Motu,^ESCTMA835600,NA,8.36E+15,NA,17
+970621000000101#,NA,First Language Not English,NA#,0,1,1,1706211000006117#,Main spoken language Hiri Motu,EMISNQMA49,NA,2.47E+15,NA,17
+970631000000104#,NA,First Language Not English,NA#,0,1,1,8356011000006111#,Main spoken language Ido,^ESCTMA835601,NA,8.36E+15,NA,17
+970631000000104#,NA,First Language Not English,NA#,0,1,1,1706221000006113#,Main spoken language Ido,EMISNQMA50,NA,2.47E+15,NA,17
+970641000000108#,NA,First Language Not English,NA#,0,1,1,8356021000006115#,Main spoken language Kanuri,^ESCTMA835602,NA,8.36E+15,NA,17
+970641000000108#,NA,First Language Not English,NA#,0,1,1,1706241000006118#,Main spoken language Kanuri,EMISNQMA52,NA,2.47E+15,NA,17
+970651000000106#,NA,First Language Not English,NA#,0,1,1,1706261000006119#,Main spoken language Komi,EMISNQMA54,NA,2.47E+15,NA,17
+970651000000106#,NA,First Language Not English,NA#,0,1,1,8356031000006117#,Main spoken language Komi,^ESCTMA835603,NA,8.36E+15,NA,17
+970661000000109#,NA,First Language Not English,NA#,0,1,1,8356041000006110#,Main spoken language Kongo,^ESCTMA835604,NA,8.36E+15,NA,17
+970661000000109#,NA,First Language Not English,NA#,0,1,1,1706271000006114#,Main spoken language Kongo,EMISNQMA55,NA,2.47E+15,NA,17
+970681000000100#,NA,First Language Not English,NA#,0,1,1,1706281000006112#,Main spoken language Kuanyama,EMISNQMA56,NA,2.47E+15,NA,17
+970681000000100#,NA,First Language Not English,NA#,0,1,1,8356051000006112#,Main spoken language Kuanyama,^ESCTMA835605,NA,8.36E+15,NA,17
+970691000000103#,NA,First Language Not English,NA#,0,1,1,8356061000006114#,Main spoken language Latin,^ESCTMA835606,NA,8.36E+15,NA,17
+970691000000103#,NA,First Language Not English,NA#,0,1,1,1706291000006110#,Main spoken language Latin,EMISNQMA57,NA,2.47E+15,NA,17
+970701000000103#,NA,First Language Not English,NA#,0,1,1,1706301000006111#,Main spoken language Limburgan,EMISNQMA58,NA,2.47E+15,NA,17
+970701000000103#,NA,First Language Not English,NA#,0,1,1,8356071000006119#,Main spoken language Limburgan,^ESCTMA835607,NA,8.36E+15,NA,17
+970721000000107#,NA,First Language Not English,NA#,0,1,1,1706311000006114#,Main spoken language Luxembourgish,EMISNQMA59,NA,2.47E+15,NA,17
+970721000000107#,NA,First Language Not English,NA#,0,1,1,8356101000006112#,Main spoken language Luxembourgish,^ESCTMA835610,NA,8.36E+15,NA,17
+970711000000101#,NA,First Language Not English,NA#,0,1,1,1706321000006118#,Main spoken language Luba-Katanga,EMISNQMA60,NA,2.47E+15,NA,17
+970711000000101#,NA,First Language Not English,NA#,0,1,1,8356081000006116#,Main spoken language Luba-Katanga,^ESCTMA835608,NA,8.36E+15,NA,17
+970751000000102#,NA,First Language Not English,NA#,0,1,1,1706331000006115#,Main spoken language Marshallese,EMISNQMA61,NA,2.47E+15,NA,17
+970751000000102#,NA,First Language Not English,NA#,0,1,1,8356121000006119#,Main spoken language Marshallese,^ESCTMA835612,NA,8.36E+15,NA,17
+729051000000103#,NA,First Language Not English,NA#,0,1,1,8228311000006116#,Main spoken language Fulah,^ESCTMA822831,NA,8.23E+15,NA,17
+729051000000103#,NA,First Language Not English,NA#,0,1,1,1706161000006114#,Main spoken language Fulah,EMISNQMA44,NA,2.48E+15,NA,17
+729051000000103#,NA,First Language Not English,NA#,0,1,1,8228301000006119#,Main spoken language Fulani,^ESCTMA822830,NA,1.60E+15,NA,17
+970441000000105#,NA,First Language Not English,NA#,0,1,1,1706011000006112#,Main spoken language Avaric,EMISNQMA29,NA,2.47E+15,NA,17
+970441000000105#,NA,First Language Not English,NA#,0,1,1,8355821000006118#,Main spoken language Avaric,^ESCTMA835582,NA,8.36E+15,NA,17
+970451000000108#,NA,First Language Not English,NA#,0,1,1,1706021000006116#,Main spoken language Avestan,EMISNQMA30,NA,2.47E+15,NA,17
+970451000000108#,NA,First Language Not English,NA#,0,1,1,8355831000006115#,Main spoken language Avestan,^ESCTMA835583,NA,8.36E+15,NA,17
+970461000000106#,NA,First Language Not English,NA#,0,1,1,1706031000006118#,Main spoken language Bambara,EMISNQMA31,NA,2.47E+15,NA,17
+970461000000106#,NA,First Language Not English,NA#,0,1,1,8355841000006113#,Main spoken language Bambara,^ESCTMA835584,NA,8.36E+15,NA,17
+970471000000104#,NA,First Language Not English,NA#,0,1,1,1706041000006111#,Main spoken language Bosnian,EMISNQMA32,NA,2.47E+15,NA,17
+970471000000104#,NA,First Language Not English,NA#,0,1,1,8355851000006110#,Main spoken language Bosnian,^ESCTMA835585,NA,8.36E+15,NA,17
+970481000000102#,NA,First Language Not English,NA#,0,1,1,1706051000006113#,Main spoken language Chamorro,EMISNQMA33,NA,2.47E+15,NA,17
+970481000000102#,NA,First Language Not English,NA#,0,1,1,8355861000006112#,Main spoken language Chamorro,^ESCTMA835586,NA,8.36E+15,NA,17
+970491000000100#,NA,First Language Not English,NA#,0,1,1,1706061000006110#,Main spoken language Chechen,EMISNQMA34,NA,2.47E+15,NA,17
+970491000000100#,NA,First Language Not English,NA#,0,1,1,8355871000006117#,Main spoken language Chechen,^ESCTMA835587,NA,8.36E+15,NA,17
+970511000000108#,NA,First Language Not English,NA#,0,1,1,8355901000006117#,Main spoken language Church Slavonic,^ESCTMA835590,NA,2.48E+15,NA,17
+970511000000108#,NA,First Language Not English,NA#,0,1,1,8355891000006116#,Main spoken language Church Slavic,^ESCTMA835589,NA,8.36E+15,NA,17
+970511000000108#,NA,First Language Not English,NA#,0,1,1,1706081000006117#,Main spoken language Church Slavic,EMISNQMA36,NA,2.47E+15,NA,17
+970521000000102#,NA,First Language Not English,NA#,0,1,1,1706091000006119#,Main spoken language Chuvash,EMISNQMA37,NA,2.47E+15,NA,17
+970521000000102#,NA,First Language Not English,NA#,0,1,1,8355921000006110#,Main spoken language Chuvash,^ESCTMA835592,NA,8.36E+15,NA,17
+970531000000100#,NA,First Language Not English,NA#,0,1,1,8355931000006113#,Main spoken language Cornish,^ESCTMA835593,NA,8.36E+15,NA,17
+970531000000100#,NA,First Language Not English,NA#,0,1,1,1706101000006113#,Main spoken language Cornish,EMISNQMA38,NA,2.47E+15,NA,17
+970541000000109#,NA,First Language Not English,NA#,0,1,1,1706111000006111#,Main spoken language Cree,EMISNQMA39,NA,2.47E+15,NA,17
+970541000000109#,NA,First Language Not English,NA#,0,1,1,8355941000006115#,Main spoken language Cree,^ESCTMA835594,NA,8.36E+15,NA,17
+970551000000107#,NA,First Language Not English,NA#,0,1,1,1706121000006115#,Main spoken language Dhivehi,EMISNQMA40,NA,2.47E+15,NA,17
+970551000000107#,NA,First Language Not English,NA#,0,1,1,8355951000006118#,Main spoken language Dhivehi,^ESCTMA835595,NA,8.36E+15,NA,17
+970561000000105#,NA,First Language Not English,NA#,0,1,1,1706131000006117#,Main spoken language Ewe,EMISNQMA41,NA,2.47E+15,NA,17
+970561000000105#,NA,First Language Not English,NA#,0,1,1,8355961000006116#,Main spoken language Ewe,^ESCTMA835596,NA,8.36E+15,NA,17
+970501000000106#,NA,First Language Not English,NA#,0,1,1,1706071000006115#,Main spoken language Chinese,EMISNQMA35,NA,2.47E+15,NA,17
+970501000000106#,NA,First Language Not English,NA#,0,1,1,8355881000006119#,Main spoken language Chinese,^ESCTMA835588,NA,8.36E+15,NA,17
+204191000000105#,NA,Non-English speaking,NA#,0,1,1,8064571000006110#,Turkish language interpreter needed,^ESCTTU806457,NA,6.45E+14,NA,37
+204191000000105#,NA,Non-English speaking,NA#,0,1,1,312381000000111#,Interpreter needed - Turkish,9NUq,9NUq.00,3.12E+14,NA,37
+204131000000109#,NA,Non-English speaking,NA#,0,1,1,312261000000111#,Interpreter needed - Tamil,9NUn,9NUn.00,3.12E+14,NA,37
+204131000000109#,NA,Non-English speaking,NA#,0,1,1,8064501000006116#,Tamil language interpreter needed,^ESCTTA806450,NA,6.45E+14,NA,37
+204111000000101#,NA,Non-English speaking,NA#,0,1,1,8064461000006116#,Tagalog language interpreter needed,^ESCTTA806446,NA,6.45E+14,NA,37
+204111000000101#,NA,Non-English speaking,NA#,0,1,1,312221000000115#,Interpreter needed - Tagalog,9NUm,9NUm.00,3.12E+14,NA,37
+204151000000102#,NA,Non-English speaking,NA#,0,1,1,8064531000006112#,Thai language interpreter needed,^ESCTTH806453,NA,6.45E+14,NA,37
+204151000000102#,NA,Non-English speaking,NA#,0,1,1,312301000000118#,Interpreter needed - Thai,9NUo,9NUo.00,3.12E+14,NA,37
+204231000000101#,NA,Non-English speaking,NA#,0,1,1,312471000000115#,Interpreter needed - Welsh,9NUu,9NUu.00,3.12E+14,NA,37
+204231000000101#,NA,Non-English speaking,NA#,0,1,1,8064661000006119#,Welsh language interpreter needed,^ESCTWE806466,NA,6.45E+14,NA,37
+204171000000106#,NA,Non-English speaking,NA#,0,1,1,8064551000006117#,Tigrinya language interpreter needed,^ESCTTI806455,NA,6.45E+14,NA,37
+204171000000106#,NA,Non-English speaking,NA#,0,1,1,312341000000115#,Interpreter needed - Tigrinya,9NUp,9NUp.00,3.12E+14,NA,37
+204201000000107#,NA,Non-English speaking,NA#,0,1,1,312401000000111#,Interpreter needed - Ukrainian,9NUr,9NUr.00,3.12E+14,NA,37
+204201000000107#,NA,Non-English speaking,NA#,0,1,1,8064591000006111#,Ukrainian language interpreter needed,^ESCTUK806459,NA,6.45E+14,NA,37
+204221000000103#,NA,Non-English speaking,NA#,0,1,1,8064641000006118#,Vietnamese language interpreter needed,^ESCTVI806464,NA,6.45E+14,NA,37
+204221000000103#,NA,Non-English speaking,NA#,0,1,1,312441000000114#,Interpreter needed - Vietnamese,9NUt,9NUt.00,3.12E+14,NA,37
+204211000000109#,NA,Non-English speaking,NA#,0,1,1,8064611000006117#,Urdu language interpreter needed,^ESCTUR806461,NA,6.45E+14,NA,37
+204211000000109#,NA,Non-English speaking,NA#,0,1,1,312421000000119#,Interpreter needed - Urdu,9NUs,9NUs.00,3.12E+14,NA,37
+204241000000105#,NA,Non-English speaking,NA#,0,1,1,8064681000006112#,Yoruba language interpreter needed,^ESCTYO806468,NA,6.45E+14,NA,37
+204241000000105#,NA,Non-English speaking,NA#,0,1,1,312491000000116#,Interpreter needed - Yoruba,9NUv,9NUv.00,3.12E+14,NA,37
+362821000000104#,NA,Non-English speaking,NA#,0,1,1,684061000000119#,Zulu language interpreter needed,9Nmu,9Nmu.00,6.84E+14,NA,37
+362911000000103#,NA,Non-English speaking,NA#,0,1,1,684271000000118#,Zhuang language interpreter needed,9Nmv,9Nmv.00,6.84E+14,NA,37
+362961000000101#,NA,Non-English speaking,NA#,0,1,1,684381000000113#,Uzbek language interpreter needed,9Nmw,9Nmw.00,6.84E+14,NA,37
+363021000000102#,NA,Non-English speaking,NA#,0,1,1,684501000000112#,Yiddish language interpreter needed,9Nmy,9Nmy.00,6.85E+14,NA,37
+363141000000105#,NA,Non-English speaking,NA#,0,1,1,684771000000112#,Tibetan language interpreter needed,9Nn0,9Nn0.00,6.85E+14,NA,37
+363181000000102#,NA,Non-English speaking,NA#,0,1,1,684881000000117#,Tsonga language interpreter needed,9Nn1,9Nn1.00,6.85E+14,NA,37
+363221000000107#,NA,Non-English speaking,NA#,0,1,1,684961000000115#,Tatar language interpreter needed,9Nn2,9Nn2.00,6.85E+14,NA,37
+363301000000109#,NA,Non-English speaking,NA#,0,1,1,685121000000110#,Twi language interpreter needed,9Nn3,9Nn3.00,6.85E+14,NA,37
+363341000000107#,NA,Non-English speaking,NA#,0,1,1,685201000000110#,Telugu language interpreter needed,9Nn4,9Nn4.00,6.85E+14,NA,37
+363461000000100#,NA,Non-English speaking,NA#,0,1,1,8116221000006112#,Tonga language interpreter needed,^ESCTTO811622,NA,2.48E+15,NA,37
+363461000000100#,NA,Non-English speaking,NA#,0,1,1,685451000000110#,Tongan language interpreter needed,9Nn5,9Nn5.00,6.85E+14,NA,37
+363551000000104#,NA,Non-English speaking,NA#,0,1,1,685651000000113#,Turkmen language interpreter needed,9Nn6,9Nn6.00,6.86E+14,NA,37
+363681000000106#,NA,Non-English speaking,NA#,0,1,1,685911000000118#,Tajik language interpreter needed,9NnA,9NnA.00,6.86E+14,NA,37
+363941000000108#,NA,Non-English speaking,NA#,0,1,1,686431000000113#,Tswana language interpreter needed,9NnE,9NnE.00,6.86E+14,NA,37
+364141000000107#,NA,Non-English speaking,NA#,0,1,1,686851000000116#,Uighur language interpreter needed,9NnH,9NnH.00,6.87E+14,NA,37
+364511000000100#,NA,Non-English speaking,NA#,0,1,1,687591000000113#,Xhosa language interpreter needed,9NnP,9NnP.00,6.88E+14,NA,37
+973151000000105#,NA,Non-English speaking,NA#,0,1,1,2475761000000113#,Western Frisian interpreter needed,ESCTWE5,NA,2.48E+15,NA,37
+973101000000109#,NA,Non-English speaking,NA#,0,1,1,8358611000006119#,Tahitian interpreter needed,^ESCTTA835861,NA,2.48E+15,NA,37
+973121000000100#,NA,Non-English speaking,NA#,0,1,1,8358631000006113#,Venda interpreter needed,^ESCTVE835863,NA,2.48E+15,NA,37
+973121000000100#,NA,Non-English speaking,NA#,0,1,1,8358641000006115#,Tshivenda interpreter needed,^ESCTTS835864,NA,2.48E+15,NA,31
+973131000000103#,NA,Non-English speaking,NA#,0,1,1,8358651000006118#,VolapÃ¼k interpreter needed,^ESCTVO835865,NA,2.48E+15,NA,37
+973131000000103#,NA,Non-English speaking,NA#,0,1,1,8358661000006116#,Volapuk interpreter needed,^ESCTVO835866,NA,2.48E+15,NA,31
+973141000000107#,NA,Non-English speaking,NA#,0,1,1,2475741000000112#,Walloon interpreter needed,ESCTWA1,NA,2.48E+15,NA,37
+973161000000108#,NA,Non-English speaking,NA#,0,1,1,8358691000006112#,Wolof interpreter needed,^ESCTWO835869,NA,2.48E+15,NA,37
+1047321000000104#,NA,Non-English speaking,NA#,0,1,1,2638721000000114#,Romanesa language interpreter needed,9NnT-2,NA,2.64E+15,NA,37
+1047321000000104#,NA,Non-English speaking,NA#,0,1,1,2638741000000119#,Romsky language interpreter needed,9NnT-4,NA,2.64E+15,NA,37
+1047321000000104#,NA,Non-English speaking,NA#,0,1,1,2638711000000115#,Romany language interpreter needed,9NnT,NA,2.64E+15,NA,37
+1047321000000104#,NA,Non-English speaking,NA#,0,1,1,2643231000000111#,Romanes language interpreter needed,9NnT-1,NA,2.64E+15,NA,37
+1047321000000104#,NA,Non-English speaking,NA#,0,1,1,2638731000000111#,Romani language interpreter needed,9NnT-3,NA,2.64E+15,NA,37
+352931000000102#,NA,Non-English speaking,NA#,0,1,1,8113251000006110#,Ndebele language interpreter needed,^ESCTND811325,NA,6.63E+14,NA,37
+203831000000104#,NA,Non-English speaking,NA#,0,1,1,8064041000006114#,Norwegian language interpreter needed,^ESCTNO806404,NA,6.45E+14,NA,37
+203831000000104#,NA,Non-English speaking,NA#,0,1,1,311651000000116#,Interpreter needed - Norwegian,9NUY,9NUY.00,3.12E+14,NA,37
+203901000000102#,NA,Non-English speaking,NA#,0,1,1,311791000000117#,Interpreter needed - Polish,9NUa,9NUa.00,3.12E+14,NA,37
+203901000000102#,NA,Non-English speaking,NA#,0,1,1,8064121000006118#,Polish language interpreter needed,^ESCTPO806412,NA,6.45E+14,NA,37
+204081000000109#,NA,Non-English speaking,NA#,0,1,1,312161000000116#,Interpreter needed - Sylheti,9NUl,9NUl.00,3.12E+14,NA,37
+204081000000109#,NA,Non-English speaking,NA#,0,1,1,8064421000006110#,Sylheti language interpreter needed,^ESCTSY806442,NA,6.45E+14,NA,37
+203981000000107#,NA,Non-English speaking,NA#,0,1,1,8064251000006119#,Serbian language interpreter needed,^ESCTSE806425,NA,6.45E+14,NA,37
+203981000000107#,NA,Non-English speaking,NA#,0,1,1,684691000000116#,Serbo-Croatian language interpreter needed,9NUe-1,9NUe.11,6.85E+14,NA,37
+203981000000107#,NA,Non-English speaking,NA#,0,1,1,311961000000113#,Interpreter needed - Serbian,9NUe,9NUe.00,3.12E+14,NA,37
+203971000000105#,NA,Non-English speaking,NA#,0,1,1,311941000000112#,Interpreter needed - Russian,9NUd,9NUd.00,3.12E+14,NA,37
+203971000000105#,NA,Non-English speaking,NA#,0,1,1,8064231000006114#,Russian language interpreter needed,^ESCTRU806423,NA,6.45E+14,NA,37
+203911000000100#,NA,Non-English speaking,NA#,0,1,1,311811000000116#,Interpreter needed - Portuguese,9NUb,9NUb.00,3.12E+14,NA,37
+203911000000100#,NA,Non-English speaking,NA#,0,1,1,8064141000006113#,Portuguese language interpreter needed,^ESCTPO806414,NA,6.45E+14,NA,37
+203961000000103#,NA,Non-English speaking,NA#,0,1,1,684821000000118#,Punjabi language interpreter needed,9NUc-1,9NUc.11,6.85E+14,NA,37
+203961000000103#,NA,Non-English speaking,NA#,0,1,1,8064201000006118#,Panjabi language interpreter needed,^ESCTPA806420,NA,6.45E+14,NA,37
+203961000000103#,NA,Non-English speaking,NA#,0,1,1,311921000000117#,Interpreter needed - Panjabi,9NUc,9NUc.00,3.12E+14,NA,37
+204051000000103#,NA,Non-English speaking,NA#,0,1,1,312101000000115#,Interpreter needed - Swedish,9NUk,9NUk.00,3.12E+14,NA,37
+204051000000103#,NA,Non-English speaking,NA#,0,1,1,8064391000006119#,Swedish language interpreter needed,^ESCTSW806439,NA,6.45E+14,NA,37
+203991000000109#,NA,Non-English speaking,NA#,0,1,1,311981000000116#,Interpreter needed - Shona,9NUf,9NUf.00,3.12E+14,NA,37
+203991000000109#,NA,Non-English speaking,NA#,0,1,1,8064281000006110#,Shona language interpreter needed,^ESCTSH806428,NA,6.45E+14,NA,37
+204021000000108#,NA,Non-English speaking,NA#,0,1,1,312041000000118#,Interpreter needed - Somali,9NUh,9NUh.00,3.12E+14,NA,37
+204021000000108#,NA,Non-English speaking,NA#,0,1,1,8064331000006118#,Somali language interpreter needed,^ESCTSO806433,NA,6.45E+14,NA,37
+204011000000102#,NA,Non-English speaking,NA#,0,1,1,8064301000006114#,Sinhala language interpreter needed,^ESCTSI806430,NA,6.45E+14,NA,37
+204011000000102#,NA,Non-English speaking,NA#,0,1,1,312021000000113#,Interpreter needed - Sinhala,9NUg,9NUg.00,3.12E+14,NA,37
+204031000000105#,NA,Non-English speaking,NA#,0,1,1,8064351000006113#,Spanish language interpreter needed,^ESCTSP806435,NA,6.45E+14,NA,37
+204031000000105#,NA,Non-English speaking,NA#,0,1,1,312061000000117#,Interpreter needed - Spanish,9NUi,9NUi.00,3.12E+14,NA,37
+352901000000108#,NA,Non-English speaking,NA#,0,1,1,8113231000006115#,Slovak language interpreter needed,^ESCTSL811323,NA,6.63E+14,NA,37
+353881000000101#,NA,Non-English speaking,NA#,0,1,1,664911000000115#,Romanian language interpreter needed,9NUy,9NUy.00,6.65E+14,NA,37
+362991000000107#,NA,Non-English speaking,NA#,0,1,1,684441000000111#,Oromo language interpreter needed,9Nmx,9Nmx.00,6.84E+14,NA,37
+363061000000105#,NA,Non-English speaking,NA#,0,1,1,684581000000119#,Rundi language interpreter needed,9Nmz,9Nmz.00,6.85E+14,NA,37
+203841000000108#,NA,Non-English speaking,NA#,0,1,1,8064061000006113#,Pashto language interpreter needed,^ESCTPA806406,NA,6.45E+14,NA,37
+203841000000108#,NA,Non-English speaking,NA#,0,1,1,8064081000006115#,Pushto interpreter needed,^ESCTPU806408,NA,2.48E+15,NA,37
+203841000000108#,NA,Non-English speaking,NA#,0,1,1,311671000000113#,Interpreter needed - Pashto,9NUZ,9NUZ.00,3.12E+14,NA,37
+204041000000101#,NA,Non-English speaking,NA#,0,1,1,312081000000114#,Interpreter needed - Swahili,9NUj,9NUj.00,3.12E+14,NA,37
+204041000000101#,NA,Non-English speaking,NA#,0,1,1,8064371000006115#,Swahili language interpreter needed,^ESCTSW806437,NA,6.45E+14,NA,37
+363591000000107#,NA,Non-English speaking,NA#,0,1,1,685731000000111#,Slovenian language interpreter needed,9Nn7,9Nn7.00,6.86E+14,NA,37
+363621000000105#,NA,Non-English speaking,NA#,0,1,1,685791000000112#,Swati language interpreter needed,9Nn8,9Nn8.00,6.86E+14,NA,37
+363651000000100#,NA,Non-English speaking,NA#,0,1,1,685851000000112#,Southern Sotho language interpreter needed,9Nn9,9Nn9.00,6.86E+14,NA,37
+363781000000103#,NA,Non-English speaking,NA#,0,1,1,686111000000112#,Sundanese language interpreter needed,9NnC,9NnC.00,6.86E+14,NA,37
+363841000000104#,NA,Non-English speaking,NA#,0,1,1,686231000000112#,Samoan language interpreter needed,9NnD,9NnD.00,6.86E+14,NA,37
+364011000000105#,NA,Non-English speaking,NA#,0,1,1,686571000000111#,Quechua language interpreter needed,9NnF,9NnF.00,6.87E+14,NA,37
+364051000000109#,NA,Non-English speaking,NA#,0,1,1,686651000000115#,Sango language interpreter needed,9NnG,9NnG.00,6.87E+14,NA,37
+364211000000103#,NA,Non-English speaking,NA#,0,1,1,686991000000118#,Oriya language interpreter needed,9NnJ,9NnJ.00,6.87E+14,NA,37
+364251000000104#,NA,Non-English speaking,NA#,0,1,1,687071000000116#,Nepali language interpreter needed,9NnK,9NnK.00,6.87E+14,NA,37
+364311000000108#,NA,Non-English speaking,NA#,0,1,1,687191000000118#,Occitan language interpreter needed,9NnL,9NnL.00,6.87E+14,NA,37
+364351000000107#,NA,Non-English speaking,NA#,0,1,1,687271000000112#,Nauru language interpreter needed,9NnM,9NnM.00,6.87E+14,NA,37
+364481000000106#,NA,Non-English speaking,NA#,0,1,1,687531000000112#,Romansh language interpreter needed,9NnN,9NnN.00,6.88E+14,NA,37
+973051000000109#,NA,Non-English speaking,NA#,0,1,1,8358561000006117#,Scottish Gaelic interpreter needed,^ESCTSC835856,NA,2.48E+15,NA,37
+973061000000107#,NA,Non-English speaking,NA#,0,1,1,2475581000000111#,Serbo-Croatian interpreter needed,ESCTSE12,NA,2.48E+15,NA,37
+973071000000100#,NA,Non-English speaking,NA#,0,1,1,8358581000006110#,Nuosu interpreter needed,^ESCTNU835858,NA,2.48E+15,NA,37
+973071000000100#,NA,Non-English speaking,NA#,0,1,1,8358591000006113#,Sichuan Yi interpreter needed,^ESCTSI835859,NA,2.48E+15,NA,31
+972881000000100#,NA,Non-English speaking,NA#,0,1,1,8358371000006117#,Navaho interpreter needed,^ESCTNA835837,NA,2.48E+15,NA,31
+972881000000100#,NA,Non-English speaking,NA#,0,1,1,8358361000006112#,Navajo interpreter needed,^ESCTNA835836,NA,2.48E+15,NA,37
+973081000000103#,NA,Non-English speaking,NA#,0,1,1,8358601000006117#,South Ndebele interpreter needed,^ESCTSO835860,NA,2.48E+15,NA,37
+972911000000100#,NA,Non-English speaking,NA#,0,1,1,8358391000006116#,North Ndebele interpreter needed,^ESCTNO835839,NA,2.48E+15,NA,37
+972891000000103#,NA,Non-English speaking,NA#,0,1,1,8358381000006119#,Ndonga interpreter needed,^ESCTND835838,NA,2.48E+15,NA,37
+972941000000104#,NA,Non-English speaking,NA#,0,1,1,8358441000006117#,Norwegian Nynorsk interpreter needed,^ESCTNO835844,NA,2.48E+15,NA,37
+972931000000108#,NA,Non-English speaking,NA#,0,1,1,2477181000000111#,Norwegian Bokmal interpreter needed,ESCTNO6-1,NA,2.48E+15,NA,37
+972931000000108#,NA,Non-English speaking,NA#,0,1,1,2475321000000118#,Norwegian BokmÃ¥l interpreter needed,ESCTNO6,NA,2.48E+15,NA,37
+972951000000101#,NA,Non-English speaking,NA#,0,1,1,8358451000006115#,Nyanja interpreter needed,^ESCTNY835845,NA,2.48E+15,NA,37
+972951000000101#,NA,Non-English speaking,NA#,0,1,1,8358461000006118#,Chewa interpreter needed,^ESCTCH835846,NA,2.48E+15,NA,31
+972981000000107#,NA,Non-English speaking,NA#,0,1,1,2475421000000114#,Ojibwa interpreter needed,ESCTOJ1,NA,2.48E+15,NA,37
+972981000000107#,NA,Non-English speaking,NA#,0,1,1,2484111000000118#,Ojibwe interpreter needed,ESCTOJ1-1,NA,2.48E+15,NA,37
+973001000000108#,NA,Non-English speaking,NA#,0,1,1,8358511000006115#,Ossetian interpreter needed,^ESCTOS835851,NA,2.48E+15,NA,37
+973011000000105#,NA,Non-English speaking,NA#,0,1,1,2475481000000110#,Pali interpreter needed,ESCTPA25,NA,2.48E+15,NA,37
+973031000000102#,NA,Non-English speaking,NA#,0,1,1,8358541000006116#,Sanskrit interpreter needed,^ESCTSA835854,NA,2.48E+15,NA,37
+972921000000106#,NA,Non-English speaking,NA#,0,1,1,8358411000006116#,Northern Sami interpreter needed,^ESCTNO835841,NA,2.48E+15,NA,37
+973041000000106#,NA,Non-English speaking,NA#,0,1,1,2475541000000115#,Sardinian interpreter needed,ESCTSA3,NA,2.48E+15,NA,37
+203371000000106#,NA,Non-English speaking,NA#,0,1,1,310701000000118#,Interpreter needed - Italian,9NU7,9NU7.00,3.11E+14,NA,37
+203371000000106#,NA,Non-English speaking,NA#,0,1,1,8063431000006110#,Italian language interpreter needed,^ESCTIT806343,NA,6.45E+14,NA,37
+203801000000105#,NA,Non-English speaking,NA#,0,1,1,311591000000111#,Interpreter needed - Ganda,9NUV,9NUV.00,3.12E+14,NA,37
+203801000000105#,NA,Non-English speaking,NA#,0,1,1,8063971000006116#,Ganda language interpreter needed,^ESCTGA806397,NA,6.45E+14,NA,37
+203651000000107#,NA,Non-English speaking,NA#,0,1,1,8063781000006115#,Hindi language interpreter needed,^ESCTHI806378,NA,6.45E+14,NA,37
+203651000000107#,NA,Non-English speaking,NA#,0,1,1,311271000000110#,Interpreter needed - Hindi,9NUN,9NUN.00,3.11E+14,NA,37
+203611000000108#,NA,Non-English speaking,NA#,0,1,1,8063721000006119#,Hakka language interpreter needed,^ESCTHA806372,NA,6.45E+14,NA,37
+203611000000108#,NA,Non-English speaking,NA#,0,1,1,311191000000116#,Interpreter needed - Hakka,9NUK,9NUK.00,3.11E+14,NA,37
+203531000000101#,NA,Non-English speaking,NA#,0,1,1,8063631000006113#,Igbo language interpreter needed,^ESCTIG806363,NA,6.45E+14,NA,37
+203531000000101#,NA,Non-English speaking,NA#,0,1,1,311031000000116#,Interpreter needed - Igbo,9NUF,9NUF.00,3.11E+14,NA,37
+203581000000102#,NA,Non-English speaking,NA#,0,1,1,8063661000006116#,German language interpreter needed,^ESCTGE806366,NA,6.45E+14,NA,37
+203581000000102#,NA,Non-English speaking,NA#,0,1,1,311131000000117#,Interpreter needed - German,9NUG,9NUG.00,3.11E+14,NA,37
+203601000000106#,NA,Non-English speaking,NA#,0,1,1,311171000000115#,Interpreter needed - Gujarati,9NUJ,9NUJ.00,3.11E+14,NA,37
+203601000000106#,NA,Non-English speaking,NA#,0,1,1,8063701000006112#,Gujarati language interpreter needed,^ESCTGU806370,NA,6.45E+14,NA,37
+203591000000100#,NA,Non-English speaking,NA#,0,1,1,311151000000112#,Interpreter needed - Greek,9NUH,9NUH.00,3.11E+14,NA,37
+203591000000100#,NA,Non-English speaking,NA#,0,1,1,8063681000006114#,Greek language interpreter needed,^ESCTGR806368,NA,6.45E+14,NA,37
+203631000000100#,NA,Non-English speaking,NA#,0,1,1,311231000000113#,Interpreter needed - Hausa,9NUL,9NUL.00,3.11E+14,NA,37
+203631000000100#,NA,Non-English speaking,NA#,0,1,1,8063741000006114#,Hausa language interpreter needed,^ESCTHA806374,NA,6.45E+14,NA,37
+203641000000109#,NA,Non-English speaking,NA#,0,1,1,311251000000118#,Interpreter needed - Hebrew,9NUM,9NUM.00,3.11E+14,NA,37
+203641000000109#,NA,Non-English speaking,NA#,0,1,1,8063761000006113#,Hebrew language interpreter needed,^ESCTHE806376,NA,6.45E+14,NA,37
+203711000000102#,NA,Non-English speaking,NA#,0,1,1,311391000000118#,Interpreter needed - Lingala,9NUS,9NUS.00,3.11E+14,NA,37
+203711000000102#,NA,Non-English speaking,NA#,0,1,1,8063871000006110#,Lingala language interpreter needed,^ESCTLI806387,NA,6.45E+14,NA,37
+203691000000104#,NA,Non-English speaking,NA#,0,1,1,311351000000114#,Interpreter needed - Korean,9NUQ,9NUQ.00,3.11E+14,NA,37
+203691000000104#,NA,Non-English speaking,NA#,0,1,1,8063831000006112#,Korean language interpreter needed,^ESCTKO806383,NA,6.45E+14,NA,37
+203681000000101#,NA,Non-English speaking,NA#,0,1,1,311331000000119#,Interpreter needed - Japanese,9NUP,9NUP.00,3.11E+14,NA,37
+203681000000101#,NA,Non-English speaking,NA#,0,1,1,8063811000006118#,Japanese language interpreter needed,^ESCTJA806381,NA,6.45E+14,NA,37
+203821000000101#,NA,Non-English speaking,NA#,0,1,1,311631000000111#,Interpreter needed - Mandarin,9NUX,9NUX.00,3.12E+14,NA,37
+203821000000101#,NA,Non-English speaking,NA#,0,1,1,8064021000006119#,Mandarin language interpreter needed,^ESCTMA806402,NA,6.45E+14,NA,37
+203701000000104#,NA,Non-English speaking,NA#,0,1,1,8063851000006117#,Kurdish language interpreter needed,^ESCTKU806385,NA,6.45E+14,NA,37
+203701000000104#,NA,Non-English speaking,NA#,0,1,1,311371000000117#,Interpreter needed - Kurdish,9NUR,9NUR.00,3.11E+14,NA,37
+203721000000108#,NA,Non-English speaking,NA#,0,1,1,311411000000118#,Interpreter needed - Lithuanian,9NUT,9NUT.00,3.11E+14,NA,37
+203721000000108#,NA,Non-English speaking,NA#,0,1,1,8063901000006110#,Lithuanian language interpreter needed,^ESCTLI806390,NA,6.45E+14,NA,37
+203811000000107#,NA,Non-English speaking,NA#,0,1,1,8063991000006115#,Malayalam language interpreter needed,^ESCTMA806399,NA,6.45E+14,NA,37
+203811000000107#,NA,Non-English speaking,NA#,0,1,1,311611000000115#,Interpreter needed - Malayalam,9NUW,9NUW.00,3.12E+14,NA,37
+359641000000107#,NA,Non-English speaking,NA#,0,1,1,677351000000117#,Mongolian language interpreter needed,9Nm0,9Nm0.00,6.77E+14,NA,37
+359671000000101#,NA,Non-English speaking,NA#,0,1,1,677411000000113#,Moldavian language interpreter needed,9Nm1,9Nm1.00,6.77E+14,NA,37
+359701000000102#,NA,Non-English speaking,NA#,0,1,1,677471000000115#,Marathi language interpreter needed,9Nm2,9Nm2.00,6.77E+14,NA,37
+359731000000108#,NA,Non-English speaking,NA#,0,1,1,677531000000116#,Maltese language interpreter needed,9Nm3,9Nm3.00,6.78E+14,NA,37
+359761000000103#,NA,Non-English speaking,NA#,0,1,1,677591000000115#,Luganda language interpreter needed,9Nm4,9Nm4.00,6.78E+14,NA,37
+359851000000109#,NA,Non-English speaking,NA#,0,1,1,677771000000110#,Kirghiz language interpreter needed,9Nm7,9Nm7.00,6.78E+14,NA,37
+359881000000103#,NA,Non-English speaking,NA#,0,1,1,677831000000119#,Iban language interpreter needed,9Nm8,9Nm8.00,6.78E+14,NA,37
+359911000000103#,NA,Non-English speaking,NA#,0,1,1,677891000000118#,Maori language interpreter needed,9Nm9,9Nm9.00,6.78E+14,NA,37
+359971000000108#,NA,Non-English speaking,NA#,0,1,1,678011000000118#,Macedonian language interpreter needed,9NmA,9NmA.00,6.78E+14,NA,37
+360011000000101#,NA,Non-English speaking,NA#,0,1,1,678091000000110#,Malagasy language interpreter needed,9NmB,9NmB.00,6.78E+14,NA,37
+360131000000108#,NA,Non-English speaking,NA#,0,1,1,678331000000111#,Kinyarwanda language interpreter needed,9NmE,9NmE.00,6.78E+14,NA,37
+360161000000103#,NA,Non-English speaking,NA#,0,1,1,678391000000112#,Malay language interpreter needed,9NmF,9NmF.00,6.78E+14,NA,37
+360191000000109#,NA,Non-English speaking,NA#,0,1,1,678451000000111#,Kashmiri language interpreter needed,9NmG,9NmG.00,6.78E+14,NA,37
+360221000000102#,NA,Non-English speaking,NA#,0,1,1,678511000000111#,Kazakh language interpreter needed,9NmH,9NmH.00,6.79E+14,NA,37
+360251000000107#,NA,Non-English speaking,NA#,0,1,1,678571000000118#,Inupiaq language interpreter needed,9NmJ,9NmJ.00,6.79E+14,NA,37
+360071000000106#,NA,Non-English speaking,NA#,0,1,1,678211000000113#,Latvian language interpreter needed,9NmC,9NmC.00,6.78E+14,NA,37
+360281000000101#,NA,Non-English speaking,NA#,0,1,1,678631000000119#,Javanese language interpreter needed,9NmK,9NmK.00,6.79E+14,NA,37
+360311000000103#,NA,Non-English speaking,NA#,0,1,1,678691000000118#,Inuktitut language interpreter needed,9NmL,9NmL.00,6.79E+14,NA,37
+360341000000102#,NA,Non-English speaking,NA#,0,1,1,678751000000117#,Interlingue language interpreter needed,9NmM,9NmM.00,6.79E+14,NA,37
+360371000000108#,NA,Non-English speaking,NA#,0,1,1,678811000000114#,Lao language interpreter needed,9NmN,9NmN.00,6.79E+14,NA,37
+360401000000105#,NA,Non-English speaking,NA#,0,1,1,678871000000116#,Icelandic language interpreter needed,9NmP,9NmP.00,6.79E+14,NA,37
+360431000000104#,NA,Non-English speaking,NA#,0,1,1,678931000000110#,Hungarian language interpreter needed,9NmQ,9NmQ.00,6.79E+14,NA,37
+362011000000102#,NA,Non-English speaking,NA#,0,1,1,692821000000111#,Greenlandic language interpreter needed,9Nmc-1,9Nmc.11,6.93E+14,NA,37
+362011000000102#,NA,Non-English speaking,NA#,0,1,1,682311000000110#,Kalaallisut language interpreter needed,9Nmc,9Nmc.00,6.82E+14,NA,37
+362111000000101#,NA,Non-English speaking,NA#,0,1,1,682521000000113#,Indonesian language interpreter needed,9Nmf,9Nmf.00,6.83E+14,NA,37
+361441000000100#,NA,Non-English speaking,NA#,0,1,1,681151000000119#,Guarani language interpreter needed,9NmR,9NmR.00,6.81E+14,NA,37
+361471000000106#,NA,Non-English speaking,NA#,0,1,1,681211000000114#,Georgian language interpreter needed,9NmS,9NmS.00,6.81E+14,NA,37
+361851000000100#,NA,Non-English speaking,NA#,0,1,1,681991000000112#,Galician language interpreter needed,9NmX,9NmX.00,6.82E+14,NA,37
+972731000000105#,NA,Non-English speaking,NA#,0,1,1,8358211000006117#,Irish interpreter needed,^ESCTIR835821,NA,2.47E+15,NA,37
+972851000000106#,NA,Non-English speaking,NA#,0,1,1,8358341000006113#,Manx interpreter needed,^ESCTMA835834,NA,2.48E+15,NA,37
+972681000000101#,NA,Non-English speaking,NA#,0,1,1,8358151000006112#,Haitian interpreter needed,^ESCTHA835815,NA,2.47E+15,NA,37
+972691000000104#,NA,Non-English speaking,NA#,0,1,1,8358161000006114#,Herero interpreter needed,^ESCTHE835816,NA,2.47E+15,NA,37
+972701000000104#,NA,Non-English speaking,NA#,0,1,1,8358171000006119#,Hiri Motu interpreter needed,^ESCTHI835817,NA,2.47E+15,NA,37
+972711000000102#,NA,Non-English speaking,NA#,0,1,1,8358181000006116#,Ido interpreter needed,^ESCTID835818,NA,2.47E+15,NA,37
+972721000000108#,NA,Non-English speaking,NA#,0,1,1,8358201000006115#,Interlingua interpreter needed,^ESCTIN835820,NA,2.47E+15,NA,37
+972741000000101#,NA,Non-English speaking,NA#,0,1,1,8358221000006113#,Kanuri interpreter needed,^ESCTKA835822,NA,2.47E+15,NA,37
+972751000000103#,NA,Non-English speaking,NA#,0,1,1,8358231000006111#,Kikuyu interpreter needed,^ESCTKI835823,NA,2.47E+15,NA,37
+972771000000107#,NA,Non-English speaking,NA#,0,1,1,8358251000006116#,Komi interpreter needed,^ESCTKO835825,NA,2.48E+15,NA,37
+972781000000109#,NA,Non-English speaking,NA#,0,1,1,8358261000006119#,Kongo interpreter needed,^ESCTKO835826,NA,2.48E+15,NA,37
+972791000000106#,NA,Non-English speaking,NA#,0,1,1,8358271000006114#,Kuanyama interpreter needed,^ESCTKU835827,NA,2.48E+15,NA,37
+972791000000106#,NA,Non-English speaking,NA#,0,1,1,8358281000006112#,Kwanyama interpreter needed,^ESCTKW835828,NA,2.48E+15,NA,31
+972801000000105#,NA,Non-English speaking,NA#,0,1,1,2475061000000111#,Latin interpreter needed,ESCTLA4,NA,2.48E+15,NA,37
+972811000000107#,NA,Non-English speaking,NA#,0,1,1,8358301000006111#,Limburgan interpreter needed,^ESCTLI835830,NA,2.48E+15,NA,37
+972831000000104#,NA,Non-English speaking,NA#,0,1,1,2475121000000116#,Luxembourgish interpreter needed,ESCTLU1,NA,2.48E+15,NA,37
+972821000000101#,NA,Non-English speaking,NA#,0,1,1,8358321000006118#,Luba-Katanga interpreter needed,^ESCTLU835832,NA,2.48E+15,NA,37
+972861000000109#,NA,Non-English speaking,NA#,0,1,1,2475181000000115#,Marshallese interpreter needed,ESCTMA9,NA,2.48E+15,NA,37
+203411000000105#,NA,Non-English speaking,NA#,0,1,1,310781000000111#,Interpreter needed - Dutch,9NUB,9NUB.00,3.11E+14,NA,37
+203411000000105#,NA,Non-English speaking,NA#,0,1,1,8063521000006111#,Dutch language interpreter needed,^ESCTDU806352,NA,6.44E+14,NA,37
+203301000000103#,NA,Non-English speaking,NA#,0,1,1,8063321000006118#,Amharic language interpreter needed,^ESCTAM806332,NA,6.44E+14,NA,37
+203301000000103#,NA,Non-English speaking,NA#,0,1,1,310561000000113#,Interpreter needed - Amharic,9NU4,9NU4.00,3.11E+14,NA,37
+203281000000104#,NA,Non-English speaking,NA#,0,1,1,310521000000117#,Interpreter needed - Akan,9NU2,9NU2.00,3.11E+14,NA,37
+203281000000104#,NA,Non-English speaking,NA#,0,1,1,8063281000006112#,Akan language interpreter needed,^ESCTAK806328,NA,6.44E+14,NA,37
+203401000000108#,NA,Non-English speaking,NA#,0,1,1,310761000000119#,Interpreter needed - Czech,9NUA,9NUA.00,3.11E+14,NA,37
+203401000000108#,NA,Non-English speaking,NA#,0,1,1,8063501000006118#,Czech language interpreter needed,^ESCTCZ806350,NA,6.44E+14,NA,37
+203311000000101#,NA,Non-English speaking,NA#,0,1,1,310581000000116#,Interpreter needed - Arabic,9NU5,9NU5.00,3.11E+14,NA,37
+203311000000101#,NA,Non-English speaking,NA#,0,1,1,8063341000006113#,Arabic language interpreter needed,^ESCTAR806334,NA,6.44E+14,NA,37
+203291000000102#,NA,Non-English speaking,NA#,0,1,1,310541000000112#,Interpreter needed - Albanian,9NU3,9NU3.00,3.11E+14,NA,37
+203291000000102#,NA,Non-English speaking,NA#,0,1,1,8063301000006111#,Albanian language interpreter needed,^ESCTAL806330,NA,6.44E+14,NA,37
+203391000000105#,NA,Non-English speaking,NA#,0,1,1,684751000000115#,Serbo-Croatian language interpreter needed,9NU9-1,9NU9.11,6.85E+14,NA,37
+203391000000105#,NA,Non-English speaking,NA#,0,1,1,310741000000115#,Interpreter needed - Croatian,9NU9,9NU9.00,3.11E+14,NA,37
+203391000000105#,NA,Non-English speaking,NA#,0,1,1,8063471000006113#,Croatian language interpreter needed,^ESCTCR806347,NA,6.44E+14,NA,37
+203321000000107#,NA,Non-English speaking,NA#,0,1,1,8063371000006117#,Bengali language interpreter needed,^ESCTBE806337,NA,6.44E+14,NA,37
+203321000000107#,NA,Non-English speaking,NA#,0,1,1,310601000000113#,Interpreter needed - Bengali,9NU6,9NU6.00,3.11E+14,NA,37
+203381000000108#,NA,Non-English speaking,NA#,0,1,1,8063451000006115#,Cantonese language interpreter needed,^ESCTCA806345,NA,6.44E+14,NA,37
+203381000000108#,NA,Non-English speaking,NA#,0,1,1,310721000000110#,Interpreter needed - Cantonese,9NU8,9NU8.00,3.11E+14,NA,37
+203441000000106#,NA,Non-English speaking,NA#,0,1,1,310841000000110#,Interpreter needed - French,9NUD,9NUD.00,3.11E+14,NA,37
+203441000000106#,NA,Non-English speaking,NA#,0,1,1,8063571000006112#,French language interpreter needed,^ESCTFR806357,NA,6.44E+14,NA,37
+203521000000103#,NA,Non-English speaking,NA#,0,1,1,311001000000110#,Interpreter needed - French Creole,9NUE,9NUE.00,3.11E+14,NA,37
+203521000000103#,NA,Non-English speaking,NA#,0,1,1,8063611000006119#,French Creole language interpreter needed,^ESCTFR806361,NA,6.45E+14,NA,37
+353921000000107#,NA,Non-English speaking,NA#,0,1,1,664991000000112#,Bulgarian language interpreter needed,9NUz,9NUz.00,6.65E+14,NA,37
+359791000000109#,NA,Non-English speaking,NA#,0,1,1,677651000000110#,Ethiopian language interpreter needed,9Nm5,9Nm5.00,6.78E+14,NA,37
+359821000000104#,NA,Non-English speaking,NA#,0,1,1,677711000000117#,Brawa language interpreter needed,9Nm6,9Nm6.00,6.78E+14,NA,37
+361501000000104#,NA,Non-English speaking,NA#,0,1,1,681271000000116#,Frisian language interpreter needed,9NmT,9NmT.00,6.81E+14,NA,37
+361791000000100#,NA,Non-English speaking,NA#,0,1,1,681871000000117#,Faeroese language interpreter needed,9NmV,9NmV.00,6.82E+14,NA,37
+361791000000100#,NA,Non-English speaking,NA#,0,1,1,8115361000006115#,Faroese language interpreter needed,^ESCTFA811536,NA,2.64E+15,NA,37
+361821000000105#,NA,Non-English speaking,NA#,0,1,1,681931000000111#,Fijian language interpreter needed,9NmW,9NmW.00,6.82E+14,NA,37
+361881000000106#,NA,Non-English speaking,NA#,0,1,1,682051000000111#,Esperanto language interpreter needed,9NmY,9NmY.00,6.82E+14,NA,37
+361911000000106#,NA,Non-English speaking,NA#,0,1,1,682111000000113#,Estonian language interpreter needed,9NmZ,9NmZ.00,6.82E+14,NA,37
+361941000000107#,NA,Non-English speaking,NA#,0,1,1,682171000000115#,Corsican language interpreter needed,9Nma,9Nma.00,6.82E+14,NA,37
+361971000000101#,NA,Non-English speaking,NA#,0,1,1,682231000000113#,Danish language interpreter needed,9Nmb,9Nmb.00,6.82E+14,NA,37
+362041000000101#,NA,Non-English speaking,NA#,0,1,1,682371000000117#,Catalan language interpreter needed,9Nmd,9Nmd.00,6.82E+14,NA,37
+362071000000107#,NA,Non-English speaking,NA#,0,1,1,682431000000114#,Belarusian language interpreter needed,9Nme,9Nme.00,6.82E+14,NA,37
+362141000000100#,NA,Non-English speaking,NA#,0,1,1,682581000000114#,Breton language interpreter needed,9Nmg,9Nmg.00,6.83E+14,NA,37
+362171000000106#,NA,Non-English speaking,NA#,0,1,1,682641000000119#,Bislama language interpreter needed,9Nmh,9Nmh.00,6.83E+14,NA,37
+362231000000101#,NA,Non-English speaking,NA#,0,1,1,682761000000111#,Assamese language interpreter needed,9Nmj,9Nmj.00,6.83E+14,NA,37
+362201000000107#,NA,Non-English speaking,NA#,0,1,1,682701000000112#,Bihari language interpreter needed,9Nmi,9Nmi.00,6.83E+14,NA,37
+362261000000106#,NA,Non-English speaking,NA#,0,1,1,682821000000110#,Armenian language interpreter needed,9Nmk,9Nmk.00,6.83E+14,NA,37
+362331000000107#,NA,Non-English speaking,NA#,0,1,1,683001000000115#,Central Khmer language interpreter needed,9Nml,9Nml.00,6.83E+14,NA,37
+362371000000109#,NA,Non-English speaking,NA#,0,1,1,683091000000110#,Burmese language interpreter needed,9Nmm,9Nmm.00,6.83E+14,NA,37
+362541000000108#,NA,Non-English speaking,NA#,0,1,1,683471000000119#,Aymara language interpreter needed,9Nmn,9Nmn.00,6.83E+14,NA,37
+362571000000102#,NA,Non-English speaking,NA#,0,1,1,683531000000115#,Afrikaans language interpreter needed,9Nmo,9Nmo.00,6.84E+14,NA,37
+362611000000106#,NA,Non-English speaking,NA#,0,1,1,683621000000116#,Azerbaijani language interpreter needed,9Nmp,9Nmp.00,6.84E+14,NA,37
+362641000000107#,NA,Non-English speaking,NA#,0,1,1,683681000000115#,Basque language interpreter needed,9Nmq,9Nmq.00,6.84E+14,NA,37
+362691000000102#,NA,Non-English speaking,NA#,0,1,1,683791000000113#,Afar language interpreter needed,9Nmr,9Nmr.00,6.84E+14,NA,37
+362721000000106#,NA,Non-English speaking,NA#,0,1,1,683851000000113#,Abkhazian language interpreter needed,9Nms,9Nms.00,6.84E+14,NA,37
+362721000000106#,NA,Non-English speaking,NA#,0,1,1,8115821000006118#,Abkhaz interpreter needed,^ESCTAB811582,NA,2.48E+15,NA,37
+362781000000107#,NA,Non-English speaking,NA#,0,1,1,683971000000112#,Dzongkha language interpreter needed,9Nmt,9Nmt.00,6.84E+14,NA,37
+203421000000104#,NA,Non-English speaking,NA#,0,1,1,310801000000112#,Farsi language interpreter needed,9NUC,9NUC.00,6.77E+14,NA,37
+203421000000104#,NA,Non-English speaking,NA#,0,1,1,644471000000110#,Persian language interpreter needed,9NUC-1,9NUC.11,6.44E+14,NA,37
+972511000000109#,NA,Non-English speaking,NA#,0,1,1,8357981000006119#,Aragonese interpreter needed,^ESCTAR835798,NA,2.47E+15,NA,37
+972521000000103#,NA,Non-English speaking,NA#,0,1,1,8358001000006114#,Avaric interpreter needed,^ESCTAV835800,NA,2.47E+15,NA,37
+972531000000101#,NA,Non-English speaking,NA#,0,1,1,8358011000006112#,Avestan interpreter needed,^ESCTAV835801,NA,2.47E+15,NA,37
+972551000000108#,NA,Non-English speaking,NA#,0,1,1,2474561000000115#,Bashkir interpreter needed,ESCTBA1,NA,2.47E+15,NA,37
+972541000000105#,NA,Non-English speaking,NA#,0,1,1,8358021000006116#,Bambara interpreter needed,^ESCTBA835802,NA,2.47E+15,NA,37
+972561000000106#,NA,Non-English speaking,NA#,0,1,1,8358041000006111#,Bosnian interpreter needed,^ESCTBO835804,NA,2.47E+15,NA,37
+972571000000104#,NA,Non-English speaking,NA#,0,1,1,8358051000006113#,Chamorro interpreter needed,^ESCTCH835805,NA,2.47E+15,NA,37
+972581000000102#,NA,Non-English speaking,NA#,0,1,1,2474621000000112#,Chechen interpreter needed,ESCTCH16,NA,2.47E+15,NA,37
+972601000000106#,NA,Non-English speaking,NA#,0,1,1,8358081000006117#,Church Slavic interpreter needed,^ESCTCH835808,NA,2.47E+15,NA,37
+972611000000108#,NA,Non-English speaking,NA#,0,1,1,8358091000006119#,Chuvash interpreter needed,^ESCTCH835809,NA,2.47E+15,NA,37
+972621000000102#,NA,Non-English speaking,NA#,0,1,1,8358101000006113#,Cornish interpreter needed,^ESCTCO835810,NA,2.47E+15,NA,37
+972631000000100#,NA,Non-English speaking,NA#,0,1,1,8358111000006111#,Cree interpreter needed,^ESCTCR835811,NA,2.47E+15,NA,37
+972641000000109#,NA,Non-English speaking,NA#,0,1,1,2474741000000113#,Dhivehi interpreter needed,ESCTDH1,NA,2.47E+15,NA,37
+972651000000107#,NA,Non-English speaking,NA#,0,1,1,8358131000006117#,Ewe interpreter needed,^ESCTEW835813,NA,2.47E+15,NA,37
+972671000000103#,NA,Non-English speaking,NA#,0,1,1,8358141000006110#,Fulah interpreter needed,^ESCTFU835814,NA,2.47E+15,NA,37
+972591000000100#,NA,Non-English speaking,NA#,0,1,1,8358071000006115#,Chinese interpreter needed,^ESCTCH835807,NA,2.47E+15,NA,37
+303601000000100#,NA,Non-English speaking,NA#,0,1,1,539181000000114#,Telephone interpreting service used,9NQ3,9NQ3.00,5.39E+14,NA,37
+138443000#,World languages,First Language Not English,219790017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138444006#,Vietnamese language,First Language Not English,219791018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138445007#,Cantonese Chinese dialect,First Language Not English,219792013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138446008#,Sylhety,First Language Not English,219793015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138447004#,Creole language,First Language Not English,219794014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138448009#,Mirpuri language,First Language Not English,219795010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138660000#,Main spoken language,First Language Not English,220010017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138661001#,Main spoken language Arabic,First Language Not English,220011018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138662008#,Main spoken language Bengali,First Language Not English,220012013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138663003#,Main spoken language Cantonese,First Language Not English,220013015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138664009#,Main spoken language Czech,First Language Not English,220014014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138665005#,Main spoken language English,First Language Not English,220015010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138666006#,Main spoken language French,First Language Not English,220016011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138667002#,Main spoken language Gujerati,First Language Not English,220017019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138668007#,Main spoken language Hausa,First Language Not English,220018012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138669004#,Main spoken language Hindi,First Language Not English,220019016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138670003#,Main spoken language Iba,First Language Not English,220020010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138671004#,Main spoken language Kutchi,First Language Not English,220021014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138673001#,Main spoken language Mandarin,First Language Not English,220024018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138674007#,Main spoken language Polish,First Language Not English,220025017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138675008#,Main spoken language Portuguese,First Language Not English,220026016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138676009#,Main spoken language Punjabi,First Language Not English,220027013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138677000#,Main spoken language Russian,First Language Not English,220028015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138678005#,Main spoken language Somali,First Language Not English,220029011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138679002#,Main spoken language Spanish,First Language Not English,220030018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138680004#,Main spoken language Swahili,First Language Not English,220031019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138681000#,Main spoken language Sylheti,First Language Not English,220032014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138682007#,Main spoken language Tamil,First Language Not English,220033016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138683002#,Main spoken language Urdu,First Language Not English,220034010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138684008#,Main spoken language Yoruba,First Language Not English,220035011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153694008#,Presence of interpreter,Non-English speaking,238814019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153695009#,Interpreter present,Non-English speaking,238815018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153703000#,Need for interpreter,Non-English speaking,238823016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153704006#,Interpreter needed,Non-English speaking,238824010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161140009#,English as a second language,First Language Not English,251238011#,1,0,1,645201000006112#,English as a second language,13Z60,13Z6000,251238011,NA,17
+161140009#,English as a second language,First Language Not English,251238011#,1,0,1,251238011#,English as a second language,13sA,13sA.00,251238011,NA,17
+161172007#,World languages,First Language Not English,251282019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161173002#,Vietnamese language,First Language Not English,251283012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161174008#,Cantonese Chinese dialect,First Language Not English,251284018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161175009#,Sylhety,First Language Not English,251285017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161176005#,Creole language,First Language Not English,251286016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161177001#,Mirpuri language,First Language Not English,251287013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161389008#,Main spoken language,First Language Not English,251510016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161390004#,Main spoken language Arabic,First Language Not English,251511017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161391000#,Main spoken language Bengali,First Language Not English,251512012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161392007#,Main spoken language Cantonese,First Language Not English,251513019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161393002#,Main spoken language Czech,First Language Not English,251515014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161394008#,Main spoken language English,First Language Not English,251516010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161395009#,Main spoken language French,First Language Not English,251517018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161396005#,Main spoken language Gujerati,First Language Not English,251518011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161397001#,Main spoken language Hausa,First Language Not English,251519015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161398006#,Main spoken language Hindi,First Language Not English,251520014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161399003#,Main spoken language Iba,First Language Not English,251521013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161400005#,Main spoken language Kutchi,First Language Not English,251522018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161401009#,Main spoken language Mandarin,First Language Not English,251523011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161402002#,Main spoken language Polish,First Language Not English,251524017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161403007#,Main spoken language Portuguese,First Language Not English,251526015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161404001#,Main spoken language Punjabi,First Language Not English,251527012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161405000#,Main spoken language Russian,First Language Not English,251528019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161406004#,Main spoken language Somali,First Language Not English,251529010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161407008#,Main spoken language Spanish,First Language Not English,251530017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161408003#,Main spoken language Swahili,First Language Not English,251531018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161409006#,Main spoken language Sylheti,First Language Not English,251532013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161410001#,Main spoken language Tamil,First Language Not English,251533015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161411002#,Main spoken language Urdu,First Language Not English,251534014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161412009#,Main spoken language Yoruba,First Language Not English,251535010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185513003#,Presence of interpreter,Non-English speaking,285507010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185514009#,Interpreter present,Non-English speaking,285508017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185522002#,Need for interpreter,Non-English speaking,285516014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185523007#,Interpreter needed,Non-English speaking,285517017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138443000#,World languages,First Language Not English,516904017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138444006#,Vietnamese language,First Language Not English,516905016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138445007#,Cantonese Chinese dialect,First Language Not English,516906015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138446008#,Sylhety,First Language Not English,516907012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138447004#,Creole language,First Language Not English,516908019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138448009#,Mirpuri language,First Language Not English,516909010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138660000#,Main spoken language,First Language Not English,517144017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138661001#,Main spoken language Arabic,First Language Not English,517145016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138662008#,Main spoken language Bengali,First Language Not English,517147012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138663003#,Main spoken language Cantonese,First Language Not English,517148019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138664009#,Main spoken language Czech,First Language Not English,517149010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138665005#,Main spoken language English,First Language Not English,517150010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138666006#,Main spoken language French,First Language Not English,517151014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138667002#,Main spoken language Gujerati,First Language Not English,517152019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138668007#,Main spoken language Hausa,First Language Not English,517153012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138669004#,Main spoken language Hindi,First Language Not English,517154018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138670003#,Main spoken language Iba,First Language Not English,517155017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138671004#,Main spoken language Kutchi,First Language Not English,517156016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138673001#,Main spoken language Mandarin,First Language Not English,517160018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138674007#,Main spoken language Polish,First Language Not English,517161019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138675008#,Main spoken language Portuguese,First Language Not English,517162014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138676009#,Main spoken language Punjabi,First Language Not English,517163016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138677000#,Main spoken language Russian,First Language Not English,517164010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138678005#,Main spoken language Somali,First Language Not English,517165011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138679002#,Main spoken language Spanish,First Language Not English,517166012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138680004#,Main spoken language Swahili,First Language Not English,517167015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138681000#,Main spoken language Sylheti,First Language Not English,517168013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138682007#,Main spoken language Tamil,First Language Not English,517169017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138683002#,Main spoken language Urdu,First Language Not English,517171017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138684008#,Main spoken language Yoruba,First Language Not English,517172012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153694008#,Presence of interpreter,Non-English speaking,533832012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153695009#,Interpreter present,Non-English speaking,533833019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153703000#,Need for interpreter,Non-English speaking,533842014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153704006#,Interpreter needed,Non-English speaking,533843016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161140009#,English as a second language (finding),First Language Not English,542136018#,1,0,1,645201000006112#,English as a second language,13Z60,13Z6000,251238011,NA,17
+161140009#,English as a second language (finding),First Language Not English,542136018#,1,0,1,251238011#,English as a second language,13sA,13sA.00,251238011,NA,17
+161172007#,World languages,First Language Not English,542172013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161173002#,Vietnamese language,First Language Not English,542173015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161174008#,Cantonese Chinese dialect,First Language Not English,542174014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161175009#,Sylhety,First Language Not English,542175010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161176005#,Creole language,First Language Not English,542176011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161177001#,Mirpuri language,First Language Not English,542177019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161389008#,Main spoken language,First Language Not English,542412010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161390004#,Main spoken language Arabic,First Language Not English,542413017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161391000#,Main spoken language Bengali,First Language Not English,542414011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161392007#,Main spoken language Cantonese,First Language Not English,542415012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161393002#,Main spoken language Czech,First Language Not English,542417016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161394008#,Main spoken language English,First Language Not English,542418014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161395009#,Main spoken language French,First Language Not English,542419018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161396005#,Main spoken language Gujerati,First Language Not English,542420012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161397001#,Main spoken language Hausa,First Language Not English,542421011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161398006#,Main spoken language Hindi,First Language Not English,542422016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161399003#,Main spoken language Iba,First Language Not English,542423014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161400005#,Main spoken language Kutchi,First Language Not English,542424015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161401009#,Main spoken language Mandarin,First Language Not English,542425019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161402002#,Main spoken language Polish,First Language Not English,542426018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161403007#,Main spoken language Portuguese,First Language Not English,542428017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161404001#,Main spoken language Punjabi,First Language Not English,542429013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161405000#,Main spoken language Russian,First Language Not English,542430015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161406004#,Main spoken language Somali,First Language Not English,542431016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161407008#,Main spoken language Spanish,First Language Not English,542432011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161408003#,Main spoken language Swahili,First Language Not English,542433018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161409006#,Main spoken language Sylheti,First Language Not English,542434012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161410001#,Main spoken language Tamil,First Language Not English,542435013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161411002#,Main spoken language Urdu,First Language Not English,542436014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161412009#,Main spoken language Yoruba,First Language Not English,542437017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185513003#,Presence of interpreter,Non-English speaking,568564018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185514009#,Interpreter present,Non-English speaking,568565017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185522002#,Need for interpreter,Non-English speaking,568574015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185523007#,Interpreter needed,Non-English speaking,568575019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392702006#,Main spoken language Kurdish,First Language Not English,1466883012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392703001#,Main spoken language Farsi,First Language Not English,1466884018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392704007#,Main spoken language Shona,First Language Not English,1466885017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393657009#,Main spoken language Kurdish,First Language Not English,1467718011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393658004#,Main spoken language Farsi,First Language Not English,1467719015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393659007#,Main spoken language Shona,First Language Not English,1467720014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392702006#,Main spoken language Kurdish,First Language Not English,1486678013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392703001#,Main spoken language Farsi,First Language Not English,1486679017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392704007#,Main spoken language Shona,First Language Not English,1486680019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393657009#,Main spoken language Kurdish,First Language Not English,1487511012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393658004#,Main spoken language Farsi,First Language Not English,1487512017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393659007#,Main spoken language Shona,First Language Not English,1487513010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138681000#,Main spoken language Sylheti (finding),First Language Not English,2722741019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138682007#,Main spoken language Tamil (finding),First Language Not English,2722742014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185514009#,Interpreter present (finding),Non-English speaking,2722823016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138445007#,Cantonese Chinese dialect (qualifier value),First Language Not English,2723206014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185523007#,Interpreter needed (finding),Non-English speaking,2727062015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185522002#,Need for interpreter (finding),Non-English speaking,2728596015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+185513003#,Presence of interpreter (finding),Non-English speaking,2728845010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161398006#,Main spoken language Hindi (finding),First Language Not English,2729450017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138660000#,Main spoken language (finding),First Language Not English,2729571013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138665005#,Main spoken language English (finding),First Language Not English,2729827016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138667002#,Main spoken language Gujerati (finding),First Language Not English,2729845016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138661001#,Main spoken language Arabic (finding),First Language Not English,2729846015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161399003#,Main spoken language Iba (finding),First Language Not English,2730009015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161172007#,World languages (qualifier value),First Language Not English,2730121019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161411002#,Main spoken language Urdu (finding),First Language Not English,2730376018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161401009#,Main spoken language Mandarin (finding),First Language Not English,2730377010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138448009#,Mirpuri language (qualifier value),First Language Not English,2731249011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138675008#,Main spoken language Portuguese (finding),First Language Not English,2731648013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161177001#,Mirpuri language (qualifier value),First Language Not English,2731930018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161397001#,Main spoken language Hausa (finding),First Language Not English,2732149016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138680004#,Main spoken language Swahili (finding),First Language Not English,2732260017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161395009#,Main spoken language French (finding),First Language Not English,2732298017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392702006#,Main spoken language Kurdish (finding),First Language Not English,2734570015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161402002#,Main spoken language Polish (finding),First Language Not English,2734809010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161403007#,Main spoken language Portuguese (finding),First Language Not English,2734810017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161410001#,Main spoken language Tamil (finding),First Language Not English,2734812013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161176005#,Creole language (qualifier value),First Language Not English,2735218012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161390004#,Main spoken language Arabic (finding),First Language Not English,2735253017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161391000#,Main spoken language Bengali (finding),First Language Not English,2735372019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392703001#,Main spoken language Farsi (finding),First Language Not English,2736221017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138673001#,Main spoken language Mandarin (finding),First Language Not English,2737196015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138662008#,Main spoken language Bengali (finding),First Language Not English,2737197012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138678005#,Main spoken language Somali (finding),First Language Not English,2737198019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138447004#,Creole language (qualifier value),First Language Not English,2738150013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138663003#,Main spoken language Cantonese (finding),First Language Not English,2738522016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138670003#,Main spoken language Iba (finding),First Language Not English,2738523014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138671004#,Main spoken language Kutchi (finding),First Language Not English,2738524015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153703000#,Need for interpreter (finding),Non-English speaking,2739107013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153704006#,Interpreter needed (finding),Non-English speaking,2739108015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161407008#,Main spoken language Spanish (finding),First Language Not English,2739831017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161400005#,Main spoken language Kutchi (finding),First Language Not English,2739832012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153694008#,Presence of interpreter (finding),Non-English speaking,2740205016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+153695009#,Interpreter present (finding),Non-English speaking,2740344014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138444006#,Vietnamese language (qualifier value),First Language Not English,2741309016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393657009#,Main spoken language Kurdish (finding),First Language Not English,2743221010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393659007#,Main spoken language Shona (finding),First Language Not English,2744173011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+393658004#,Main spoken language Farsi (finding),First Language Not English,2746741014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161412009#,Main spoken language Yoruba (finding),First Language Not English,2748275019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161396005#,Main spoken language Gujerati (finding),First Language Not English,2748423014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161404001#,Main spoken language Punjabi (finding),First Language Not English,2748431016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138684008#,Main spoken language Yoruba (finding),First Language Not English,2748560011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138676009#,Main spoken language Punjabi (finding),First Language Not English,2748612018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161394008#,Main spoken language English (finding),First Language Not English,2751416014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138679002#,Main spoken language Spanish (finding),First Language Not English,2752171016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138666006#,Main spoken language French (finding),First Language Not English,2752186010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138668007#,Main spoken language Hausa (finding),First Language Not English,2752187018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161405000#,Main spoken language Russian (finding),First Language Not English,2752764015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161393002#,Main spoken language Czech (finding),First Language Not English,2752909017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161408003#,Main spoken language Swahili (finding),First Language Not English,2753655012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138443000#,World languages (qualifier value),First Language Not English,2753832012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+392704007#,Main spoken language Shona (finding),First Language Not English,2756132016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138683002#,Main spoken language Urdu (finding),First Language Not English,2757835013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161409006#,Main spoken language Sylheti (finding),First Language Not English,2758203018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161406004#,Main spoken language Somali (finding),First Language Not English,2758212016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138669004#,Main spoken language Hindi (finding),First Language Not English,2758259011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161392007#,Main spoken language Cantonese (finding),First Language Not English,2758828015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161173002#,Vietnamese language (qualifier value),First Language Not English,2761827019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138674007#,Main spoken language Polish (finding),First Language Not English,2762516012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138664009#,Main spoken language Czech (finding),First Language Not English,2762517015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+138677000#,Main spoken language Russian (finding),First Language Not English,2763367019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+161174008#,Cantonese Chinese dialect (qualifier value),First Language Not English,2763786013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA
+439736001#,Language for which interpreter is needed,Non-English speaking,2795123016#,1,0,1,7227171000006118#,Language for which interpreter is needed,^ESCTLA722717,NA,2795123016,NA,31
+445075008#,Request for language interpreter service (procedure),Non-English speaking,2869109016#,1,0,1,7302451000006118#,Request for language interpreter service,^ESCTRE730245,NA,2872008014,NA,31
+736790000#,Interpreter booked (finding),Non-English speaking,3524907017#,1,0,1,1761221000000114#,Interpreter booked,9Ns,9Ns..00,3524908010,NA,37
+736790000#,Interpreter booked,Non-English speaking,3524908010#,1,0,1,1761221000000114#,Interpreter booked,9Ns,9Ns..00,3524908010,NA,37
+745664000#,Requires telephone language interpreter service (finding),Non-English speaking,3562878012#,1,0,1,3562879016#,Requires telephone language interpreter service,^ESCT1168495,NA,3562879016,NA,31
+745664000#,Requires telephone language interpreter service,Non-English speaking,3562879016#,1,0,1,3562879016#,Requires telephone language interpreter service,^ESCT1168495,NA,3562879016,NA,31

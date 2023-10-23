@@ -1,0 +1,583 @@
+readcode,term_readcode,category,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode
+13b..#,World languages,First Language Not English,437781010#,World languages,13b,13b..00,297289008,437781010,NA,17,13b..00#
+13b0.#,Vietnamese language,First Language Not English,437977019#,Vietnamese language,13b0,13b0.00,297463006,437977019,NA,17,13b0.00#
+13b1.#,Cantonese Chinese dialect,First Language Not English,438450019#,Cantonese Chinese dialect,13b1,13b1.00,297877001,438450019,NA,17,13b1.00#
+13b2.#,Sylhety,First Language Not English,438054019#,Sylhety,13b2,13b2.00,297530002,438054019,NA,17,13b2.00#
+13b3.#,Creole language,First Language Not English,457311012#,Creole language,13b3,13b3.00,313421002,457311012,NA,17,13b3.00#
+13b4.#,Mirpuri language,First Language Not English,457312017#,Mirpuri language,13b4,13b4.00,313422009,457312017,NA,17,13b4.00#
+13l0.#,Main spoken language Arabic,First Language Not English,460083013#,Main spoken language Arabic,13l0,13l0.00,315566006,460083013,NA,17,13l0.00#
+13l1.#,Main spoken language Bengali,First Language Not English,460084019#,Main spoken language Bengali,13l1,13l1.00,315567002,460084019,NA,17,13l1.00#
+13l2.#,Main spoken language Cantonese,First Language Not English,460085018#,Main spoken language Cantonese,13l2,13l2.00,315568007,460085018,NA,17,13l2.00#
+13l3.#,Main spoken language Czech,First Language Not English,460086017#,Main spoken language Czech,13l3,13l3.00,315569004,460086017,NA,17,13l3.00#
+13l5.#,Main spoken language French,First Language Not English,460088016#,Main spoken language French,13l5,13l5.00,315571004,460088016,NA,17,13l5.00#
+13l6.#,Main spoken language Gujerati,First Language Not English,460089012#,Main spoken language Gujerati,13l6,13l6.00,315572006,460089012,NA,17,13l6.00#
+13l6.#,Main spoken language Gujerati,First Language Not English,2418501000000119#,Main spoken language Gujarati,13l6-1,13l6.11,315572006,2418501000000119,NA,17,13l6.11#
+13l7.#,Main spoken language Hausa,First Language Not English,460092011#,Main spoken language Hausa,13l7,13l7.00,315574007,460092011,NA,17,13l7.00#
+13l8.#,Main spoken language Hindi,First Language Not English,460093018#,Main spoken language Hindi,13l8,13l8.00,315575008,460093018,NA,17,13l8.00#
+13l9.#,Main spoken language Iba,First Language Not English,728541000000119#,Main spoken language Iban,13l9-1,13l9.11,315576009,460094012,NA,17,13l9.11#
+13l9.#,Main spoken language Iba,First Language Not English,460094012#,Main spoken language Iba,13l9,13l9.00,315576009,460094012,NA,17,13l9.00#
+13lA.#,Main spoken language Kutchi,First Language Not English,460095013#,Main spoken language Kutchi,13lA,13lA.00,315577000,460095013,NA,17,13lA.00#
+13lB.#,Main spoken language Mandarin,First Language Not English,460096014#,Main spoken language Mandarin,13lB,13lB.00,315578005,460096014,NA,17,13lB.00#
+13lC.#,Main spoken language Polish,First Language Not English,460097017#,Main spoken language Polish,13lC,13lC.00,315579002,460097017,NA,17,13lC.00#
+13lD.#,Main spoken language Portuguese,First Language Not English,460098010#,Main spoken language Portuguese,13lD,13lD.00,315580004,460098010,NA,17,13lD.00#
+13lE.#,Main spoken language Punjabi,First Language Not English,460099019#,Main spoken language Punjabi,13lE,13lE.00,315581000,460099019,NA,17,13lE.00#
+13lE.#,Main spoken language Punjabi,First Language Not English,684831000000116#,Main spoken language Panjabi,13lE-1,13lE.11,315581000,684831000000116,NA,17,13lE.11#
+13lF.#,Main spoken language Russian,First Language Not English,460100010#,Main spoken language Russian,13lF,13lF.00,315582007,460100010,NA,17,13lF.00#
+13lG.#,Main spoken language Somali,First Language Not English,460101014#,Main spoken language Somali,13lG,13lG.00,315583002,460101014,NA,17,13lG.00#
+13lH.#,Main spoken language Spanish,First Language Not English,460102019#,Main spoken language Spanish,13lH,13lH.00,315584008,460102019,NA,17,13lH.00#
+13lI.#,Main spoken language Swahili,First Language Not English,460103012#,Main spoken language Swahili,13lI,13lI.00,315585009,460103012,NA,17,13lI.00#
+13lJ.#,Main spoken language Sylheti,First Language Not English,460104018#,Main spoken language Sylheti,13lJ,13lJ.00,315586005,460104018,NA,17,13lJ.00#
+13lK.#,Main spoken language Tamil,First Language Not English,460105017#,Main spoken language Tamil,13lK,13lK.00,315587001,460105017,NA,17,13lK.00#
+13lM.#,Main spoken language Yoruba,First Language Not English,460107013#,Main spoken language Yoruba,13lM,13lM.00,315589003,460107013,NA,17,13lM.00#
+13lN.#,Main spoken language Kurdish,First Language Not English,1488808019#,Main spoken language Kurdish,13lN,13lN.00,395109004,1488808019,NA,17,13lN.00#
+13lO.#,Main spoken language Farsi,First Language Not English,676361000000117#,Main spoken language Persian,13lO-1,13lO.11,395108007,676361000000117,NA,17,13lO.11#
+13lO.#,Main spoken language Farsi,First Language Not English,1488807012#,Main spoken language Farsi,13lO,13lO.00,395108007,1488807012,NA,17,13lO.00#
+13lP.#,Main spoken language Shona,First Language Not English,1488809010#,Main spoken language Shona,13lP,13lP.00,395110009,1488809010,NA,17,13lP.00#
+13lQ.#,Main spoken language Italian,First Language Not English,2159242019#,Main spoken language Italian,13lQ,13lQ.00,407642001,2159242019,NA,17,13lQ.00#
+13lR.#,Main spoken language German,First Language Not English,2159243012#,Main spoken language German,13lR,13lR.00,407643006,2159243012,NA,17,13lR.00#
+13lS.#,Main spoken language Albanian,First Language Not English,2159248015#,Main spoken language Albanian,13lS,13lS.00,407648002,2159248015,NA,17,13lS.00#
+13lT.#,Main spoken language Croatian,First Language Not English,2159250011#,Main spoken language Croatian,13lT,13lT.00,407650005,2159250011,NA,17,13lT.00#
+13lT.#,Main spoken language Croatian,First Language Not English,676391000000111#,Main spoken language Serbo-Croatian,13lT-1,13lT.11,407650005,676391000000111,NA,17,13lT.11#
+13lV.#,Main spoken language Greek,First Language Not English,2159252015#,Main spoken language Greek,13lV,13lV.00,407652002,2159252015,NA,17,13lV.00#
+13lW.#,Main spoken language Japanese,First Language Not English,2159254019#,Main spoken language Japanese,13lW,13lW.00,407654001,2159254019,NA,17,13lW.00#
+13lX.#,Main spoken language Korean,First Language Not English,2159255018#,Main spoken language Korean,13lX,13lX.00,407655000,2159255018,NA,17,13lX.00#
+13lY.#,Main spoken language Lithuanian,First Language Not English,2159256017#,Main spoken language Lithuanian,13lY,13lY.00,407656004,2159256017,NA,17,13lY.00#
+13lZ.#,Main spoken language Turkish,First Language Not English,2159257014#,Main spoken language Turkish,13lZ,13lZ.00,407657008,2159257014,NA,17,13lZ.00#
+13la.#,Main spoken language Ukrainian,First Language Not English,2159259012#,Main spoken language Ukrainian,13la,13la.00,407659006,2159259012,NA,17,13la.00#
+13lb.#,Main spoken language Vietnamese,First Language Not English,2159261015#,Main spoken language Vietnamese,13lb,13lb.00,407661002,2159261015,NA,17,13lb.00#
+13lc.#,Main spoken language Akan,First Language Not English,2160075010#,Main spoken language Akan,13lc,13lc.00,408525000,2160075010,NA,17,13lc.00#
+13ld.#,Main spoken language Amharic,First Language Not English,2160057014#,Main spoken language Amharic,13ld,13ld.00,408507007,2160057014,NA,17,13ld.00#
+13le.#,Main spoken language Brawa,First Language Not English,2160063017#,Main spoken language Brawa,13le,13le.00,408513003,2160063017,NA,17,13le.00#
+13lf.#,Main spoken language Dutch,First Language Not English,2160078012#,Main spoken language Dutch,13lf,13lf.00,408528003,2160078012,NA,17,13lf.00#
+13lg.#,Main spoken language Ethiopian,First Language Not English,2160065012#,Main spoken language Ethiopian,13lg,13lg.00,408515005,2160065012,NA,17,13lg.00#
+13lh.#,Main spoken language Flemish,First Language Not English,2160070017#,Main spoken language Flemish,13lh,13lh.00,408520005,2160070017,NA,17,13lh.00#
+13li.#,Main spoken language French Creole,First Language Not English,2160071018#,Main spoken language French Creole,13li,13li.00,408521009,2160071018,NA,17,13li.00#
+13lj.#,Main spoken language Gaelic,First Language Not English,2160072013#,Main spoken language Gaelic,13lj,13lj.00,408522002,2160072013,NA,17,13lj.00#
+13lk.#,Main spoken language Hakka,First Language Not English,2160073015#,Main spoken language Hakka,13lk,13lk.00,408523007,2160073015,NA,17,13lk.00#
+13ll.#,Main spoken language Hebrew,First Language Not English,2160074014#,Main spoken language Hebrew,13ll,13ll.00,408524001,2160074014,NA,17,13ll.00#
+13lm.#,Main spoken language Igbo,First Language Not English,2160064011#,Main spoken language Igbo,13lm,13lm.00,408514009,2160064011,NA,17,13lm.00#
+13ln.#,Main spoken language Lingala,First Language Not English,2160076011#,Main spoken language Lingala,13ln,13ln.00,408526004,2160076011,NA,17,13ln.00#
+13lo.#,Main spoken language Luganda,First Language Not English,2160077019#,Main spoken language Luganda,13lo,13lo.00,408527008,2160077019,NA,17,13lo.00#
+13lp.#,Main spoken language Malayalam,First Language Not English,2160079016#,Main spoken language Malayalam,13lp,13lp.00,408529006,2160079016,NA,17,13lp.00#
+13lq.#,Main spoken language Norwegian,First Language Not English,2160080018#,Main spoken language Norwegian,13lq,13lq.00,408530001,2160080018,NA,17,13lq.00#
+13lr.#,Main spoken language Pashto,First Language Not English,2160081019#,Main spoken language Pashto,13lr,13lr.00,408531002,2160081019,NA,17,13lr.00#
+13ls.#,Main spoken language Patois,First Language Not English,2160084010#,Main spoken language Patois,13ls,13ls.00,408534005,2160084010,NA,17,13ls.00#
+13lt.#,Main spoken language Serbian,First Language Not English,2160085011#,Main spoken language Serbian,13lt,13lt.00,408535006,2160085011,NA,17,13lt.00#
+13lt.#,Main spoken language Serbian,First Language Not English,676371000000112#,Main spoken language Serbo-Croatian,13lt-1,13lt.11,408535006,676371000000112,NA,17,13lt.11#
+13lu.#,Main spoken language Sinhala,First Language Not English,2160068014#,Main spoken language Sinhala,13lu,13lu.00,408518007,2160068014,NA,17,13lu.00#
+13lu.#,Main spoken language Sinhala,First Language Not English,675961000000112#,Main spoken language Sinhalese,13lu-1,13lu.11,408518007,675961000000112,NA,17,13lu.11#
+13lv.#,Main spoken language Swedish,First Language Not English,2160066013#,Main spoken language Swedish,13lv,13lv.00,408516006,2160066013,NA,17,13lv.00#
+13lw.#,Main spoken language Tagalog,First Language Not English,2160067016#,Main spoken language Tagalog,13lw,13lw.00,408517002,2160067016,NA,17,13lw.00#
+13lx.#,Main spoken language Thai,First Language Not English,2160069018#,Main spoken language Thai,13lx,13lx.00,408519004,2160069018,NA,17,13lx.00#
+13ly.#,Main spoken language Tigrinya,First Language Not English,2160083016#,Main spoken language Tigrinya,13ly,13ly.00,408533004,2160083016,NA,17,13ly.00#
+13lz.#,Main spoken language Welsh,First Language Not English,2160082014#,Main spoken language Welsh,13lz,13lz.00,408532009,2160082014,NA,17,13lz.00#
+13u0.#,Main spoken language Bulgarian,First Language Not English,642141000000118#,Main spoken language Bulgarian,13u0,13u0.00,699945003,2987149013,NA,17,13u0.00#
+13u1.#,Main spoken language Romanian,First Language Not English,642161000000117#,Main spoken language Romanian,13u1,13u1.00,698678003,2975385011,NA,17,13u1.00#
+13u2.#,Main spoken language Oromo,First Language Not English,669921000000113#,Main spoken language Oromo,13u2,13u2.00,698916005,2981896013,NA,17,13u2.00#
+13u3.#,Main spoken language Abkhazian,First Language Not English,669981000000114#,Main spoken language Abkhazian,13u3,13u3.00,698651000,2975307018,NA,17,13u3.00#
+13u4.#,Main spoken language Afar,First Language Not English,670041000000119#,Main spoken language Afar,13u4,13u4.00,698652007,2975447012,NA,17,13u4.00#
+13u5.#,Main spoken language Afrikaans,First Language Not English,670101000000116#,Main spoken language Afrikaans,13u5,13u5.00,698653002,2975452019,NA,17,13u5.00#
+13u6.#,Main spoken language Armenian,First Language Not English,670171000000112#,Main spoken language Armenian,13u6,13u6.00,698885002,2981897016,NA,17,13u6.00#
+13u7.#,Main spoken language Assamese,First Language Not English,670241000000111#,Main spoken language Assamese,13u7,13u7.00,698886001,2981849017,NA,17,13u7.00#
+13u8.#,Main spoken language Aymara,First Language Not English,670311000000117#,Main spoken language Aymara,13u8,13u8.00,698887005,2981945010,NA,17,13u8.00#
+13u9.#,Main spoken language Azerbaijani,First Language Not English,670401000000112#,Main spoken language Azerbaijani,13u9,13u9.00,698888000,2981640015,NA,17,13u9.00#
+13uA.#,Main spoken language Bashkir,First Language Not English,670461000000111#,Main spoken language Bashkir,13uA,13uA.00,698889008,2981741012,NA,17,13uA.00#
+13uB.#,Main spoken language Basque,First Language Not English,670521000000119#,Main spoken language Basque,13uB,13uB.00,698654008,2975267018,NA,17,13uB.00#
+13uC.#,Main spoken language Dzongkha,First Language Not English,670581000000118#,Main spoken language Dzongkha,13uC,13uC.00,698895009,2981629011,NA,17,13uC.00#
+13uD.#,Main spoken language Bihari,First Language Not English,670661000000114#,Main spoken language Bihari,13uD,13uD.00,698656005,2975117015,NA,17,13uD.00#
+13uE.#,Main spoken language Bislama,First Language Not English,670721000000112#,Main spoken language Bislama,13uE,13uE.00,698890004,2981914011,NA,17,13uE.00#
+13uF.#,Main spoken language Breton,First Language Not English,670781000000113#,Main spoken language Breton,13uF,13uF.00,698657001,2975384010,NA,17,13uF.00#
+13uG.#,Main spoken language Burmese,First Language Not English,670851000000110#,Main spoken language Burmese,13uG,13uG.00,698891000,2981788011,NA,17,13uG.00#
+13uH.#,Main spoken language Belarusian,First Language Not English,670911000000116#,Main spoken language Belarusian,13uH,13uH.00,698655009,2975319014,NA,17,13uH.00#
+13uJ.#,Main spoken language Central Khmer,First Language Not English,670971000000114#,Main spoken language Central Khmer,13uJ,13uJ.00,698893002,2981942013,NA,17,13uJ.00#
+13uK.#,Main spoken language Catalan,First Language Not English,671031000000118#,Main spoken language Catalan,13uK,13uK.00,698892007,2981517012,NA,17,13uK.00#
+13uL.#,Main spoken language Slovak,First Language Not English,662801000000116#,Main spoken language Slovak,13uL,13uL.00,698920009,2981854014,NA,17,13uL.00#
+13uM.#,Main spoken language Corsican,First Language Not English,671171000000117#,Main spoken language Corsican,13uM,13uM.00,698658006,2975431010,NA,17,13uM.00#
+13uN.#,Main spoken language Danish,First Language Not English,671231000000110#,Main spoken language Danish,13uN,13uN.00,698894008,2981631019,NA,17,13uN.00#
+13uP.#,Main spoken language Esperanto,First Language Not English,671291000000111#,Main spoken language Esperanto,13uP,13uP.00,698896005,2981742017,NA,17,13uP.00#
+13uQ.#,Main spoken language Estonian,First Language Not English,671351000000111#,Main spoken language Estonian,13uQ,13uQ.00,698659003,2975382014,NA,17,13uQ.00#
+13uR.#,Main spoken language Faeroese,First Language Not English,671411000000115#,Main spoken language Faeroese,13uR,13uR.00,698660008,2641521000000110,NA,17,13uR.00#
+13uS.#,Main spoken language Fijian,First Language Not English,671491000000112#,Main spoken language Fijian,13uS,13uS.00,698897001,2981714019,NA,17,13uS.00#
+13uT.#,Main spoken language Finnish,First Language Not English,2533545014#,Main spoken language Finnish,13uT,13uT.00,414640006,2533545014,NA,17,13uT.00#
+13uV.#,Main spoken language Frisian,First Language Not English,671631000000113#,Main spoken language Frisian,13uV,13uV.00,698661007,2975403018,NA,17,13uV.00#
+13uW.#,Main spoken language Galician,First Language Not English,671691000000114#,Main spoken language Galician,13uW,13uW.00,698662000,2975144013,NA,17,13uW.00#
+13uX.#,Main spoken language Georgian,First Language Not English,671751000000110#,Main spoken language Georgian,13uX,13uX.00,698898006,2981763015,NA,17,13uX.00#
+13uY.#,Main spoken language Kalaallisut,First Language Not English,671811000000118#,Main spoken language Greenlandic,13uY-1,13uY.11,698904004,2337511000000119,NA,17,13uY.11#
+13uY.#,Main spoken language Kalaallisut,First Language Not English,676151000000117#,Main spoken language Kalaallisut,13uY,13uY.00,698904004,2981813018,NA,17,13uY.00#
+13uZ.#,Main spoken language Guarani,First Language Not English,671871000000111#,Main spoken language Guarani,13uZ,13uZ.00,698899003,2981531012,NA,17,13uZ.00#
+13ua.#,Main spoken language Hungarian,First Language Not English,671931000000117#,Main spoken language Hungarian,13ua,13ua.00,698900008,2981558017,NA,17,13ua.00#
+13ub.#,Main spoken language Icelandic,First Language Not English,671991000000116#,Main spoken language Icelandic,13ub,13ub.00,698663005,2975259014,NA,17,13ub.00#
+13uc.#,Main spoken language Indonesian,First Language Not English,672051000000117#,Main spoken language Indonesian,13uc,13uc.00,698901007,2981732019,NA,17,13uc.00#
+13ud.#,Main spoken language Interlingua,First Language Not English,672111000000115#,Main spoken language Interlingua,13ud,13ud.00,698664004,2975348015,NA,17,13ud.00#
+13ue.#,Main spoken language Interlingue,First Language Not English,672171000000113#,Main spoken language Interlingue,13ue,13ue.00,698902000,2981835014,NA,17,13ue.00#
+13uf.#,Main spoken language Inupiaq,First Language Not English,672231000000115#,Main spoken language Inupiaq,13uf,13uf.00,698666002,2975375010,NA,17,13uf.00#
+13ug.#,Main spoken language Inuktitut,First Language Not English,672291000000119#,Main spoken language Inuktitut,13ug,13ug.00,698665003,2975193015,NA,17,13ug.00#
+13uh.#,Main spoken language Irish,First Language Not English,672351000000119#,Main spoken language Irish,13uh,13uh.00,698667006,2975226011,NA,17,13uh.00#
+13ui.#,Main spoken language Javanese,First Language Not English,672411000000110#,Main spoken language Javanese,13ui,13ui.00,698903005,2981729017,NA,17,13ui.00#
+13uj.#,Main spoken language Kannada,First Language Not English,672471000000117#,Main spoken language Kannada,13uj,13uj.00,698905003,2981752018,NA,17,13uj.00#
+13uk.#,Main spoken language Kashmiri,First Language Not English,672531000000118#,Main spoken language Kashmiri,13uk,13uk.00,698906002,2981690016,NA,17,13uk.00#
+13ul.#,Main spoken language Kazakh,First Language Not English,672591000000117#,Main spoken language Kazakh,13ul,13ul.00,698668001,2975247010,NA,17,13ul.00#
+13um.#,Main spoken language Kinyarwanda,First Language Not English,672651000000112#,Main spoken language Kinyarwanda,13um,13um.00,698907006,2981964016,NA,17,13um.00#
+13un.#,Main spoken language Kirghiz,First Language Not English,672711000000119#,Main spoken language Kirghiz,13un,13un.00,698908001,2981824016,NA,17,13un.00#
+13uo.#,Main spoken language Rundi,First Language Not English,672771000000112#,Main spoken language Rundi,13uo,13uo.00,698679006,2975387015,NA,17,13uo.00#
+13up.#,Main spoken language Lao,First Language Not English,672831000000116#,Main spoken language Lao,13up,13up.00,698669009,2975273017,NA,17,13up.00#
+13uq.#,Main spoken language Bamun,First Language Not English,1166921000000115#,Main spoken language Bamun,13uq,13uq.00,609092003,2958733012,NA,17,13uq.00#
+13uq.#,Main spoken language Bamun,First Language Not English,1166931000000118#,Main spoken language Bamoun,13uq-1,13uq.11,609092003,2958733012,NA,17,13uq.11#
+13ur.#,Main spoken language Latvian,First Language Not English,672951000000118#,Main spoken language Latvian,13ur,13ur.00,698909009,2981677011,NA,17,13ur.00#
+13us.#,Main spoken language Macedonian,First Language Not English,673011000000110#,Main spoken language Macedonian,13us,13us.00,698670005,2975266010,NA,17,13us.00#
+13ut.#,Main spoken language Malagasy,First Language Not English,673071000000117#,Main spoken language Malagasy,13ut,13ut.00,698671009,2975199016,NA,17,13ut.00#
+13uu.#,Main spoken language Malay,First Language Not English,673131000000115#,Main spoken language Malay,13uu,13uu.00,698672002,2975473019,NA,17,13uu.00#
+13uv.#,Main spoken language Maltese,First Language Not English,673191000000119#,Main spoken language Maltese,13uv,13uv.00,698910004,2981916013,NA,17,13uv.00#
+13uw.#,Main spoken language Maori,First Language Not English,673251000000116#,Main spoken language Maori,13uw,13uw.00,698673007,2975304013,NA,17,13uw.00#
+13ux.#,Main spoken language Marathi,First Language Not English,673311000000113#,Main spoken language Marathi,13ux,13ux.00,698674001,2975414015,NA,17,13ux.00#
+13uy.#,Main spoken language Moldavian,First Language Not English,673371000000115#,Main spoken language Moldavian,13uy,13uy.00,698911000,2981527018,NA,17,13uy.00#
+13uz.#,Main spoken language Mongolian,First Language Not English,673431000000112#,Main spoken language Mongolian,13uz,13uz.00,698675000,2975112014,NA,17,13uz.00#
+13w0.#,Main spoken language Nauru,First Language Not English,673491000000113#,Main spoken language Nauru,13w0,13w0.00,698912007,2981717014,NA,17,13w0.00#
+13w1.#,Main spoken language Nepali,First Language Not English,673551000000118#,Main spoken language Nepali,13w1,13w1.00,698676004,2975344018,NA,17,13w1.00#
+13w2.#,Main spoken language Occitan,First Language Not English,673611000000118#,Main spoken language Occitan,13w2,13w2.00,698914008,2981578013,NA,17,13w2.00#
+13w3.#,Main spoken language Oriya,First Language Not English,673671000000111#,Main spoken language Oriya,13w3,13w3.00,698915009,2981758019,NA,17,13w3.00#
+13w4.#,Main spoken language Filipino,First Language Not English,1118721000000116#,Main spoken language Filipino,13w4,13w4.00,503511000000100,1118721000000116,NA,17,13w4.00#
+13w5.#,Main spoken language Quechua,First Language Not English,673791000000115#,Main spoken language Quechua,13w5,13w5.00,698677008,2975360019,NA,17,13w5.00#
+13w6.#,Main spoken language Romansh,First Language Not English,673851000000115#,Main spoken language Romansh,13w6,13w6.00,698917001,2981775013,NA,17,13w6.00#
+13w7.#,Main spoken language Samoan,First Language Not English,673911000000114#,Main spoken language Samoan,13w7,13w7.00,698680009,2975155013,NA,17,13w7.00#
+13w8.#,Main spoken language Sango,First Language Not English,673971000000116#,Main spoken language Sango,13w8,13w8.00,698918006,2981667014,NA,17,13w8.00#
+13w9.#,Main spoken language Hindko,First Language Not English,1138281000000117#,Main spoken language Hindko,13w9,13w9.00,511841000000102,1138281000000117,NA,17,13w9.00#
+13wA.#,Main spoken language Dari,First Language Not English,1661561000000112#,Main spoken language Dari,13wA,13wA.00,609093008,2959107015,NA,17,13wA.00#
+13wB.#,Main spoken language Southern Sotho,First Language Not English,674151000000112#,Main spoken language Southern Sotho,13wB,13wB.00,698922001,2981794015,NA,17,13wB.00#
+13wC.#,Main spoken language Tswana,First Language Not English,674211000000117#,Main spoken language Tswana,13wC,13wC.00,698684000,2975350011,NA,17,13wC.00#
+13wD.#,Main spoken language Sindhi,First Language Not English,674271000000110#,Main spoken language Sindhi,13wD,13wD.00,698919003,2981509016,NA,17,13wD.00#
+13wE.#,Main spoken language Ndebele,First Language Not English,662861000000117#,Main spoken language Ndebele,13wE,13wE.00,698913002,2981656013,NA,17,13wE.00#
+13wF.#,Main spoken language Swati,First Language Not English,674391000000118#,Main spoken language Swati,13wF,13wF.00,698923006,2981802016,NA,17,13wF.00#
+13wG.#,Main spoken language Slovenian,First Language Not English,674451000000119#,Main spoken language Slovenian,13wG,13wG.00,698921008,2981971014,NA,17,13wG.00#
+13wH.#,Main spoken language Sundanese,First Language Not English,674511000000119#,Main spoken language Sundanese,13wH,13wH.00,698681008,2975219011,NA,17,13wH.00#
+13wJ.#,Main spoken language Tajik,First Language Not English,674571000000112#,Main spoken language Tajik,13wJ,13wJ.00,698682001,2975433013,NA,17,13wJ.00#
+13wK.#,Main spoken language Tatar,First Language Not English,674631000000111#,Main spoken language Tatar,13wK,13wK.00,698924000,2981924015,NA,17,13wK.00#
+13wL.#,Main spoken language Telugu,First Language Not English,674691000000112#,Main spoken language Telugu,13wL,13wL.00,698925004,2981589018,NA,17,13wL.00#
+13wM.#,Main spoken language Tibetan,First Language Not English,674751000000113#,Main spoken language Tibetan,13wM,13wM.00,698926003,2981643018,NA,17,13wM.00#
+13wN.#,Main spoken language Tongan,First Language Not English,674811000000116#,Main spoken language Tongan,13wN,13wN.00,698927007,2981592019,NA,17,13wN.00#
+13wP.#,Main spoken language Tsonga,First Language Not English,674871000000114#,Main spoken language Tsonga,13wP,13wP.00,698683006,2975423017,NA,17,13wP.00#
+13wQ.#,Main spoken language Turkmen,First Language Not English,674931000000115#,Main spoken language Turkmen,13wQ,13wQ.00,698928002,2981671012,NA,17,13wQ.00#
+13wR.#,Main spoken language Twi,First Language Not English,674991000000119#,Main spoken language Twi,13wR,13wR.00,698685004,2975318018,NA,17,13wR.00#
+13wS.#,Main spoken language Uighur,First Language Not English,675051000000110#,Main spoken language Uighur,13wS,13wS.00,698929005,2981890019,NA,17,13wS.00#
+13wT.#,Main spoken language Uzbek,First Language Not English,675111000000112#,Main spoken language Uzbek,13wT,13wT.00,698930000,2981753011,NA,17,13wT.00#
+13wV.#,Main spoken language Tetum,First Language Not English,1658291000000118#,Main spoken language Tetum,13wV,13wV.00,609095001,2959017010,NA,17,13wV.00#
+13wW.#,Main spoken language Wolof,First Language Not English,675231000000112#,Main spoken language Wolof,13wW,13wW.00,698932008,2981524013,NA,17,13wW.00#
+13wX.#,Main spoken language Xhosa,First Language Not English,675291000000113#,Main spoken language Xhosa,13wX,13wX.00,698933003,2981571019,NA,17,13wX.00#
+13wY.#,Main spoken language Yiddish,First Language Not English,675351000000113#,Main spoken language Yiddish,13wY,13wY.00,698934009,2981587016,NA,17,13wY.00#
+13wZ.#,Main spoken language Zhuang,First Language Not English,675411000000117#,Main spoken language Zhuang,13wZ,13wZ.00,698935005,2981612013,NA,17,13wZ.00#
+13wa.#,Main spoken language Zulu,First Language Not English,675471000000110#,Main spoken language Zulu,13wa,13wa.00,698936006,2981528011,NA,17,13wa.00#
+13wb.#,Main spoken language Konkani,First Language Not English,1658371000000110#,Main spoken language Konkani,13wb,13wb.00,609094002,2958096014,NA,17,13wb.00#
+13wc.#,Main spoken language Aragonese,First Language Not English,2112371000000116#,Main spoken language Aragonese,13wc,13wc.00,809341000000106,2112371000000116,NA,17,13wc.00#
+13wd.#,Main spoken language Romany,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,13wd.#
+13Z69#,First language not English,First Language Not English,2339911000000119#,First language not English,13Z69,13Z6900,910241000000102,2339911000000119,NA,17,13Z6900#
+13Z67#,Speaks English well,Speaks English,251255010#,Speaks English well,13Z67,13Z6700,161147007,251255010,NA,17,13Z6700#
+13l4.#,Main spoken language English,Speaks English,460087014#,Main spoken language English,13l4,13l4.00,315570003,460087014,NA,17,13l4.00#
+13ZA0#,Does not speak English,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,13ZA0#
+13Z68#,Speaks English poorly,Non-English speaking,251256011#,Speaks English poorly,13Z68,13Z6800,161148002,251256011,NA,17,13Z6800#
+XaPGb#,Main spoken language Xhosa,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGb#
+XaPGX#,Main spoken language Uighur,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGX#
+XaPGJ#,Main spoken language Tswana,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGJ#
+XaPGP#,Main spoken language Tajik,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGP#
+XaPGV#,Main spoken language Turkmen,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGV#
+XaPGT#,Main spoken language Tongan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGT#
+XaPGR#,Main spoken language Telugu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGR#
+XaPGW#,Main spoken language Twi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGW#
+XaPGQ#,Main spoken language Tatar,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGQ#
+XaPGU#,Main spoken language Tsonga,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGU#
+XaPGa#,Main spoken language Wolof,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGa#
+XaPGS#,Main spoken language Tibetan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGS#
+XaG6A#,Main spoken language Urdu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG6A#
+XaG69#,Main spoken language Tamil,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG69#
+XaG6B#,Main spoken language Yoruba,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG6B#
+XaJDR#,Main spoken language Ukrainian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDR#
+XaJDQ#,Main spoken language Turkish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDQ#
+XaJPB#,Main spoken language Thai,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJPB#
+XaJPA#,Main spoken language Tagalog,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJPA#
+XaJPD#,Main spoken language Welsh,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJPD#
+XaJPC#,Main spoken language Tigrinya,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJPC#
+XaJDS#,Main spoken language Vietnamese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDS#
+XaPGc#,Main spoken language Yiddish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGc#
+XaPGY#,Main spoken language Uzbek,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGY#
+XaPGd#,Main spoken language Zhuang,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGd#
+XaPGe#,Main spoken language Zulu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGe#
+XaX3X#,Main spoken language Tetum,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaX3X#
+Xacg0#,Main spoken language Western Frisian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacg0#
+Xackw#,Main spoken language Tahitian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackw#
+Xacky#,Main spoken language Venda,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacky#
+Xackz#,Main spoken language Volapuk,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackz#
+Xacl0#,Main spoken language Walloon,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacl0#
+XaedX#,Main spoken language Romany,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaedX#
+XaPGD#,Main spoken language Romansh,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGD#
+XaPG7#,Main spoken language Nauru,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG7#
+XaPF7#,Main spoken language Oromo,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPF7#
+XaPG9#,Main spoken language Occitan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG9#
+XaPG8#,Main spoken language Nepali,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG8#
+XaPGA#,Main spoken language Oriya,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGA#
+XaPGF#,Main spoken language Sango,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGF#
+XaPGC#,Main spoken language Quechua,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGC#
+XaPGE#,Main spoken language Samoan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGE#
+XaPGO#,Main spoken language Sundanese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGO#
+XaPGK#,Main spoken language Sindhi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGK#
+XaPGI#,Main spoken language Southern Sotho,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGI#
+XaPGM#,Main spoken language Swati,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGM#
+XaPGN#,Main spoken language Slovenian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPGN#
+XaG64#,Main spoken language Russian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG64#
+XaP9z#,Main spoken language Slovak,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaP9z#
+XaG63#,Main spoken language Punjabi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG63#
+XaP49#,Main spoken language Romanian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaP49#
+XaG61#,Main spoken language Polish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG61#
+XaG66#,Main spoken language Spanish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG66#
+XaG65#,Main spoken language Somali,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG65#
+XaG68#,Main spoken language Sylheti,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG68#
+XaG62#,Main spoken language Portuguese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG62#
+XaJP9#,Main spoken language Swedish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP9#
+XaJP5#,Main spoken language Pashto,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP5#
+XaJP7#,Main spoken language Serbian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP7#
+XaPA2#,Main spoken language Ndebele,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPA2#
+XaIpt#,Main spoken language Shona,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaIpt#
+XaJP8#,Main spoken language Sinhala,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP8#
+XaPFv#,Main spoken language Rundi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFv#
+XaG67#,Main spoken language Swahili,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG67#
+XaJP4#,Main spoken language Norwegian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP4#
+XaJP6#,Main spoken language Patois,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP6#
+XaWQW#,Main spoken language Nyanja,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaWQW#
+Xacg2#,Main spoken language Scottish Gaelic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacg2#
+XackS#,Main spoken language Nuosu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackS#
+Xacke#,Main spoken language Navajo,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacke#
+Xackf#,Main spoken language South Ndebele,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackf#
+Xackg#,Main spoken language North Ndebele,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackg#
+Xackh#,Main spoken language Ndonga,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackh#
+Xackj#,Main spoken language Norwegian Nynorsk,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackj#
+Xackk#,Main spoken language Norwegian Bokmal,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackk#
+Xackm#,Main spoken language Ojibwa,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackm#
+Xacko#,Main spoken language Ossetian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacko#
+Xackq#,Main spoken language Pali,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackq#
+Xackr#,Main spoken language Pushto,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackr#
+Xacks#,Main spoken language Sanskrit,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacks#
+Xackt#,Main spoken language Northern Sami,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackt#
+Xacku#,Main spoken language Sardinian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacku#
+XaPFj#,Main spoken language Indonesian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFj#
+XaPFf#,Main spoken language Kalaallisut,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFf#
+XaPFd#,Main spoken language Galician,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFd#
+XaPFe#,Main spoken language Georgian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFe#
+XaPFg#,Main spoken language Guarani,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFg#
+XaPFh#,Main spoken language Hungarian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFh#
+XaPFi#,Main spoken language Icelandic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFi#
+XaPFw#,Main spoken language Lao,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFw#
+XaPFk#,Main spoken language Interlingua,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFk#
+XaPFl#,Main spoken language Interlingue,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFl#
+XaPFo#,Main spoken language Irish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFo#
+XaPFn#,Main spoken language Inuktitut,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFn#
+XaPFp#,Main spoken language Javanese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFp#
+XaPFm#,Main spoken language Inupiaq,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFm#
+XaPFs#,Main spoken language Kazakh,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFs#
+XaPFr#,Main spoken language Kashmiri,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFr#
+XaPG1#,Main spoken language Malay,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG1#
+XaPFt#,Main spoken language Kinyarwanda,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFt#
+XaPFq#,Main spoken language Kannada,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFq#
+XaPFy#,Main spoken language Latvian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFy#
+XaPG0#,Main spoken language Malagasy,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG0#
+XaG5v#,Main spoken language Gujarati,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5v#
+XaPFz#,Main spoken language Macedonian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFz#
+XaPG3#,Main spoken language Maori,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG3#
+XaG5x#,Main spoken language Hindi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5x#
+XaG5y#,Main spoken language Iban,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5y#
+XaG5z#,Main spoken language Kutchi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5z#
+XaG5w#,Main spoken language Hausa,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5w#
+XaPFu#,Main spoken language Kirghiz,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFu#
+XaIps#,Main spoken language Kurdish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaIps#
+XaG60#,Main spoken language Mandarin,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG60#
+XaJDO#,Main spoken language Korean,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDO#
+XaJOx#,Main spoken language Gaelic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOx#
+XaJOz#,Main spoken language Hebrew,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOz#
+XaJP1#,Main spoken language Lingala,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP1#
+XaJDM#,Main spoken language Greek,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDM#
+XaJP3#,Main spoken language Malayalam,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP3#
+XaJD5#,Main spoken language Italian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJD5#
+XaJDN#,Main spoken language Japanese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDN#
+XaJDP#,Main spoken language Lithuanian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDP#
+XaJD6#,Main spoken language German,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJD6#
+XaJP2#,Main spoken language Luganda,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP2#
+XaJOy#,Main spoken language Hakka,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOy#
+XaJP0#,Main spoken language Igbo,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJP0#
+XaPG2#,Main spoken language Maltese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG2#
+XaPG4#,Main spoken language Marathi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG4#
+XaPG5#,Main spoken language Moldavian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPG5#
+XaQht#,Main spoken language Hindko,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaQht#
+XaWQU#,Main spoken language Kikuyu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaWQU#
+XaX3Z#,Main spoken language Konkani,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaX3Z#
+Xacg3#,Main spoken language Manx,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacg3#
+Xacg5#,Main spoken language Haitian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacg5#
+XackP#,Main spoken language Herero,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackP#
+XackQ#,Main spoken language Hiri Motu,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackQ#
+XackR#,Main spoken language Ido,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackR#
+XackT#,Main spoken language Kanuri,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackT#
+XackU#,Main spoken language Komi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackU#
+XackV#,Main spoken language Kongo,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackV#
+XackW#,Main spoken language Kuanyama,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackW#
+XackX#,Main spoken language Latin,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackX#
+XackY#,Main spoken language Limburgan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackY#
+XackZ#,Main spoken language Luxembourgish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XackZ#
+Xacka#,Main spoken language Luba-Katanga,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacka#
+Xackc#,Main spoken language Marshallese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xackc#
+XaPFI#,Main spoken language Dzongkha,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFI#
+XaG5p#,Main spoken language Arabic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5p#
+XaPF8#,Main spoken language Abkhaz,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPF8#
+XaPF9#,Main spoken language Afar,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPF9#
+XaPFH#,Main spoken language Basque,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFH#
+XaPFF#,Main spoken language Azerbaijani,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFF#
+XaPFG#,Main spoken language Bashkir,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFG#
+XaPFA#,Main spoken language Afrikaans,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFA#
+XaPFD#,Main spoken language Aymara,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFD#
+XaPFN#,Main spoken language Burmese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFN#
+XaPFP#,Main spoken language Central Khmer,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFP#
+XaPFB#,Main spoken language Armenian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFB#
+XaPFC#,Main spoken language Assamese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFC#
+XaPFK#,Main spoken language Bihari,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFK#
+XaPFL#,Main spoken language Bislama,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFL#
+XaPFM#,Main spoken language Breton,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFM#
+XaPFO#,Main spoken language Belarusian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFO#
+XaPFQ#,Main spoken language Catalan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFQ#
+XaPFU#,Main spoken language Danish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFU#
+XaPFT#,Main spoken language Corsican,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFT#
+XaPFW#,Main spoken language Estonian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFW#
+XaPFV#,Main spoken language Esperanto,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFV#
+XaPFZ#,Main spoken language Fijian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFZ#
+XaPFX#,Main spoken language Faeroese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFX#
+XaPFc#,Main spoken language Frisian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaPFc#
+XaG5r#,Main spoken language Cantonese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5r#
+XaG5u#,Main spoken language French,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5u#
+XaG5s#,Main spoken language Czech,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5s#
+XaG5q#,Main spoken language Bengali,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5q#
+XaJOr#,Main spoken language Amharic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOr#
+XaJOt#,Main spoken language Dutch,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOt#
+XaJOv#,Main spoken language Flemish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOv#
+XaJDL#,Main spoken language Croatian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDL#
+XaP48#,Main spoken language Bulgarian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaP48#
+XaJOs#,Main spoken language Brawa,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOs#
+XaKIL#,Main spoken language Finnish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaKIL#
+XaJOq#,Main spoken language Akan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOq#
+XaJOw#,Main spoken language French Creole,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOw#
+XaJOu#,Main spoken language Ethiopian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJOu#
+XaJDK#,Main spoken language Albanian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaJDK#
+XaQHz#,Main spoken language Filipino,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaQHz#
+XaRAe#,Main spoken language Bamun,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaRAe#
+XaWQV#,Main spoken language Fulani,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaWQV#
+XaX4p#,Main spoken language Dari,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaX4p#
+XaYWG#,Main spoken language Aragonese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaYWG#
+XaIpr#,Main spoken language Farsi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XaIpr#
+Xacfm#,Main spoken language Avaric,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfm#
+Xacfn#,Main spoken language Avestan,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfn#
+Xacfo#,Main spoken language Bambara,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfo#
+Xacfp#,Main spoken language Bosnian,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfp#
+Xacfq#,Main spoken language Chamorro,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfq#
+Xacfr#,Main spoken language Chechen,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfr#
+Xacfs#,Main spoken language Church Slavic,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfs#
+Xacft#,Main spoken language Chuvash,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacft#
+Xacfu#,Main spoken language Cornish,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfu#
+Xacfv#,Main spoken language Cree,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfv#
+Xacfw#,Main spoken language Dhivehi,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfw#
+Xacfy#,Main spoken language Ewe,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacfy#
+Xacl1#,Main spoken language Chinese,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,Xacl1#
+XabBR#,First language not English,First Language Not English,NA#,NA,NA,NA,NA,NA,NA,NA,XabBR#
+Xaeu9#,Does not speak English,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xaeu9#
+XaI8W#,Need for interpreter,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaI8W#
+XaI8X#,Interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaI8X#
+XaLSx#,Interpreter needed - Turkish,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSx#
+XaLSr#,Interpreter needed - Tamil,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSr#
+XaLSp#,Interpreter needed - Tagalog,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSp#
+XaLSt#,Interpreter needed - Thai,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSt#
+XaLT1#,Interpreter needed - Welsh,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLT1#
+XaLSv#,Interpreter needed - Tigrinya,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSv#
+XaLSy#,Interpreter needed - Ukrainian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSy#
+XaLT0#,Interpreter needed - Vietnamese,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLT0#
+XaLSz#,Interpreter needed - Urdu,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSz#
+XaLT2#,Interpreter needed - Yoruba,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLT2#
+XaPLo#,Zulu language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLo#
+XaPLr#,Zhuang language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLr#
+XaPLu#,Uzbek language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLu#
+XaPLw#,Yiddish language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLw#
+XaPM2#,Tibetan language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPM2#
+XaPM4#,Tsonga language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPM4#
+XaPM6#,Tatar language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPM6#
+XaPMC#,Twi language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMC#
+XaPME#,Telugu language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPME#
+XaPMO#,Tongan language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMO#
+XaPMV#,Turkmen language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMV#
+XaPMa#,Tajik language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMa#
+XaPMk#,Tswana language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMk#
+XaPMw#,Uighur language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMw#
+XaPND#,Xhosa language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPND#
+XachH#,Western Frisian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachH#
+Xachw#,Tahitian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachw#
+Xachy#,Venda interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachy#
+Xachz#,Volapuk interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachz#
+Xaci0#,Walloon interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xaci0#
+Xaci1#,Wolof interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xaci1#
+XaeuB#,Romany language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaeuB#
+XaPA3#,Ndebele language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPA3#
+XaLSM#,Interpreter needed - Norwegian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSM#
+XaLSU#,Interpreter needed - Polish,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSU#
+XaLSm#,Interpreter needed - Sylheti,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSm#
+XaLSc#,Interpreter needed - Serbian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSc#
+XaLSb#,Interpreter needed - Russian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSb#
+XaLSV#,Interpreter needed - Portuguese,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSV#
+XaLSa#,Interpreter needed - Panjabi,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSa#
+XaLSj#,Interpreter needed - Swedish,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSj#
+XaLSd#,Interpreter needed - Shona,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSd#
+XaLSg#,Interpreter needed - Somali,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSg#
+XaLSf#,Interpreter needed - Sinhala,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSf#
+XaLSh#,Interpreter needed - Spanish,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSh#
+XaPA0#,Slovak language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPA0#
+XaPC4#,Romanian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPC4#
+XaPLv#,Oromo language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLv#
+XaPLy#,Rundi language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLy#
+XaLSN#,Pushto interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSN#
+XaLSi#,Interpreter needed - Swahili,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSi#
+XaPMX#,Slovenian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMX#
+XaPMY#,Swati language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMY#
+XaPMZ#,Southern Sotho language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMZ#
+XaPMe#,Sundanese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMe#
+XaPMg#,Samoan language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMg#
+XaPMn#,Quechua language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMn#
+XaPMp#,Sango language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMp#
+XaPMz#,Oriya language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPMz#
+XaPN1#,Nepali language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPN1#
+XaPN5#,Occitan language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPN5#
+XaPN7#,Nauru language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPN7#
+XaPNC#,Romansh language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPNC#
+XachJ#,Scottish Gaelic interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachJ#
+XachN#,Serbo-Croatian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachN#
+XachR#,Nuosu interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachR#
+Xache#,Navajo interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xache#
+Xachf#,South Ndebele interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachf#
+Xachg#,North Ndebele interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachg#
+Xachh#,Ndonga interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachh#
+Xachj#,Norwegian Nynorsk interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachj#
+Xachk#,Norwegian Bokmal interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachk#
+Xachl#,Nyanja interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachl#
+Xachn#,Ojibwa interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachn#
+Xachp#,Ossetian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachp#
+Xachq#,Pali interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachq#
+Xachs#,Sanskrit interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachs#
+Xacht#,Northern Sami interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xacht#
+Xachu#,Sardinian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachu#
+XaLRO#,Interpreter needed - Italian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRO#
+XaLSJ#,Interpreter needed - Ganda,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSJ#
+XaLRt#,Interpreter needed - Hindi,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRt#
+XaLRp#,Interpreter needed - Hakka,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRp#
+XaLRg#,Interpreter needed - Igbo,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRg#
+XaLRm#,Interpreter needed - German,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRm#
+XaLRo#,Interpreter needed - Gujarati,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRo#
+XaLRn#,Interpreter needed - Greek,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRn#
+XaLRr#,Interpreter needed - Hausa,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRr#
+XaLRs#,Interpreter needed - Hebrew,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRs#
+XaLRz#,Interpreter needed - Lingala,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRz#
+XaLRx#,Interpreter needed - Korean,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRx#
+XaLRw#,Interpreter needed - Japanese,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRw#
+XaLSL#,Interpreter needed - Mandarin,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSL#
+XaLRy#,Interpreter needed - Kurdish,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRy#
+XaLS0#,Interpreter needed - Lithuanian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLS0#
+XaLSK#,Interpreter needed - Malayalam,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLSK#
+XaPIr#,Mongolian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIr#
+XaPIs#,Moldavian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIs#
+XaPIt#,Marathi language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIt#
+XaPIu#,Maltese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIu#
+XaPIv#,Luganda language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIv#
+XaPIy#,Kirghiz language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIy#
+XaPIz#,Iban language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIz#
+XaPJ0#,Maori language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ0#
+XaPJ2#,Macedonian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ2#
+XaPJ4#,Malagasy language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ4#
+XaPJ8#,Kinyarwanda language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ8#
+XaPJ9#,Malay language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ9#
+XaPJA#,Kashmiri language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJA#
+XaPJB#,Kazakh language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJB#
+XaPJC#,Inupiaq language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJC#
+XaPJ6#,Latvian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJ6#
+XaPJD#,Javanese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJD#
+XaPJE#,Inuktitut language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJE#
+XaPJF#,Interlingue language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJF#
+XaPJT#,Lao language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJT#
+XaPJU#,Icelandic language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJU#
+XaPJV#,Hungarian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPJV#
+XaPLD#,Kalaallisut language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLD#
+XaPLH#,Indonesian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLH#
+XaPKU#,Guarani language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPKU#
+XaPKV#,Georgian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPKV#
+XaPL7#,Galician language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPL7#
+XachK#,Irish interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachK#
+XachL#,Manx interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachL#
+XachM#,Haitian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachM#
+XachO#,Herero interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachO#
+XachP#,Hiri Motu interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachP#
+XachQ#,Ido interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachQ#
+XachS#,Interlingua interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachS#
+XachT#,Kanuri interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachT#
+XachU#,Kikuyu interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachU#
+XachV#,Komi interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachV#
+XachW#,Kongo interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachW#
+XachX#,Kuanyama interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachX#
+XachY#,Latin interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachY#
+XachZ#,Limburgan interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachZ#
+Xacha#,Luxembourgish interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xacha#
+Xachb#,Luba-Katanga interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachb#
+Xachc#,Marshallese interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xachc#
+XaLRS#,Interpreter needed - Dutch,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRS#
+XaLRH#,Interpreter needed - Amharic,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRH#
+XaLRF#,Interpreter needed - Akan,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRF#
+XaLRR#,Interpreter needed - Czech,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRR#
+XaLRI#,Interpreter needed - Arabic,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRI#
+XaLRG#,Interpreter needed - Albanian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRG#
+XaLRQ#,Interpreter needed - Croatian,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRQ#
+XaLRJ#,Interpreter needed - Bengali,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRJ#
+XaLRP#,Interpreter needed - Cantonese,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRP#
+XaLRV#,Interpreter needed - French,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRV#
+XaLRe#,Interpreter needed - French Creole,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRe#
+XaPC6#,Bulgarian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPC6#
+XaPIw#,Ethiopian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIw#
+XaPIx#,Brawa language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPIx#
+XaPKW#,Frisian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPKW#
+XaPL5#,Faeroese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPL5#
+XaPL6#,Fijian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPL6#
+XaPL8#,Esperanto language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPL8#
+XaPL9#,Estonian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPL9#
+XaPLA#,Corsican language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLA#
+XaPLB#,Danish language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLB#
+XaPLE#,Catalan language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLE#
+XaPLF#,Belarusian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLF#
+XaPLI#,Breton language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLI#
+XaPLJ#,Bislama language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLJ#
+XaPLL#,Assamese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLL#
+XaPLK#,Bihari language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLK#
+XaPLM#,Armenian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLM#
+XaPLR#,Central Khmer language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLR#
+XaPLT#,Burmese language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLT#
+XaPLc#,Aymara language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLc#
+XaPLd#,Afrikaans language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLd#
+XaPLf#,Azerbaijani language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLf#
+XaPLg#,Basque language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLg#
+XaPLj#,Afar language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLj#
+XaPLk#,Abkhazian language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLk#
+XaPLm#,Dzongkha language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaPLm#
+XaLRT#,Farsi language interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaLRT#
+Xach1#,Aragonese interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach1#
+Xach2#,Avaric interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach2#
+Xach3#,Avestan interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach3#
+Xach4#,Bashkir interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach4#
+Xach5#,Bambara interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach5#
+Xach6#,Bosnian interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach6#
+Xach7#,Chamorro interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach7#
+Xach8#,Chechen interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach8#
+Xach9#,Church Slavic interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xach9#
+XachA#,Chuvash interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachA#
+XachB#,Cornish interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachB#
+XachC#,Cree interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachC#
+XachD#,Dhivehi interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachD#
+XachF#,Ewe interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachF#
+XachI#,Fulah interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XachI#
+Xaci2#,Chinese interpreter needed,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,Xaci2#
+XaF45#,Presence of interpreter,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaF45#
+XaNOE#,Telephone interpreting service used,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaNOE#
+XaF46#,Interpreter present,Non-English speaking,NA#,NA,NA,NA,NA,NA,NA,NA,XaF46#
+XaG5t#,Main spoken language English,Speaks English,NA#,NA,NA,NA,NA,NA,NA,NA,XaG5t#

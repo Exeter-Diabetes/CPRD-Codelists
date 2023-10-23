@@ -1,0 +1,806 @@
+snomedcode,term_snomed,category,id,search_terms,read_mapping,matchtotal,MedCodeId,term_medcode,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Release,EmisCodeCategoryId,qof
+266918002#,Tobacco smoking consumption,Active smoker,397730015#,1,1,2,5495901000006112#,Amount and type of tobacco smoked,^ESCTAM549590,NA,1225107019,NA,17,1
+266918002#,Tobacco smoking consumption,Active smoker,397730015#,1,1,2,102921000006112#,Tobacco smoking consumption,137,137..00,397730015,NA,17,1
+266918002#,Tobacco smoking consumption,Active smoker,397730015#,1,1,2,137721000006115#,Smoker - amount smoked,137-1,137..11,397730015,NA,17,1
+266918002#,Tobacco smoking consumption,Active smoker,397730015#,1,1,2,250387019#,Tobacco consumption NOS,137Z,137Z.00,397730015,NA,17,1
+266918002#,Tobacco smoking consumption (observable entity),Active smoker,659470017#,1,1,2,5495901000006112#,Amount and type of tobacco smoked,^ESCTAM549590,NA,1225107019,NA,17,1
+266918002#,Tobacco smoking consumption (observable entity),Active smoker,659470017#,1,1,2,102921000006112#,Tobacco smoking consumption,137,137..00,397730015,NA,17,1
+266918002#,Tobacco smoking consumption (observable entity),Active smoker,659470017#,1,1,2,137721000006115#,Smoker - amount smoked,137-1,137..11,397730015,NA,17,1
+266918002#,Tobacco smoking consumption (observable entity),Active smoker,659470017#,1,1,2,250387019#,Tobacco consumption NOS,137Z,137Z.00,397730015,NA,17,1
+266918002#,Amount and type of tobacco smoked,Active smoker,1225107019#,1,1,2,5495901000006112#,Amount and type of tobacco smoked,^ESCTAM549590,NA,1225107019,NA,17,1
+266918002#,Amount and type of tobacco smoked,Active smoker,1225107019#,1,1,2,102921000006112#,Tobacco smoking consumption,137,137..00,397730015,NA,17,1
+266918002#,Amount and type of tobacco smoked,Active smoker,1225107019#,1,1,2,137721000006115#,Smoker - amount smoked,137-1,137..11,397730015,NA,17,1
+266918002#,Amount and type of tobacco smoked,Active smoker,1225107019#,1,1,2,250387019#,Tobacco consumption NOS,137Z,137Z.00,397730015,NA,17,1
+266920004#,Occasional smoker,Active smoker,397733018#,1,1,2,5495941000006114#,Occasional smoker,^ESCTOC549594,NA,397733018,NA,17,1
+266920004#,Occasional smoker,Active smoker,397733018#,1,1,2,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372,397735013,NA,17,1
+266920004#,Occasional smoker,Active smoker,397733018#,1,1,2,5495951000006111#,Occasional cigarette smoker (less than one cigarette/day),^ESCTOC549595,NA,397734012,NA,17,1
+266920004#,Occasional cigarette smoker (less than one cigarette/day),Active smoker,397734012#,1,1,2,5495941000006114#,Occasional smoker,^ESCTOC549594,NA,397733018,NA,17,1
+266920004#,Occasional cigarette smoker (less than one cigarette/day),Active smoker,397734012#,1,1,2,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372,397735013,NA,17,1
+266920004#,Occasional cigarette smoker (less than one cigarette/day),Active smoker,397734012#,1,1,2,5495951000006111#,Occasional cigarette smoker (less than one cigarette/day),^ESCTOC549595,NA,397734012,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day),Active smoker,397735013#,1,1,2,5495941000006114#,Occasional smoker,^ESCTOC549594,NA,397733018,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day),Active smoker,397735013#,1,1,2,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372,397735013,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day),Active smoker,397735013#,1,1,2,5495951000006111#,Occasional cigarette smoker (less than one cigarette/day),^ESCTOC549595,NA,397734012,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (life style),Active smoker,659472013#,1,1,2,5495941000006114#,Occasional smoker,^ESCTOC549594,NA,397733018,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (life style),Active smoker,659472013#,1,1,2,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372,397735013,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (life style),Active smoker,659472013#,1,1,2,5495951000006111#,Occasional cigarette smoker (less than one cigarette/day),^ESCTOC549595,NA,397734012,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (finding),Active smoker,1472195011#,1,1,2,5495941000006114#,Occasional smoker,^ESCTOC549594,NA,397733018,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (finding),Active smoker,1472195011#,1,1,2,88471000006112#,Trivial cigarette smoker (less than one cigarette/day),1372,1372,397735013,NA,17,1
+266920004#,Trivial cigarette smoker (less than one cigarette/day) (finding),Active smoker,1472195011#,1,1,2,5495951000006111#,Occasional cigarette smoker (less than one cigarette/day),^ESCTOC549595,NA,397734012,NA,17,1
+428041000124106#,Occasional tobacco smoker,Active smoker,3308893017#,1,1,2,8153381000006119#,Occasional smoker,^ESCTOC815338,NA,8.15E+15,NA,17,1
+428041000124106#,Occasional tobacco smoker,Active smoker,3308893017#,1,1,2,397733018#,Occasional smoker,1372-1,1372.11,2.72E+15,NA,17,1
+428041000124106#,Occasional tobacco smoker,Active smoker,3308893017#,1,1,2,8153371000006117#,Occasional tobacco smoker,^ESCTOC815337,NA,3308893017,NA,17,1
+428041000124106#,Occasional tobacco smoker (finding),Active smoker,3308911015#,1,1,2,8153381000006119#,Occasional smoker,^ESCTOC815338,NA,8.15E+15,NA,17,1
+428041000124106#,Occasional tobacco smoker (finding),Active smoker,3308911015#,1,1,2,397733018#,Occasional smoker,1372-1,1372.11,2.72E+15,NA,17,1
+428041000124106#,Occasional tobacco smoker (finding),Active smoker,3308911015#,1,1,2,8153371000006117#,Occasional tobacco smoker,^ESCTOC815337,NA,3308893017,NA,17,1
+160603005#,Light cigarette smoker (1-9 cigs/day),Active smoker,250358015#,1,1,2,743331000006116#,Light cigarette smoker (1-9 cigs/day),1373,1373,250358015,NA,17,1
+160603005#,Light cigarette smoker (1-9 cigs/day) (life style),Active smoker,541535014#,1,1,2,743331000006116#,Light cigarette smoker (1-9 cigs/day),1373,1373,250358015,NA,17,1
+160603005#,Light cigarette smoker (1-9 cigs/day) (finding),Active smoker,1470241018#,1,1,2,743331000006116#,Light cigarette smoker (1-9 cigs/day),1373,1373,250358015,NA,17,1
+160604004#,Moderate cigarette smoker (10-19 cigs/day),Active smoker,250359011#,1,1,2,700121000006118#,Moderate cigarette smoker (10-19 cigs/day),1374,1374,250359011,NA,17,1
+160604004#,Moderate cigarette smoker (10-19 cigs/day) (life style),Active smoker,541536010#,1,1,2,700121000006118#,Moderate cigarette smoker (10-19 cigs/day),1374,1374,250359011,NA,17,1
+160604004#,Moderate cigarette smoker (10-19 cigs/day) (finding),Active smoker,1470242013#,1,1,2,700121000006118#,Moderate cigarette smoker (10-19 cigs/day),1374,1374,250359011,NA,17,1
+160605003#,Heavy cigarette smoker (20-39 cigs/day),Active smoker,250360018#,1,1,2,819331000006110#,Heavy cigarette smoker (20-39 cigs/day),1375,1375,250360018,NA,17,1
+160605003#,Heavy cigarette smoker (20-39 cigs/day) (life style),Active smoker,541537018#,1,1,2,819331000006110#,Heavy cigarette smoker (20-39 cigs/day),1375,1375,250360018,NA,17,1
+160605003#,Heavy cigarette smoker (20-39 cigs/day) (finding),Active smoker,1470243015#,1,1,2,819331000006110#,Heavy cigarette smoker (20-39 cigs/day),1375,1375,250360018,NA,17,1
+160606002#,Very heavy cigarette smoker (40+ cigs/day),Active smoker,250362014#,1,1,2,67621000006112#,Very heavy cigarette smoker (40+ cigs/day),1376,1376,250362014,NA,17,1
+160606002#,Very heavy cigarette smoker (40+ cigs/day) (life style),Active smoker,541539015#,1,1,2,67621000006112#,Very heavy cigarette smoker (40+ cigs/day),1376,1376,250362014,NA,17,1
+160606002#,Very heavy cigarette smoker (40+ cigs/day) (finding),Active smoker,1470244014#,1,1,2,67621000006112#,Very heavy cigarette smoker (40+ cigs/day),1376,1376,250362014,NA,17,1
+230058003#,Pipe tobacco consumption,Active smoker,344795016#,1,1,2,344795016#,Pipe tobacco consumption,137a,137a.00,344795016,NA,17,1
+230058003#,Pipe tobacco consumption (observable entity),Active smoker,617820018#,1,1,2,344795016#,Pipe tobacco consumption,137a,137a.00,344795016,NA,17,1
+394872000#,Ready to stop smoking (finding),Active smoker,1468812018#,1,1,2,1488577017#,Ready to stop smoking,137b,137b.00,1488577017,NA,17,1
+394872000#,Ready to stop smoking,Active smoker,1488577017#,1,1,2,1488577017#,Ready to stop smoking,137b,137b.00,1488577017,NA,17,1
+394871007#,Thinking about stopping smoking (observable entity),Active smoker,1468811013#,1,1,2,1488576014#,Thinking about stopping smoking,137c,137c.00,1488576014,NA,17,1
+394871007#,Thinking about stopping smoking,Active smoker,1488576014#,1,1,2,1488576014#,Thinking about stopping smoking,137c,137c.00,1488576014,NA,17,1
+394871007#,Thinking about stopping smoking (finding),Active smoker,2529308018#,1,1,2,1488576014#,Thinking about stopping smoking,137c,137c.00,1488576014,NA,17,1
+160612007#,Keeps trying to stop smoking,Active smoker,250368013#,1,1,2,250368013#,Keeps trying to stop smoking,137C,137C.00,250368013,NA,17,1
+160612007#,Keeps trying to stop smoking (finding),Active smoker,541545011#,1,1,2,250368013#,Keeps trying to stop smoking,137C,137C.00,250368013,NA,17,1
+394873005#,Not interested in stopping smoking (finding),Active smoker,1468813011#,1,1,2,1488578010#,Not interested in stopping smoking,137d,137d.00,1488578010,NA,17,1
+394873005#,Not interested in stopping smoking,Active smoker,1488578010#,1,1,2,1488578010#,Not interested in stopping smoking,137d,137d.00,1488578010,NA,17,1
+308438006#,Smoking restarted - finding,Active smoker,451769012#,1,1,2,137791000006118#,Smoking restarted,137Q-1,137Q.11,2670126018,NA,17,1
+308438006#,Smoking restarted - finding,Active smoker,451769012#,1,1,2,2670126018#,Smoking restarted,137e,137e.00,2670126018,NA,17,1
+308438006#,Smoking restarted (life style),Active smoker,704975012#,1,1,2,137791000006118#,Smoking restarted,137Q-1,137Q.11,2670126018,NA,17,1
+308438006#,Smoking restarted (life style),Active smoker,704975012#,1,1,2,2670126018#,Smoking restarted,137e,137e.00,2670126018,NA,17,1
+308438006#,Smoking restarted (finding),Active smoker,1456467018#,1,1,2,137791000006118#,Smoking restarted,137Q-1,137Q.11,2670126018,NA,17,1
+308438006#,Smoking restarted (finding),Active smoker,1456467018#,1,1,2,2670126018#,Smoking restarted,137e,137e.00,2670126018,NA,17,1
+308438006#,Smoking restarted,Active smoker,2670126018#,1,1,2,137791000006118#,Smoking restarted,137Q-1,137Q.11,2670126018,NA,17,1
+308438006#,Smoking restarted,Active smoker,2670126018#,1,1,2,2670126018#,Smoking restarted,137e,137e.00,2670126018,NA,17,1
+401159003#,Reason for restarting smoking (observable entity),Active smoker,1769081016#,1,1,2,1780360012#,Reason for restarting smoking,137f,137f.00,1780360012,NA,17,1
+401159003#,Reason for restarting smoking,Active smoker,1780360012#,1,1,2,1780360012#,Reason for restarting smoking,137f,137f.00,1780360012,NA,17,1
+401201003#,Cigarette pack-years (observable entity),Active smoker,1769123018#,1,1,2,1780396011#,Cigarette pack-years,137g,137g.00,1780396011,NA,17,1
+401201003#,Cigarette pack-years,Active smoker,1780396011#,1,1,2,1780396011#,Cigarette pack-years,137g,137g.00,1780396011,NA,17,1
+160616005#,Trying to give up smoking,Active smoker,250372012#,1,1,2,250372012#,Trying to give up smoking,137G,137G.00,250372012,NA,17,1
+160616005#,Trying to give up smoking (finding),Active smoker,541550017#,1,1,2,250372012#,Trying to give up smoking,137G,137G.00,250372012,NA,17,1
+413173009#,Minutes from waking to first tobacco consumption (observable entity),Active smoker,2468626010#,1,1,2,2474719011#,Minutes from waking to first tobacco consumption,137h,137h.00,2474719011,NA,17,1
+413173009#,Minutes from waking to first tobacco consumption,Active smoker,2474719011#,1,1,2,2474719011#,Minutes from waking to first tobacco consumption,137h,137h.00,2474719011,NA,17,1
+82302008#,Pipe smoker,Active smoker,136515019#,1,1,2,136515019#,Pipe smoker,137H,137H.00,136515019,NA,17,1
+82302008#,Pipe smoker (life style),Active smoker,823697013#,1,1,2,136515019#,Pipe smoker,137H,137H.00,136515019,NA,17,1
+82302008#,Pipe smoker (finding),Active smoker,1472637016#,1,1,2,136515019#,Pipe smoker,137H,137H.00,136515019,NA,17,1
+59978006#,Cigar smoker,Active smoker,99639019#,1,1,2,99639019#,Cigar smoker,137J,137J.00,99639019,NA,17,1
+59978006#,Cigar smoker (life style),Active smoker,798879014#,1,1,2,99639019#,Cigar smoker,137J,137J.00,99639019,NA,17,1
+59978006#,Cigar smoker (finding),Active smoker,1470186010#,1,1,2,99639019#,Cigar smoker,137J,137J.00,99639019,NA,17,1
+446172000#,Failed attempt to stop smoking (finding),Active smoker,2879887015#,1,1,2,1592611000000110#,Failed attempt to stop smoking,137m,137m.00,2882460017,NA,17,1
+446172000#,Failed attempt to stop smoking,Active smoker,2882460017#,1,1,2,1592611000000110#,Failed attempt to stop smoking,137m,137m.00,2882460017,NA,17,1
+160619003#,Rolls own cigarettes,Active smoker,250375014#,1,1,2,250375014#,Rolls own cigarettes,137M,137M.00,250375014,NA,17,1
+160619003#,Rolls own cigarettes (finding),Active smoker,541553015#,1,1,2,250375014#,Rolls own cigarettes,137M,137M.00,250375014,NA,17,1
+65568007#,Cigarette smoker,Active smoker,108938018#,1,1,2,108938018#,Cigarette smoker,137P,137P.00,108938018,NA,17,1
+65568007#,"Cigarette smoker, NOS",Active smoker,108939014#,1,1,2,108938018#,Cigarette smoker,137P,137P.00,108938018,NA,17,1
+65568007#,Cigarette smoker (life style),Active smoker,805085018#,1,1,2,108938018#,Cigarette smoker,137P,137P.00,108938018,NA,17,1
+65568007#,Cigarette smoker (finding),Active smoker,1472492018#,1,1,2,108938018#,Cigarette smoker,137P,137P.00,108938018,NA,17,1
+77176002#,Smoker,Active smoker,128130017#,1,1,2,503483019#,Current smoker,137R,137R.00,503483019,NA,17,1
+77176002#,Smoker,Active smoker,128130017#,1,1,2,128130017#,Smoker,137P-1,137P.11,128130017,NA,17,1
+77176002#,"Smoker, NOS",Active smoker,128131018#,1,1,2,503483019#,Current smoker,137R,137R.00,503483019,NA,17,1
+77176002#,"Smoker, NOS",Active smoker,128131018#,1,1,2,128130017#,Smoker,137P-1,137P.11,128130017,NA,17,1
+77176002#,Current smoker,Active smoker,503483019#,1,1,2,503483019#,Current smoker,137R,137R.00,503483019,NA,17,1
+77176002#,Current smoker,Active smoker,503483019#,1,1,2,128130017#,Smoker,137P-1,137P.11,128130017,NA,17,1
+77176002#,Smoker (life style),Active smoker,817977015#,1,1,2,503483019#,Current smoker,137R,137R.00,503483019,NA,17,1
+77176002#,Smoker (life style),Active smoker,817977015#,1,1,2,128130017#,Smoker,137P-1,137P.11,128130017,NA,17,1
+77176002#,Smoker (finding),Active smoker,1472594019#,1,1,2,503483019#,Current smoker,137R,137R.00,503483019,NA,17,1
+77176002#,Smoker (finding),Active smoker,1472594019#,1,1,2,128130017#,Smoker,137P-1,137P.11,128130017,NA,17,1
+266929003#,Smoking started - finding,Active smoker,397745010#,1,1,2,2669652019#,Smoking started,137Q,137Q.00,2669652019,NA,17,1
+266929003#,Smoking started (life style),Active smoker,659483016#,1,1,2,2669652019#,Smoking started,137Q,137Q.00,2669652019,NA,17,1
+266929003#,Smoking started (finding),Active smoker,1472202010#,1,1,2,2669652019#,Smoking started,137Q,137Q.00,2669652019,NA,17,1
+266929003#,Smoking started,Active smoker,2669652019#,1,1,2,2669652019#,Smoking started,137Q,137Q.00,2669652019,NA,17,1
+134406006#,Smoking reduced,Active smoker,216212011#,1,1,2,216212011#,Smoking reduced,137V,137V.00,216212011,NA,17,1
+134406006#,Smoking reduced (observable entity),Active smoker,513985013#,1,1,2,216212011#,Smoking reduced,137V,137V.00,216212011,NA,17,1
+134406006#,Smoking reduced (finding),Active smoker,1475461013#,1,1,2,216212011#,Smoking reduced,137V,137V.00,216212011,NA,17,1
+230056004#,Cigarette consumption,Active smoker,344793011#,1,1,2,344793011#,Cigarette consumption,137X,137X.00,344793011,NA,17,1
+230056004#,Cigarette consumption (observable entity),Active smoker,617818016#,1,1,2,344793011#,Cigarette consumption,137X,137X.00,344793011,NA,17,1
+230057008#,Cigar consumption,Active smoker,344794017#,1,1,2,344794017#,Cigar consumption,137Y,137Y.00,344794017,NA,17,1
+230057008#,Cigar consumption (observable entity),Active smoker,617819012#,1,1,2,344794017#,Cigar consumption,137Y,137Y.00,344794017,NA,17,1
+225323000#,Smoking cessation advice,Active smoker,338608011#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Smoking cessation advice,Active smoker,338608011#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Smoking cessation advice,Active smoker,338608011#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Smoking cessation advice,Active smoker,338608011#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Smoking cessation advice (procedure),Active smoker,612554016#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Smoking cessation advice (procedure),Active smoker,612554016#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Smoking cessation advice (procedure),Active smoker,612554016#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Smoking cessation advice (procedure),Active smoker,612554016#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Smoking cessation advice (regime/therapy),Active smoker,1471140019#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Smoking cessation advice (regime/therapy),Active smoker,1471140019#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Smoking cessation advice (regime/therapy),Active smoker,1471140019#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Smoking cessation advice (regime/therapy),Active smoker,1471140019#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Smoking cessation education (procedure),Active smoker,2569777013#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Smoking cessation education (procedure),Active smoker,2569777013#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Smoking cessation education (procedure),Active smoker,2569777013#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Smoking cessation education (procedure),Active smoker,2569777013#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Smoking cessation education,Active smoker,2575784012#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Smoking cessation education,Active smoker,2575784012#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Smoking cessation education,Active smoker,2575784012#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Smoking cessation education,Active smoker,2575784012#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Advice on effects of smoking on health (regime/therapy),Active smoker,2579189017#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Advice on effects of smoking on health (regime/therapy),Active smoker,2579189017#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Advice on effects of smoking on health (regime/therapy),Active smoker,2579189017#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Advice on effects of smoking on health (regime/therapy),Active smoker,2579189017#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Advice on smoking (regime/therapy),Active smoker,2579190014#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Advice on smoking (regime/therapy),Active smoker,2579190014#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Advice on smoking (regime/therapy),Active smoker,2579190014#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Advice on smoking (regime/therapy),Active smoker,2579190014#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Advice on effects of smoking on health,Active smoker,2693470012#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Advice on effects of smoking on health,Active smoker,2693470012#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Advice on effects of smoking on health,Active smoker,2693470012#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Advice on effects of smoking on health,Active smoker,2693470012#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225323000#,Advice on smoking,Active smoker,2695629019#,1,1,2,4939241000006115#,Advice on effects of smoking on health,^ESCTAD493924,NA,2693470012,NA,17,1
+225323000#,Advice on smoking,Active smoker,2695629019#,1,1,2,4939251000006118#,Advice on smoking,^ESCTAD493925,NA,2695629019,NA,17,1
+225323000#,Advice on smoking,Active smoker,2695629019#,1,1,2,338608011#,Smoking cessation advice,8CAL,8CAL.00,338608011,NA,17,1
+225323000#,Advice on smoking,Active smoker,2695629019#,1,1,2,818061000006111#,Smoking cessation education,6791,6791,2575784012,NA,17,1
+225324006#,Advice on effects of smoking on health,Active smoker,338609015#,1,1,2,4939261000006116#,Smoking effects education,^ESCTSM493926,NA,2575785013,NA,17,0
+225324006#,Advice on effects of smoking on health,Active smoker,338609015#,1,1,2,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,338609015,NA,17,0
+225324006#,Advice on effects of smoking on health (procedure),Active smoker,612555015#,1,1,2,4939261000006116#,Smoking effects education,^ESCTSM493926,NA,2575785013,NA,17,0
+225324006#,Advice on effects of smoking on health (procedure),Active smoker,612555015#,1,1,2,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,338609015,NA,17,0
+225324006#,Advice on effects of smoking on health (regime/therapy),Active smoker,1471141015#,1,1,2,4939261000006116#,Smoking effects education,^ESCTSM493926,NA,2575785013,NA,17,0
+225324006#,Advice on effects of smoking on health (regime/therapy),Active smoker,1471141015#,1,1,2,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,338609015,NA,17,0
+225324006#,Smoking effects education (procedure),Active smoker,2569778015#,1,1,2,4939261000006116#,Smoking effects education,^ESCTSM493926,NA,2575785013,NA,17,0
+225324006#,Smoking effects education (procedure),Active smoker,2569778015#,1,1,2,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,338609015,NA,17,0
+225324006#,Smoking effects education,Active smoker,2575785013#,1,1,2,4939261000006116#,Smoking effects education,^ESCTSM493926,NA,2575785013,NA,17,0
+225324006#,Smoking effects education,Active smoker,2575785013#,1,1,2,936011000006114#,Advice on effects of smoking on health,67H1,67H1.00,338609015,NA,17,0
+395700008#,Referral to smoking cessation advisor (procedure),Active smoker,1469640016#,1,1,2,1489355012#,Referral to smoking cessation advisor,8H7i,8H7i.00,1489355012,NA,40,1
+395700008#,Referral to smoking cessation advisor,Active smoker,1489355012#,1,1,2,1489355012#,Referral to smoking cessation advisor,8H7i,8H7i.00,1489355012,NA,40,1
+395700008#,Referral: smok cessatn advisor,Active smoker,1494697012#,1,1,2,1489355012#,Referral to smoking cessation advisor,8H7i,8H7i.00,1489355012,NA,40,1
+315232003#,Referral to stop-smoking clinic,Active smoker,459722017#,1,1,2,459722017#,Referral to stop-smoking clinic,8HTK,8HTK.00,459722017,NA,40,1
+315232003#,Referral to stop-smoking clinic (procedure),Active smoker,712099016#,1,1,2,459722017#,Referral to stop-smoking clinic,8HTK,8HTK.00,459722017,NA,40,1
+401068004#,Seen by smoking cessation advisor (finding),Active smoker,1768989013#,1,1,2,1780273014#,Seen by smoking cessation advisor,9N2k,9N2k.00,1780273014,NA,37,1
+401068004#,Seen by smoking cessation advisor,Active smoker,1780273014#,1,1,2,1780273014#,Seen by smoking cessation advisor,9N2k,9N2k.00,1780273014,NA,37,1
+185789006#,Attends stop smoking monitoring,Active smoker,285791018#,1,1,2,498831000006118#,Attends stop smoking monitoring,9OO1,9OO1.00,285791018,NA,37,0
+185789006#,Attends stop smoking monitoring (finding),Active smoker,568822013#,1,1,2,498831000006118#,Attends stop smoking monitoring,9OO1,9OO1.00,285791018,NA,37,0
+765001003#,Monitoring of smoking cessation therapy declined,Active smoker,3656019011#,1,1,2,12024761000006112#,Monitoring of smoking cessation therapy declined,^ESCT1202476,NA,3656019011,NA,37,0
+765001003#,Monitoring of smoking cessation therapy declined,Active smoker,3656019011#,1,1,2,285792013#,Monitoring of smoking cessation therapy refused,9OO2,9OO2.00,3656021018,NA,37,0
+765001003#,Monitoring of smoking cessation therapy refused (situation),Active smoker,3656020017#,1,1,2,12024761000006112#,Monitoring of smoking cessation therapy declined,^ESCT1202476,NA,3656019011,NA,37,0
+765001003#,Monitoring of smoking cessation therapy refused (situation),Active smoker,3656020017#,1,1,2,285792013#,Monitoring of smoking cessation therapy refused,9OO2,9OO2.00,3656021018,NA,37,0
+765001003#,Monitoring of smoking cessation therapy refused,Active smoker,3656021018#,1,1,2,12024761000006112#,Monitoring of smoking cessation therapy declined,^ESCT1202476,NA,3656019011,NA,37,0
+765001003#,Monitoring of smoking cessation therapy refused,Active smoker,3656021018#,1,1,2,285792013#,Monitoring of smoking cessation therapy refused,9OO2,9OO2.00,3656021018,NA,37,0
+185791003#,Stop smoking monitor default,Active smoker,285793015#,1,1,2,285793015#,Stop smoking monitor default,9OO3,9OO3.00,285793015,NA,37,0
+185791003#,Stop smoking monitor default (finding),Active smoker,568824014#,1,1,2,285793015#,Stop smoking monitor default,9OO3,9OO3.00,285793015,NA,37,0
+185792005#,Stop smoking monitoring first letter,Active smoker,285794014#,1,1,2,128311000006112#,Stop smoking monitoring first letter,9OO4,9OO4.00,285794014,NA,37,1
+185792005#,Stop smoking monitoring first letter (procedure),Active smoker,568825010#,1,1,2,128311000006112#,Stop smoking monitoring first letter,9OO4,9OO4.00,285794014,NA,37,1
+185793000#,Stop smoking monitoring second letter,Active smoker,285795010#,1,1,2,128321000006116#,Stop smoking monitoring second letter,9OO5,9OO5.00,285795010,NA,37,1
+185793000#,Stop smoking monitoring second letter (procedure),Active smoker,568826011#,1,1,2,128321000006116#,Stop smoking monitoring second letter,9OO5,9OO5.00,285795010,NA,37,1
+185794006#,Stop smoking monitoring third letter,Active smoker,285796011#,1,1,2,128331000006118#,Stop smoking monitoring third letter,9OO6,9OO6.00,285796011,NA,37,1
+185794006#,Stop smoking monitoring third letter (procedure),Active smoker,568828012#,1,1,2,128331000006118#,Stop smoking monitoring third letter,9OO6,9OO6.00,285796011,NA,37,1
+185795007#,Stop smoking monitoring verbal invite,Active smoker,285797019#,1,1,2,128371000006115#,Stop smoking monitoring verbal invite,9OO7,9OO7.00,285797019,NA,37,1
+185795007#,Stop smoking monitoring verbal invite (procedure),Active smoker,568829016#,1,1,2,128371000006115#,Stop smoking monitoring verbal invite,9OO7,9OO7.00,285797019,NA,37,1
+185796008#,Stop smoking monitoring telephone invite,Active smoker,285798012#,1,1,2,128361000006110#,Stop smoking monitoring telephone invite,9OO8,9OO8.00,285798012,NA,37,1
+185796008#,Stop smoking monitoring telephone invite (procedure),Active smoker,568830014#,1,1,2,128361000006110#,Stop smoking monitoring telephone invite,9OO8,9OO8.00,285798012,NA,37,1
+185798009#,Stop smoking monitoring delete,Active smoker,285805010#,1,1,2,285805010#,Stop smoking monitoring delete,9OO9,9OO9.00,285805010,NA,37,0
+185798009#,Stop smoking monitoring delete (finding),Active smoker,568832018#,1,1,2,285805010#,Stop smoking monitoring delete,9OO9,9OO9.00,285805010,NA,37,0
+185799001#,Stop smoking monitoring check done,Active smoker,285806011#,1,1,2,128381000006117#,Stop smoking monitoring check done,9OOA,9OOA.00,285806011,NA,37,0
+185799001#,Stop smoking monitoring check done (finding),Active smoker,568833011#,1,1,2,128381000006117#,Stop smoking monitoring check done,9OOA,9OOA.00,285806011,NA,37,0
+46802002#,Smokers' cough,Active smoker,78013015#,1,1,2,78013015#,Smokers' cough,H3101,H310100,78013015,NA,32,0
+46802002#,Smokers' cough,Active smoker,78013015#,1,1,2,3256651000006113#,Cigarette cough,^ESCTCI325665,NA,494650019,NA,32,0
+46802002#,Cigarette cough,Active smoker,494650019#,1,1,2,78013015#,Smokers' cough,H3101,H310100,78013015,NA,32,0
+46802002#,Cigarette cough,Active smoker,494650019#,1,1,2,3256651000006113#,Cigarette cough,^ESCTCI325665,NA,494650019,NA,32,0
+46802002#,Smokers' cough (disorder),Active smoker,784192018#,1,1,2,78013015#,Smokers' cough,H3101,H310100,78013015,NA,32,0
+46802002#,Smokers' cough (disorder),Active smoker,784192018#,1,1,2,3256651000006113#,Cigarette cough,^ESCTCI325665,NA,494650019,NA,32,0
+266921000#,Ex-trivial cigarette smoker (<1/day),Ex-smoker,397736014#,1,1,2,250363016#,Ex-trivial cigarette smoker (<1/day),1377,1377,397736014,NA,17,1
+266921000#,Ex-trivial cigarette smoker (<1/day) (life style),Ex-smoker,659473015#,1,1,2,250363016#,Ex-trivial cigarette smoker (<1/day),1377,1377,397736014,NA,17,1
+266921000#,Ex-trivial cigarette smoker (<1/day) (finding),Ex-smoker,1472196012#,1,1,2,250363016#,Ex-trivial cigarette smoker (<1/day),1377,1377,397736014,NA,17,1
+266922007#,Ex-light cigarette smoker (1-9/day),Ex-smoker,397737017#,1,1,2,250364010#,Ex-light cigarette smoker (1-9/day),1378,1378,397737017,NA,17,1
+266922007#,Ex-light cigarette smoker (1-9/day) (life style),Ex-smoker,659474014#,1,1,2,250364010#,Ex-light cigarette smoker (1-9/day),1378,1378,397737017,NA,17,1
+266922007#,Ex-light cigarette smoker (1-9/day) (finding),Ex-smoker,1472197015#,1,1,2,250364010#,Ex-light cigarette smoker (1-9/day),1378,1378,397737017,NA,17,1
+266923002#,Ex-moderate cigarette smoker (10-19/day),Ex-smoker,397738010#,1,1,2,250365011#,Ex-moderate cigarette smoker (10-19/day),1379,1379,397738010,NA,17,1
+266923002#,Ex-moderate cigarette smoker (10-19/day) (life style),Ex-smoker,659475010#,1,1,2,250365011#,Ex-moderate cigarette smoker (10-19/day),1379,1379,397738010,NA,17,1
+266923002#,Ex-moderate cigarette smoker (10-19/day) (finding),Ex-smoker,1472198013#,1,1,2,250365011#,Ex-moderate cigarette smoker (10-19/day),1379,1379,397738010,NA,17,1
+266924008#,Ex-heavy cigarette smoker (20-39/day),Ex-smoker,397739019#,1,1,2,250366012#,Ex-heavy cigarette smoker (20-39/day),137A,137A.00,397739019,NA,17,1
+266924008#,Ex-heavy cigarette smoker (20-39/day) (life style),Ex-smoker,659476011#,1,1,2,250366012#,Ex-heavy cigarette smoker (20-39/day),137A,137A.00,397739019,NA,17,1
+266924008#,Ex-heavy cigarette smoker (20-39/day) (finding),Ex-smoker,1472199017#,1,1,2,250366012#,Ex-heavy cigarette smoker (20-39/day),137A,137A.00,397739019,NA,17,1
+266925009#,Ex-very heavy cigarette smoker (40+/day),Ex-smoker,397740017#,1,1,2,250367015#,Ex-very heavy cigarette smoker (40+/day),137B,137B.00,397740017,NA,17,1
+266925009#,Ex-very heavy cigarette smoker (40+/day) (life style),Ex-smoker,659477019#,1,1,2,250367015#,Ex-very heavy cigarette smoker (40+/day),137B,137B.00,397740017,NA,17,1
+266925009#,Ex-very heavy cigarette smoker (40+/day) (finding),Ex-smoker,1472200019#,1,1,2,250367015#,Ex-very heavy cigarette smoker (40+/day),137B,137B.00,397740017,NA,17,1
+8517006#,Former smoker,Ex-smoker,15046012#,1,1,2,298701000000114#,History of tobacco use,ZV116,ZV11600,15047015,NA,17,1
+8517006#,Former smoker,Ex-smoker,15046012#,1,1,2,250371017#,Ex-smoker - amount unknown,137F,137F.00,15047015,NA,17,1
+8517006#,Former smoker,Ex-smoker,15046012#,1,1,2,2636041000006110#,Cessation of smoking,^ESCTCE263604,NA,15048013,NA,17,1
+8517006#,Former smoker,Ex-smoker,15046012#,1,1,2,649841000006110#,Ex-smoker,137S,137S.00,15047015,NA,17,1
+8517006#,Ex-smoker,Ex-smoker,15047015#,1,1,2,298701000000114#,History of tobacco use,ZV116,ZV11600,15047015,NA,17,1
+8517006#,Ex-smoker,Ex-smoker,15047015#,1,1,2,250371017#,Ex-smoker - amount unknown,137F,137F.00,15047015,NA,17,1
+8517006#,Ex-smoker,Ex-smoker,15047015#,1,1,2,2636041000006110#,Cessation of smoking,^ESCTCE263604,NA,15048013,NA,17,1
+8517006#,Ex-smoker,Ex-smoker,15047015#,1,1,2,649841000006110#,Ex-smoker,137S,137S.00,15047015,NA,17,1
+8517006#,Cessation of smoking,Ex-smoker,15048013#,1,1,2,298701000000114#,History of tobacco use,ZV116,ZV11600,15047015,NA,17,1
+8517006#,Cessation of smoking,Ex-smoker,15048013#,1,1,2,250371017#,Ex-smoker - amount unknown,137F,137F.00,15047015,NA,17,1
+8517006#,Cessation of smoking,Ex-smoker,15048013#,1,1,2,2636041000006110#,Cessation of smoking,^ESCTCE263604,NA,15048013,NA,17,1
+8517006#,Cessation of smoking,Ex-smoker,15048013#,1,1,2,649841000006110#,Ex-smoker,137S,137S.00,15047015,NA,17,1
+8517006#,Ex-smoker (life style),Ex-smoker,827168010#,1,1,2,298701000000114#,History of tobacco use,ZV116,ZV11600,15047015,NA,17,1
+8517006#,Ex-smoker (life style),Ex-smoker,827168010#,1,1,2,250371017#,Ex-smoker - amount unknown,137F,137F.00,15047015,NA,17,1
+8517006#,Ex-smoker (life style),Ex-smoker,827168010#,1,1,2,2636041000006110#,Cessation of smoking,^ESCTCE263604,NA,15048013,NA,17,1
+8517006#,Ex-smoker (life style),Ex-smoker,827168010#,1,1,2,649841000006110#,Ex-smoker,137S,137S.00,15047015,NA,17,1
+8517006#,Ex-smoker (finding),Ex-smoker,1472659019#,1,1,2,298701000000114#,History of tobacco use,ZV116,ZV11600,15047015,NA,17,1
+8517006#,Ex-smoker (finding),Ex-smoker,1472659019#,1,1,2,250371017#,Ex-smoker - amount unknown,137F,137F.00,15047015,NA,17,1
+8517006#,Ex-smoker (finding),Ex-smoker,1472659019#,1,1,2,2636041000006110#,Cessation of smoking,^ESCTCE263604,NA,15048013,NA,17,1
+8517006#,Ex-smoker (finding),Ex-smoker,1472659019#,1,1,2,649841000006110#,Ex-smoker,137S,137S.00,15047015,NA,17,1
+281018007#,Ex-cigarette smoker,Ex-smoker,418914010#,1,1,2,418914010#,Ex-cigarette smoker,137j,137j.00,418914010,NA,17,1
+281018007#,Ex-cigarette smoker (life style),Ex-smoker,674503019#,1,1,2,418914010#,Ex-cigarette smoker,137j,137j.00,418914010,NA,17,1
+281018007#,Ex-cigarette smoker (finding),Ex-smoker,1472359013#,1,1,2,418914010#,Ex-cigarette smoker,137j,137j.00,418914010,NA,17,1
+160617001#,Stopped smoking,Ex-smoker,250373019#,1,1,2,250373019#,Stopped smoking,137K,137K.00,250373019,NA,17,1
+160617001#,Stopped smoking (life style),Ex-smoker,541551018#,1,1,2,250373019#,Stopped smoking,137K,137K.00,250373019,NA,17,1
+160617001#,Stopped smoking (finding),Ex-smoker,1470251017#,1,1,2,250373019#,Stopped smoking,137K,137K.00,250373019,NA,17,1
+160620009#,Ex-pipe smoker,Ex-smoker,250376010#,1,1,2,649831000006117#,Ex-pipe smoker,137N,137N.00,250376010,NA,17,1
+160620009#,Ex-pipe smoker (life style),Ex-smoker,541554014#,1,1,2,649831000006117#,Ex-pipe smoker,137N,137N.00,250376010,NA,17,1
+160620009#,Ex-pipe smoker (finding),Ex-smoker,1470253019#,1,1,2,649831000006117#,Ex-pipe smoker,137N,137N.00,250376010,NA,17,1
+160621008#,Ex-cigar smoker,Ex-smoker,250377018#,1,1,2,649821000006115#,Ex-cigar smoker,137O,137O.00,250377018,NA,17,1
+160621008#,Ex-cigar smoker (life style),Ex-smoker,541555010#,1,1,2,649821000006115#,Ex-cigar smoker,137O,137O.00,250377018,NA,17,1
+160621008#,Ex-cigar smoker (finding),Ex-smoker,1470254013#,1,1,2,649821000006115#,Ex-cigar smoker,137O,137O.00,250377018,NA,17,1
+160625004#,Date ceased smoking,Ex-smoker,250385010#,1,1,2,250385010#,Date ceased smoking,137T,137T.00,250385010,NA,17,1
+160625004#,Date ceased smoking (observable entity),Ex-smoker,541560014#,1,1,2,250385010#,Date ceased smoking,137T,137T.00,250385010,NA,17,1
+266919005#,Never smoked,Non-smoker,397731016#,1,1,2,5495921000006119#,Never smoked,^ESCTNE549592,NA,397731016,NA,17,1
+266919005#,Never smoked,Non-smoker,397731016#,1,1,2,397732011#,Never smoked tobacco,1371,1371,397732011,NA,17,1
+266919005#,Never smoked tobacco,Non-smoker,397732011#,1,1,2,5495921000006119#,Never smoked,^ESCTNE549592,NA,397731016,NA,17,1
+266919005#,Never smoked tobacco,Non-smoker,397732011#,1,1,2,397732011#,Never smoked tobacco,1371,1371,397732011,NA,17,1
+266919005#,Never smoked tobacco (life style),Non-smoker,659471018#,1,1,2,5495921000006119#,Never smoked,^ESCTNE549592,NA,397731016,NA,17,1
+266919005#,Never smoked tobacco (life style),Non-smoker,659471018#,1,1,2,397732011#,Never smoked tobacco,1371,1371,397732011,NA,17,1
+266919005#,Never smoked tobacco (finding),Non-smoker,1472194010#,1,1,2,5495921000006119#,Never smoked,^ESCTNE549592,NA,397731016,NA,17,1
+266919005#,Never smoked tobacco (finding),Non-smoker,1472194010#,1,1,2,397732011#,Never smoked tobacco,1371,1371,397732011,NA,17,1
+8392000#,Non-smoker,Non-smoker,14866014#,1,1,2,14866014#,Non-smoker,1371-1,1371.11,14866014,NA,17,0
+8392000#,Non-smoker (life style),Non-smoker,825655016#,1,1,2,14866014#,Non-smoker,1371-1,1371.11,14866014,NA,17,0
+8392000#,Non-smoker (finding),Non-smoker,1472646010#,1,1,2,14866014#,Non-smoker,1371-1,1371.11,14866014,NA,17,0
+160618006#,Current non-smoker,Non-smoker,250374013#,1,1,2,903051000006112#,Tobacco Consumption Nil,137L-99,137L.99,9.03E+14,NA,17,0
+160618006#,Current non-smoker,Non-smoker,250374013#,1,1,2,250374013#,Current non-smoker,137L,137L.00,250374013,NA,17,0
+160618006#,Current non-smoker (life style),Non-smoker,541552013#,1,1,2,903051000006112#,Tobacco Consumption Nil,137L-99,137L.99,9.03E+14,NA,17,0
+160618006#,Current non-smoker (life style),Non-smoker,541552013#,1,1,2,250374013#,Current non-smoker,137L,137L.00,250374013,NA,17,0
+160618006#,Current non-smoker (finding),Non-smoker,1470252012#,1,1,2,903051000006112#,Tobacco Consumption Nil,137L-99,137L.99,9.03E+14,NA,17,0
+160618006#,Current non-smoker (finding),Non-smoker,1470252012#,1,1,2,250374013#,Current non-smoker,137L,137L.00,250374013,NA,17,0
+160622001#,Smoker (& cigarette),Active smoker,250378011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160622001#,Cigarette smoker,Active smoker,250379015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160622001#,Smoker,Active smoker,250380017#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160622001#,Smoker (& cigarette),Active smoker,541556011#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160622001#,Smoker (& cigarette) (finding),Active smoker,2750565014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160623006#,Smoking: [started] or [restarted],Active smoker,250381018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160623006#,Smoking started,Active smoker,250382013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160623006#,Smoking restarted,Active smoker,250383015#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160623006#,Smoking: [started] or [restarted],Active smoker,541558012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160623006#,Smoking: [started] or [restarted] (finding),Active smoker,2715679013#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+365981007#,Tobacco smoking behavior - finding,Active smoker,489483015#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Tobacco smoking behavior - finding,Active smoker,489483015#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Tobacco smoking behavior - finding,Active smoker,489483015#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Tobacco smoking behavior - finding,Active smoker,489483015#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+365981007#,Finding of tobacco smoking behavior (finding),Active smoker,772426012#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Finding of tobacco smoking behavior (finding),Active smoker,772426012#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Finding of tobacco smoking behavior (finding),Active smoker,772426012#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Finding of tobacco smoking behavior (finding),Active smoker,772426012#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+365981007#,Tobacco smoking behaviour - finding,Active smoker,1206652017#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Tobacco smoking behaviour - finding,Active smoker,1206652017#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Tobacco smoking behaviour - finding,Active smoker,1206652017#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Tobacco smoking behaviour - finding,Active smoker,1206652017#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+365981007#,Smoking,Active smoker,1490791014#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Smoking,Active smoker,1490791014#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Smoking,Active smoker,1490791014#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Smoking,Active smoker,1490791014#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+365981007#,Finding of tobacco smoking behavior,Active smoker,2766541019#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Finding of tobacco smoking behavior,Active smoker,2766541019#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Finding of tobacco smoking behavior,Active smoker,2766541019#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Finding of tobacco smoking behavior,Active smoker,2766541019#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+365981007#,Finding of tobacco smoking behaviour,Active smoker,3781587017#,1,1,2,6282351000006119#,Smoking,^ESCTSM628235,NA,1490791014,NA,17,0
+365981007#,Finding of tobacco smoking behaviour,Active smoker,3781587017#,1,1,2,6282331000006114#,Tobacco smoking behaviour - finding,^ESCTTO628233,NA,1206652017,NA,17,0
+365981007#,Finding of tobacco smoking behaviour,Active smoker,3781587017#,1,1,2,6282341000006116#,Tobacco smoking behavior - finding,^ESCTTO628234,NA,489483015,NA,17,0
+365981007#,Finding of tobacco smoking behaviour,Active smoker,3781587017#,1,1,2,6282361000006117#,Finding of tobacco smoking behavior,^ESCTFI628236,NA,2766541019,NA,17,0
+230059006#,Trivial cigarette smoker,Active smoker,344796015#,1,1,2,11904991000006116#,Occasional cigarette smoker,^ESCT1190499,NA,344797012,NA,17,1
+230059006#,Trivial cigarette smoker,Active smoker,344796015#,1,1,2,5003141000006118#,Trivial cigarette smoker,^ESCTTR500314,NA,344796015,NA,31,1
+230059006#,Occasional cigarette smoker,Active smoker,344797012#,1,1,2,11904991000006116#,Occasional cigarette smoker,^ESCT1190499,NA,344797012,NA,17,1
+230059006#,Occasional cigarette smoker,Active smoker,344797012#,1,1,2,5003141000006118#,Trivial cigarette smoker,^ESCTTR500314,NA,344796015,NA,31,1
+230059006#,Occasional cigarette smoker (life style),Active smoker,617821019#,1,1,2,11904991000006116#,Occasional cigarette smoker,^ESCT1190499,NA,344797012,NA,17,1
+230059006#,Occasional cigarette smoker (life style),Active smoker,617821019#,1,1,2,5003141000006118#,Trivial cigarette smoker,^ESCTTR500314,NA,344796015,NA,31,1
+230059006#,Occasional cigarette smoker (finding),Active smoker,1471856014#,1,1,2,11904991000006116#,Occasional cigarette smoker,^ESCT1190499,NA,344797012,NA,17,1
+230059006#,Occasional cigarette smoker (finding),Active smoker,1471856014#,1,1,2,5003141000006118#,Trivial cigarette smoker,^ESCTTR500314,NA,344796015,NA,31,1
+230060001#,Light cigarette smoker,Active smoker,344798019#,1,1,2,5003151000006116#,Light cigarette smoker,^ESCTLI500315,NA,344798019,NA,17,1
+230060001#,Light cigarette smoker (life style),Active smoker,617822014#,1,1,2,5003151000006116#,Light cigarette smoker,^ESCTLI500315,NA,344798019,NA,17,1
+230060001#,Light cigarette smoker (finding),Active smoker,1471857017#,1,1,2,5003151000006116#,Light cigarette smoker,^ESCTLI500315,NA,344798019,NA,17,1
+230062009#,Moderate cigarette smoker,Active smoker,344801013#,1,1,2,5003161000006119#,Moderate cigarette smoker,^ESCTMO500316,NA,344801013,NA,17,1
+230062009#,Moderate cigarette smoker (life style),Active smoker,617824010#,1,1,2,5003161000006119#,Moderate cigarette smoker,^ESCTMO500316,NA,344801013,NA,17,1
+230062009#,Moderate cigarette smoker (finding),Active smoker,1471858010#,1,1,2,5003161000006119#,Moderate cigarette smoker,^ESCTMO500316,NA,344801013,NA,17,1
+230063004#,Heavy cigarette smoker,Active smoker,344802018#,1,1,2,5003171000006114#,Heavy cigarette smoker,^ESCTHE500317,NA,344802018,NA,17,1
+230063004#,Heavy cigarette smoker (life style),Active smoker,617825011#,1,1,2,5003171000006114#,Heavy cigarette smoker,^ESCTHE500317,NA,344802018,NA,17,1
+230063004#,Heavy cigarette smoker (finding),Active smoker,1471859019#,1,1,2,5003171000006114#,Heavy cigarette smoker,^ESCTHE500317,NA,344802018,NA,17,1
+230064005#,Very heavy cigarette smoker,Active smoker,344803011#,1,1,2,5003181000006112#,Very heavy cigarette smoker,^ESCTVE500318,NA,344803011,NA,17,1
+230064005#,Very heavy cigarette smoker (life style),Active smoker,617826012#,1,1,2,5003181000006112#,Very heavy cigarette smoker,^ESCTVE500318,NA,344803011,NA,17,1
+230064005#,Very heavy cigarette smoker (finding),Active smoker,1471860012#,1,1,2,5003181000006112#,Very heavy cigarette smoker,^ESCTVE500318,NA,344803011,NA,17,1
+230065006#,Chain smoker,Active smoker,344804017#,1,1,2,5003191000006110#,Chain smoker,^ESCTCH500319,NA,344804017,NA,31,1
+230065006#,Chain smoker (life style),Active smoker,617827015#,1,1,2,5003191000006110#,Chain smoker,^ESCTCH500319,NA,344804017,NA,31,1
+230065006#,Chain smoker (finding),Active smoker,1471861011#,1,1,2,5003191000006110#,Chain smoker,^ESCTCH500319,NA,344804017,NA,31,1
+228486009#,Time since stopped smoking,Ex-smoker,342573017#,1,1,2,4980561000006117#,Time since stopped smoking,^ESCTTI498056,NA,342573017,NA,31,1
+228486009#,Time since stopped smoking (observable entity),Ex-smoker,616079012#,1,1,2,4980561000006117#,Time since stopped smoking,^ESCTTI498056,NA,342573017,NA,31,1
+310429001#,Smoking monitoring invitation,Active smoker,454002012#,1,1,2,5999811000006115#,Smoking monitoring invitation,^ESCTSM599981,NA,454002012,NA,37,1
+310429001#,Smoking monitoring invitation (procedure),Active smoker,706988013#,1,1,2,5999811000006115#,Smoking monitoring invitation,^ESCTSM599981,NA,454002012,NA,37,1
+449368009#,Stopped smoking during pregnancy (finding),Ex-smoker,2897302015#,1,1,2,7368961000006112#,Stopped smoking during pregnancy,^ESCTST736896,NA,2901763017,NA,31,0
+449368009#,Stopped smoking during pregnancy,Ex-smoker,2901763017#,1,1,2,7368961000006112#,Stopped smoking during pregnancy,^ESCTST736896,NA,2901763017,NA,31,0
+449369001#,Stopped smoking before pregnancy (finding),Ex-smoker,2897303013#,1,1,2,7368971000006117#,Stopped smoking before pregnancy,^ESCTST736897,NA,2901764011,NA,31,0
+449369001#,Stopped smoking before pregnancy,Ex-smoker,2901764011#,1,1,2,7368971000006117#,Stopped smoking before pregnancy,^ESCTST736897,NA,2901764011,NA,31,0
+449345000#,Smoked before confirmation of pregnancy (finding),Ex-smoker,2897294013#,1,1,2,7368651000006119#,Smoked before confirmation of pregnancy,^ESCTSM736865,NA,2901755018,NA,31,0
+449345000#,Smoked before confirmation of pregnancy (finding),Ex-smoker,2897294013#,1,1,2,7368661000006117#,Smoker before confirmation of pregnancy,^ESCTSM736866,NA,1.78E+15,NA,31,0
+449345000#,Smoked before confirmation of pregnancy,Ex-smoker,2901755018#,1,1,2,7368651000006119#,Smoked before confirmation of pregnancy,^ESCTSM736865,NA,2901755018,NA,31,0
+449345000#,Smoked before confirmation of pregnancy,Ex-smoker,2901755018#,1,1,2,7368661000006117#,Smoker before confirmation of pregnancy,^ESCTSM736866,NA,1.78E+15,NA,31,0
+266928006#,Ex-cigarette smoker amount unknown,Ex-smoker,397744014#,1,1,2,903041000006110#,EX-Smoker NOS,137F-99,137F.99,9.03E+14,NA,17,1
+266928006#,Ex-cigarette smoker amount unknown,Ex-smoker,397744014#,1,1,2,5496031000006112#,Ex-cigarette smoker amount unknown,^ESCTEX549603,NA,397744014,NA,17,1
+266928006#,Ex-cigarette smoker amount unknown (life style),Ex-smoker,659482014#,1,1,2,903041000006110#,EX-Smoker NOS,137F-99,137F.99,9.03E+14,NA,17,1
+266928006#,Ex-cigarette smoker amount unknown (life style),Ex-smoker,659482014#,1,1,2,5496031000006112#,Ex-cigarette smoker amount unknown,^ESCTEX549603,NA,397744014,NA,17,1
+266928006#,Ex-cigarette smoker amount unknown (finding),Ex-smoker,1472201015#,1,1,2,903041000006110#,EX-Smoker NOS,137F-99,137F.99,9.03E+14,NA,17,1
+266928006#,Ex-cigarette smoker amount unknown (finding),Ex-smoker,1472201015#,1,1,2,5496031000006112#,Ex-cigarette smoker amount unknown,^ESCTEX549603,NA,397744014,NA,17,1
+160601007#,Non-smoker,Non-smoker,250352019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160601007#,Never smoked tobacco,Non-smoker,250353012#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160601007#,Non-smoker (& [never smoked tobacco]),Non-smoker,250354018#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160601007#,Non-smoker (& [never smoked tobacco]),Non-smoker,541533019#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+160601007#,Non-smoker (& [never smoked tobacco]) (finding),Non-smoker,2715673014#,1,1,2,NA#,NA,NA,NA,NA,NA,NA,0
+836001000000109#,NA,Active smoker,NA#,0,1,1,2170961000000116#,Waterpipe tobacco consumption,137o,137o.00,2.17E+15,NA,17,1
+506491000000102#,NA,Active smoker,NA#,0,1,1,1125741000000111#,Brief intervention for smoking cessation,67H6,67H6.00,1.13E+15,NA,17,0
+783011000000105#,NA,Active smoker,NA#,0,1,1,1750931000000118#,Stop smoking service opportunity signposted,8CdB,8CdB.00,1.75E+15,NA,32,0
+505581000000108#,NA,Active smoker,NA#,0,1,1,1123541000000118#,Stop smoking face to face follow-up,8HBM,8HBM.00,1.12E+15,NA,40,0
+505281000000106#,NA,Active smoker,NA#,0,1,1,8190531000006112#,Referral to NHS (National Health Service) stop smoking service,^ESCTRE819053,NA,1.13E+15,NA,40,1
+505281000000106#,NA,Active smoker,NA#,0,1,1,1715591000006117#,Referral to National Health Service stop smoking service,8HkQ,8HkQ.00,1.12E+15,NA,40,1
+527151000000107#,NA,Active smoker,NA#,0,1,1,1176421000000118#,Smoking cessation advice declined,8IAj,8IAj.00,1.18E+15,NA,32,1
+1087441000000106#,NA,Active smoker,NA#,0,1,1,1175011000000112#,Smoking cessation programme declined,8IEK,8IEK.00,2.72E+15,NA,32,1
+822591000000108#,NA,Active smoker,NA#,0,1,1,2141561000000115#,Smoking cessation drug therapy declined,8IEM,8IEM.00,2.14E+15,NA,32,0
+871641000000105#,NA,Active smoker,NA#,0,1,1,2251871000000112#,Referral to smoking cessation service declined,8IEo,8IEo.00,2.25E+15,NA,32,1
+871661000000106#,NA,Active smoker,NA#,0,1,1,2251911000000114#,Referral to smoking cessation service,8T08,8T08.00,2.25E+15,NA,32,1
+375851000000108#,NA,Active smoker,NA#,0,1,1,1704561000006112#,Referred for chronic obstructive pulmonary disease structured smoking assessment,9kf1,9kf1.00,7.39E+14,NA,37,0
+375851000000108#,NA,Active smoker,NA#,0,1,1,1704551000006110#,Referred for COPD structured smoking assessment,9kf1-1,9kf1.11,7.39E+14,NA,37,0
+25261000000107#,NA,Active smoker,NA#,0,1,1,62881000000117#,DNA - Did not attend smoking cessation clinic,9N4M,9N4M.00,6.29E+13,NA,37,0
+25261000000107#,NA,Active smoker,NA#,0,1,1,8012751000006116#,Did not attend smoking cessation clinic,^ESCTDI801275,NA,2.16E+15,NA,37,0
+767641000000109#,NA,Active smoker,NA#,0,1,1,1709641000000115#,Referral for smoking cessation service offered,9NS02,9NS0200,1.71E+15,NA,37,1
+714001000000108#,NA,Active smoker,NA#,0,1,1,1694421000006112#,Stop smoking monitoring admin.,9OO-z366,NA,1.69E+15,NA,37,0
+714001000000108#,NA,Active smoker,NA#,0,1,1,21681000000118#,Anti-smoking monitoring admin.,9OO,9OO..00,1.57E+15,NA,37,0
+714001000000108#,NA,Active smoker,NA#,0,1,1,16261000000110#,Stop smoking monitoring administration,9OOZ,9OOZ.00,1.57E+15,NA,37,0
+714001000000108#,NA,Active smoker,NA#,0,1,1,21691000000116#,Anti-smoking monitoring administration,9OO-2,9OO..12,1.57E+15,NA,37,0
+714021000000104#,NA,Active smoker,NA#,0,1,1,25281000000119#,Stop smoking clinic administration,9OO-1,9OO..11,1.57E+15,NA,37,0
+783381000000101#,NA,Active smoker,NA#,0,1,1,8244731000006115#,Stop smoking invitation text message,^ESCTST824473,NA,1.75E+15,NA,37,1
+783381000000101#,NA,Active smoker,NA#,0,1,1,1751721000000113#,Stop smoking invitation short message service text message,9OOB,9OOB.00,1.75E+15,NA,37,1
+783401000000101#,NA,Active smoker,NA#,0,1,1,8244751000006110#,Stop smoking invitation first text message,^ESCTST824475,NA,1.75E+15,NA,37,1
+783401000000101#,NA,Active smoker,NA#,0,1,1,1785671000006116#,Stop smoking invitation first short message service text message,9OOB0,9OOB000,1.75E+15,NA,37,1
+783441000000103#,NA,Active smoker,NA#,0,1,1,8244771000006117#,Stop smoking invitation second text message,^ESCTST824477,NA,1.75E+15,NA,37,1
+783441000000103#,NA,Active smoker,NA#,0,1,1,1785681000006118#,Stop smoking invitation second short message service text message,9OOB1,9OOB100,1.75E+15,NA,37,1
+783481000000106#,NA,Active smoker,NA#,0,1,1,8244791000006116#,Stop smoking invitation third text message,^ESCTST824479,NA,1.75E+15,NA,37,1
+783481000000106#,NA,Active smoker,NA#,0,1,1,1785691000006115#,Stop smoking invitation third short message service text message,9OOB2,9OOB200,1.75E+15,NA,37,1
+517211000000106#,NA,Ex-smoker,NA#,0,1,1,1151791000000117#,Recently stopped smoking,137K0,137K000,1.15E+15,NA,17,0
+492191000000103#,NA,Ex-smoker,NA#,0,1,1,1059701000000119#,Ex roll-up cigarette smoker,137l,137l.00,1.06E+15,NA,17,1
+374361000000100#,NA,Active smoker,NA#,0,1,1,736241000000116#,Smoking cessation enhanced services administration,9kc,9kc..00,1.15E+15,NA,37,0
+864091000000103#,NA,Active smoker,NA#,0,1,1,8299271000006119#,Number of previous attempts to stop smoking,^ESCTNU829927,NA,2.23E+15,NA,31,0
+203191000000107#,NA,Active smoker,NA#,0,1,1,8063181000006116#,Wants to stop smoking,^ESCTWA806318,NA,3.10E+14,NA,17,1
+375911000000102#,NA,Active smoker,NA#,0,1,1,1704581000006119#,COPD structured smoking assessment declined,9kf2-1,9kf2.11,7.39E+14,NA,37,0
+375911000000102#,NA,Active smoker,NA#,0,1,1,1704571000006117#,Chronic obstructive pulmonary disease structured smoking assessment declined,9kf2,9kf2.00,7.39E+14,NA,37,0
+6368002#,Cigarette cough,Active smoker,11559015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+10729003#,Smoker's respiratory syndrome,Active smoker,18638011#,1,0,1,2670581000006114#,Smoker's respiratory syndrome,^ESCTSM267058,NA,18638011,NA,31,0
+53896009#,Tolerant ex-smoker,Ex-smoker,89595016#,1,0,1,3374141000006117#,Tolerant ex-smoker,^ESCTTO337414,NA,89595016,NA,31,1
+56578002#,Moderate smoker (20 or less per day),Active smoker,94089011#,1,0,1,3419101000006116#,Moderate smoker (20 or less per day),^ESCTMO341910,NA,94089011,NA,31,1
+56771006#,Heavy smoker (over 20 per day),Active smoker,94417014#,1,0,1,3422221000006116#,Heavy smoker (over 20 per day),^ESCTHE342222,NA,94417014,NA,31,1
+65909009#,Aggressive ex-smoker,Ex-smoker,109471017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+65909009#,Intolerant ex-smoker,Ex-smoker,109472012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+72524004#,Intolerant non-smoker,Non-smoker,120468010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+72524004#,Aggressive non-smoker,Non-smoker,120469019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+87739003#,Tolerant non-smoker,Non-smoker,145469012#,1,0,1,3926051000006118#,Tolerant non-smoker,^ESCTTO392605,NA,145469012,NA,31,0
+105539002#,Non-smoker for personal reasons,Non-smoker,169634017#,1,0,1,4120281000006117#,Non-smoker for personal reasons,^ESCTNO412028,NA,169634017,NA,31,0
+105540000#,Non-smoker for religious reasons,Non-smoker,169635016#,1,0,1,4120291000006119#,Non-smoker for religious reasons,^ESCTNO412029,NA,169635016,NA,31,0
+105541001#,Non-smoker for medical reasons,Non-smoker,169636015#,1,0,1,4120301000006118#,Non-smoker for medical reasons,^ESCTNO412030,NA,169636015,NA,31,0
+137981001#,Non-smoker,Non-smoker,219195019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137981001#,Smoker - amount smoked,Active smoker,219196018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137981001#,Tobacco consumption,Active smoker,219197010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137982008#,Never smoked tobacco,Non-smoker,219198017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137982008#,Non-smoker,Non-smoker,219199013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137982008#,Non-smoker (& [never smoked tobacco]),Non-smoker,219200011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137983003#,Trivial cigarette smoker (less than one cigarette/day),Active smoker,219201010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137984009#,Light cigarette smoker (1-9 cigs/day),Active smoker,219202015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137985005#,Moderate cigarette smoker (10-19 cigs/day),Active smoker,219203013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137986006#,Heavy cigarette smoker (20-39 cigs/day),Active smoker,219204019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137987002#,Very heavy cigarette smoker (40+ cigs/day),Active smoker,219205018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137988007#,Ex-trivial cigarette smoker (<1/day),Ex-smoker,219206017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137989004#,Ex-light cigarette smoker (1-9/day),Ex-smoker,219207014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137990008#,Ex-moderate cigarette smoker (10-19/day),Ex-smoker,219208016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137991007#,Ex-heavy cigarette smoker (20-39/day),Ex-smoker,219209012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137992000#,Ex-very heavy cigarette smoker (40+/day),Ex-smoker,219210019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137993005#,Keeps trying to stop smoking,Active smoker,219211015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137996002#,Ex-smoker - amount unknown,Ex-smoker,219214011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137997006#,Trying to give up smoking,Active smoker,219215012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137998001#,Pipe smoker,Active smoker,219216013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138000003#,Cigar smoker,Active smoker,219218014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138001004#,Stopped smoking,Ex-smoker,219219018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138002006#,Current non-smoker,Non-smoker,219220012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138003001#,Rolls own cigarettes,Active smoker,219221011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138004007#,Ex-pipe smoker,Ex-smoker,219222016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138005008#,Ex-cigar smoker,Ex-smoker,219223014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138006009#,Cigarette smoker,Active smoker,219224015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138007000#,Smoking started,Active smoker,219225019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138008005#,Smoker,Active smoker,219226018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138009002#,Ex-smoker,Ex-smoker,219227010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138010007#,Date ceased smoking,Ex-smoker,219228017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138012004#,Tobacco consumption NOS,Active smoker,219230015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+148261009#,Health education - smoking,Active smoker,232068019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+151361007#,Smoking cessation advice,Active smoker,236009011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+152100002#,Referral to stop-smoking clinic,Active smoker,236889013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Stop smoking monitoring admin: [monitoring] or [clinic],Active smoker,239134014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Stop smoking monitoring admin.,Active smoker,239135010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Anti-smoking monitoring admin.,Active smoker,239136011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Stop smoking clinic admin.,Active smoker,239137019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153968001#,Attends stop smoking monitoring,Active smoker,239138012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153969009#,Refuses stop smoking monitor,Active smoker,239139016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153970005#,Stop smoking monitor default,Active smoker,239140019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153971009#,Stop smoking monitoring first letter,Active smoker,239141015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153972002#,Stop smoking monitoring second letter,Active smoker,239142010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153973007#,Stop smoking monitoring third letter,Active smoker,239143017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153974001#,Stop smoking monitoring verbal invite,Active smoker,239144011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153975000#,Stop smoking monitoring telephone invite,Active smoker,239145012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153976004#,Stop smoking monitoring delete,Active smoker,239146013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153977008#,Stop smoking monitoring check done,Active smoker,239147016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153978003#,Stop smoking monitor admin.NOS,Active smoker,239148014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),Active smoker,242320017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,Smoker's cough,Active smoker,242321018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,Cough - smoker's,Active smoker,242323015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,Smokers' cough,Active smoker,242325010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160600008#,[Tobacco consumption] or [smoker - amount smoked],Active smoker,250349010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160600008#,Tobacco consumption,Active smoker,250350010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160600008#,Smoker - amount smoked,Active smoker,250351014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160602000#,(Trivial smoker - < 1 cig/day) or (occasional smoker),Active smoker,250355017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160602000#,Trivial smoker - < 1 cig/day,Active smoker,250356016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160602000#,Occasional smoker,Active smoker,250357013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160607006#,Ex-trivial smoker (<1/day),Ex-smoker,250363016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160608001#,Ex-light smoker (1-9/day),Ex-smoker,250364010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160609009#,Ex-moderate smoker (10-19/day),Ex-smoker,250365011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160610004#,Ex-heavy smoker (20-39/day),Ex-smoker,250366012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160611000#,Ex-very heavy smoker (40+/day),Ex-smoker,250367015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160615009#,Ex-smoker - amount unknown,Ex-smoker,250371017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160624000#,Ex-smoker,Ex-smoker,250384014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160627007#,Tobacco consumption NOS,Active smoker,250387019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171038002#,Health ed. - smoking,Active smoker,265070011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171038002#,Health education - smoking,Active smoker,265071010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171055003#,Pregnancy smoking advice,Active smoker,265092010#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Pregnancy smoking advice,Active smoker,265092010#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Pregnancy smoking advice,Active smoker,265092010#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+183090009#,Smoking cessation advice,Active smoker,283019012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+183871002#,Referral to stop-smoking clinic,Active smoker,284077014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+185790002#,Refuses stop smoking monitor,Active smoker,285792013#,1,0,1,12452041000006114#,Refuses stop smoking monitor,^ESCT1245204,NA,285792013,NA,31,0
+225786009#,Smoker,Active smoker,339271017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+228484007#,Tobacco smoking behaviour,Active smoker,342569015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+228484007#,Tobacco smoking behavior,Active smoker,342570019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,Smokers' cough,Active smoker,396231011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,Smoker's cough,Active smoker,396233014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,Cough - smoker's,Active smoker,396234015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),Active smoker,396235019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+267123009#,Non-smoker,Non-smoker,398061018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+267123009#,Smoker - amount smoked,Active smoker,398062013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+267123009#,Tobacco consumption,Active smoker,398063015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+281080007#,Advice on smoking,Active smoker,418998012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+308511002#,Smoking monitoring call,Active smoker,451871018#,1,0,1,5979541000006112#,Smoking monitoring call,^ESCTSM597954,NA,451871018,NA,31,0
+308512009#,Smoking monitoring status,Active smoker,451872013#,1,0,1,5979551000006114#,Smoking monitoring status,^ESCTSM597955,NA,451872013,NA,1,0
+360890004#,Intolerant ex-smoker,Ex-smoker,476933013#,1,0,1,6217151000006116#,Intolerant ex-smoker,^ESCTIN621715,NA,476933013,NA,31,1
+360900008#,Aggressive ex-smoker,Ex-smoker,476947012#,1,0,1,6217281000006116#,Aggressive ex-smoker,^ESCTAG621728,NA,476947012,NA,31,1
+360907006#,Cessation of smoking,Ex-smoker,476955017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+360918006#,Aggressive non-smoker,Non-smoker,476968013#,1,0,1,6217461000006110#,Aggressive non-smoker,^ESCTAG621746,NA,476968013,NA,31,0
+360929005#,Intolerant non-smoker,Non-smoker,476979015#,1,0,1,6217561000006111#,Intolerant non-smoker,^ESCTIN621756,NA,476979015,NA,31,0
+365982000#,Tobacco smoking consumption - finding,Active smoker,489484014#,1,0,1,6282381000006110#,Finding of tobacco smoking consumption,^ESCTFI628238,NA,2770620010,NA,31,0
+365982000#,Tobacco smoking consumption - finding,Active smoker,489484014#,1,0,1,6282371000006112#,Tobacco smoking consumption - finding,^ESCTTO628237,NA,489484014,NA,31,0
+366916002#,Smoking reduced,Active smoker,490471010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+367141000#,Smoking reduced,Active smoker,490707011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137982008#,Non-smoker (& [never smoked tobacco]),Non-smoker,516393014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137983003#,Trivial cigarette smoker (less than one cigarette/day),Active smoker,516394015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137984009#,Light cigarette smoker (1-9 cigs/day),Active smoker,516395019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137985005#,Moderate cigarette smoker (10-19 cigs/day),Active smoker,516396018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137986006#,Heavy cigarette smoker (20-39 cigs/day),Active smoker,516398017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137987002#,Very heavy cigarette smoker (40+ cigs/day),Active smoker,516399013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137988007#,Ex-trivial cigarette smoker (<1/day),Ex-smoker,516400018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137989004#,Ex-light cigarette smoker (1-9/day),Ex-smoker,516401019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137990008#,Ex-moderate cigarette smoker (10-19/day),Ex-smoker,516402014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137991007#,Ex-heavy cigarette smoker (20-39/day),Ex-smoker,516403016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137992000#,Ex-very heavy cigarette smoker (40+/day),Ex-smoker,516404010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137993005#,Keeps trying to stop smoking,Active smoker,516405011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137996002#,Ex-smoker - amount unknown,Ex-smoker,516409017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137997006#,Trying to give up smoking,Active smoker,516410010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137998001#,Pipe smoker,Active smoker,516411014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138000003#,Cigar smoker,Active smoker,516413012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138001004#,Stopped smoking,Ex-smoker,516414018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138002006#,Current non-smoker,Non-smoker,516415017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138003001#,Rolls own cigarettes,Active smoker,516416016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138004007#,Ex-pipe smoker,Ex-smoker,516417013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138005008#,Ex-cigar smoker,Ex-smoker,516418015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138006009#,Cigarette smoker,Active smoker,516420017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138007000#,Smoking started,Active smoker,516421018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138008005#,Smoker,Active smoker,516422013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138009002#,Ex-smoker,Ex-smoker,516423015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138010007#,Date ceased smoking,Ex-smoker,516424014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138012004#,Tobacco consumption NOS,Active smoker,516426011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+148261009#,Health education - smoking,Active smoker,527802013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+148279008#,Pregnancy smoking advice,Active smoker,527823019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+151361007#,Smoking cessation advice,Active smoker,531243018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+152100002#,Referral to stop-smoking clinic,Active smoker,532063017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Stop smoking monitoring admin: [monitoring] or [clinic],Active smoker,534135016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153968001#,Attends stop smoking monitoring,Active smoker,534136015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153969009#,Refuses stop smoking monitor,Active smoker,534137012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153970005#,Stop smoking monitor default,Active smoker,534138019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153971009#,Stop smoking monitoring first letter,Active smoker,534139010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153972002#,Stop smoking monitoring second letter,Active smoker,534140012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153973007#,Stop smoking monitoring third letter,Active smoker,534141011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153974001#,Stop smoking monitoring verbal invite,Active smoker,534142016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153975000#,Stop smoking monitoring telephone invite,Active smoker,534143014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153976004#,Stop smoking monitoring delete,Active smoker,534145019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153977008#,Stop smoking monitoring check done,Active smoker,534146018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153978003#,Stop smoking monitor admin.NOS,Active smoker,534147010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),Active smoker,535911018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160600008#,[Tobacco consumption] or [smoker - amount smoked],Active smoker,541532012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160602000#,(Trivial smoker - < 1 cig/day) or (occasional smoker),Active smoker,541534013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160607006#,Ex-trivial smoker (<1/day) (life style),Ex-smoker,541540018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160608001#,Ex-light smoker (1-9/day) (life style),Ex-smoker,541541019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160609009#,Ex-moderate smoker (10-19/day) (life style),Ex-smoker,541542014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160610004#,Ex-heavy smoker (20-39/day) (life style),Ex-smoker,541543016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160611000#,Ex-very heavy smoker (40+/day) (life style),Ex-smoker,541544010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160615009#,Ex-smoker - amount unknown (life style),Ex-smoker,541548013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160624000#,Ex-smoker,Ex-smoker,541559016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160627007#,Tobacco consumption NOS (observable entity),Active smoker,541562018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171038002#,Health education - smoking (procedure),Active smoker,553056018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171055003#,Pregnancy smoking advice (procedure),Active smoker,553075011#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Pregnancy smoking advice (procedure),Active smoker,553075011#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Pregnancy smoking advice (procedure),Active smoker,553075011#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+183090009#,Smoking cessation advice,Active smoker,566532018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+183871002#,Referral to stop-smoking clinic,Active smoker,567401012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+185790002#,Refuses stop smoking monitor (finding),Active smoker,568823015#,1,0,1,12452041000006114#,Refuses stop smoking monitor,^ESCT1245204,NA,285792013,NA,31,0
+105539002#,Non-smoker for personal reasons (life style),Non-smoker,572989012#,1,0,1,4120281000006117#,Non-smoker for personal reasons,^ESCTNO412028,NA,169634017,NA,31,0
+105540000#,Non-smoker for religious reasons (life style),Non-smoker,572993018#,1,0,1,4120291000006119#,Non-smoker for religious reasons,^ESCTNO412029,NA,169635016,NA,31,0
+105541001#,Non-smoker for medical reasons (life style),Non-smoker,573002014#,1,0,1,4120301000006118#,Non-smoker for medical reasons,^ESCTNO412030,NA,169636015,NA,31,0
+225786009#,Smoker,Active smoker,613073016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+228484007#,Tobacco smoking behavior (observable entity),Active smoker,616076017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),Active smoker,658884011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+281080007#,Advice on smoking (procedure),Active smoker,674569018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+308511002#,Smoking monitoring call (procedure),Active smoker,705056011#,1,0,1,5979541000006112#,Smoking monitoring call,^ESCTSM597954,NA,451871018,NA,31,0
+308512009#,Smoking monitoring status (finding),Active smoker,705057019#,1,0,1,5979551000006114#,Smoking monitoring status,^ESCTSM597955,NA,451872013,NA,1,0
+360890004#,Intolerant ex-smoker (life style),Ex-smoker,741486015#,1,0,1,6217151000006116#,Intolerant ex-smoker,^ESCTIN621715,NA,476933013,NA,31,1
+360900008#,Aggressive ex-smoker (life style),Ex-smoker,741507012#,1,0,1,6217281000006116#,Aggressive ex-smoker,^ESCTAG621728,NA,476947012,NA,31,1
+360907006#,Cessation of smoking (life style),Ex-smoker,741525017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+360918006#,Aggressive non-smoker (life style),Non-smoker,741547017#,1,0,1,6217461000006110#,Aggressive non-smoker,^ESCTAG621746,NA,476968013,NA,31,0
+360929005#,Intolerant non-smoker (life style),Non-smoker,741569012#,1,0,1,6217561000006111#,Intolerant non-smoker,^ESCTIN621756,NA,476979015,NA,31,0
+366916002#,Smoking reduced,Active smoker,773499019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+367141000#,Smoking reduced,Active smoker,773750019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+53896009#,Tolerant ex-smoker (life style),Ex-smoker,792066013#,1,0,1,3374141000006117#,Tolerant ex-smoker,^ESCTTO337414,NA,89595016,NA,31,1
+56578002#,Moderate smoker (20 or less per day) (life style),Active smoker,795105015#,1,0,1,3419101000006116#,Moderate smoker (20 or less per day),^ESCTMO341910,NA,94089011,NA,31,1
+56771006#,Heavy smoker (over 20 per day) (life style),Active smoker,795320018#,1,0,1,3422221000006116#,Heavy smoker (over 20 per day),^ESCTHE342222,NA,94417014,NA,31,1
+6368002#,Cigarette cough,Active smoker,802990013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+65909009#,Aggressive ex-smoker (life style) [Ambiguous],Ex-smoker,805464010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+87739003#,Tolerant non-smoker (life style),Non-smoker,830275011#,1,0,1,3926051000006118#,Tolerant non-smoker,^ESCTTO392605,NA,145469012,NA,31,0
+228484007#,Smoking,Active smoker,1222986016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+360890004#,Intolerant ex-smoker (finding),Ex-smoker,1457656017#,1,0,1,6217151000006116#,Intolerant ex-smoker,^ESCTIN621715,NA,476933013,NA,31,1
+360900008#,Aggressive ex-smoker (finding),Ex-smoker,1457657014#,1,0,1,6217281000006116#,Aggressive ex-smoker,^ESCTAG621728,NA,476947012,NA,31,1
+360918006#,Aggressive non-smoker (finding),Non-smoker,1457659012#,1,0,1,6217461000006110#,Aggressive non-smoker,^ESCTAG621746,NA,476968013,NA,31,0
+360929005#,Intolerant non-smoker (finding),Non-smoker,1457660019#,1,0,1,6217561000006111#,Intolerant non-smoker,^ESCTIN621756,NA,476979015,NA,31,0
+384742004#,Smoking cessation assistance (regime/therapy),Active smoker,1458920015#,1,0,1,6427931000006116#,Smoking cessation assistance,^ESCTSM642793,NA,1479064018,NA,31,0
+384742004#,Smoking cessation assistance (regime/therapy),Active smoker,1458920015#,1,0,1,11793611000006110#,Smoking cessation behaviour support,^ESCT1179361,NA,3513200015,NA,31,0
+389287002#,Cigarette consumption,Active smoker,1463466019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389288007#,Cigar consumption,Active smoker,1463467011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389289004#,Pipe tobacco consumption,Active smoker,1463468018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389300001#,Smoking cessation milestones,Ex-smoker,1463479011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390025008#,Cigarette consumption,Active smoker,1464203019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390026009#,Cigar consumption,Active smoker,1464204013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390027000#,Pipe tobacco consumption,Active smoker,1464205014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390035002#,Smoking cessation milestones,Ex-smoker,1464213010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390900001#,Smoking cessation milestones (observable entity),Ex-smoker,1465078011#,1,0,1,1484932017#,Smoking cessation milestones,13p,13p..00,1484932017,NA,17,0
+392686002#,Ready to stop smoking,Active smoker,1466867012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392687006#,Thinking about stopping smoking,Active smoker,1466868019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392688001#,Not interested in stopping smoking,Active smoker,1466869010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392689009#,Smoking restarted,Active smoker,1466870011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392705008#,Smoking free weeks,Ex-smoker,1466886016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393644001#,Ready to stop smoking,Active smoker,1467705015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393645000#,Thinking about stopping smoking,Active smoker,1467706019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393646004#,Not interested in stopping smoking,Active smoker,1467707011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393647008#,Smoking restarted,Active smoker,1467708018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393660002#,Smoking free weeks,Ex-smoker,1467721013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395177003#,Smoking free weeks (observable entity),Ex-smoker,1469117016#,1,0,1,1488873010#,Smoking free weeks,13p4,13p4.00,1488873010,NA,17,0
+395600001#,Referral to smoking cessation advisor,Active smoker,1469540012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395645002#,Referral to smoking cessation advisor,Active smoker,1469585013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+53896009#,Tolerant ex-smoker (finding),Ex-smoker,1470122014#,1,0,1,3374141000006117#,Tolerant ex-smoker,^ESCTTO337414,NA,89595016,NA,31,1
+56578002#,Moderate smoker (20 or less per day) (finding),Active smoker,1470149014#,1,0,1,3419101000006116#,Moderate smoker (20 or less per day),^ESCTMO341910,NA,94089011,NA,31,1
+56771006#,Heavy smoker (over 20 per day) (finding),Active smoker,1470152018#,1,0,1,3422221000006116#,Heavy smoker (over 20 per day),^ESCTHE342222,NA,94417014,NA,31,1
+160607006#,Ex-trivial smoker (<1/day) (finding),Ex-smoker,1470245010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160608001#,Ex-light smoker (1-9/day) (finding),Ex-smoker,1470246011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160609009#,Ex-moderate smoker (10-19/day) (finding),Ex-smoker,1470247019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160610004#,Ex-heavy smoker (20-39/day) (finding),Ex-smoker,1470248012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160611000#,Ex-very heavy smoker (40+/day) (finding),Ex-smoker,1470249016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160615009#,Ex-smoker - amount unknown (finding),Ex-smoker,1470250016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171038002#,Health education - smoking (regime/therapy),Active smoker,1470604012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171055003#,Pregnancy smoking advice (regime/therapy),Active smoker,1470619013#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Pregnancy smoking advice (regime/therapy),Active smoker,1470619013#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Pregnancy smoking advice (regime/therapy),Active smoker,1470619013#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+281080007#,Advice on smoking (regime/therapy),Active smoker,1472364012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+87739003#,Tolerant non-smoker (finding),Non-smoker,1472683010#,1,0,1,3926051000006118#,Tolerant non-smoker,^ESCTTO392605,NA,145469012,NA,31,0
+105539002#,Non-smoker for personal reasons (finding),Non-smoker,1475319018#,1,0,1,4120281000006117#,Non-smoker for personal reasons,^ESCTNO412028,NA,169634017,NA,31,0
+105540000#,Non-smoker for religious reasons (finding),Non-smoker,1475320012#,1,0,1,4120291000006119#,Non-smoker for religious reasons,^ESCTNO412029,NA,169635016,NA,31,0
+105541001#,Non-smoker for medical reasons (finding),Non-smoker,1475321011#,1,0,1,4120301000006118#,Non-smoker for medical reasons,^ESCTNO412030,NA,169636015,NA,31,0
+384742004#,Smoking cessation assistance,Active smoker,1479064018#,1,0,1,6427931000006116#,Smoking cessation assistance,^ESCTSM642793,NA,1479064018,NA,31,0
+384742004#,Smoking cessation assistance,Active smoker,1479064018#,1,0,1,11793611000006110#,Smoking cessation behaviour support,^ESCT1179361,NA,3513200015,NA,31,0
+389287002#,Cigarette consumption,Active smoker,1483324012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389288007#,Cigar consumption,Active smoker,1483325013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389289004#,Pipe tobacco consumption,Active smoker,1483326014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389300001#,Smoking cessation milestones,Ex-smoker,1483337010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390025008#,Cigarette consumption,Active smoker,1484061019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390026009#,Cigar consumption,Active smoker,1484062014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390027000#,Pipe tobacco consumption,Active smoker,1484063016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390035002#,Smoking cessation milestones,Ex-smoker,1484071017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392686002#,Ready to stop smoking,Active smoker,1486662011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392687006#,Thinking about stopping smoking,Active smoker,1486663018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392688001#,Not interested in stopping smoking,Active smoker,1486664012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392689009#,Smoking restarted,Active smoker,1486665013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392705008#,Smoking free weeks,Ex-smoker,1486681015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393644001#,Ready to stop smoking,Active smoker,1487498017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393645000#,Thinking about stopping smoking,Active smoker,1487499013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393646004#,Not interested in stopping smoking,Active smoker,1487500016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393647008#,Smoking restarted,Active smoker,1487501017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393660002#,Smoking free weeks,Ex-smoker,1487514016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395177003#,Smoking free weeks,Ex-smoker,1488873010#,1,0,1,1488873010#,Smoking free weeks,13p4,13p4.00,1488873010,NA,17,0
+395600001#,Referral to smoking cessation advisor,Active smoker,1489257019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395645002#,Referral to smoking cessation advisor,Active smoker,1489302018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+401160008#,Smoking cessation programme start date (observable entity),Active smoker,1769082011#,1,0,1,1773560017#,Smoking cessation programme start date,13p5,13p5.00,1773560017,NA,17,0
+401160008#,Smoking cessation programme start date (observable entity),Active smoker,1769082011#,1,0,1,6649431000006116#,Smoking cessation program start date,^ESCTSM664943,NA,1774846018,NA,17,0
+401160008#,Smoking cessation programme start date,Active smoker,1773560017#,1,0,1,1773560017#,Smoking cessation programme start date,13p5,13p5.00,1773560017,NA,17,0
+401160008#,Smoking cessation programme start date,Active smoker,1773560017#,1,0,1,6649431000006116#,Smoking cessation program start date,^ESCTSM664943,NA,1774846018,NA,17,0
+401160008#,Smoking cessation program start date,Active smoker,1774846018#,1,0,1,1773560017#,Smoking cessation programme start date,13p5,13p5.00,1773560017,NA,17,0
+401160008#,Smoking cessation program start date,Active smoker,1774846018#,1,0,1,6649431000006116#,Smoking cessation program start date,^ESCTSM664943,NA,1774846018,NA,17,0
+405746006#,Current non smoker but past smoking history unknown (finding),Non-smoker,2149576018#,1,0,1,6718071000006115#,Current non smoker but past smoking history unknown,^ESCTCU671807,NA,2157522017,NA,31,0
+408425002#,Lifestyle advice regarding smoking (regime/therapy),Active smoker,2152256018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+405746006#,Current non smoker but past smoking history unknown,Non-smoker,2157522017#,1,0,1,6718071000006115#,Current non smoker but past smoking history unknown,^ESCTCU671807,NA,2157522017,NA,31,0
+408425002#,Lifestyle advice regarding smoking,Active smoker,2159989013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+171055003#,Pregnancy smoking education (procedure),Active smoker,2561956017#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Pregnancy smoking education (procedure),Active smoker,2561956017#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Pregnancy smoking education (procedure),Active smoker,2561956017#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+171055003#,Pregnancy smoking education,Active smoker,2575653016#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Pregnancy smoking education,Active smoker,2575653016#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Pregnancy smoking education,Active smoker,2575653016#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+171055003#,Smoking in pregnancy education,Active smoker,2579133014#,1,0,1,265092010#,Pregnancy smoking advice,67A3,67A3.00,265092010,NA,17,0
+171055003#,Smoking in pregnancy education,Active smoker,2579133014#,1,0,1,4640171000006113#,Pregnancy smoking education,^ESCTPR464017,NA,2575653016,NA,17,0
+171055003#,Smoking in pregnancy education,Active smoker,2579133014#,1,0,1,4640191000006114#,Smoking in pregnancy education,^ESCTSM464019,NA,2579133014,NA,17,0
+137982008#,Non-smoker (& [never smoked tobacco]) (finding),Non-smoker,2710132012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+6368002#,Cigarette cough (qualifier value),Active smoker,2712164010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+155567003#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder),Active smoker,2715421019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160602000#,(Trivial smoker - < 1 cig/day) or (occasional smoker) (finding),Active smoker,2715460017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153967006#,Stop smoking monitoring admin: [monitoring] or [clinic] (regime/therapy),Active smoker,2715832011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153970005#,Stop smoking monitor default (regime/therapy),Active smoker,2721330017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153973007#,Stop smoking monitoring third letter (regime/therapy),Active smoker,2721331018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+183871002#,Referral to stop-smoking clinic (procedure),Active smoker,2721872014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137983003#,Trivial cigarette smoker (less than one cigarette/day) (finding),Active smoker,2722300010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137987002#,Very heavy cigarette smoker (40+ cigs/day) (finding),Active smoker,2722472019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138007000#,Smoking started (finding),Active smoker,2722473012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138002006#,Current non-smoker (finding),Non-smoker,2722563013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137985005#,Moderate cigarette smoker (10-19 cigs/day) (finding),Active smoker,2722573010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137984009#,Light cigarette smoker (1-9 cigs/day) (finding),Active smoker,2722574016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137986006#,Heavy cigarette smoker (20-39 cigs/day) (finding),Active smoker,2723663010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138000003#,Cigar smoker (finding),Active smoker,2725486011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137989004#,Ex-light cigarette smoker (1-9/day) (finding),Ex-smoker,2725487019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+148261009#,Health education - smoking (procedure),Active smoker,2725905018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137998001#,Pipe smoker (finding),Active smoker,2727227015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137993005#,Keeps trying to stop smoking (finding),Active smoker,2727386013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137988007#,Ex-trivial cigarette smoker (<1/day) (finding),Active smoker,2727503016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138001004#,Stopped smoking (finding),Ex-smoker,2727566010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137992000#,Ex-very heavy cigarette smoker (40+/day) (finding),Ex-smoker,2727567018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138006009#,Cigarette smoker (finding),Active smoker,2728449014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138008005#,Smoker (finding),Active smoker,2728450014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138009002#,Ex-smoker (finding),Ex-smoker,2728451013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138005008#,Ex-cigar smoker (finding),Ex-smoker,2728453011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138010007#,Date ceased smoking (finding),Ex-smoker,2728610016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+183090009#,Smoking cessation advice (procedure),Active smoker,2728826018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138004007#,Ex-pipe smoker (finding),Ex-smoker,2728866019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390027000#,Pipe tobacco consumption (finding),Active smoker,2733919012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389287002#,Cigarette consumption (observable entity),Active smoker,2734256016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392705008#,Smoking free weeks (observable entity),Ex-smoker,2734538015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392689009#,Smoking restarted (finding),Active smoker,2734991016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392688001#,Not interested in stopping smoking (finding),Active smoker,2735178013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160624000#,Ex-smoker (finding),Ex-smoker,2735217019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392686002#,Ready to stop smoking (finding),Active smoker,2735675012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+225786009#,Smoker (finding),Active smoker,2737528015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153976004#,Stop smoking monitoring delete (regime/therapy),Active smoker,2738969019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153971009#,Stop smoking monitoring first letter (regime/therapy),Active smoker,2739879012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153977008#,Stop smoking monitoring check done (regime/therapy),Active smoker,2740601019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+152100002#,Referral to stop-smoking clinic (procedure),Active smoker,2740725016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153972002#,Stop smoking monitoring second letter (regime/therapy),Active smoker,2740956017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153974001#,Stop smoking monitoring verbal invite (regime/therapy),Active smoker,2740957014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+72524004#,Intolerant non-smoker (life style),Non-smoker,2743600019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393645000#,Thinking about stopping smoking (finding),Active smoker,2744241011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395645002#,Referral to smoking cessation advisor (procedure),Active smoker,2744372013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393647008#,Smoking restarted (finding),Active smoker,2744662015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393646004#,Not interested in stopping smoking (finding),Active smoker,2744663013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+367141000#,Smoking reduced (finding),Active smoker,2744726012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390035002#,Smoking cessation milestones (observable entity),Ex-smoker,2746541012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137997006#,Trying to give up smoking (finding),Active smoker,2747161018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+366916002#,Smoking reduced (finding),Active smoker,2747374015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138003001#,Rolls own cigarettes (finding),Active smoker,2753107013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+160600008#,[Tobacco consumption] or [smoker - amount smoked] (finding),Active smoker,2753478011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+148279008#,Pregnancy smoking advice (procedure),Active smoker,2753979011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+266394006#,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder),Active smoker,2754548012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393660002#,Smoking free weeks (observable entity),Ex-smoker,2755805017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389289004#,Pipe tobacco consumption (observable entity),Active smoker,2756018015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153975000#,Stop smoking monitoring telephone invite (regime/therapy),Active smoker,2757163013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+392687006#,Thinking about stopping smoking (finding),Active smoker,2757439011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390025008#,Cigarette consumption (finding),Active smoker,2757562010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+138012004#,Tobacco consumption NOS (observable entity),Active smoker,2757641015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137991007#,Ex-heavy cigarette smoker (20-39/day) (finding),Ex-smoker,2758559010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153978003#,Stop smoking monitor admin.NOS (regime/therapy),Active smoker,2758821014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389300001#,Smoking cessation milestones (observable entity),Ex-smoker,2758882016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153969009#,Refuses stop smoking monitor (regime/therapy),Active smoker,2758935010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137990008#,Ex-moderate cigarette smoker (10-19/day) (finding),Ex-smoker,2759013011#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+65909009#,Aggressive ex-smoker (life style),Ex-smoker,2760043016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389301002#,Negotiated date for cessation of smoking (observable entity),Active smoker,2760884017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390026009#,Cigar consumption (finding),Active smoker,2761206018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+137996002#,Ex-smoker - amount unknown (finding),Ex-smoker,2761237018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+389288007#,Cigar consumption (observable entity),Active smoker,2761441017#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+390036001#,Negotiated date for cessation of smoking (observable entity),Active smoker,2761539016#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+395600001#,Referral to smoking cessation advisor (procedure),Active smoker,2761711015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+393644001#,Ready to stop smoking (finding),Active smoker,2761718014#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+151361007#,Smoking cessation advice (procedure),Active smoker,2762877018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+153968001#,Attends stop smoking monitoring (regime/therapy),Active smoker,2763033018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,0
+365982000#,Finding of tobacco smoking consumption,Active smoker,2770620010#,1,0,1,6282371000006112#,Tobacco smoking consumption - finding,^ESCTTO628237,NA,489484014,NA,31,0
+221000119102#,Never smoked any substance,Non-smoker,2916218010#,1,0,1,7965041000006111#,Never smoked any substance,^ESCTNE796504,NA,2916218010,NA,31,1
+698289004#,Water pipe smoker,Active smoker,2973829011#,1,0,1,7507191000006117#,Water pipe smoker,^ESCTWA750719,NA,2973829011,NA,31,0
+698289004#,Water pipe smoker,Active smoker,2973829011#,1,0,1,7507181000006115#,Hookah pipe smoker,^ESCTHO750718,NA,2973819016,NA,31,0
+699033005#,Provision of smoking cessation leaflet,Active smoker,2982426011#,1,0,1,2982426011#,Provision of smoking cessation leaflet,ESCTPR3,NA,2982426011,NA,37,0
+699033005#,Provision of smoking cessation leaflet (procedure),Active smoker,2982484012#,1,0,1,2982426011#,Provision of smoking cessation leaflet,ESCTPR3,NA,2982426011,NA,37,0
+1221000175102#,Age at smoking cessation (observable entity),Ex-smoker,3027293017#,1,0,1,7967851000006114#,Age at smoking cessation,^ESCTAG796785,NA,3027295012,NA,31,0
+1221000175102#,Age at smoking cessation,Ex-smoker,3027295012#,1,0,1,7967851000006114#,Age at smoking cessation,^ESCTAG796785,NA,3027295012,NA,31,0
+709507008#,Assessment of readiness for smoking cessation,Active smoker,3039829017#,1,0,1,7650811000006116#,Assessment of readiness for smoking cessation,^ESCTAS765081,NA,3039829017,NA,31,0
+709507008#,Assessment of readiness for smoking cessation (procedure),Active smoker,3040225014#,1,0,1,7650811000006116#,Assessment of readiness for smoking cessation,^ESCTAS765081,NA,3039829017,NA,31,0
+710081004#,Smoking cessation therapy (regime/therapy),Active smoker,3043159017#,1,0,1,492511000000117#,Smoking cessation therapy,745H,745H.00,3043296015,NA,32,0
+710081004#,Smoking cessation therapy (regime/therapy),Active smoker,3043159017#,1,0,1,482871000000111#,Other specified smoking cessation therapy,745Hy,745Hy00,3043296015,NA,32,0
+710081004#,Smoking cessation therapy (regime/therapy),Active smoker,3043159017#,1,0,1,489931000000114#,Smoking cessation therapy NOS,745Hz,745Hz00,3043296015,NA,32,0
+710081004#,Smoking cessation therapy,Active smoker,3043296015#,1,0,1,492511000000117#,Smoking cessation therapy,745H,745H.00,3043296015,NA,32,0
+710081004#,Smoking cessation therapy,Active smoker,3043296015#,1,0,1,482871000000111#,Other specified smoking cessation therapy,745Hy,745Hy00,3043296015,NA,32,0
+710081004#,Smoking cessation therapy,Active smoker,3043296015#,1,0,1,489931000000114#,Smoking cessation therapy NOS,745Hz,745Hz00,3043296015,NA,32,0
+48031000119106#,Ex-smoker for more than 1 year (finding),Ex-smoker,3047367018#,1,0,1,8017571000006117#,Ex-smoker for more than 1 year,^ESCTEX801757,NA,3047429015,NA,31,1
+48031000119106#,Ex-smoker for more than 1 year,Ex-smoker,3047429015#,1,0,1,8017571000006117#,Ex-smoker for more than 1 year,^ESCTEX801757,NA,3047429015,NA,31,1
+711563001#,No known exposure to tobacco smoke (finding),Non-smoker,3079029012#,1,0,1,7690211000006112#,No known exposure to tobacco smoke,^ESCTNO769021,NA,3079030019,NA,31,1
+711563001#,No known exposure to tobacco smoke,Non-smoker,3079030019#,1,0,1,7690211000006112#,No known exposure to tobacco smoke,^ESCTNO769021,NA,3079030019,NA,31,1
+712829007#,Patient request for smoking cessation information,Active smoker,3285644014#,1,0,1,7696001000006118#,Patient request for smoking cessation information,^ESCTPA769600,NA,3285644014,NA,31,0
+712829007#,Patient request for smoking cessation information (procedure),Active smoker,3285668018#,1,0,1,7696001000006118#,Patient request for smoking cessation information,^ESCTPA769600,NA,3285644014,NA,31,0
+713700008#,Smoking cessation drug therapy (regime/therapy),Active smoker,3297362010#,1,0,1,482771000000118#,Smoking cessation drug therapy,745H4,745H400,3297364011,NA,32,0
+713700008#,Smoking cessation drug therapy,Active smoker,3297364011#,1,0,1,482771000000118#,Smoking cessation drug therapy,745H4,745H400,3297364011,NA,32,0
+4531000175104#,Tobacco cessation education not done (situation),Active smoker,3305800013#,1,0,1,7979581000006117#,Tobacco cessation education not done,^ESCTTO797958,NA,3305801012,NA,31,0
+4531000175104#,Tobacco cessation education not done,Active smoker,3305801012#,1,0,1,7979581000006117#,Tobacco cessation education not done,^ESCTTO797958,NA,3305801012,NA,31,0
+735128000#,Ex-smoker for less than 1 year (finding),Ex-smoker,3513198014#,1,0,1,3513199018#,Ex-smoker for less than 1 year,^ESCT1165113,NA,3513199018,NA,31,1
+735128000#,Ex-smoker for less than 1 year,Ex-smoker,3513199018#,1,0,1,3513199018#,Ex-smoker for less than 1 year,^ESCT1165113,NA,3513199018,NA,31,1
+384742004#,Smoking cessation behaviour support,Active smoker,3513200015#,1,0,1,6427931000006116#,Smoking cessation assistance,^ESCTSM642793,NA,1479064018,NA,31,0
+384742004#,Smoking cessation behaviour support,Active smoker,3513200015#,1,0,1,11793611000006110#,Smoking cessation behaviour support,^ESCT1179361,NA,3513200015,NA,31,0
+765000002#,Monitoring of smoking cessation therapy (regime/therapy),Active smoker,3656017013#,1,0,1,12024741000006113#,Monitoring of smoking cessation therapy,^ESCT1202474,NA,3656018015,NA,31,0
+765000002#,Monitoring of smoking cessation therapy,Active smoker,3656018015#,1,0,1,12024741000006113#,Monitoring of smoking cessation therapy,^ESCT1202474,NA,3656018015,NA,31,0
+770729006#,Referral for brief intervention for smoking cessation,Active smoker,3702282012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+770729006#,Referral for brief intervention for smoking cessation (procedure),Active smoker,3702283019#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+771155005#,Brief intervention for smoking cessation,Active smoker,3704611015#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+771155005#,Brief intervention for smoking cessation (procedure),Active smoker,3704612010#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+782516008#,Number of calculated pack years for cumulative lifetime tobacco exposure (observable entity),Active smoker,3754333018#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+782516008#,Number of calculated smoking pack years,Active smoker,3754334012#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+782516008#,Number of calculated pack years for cumulative lifetime tobacco exposure,Active smoker,3754335013#,1,0,1,NA#,NA,NA,NA,NA,NA,NA,1
+221000119102#,Never smoked any substance (finding),Non-smoker,1691000119115#,1,0,1,7965041000006111#,Never smoked any substance,^ESCTNE796504,NA,2916218010,NA,31,1
+1092031000000108#,Ex-smoker amount unknown (finding),Ex-smoker,NA#,NA,NA,NA,2735181000000113#,Ex-smoker amount unknown,^ESCT1172035,NA,2.74E+15,NA,31,1
+1092041000000104#,Ex-very heavy smoker (40+/day) (finding),Ex-smoker,NA#,NA,NA,NA,2735201000000112#,Ex-very heavy smoker (40+/day),^ESCT1172036,NA,2.74E+15,NA,31,1
+1092071000000105#,Ex-heavy smoker (20-39/day) (finding),Ex-smoker,NA#,NA,NA,NA,2735281000000119#,Ex-heavy smoker (20-39/day),^ESCT1172039,NA,2.74E+15,NA,31,1
+1092091000000109#,Ex-moderate smoker (10-19/day) (finding),Ex-smoker,NA#,NA,NA,NA,2735331000000112#,Ex-moderate smoker (10-19/day),^ESCT1172042,NA,2.74E+15,NA,31,1
+1092111000000104#,Ex-light smoker (1-9/day) (finding),Ex-smoker,NA#,NA,NA,NA,2735381000000111#,Ex-light smoker (1-9/day),^ESCT1172045,NA,2.74E+15,NA,31,1
+1092131000000107#,Ex-trivial smoker (<1/day) (finding),Ex-smoker,NA#,NA,NA,NA,2735421000000119#,Ex-trivial smoker (<1/day),^ESCT1172048,NA,2.74E+15,NA,31,1
+735112005#,Date ceased using moist tobacco (observable entity),Ex-smoker,3513100012#,NA,NA,NA,3513101011#,Date ceased using moist tobacco,^ESCT1165101,NA,3513101011,NA,31,1
+735112005#,Date ceased using moist tobacco (observable entity),Ex-smoker,3513101011#,NA,NA,NA,3513101011#,Date ceased using moist tobacco,^ESCT1165101,NA,3513101011,NA,31,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,250369017#,NA,NA,NA,12482301000006115#,Admitted tobacco cons untrue ?,^ESCT1248230,NA,250369017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,250369017#,NA,NA,NA,250369017#,Admitted tobacco consumption possibly untrue,137D,137D.00,2791864017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,250369017#,NA,NA,NA,4533531000006119#,Admitted tobacco consumption possibly untrue,^ESCTAD453353,NA,4.53E+15,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,541546012#,NA,NA,NA,12482301000006115#,Admitted tobacco cons untrue ?,^ESCT1248230,NA,250369017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,541546012#,NA,NA,NA,250369017#,Admitted tobacco consumption possibly untrue,137D,137D.00,2791864017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,541546012#,NA,NA,NA,4533531000006119#,Admitted tobacco consumption possibly untrue,^ESCTAD453353,NA,4.53E+15,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2788440018#,NA,NA,NA,12482301000006115#,Admitted tobacco cons untrue ?,^ESCT1248230,NA,250369017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2788440018#,NA,NA,NA,250369017#,Admitted tobacco consumption possibly untrue,137D,137D.00,2791864017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2788440018#,NA,NA,NA,4533531000006119#,Admitted tobacco consumption possibly untrue,^ESCTAD453353,NA,4.53E+15,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2791864017#,NA,NA,NA,12482301000006115#,Admitted tobacco cons untrue ?,^ESCT1248230,NA,250369017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2791864017#,NA,NA,NA,250369017#,Admitted tobacco consumption possibly untrue,137D,137D.00,2791864017,NA,17,1
+160613002#,Admitted tobacco consumption possibly untrue (finding),Active smoker,2791864017#,NA,NA,NA,4533531000006119#,Admitted tobacco consumption possibly untrue,^ESCTAD453353,NA,4.53E+15,NA,17,1
+225934006#,Smokes in bed (finding),Active smoker,339459013#,NA,NA,NA,4948531000006116#,Smokes in bed,^ESCTSM494853,NA,339459013,NA,31,1
+225934006#,Smokes in bed (finding),Active smoker,613237018#,NA,NA,NA,4948531000006116#,Smokes in bed,^ESCTSM494853,NA,339459013,NA,31,1
+449868002#,Smokes tobacco daily (finding),Active smoker,2912728015#,NA,NA,NA,7375991000006118#,Smokes tobacco daily,^ESCTSM737599,NA,2912728015,NA,31,1
+449868002#,Smokes tobacco daily (finding),Active smoker,2913052013#,NA,NA,NA,7375991000006118#,Smokes tobacco daily,^ESCTSM737599,NA,2912728015,NA,31,1
+712971000000108#,Practice based smoking cessation programme start date (observable entity),Active smoker,NA#,NA,NA,NA,1563081000000115#,Practice based smoking cessation programme start date,13p50,13p5000,1.56E+15,NA,17,1
+755721000000107#,Consent given for follow-up by smoking cessation team (finding),Active smoker,NA#,NA,NA,NA,1662911000000114#,Consent given for follow-up by smoking cessation team,9Ndf,9Ndf.00,1.66E+15,NA,37,1
+755741000000100#,Declined consent for follow-up by smoking cessation team (finding),Active smoker,NA#,NA,NA,NA,1662951000000113#,Declined consent for follow-up by smoking cessation team,9Ndg,9Ndg.00,1.66E+15,NA,37,1
+266927001#,Tobacco smoking consumption unknown (finding),Active smoker,397743015#,NA,NA,NA,5496021000006114#,Tobacco smoking consumption unknown,^ESCTTO549602,NA,397743015,NA,17,1
+266927001#,Tobacco smoking consumption unknown (finding),Active smoker,659480018#,NA,NA,NA,5496021000006114#,Tobacco smoking consumption unknown,^ESCTTO549602,NA,397743015,NA,17,1
+1109921000000106#,Quality and Outcomes Framework quality indicator-related care invitation (procedure),Active smoker,NA#,NA,NA,NA,12625101000006116#,QOF (Quality and Outcomes Framework) quality indicator-related care invitation,^ESCT1262510,NA,2.78E+15,NA,37,1
+1110971000000101#,Quality and Outcomes Framework smoking quality indicator-related care invitation (procedure),Active smoker,NA#,NA,NA,NA,12626391000006117#,QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation,^ESCT1262639,NA,2.78E+15,NA,37,1
+143461000000103#,Quality and Outcomes Framework smoking quality indicator-related care invitation using preferred method of communication (procedure),Active smoker,NA#,NA,NA,NA,12734401000006119#,QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation using preferred method of communication,^ESCT1273440,NA,1.63E+15,NA,31,1
