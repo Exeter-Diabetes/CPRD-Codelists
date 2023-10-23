@@ -1,5 +1,7 @@
 # Exeter Diabetes codelists
-CPRD Aurum codelists from the Exeter Diabetes team. All codelists are based on an October 2020 extract of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
+CPRD Aurum codelists from the Exeter Diabetes team. These include medcode (for use with the Observation table) and prodcode (for use with the Drug Issue table) lists, as well as ICD10 and OPCS4 codelists for use with linked HES APC data. We have also included Read and SNOMED codelists created during medcode list development (see Code list generation process below).
+
+All codelists are based on an October 2020 extract of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
 
 Our scripts which use these codelists and the below algorithms to define cohorts and pull in relevant biomarker/comorbidity/sociodemographic information from CPRD Aurum can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts).
 
@@ -169,9 +171,9 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 ## Code list generation process
 
 ### Medcodes
-In order to generate medcode lists for use in our CPRD Aurum dataset, we developed a flexible pipeline that is adaptable to any condition, biomarker*, or sociodemographic feature (as detailed in the flow diagram below). This process generates Read and SNOMED code lists, as GP systems are switching from using Read codes to SNOMED codes, and maps them to medcodes (CPRD’s own coding format). The pipeline uses published code lists from online repositories as inputs where available, as well as term searching and mapping from Read to SNOMED codes. All code lists generated using this pipeline are reviewed by a clinician. 
+In order to generate medcode lists for use in our CPRD Aurum dataset, we developed a flexible pipeline that is adaptable to any condition, biomarker*, or sociodemographic feature (as detailed in the flow diagram below). This process generates Read and SNOMED code lists, as GP systems are switching from using Read codes to SNOMED codes, and maps them to medcodes (CPRD’s own coding format). The pipeline uses published code lists from online repositories as inputs where available, as well as term searching and mapping from Read to SNOMED codes. All code lists generated using this pipeline are reviewed by a clinician (with the exception of BMI, height, weight, and blood pressure, which were able to be reviewed by non-clinicians). Read and SNOMED codelists produced by this pipeline are also available in this repository (see Medcode  
 <img src="https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/Images/codelist_generation_pipeline.png?" width="1000">
-*Exception: For most biomarkers (excluding BMI, height, weight, and blood pressure, which used the above process) we have used the NHS Pathology Bounded Code List (PBCL), a subset of codes used for the majority of test reporting. We term searched the PBCL list for each biomarker and then mapped the resulting Read/ SNOMED codes to medcodes (clinician review not necessary).
+*Exception: For most biomarkers (excluding BMI, height, weight, and blood pressure, which used the above process but not clinician-reviewed as this was not necessary) we have used the NHS Pathology Bounded Code List (PBCL), a subset of codes used for the majority of test reporting. We term searched the PBCL list for each biomarker and then mapped the resulting Read/ SNOMED codes to medcodes (clinician review not necessary).
 
 
 ### Other
