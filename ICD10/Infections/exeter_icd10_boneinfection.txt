@@ -1,0 +1,7 @@
+ICD10	Term_description
+B45.3	Osseous cryptococcosis
+B67.2	Echinococcus granulosus infection of bone
+M46.2	Osteomyelitis of vertebra
+M86	Osteomyelitis
+M90.1	Periostitis in other infectious diseases classified elsewhere
+M90.2	Osteopathy in other infectious diseases classified elsewhere

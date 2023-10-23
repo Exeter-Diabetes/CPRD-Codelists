@@ -1,0 +1,15 @@
+ICD10	Term_description
+O86.0	Infection of obstetric surgical wound
+T79.3	Post-traumatic wound infection, not elsewhere classified
+T80.2	Infections following infusion, transfusion and therapeutic injection
+T81.4	Infection following a procedure, not elsewhere classified
+T82.6	Infection and inflammatory reaction due to cardiac valve prosthesis
+T82.7	Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts
+T83.5	Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system
+T83.6	Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract
+T84.5	Infection and inflammatory reaction due to internal joint prosthesis
+T84.6	Infection and inflammatory reaction due to internal fixation device [any site]
+T84.7	Infection and inflammatory reaction due to other internal orthopaedic prosthetic devices, implants and grafts
+T85.7	Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts
+T87.4	Infection of amputation stump
+T88.0	Infection following immunization

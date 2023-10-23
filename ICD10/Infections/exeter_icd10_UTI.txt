@@ -1,0 +1,15 @@
+ICD10	Term_description
+N08.0	Glomerular disorders in infectious and parasitic diseases classified elsewhere
+N10	Acute tubulo-interstitial nephritis
+N12	Tubulo-interstitial nephritis, not specified as acute or chronic
+N13.6	Pyonephrosis
+N15.1	Renal and perinephric abscess
+N15.9	Renal tubulo-interstitial disease, unspecified
+N16.0	Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere
+N29.0	Late syphilis of kidney
+N29.1	Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere
+N30	Cystitis
+N33.0	Tuberculous cystitis
+N34	Urethritis and urethral syndrome
+N37.0	Urethritis in diseases classified elsewhere
+N39.0	Urinary tract infection, site not specified

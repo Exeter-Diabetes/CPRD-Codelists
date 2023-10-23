@@ -1,0 +1,19 @@
+ICD10	Term_description
+A00	Cholera
+A01	Typhoid and paratyphoid fevers
+A02.0	Salmonella enteritis
+A02.2	Localized salmonella infections
+A02.8	Other specified salmonella infections
+A02.9	Salmonella infection, unspecified
+A03	Shigellosis
+A04	Other bacterial intestinal infections
+A05	Other bacterial foodborne intoxications, not elsewhere classified
+A06	Amoebiasis
+A07	Other protozoal intestinal diseases
+A08	Viral and other specified intestinal infections
+A09	Other gastroenteritis and colitis of infectious and unspecified origin
+A21.3	Gastrointestinal tularaemia
+A22.2	Gastrointestinal anthrax
+B46.2	Gastrointestinal mucormycosis
+B78.0	Intestinal strongyloidiasis
+B98.0	Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters

@@ -1,0 +1,7 @@
+ICD10	Term_description
+H60.1	Cellulitis of external ear
+K12.2	Cellulitis and abscess of mouth
+L03	Cellulitis
+N73.0	Acute parametritis and pelvic cellulitis
+N73.1	Chronic parametritis and pelvic cellulitis
+N73.2	Unspecified parametritis and pelvic cellulitis

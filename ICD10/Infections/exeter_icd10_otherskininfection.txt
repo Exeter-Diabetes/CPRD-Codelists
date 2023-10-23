@@ -1,0 +1,44 @@
+ICD10	Term_description
+A06.7	Cutaneous amoebiasis
+A20.1	Cellulocutaneous plague
+A21.0	Ulceroglandular tularaemia
+A22.0	Cutaneous anthrax
+A26.0	Cutaneous erysipeloid
+A31.1	Cutaneous mycobacterial infection
+A32.0	Cutaneous listeriosis
+A36.3	Cutaneous diphtheria
+A43.1	Cutaneous nocardiosis
+A46	Erysipelas
+A49.0	Staphylococcal infection, unspecified site
+A51.3	Secondary syphilis of skin and mucous membranes
+B00.0	Eczema herpeticum
+B00.1	Herpesviral vesicular dermatitis
+B07	Viral warts
+B08	Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified
+B09	Unspecified viral infection characterized by skin and mucous membrane lesions
+B35	Dermatophytosis
+B36	Other superficial mycoses
+B37.2	Candidiasis of skin and nail
+B38.3	Cutaneous coccidioidomycosis
+B40.3	Cutaneous blastomycosis
+B42.1	Lymphocutaneous sporotrichosis
+B43.0	Cutaneous chromomycosis
+B43.2	Subcutaneous phaeomycotic abscess and cyst
+B45.2	Cutaneous cryptococcosis
+B46.3	Cutaneous mucormycosis
+B55.1	Cutaneous leishmaniasis
+B78.1	Cutaneous strongyloidiasis
+J34.0	Abscess, furuncle and carbuncle of nose
+L00	Staphylococcal scalded skin syndrome
+L01	Impetigo
+L02	Cutaneous abscess, furuncle and carbuncle
+L04	Acute lymphadenitis
+L05	Pilonidal cyst
+L08.0	Pyoderma
+L08.1	Erythrasma
+L08.8	Other specified local infections of skin and subcutaneous tissue
+L08.9	Local infection of skin and subcutaneous tissue, unspecified
+L30.3	Infective dermatitis
+L66.3	Perifolliculitis capitis abscedens
+L66.4	Folliculitis ulerythematosa reticulata
+L73.9	Follicular disorder, unspecified

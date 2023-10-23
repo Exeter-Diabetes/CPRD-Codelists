@@ -1,0 +1,31 @@
+ICD10	Term_description
+A36.0	Pharyngeal diphtheria
+A36.1	Nasopharyngeal diphtheria
+A36.2	Laryngeal diphtheria
+A38	Scarlet fever
+A54.5	Gonococcal pharyngitis
+A56.4	Chlamydial infection of pharynx
+B05.3	Measles complicated by otitis media
+B27	Infectious mononucleosis
+B44.2	Tonsillar aspergillosis
+B87.3	Nasopharyngeal myiasis
+B87.4	Aural myiasis
+H65	Nonsuppurative otitis media
+H65.0	Acute serous otitis media
+H65.1	Other acute nonsuppurative otitis media
+H66	Suppurative and unspecified otitis media
+H67	Otitis media in diseases classified elsewhere
+H70	Mastoiditis and related conditions
+H73.0	Acute myringitis
+H73.1	Chronic myringitis
+H75.0	Mastoiditis in infectious and parasitic diseases classified elsewhere
+J00	Acute nasopharyngitis [common cold]
+J02	Acute pharyngitis
+J03	Acute tonsillitis
+J04	Acute laryngitis and tracheitis
+J05	Acute obstructive laryngitis [croup] and epiglottitis
+J06	Acute upper respiratory infections of multiple and unspecified sites
+J36	Peritonsillar abscess
+J37	Chronic laryngitis and laryngotracheitis
+J39.0	Retropharyngeal and parapharyngeal abscess
+J39.1	Other abscess of pharynx

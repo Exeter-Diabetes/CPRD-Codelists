@@ -1,0 +1,18 @@
+ICD10	Term_description
+A02.1	Salmonella sepsis
+A20.7	Septicaemic plague
+A22.7	Anthrax sepsis
+A24.1	Acute and fulminating melioidosis
+A26.7	Erysipelothrix sepsis
+A32.7	Listerial sepsis
+A39.1	Waterhouse-Friderichsen syndrome
+A39.2	Acute meningococcaemia
+A40	Streptococcal sepsis
+A41	Other sepsis
+A42.7	Actinomycotic sepsis
+A48.3	Toxic shock syndrome
+B37.7	Candidal sepsis
+O75.3	Other infection during labour
+O85	Puerperal sepsis
+R57.2	Septic shock
+T88.0	Infection following immunization

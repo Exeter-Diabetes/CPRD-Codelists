@@ -1,0 +1,19 @@
+ICD10	Term_description
+A15	Respiratory tuberculosis, bacteriologically and histologically confirmed
+A16	Respiratory tuberculosis, not confirmed bacteriologically or histologically
+A17	Tuberculosis of nervous system
+A18	Tuberculosis of other organs
+A19	Miliary tuberculosis
+B20.0	HIV disease resulting in mycobacterial infection
+B90	Sequelae of tuberculosis
+J65	Pneumoconiosis associated with tuberculosis
+K23.0	Tuberculous oesophagitis
+K67.3	Tuberculous peritonitis
+K93.0	Tuberculous disorders of intestines, peritoneum and mesenteric glands
+M01.1	Tuberculous arthritis
+M49.0	Tuberculosis of spine
+M90.0	Tuberculosis of bone
+N33.0	Tuberculous cystitis
+N74.0	Tuberculous infection of cervix uteri
+N74.1	Female tuberculous pelvic inflammatory disease
+P37.0	Congenital tuberculosis

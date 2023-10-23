@@ -1,0 +1,10 @@
+ICD10	Term_description
+A54.4	Gonococcal infection of musculoskeletal system
+M00	Pyogenic arthritis
+M01	Direct infections of joint in infectious and parasitic diseases classified elsewhere
+M46.3	Infection of intervertebral disc (pyogenic)
+M46.4	Discitis, unspecified
+M46.5	Other infective spondylopathies
+M49.1	Brucella spondylitis
+M49.2	Enterobacterial spondylitis
+M49.3	Spondylopathy in other infectious and parasitic diseases classified elsewhere

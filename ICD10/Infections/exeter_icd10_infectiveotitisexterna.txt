@@ -1,0 +1,13 @@
+ICD10	Term_description
+H60.0	Abscess of external ear
+H60.1	Cellulitis of external ear
+H60.2	Malignant otitis externa
+H60.3	Other infective otitis externa
+H60.4	Cholesteatoma of external ear
+H60.8	Other otitis externa
+H60.9	Otitis externa, unspecified
+H62.0	Otitis externa in bacterial diseases classified elsewhere
+H62.1	Otitis externa in viral diseases classified elsewhere
+H62.2	Otitis externa in mycoses
+H62.3	Otitis externa in other infectious and parasitic diseases classified elsewhere
+H62.4	Otitis externa in other diseases classified elsewhere

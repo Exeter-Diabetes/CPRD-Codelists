@@ -1,0 +1,22 @@
+ICD10	Term_description
+A21.1	Oculoglandular tularaemia
+A54.3	Gonococcal infection of eye
+A71	Trachoma
+A74.0	Chlamydial conjunctivitis
+B00.5	Herpesviral ocular disease
+B02.3	Zoster ocular disease
+B30	Viral conjunctivitis
+B58.0	Toxoplasma oculopathy
+B69.1	Cysticercosis of eye
+B87.2	Ocular myiasis
+B94.0	Sequelae of trachoma
+H00.0	Hordeolum and other deep inflammation of eyelid
+H10.0	Mucopurulent conjunctivitis
+H10.2	Other acute conjunctivitis
+H10.3	Acute conjunctivitis, unspecified
+H10.5	Blepharoconjunctivitis
+H13.1	Conjunctivitis in infectious and parasitic diseases classified elsewhere
+H16	Keratitis
+H19.1	Herpesviral keratitis and keratoconjunctivitis
+H19.2	Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere
+H44.0	Purulent endophthalmitis

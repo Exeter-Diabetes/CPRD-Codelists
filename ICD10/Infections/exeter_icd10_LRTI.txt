@@ -1,0 +1,36 @@
+ICD10	Term_description
+A06.5	Amoebic lung abscess
+A20.2	Pneumonic plague
+A21.2	Pulmonary tularaemia
+A22.1	Pulmonary Anthrax
+A31.0	Pulmonary mycobacterial infection
+A37	Whooping cough
+A42.0	Pulmonary actinomycosis
+A43.0	Pulmonary nocardiosis
+B25.0	Cytomegaloviral pneumonitis
+B37.1	Pulmonary candidiasis
+B38.0	Acute pulmonary coccidioidomycosis
+B38.1	Chronic pulmonary coccidioidomycosis
+B38.2	Pulmonary coccidioidomycosis, unspecified
+B39.0	Acute pulmonary histoplasmosis capsulati
+B39.1	Chronic pulmonary histoplasmosis capsulati
+B39.2	Pulmonary histoplasmosis capsulati, unspecified
+B40.0	Acute pulmonary blastomycosis
+B40.1	Chronic pulmonary blastomycosis
+B40.2	Pulmonary blastomycosis, unspecified
+B41.0	Pulmonary paracoccidioidomycosis
+B42.0	Pulmonary sporotrichosis
+B44.0	Invasive pulmonary aspergillosis
+B44.1	Other pulmonary aspergillosis
+B45.0	Pulmonary cryptococcosis
+B46.0	Pulmonary mucormycosis
+B58.3	Pulmonary toxoplasmosis
+B59	Pneumocystosis
+B67.1	Echinococcus granulosus infection of lung
+J20	Acute bronchitis
+J21	Acute bronchiolitis
+J22	Unspecified acute lower respiratory infection
+J44.0	Chronic obstructive pulmonary disease with acute lower respiratory infection
+J44.1	Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+J85.0	Gangrene and necrosis of lung
+J85.2	Abscess of lung without pneumonia

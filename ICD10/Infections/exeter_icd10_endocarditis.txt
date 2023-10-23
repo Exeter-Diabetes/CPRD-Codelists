@@ -1,0 +1,6 @@
+ICD10	Term_description
+B37.6	Candidal endocarditis
+I01.1	Acute rheumatic endocarditis
+I33	Acute and subacute endocarditis
+I38	Endocarditis, valve unspecified
+I39.8	Endocarditis, valve unspecified, in diseases classified elsewhere

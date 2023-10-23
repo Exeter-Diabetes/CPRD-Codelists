@@ -1,0 +1,18 @@
+ICD10	Term_description
+A20.3	Plague meningitis
+A32.1	Listerial meningitis and meningoencephalitis
+A39.0	Meningococcal meningitis
+A87	Viral meningitis
+B00.3	Herpesviral meningitis
+B01.0	Varicella meningitis
+B02.1	Zoster meningitis
+B05.1	Measles complicated by meningitis
+B26.1	Mumps meningitis
+B37.5	Candidal meningitis
+B38.4	Coccidioidomycosis meningitis
+G00	Bacterial meningitis, not elsewhere classified
+G01	Meningitis in bacterial diseases classified elsewhere
+G02	Meningitis in other infectious and parasitic diseases classified elsewhere
+G03.0	Nonpyogenic meningitis
+G03.8	Meningitis due to other specified causes
+G03.9	Meningitis, unspecified

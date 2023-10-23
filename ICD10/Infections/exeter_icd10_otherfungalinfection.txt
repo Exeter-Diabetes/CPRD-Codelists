@@ -1,0 +1,19 @@
+ICD10	Term_description
+B35	Dermatophytosis
+B36	Other superficial mycoses
+B38	Coccidioidomycosis
+B39	Histoplasmosis
+B40	Blastomycosis
+B41	Paracoccidioidomycosis
+B42	Sporotrichosis
+B43	Chromomycosis and phaeomycotic abscess
+B44	Aspergillosis
+B45	Cryptococcosis
+B46	Zygomycosis
+B47	Mycetoma
+B48	Other mycoses, not elsewhere classified
+B49	Unspecified mycosis
+G02.1	Meningitis in mycoses
+H62.2	Otitis externa in mycoses
+J17.2	Pneumonia in mycoses
+M01.6	Arthritis in mycoses

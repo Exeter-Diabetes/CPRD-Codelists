@@ -1,0 +1,5 @@
+ICD10	Term_description
+K80.0	Calculus of gallbladder with acute cholecystitis
+K80.4	Calculus of bile duct with cholecystitis
+K81.0	Acute cholecystitis
+K81.9	Cholecystitis, unspecified
