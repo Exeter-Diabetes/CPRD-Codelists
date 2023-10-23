@@ -179,6 +179,7 @@ In order to generate medcode lists for use in our CPRD Aurum dataset, we develop
 
 Read and SNOMED codelists produced by this pipeline are also available in this repository: where available, they are located in each of the subfolders in the [Medcodes](https://github.com/Exeter-Diabetes/CPRD-Codelists/tree/main/Medcodes) folder. Note that Read and SNOMED codelists are csv files and may have hash (#) symbols as prefixes in the 'readcode'/'snomedcode' and 'medcodeid' columns to prevent rounding when the csv files are opended in Excel. 
 
+&nbsp;
 
 ### Other
 ICD-10, and OPCS-4 code lists do not use this pipeline, but are all put together with input from a clinician. For prodcodes, we generated a list of all generic and brand names for the medication of interest and searched for these in the CPRD Product Dictionary, and the final codelist was then reviewed by a clinician.
