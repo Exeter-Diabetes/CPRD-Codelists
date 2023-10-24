@@ -126,8 +126,6 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 * For each person, if the 16-category or QRISK2-category category conflicts with the 5-category ethnicity\*, the 16-/QRISK2-category ethnicity is set to unknown
 * For any unknown ethnicities, secondary care [HES] ethnicity is used where available and where is identical to 5-category ethncity (or where 5-category ethnicity missing)
 
-Note that CPRD also provide patient ethnicity (at a fee) based on their own ethnicity algorithm incorporating primary care and HES data. The medcodes which they use do not differ substantially to ours (based on usage in our October 2020 download of patients with diabetes), although their algorithm does differ slightly (paper here: https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-023-00302-0).
-
 &nbsp;
 
 \*Conflicts:
@@ -140,6 +138,10 @@ Note that CPRD also provide patient ethnicity (at a fee) based on their own ethn
 * If 5-category ethnicity is 'Black' and
   * 16-category ethnicity is 'White British', 'White Irish', 'Other White', 'White and Asian', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
   * QRISK2-category ethnicity is 'White', 'Indian', 'Pakistani', 'Bangladeshi', 'Other Asian', or 'Chinese'
+
+&nbsp;
+
+Note that CPRD also provide patient ethnicity (at a fee) based on their own ethnicity algorithm incorporating primary care and HES data. The medcodes which they use do not differ substantially to ours (based on usage in our October 2020 download of patients with diabetes), although their algorithm does differ slightly (paper here: https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-023-00302-0).
 
 &nbsp;
 
