@@ -120,11 +120,15 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 ## Sociodemographics algorithms
 
 ### Ethnicity
-* Three different ethnicity variables are produced: 5-category, 16-category, and QRISK2-category. Each is determined separately by:
+* Three different ethnicity variables are produced: 5-category (0=White, 1=South Asian, 2=Black, 3=Other, 4=Mixed, 5=Unknown), 16-category (1=White British, 2=White Irish, 3=Other White, 4=White and Black Caribbean, 5=White and Black African, 6=White and Asian, 7=Other Mixed, 8=Indian, 9=Pakistani, 10=Bangladeshi, 11=Other Asian, 12=Caribbean, 13=African, 14=Other Black, 15=Chinese, 16=Other, 17=Unknown), and QRISK2-category (1=White, 2=Indian, 3=Pakistani, 4=Bangladeshi, 5=Other Asian, 6=Black Caribbean, 7=Black African, 8=Chinese, 9=Other). Each is determined separately by:
   * Taking the most commonly recorded ethnicity category, excluding all 'unknown' ethnicity codes
   * If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
 * For each person, if the 16-category or QRISK2-category category conflicts with the 5-category ethnicity\*, the 16-/QRISK2-category ethnicity is set to unknown
 * For any unknown ethnicities, secondary care [HES] ethnicity is used where available and where is identical to 5-category ethncity (or where 5-category ethnicity missing)
+
+&nbsp;
+
+Note that for 5-category ethnicity, group 1 is defined as South Asian and includes Indian, Pakistani, Bangladeshi, and Other Asian, whilst Chinese ethnicity is included in group 3 (Other), as per the 2001 census categories. For the 2011 census, Chinese ethnicity was included in group 1 to make an 'Asian' category.
 
 &nbsp;
 
