@@ -1,0 +1,148 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+3161241000033111	134460003	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 300.000mg	2050502	NA
+3161141000033116	134461004	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 150.000mg	2050502	NA
+2272641000033119	134463001	Telmisartan 20mg tablets	Telmisartan 20mg tablets	Tablet	Oral	Telmisartan	20.000mg	2050502	NA
+851841000033117	318955005	Losartan 25mg tablets	Losartan 25mg tablets	Tablet	Oral	Losartan potassium	25.000mg	2050502	NA
+851941000033113	318956006	Losartan 50mg tablets	Losartan 50mg tablets	Tablet	Oral	Losartan potassium	50.000mg	2050502	NA
+3161741000033117	318959004	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 50.000mg	2050502	NA
+1498341000033118	318961008	Valsartan 40mg capsules	Valsartan 40mg capsules	Capsule	Oral	Valsartan	40.000mg	2050502	NA
+1498441000033112	318962001	Valsartan 80mg capsules	Valsartan 80mg capsules	Capsule	Oral	Valsartan	80.000mg	2050502	NA
+1498241000033111	318963006	Valsartan 160mg capsules	Valsartan 160mg capsules	Capsule	Oral	Valsartan	160.000mg	2050502	NA
+775641000033115	318968002	Irbesartan 75mg tablets	Irbesartan 75mg tablets	Tablet	Oral	Irbesartan	75.000mg	2050502	NA
+775441000033117	318969005	Irbesartan 150mg tablets	Irbesartan 150mg tablets	Tablet	Oral	Irbesartan	150.000mg	2050502	NA
+775541000033116	318970006	Irbesartan 300mg tablets	Irbesartan 300mg tablets	Tablet	Oral	Irbesartan	300.000mg	2050502	NA
+211641000033118	318977009	Candesartan 2mg tablets	Candesartan 2mg tablets	Tablet	Oral	Candesartan cilexetil	2.000mg	2050502	NA
+211741000033110	318978004	Candesartan 4mg tablets	Candesartan 4mg tablets	Tablet	Oral	Candesartan cilexetil	4.000mg	2050502	NA
+211841000033117	318979007	Candesartan 8mg tablets	Candesartan 8mg tablets	Tablet	Oral	Candesartan cilexetil	8.000mg	2050502	NA
+211541000033119	318980005	Candesartan 16mg tablets	Candesartan 16mg tablets	Tablet	Oral	Candesartan cilexetil	16.000mg	2050502	NA
+1849541000033118	318986004	Telmisartan 40mg tablets	Telmisartan 40mg tablets	Tablet	Oral	Telmisartan	40.000mg	2050502	NA
+1849641000033117	318987008	Telmisartan 80mg tablets	Telmisartan 80mg tablets	Tablet	Oral	Telmisartan	80.000mg	2050502	NA
+2036341000033115	318994006	Eprosartan 300mg tablets	Eprosartan 300mg tablets	Tablet	Oral	Eprosartan mesilate	300.000mg	2050502	NA
+2036441000033114	318995007	Eprosartan 400mg tablets	Eprosartan 400mg tablets	Tablet	Oral	Eprosartan mesilate	400.000mg	2050502	NA
+2036541000033110	318996008	Eprosartan 600mg tablets	Eprosartan 600mg tablets	Tablet	Oral	Eprosartan mesilate	600.000mg	2050502	NA
+6515441000033113	375034009	Valsartan 80mg tablets	Valsartan 80mg tablets	Tablet	Oral	Valsartan	80.000mg	NA	NA
+6515541000033114	375035005	Valsartan 160mg tablets	Valsartan 160mg tablets	Tablet	Oral	Valsartan	160.000mg	NA	NA
+4424941000033113	376487009	Valsartan 320mg tablets	Valsartan 320mg tablets	Tablet	Oral	Valsartan	320.000mg	NA	NA
+3227241000033111	376998003	Candesartan 32mg tablets	Candesartan 32mg tablets	Tablet	Oral	Candesartan cilexetil	32.000mg	NA	NA
+3190741000033112	377488008	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 80.000mg	2050502	NA
+2944641000033112	385542009	Olmesartan medoxomil 20mg tablets	Olmesartan medoxomil 20mg tablets	Tablet	Oral	Olmesartan medoxomil	20.000mg	2050502	NA
+2944741000033115	385543004	Olmesartan medoxomil 40mg tablets	Olmesartan medoxomil 40mg tablets	Tablet	Oral	Olmesartan medoxomil	40.000mg	2050502	NA
+3346841000033117	395497004	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	25.000mg + 100.000mg	NA	NA
+3161441000033112	395521005	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 160.000mg	2050502	NA
+2720141000033115	407784004	Losartan 100mg tablets	Losartan 100mg tablets	Tablet	Oral	Losartan potassium	100.000mg	2050502	NA
+3162641000033119	407855002	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	2050502	NA
+3162741000033111	407856001	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	2050502	NA
+2944541000033111	408055003	Olmesartan medoxomil 10mg tablets	Olmesartan medoxomil 10mg tablets	Tablet	Oral	Olmesartan medoxomil	10.000mg	2050502	NA
+3908941000033112	409184002	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 20.000mg	2050502	NA
+5566341000033111	409185001	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 40.000mg	NA	NA
+3161541000033113	409298002	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	25.000mg + 160.000mg	2050502	NA
+3201341000033115	416515008	Valsartan 40mg tablets	Valsartan 40mg tablets	Tablet	Oral	Valsartan	40.000mg	2050502	NA
+5005841000033114	429502004	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	2050502	NA
+5005941000033118	429503009	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	2050502	NA
+5006041000033111	429678006	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	2050502	NA
+59441000033117	36011000001106	Amias 8mg tablets (Takeda UK Ltd)	Amias 8mg tablets	Tablet	Oral	Candesartan cilexetil	8.000mg	2050502	NA
+370541000033113	53611000001106	Cozaar 50mg tablets (Merck Sharp & Dohme Ltd)	Cozaar 50mg tablets	Tablet	Oral	Losartan potassium	50.000mg	2050502	NA
+59241000033118	97311000001103	Amias 2mg tablets (Takeda UK Ltd)	Amias 2mg tablets	Tablet	Oral	Candesartan cilexetil	2.000mg	2050502	NA
+437641000033118	117011000001107	Diovan 160mg capsules (Novartis Pharmaceuticals UK Ltd)	Diovan 160mg capsules	Capsule	Oral	Valsartan	160.000mg	2050502	NA
+2040941000033117	151411000001103	Teveten 400mg tablets (Abbott Healthcare Products Ltd)	Teveten 400mg tablets	Tablet	Oral	Eprosartan mesilate	400.000mg	2050502	NA
+2720241000033110	245811000001102	Cozaar 100mg tablets (Merck Sharp & Dohme Ltd)	Cozaar 100mg tablets	Tablet	Oral	Losartan potassium	100.000mg	2050502	NA
+370841000033110	255911000001105	Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Cozaar-Comp 50mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 50.000mg	2050502	NA
+370441000033112	266511000001104	Cozaar 25mg tablets (Merck Sharp & Dohme Ltd)	Cozaar 25mg tablets	Tablet	Oral	Losartan potassium	25.000mg	2050502	NA
+76041000033116	323211000001107	Aprovel 300mg tablets (Sanofi)	Aprovel 300mg tablets	Tablet	Oral	Irbesartan	300.000mg	2050502	NA
+2040841000033113	401211000001105	Teveten 300mg tablets (Mylan)	Teveten 300mg tablets	Tablet	Oral	Eprosartan mesilate	300.000mg	2050502	NA
+76141000033117	434511000001104	Aprovel 75mg tablets (Sanofi)	Aprovel 75mg tablets	Tablet	Oral	Irbesartan	75.000mg	2050502	NA
+1849841000033116	527411000001102	Micardis 80mg tablets (Boehringer Ingelheim Ltd)	Micardis 80mg tablets	Tablet	Oral	Telmisartan	80.000mg	2050502	NA
+437841000033117	554511000001105	Diovan 80mg capsules (Novartis Pharmaceuticals UK Ltd)	Diovan 80mg capsules	Capsule	Oral	Valsartan	80.000mg	2050502	NA
+2272741000033111	648711000001100	Micardis 20mg tablets (Boehringer Ingelheim Ltd)	Micardis 20mg tablets	Tablet	Oral	Telmisartan	20.000mg	2050502	NA
+2216241000033110	682711000001109	CoAprovel 300mg/12.5mg tablets (Sanofi)	CoAprovel 300mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 300.000mg	2050502	NA
+437741000033110	777611000001101	Diovan 40mg capsules (Novartis Pharmaceuticals UK Ltd)	Diovan 40mg capsules	Capsule	Oral	Valsartan	40.000mg	2050502	NA
+2216141000033115	792411000001108	CoAprovel 150mg/12.5mg tablets (Sanofi)	CoAprovel 150mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 150.000mg	2050502	NA
+59341000033111	857411000001100	Amias 4mg tablets (Takeda UK Ltd)	Amias 4mg tablets	Tablet	Oral	Candesartan cilexetil	4.000mg	2050502	NA
+75941000033114	859711000001103	Aprovel 150mg tablets (Sanofi)	Aprovel 150mg tablets	Tablet	Oral	Irbesartan	150.000mg	2050502	NA
+2041041000033110	872011000001109	Teveten 600mg tablets (Mylan)	Teveten 600mg tablets	Tablet	Oral	Eprosartan mesilate	600.000mg	2050502	NA
+59141000033113	908511000001100	Amias 16mg tablets (Takeda UK Ltd)	Amias 16mg tablets	Tablet	Oral	Candesartan cilexetil	16.000mg	2050502	NA
+1849741000033114	924911000001106	Micardis 40mg tablets (Boehringer Ingelheim Ltd)	Micardis 40mg tablets	Tablet	Oral	Telmisartan	40.000mg	2050502	NA
+2864241000033110	3806311000001109	MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	2050502	NA
+2864341000033117	3806911000001105	MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	2050502	NA
+2944841000033113	4624011000001101	Olmetec 10mg tablets (Daiichi Sankyo UK Ltd)	Olmetec 10mg tablets	Tablet	Oral	Olmesartan medoxomil	10.000mg	2050502	NA
+2944941000033117	4624311000001103	Olmetec 20mg tablets (Daiichi Sankyo UK Ltd)	Olmetec 20mg tablets	Tablet	Oral	Olmesartan medoxomil	20.000mg	2050502	NA
+2945041000033117	4624611000001108	Olmetec 40mg tablets (Daiichi Sankyo UK Ltd)	Olmetec 40mg tablets	Tablet	Oral	Olmesartan medoxomil	40.000mg	2050502	NA
+3152541000033112	7668611000001104	Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 160mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 160.000mg	2050502	NA
+3152641000033113	7668911000001105	Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 160mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	25.000mg + 160.000mg	2050502	NA
+3190841000033119	8150111000001108	Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 80.000mg	2050502	NA
+3201441000033114	8263211000001101	Diovan 40mg tablets (Novartis Pharmaceuticals UK Ltd)	Diovan 40mg tablets	Tablet	Oral	Valsartan	40.000mg	2050502	NA
+5970641000033117	8580811000001101	Irbesartan 150mg/5ml oral suspension	Irbesartan 150mg/5ml oral suspension	Oral suspension	Oral	Irbesartan	30.000mg/1.000ml	NA	NA
+3227341000033118	8983911000001107	Amias 32mg tablets (Takeda UK Ltd)	Amias 32mg tablets	Tablet	Oral	Candesartan cilexetil	32.000mg	NA	NA
+3346941000033113	9566911000001105	Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd)	Cozaar-Comp 100mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	25.000mg + 100.000mg	NA	NA
+3909141000033116	10261511000001103	Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 20.000mg	2050502	NA
+3909241000033111	10261811000001100	Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 20mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	25.000mg + 20.000mg	2050502	NA
+3909041000033115	10270711000001105	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	25.000mg + 20.000mg	2050502	NA
+3995341000033119	10968611000001106	CoAprovel 300mg/25mg tablets (Sanofi)	CoAprovel 300mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	25.000mg + 300.000mg	NA	NA
+3995241000033112	10970311000001105	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	25.000mg + 300.000mg	NA	NA
+4021641000033111	11160111000001107	Amlodipine 10mg / Valsartan 160mg tablets	Amlodipine 10mg / Valsartan 160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	2060200	NA
+4021541000033110	11160211000001101	Amlodipine 5mg / Valsartan 160mg tablets	Amlodipine 5mg / Valsartan 160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	2060200	NA
+4021441000033114	11160311000001109	Amlodipine 5mg / Valsartan 80mg tablets	Amlodipine 5mg / Valsartan 80mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	2060200	NA
+4021941000033116	11160711000001108	Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 10mg/160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	2060200	NA
+4021841000033112	11161511000001105	Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	2060200	NA
+4021741000033119	11161811000001108	Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/80mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	2060200	NA
+4954341000033111	12639511000001103	Irbesartan 300mg/5ml oral suspension	Irbesartan 300mg/5ml oral suspension	Oral suspension	Oral	Irbesartan	60.000mg/1.000ml	NA	NA
+4424841000033117	13094111000001102	Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Cozaar-Comp 100mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 100.000mg	NA	NA
+4424741000033110	13112711000001103	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 100.000mg	NA	NA
+4425041000033113	13143311000001102	Diovan 320mg tablets (Novartis Pharmaceuticals UK Ltd)	Diovan 320mg tablets	Tablet	Oral	Valsartan	320.000mg	NA	NA
+4548841000033118	13719711000001103	MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 80mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg	NA	NA
+4548741000033111	13731911000001109	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg	NA	NA
+5971941000033118	14159411000001106	Losartan 50mg/5ml oral solution	Losartan 50mg/5ml oral solution	Oral solution	Oral	Losartan potassium	10.000mg/1.000ml	NA	NA
+5972041000033112	14159511000001105	Losartan 50mg/5ml oral suspension	Losartan 50mg/5ml oral suspension	Oral suspension	Oral	Losartan potassium	10.000mg/1.000ml	NA	NA
+4273241000033118	14680711000001103	Olmesartan medoxomil 10mg/5ml oral suspension	Olmesartan medoxomil 10mg/5ml oral suspension	Oral suspension	Oral	Olmesartan medoxomil	2.000mg/1.000ml	NA	NA
+4957641000033110	15138911000001101	Cozaar 12.5mg tablets (Merck Sharp & Dohme Ltd)	Cozaar 12.5mg tablets	Tablet	Oral	Losartan potassium	12.500mg	NA	NA
+4957541000033114	15148111000001100	Losartan 12.5mg tablets	Losartan 12.5mg tablets	Tablet	Oral	Losartan potassium	12.500mg	NA	NA
+5971741000033116	15451111000001107	Losartan 100mg/5ml oral solution	Losartan 100mg/5ml oral solution	Oral solution	Oral	Losartan potassium	20.000mg/1.000ml	NA	NA
+5971841000033114	15451211000001101	Losartan 100mg/5ml oral suspension	Losartan 100mg/5ml oral suspension	Oral suspension	Oral	Losartan potassium	20.000mg/1.000ml	NA	NA
+5150041000033110	15506811000001105	Cozaar 2.5mg/ml oral suspension (Merck Sharp & Dohme Ltd)	Cozaar 2.5mg/ml oral suspension	Oral suspension	Oral	Losartan potassium	2.500mg/1.000ml	2050502	NA
+5149941000033118	15507411000001105	Losartan 2.5mg/ml oral suspension sugar free	Losartan 2.5mg/ml oral suspension sugar free	Oral suspension	Oral	Losartan potassium	2.500mg/1.000ml	2050502	NA
+5006341000033113	15772611000001102	Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/10mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	2050502	NA
+5006241000033115	15772911000001108	Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	2050502	NA
+5006141000033110	15773211000001105	Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 20mg/5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	2050502	NA
+5566441000033117	17220911000001102	Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 40.000mg	NA	NA
+6167841000033112	18852211000001107	Irbesartan 20mg oral powder sachets	Irbesartan 20mg oral powder sachets	Powder	Oral	Irbesartan	20.000mg	NA	NA
+6180641000033112	18986411000001108	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 20mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 20.000mg	2050502	NA
+6180741000033115	18986711000001102	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 40.000mg	2050502	NA
+6180841000033113	18987011000001101	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 12.500mg + 40.000mg	2050502	NA
+6180941000033117	18987311000001103	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 25.000mg + 40.000mg	2050502	NA
+6181041000033110	18987611000001108	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 25.000mg + 40.000mg	2050502	NA
+6423941000033116	19281511000001102	Irbesartan 30mg oral powder sachets	Irbesartan 30mg oral powder sachets	Powder	Oral	Irbesartan	30.000mg	NA	NA
+6435741000033117	19481911000001105	Irbesartan 37.5mg oral powder sachets	Irbesartan 37.5mg oral powder sachets	Powder	Oral	Irbesartan	37.500mg	NA	NA
+6528541000033114	20001711000001102	Diovan 3mg/1ml oral solution (Novartis Pharmaceuticals UK Ltd)	Diovan 3mg/1ml oral solution	Oral solution	Oral	Valsartan	3.000mg/1.000ml	NA	NA
+6528441000033113	20007411000001100	Valsartan 3mg/ml oral solution	Valsartan 3mg/ml oral solution	Oral solution	Oral	Valsartan	3.000mg/1.000ml	NA	NA
+7755141000033114	20350911000001100	Edarbi 20mg tablets (Takeda UK Ltd)	Edarbi 20mg tablets	Tablet	Oral	Azilsartan medoxomil	20.000mg	2050502	NA
+7755241000033119	20351211000001103	Edarbi 40mg tablets (Takeda UK Ltd)	Edarbi 40mg tablets	Tablet	Oral	Azilsartan medoxomil	40.000mg	2050502	NA
+7755341000033112	20351811000001102	Edarbi 80mg tablets (Takeda UK Ltd)	Edarbi 80mg tablets	Tablet	Oral	Azilsartan medoxomil	80.000mg	2050502	NA
+7754841000033119	20418711000001104	Azilsartan medoxomil 20mg tablets	Azilsartan medoxomil 20mg tablets	Tablet	Oral	Azilsartan medoxomil	20.000mg	2050502	NA
+8193941000033116	21522211000001102	Sabervel 75mg tablets (Aspire Pharma Ltd)	Sabervel 75mg tablets	Tablet	Oral	Irbesartan	75.000mg	NA	NA
+8194041000033119	21522411000001103	Sabervel 150mg tablets (Aspire Pharma Ltd)	Sabervel 150mg tablets	Tablet	Oral	Irbesartan	150.000mg	NA	NA
+8194141000033115	21522611000001100	Sabervel 300mg tablets (Aspire Pharma Ltd)	Sabervel 300mg tablets	Tablet	Oral	Irbesartan	300.000mg	NA	NA
+8554141000033116	22720311000001108	Ifirmasta 75mg tablets (Consilient Health Ltd)	Ifirmasta 75mg tablets	Tablet	Oral	Irbesartan	75.000mg	NA	NA
+8554241000033111	22720611000001103	Ifirmasta 150mg tablets (Consilient Health Ltd)	Ifirmasta 150mg tablets	Tablet	Oral	Irbesartan	150.000mg	NA	NA
+8554341000033118	22720811000001104	Ifirmasta 300mg tablets (Consilient Health Ltd)	Ifirmasta 300mg tablets	Tablet	Oral	Irbesartan	300.000mg	NA	NA
+9159341000033112	24411411000001100	Actelsar HCT 40mg/12.5mg tablets (Actavis UK Ltd)	Actelsar HCT 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	NA	NA
+9159441000033118	24412511000001109	Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd)	Actelsar HCT 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	NA	NA
+9159541000033117	24413611000001103	Actelsar HCT 80mg/25mg tablets (Accord Healthcare Ltd)	Actelsar HCT 80mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg	NA	NA
+9209341000033116	24555211000001104	Tolura 20mg tablets (Consilient Health Ltd)	Tolura 20mg tablets	Tablet	Oral	Telmisartan	20.000mg	NA	NA
+9209441000033110	24555411000001100	Tolura 40mg tablets (Consilient Health Ltd)	Tolura 40mg tablets	Tablet	Oral	Telmisartan	40.000mg	NA	NA
+9209541000033111	24555611000001102	Tolura 80mg tablets (Consilient Health Ltd)	Tolura 80mg tablets	Tablet	Oral	Telmisartan	80.000mg	NA	NA
+9292641000033116	24573211000001101	Tolucombi 40mg/12.5mg tablets (Consilient Health Ltd)	Tolucombi 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	NA	NA
+9292741000033113	24573411000001102	Tolucombi 80mg/12.5mg tablets (Consilient Health Ltd)	Tolucombi 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	NA	NA
+9292841000033115	24573611000001104	Tolucombi 80mg/25mg tablets (Consilient Health Ltd)	Tolucombi 80mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg	NA	NA
+10944041000033114	31136411000001107	Entresto 49mg/51mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 49mg/51mg tablets	Tablet	Oral	Sacubitril/ Valsartan	49.000mg + 51.000mg	2050502	NA
+10943941000033112	31136811000001109	Entresto 24mg/26mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 24mg/26mg tablets	Tablet	Oral	Sacubitril/ Valsartan	24.000mg + 26.000mg	2050502	NA
+10944141000033113	31138011000001104	Entresto 97mg/103mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 97mg/103mg tablets	Tablet	Oral	Sacubitril/ Valsartan	97.000mg + 103.000mg	2050502	NA
+10943641000033117	31142011000001103	Sacubitril 24mg / Valsartan 26mg tablets	Sacubitril 24mg / Valsartan 26mg tablets	Tablet	Oral	Sacubitril/ Valsartan	24.000mg + 26.000mg	2050502	NA
+10943741000033114	31142111000001102	Sacubitril 49mg / Valsartan 51mg tablets	Sacubitril 49mg / Valsartan 51mg tablets	Tablet	Oral	Sacubitril/ Valsartan	49.000mg + 51.000mg	2050502	NA
+10943841000033116	31142211000001108	Sacubitril 97mg / Valsartan 103mg tablets	Sacubitril 97mg / Valsartan 103mg tablets	Tablet	Oral	Sacubitril/ Valsartan	97.000mg + 103.000mg	2050502	NA
+7754941000033110	449109006	Azilsartan medoxomil 40mg tablets	Azilsartan medoxomil 40mg tablets	Tablet	Oral	Azilsartan medoxomil	40.000mg	2050502	NA
+7755041000033110	449333009	Azilsartan medoxomil 80mg tablets	Azilsartan medoxomil 80mg tablets	Tablet	Oral	Azilsartan medoxomil	80.000mg	2050502	NA
+8027841000033119	NA	Exforge Tablets 5 mg/320 mg	NA	NA	NA	Amlodipine besilate/ Valsartan	NA	NA	NA
+8027941000033110	NA	Exforge Tablets 10 mg/320 mg	NA	NA	NA	Amlodipine besilate/ Valsartan	NA	NA	NA
+8030141000033111	NA	Teveten Plus Tablets 600 mg/12.5 mg	NA	NA	NA	Eprosartan	NA	NA	NA
+8029241000033113	NA	Exforge Hct Tablets 5 mg/160 mg/12.5 mg	NA	NA	NA	Amlodipine besilate/ Valsartan	NA	NA	NA
+8029341000033115	NA	Exforge Hct Tablets 5 mg/160 mg/25 mg	NA	NA	NA	Amlodipine besilate/ Valsartan	NA	NA	NA
