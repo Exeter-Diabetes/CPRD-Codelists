@@ -1,0 +1,4 @@
+medcodeid	term_medcode	category
+2373871000000117	Mild frailty	Mild
+2374011000000117	Severe frailty	Severe
+2373951000000116	Moderate frailty	Moderate
