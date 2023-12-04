@@ -72,6 +72,12 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 &nbsp;
 
+### Frailty
+
+Note that the 'frailty_simple' codelist is not exhaustive, but contains three of the most commonly used medcodesfor frailty, classified by frailty severity.
+
+&nbsp;
+
 ## Diabetes algorithms
 
 A flow diagram of the overall process of defining a diabetes cohort can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts#introduction).
