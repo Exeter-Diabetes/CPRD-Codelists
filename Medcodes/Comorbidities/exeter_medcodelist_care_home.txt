@@ -1,0 +1,45 @@
+MedCodeId	Term
+8453631000006112	Home visit requested by care home staff
+12738601000006111	Seen by clinical pharmacist in care home
+13072971000006116	Living temporarily in care home
+250560019	Lives in a nursing home
+738781000006113	Lives in an old peoples home
+250563017	Lives in an old peoples home
+283813014	Delayed discharge to nursing home
+285209012	Seen in nursing home
+8053871000006115	Provision of nursing home care
+8053961000006119	Local authority care home
+8053971000006114	Private or voluntary care home
+8054031000006114	Provision of permanent nursing home care
+4933521000006111	Charitable nursing home
+4933531000006114	Cheshire nursing home
+4933551000006119	St Dunstan
+4933541000006116	St Dunstan's
+8074901000006115	Patient transfer to nursing home
+62241000000112	Nursing home visit note
+406371000000117	Lives in care home
+5385771000006114	Old peoples' home
+411631010	Seen in old people's home
+530521000000114	Provision of continuing care in nursing home
+449801010	Discharge to nursing home
+5959551000006111	Discharge to private nursing home
+5997721000006111	Private residential home
+5997731000006114	Private nursing home
+8137181000006113	Non NHS registered mental health nursing home/residential care
+3187751000006110	NH - Nursing home
+71184010	Nursing home
+3187761000006112	Long term care facility
+7224961000006115	Fall in nursing home
+1647741000000115	Nursing home acquired pressure ulcer
+8178471000006115	NHS mental health nursing home/residential care
+8178481000006117	National Health Service (NHS) mental health nursing home/residential care
+1123481000000113	Preferred place of care - nursing home
+1552771000000117	Preferred place of death: care home
+2587751000000117	Referred by care home
+1692851000000118	Admission to nursing home
+1158071000000114	Preferred place of care - residential home
+2277291000000116	Preferred place of care - care home
+2290511000000115	Care home visit
+2290551000000116	Care home visit for initial patient assessment
+2290591000000112	Care home visit for follow-up patient review
+2452301000000115	Hospice at home care plan

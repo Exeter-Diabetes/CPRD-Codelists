@@ -1,0 +1,180 @@
+MedCodeId	Term
+4082931000006110	Schizophrenic reaction
+8434671000006112	Schizophrenia TOM (Therapy Outcome Measure) activity score
+8434721000006115	Schizophrenia TOM (Therapy Outcome Measure) wellbeing score
+2729691000000119	Cataleptic schizophrenia
+4196151000006111	Subchronic schizophrenia with acute exacerbations
+294730012	Acute exacerbation of subchronic schizophrenia
+4196171000006118	Schizophrenia, catatonic, in remission
+178723016	Catatonic schizophrenia in remission
+1219653018	Atypical schizophrenia
+296031017	Undifferentiated schizophrenia
+366571000006114	[X]Atypical schizophrenia
+371031000006115	[X]Chronic undifferentiated schizophrenia
+2705571000006117	Chronic disorganized schizophrenia
+294737010	Chronic hebephrenic schizophrenia
+2705561000006112	Chronic disorganised schizophrenia
+294738017	Acute exacerbation of subchronic hebephrenic schizophrenia
+2726261000006113	Subchronic disorganised schizophrenia with acute exacerbations
+2726271000006118	Subchronic disorganized schizophrenia with acute exacerbations
+251628010	H/O: schizophrenia
+4539931000006112	History of schizophrenia
+28758018	Subchronic schizophrenia
+882281000006113	Schizophrenic psychoses NOS
+294725013	Schizophrenic disorders
+882291000006111	Schizophrenic psychoses
+426881000006111	[X]Simple schizophrenia
+294734015	Simple schizophrenia NOS
+294727017	Simple schizophrenia
+294726014	Schizophrenia simplex
+294731011	Acute exacerbation of chronic schizophrenia
+370461000006112	[X]Catatonic stupor
+425641000006111	[X]Schizophrenic catalepsy
+4763691000006113	Schizophrenia, catatonic
+294743012	[X]Schizophrenic flexibilatis cerea
+425651000006113	[X]Schizophrenic catatonia
+294753013	Catatonic schizophrenia NOS
+370451000006110	[X]Catatonic schizophrenia
+294744018	Unspecified catatonic schizophrenia
+294742019	Catatonic schizophrenia
+4763701000006113	Schizophrenic flexibilatis cerea
+4763731000006117	Subchronic catatonic schizophrenia with acute exacerbation
+294750011	Acute exacerbation of subchronic catatonic schizophrenia
+294751010	Acute exacerbation of chronic catatonic schizophrenia
+4763751000006112	Chronic catatonic schizophrenia with acute exacerbation
+294757014	Acute exacerbation of subchronic paranoid schizophrenia
+4763771000006119	Subchronic paranoid schizophrenia with acute exacerbation
+294758016	Acute exacerbation of chronic paranoid schizophrenia
+4763791000006118	Chronic paranoid schizophrenia with acute exacerbation
+294765012	Unspecified latent schizophrenia
+294771018	Latent schizophrenia NOS
+395021000006111	[X]Latent schizophrenia
+294764011	Latent schizophrenia
+395031000006114	[X]Latent schizophrenic reaction
+294766013	Subchronic latent schizophrenia
+294767016	Chronic latent schizophrenia
+294768014	Acute exacerbation of subchronic latent schizophrenia
+294769018	Acute exacerbation of chronic latent schizophrenia
+4763861000006116	Latent schizophrenia, in remission
+294770017	Latent schizophrenia in remission
+78531000006116	Unspecified schizo-affective schizophrenia
+155161000006117	Schizo-affective schizophrenia NOS
+882301000006112	Acute schizo affective psychosis
+155141000006116	Schizoaffective schizophrenia
+294773015	Cyclic schizophrenia
+4763891000006112	Subchronic schizoaffective schizophrenia
+123611000006110	Subchronic schizo-affective schizophrenia
+556631000006116	Chronic schizoaffective schizophrenia
+456801000006115	Acute exacerbation subchronic schizo-affective schizophrenia
+4763911000006114	Acute exacerbation of subchronic schizoaffective schizophrenia
+4763921000006118	Acute exacerbation of chronic schizoaffective schizophrenia
+456731000006115	Acute exacerbation of chronic schizo-affective schizophrenia
+155151000006119	Schizoaffective schizophrenia in remission
+4763951000006110	Schizophrenia, schizoaffective, in remission
+4763941000006113	Schizoaffective schizophrenia, in remission
+294788013	Cenesthopathic schizophrenia
+294787015	Coenesthopathic schizophrenia
+996171000006114	Psychosis, schizophrenia and bipolar affective disorder resolved
+423041000006119	[X]Post-schizophrenic depression
+5023901000006110	Post-schizophrenic depression
+423271000006116	Prepsychotic schizophrenia
+5248961000006113	Schizophrenic prodrome
+423471000006117	Prodromal schizophrenia
+169061000006112	Restzustand - schizophrenia
+424931000006113	[X]Restzustand schizophrenic
+424841000006113	[X]Residual schizophrenia
+2916361000006118	Restzustand
+43595011	Residual schizophrenia
+44335019	Paraphrenia
+401763015	Acute schizophrenic episode
+398631000006113	Mixed schizophrenic and affective pschosis
+376251000006112	[X]Cyclic schizophrenia
+5517971000006118	Mixed schizophrenic and affective psychosis
+425521000006115	Schizoaffective disorder, mixed type
+2938961000006110	Subchronic disorganized schizophrenia
+2938951000006113	Subchronic disorganised schizophrenia
+294736018	Subchronic hebephrenic schizophrenia
+367951000006113	Borderline schizophrenia
+425671000006115	[X]Schizophrenic reaction
+368001000006112	[X]Brief schizophreniform disorder
+403611000006116	[X]Oneirophrenia
+362421000006113	Acute schizophrenia-like psychotic disorder
+368011000006110	[X]Brief schizophrenifrm psych
+492821000000113	Schizophrenia resolved
+2976051000006113	Chronic undifferentiated schizophrenia
+2988481000006116	Chronic residual schizophrenia with acute exacerbations
+3005601000006118	Disorganized schizophrenia in remission
+3005591000006114	Disorganised schizophrenia in remission
+294740010	Hebephrenic schizophrenia in remission
+3005611000006115	Disorganized schizophrenia, in remission
+52897013	Chronic paranoid schizophrenia
+3067421000006119	Chronic disorganized schizophrenia with acute exacerbations
+3067411000006110	Chronic disorganised schizophrenia with acute exacerbations
+388741000006110	[X]Hebephrenic schizophrenia
+294741014	Hebephrenic schizophrenia NOS
+819351000006115	Hebephrenic schizophrenia
+3068121000006112	Disorganised schizophrenia
+378051000006119	[X]Disorganised schizophrenia
+294735019	Unspecified hebephrenic schizophrenia
+3068131000006110	Disorganized schizophrenia
+3082681000006117	Schizophreniform disorder with good prognostic features
+3116711000006110	Involutional paraphrenia
+418251000006110	Late paraphrenia
+3137261000006111	Undifferentiated schizophrenia in remission
+3137271000006116	Undifferentiated schizophrenia, in remission
+6890801000006117	Late onset schizophrenia
+71539017	Subchronic catatonic schizophrenia
+7255811000006113	Lethal catatonia
+7255821000006117	Malignant catatonia
+418921010	History of schizophrenia in child of subject
+9225016	Schizophrenia in remission
+2577941000006118	Schizophrenia, in remission
+3328691000006112	Residual schizophrenia, in remission
+3328681000006114	Residual schizophrenia in remission
+3405421000006118	Schizophreniform disorder without good prognostic features
+401855010	[X]Other schizophrenia
+294728010	Unspecified schizophrenia
+425711000006116	[X]Schizophrenifrm psychos NOS
+294790014	Schizophrenia
+296040018	[X]Schizophrenia, unspecified
+294789017	Other schizophrenia NOS
+425601000006114	[X]Schizophrenia
+370631000006117	[X]Cenesthopathic schizophrenia
+401764014	Other schizophrenia
+425681000006117	[X]Schizophreniform disord NOS
+3527411000006119	Paranoid schizophrenia, in remission
+105029017	Paranoid schizophrenia in remission
+3555731000006114	Paraphrenic schizophrenia
+294760019	Paranoid schizophrenia NOS
+294754019	Unspecified paranoid schizophrenia
+418221000006118	[X]Paranoid schizophrenia
+418261000006112	[X]Paraphrenic schizophrenia
+107878010	Paranoid schizophrenia
+114616017	Chronic catatonic schizophrenia
+2611981000006118	Subchronic undifferentiated schizophrenia with acute exacerbations
+3651771000006116	Subchronic residual schizophrenia with acute exacerbations
+3656651000006111	Chronic residual schizophrenia
+362381000006115	Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia
+367971000006115	[X]Bouffee delirante with symptoms of schizophrenia
+7696261000006113	Acute polymorphic psychotic disorder with symptoms of schizophrenia
+7849291000006114	Alcohol-induced psychotic disorder with schizophreniform symptoms
+7849281000006111	Psychotic disorder caused by alcohol with schizophreniform symptoms
+3515352015	Cocaine-induced psychotic disorder with schizophreniform symptoms
+3515351010	Psychotic disorder with schizophreniform symptoms caused by cocaine
+3636803013	Psychotic disorder with schizophreniform symptoms caused by synthetic cathinone
+3636801010	Synthetic cathinone-induced psychotic disorder with schizophreniform symptoms
+3745281000006119	Subchronic residual schizophrenia
+3788101000006118	Chronic undifferentiated schizophrenia with acute exacerbations
+132503015	Subchronic paranoid schizophrenia
+1234861017	Chronic schizophrenic
+3862661000006112	Chronic schizophrenia
+3895621000006112	Subchronic undifferentiated schizophrenia
+294739013	Acute exacerbation of chronic hebephrenic schizophrenia
+346955013	Childhood schizophrenia NOS
+425511000006111	Schizoaffective disorder, manic type
+425701000006119	[X]Schizophreniform psychosis, manic type
+425571000006119	[X]Schizoaffective psychosis, manic type
+425501000006113	Schizoaffective disorder, depressive type
+425561000006114	[X]Schizoaffective psychosis, depressive type
+425691000006119	[X]Schizophreniform psychosis, depressive type
+460273017	[V]Personal history of schizophrenia
