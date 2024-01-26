@@ -1,0 +1,41 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+1004841000033111	33011000001103	One-Alpha 1microgram capsules (LEO Pharma)	One-Alpha 1microgram capsules	Capsule	Oral	Alfacalcidol	1.000microgram	9060400	NA
+1005141000033116	71811000001108	One-Alpha 1micrograms/0.5ml solution for injection ampoules (LEO Pharma)	One-Alpha 1micrograms/0.5ml solution for injection ampoules	Solution for injection	Intravenous	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+1004941000033115	108211000001100	One-Alpha 250nanogram capsules (LEO Pharma)	One-Alpha 250nanogram capsules	Capsule	Oral	Alfacalcidol	250.000nanogram	9060400	NA
+1005241000033111	219411000001109	One-Alpha 2micrograms/1ml solution for injection ampoules (LEO Pharma)	One-Alpha 2micrograms/1ml solution for injection ampoules	Solution for injection	Intravenous	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+2173641000033113	240411000001106	One-Alpha 2micrograms/ml oral drops (LEO Pharma)	One-Alpha 2micrograms/ml oral drops	Oral drops	Oral	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+1917041000033117	593711000001109	One-Alpha 0.5microgram capsules (LEO Pharma)	One-Alpha 0.5microgram capsules	Capsule	Oral	Alfacalcidol	500.000nanogram	9060400	NA
+3247541000033110	8952711000001105	Mimpara 30mg tablets (Amgen Ltd)	Mimpara 30mg tablets	Tablet	Oral	Cinacalcet hydrochloride	30.000mg	9050102	NA
+3247641000033111	8956411000001103	Mimpara 60mg tablets (Amgen Ltd)	Mimpara 60mg tablets	Tablet	Oral	Cinacalcet hydrochloride	60.000mg	9050102	NA
+3247741000033119	8959011000001101	Mimpara 90mg tablets (Amgen Ltd)	Mimpara 90mg tablets	Tablet	Oral	Cinacalcet hydrochloride	90.000mg	9050102	NA
+3293241000033112	9308711000001106	Zemplar 5micrograms/1ml solution for injection ampoules (AbbVie Ltd)	Zemplar 5micrograms/1ml solution for injection ampoules	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	9060400	NA
+3293341000033119	9309011000001104	Zemplar 10micrograms/2ml solution for injection ampoules (AbbVie Ltd)	Zemplar 10micrograms/2ml solution for injection ampoules	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	9060400	NA
+4458841000033114	13465311000001106	Zemplar 1microgram capsules (AbbVie Ltd)	Zemplar 1microgram capsules	Capsule	Oral	Paricalcitol	1.000microgram	9060400	NA
+4458941000033118	13465611000001101	Zemplar 2microgram capsules (AbbVie Ltd)	Zemplar 2microgram capsules	Capsule	Oral	Paricalcitol	2.000microgram	9060400	NA
+4459041000033110	13465911000001107	Zemplar 4microgram capsules (AbbVie Ltd)	Zemplar 4microgram capsules	Capsule	Oral	Paricalcitol	4.000microgram	9060400	NA
+10955941000033113	31111611000001106	Zemplar 5micrograms/1ml solution for injection vials (AbbVie Ltd)	Zemplar 5micrograms/1ml solution for injection vials	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	NA	NA
+10955841000033117	31210511000001102	Paricalcitol 5micrograms/1ml solution for injection vials	Paricalcitol 5micrograms/1ml solution for injection vials	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	NA	NA
+29641000033116	35895811000001102	Alfacalcidol 1micrograms/0.5ml solution for injection ampoules	Alfacalcidol 1micrograms/0.5ml solution for injection ampoules	Solution for injection	Intravenous	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+29741000033113	35896111000001103	Alfacalcidol 2micrograms/1ml solution for injection ampoules	Alfacalcidol 2micrograms/1ml solution for injection ampoules	Solution for injection	Intravenous	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+3293141000033117	36026411000001101	Paricalcitol 10micrograms/2ml solution for injection ampoules	Paricalcitol 10micrograms/2ml solution for injection ampoules	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	9060400	NA
+3293041000033116	36026511000001102	Paricalcitol 5micrograms/1ml solution for injection ampoules	Paricalcitol 5micrograms/1ml solution for injection ampoules	Solution for injection	Intravenous	Paricalcitol	5.000microgram/1.000ml	9060400	NA
+35041000033110	NA	Alfacalcidol Solution 200nanograms/ml	NA	NA	NA	NA	NA	NA	NA
+28341000033117	NA	Alfacalcidol Drops 5 micrograms/ml	NA	NA	NA	NA	NA	NA	NA
+24641000033117	329331002	Alfacalcidol 250nanogram capsules	Alfacalcidol 250nanogram capsules	Capsule	Oral	Alfacalcidol	250.000nanogram	9060400	NA
+24541000033118	329332009	Alfacalcidol 1microgram capsules	Alfacalcidol 1microgram capsules	Capsule	Oral	Alfacalcidol	1.000microgram	9060400	NA
+2173741000033116	329343001	Alfacalcidol 2micrograms/ml oral drops sugar free	Alfacalcidol 2micrograms/ml oral drops sugar free	Oral drops	Oral	Alfacalcidol	2.000microgram/1.000ml	9060400	NA
+1916941000033118	329344007	Alfacalcidol 500nanogram capsules	Alfacalcidol 500nanogram capsules	Capsule	Oral	Alfacalcidol	500.000nanogram	9060400	NA
+3247241000033113	409393009	Cinacalcet 30mg tablets	Cinacalcet 30mg tablets	Tablet	Oral	Cinacalcet hydrochloride	30.000mg	9050102	NA
+3247341000033115	409394003	Cinacalcet 60mg tablets	Cinacalcet 60mg tablets	Tablet	Oral	Cinacalcet hydrochloride	60.000mg	9050102	NA
+3247441000033114	409395002	Cinacalcet 90mg tablets	Cinacalcet 90mg tablets	Tablet	Oral	Cinacalcet hydrochloride	90.000mg	9050102	NA
+4458741000033116	418927005	Paricalcitol 4microgram capsules	Paricalcitol 4microgram capsules	Capsule	Oral	Paricalcitol	4.000microgram	9060400	NA
+4458541000033112	419367007	Paricalcitol 1microgram capsules	Paricalcitol 1microgram capsules	Capsule	Oral	Paricalcitol	1.000microgram	9060400	NA
+4458641000033113	419681000	Paricalcitol 2microgram capsules	Paricalcitol 2microgram capsules	Capsule	Oral	Paricalcitol	2.000microgram	9060400	NA
+13157441000033112	37617311000001109	Cinacalcet 1mg granules in capsules for opening	Cinacalcet 1mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	1.000mg	NA	NA
+13157541000033113	37617411000001102	Cinacalcet 2.5mg granules in capsules for opening	Cinacalcet 2.5mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	2.500mg	NA	NA
+13157641000033114	37617511000001103	Cinacalcet 5mg granules in capsules for opening	Cinacalcet 5mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	5.000mg	NA	NA
+13157741000033117	37597211000001106	Mimpara 1mg granules in capsules for opening (Amgen Ltd)	Mimpara 1mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	1.000mg	NA	NA
+13157841000033110	37597511000001109	Mimpara 2.5mg granules in capsules for opening (Amgen Ltd)	Mimpara 2.5mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	2.500mg	NA	NA
+13157941000033119	37597811000001107	Mimpara 5mg granules in capsules for opening (Amgen Ltd)	Mimpara 5mg granules in capsules for opening	Granules	Oral	Cinacalcet hydrochloride	5.000mg	NA	NA
+1005641000033114	NA	One-Alpha Solution 200nanograms/ml	NA	NA	NA	NA	NA	NA	NA
+1005041000033115	NA	One-Alpha Drops 5 micrograms/ml	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,42 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+1444041000033115	190211000001100	Titralac 420mg tablets (3M Health Care Ltd)	Titralac 420mg tablets	Tablet	Oral	Calcium carbonate	420.000mg	NA	NA
+178941000033113	284511000001107	Calcichew 500mg chewable tablets (Takeda UK Ltd)	Calcichew 500mg chewable tablets	Chewable tablet	Oral	Calcium carbonate	1.250gram	9050101	NA
+209441000033118	3241511000001108	Calcium 500 tablets (Martindale Pharmaceuticals Ltd)	Calcium 500 tablets	Tablet	Oral	Calcium carbonate	1.250gram	9050101	NA
+2262941000033115	3242511000001100	Adcal 1500mg chewable tablets (Kyowa Kirin Ltd)	Adcal 1500mg chewable tablets	Chewable tablet	Oral	Calcium carbonate	1.500gram	9050101	NA
+1749241000033117	3743611000001101	Phosex 1g tablets (Pharmacosmos UK Ltd)	Phosex 1g tablets	Tablet	Oral	Calcium acetate	1.000gram	9050202	NA
+2079141000033114	3849911000001107	Renagel 403mg capsules (Genzyme Therapeutics Ltd)	Renagel 403mg capsules	Capsule	Oral	Sevelamer	403.000mg	NA	NA
+4042441000033116	11272311000001100	Fosrenol 1000mg chewable tablets (Shire Pharmaceuticals Ltd)	Fosrenol 1000mg chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	1.000gram	9050202	NA
+4042341000033110	11272611000001105	Fosrenol 750mg chewable tablets (Shire Pharmaceuticals Ltd)	Fosrenol 750mg chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	750.000mg	9050202	NA
+4042241000033117	11272911000001104	Fosrenol 500mg chewable tablets (Shire Pharmaceuticals Ltd)	Fosrenol 500mg chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	500.000mg	9050202	NA
+5317341000033111	15178911000001103	Osvaren 435mg/235mg tablets (Vifor Fresenius Medical Care Renal Pharma UK Ltd)	Osvaren 435mg/235mg tablets	Tablet	Oral	Calcium acetate/ Magnesium carbonate heavy	435.000mg + 235.000mg	9050202	NA
+5006441000033119	15226311000001101	Calcium acetate 435mg / Magnesium carbonate heavy 235mg tablets	Calcium acetate 435mg / Magnesium carbonate heavy 235mg tablets	Tablet	Oral	Calcium acetate/ Magnesium carbonate heavy	435.000mg + 235.000mg	9050202	NA
+5161241000033119	16163911000001104	PhosLo 667mg capsules (Stanningley Pharma Ltd)	PhosLo 667mg capsules	Capsule	Oral	Calcium acetate	667.000mg	9050202	NA
+6059941000033110	18137311000001109	Renvela 2.4g oral powder sachets (Sanofi)	Renvela 2.4g oral powder sachets	Powder	Oral	Sevelamer carbonate	2.400gram	9050202	NA
+6059841000033119	18146611000001100	Sevelamer 2.4g oral powder sachets sugar free	Sevelamer 2.4g oral powder sachets sugar free	Powder	Oral	Sevelamer carbonate	2.400gram	9050202	NA
+2723941000033111	18290811000001108	Renagel 800mg tablets (Sanofi)	Renagel 800mg tablets	Tablet	Oral	Sevelamer	800.000mg	9050202	NA
+6059741000033112	18291011000001106	Renvela 800mg tablets (Sanofi)	Renvela 800mg tablets	Tablet	Oral	Sevelamer	800.000mg	9050202	NA
+2723841000033115	18291211000001101	Sevelamer 800mg tablets	Sevelamer 800mg tablets	Tablet	Oral	Sevelamer	800.000mg	9050202	NA
+6123841000033111	18613411000001100	Renacet 475mg tablets (Stanningley Pharma Ltd)	Renacet 475mg tablets	Tablet	Oral	Calcium acetate	475.000mg	9050202	NA
+6123941000033115	18613911000001108	Renacet 950mg tablets (Stanningley Pharma Ltd)	Renacet 950mg tablets	Tablet	Oral	Calcium acetate	950.000mg	9050202	NA
+6123641000033110	18615211000001100	Calcium acetate 475mg tablets	Calcium acetate 475mg tablets	Tablet	Oral	Calcium acetate	475.000mg	9050202	NA
+6123741000033118	18615311000001108	Calcium acetate 950mg tablets	Calcium acetate 950mg tablets	Tablet	Oral	Calcium acetate	950.000mg	9050202	NA
+6162041000033115	18766311000001109	Everose 660mg tablets (Fresenius Medical Care (UK) Ltd)	Everose 660mg tablets	Tablet	Oral	Calcium acetate	660.000mg	NA	NA
+6161941000033114	18767011000001109	Calcium acetate 660mg tablets	Calcium acetate 660mg tablets	Tablet	Oral	Calcium acetate	660.000mg	NA	NA
+7878441000033114	20911711000001107	Fosrenol 1000mg oral powder sachets (Shire Pharmaceuticals Ltd)	Fosrenol 1000mg oral powder sachets	Powder	Oral	Lanthanum carbonate	1.000gram	NA	NA
+7878341000033115	20912011000001102	Fosrenol 750mg oral powder sachets (Shire Pharmaceuticals Ltd)	Fosrenol 750mg oral powder sachets	Powder	Oral	Lanthanum carbonate	750.000mg	NA	NA
+7878241000033113	20920911000001109	Lanthanum carbonate 1g oral powder sachets	Lanthanum carbonate 1g oral powder sachets	Powder	Oral	Lanthanum carbonate	1.000gram	NA	NA
+7878141000033118	20921011000001101	Lanthanum carbonate 750mg oral powder sachets	Lanthanum carbonate 750mg oral powder sachets	Powder	Oral	Lanthanum carbonate	750.000mg	NA	NA
+8883541000033118	23445311000001104	BindRen 1g tablets (Mitsubishi Tanabe Pharma Europe Ltd)	BindRen 1g tablets	Tablet	Oral	Colestilan	1.000gram	NA	NA
+8883141000033110	23445711000001100	BindRen 2g granules sachets (Mitsubishi Tanabe Pharma Europe Ltd)	BindRen 2g granules sachets	Granules	Oral	Colestilan	2.000gram	NA	NA
+8883441000033119	23559711000001105	Colestilan 1g tablets	Colestilan 1g tablets	Tablet	Oral	Colestilan	1.000gram	NA	NA
+8883041000033111	23559811000001102	Colestilan 2g granules sachets	Colestilan 2g granules sachets	Granules	Oral	Colestilan	2.000gram	NA	NA
+8883241000033115	23559911000001107	Colestilan 3g granules sachets	Colestilan 3g granules sachets	Granules	Oral	Colestilan	3.000gram	NA	NA
+8883341000033113	23622411000001103	BindRen 3g granules sachets (Mitsubishi Tanabe Pharma Europe Ltd)	BindRen 3g granules sachets	Granules	Oral	Colestilan	3.000gram	NA	NA
+10043741000033115	28392311000001106	Velphoro 500mg chewable tablets (Vifor Fresenius Medical Care Renal Pharma UK Ltd)	Velphoro 500mg chewable tablets	Chewable tablet	Oral	Sucroferric oxyhydroxide	500.000mg	NA	NA
+10043641000033112	28423311000001102	Sucroferric oxyhydroxide (iron 500mg) chewable tablets	Sucroferric oxyhydroxide (iron 500mg) chewable tablets	Chewable tablet	Oral	Sucroferric oxyhydroxide	500.000mg	NA	NA
+2719541000033111	NA	Sevelamer Capsules 800 mg	NA	NA	NA	NA	NA	NA	NA
+2079041000033110	329197006	Sevelamer 403mg capsules	Sevelamer 403mg capsules	Capsule	Oral	Sevelamer	403.000mg	NA	NA
+4041941000033119	414573005	Lanthanum carbonate 500mg chewable tablets	Lanthanum carbonate 500mg chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	500.000mg	9050202	NA
+4042141000033112	420867007	Lanthanum carbonate 1g chewable tablets	Lanthanum carbonate 1g chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	1.000gram	9050202	NA
+4042041000033113	421183004	Lanthanum carbonate 750mg chewable tablets	Lanthanum carbonate 750mg chewable tablets	Chewable tablet	Oral	Lanthanum carbonate	750.000mg	9050202	NA
+2719641000033112	NA	Renagel Capsules 800 mg	NA	NA	NA	NA	NA	NA	NA
