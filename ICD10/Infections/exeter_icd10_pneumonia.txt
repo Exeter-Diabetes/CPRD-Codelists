@@ -1,36 +1,15 @@
 ICD10	Term_description
+A48.1	Legionnaires disease
+B01.2	Varicella pneumonia
+B05.2	Measles complicated by pneumonia
+J10.0	Influenza with pneumonia, other influenza virus identified
+J11.0	Influenza with pneumonia, virus not identified
 J12	Viral pneumonia, not elsewhere classified
-J12.0	Adenoviral pneumonia
-J12.1	Respiratory syncytial virus pneumonia
-J12.2	Parainfluenza virus pneumonia
-J12.3	Human metapneumovirus pneumonia
-J12.8	Other viral pneumonia
-J12.9	Viral pneumonia, unspecified
 J13	Pneumonia due to Streptococcus pneumoniae
 J14	Pneumonia due to Haemophilus influenzae
 J15	Bacterial pneumonia, not elsewhere classified
-J15.0	Pneumonia due to Klebsiella pneumoniae
-J15.1	Pneumonia due to Pseudomonas
-J15.2	Pneumonia due to staphylococcus
-J15.3	Pneumonia due to streptococcus, group B
-J15.4	Pneumonia due to other streptococci
-J15.5	Pneumonia due to Escherichia coli
-J15.6	Pneumonia due to other Gram-negative bacteria
-J15.7	Pneumonia due to Mycoplasma pneumoniae
-J15.8	Other bacterial pneumonia
-J15.9	Bacterial pneumonia, unspecified
 J16	Pneumonia due to other infectious organisms, not elsewhere classified
-J16.0	Chlamydial pneumonia
-J16.8	Pneumonia due to other specified infectious organisms
 J17	Pneumonia in diseases classified elsewhere
-J17.0	Pneumonia in bacterial diseases classified elsewhere
-J17.1	Pneumonia in viral diseases classified elsewhere
-J17.2	Pneumonia in mycoses
-J17.3	Pneumonia in parasitic diseases
-J17.8	Pneumonia in other diseases classified elsewhere
 J18	Pneumonia, organism unspecified
-J18.0	Bronchopneumonia, unspecified
-J18.1	Lobar pneumonia, unspecified
-J18.2	Hypostatic pneumonia, unspecified
-J18.8	Other pneumonia, organism unspecified
-J18.9	Pneumonia, unspecified
+J85.1	Abscess of lung with pneumonia
+J86	Pyothorax
