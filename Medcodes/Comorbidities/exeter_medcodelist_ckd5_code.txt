@@ -14,7 +14,6 @@ medcodeid	term_medcode
 4669051000006115	Cadaver renal allotransplant
 399381000000115	Allotransplantation of kidney from cadaver NEC
 117168016	Renal transplant
-866751000006110	Kidney replacement
 272326017	Other specified transplantation of kidney
 272327014	Transplantation of kidney NOS
 3647071000006110	Tx - Kidney transplantation
@@ -23,51 +22,17 @@ medcodeid	term_medcode
 501594013	Transplantation of kidney
 3647091000006111	Renal graft
 3647031000006112	Kidney transplantation
-866731000006115	Kidney replacement NOS
 3647021000006114	Transplant of kidney
-278835013	Compensation for renal failure NOS
-5488801000006112	Kidney dialysis
-877641000006113	Extracorporeal kidney
-5488811000006110	Artificial kidney dialysis
-394640016	Renal dialysis
-619541000006116	Dialysis for renal failure
 106291000006118	Thomas intravascular shunt for dialysis
-5907581000006118	Extracorporeal haemodialysis
-5907571000006116	Extracorporeal hemodialysis
-5907541000006112	HD - Hemodialysis
-5907561000006111	Haemodialysis procedure
-278832011	Haemodialysis
-5907531000006119	Hemodialysis procedure
-5907591000006115	Hemodialysis
-5907551000006114	HD - Haemodialysis
 3657891000006116	PD - Peritoneal dialysis
 375841000000114	Peritoneal dialysis NEC
 118218017	Peritoneal dialysis
-394639018	Compensation for renal failure
-278834012	Other specified compensation for renal failure
 228131000006117	Placement ambulatory dialysis apparatus - compens renal fail
 773041000006111	Insertion of chronic ambulatory peritoneal dialysis catheter
 228101000006113	Placement ambulatory apparatus compensation renal failure
 4694051000006116	Removal of chronic ambulatory peritoneal dialysis catheter
 181021000006119	Removal of ambulatory peritoneal dialysis catheter
-228211000006117	Placement other apparatus for compensation for renal failure
-228221000006113	Placement other apparatus- compensate for renal failure NOS
-228231000006111	Placement other apparatus- compensate for renal failure OS
 278844014	Insertion of temporary peritoneal dialysis catheter
-282526013	Intestinal dialysis
-446291000006111	Accidental cut/puncture/perf/haem'ge during renal dialysis
-441151000006115	Accidental cut, puncture, perforation or haemorrhage during kidney dialysis
-4898631000006119	Accidental cut, puncture, perforation or hemorrhage during kidney dialysis
-329116017	Failure of sterile precautions during kidney dialysis
-663551000006118	Failure of sterile precautions during renal dialysis
-384641000006114	[X]Failure sterile precautions dur kidney dialys/other perf
-460680012	Dialysis finding
-5307111000006113	Dialysis observation
-461420012	Dialysis procedure
-4152501000006114	Dialysis procedure
-4543021000006113	History of renal dialysis
-251957012	H/O: renal dialysis
-251956015	H/O: kidney dialysis
 7174851000006111	CKD stage 5
 304111000000114	Chronic kidney disease stage 5
 2767154014	Chronic kidney disease stage 5
@@ -114,13 +79,6 @@ medcodeid	term_medcode
 12704471000006116	End-stage renal disease
 3245881000006114	End stage chronic renal failure
 3245851000006118	ESRF - End stage renal failure
-509111010	Chronic renal failure
-3973841000006119	CRF - Chronic renal failure
-3973831000006112	Chronic uremia
-3973811000006118	Chronic renal failure syndrome
-509108014	Chronic uraemia
-305192017	[X]Other chronic renal failure
-30043012	Mechanical complication of dialysis catheter
 5592051000006113	Peritonitis secondary to peritoneal dialysis
 453312018	Peritoneal dialysis-associated peritonitis
 7518811000006118	CAPD (Continuous ambulatory peritoneal dialysis) associated peritonitis
@@ -143,11 +101,8 @@ medcodeid	term_medcode
 354613010	Very mild acute rejection of renal transplant
 354614016	Borderline changes of acute rejection
 1848741000006116	Complication of peritoneal dialysis
-2211311000000117	Haemodialysis first use syndrome
-5095591000006119	First use syndrome of dialysis
 272134015	Insertion of arteriovenous prosthesis
 272139013	Attention to arteriovenous shunt
-866341000006112	Cut-down venous catheterisat.
 272140010	Removal of infected arteriovenous shunt
 272141014	Other specified arteriovenous shunt
 3246231000006118	Formation of arteriovenous shunt
@@ -160,14 +115,7 @@ medcodeid	term_medcode
 3246221000006116	Surgical construction of arteriovenous shunt
 272153013	Ligation of acquired arteriovenous fistula
 743721000006115	Ligation of acquired arteriovenous fistula
-228111000006111	Placement ambulatory apparatus- compensate renal failure NOS
-228121000006115	Placement ambulatory apparatus- compensate renal failure OS
 5524381000006119	Chronic ambulatory peritoneal dialysis catheter procedure
-329115018	Failure of sterile precautions during perfusion
-329117014	Failure of sterile precautions during other perfusion
-329118016	Failure of sterile precautions during perfusion NOS
-713671000006118	Mechanical failure of apparatus during renal dialysis
-713611000006110	Mechanical failure of instrument or apparatus during kidney dialysis
 4937941000006118	PD - Chronic peritoneal dialysis
 4937931000006111	Chronic peritoneal dialysis
 4937951000006116	Stab peritoneal dialysis
@@ -195,28 +143,10 @@ medcodeid	term_medcode
 349856011	Banding of arteriovenous fistula
 5051491000006114	Exploration of arteriovenous fistula
 5051501000006118	Exploration of arteriovenous graft
-5052661000006111	Intermittent haemodialysis
-5052671000006116	Intermittent hemodialysis
-5052861000006112	CVVD - Continuous venovenous hemodialysis
 353974015	Xenograft renal transplant
 5094151000006116	End stage renal failure untreated by renal replacement therapy
 5094161000006119	End stage renal failure on dialysis
 5094171000006114	End stage renal failure with renal transplant
-394661000006112	[X]Kidny dialysis caus abn reac pt/lat comp no misad at time
-1927751000006113	Complication of dialysis
-5095551000006113	Acute disorder of haemodialysis
-5095571000006115	HD - Acute complications of hemodialysis
-5095581000006117	Acute disorder of hemodialysis
-5095561000006110	HD - Acute complications of haemodialysis
-507483018	Dialysis disequilibrium
-3918321000006116	Dialysis disequilibrium syndrome
-5095611000006113	Anaphylactoid reaction to dialysis
-5095621000006117	Hyperchloraemic acidosis associated with dialysis
-5095631000006119	Hyperchloremic acidosis associated with dialysis
-507993019	Acute hypercalcaemia of dialysis
-3935791000006118	Hypercalcemia associated with chronic dialysis
-3935821000006110	Acute hypercalcemia of dialysis
-3935811000006119	Hard water syndrome
 3935781000006116	Hypercalcaemia associated with chronic dialysis
 5095641000006112	Long-term disorder of dialysis
 3025091000006112	beta-2-Microglobulin amyloidosis
@@ -226,26 +156,8 @@ medcodeid	term_medcode
 3025111000006115	Dialysis-associated amyloidosis
 3025071000006111	Haemodialysis-associated amyloidosis
 354567013	Beta-2 microglobulin arthropathy
-5095661000006111	Matrix stone formation of dialysis
-5095691000006115	Aluminum intoxication
-354572016	Aluminium intoxication
-354575019	Aluminium bone disease
-5095731000006111	Aluminum-related osteopathy
-5095711000006117	Aluminum bone disease
-354574015	Aluminium-related osteopathy
-5095751000006116	Osteomalacia secondary to aluminum toxicity
-5095771000006114	Aluminum-related osteomalacia
-354578017	Aluminium-related osteomalacia
-5095761000006119	Osteomalacia secondary to aluminium toxicity
-354582015	Aluminium-related fracturing osteodystrophy
-5095791000006110	Aluminum-related fracturing osteodystrophy
-5095801000006111	Polyserositis syndrome of dialysis
-5095811000006114	Underdialysis
-5095821000006118	Inadequate dialysis
 354586017	Adynamic bone disease
 5095841000006113	Aplastic bone disease
-5095851000006110	Pain during inflow of dialysate
-5095861000006112	Pain during outflow of dialysate
 354591016	Bloodstained peritoneal dialysis effluent
 5095881000006119	Peritoneal dialysis catheter exit site infection
 5095891000006116	Peritoneal dialysis cannula exit site infection
@@ -306,37 +218,14 @@ medcodeid	term_medcode
 3847121000006117	Take-down of arteriovenous shunt
 3847131000006119	Removal of arteriovenous shunt
 3847111000006113	Removal of arteriovenous shunt device
-5663561000006115	AV - Acquired renal arteriovenous fistula
-5663551000006117	Acquired renal arteriovenous fistula
-5730251000006114	Extracorporeal kidney
-290737016	Dependence on renal dialysis
 6024541000006117	Donor renal transplantation
 7081801000006114	Removal of thrombus of arteriovenous fistula
 360031000000113	Thrombectomy of arteriovenous fistula
 2675886019	Creation of graft fistula for dialysis
-2674486017	Extracorporeal albumin haemodialysis
-7068291000006112	Extracorporeal albumin hemodialysis
 637771000000113	Ligation of arteriovenous dialysis fistula
 638111000000115	Ligation of arteriovenous dialysis graft
-335619013	Complication
-4269561000006113	Complication
-324787014	Other adverse effects NEC, NOS
-754781000006116	Kidney dialysis with complication, without blame
-176711000006111	Renal dialysis with complication, without blame
-325106018	Late amputation stump complication NOS
-325101011	Late amputation stump complication, unspecified
-460911015	[V]Aftercare involving extracorporeal dialysis
-1227722017	[V]Aftercare involving renal dialysis NOS
-12456631000006112	[V]Aftercare involving renal dialysis NOS
-12456601000006116	[V]Aftercare involving extracorporeal dialysis
-12459361000006117	[V]Other specified aftercare involving intermittent dialysis
 1227723010	[V]Aftercare involving peritoneal dialysis
-460913017	[V]Other specified aftercare involving intermittent dialysis
 12456621000006114	[V]Aftercare involving peritoneal dialysis
-460910019	[V]Aftercare involving intermittent dialysis
-12456611000006118	[V]Aftercare involving intermittent dialysis
-460914011	[V]Unspecified aftercare involving intermittent dialysis
-12461771000006115	[V]Unspecified aftercare involving intermittent dialysis
 618511000000119	CKD stage 5 with proteinuria
 8104511000006111	CKD (chronic kidney disease) stage 5 with proteinuria
 596321000000110	Chronic kidney disease stage 5 with proteinuria
@@ -359,14 +248,9 @@ medcodeid	term_medcode
 2240871000000116	Haemorrhage of dialysis arteriovenous fistula
 2237901000000119	Haemorrhage of dialysis vascular access
 2240951000000115	Rupture of dialysis arteriovenous graft
-7643311000006115	CKD - chronic kidney disease
-2771041011	Chronic kidney disease
-354409011	Chronic renal impairment
-7643331000006114	Chronic renal disease
 2198141000000110	Stenosis of vein of transplanted kidney
 2189151000000117	Urological complication of renal transplant
 2191221000000118	Vascular complication of renal transplant
-2211671000000119	Anaphylactoid reaction due to haemodialysis
 177251000006119	Renal transplant with complication, without blame
 754061000006111	Kidney transplant with complication, without blame
 2211591000000116	Thrombus in peritoneal dialysis catheter
@@ -389,70 +273,21 @@ medcodeid	term_medcode
 2550761000006119	Empty and measure peritoneal dialysis fluid
 2618621000006115	Revision of arteriovenous fistula with thrombectomy with autogenous graft
 2649061000006115	Dialysis dementia
-2649081000006113	Dialysis encephalopathy
-2649071000006110	Dialysis encephalopathy syndrome
 2672571000006112	Removal of peritoneal dialysis catheter
 2672581000006110	Removal of ambulatory peritoneal catheter
-2705881000006116	Dialysis-associated ascites
-2931431000006119	Acute megaloblastic anaemia due to dialysis
-2931441000006112	Acute megaloblastic anemia due to dialysis
-2938561000006116	Megaloblastic anaemia due to haemodialysis
-2938571000006111	Megaloblastic anemia due to hemodialysis
-3009301000006110	Culture of dialysis fluid
-3040651000006117	Complication of renal dialysis
 3050211000006119	Revision of arteriovenous fistula with thrombectomy with nonautogenous graft
-3062161000006115	Hemodialysis, maintenance in hospital
-3062151000006117	Haemodialysis, maintenance in hospital
-3095561000006115	Haemodialysis machine
-3095571000006110	Hemodialysis machine
-3095581000006113	Hemodialysis machine, device
-1816581000006110	Kidney failure unspecified
-3183501000006111	Renal failure syndrome
-396711013	RF - Renal failure
-424731000006111	Renal failure
-3202691000006112	Renal failure following molar AND/OR ectopic pregnancy
 3292751000006114	Renal homotransplantation with unilateral recipient nephrectomy
-299665018	Hypertensive renal disease with renal failure
-3296351000006114	Hypertensive renal failure
-3304611000006115	Anemia of chronic renal failure
-3304621000006111	Anemia of chronic renal insufficiency
-3304631000006114	Anaemia of chronic renal insufficiency
-480871000006117	Anaemia of chronic renal failure
-3312911000006116	Haemodialyzate
-3312881000006116	Haemodialysis fluid
-3312891000006118	Hemodialysis fluid
-3312901000006119	Hemodialyzate
-3430761000006115	Initial hemodialysis
-3430751000006117	Initial haemodialysis
 3455171000006118	Disorder of transplanted kidney
 3455181000006115	Complication of transplanted kidney
-3468101000006112	Hemodialysis education at home
-3468071000006119	Haemodialysis education at home
-3468091000006118	Haemodialysis training at home
-3468081000006116	Hemodialysis training at home
-3503081000006117	Insertion of cannula for hemodialysis, vein to vein
-3503071000006115	Insertion of cannula for haemodialysis, vein to vein
 3531571000006117	Insertion of hemodialysis shunt
 3531561000006112	Insertion of haemodialysis shunt
-3531541000006113	Insertion of cannula for haemodialysis
-3531551000006110	Insertion of cannula for hemodialysis
 3563161000006113	Repair of arteriovenous fistula by division
-3566321000006113	Chronic renal failure diet
 3579811000006112	Peritoneal dialysis training
 3579801000006114	Peritoneal dialysis education
-3605671000006116	Haemodialysis, maintenance at home
-3605681000006118	Hemodialysis, maintenance at home
-3612031000006118	Hemodialysis, supervision at home
-3612021000006116	Haemodialysis, supervision at home
-3628281000006117	Venous catheterization for renal dialysis
-3628271000006115	Venous catheterisation for renal dialysis
 3653831000006114	Structure of transplanted kidney
 3653841000006116	Transplanted kidney
 3660511000006118	Repair of arteriovenous fistula by occlusion
-3669691000006118	Renal shutdown following molar AND/OR ectopic pregnancy
-3669681000006116	Acute renal failure following molar AND/OR ectopic pregnancy
 3691341000006115	Peritoneal dialysis catheter maintenance
-3718141000006118	Hyperalimentation formula for renal failure
 3727281000006114	Acquired arteriovenous fistula of heart
 3771391000006114	Take-down of arteriovenous shunt with creation of new shunt
 3771401000006111	Removal of arteriovenous shunt with creation of new shunt
@@ -461,28 +296,12 @@ medcodeid	term_medcode
 3798211000006110	Arteriovenous shunt for renal dialysis
 3798181000006111	Arteriovenous anastomosis for renal dialysis
 3880691000006119	Replacement of cannula of arteriovenous shunt
-3885871000006111	Complication of hemodialysis
-3885861000006116	Complication of haemodialysis
-4668981000006117	Renal autotransplantation or reimplantation of kidney
-4668961000006110	Autotransplant kidney
-4668951000006113	Autotransplantation of kidney
-4668971000006115	Renal autotransplantation
-500371000006119	Autotransplant of kidney
 284213011	Renal transplant planned
 424791000006110	[X]Renal tubulo-interstitial disorders/transplant rejection
 177341000006111	Renal tubulo-interstitial disorders in transplant rejection
-387441000006119	[X]Foreign obj accid left body dur kidney dialys/oth perfus
-766101000006114	Foreign object left in body during renal dialysis
-329081019	Foreign object left in body during kidney dialysis
 4934661000006119	Revision of cannula for dialysis
 4937911000006117	Putting additive into peritoneal dialysis bag
 4937921000006113	Peritoneal dialysis bag procedure
-4938571000006119	Reversing haemodialysis lines
-4938581000006116	Reversing hemodialysis lines
-4938601000006114	Washing back through hemodialysis lines
-4938591000006118	Washing back through haemodialysis lines
-4938611000006112	Priming haemodialysis lines
-4938621000006116	Priming hemodialysis lines
 4947991000006114	Revision of arteriovenous shunt for renal dialysis
 5051191000006118	Creation of external arteriovenous fistula
 5051181000006116	Creation of external arteriovenous shunt
@@ -502,11 +321,6 @@ medcodeid	term_medcode
 5061501000006110	Arteriovenous fistula haemorrhage
 5061511000006113	Arteriovenous fistula hemorrhage
 5061521000006117	Arteriovenous fistula rupture
-5094141000006118	Acute on chronic renal failure
-5097831000006113	X-linked recessive nephrolithiasis with renal failure
-5114181000006117	Raised calcium phosphate product
-5114191000006119	Renal failure-associated hyperphosphatemia
-356557018	Renal failure-associated hyperphosphataemia
 5155781000006110	Skeletal survey - dialysis
 5155791000006113	Skeletal survey - dialysis follow-up
 5157591000006112	Renal transplant arteriogram
@@ -514,53 +328,21 @@ medcodeid	term_medcode
 5157611000006118	Renal transplant venous sampling
 5161291000006110	Ultrasound scan of transplant kidney
 5161281000006112	US scan of transplant kidney
-5169451000006116	Dialysis membrane-induced anaphylactoid reaction
-5191461000006116	Blood sampling from hemodialysis circuit
-5191451000006118	Blood sampling from haemodialysis circuit
-5191481000006114	Arterial port blood sampling during hemodialysis
-5191471000006111	Arterial port blood sampling during haemodialysis
-5191501000006116	Venous port blood sampling during hemodialysis
-5191491000006112	Venous port blood sampling during haemodialysis
 5307121000006117	Peritoneal dialysis observable
-5307211000006119	Adequacy of dialysis
 5307221000006110	Adequacy of peritoneal dialysis
-5307251000006118	Adequacy of hemodialysis
-5307241000006115	Adequacy of haemodialysis
 5308241000006119	Arteriovenous fistula operation
 5308251000006117	Operative procedure on arteriovenous fistula
-5395511000006111	Dialysate sample
-5396941000006110	Machine haemodialysate sample
-5396951000006112	Machine hemodialysate sample
 5397561000006117	Arteriovenous shunt
 5397541000006116	Arteriovenous shunt - device
 5397551000006119	AVS - Arteriovenous shunt
 5397641000006115	Arteriovenous shunt tip
-5432671000006114	Dialysate regeneration
-5433441000006114	Base used in dialysate
-5433461000006113	Calcium content of dialysate
-5442111000006110	REDY - Regeneration of dialysate
-5442101000006112	Regeneration of dialysate
 5445811000006110	Haemodialysis circuit
 5445821000006119	Hemodialysis circuit
 5465901000006114	Peritoneal dialysis used
-5467031000006112	Type of haemodialysis
-5467041000006119	Type of hemodialysis
-5501261000006110	Neuropathy in renal failure
-402249011	Congenital renal failure
-403110014	Kidney failure as a complication of care
-403109016	Renal failure as a complication of care
-12758591000006116	Artificial blood circulation
-493921000006116	Artificial blood circulation
-12722441000006110	Perfusion and dialysis procedures
-73141000006114	Uraemia - post operative
-218351000000112	Post operative renal failure
-5572971000006110	Postoperative renal failure
 5593511000006113	Percutaneous arteriovenous fistula device procedure
 5600411000006112	Percutaneous embolisation of arteriovenous fistula
 5600421000006116	Percutaneous embolization of arteriovenous fistula
 5614351000006110	Disorder of surgical arteriovenous fistula
-5618951000006119	Hemodialysis diet
-5618941000006116	Haemodialysis diet
 5645831000006119	Disorder of arteriovenous graft
 5645841000006112	Disorder of arteriovenous shunt
 5645851000006114	Arteriovenous graft occlusion
@@ -579,34 +361,10 @@ medcodeid	term_medcode
 5645981000006113	Arteriovenous shunt occlusion
 5647621000006110	Entire transplant kidney
 5647611000006119	Entire transplanted kidney
-5669651000006118	Recirculation of the dialysis machine
-5723511000006118	Ligation of coronary arteriovenous fistula
-5786731000006119	Dialysis fluid adverse reaction
 5786741000006112	Peritoneal dialysis solution adverse reaction
-5786751000006114	Haemodialysis fluid adverse reaction
-5786761000006111	Hemodialysis fluid adverse reaction
-5786781000006118	Hemofiltration solution adverse reaction
-5786771000006116	Haemofiltration solution adverse reaction
-5805391000006114	Dialysis fluid allergy
 5805401000006111	Peritoneal dialysis solution allergy
-5805421000006118	Hemodialysis fluid allergy
-5805411000006114	Haemodialysis fluid allergy
-5805441000006113	Hemofiltration solution allergy
-5805431000006115	Haemofiltration solution allergy
-5847371000006111	Acute renal papillary necrosis with renal failure
-5880641000006119	Observation of measures of dialysis
-5880631000006112	Finding of measures of dialysis
-5899121000006110	Post-renal renal failure
 5913541000006117	Arteriovenous fistula aneurysm
 5919061000006113	Arteriovenous graft material
-5966771000006111	Transient acute renal failure
-2689951000006113	Stabilizing hemodialysis
-2689941000006111	Stabilising haemodialysis
-6000571000006114	Care of hemodialysis equipment
-6000561000006119	Care of haemodialysis equipment
-6000581000006112	Division of coronary arteriovenous fistula
-454255014	Anaemia secondary to renal failure
-6002501000006116	Anemia secondary to renal failure
 6013791000006111	Surgical arteriovenous fistula
 6014961000006119	Arteriovenous graft
 6133261000006114	Amino acids peritoneal dialysis solution
@@ -614,100 +372,18 @@ medcodeid	term_medcode
 6133281000006116	Medium glucose concentration peritoneal dialysis solution
 6133301000006117	High glucose concentration peritoneal dialysis solution
 6133311000006119	Icodextrin peritoneal dialysis solution
-6179511000006113	Renal/liver failure/ketogen food
-6188211000006113	Hemofiltration solution
-6188201000006110	Haemofiltration solution
 6201661000006117	CAPD solution
 6201651000006119	Continuous ambulatory peritoneal dialysis solution
 6201671000006112	Automated peritoneal dialysis solution
 6201681000006110	Intermittent peritoneal dialysis solution
 6201691000006113	Acute peritoneal dialysis solution
-6201701000006113	Haemodialysis concentrate
-6201711000006111	Hemodialysis concentrate
-6201731000006117	Continuous hemodialysis solution
-6201721000006115	Continuous haemodialysis solution
-6201751000006112	Hemodialysis liquid concentrate
-6201741000006110	Haemodialysis liquid concentrate
-6201761000006114	Haemodialysis dry concentrate
-6201771000006119	Hemodialysis dry concentrate
-6201791000006118	Acid hemodialysis liquid concentrate
-6201781000006116	Acid haemodialysis liquid concentrate
-6201801000006117	Basic bicarbonate haemodialysis liquid concentrate
-6201811000006119	Basic bicarbonate hemodialysis liquid concentrate
-6201821000006110	Acetate haemodialysis liquid concentrate
-6201831000006113	Acetate hemodialysis liquid concentrate
-6201851000006118	Acidic bicarbonate hemodialysis dry concentrate
-6201841000006115	Acidic bicarbonate haemodialysis dry concentrate
-6201861000006116	Basic bicarbonate haemodialysis dry concentrate
-6201871000006111	Basic bicarbonate hemodialysis dry concentrate
-6201881000006114	Sodium bicarbonate haemodialysis dry concentrate cartridge
-6201891000006112	Sodium bicarbonate hemodialysis dry concentrate cartridge
-6201911000006114	Acetate hemodialysis dry concentrate
-6201901000006111	Acetate haemodialysis dry concentrate
-6201921000006118	Glucose free acid haemodialysis liquid concentrate
-6201931000006115	No glucose acid haemodialysis liquid concentrate
-6201941000006113	No glucose acid hemodialysis liquid concentrate
-6201951000006110	Glucose free acid hemodialysis liquid concentrate
-6201971000006117	Potassium free acid hemodialysis liquid concentrate
-6201981000006119	No potassium acid hemodialysis liquid concentrate
-6201961000006112	Potassium free acid haemodialysis liquid concentrate
-6201991000006116	No potassium acid haemodialysis liquid concentrate
-6202001000006119	Glucose free acetate haemodialysis liquid concentrate
-6202011000006116	No glucose acetate haemodialysis liquid concentrate
-6202021000006112	No glucose acetate hemodialysis liquid concentrate
-6202031000006110	Glucose free acetate hemodialysis liquid concentrate
-6202071000006113	No potassium acetate haemodialysis liquid concentrate
-6202041000006117	Potassium free acetate haemodialysis liquid concentrate
-6202061000006118	No potassium acetate hemodialysis liquid concentrate
-6202051000006115	Potassium free acetate hemodialysis liquid concentrate
-6202101000006115	No potassium continuous hemodialysis solution
-6202091000006114	No potassium continuous haemodialysis solution
-6202081000006111	Potassium free continuous haemodialysis solution
-6202111000006117	Potassium free continuous hemodialysis solution
-6202121000006113	Glucose free continuous haemodialysis solution
-6202151000006116	No glucose continuous haemodialysis solution
-6202131000006111	Glucose free continuous hemodialysis solution
-6202141000006118	No glucose continuous hemodialysis solution
-6202181000006112	No potassium hemofiltration solution
-6202191000006110	Potassium free hemofiltration solution
-6202161000006119	Potassium free haemofiltration solution
-6202171000006114	No potassium haemofiltration solution
-6202201000006113	Glucose free haemofiltration solution
-6202231000006117	No glucose haemofiltration solution
-6202211000006111	Glucose free hemofiltration solution
-6202221000006115	No glucose hemofiltration solution
-6202301000006117	Acetate free continuous hemodialysis solution
-6202291000006118	Acetate free continuous haemodialysis solution
-6202311000006119	Lactate free continuous haemodialysis solution
-6202321000006110	Lactate free continuous hemodialysis solution
-6202331000006113	Acetate free haemofiltration solution
-6202341000006115	Acetate free hemofiltration solution
-6202361000006116	Lactate free hemofiltration solution
-6202351000006118	Lactate free haemofiltration solution
 6210341000006119	Peritoneal dialysis catheter
 6210351000006117	Chronic ambulatory peritoneal dialysis catheter
 2751501000006118	Chronic haemodialysis diet
 2751511000006115	Chronic hemodialysis diet
 2868911000006114	Anesthesia for renal transplant, recipient
 2868901000006111	Anaesthesia for renal transplant, recipient
-6242211000006115	Renal failure associated with renal vascular disease
-2963201000006119	Haemodialysis education
-2963231000006110	Hemodialysis education
-2963221000006112	Haemodialysis training
-2963211000006116	Hemodialysis training
-6260591000006115	Dialysis observable
-6260601000006111	Measure of dialysis
-6269211000006118	Finding of adequacy of dialysis
-6269201000006116	Adequacy of dialysis - finding
 6296951000006115	Patch repair of arteriovenous fistula
-3256361000006119	Familial gout with renal failure
-3256371000006114	Familial juvenile gouty nephropathy
-3256381000006112	Familial juvenile hyperuricaemia nephropathy
-3256351000006116	Familial gout nephropathy
-3256391000006110	Familial juvenile hyperuricemia nephropathy
-3331281000006115	HRF - Hepatorenal failure
-3331291000006117	Hepatorenal failure
-85441018	Hepatorenal syndrome
 3344951000006117	Anaesthesia for shunt revision, dialysis
 3344961000006115	Anesthesia for shunt revision, dialysis
 3753591000006115	Plastic repair of arteriovenous aneurysm
@@ -718,24 +394,9 @@ medcodeid	term_medcode
 4611411000006114	Returned peritoneal lavage fluid sample
 4611391000006114	Peritoneal dialysate sample
 261136015	Peritoneal dialysis sample
-500381000006116	Autotransplantation of adrenal medulla to caudate nucleus of brain
-4119181000006112	Kidney donor
-4119171000006114	Donor of kidney for transplant
-11926091000006118	Hypertensive renal disease with renal failure
-741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
-299673010	Hypertensive heart and renal disease with renal failure
-789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
-303951011	Renal function impairment with growth failure
-5030461000006114	Retinal dialysis
 5059341000006114	Transplant renal vein thrombosis
 354417015	Acute-on-chronic renal failure
 4218231000006113	Kidney transplant evaluation
-4259221000006112	Pre-dialysis
-4259231000006110	Post-dialysis
-4269021000006114	Dialysate
-4269011000006118	Dialysis fluid
-4316601000006114	Dialysis fluid specimen
-4316611000006112	Dialysis fluid sample
 4350231000006112	Peritoneal dialysis fluid specimen
 2732451000006111	Peritoneal dialysis excluding cannulation
 2863331000006112	Removal of thrombus from arteriovenous shunt or cannula
@@ -748,86 +409,27 @@ medcodeid	term_medcode
 6434791000006114	Peritoneal dialysis solution
 6434781000006111	Solution for peritoneal dialysis
 6434801000006110	Peritoneal dialysis solution (dose form)
-6434821000006117	Haemodialysis solution
-6434811000006113	Solution for haemodialysis
-6434831000006119	Hemodialysis solution
-6434841000006112	Haemodialysis solution concentrate
-6434851000006114	Hemodialysis solution concentrate
-6435281000006118	Dialysis dosage form
-6447751000006111	Assess dialysis care
-6447741000006114	Dialysis care assessment
-460912010	[V]Preparatory care for dialysis
-6447761000006113	Dialysis care
-6447781000006115	Teach dialysis care
-6447791000006117	Dialysis training
-6447771000006118	Dialysis care education
-6447811000006118	Manage dialysis care
-6447801000006116	Dialysis care management
-6467301000006117	Peritoneal dialysis solution
-6593721000006112	Dialysis catheter
 6665631000006113	Hemodialysis-associated secondary amyloidosis of skin
 6665621000006110	Haemodialysis-associated secondary amyloidosis of skin
-6669781000006118	Skin lesion associated with haemodialysis
-6669791000006115	Skin lesion associated with hemodialysis
-6686181000006114	Haemodialysis-associated pseudoporphyria
-6686201000006110	Pseudoporphyria in haemodialysis
-6686211000006113	Pseudoporphyria in hemodialysis
-6686191000006112	Hemodialysis-associated pseudoporphyria
-6686231000006119	Hemodialysis-associated pruritus
-6686241000006112	Pruritus due to haemodialysis
-6686221000006117	Haemodialysis-associated pruritus
-6686251000006114	Pruritus due to hemodialysis
 6703951000006115	Peritoneal dialysis leakage
-6707511000006119	Hemodialysis access status
-6707501000006117	Haemodialysis access status
-6707491000006113	Hemodialysis access site status
-6707481000006110	Haemodialysis access site status
 6712491000006112	Creation of upper extremity arteriovenous fistula
 6712481000006114	Creation of upper limb arteriovenous fistula
 6713671000006115	Creation of lower limb arteriovenous fistula
 6713681000006117	Creation of lower extremity arteriovenous fistula
-6724211000006116	Dialysis access maintenance
-6724221000006112	Dialysis access site care
-6765381000006112	Haemodialysis-associated hypotension
-6765391000006110	Hemodialysis-associated hypotension
 6822401000006113	Icodextrin 7.5% peritoneal dialysis solution
 6822411000006111	Icodextrin 7.5% solution
-2474415018	Dialysis fluid examination
-6832651000006112	Dialysis fluid urea measurement
-6832661000006114	Dialysis fluid urea level
-6832691000006118	Dialysis fluid creatinine measurement
-6832701000006118	Dialysis fluid creatinine level
-6832741000006116	Dialysis fluid glucose level
-6832731000006114	Dialysis fluid glucose measurement
 6833321000006115	Peritoneal dialysis fluid cell count
-6835811000006119	Dialysis fluid potassium measurement
-6835821000006110	Dialysis fluid potassium level
-6835831000006113	Dialysis fluid sodium measurement
-6835841000006115	Dialysis fluid sodium level
-6799211000006113	Traumatic iridodialysis
-6858011000006117	History of renal failure
-6901111000006113	Referral for dialysis
-6920341000006113	Dialysis fluid
-6947411000006118	Hemodialysis fluid
-6947401000006116	Haemodialysis fluid
-6922501000006119	Dialysis unit
 6948351000006111	Renal transplant venogram
 6948341000006114	Fluoroscopic venography of renal transplant
 6932441000006115	Renal transplant angiogram
 6932431000006113	Fluoroscopic angiography of renal transplant
 6933861000006111	Fluoroscopy and angioplasty of renal transplant
 6933851000006114	Fluoroscopic angioplasty of renal transplant
-6935161000006118	Haemofiltration solution
-6935171000006113	Hemofiltration solution
 5618981000006110	Continuous ambulatory peritoneal dialysis diet
 5618971000006112	Continuous ambulatory peritoneal dialysis (CAPD) diet
 5618961000006117	CAPD diet
 5307351000006112	AV fistula recirculation
 5307361000006114	Arteriovenous fistula recirculation
-7043231000006112	Chronic progressive renal failure
-7043241000006119	Chronic progressive renal insufficiency
-7022061000006117	Solution for haemofiltration
-7022071000006112	Solution for hemofiltration
 7094321000006114	Pretransplant evaluation of kidney recipient
 7097941000006112	Dependence on dialysis due to end stage renal disease
 7095851000006114	Dependence on peritoneal dialysis due to end stage renal disease
@@ -836,33 +438,17 @@ medcodeid	term_medcode
 7090481000006112	Hypertension secondary to kidney transplant
 7083761000006118	Procedure involving peritoneal dialysis catheter
 7083771000006113	Peritoneal dialysis catheter procedure
-7091221000006116	Pretransplant evaluation of live kidney donor
-387351000000117	Examination of live donor after kidney transplant
 7130251000006116	Mechanical complication of peritoneal dialysis catheter
-7118481000006117	Hematoma of dialysis access site
-7118471000006115	Haematoma of dialysis access site
-7161701000006111	Insertion of dialysis catheter using doppler ultrasound (US) guidance
-7161691000006111	Insertion of dialysis catheter using doppler ultrasound guidance
 7182801000006112	Active warming of patient using peritoneal dialysis fluid
 7182791000006111	Active warming of subject using peritoneal dialysis fluid
-7145851000006114	Insertion of tunnelled dialysis catheter using fluoroscopic guidance
-7145861000006111	Insertion of tunneled dialysis catheter using fluoroscopic guidance
-7145841000006112	Fluoroscopy guided insertion of tunnelled dialysis catheter
-7145871000006116	Fluoroscopic guidance for insertion of tunnelled dialysis catheter
 7182701000006116	Fluoroscopy guided percutaneous thrombolysis of transplanted renal artery
 7182721000006114	Fluoroscopic guidance for percutaneous thrombolysis of transplanted renal artery
-7151301000006116	Fluoroscopic guidance for replacement of dialysis catheter
-7151281000006115	Fluoroscopy guided replacement of dialysis catheter
-7151291000006117	Replacement of dialysis catheter using fluoroscopic guidance
 7148101000006112	Peritonitis due to infected peritoneal dialysis catheter
 7171101000006117	Fluoroscopic PTA of dialysis fistula
 7171121000006110	PTA of dialysis fistula
 7181841000006115	Fluoroscopic percutaneous transluminal cutting balloon angioplasty of dialysis fistula
 7181861000006116	Cutting balloon PTA of dialysis fistula
 7181851000006118	Percutaneous transluminal cutting balloon angioplasty of dialysis fistula using fluoroscopic guidance
-7181961000006112	Active warming of patient using haemodialysis circuit
-7181951000006110	Active warming of subject using hemodialysis circuit
-7181941000006113	Active warming of subject using haemodialysis circuit
 7141651000006111	Fluoroscopy guided percutaneous mechanical thrombectomy of dialysis fistula
 7141671000006118	Fluoroscopic guidance for percutaneous mechanical thrombectomy of dialysis fistula
 7150611000006118	Doppler ultrasonography (US) of transplanted kidney
@@ -902,39 +488,25 @@ medcodeid	term_medcode
 7212371000006110	Specimen from transplanted kidney obtained by biopsy
 7212381000006113	Renal transplant biopsy sample
 7207591000006118	Replacement of peritoneal dialysis catheter
-7213941000006111	Acute postoperative renal failure
 7239051000006116	Malposition of peritoneal dialysis catheter
 7213991000006119	Doppler ultrasonography of arteriovenous fistula for haemodialysis
 7214001000006111	Doppler ultrasonography of arteriovenous fistula for hemodialysis
-7228541000006119	Measurement of electrolytes in dialysate
 7243731000006111	Temporary peritoneal dialysis catheter in situ
 7218201000006110	Peritoneal dialysis catheter in situ
-7231921000006113	Assessment of adequacy of dialysis
 7234181000006112	Peritoneal dialysis subcutaneous leakage
 7234171000006114	Leakage of peritoneal dialysate into subcutaneous tissue of abdominal wall
 7207581000006116	Laparoscopic insertion of peritoneal dialysis catheter
 7239671000006118	Obstruction of peritoneal dialysis catheter by fibrin formation
-7230311000006111	Measurement of recirculation in haemodialysis vascular access
-7230321000006115	Measurement of recirculation in hemodialysis vascular access
 7221961000006117	Peritoneal dialysis catheter fell out
 7235301000006116	Peritoneal dialysis pleural leakage
 7235291000006117	Leakage of peritoneal dialysate into pleural cavity
 7240521000006114	Encapsulating peritoneal sclerosis (EPS) associated with peritoneal dialysis
 7240511000006118	Encapsulating peritoneal sclerosis associated with peritoneal dialysis
-7224131000006114	Haemodialysis therapy discontinued
-7224141000006116	Hemodialysis therapy discontinued
-7220901000006110	Measurement of static venous pressure in hemodialysis vascular access
-7220891000006111	Measurement of static venous pressure in haemodialysis vascular access
 7238631000006113	Refashioning of arteriovenous fistula
-7229111000006116	Transposed popliteal to great saphenous arteriovenous fistula
-7255041000006115	Measurement of calcium in dialysis fluid specimen
 7267341000006117	Measurement of creatinine clearance normalised to body surface area in peritoneal dialysis fluid specimen
 7267351000006115	Measurement of creatinine clearance normalized to body surface area in peritoneal dialysis fluid specimen
 7261621000006111	Measurement of creatinine clearance in peritoneal dialysis fluid specimen
 7262731000006112	Cloudy peritoneal dialysis effluent
-7272731000006116	Dependent on hemodialysis
-7272711000006110	Dependence on haemodialysis
-7272721000006119	Dependence on hemodialysis
 7279961000006115	Dependence on peritoneal dialysis
 7279701000006119	Radionuclide imaging of transplanted kidney
 7279711000006116	Radionuclide study of transplanted kidney
@@ -948,219 +520,56 @@ medcodeid	term_medcode
 7293941000006110	Quantitative measurement of mass concentration of glucose in first peritoneal dialysis fluid specimen
 7293001000006112	Quantitative measurement of glucose in predialysis peritoneal dialysis fluid specimen
 7293011000006110	Quantitative measurement of mass concentration of glucose in predialysis peritoneal dialysis fluid specimen
-7286231000006118	Quantitative measurement of mass concentration of creatinine in predialysis serum or plasma specimen
-7286221000006116	Quantitative measurement of mass concentration of creatinine in predialysis serum or plasma
-7286241000006111	Quantitative measurement of creatinine in postdialysis serum or plasma specimen
-7286251000006113	Quantitative measurement of mass concentration of creatinine in postdialysis serum or plasma specimen
 7293281000006110	Quantitative measurement of concentration of glucose in peritoneal dialysis fluid at 4 hours postperitoneal dialysis
 7293291000006113	Quantitative measurement of mass concentration of glucose in peritoneal dialysis fluid specimen at 4 hours postperitoneal dialysis
 7285721000006115	Quantitative measurement of mass concentration of glucose in peritoneal dialysis fluid specimen
 7285711000006111	Quantitative measurement of glucose in peritoneal dialysis fluid specimen
-7295391000006118	Machine hemodialysate specimen obtained before mixing
-7295381000006116	Machine haemodialysate specimen obtained before mixing
-7298521000006118	Machine hemodialysate specimen obtained after mixing
-7298511000006114	Machine haemodialysate specimen obtained after mixing
-7300461000006115	Predialysis dialysis fluid specimen
-7300451000006117	Dialysis fluid specimen obtained before dialysis
-7309621000006119	Machine hemodialysate specimen using water distribution system
-7309611000006110	Machine haemodialysate specimen using water distribution system
-7309591000006116	Haemodialysate specimen from haemodialysis machine using water distribution system
-7309601000006112	Hemodialysate specimen from hemodialysis machine using water distribution system
-7309381000006110	Dialysis fluid specimen obtained after dialysis
-7309391000006113	Postdialysis dialysis fluid specimen
-7307261000006115	Machine hemodialysate specimen using reverse osmosis system
-7307231000006112	Haemodialysate specimen from haemodialysis machine using reverse osmosis system
-7307241000006119	Hemodialysate specimen from hemodialysis machine using reverse osmosis system
-7307251000006117	Machine haemodialysate specimen using reverse osmosis system
 7300651000006115	Peritoneal dialysis fluid specimen obtained before dialysis
 7300661000006118	Predialysis peritoneal dialysis fluid specimen
-7299511000006115	Inadequate dialysis blood flow
-7299501000006118	Inadequate flow to support prescribed dialysis blood flow
 7302341000006111	Postdialysis peritoneal dialysis fluid specimen
 7302331000006118	Peritoneal dialysis fluid specimen obtained after dialysis
-7323971000006119	Hemodialysis technique
-7323961000006114	Haemodialysis technique
 7315121000006114	Ultrasonography of dialysis shunt
-7316181000006117	Duration of haemodialysis session
-7316191000006119	Duration of hemodialysis session
 7338641000006112	Dialysis fluid specimen obtained after continuous ambulatory peritoneal dialysis
-7318211000006119	Change of prescription for haemodialysis
-7318221000006110	Adjustment of prescription for haemodialysis
-7318231000006113	Adjustment of prescription for hemodialysis
-7318241000006115	Change of prescription for hemodialysis
-7356461000006111	Outpatient freestanding dialysis treatment centre
-7356441000006112	Outpatient freestanding dialysis treatment facility
-7356451000006114	Outpatient freestanding dialysis treatment center
 7344691000006110	Peritoneal dialysis technique
 7369251000006114	Replacement of peritoneal dialysis transfer set
-7354791000006117	Removal of haemodialysis catheter
-7354801000006116	Removal of hemodialysis catheter
 7970081000006117	Patient awaiting renal transplant
 7970091000006119	Awaiting renal transplant
-7384301000006116	Haemodialysis catheter
-7384311000006118	Hemodialysis catheter
-7384281000006115	Insertion of nontunneled haemodialysis catheter
-7384291000006117	Insertion of nontunneled hemodialysis catheter
-7384271000006118	Nontunneled hemodialysis catheter
-7384261000006113	Nontunneled haemodialysis catheter
-7970461000006118	Anemia, pre-end stage renal disease on erythropoietin protocol
-7970471000006113	Anemia, pre-ESRD erythropoietin protocol
 8047971000006118	Malignant hypertensive chronic kidney disease stage 5
 8087651000006114	Malignant hypertensive end stage renal disease
 8088131000006111	Malignant hypertensive end stage renal disease on dialysis
-7405931000006118	Hemodialysis system control/monitor
-7405921000006116	Haemodialysis system control/monitor
-7400351000006119	Haemodialysis system blood leak detector
-7400361000006117	Hemodialysis system blood leak detector
 7407851000006113	Peritoneal dialysis catheter adaptor
-7408901000006116	Hemodialysis system blood line clamp
-7408891000006115	Haemodialysis system blood line clamp
 7401751000006112	Peritoneal dialysis catheter, acute/chronic
-7408921000006114	Haemodialysis system dialysate temperature alarm
-7408931000006112	Hemodialysis system dialysate temperature alarm
-7401321000006119	Hemodialysis system dialysate level detector
-7401311000006110	Haemodialysis system dialysate level detector
-7408801000006110	Hemodialysis dialysate delivery system, multi-patient
-7408791000006114	Haemodialysis dialysate delivery system, multi-patient
-7400641000006114	Haemodialysis fistula dressing
-7400651000006111	Hemodialysis fistula dressing
-7402961000006117	Hemodialysis catheter, nonimplantable
-7402951000006119	Haemodialysis catheter, nonimplantable
-7408701000006119	Hemodialysis system dialyzer holder
-7408691000006119	Haemodialysis system dialyser holder
-7402391000006112	Haemodialysis system volume control unit
-7402401000006114	Hemodialysis system volume control unit
 7400861000006114	Peritoneal/extracorporeal dialysis dressing procedure kit
-7406431000006117	Hemodialysis system bicarbonate mixer
-7406421000006115	Haemodialysis system bicarbonate mixer
 7404651000006116	Peritoneal dialysis catheter, chronic
-7405131000006116	Haemodialysis system transducer protector
-7405141000006114	Hemodialysis system transducer protector
-7445631000006119	Bound solute dialysis system pump/monitor
-7404601000006115	Hemodialysis system blood pump
-7404591000006111	Haemodialysis system blood pump
-7405471000006112	Hemodialysis system blood level detector
-7405461000006117	Haemodialysis system blood level detector
-7405061000006114	Haemodialysis system blood volume monitor
-7405071000006119	Hemodialysis system blood volume monitor
-7452161000006110	Bound solute dialysis dialysate
-7404881000006111	Hemodialysis conductivity standard solution
-7404871000006113	Haemodialysis conductivity standard solution
-7407701000006118	Haemodialysis system central monitor
-7407711000006115	Hemodialysis system central monitor
 7401851000006118	Peritoneal dialysis dialysate
-7407241000006112	Haemodialysis dialyser reprocessing system
-7407251000006114	Hemodialysis dialyzer reprocessing system
-7446231000006110	Bound solute dialysis system application software
 7405731000006115	Peritoneal dialysis system sterile connection unit
-7408741000006117	Haemofiltration system
-7408751000006115	Hemofiltration system
-7405861000006119	Hemodialysis arm clamp
-7405851000006116	Haemodialysis arm clamp
 7400811000006111	Peritoneal dialysis system dialysate filter
-7449711000006119	Bound solute dialysis system component set
-7401661000006117	Hemodialysis system dialysate delivery unit
-7401651000006119	Haemodialysis system dialysate delivery unit
-7407751000006119	Hemodialysis system dialysate flowmeter
-7407741000006116	Haemodialysis system dialysate flowmeter
 7400671000006118	Peritoneal dialysis system
-7408241000006113	Haemodialysis system dialysate pyrogen-filtration set
-7408251000006110	Hemodialysis system dialysate pyrogen-filtration set
-7403371000006117	Hemodialysis system, institutional/home-use
-7403361000006112	Haemodialysis system, institutional/home-use
-7401361000006113	Haemodialysis start/stop set
-7401371000006118	Hemodialysis start/stop set
-7401591000006114	Hemodialysis dialysate electrical conductivity meter
-7401581000006111	Haemodialysis dialysate electrical conductivity meter
-7406491000006118	Hemodialysis system plasma filtration unit
-7406481000006116	Haemodialysis system plasma filtration unit
 7404671000006114	Peritoneal dialysis catheterization kit
 7404661000006119	Peritoneal dialysis catheterisation kit
-7403041000006111	Hemodialysis dialysate
-7403031000006118	Haemodialysis dialysate
-7406671000006116	Hemodialysis dialysate tubing
-7406661000006111	Haemodialysis dialysate tubing
-7408571000006119	Hemodialysis system fluid mixer
-7408561000006114	Haemodialysis system fluid mixer
-7408131000006114	Hemodialysis tubing set, reprocessed
-7408121000006111	Haemodialysis tubing set, reprocessed
-7400831000006117	Hemodialysis chair, manual
-7400821000006115	Haemodialysis chair, manual
-7408721000006112	Haemodialysis tubing set, single-use
-7408731000006110	Hemodialysis tubing set, single-use
-7447221000006114	Bound solute dialysis system
 7448891000006111	Continuous ambulatory peritoneal dialysis (CAPD) transfer set
-7401551000006115	Haemodialysis treatment kit
-7401561000006118	Hemodialysis treatment kit
-7402651000006110	Hemodialysis chair, electric
-7402641000006113	Haemodialysis chair, electric
-7407811000006112	Hemodialysis system, institutional
-7407801000006114	Haemodialysis system, institutional
-7407591000006117	Hemodialysis dialysate tester
-7407581000006115	Haemodialysis dialysate tester
-7403941000006112	Haemodialysis needle
-7403951000006114	Hemodialysis needle
-7401021000006117	Hemodialysis catheter, implantable
-7401011000006113	Haemodialysis catheter, implantable
-7408831000006119	Hemodialysis system air/foam detector
-7408821000006117	Haemodialysis system air/foam detector
-7402561000006111	Haemodialysis system dialysate pyrogen filter
-7402571000006116	Hemodialysis system dialysate pyrogen filter
 7405661000006115	Peritoneal dialysis dialysate warmer
 7406851000006110	Peritoneal dialysis system tubing set
 7408491000006117	Peritoneal dialysis catheter, acute
-7405881000006112	Hemodialysis dialysate tank
-7405871000006114	Haemodialysis dialysate tank
-7481701000006114	Complication associated with dialysis catheter
 7484161000006113	Leakage of peritoneal dialysis catheter
 7482341000006116	Infection associated with peritoneal dialysis catheter
 7483511000006116	Malfunction of peritoneal dialysis catheter
 7484191000006117	Mode of dialysis access by patient choice
 7484221000006112	Normal renal function of transplanted kidney
-7487661000006110	Dialysis catheter in situ unusable
-7487651000006113	Dialysis catheter in situ usable
 7966621000006118	Diabetic stage 5 chronic renal impairment due to type 2 diabetes mellitus
 7966631000006115	Chronic kidney disease stage 5 due to type II diabetes mellitus
 7966611000006114	Chronic kidney disease stage 5 due to type 2 diabetes mellitus
 8040671000006114	Chronic kidney disease stage 5 due to hypertension
 8030411000006118	Hypertensive heart AND chronic kidney disease stage 5
-7504161000006117	SLED - Sustained low-efficiency dialysis
-7504151000006119	Sustained low-efficiency dialysis
 7507461000006117	Awaiting transplantation of kidney
 7507471000006112	Awaiting renal transplant
 7510311000006111	Benign hypertensive renal disease with renal failure
 7513101000006118	Hypertensive renal disease with end stage renal failure
-7514951000006119	Misplacement of haemodialysis catheter
-7514961000006117	Misplacement of hemodialysis catheter
 8048001000006110	End stage renal disease on dialysis due to hypertension
 8030391000006118	Hypertensive heart AND chronic kidney disease on dialysis
 8001631000006110	Hypertensive heart AND chronic kidney disease with congestive heart failure
 7502601000006118	Arteriovenous fistula route
-7541851000006116	Hollow-fiber hemodialysis dialyzer, low flux, single-use
-7541841000006118	Hollow-fibre haemodialysis dialyser, low flux, single-use
-7541941000006111	Parallel-plate haemodialysis dialyser, disposable-insert
-7541951000006113	Parallel-plate hemodialysis dialyzer, disposable-insert
-7542241000006113	Parallel-plate haemodialysis dialyser, high-permeability
-7542251000006110	Parallel-plate hemodialysis dialyzer, high-permeability
-7542381000006112	Parallel-plate haemodialysis dialyser, standard
-7542391000006110	Parallel-plate hemodialysis dialyzer, standard
-7542971000006110	Hollow-fibre haemodialysis dialyser, low flux, reusable
-7542981000006113	Hollow-fiber hemodialysis dialyzer, low flux, reusable
-7543151000006110	Hollow-fibre haemodialysis dialyser, high flux, reusable
-7543161000006112	Hollow-fiber hemodialysis dialyzer, high flux, reusable
-7543271000006112	Hollow-fibre haemodialysis dialyser, high flux, single-use
-7543281000006110	Hollow-fiber hemodialysis dialyzer, high flux, single-use
-7550431000006119	Sodium carbonate haemodialysis system cleaning cartridge
-7550441000006112	Sodium carbonate hemodialysis system cleaning cartridge
-7550461000006111	Citric acid hemodialysis system cleaning cartridge
-7550451000006114	Citric acid haemodialysis system cleaning cartridge
-7555431000006114	Hemodialysis system operation software
-7555421000006111	Haemodialysis system operation software
-7555781000006119	Haemodialysis tubing set, reusable
-7555791000006116	Hemodialysis tubing set, reusable
 7564221000006119	Inadequate peritoneal dialysis
-7564241000006114	Inadequate hemodialysis
-7564231000006116	Inadequate haemodialysis
 7315131000006112	Ultrasound scan of arteriovenous fistula
 7315111000006118	Ultrasonography of arteriovenous fistula
 7569841000006114	Vesicoureteric reflux after renal transplant
@@ -1181,12 +590,6 @@ medcodeid	term_medcode
 8027531000006113	End stage renal disease on dialysis due to type 2 diabetes mellitus
 8040341000006111	Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
 8027511000006119	End stage renal disease on dialysis due to type 1 diabetes mellitus
-7595161000006119	Hemodialysis catheterization kit
-7595151000006116	Haemodialysis catheterisation kit
-7601911000006112	Haemodialysis dialyzer
-7601921000006116	Hemodialysis dialyzer
-7601941000006111	Hemodialysis system cleaning cartridge
-7601931000006118	Haemodialysis system cleaning cartridge
 7966111000006117	Complies with analysis of peritoneal dialysate
 7966181000006112	Inadequate monitoring of dose delivery of peritoneal dialysis
 7965331000006115	Peritoneal dialysis finding
@@ -1203,25 +606,7 @@ medcodeid	term_medcode
 7615401000006119	Anaemia co-occurrent and due to end stage renal disease
 7615371000006117	Anaemia in end stage renal disease
 7615381000006119	Anemia in end stage renal disease
-7965301000006111	Hemodialysis finding
-7965291000006110	Haemodialysis finding
-7965561000006117	Haemodialysis access site patent
-7965571000006112	Hemodialysis access site patent
-7965731000006116	Haemodialysis observable
-7965741000006114	Hemodialysis observable
-7965641000006115	Increase in haemodialysis dialyzer size
-7965651000006118	Increase in hemodialysis dialyzer size
-7965531000006114	Hemodialysis residual renal function
-7965521000006111	Haemodialysis residual renal function
-7965601000006117	Increase in haemodialysis blood flow
-7965611000006119	Increase in hemodialysis blood flow
-7965711000006110	Increase in hemodialysis session time
-7965701000006112	Increase in haemodialysis session time
-7965541000006116	Haemodialysis access site non-patent
-7965551000006119	Hemodialysis access site non-patent
 7965931000006119	Peritoneal dialysate collection compliance
-7965511000006115	Hemodialysis blood flow
-7965501000006118	Haemodialysis blood flow
 7622651000006116	2H post peritoneal dialysis
 7622641000006118	Two hours after peritoneal dialysis
 7622661000006119	Four hours after peritoneal dialysis
@@ -1233,32 +618,15 @@ medcodeid	term_medcode
 7622701000006110	One day after peritoneal dialysis
 7626811000006117	Increase exchange volume of peritoneal dialysis
 7626821000006113	Increase number of perfusion exchanges per 24 hours of peritoneal dialysis
-7626851000006116	Increase blood flow for hemodialysis
-7626841000006118	Increase blood flow for haemodialysis
-7626861000006119	Increase session time for haemodialysis
-7626871000006114	Increase session time for hemodialysis
-7641791000006111	Maintenance hemodialysis
-7641781000006113	Maintenance haemodialysis
 1548781000006111	Percutaneous transluminal arterial embolisation of dural arteriovenous fistula
 7643081000006112	Percutaneous transluminal arterial embolization of dural arteriovenous fistula
 9351531000006119	Continuous cycling peritoneal dialysis dependence
 9351521000006117	Dependence on continuous cycling peritoneal dialysis
 9351541000006112	Dependence on continuous cyclic peritoneal dialysis
-7641801000006112	Emergency haemodialysis
-7641811000006110	Emergency hemodialysis
-7641821000006119	Emergency haemodiafiltration
-7641831000006116	Emergency hemodiafiltration
 7643131000006112	Percutaneous transluminal arterial and venous embolization of dural arteriovenous fistula
 1548771000006113	Percutaneous transluminal arterial and venous embolisation of dural arteriovenous fistula
-7641841000006114	Maintenance haemofiltration
-7641851000006111	Maintenance hemofiltration
 7643111000006118	Percutaneous transluminal venous embolization of dural arteriovenous fistula
 1548791000006114	Percutaneous transluminal venous embolisation of dural arteriovenous fistula
-7641771000006110	Maintenance hemodiafiltration
-7641761000006115	Maintenance haemodiafiltration
-7965451000006115	Increase dialyzer size for hemodialysis
-7965441000006117	Increase dialyser size for haemodialysis
-9352761000006114	Renal dialysis done
 8087091000006113	Chronic kidney disease stage 5 due to benign hypertension
 8041741000006117	Thrombosis of arteriovenous graft due to hemodialysis arteriovenous access device
 8041751000006115	Thrombosis of arteriovenous graft caused by haemodialysis arteriovenous access device
@@ -1272,9 +640,6 @@ medcodeid	term_medcode
 7664931000006119	Doppler ultrasound scan of arteriovenous fistula
 7664911000006113	Doppler ultrasonography of arteriovenous fistula
 9351511000006113	Dependence on continuous ambulatory peritoneal dialysis
-8039001000006115	Non-compliance with renal dialysis
-9681361000006119	Insertion of dialysis catheter into femoral vein
-9681371000006114	Dialysis catheter inserted in groin
 7688091000006111	Fluoroscopic angiography of arteriovenous graft
 7691301000006112	Peritoneal dialysis catheterisation support kit
 7691311000006110	Peritoneal dialysis catheterization support kit
@@ -1287,7 +652,6 @@ medcodeid	term_medcode
 7700671000006112	Cadaver donor for kidney transplant
 8035251000006111	End stage renal disease due to hypertension
 8035261000006113	ESRD (End stage renal disease) due to hypertension
-7707951000006114	Renal failure syndrome co-occurrent with human immunodeficiency virus infection
 7708331000006119	Sclerosing peritonitis as complication of peritoneal dialysis
 7708341000006112	Sclerosing peritonitis due to peritoneal dialysis
 7708351000006114	Hydrothorax as complication of peritoneal dialysis
@@ -1298,8 +662,6 @@ medcodeid	term_medcode
 7708461000006117	Hemoperitoneum as complication of peritoneal dialysis
 7708451000006119	Hemoperitoneum due to peritoneal dialysis
 7708471000006112	Haemoperitoneum due to peritoneal dialysis
-7709551000006114	Triple lumen haemodialysis catheter
-7709561000006111	Triple lumen hemodialysis catheter
 7710041000006114	Transplant renal artery stenosis
 7710051000006111	Renal artery stenosis of transplanted kidney
 7710031000006116	Structure of renal artery of transplanted kidney
@@ -1309,29 +671,17 @@ medcodeid	term_medcode
 7714931000006110	Chronic kidney disease 5t
 7714921000006112	Chronic kidney disease stage 5 with transplant
 7714941000006117	CKD (chronic kidney disease) stage 5t
-7709541000006112	Hemodialysis and/or central venous catheterization kit
-7709531000006119	Haemodialysis and/or central venous catheterisation kit
-7729341000006112	Infection of haemodialysis catheter exit site
-7729351000006114	Infection of hemodialysis catheter exit site
 7743081000006116	Doppler ultrasonography of arteriovenous graft
 7743091000006118	Doppler ultrasound scan of arteriovenous graft
 7743101000006112	Doppler ultrasound of arteriovenous graft
-7756121000006113	Renal tubulopathy with encephalopathy and liver failure syndrome
 7767261000006115	Injection of arteriovenous fistula using fluoroscopic guidance
 7767251000006117	Fluoroscopy guided injection of arteriovenous fistula
 7761641000006110	Peritoneal dialysis care assessment
-7766191000006117	Haemodialysis care management
-7766201000006119	Hemodialysis care management
 7766401000006118	Retrograde insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance
 7766391000006115	Fluoroscopy guided retrograde insertion of ureteric stent into ureter of transplanted kidney
 7766381000006118	Antegrade insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance
 7766371000006116	Fluoroscopy guided antegrade insertion of ureteric stent into ureter of transplanted kidney
 7770551000006113	Peritoneal dialysis care
-7770921000006110	Haemodialysis care
-7770931000006113	Hemodialysis care
-7770941000006115	Haemodialysis care assessment
-7770951000006118	Hemodialysis care assessment
-8014771000006115	Line sepsis associated with dialysis catheter
 8212361000006113	Anaemia in chronic kidney disease stage 5
 8212371000006118	Anemia co-occurrent and due to chronic kidney disease stage 5
 8212381000006115	Anaemia co-occurrent and due to chronic kidney disease stage 5
@@ -1342,82 +692,18 @@ medcodeid	term_medcode
 9896121000006112	Hyperparathyroidism due to end stage renal disease on dialysis
 7985971000006118	Laparoscopic biopsy of transplanted kidney
 7785581000006115	Kidney transplant recipient
-7787641000006119	Peritoneal membrane failure
-7802501000006118	Hemodialysis water purification system washer/disinfector
-7802491000006114	Haemodialysis water purification system washer/disinfector
-7821691000006113	Splanchnic arteriovenous fistula
-7821681000006110	Arteriovenous fistula of splanchnic circulation
-7824171000006117	Hyperuricemia, anemia, renal failure syndrome
-7824201000006118	Renin associated familial juvenile hyperuricemic nephropathy
-7824211000006115	Renin associated familial juvenile hyperuricaemic nephropathy
-7824191000006116	Familial juvenile hyperuricaemic nephropathy type 2
-7824161000006112	Hyperuricaemia, anaemia, renal failure syndrome
-7824181000006119	Familial juvenile hyperuricemic nephropathy type 2
-7846461000006111	Haemodialysis system chlorine monitor
-7846471000006116	Hemodialysis system chlorine monitor
-7846921000006112	Haemodialysis dialysate water chlorine test kit
-7846931000006110	Hemodialysis dialysate water chlorine test kit
-7846951000006115	Hemodialysis equipment residual chlorine test strip
-7846941000006117	Haemodialysis equipment residual chlorine test strip
-7858521000006119	Osteonecrosis due to and following renal dialysis
-7879001000006112	Dialysis technique
 7932051000006112	Entire renal artery of transplanted kidney
-8047651000006115	Haemodialysis procedure done
-8047661000006118	Hemodialysis procedure done
 7960171000006111	Home-use peritoneal dialysis connection kit
 7960181000006114	Home-use peritoneal dialysis connection kit housing
 7960191000006112	Home-use peritoneal dialysis connection kit frame
 7960271000006116	Peritoneal dialysis catheter adaptor, reusable
 7960281000006118	Peritoneal dialysis catheter adaptor/dialysate line holder
-7960291000006115	Single-lumen haemodialysis catheter, peripheral vascular
-7960301000006119	Single-lumen hemodialysis catheter, peripheral vascular
 3514486019	Failure of surgically constructed arteriovenous fistula
-3516789013	Post-dialysis target weight
-3516811012	Hospital admission from dialysis facility
-3517274012	Hemodialysis care plan
-3517273018	Haemodialysis care plan
-3521937013	Dialysis care plan
-3524930011	Hemodialysis needle gauge
-3525029011	Haemodialysis needle gauge
-3525741013	Infection of bloodstream co-occurrent and due to haemodialysis catheter in situ
-3525743011	Infection related to haemodialysis catheter
-3525740014	Infection of bloodstream co-occurrent and due to hemodialysis catheter in situ
-3525742018	Infection related to hemodialysis catheter
-3525745016	Insertion of hemodialysis catheter
-3525746015	Insertion of haemodialysis catheter
-3525749010	Infection of bloodstream co-occurrent and due to tunneled hemodialysis catheter in situ
-3525751014	Infection related to tunnelled haemodialysis catheter
-3525750010	Infection of bloodstream co-occurrent and due to tunnelled haemodialysis catheter in situ
-3525748019	Infection related to tunneled hemodialysis catheter
-3525759011	Insertion of tunnelled haemodialysis catheter
-3525758015	Insertion of tunneled hemodialysis catheter
-3526122014	Infection of bloodstream co-occurrent and due to temporary haemodialysis catheter in situ
-3526121019	Infection of bloodstream co-occurrent and due to temporary hemodialysis catheter in situ
-3526120018	Infection related to temporary haemodialysis catheter
-3526119012	Infection related to temporary hemodialysis catheter
-3526128013	Mechanical complication of hemodialysis catheter
-3526129017	Mechanical complication of haemodialysis catheter
 3527360016	Transplanted kidney present
 3633852017	Fluoroscopic angiogram of arteriovenous shunt
 3620864015	Fluoroscopic angiography of arteriovenous shunt
-3634079010	POS-S Renal (Palliative care Outcome Scale symptom list for end-stage renal disease)
-3634080013	Palliative care Outcome Scale symptom list for end-stage renal disease
-3634081012	POS-S Renal (Palliative care Outcome Scale symptom list for end-stage renal disease) score
-3634083010	Palliative care Outcome Scale symptom list for end-stage renal disease score
-3634084016	Assessment using POS-S Renal (Palliative care Outcome Scale symptom list for end-stage renal disease)
-3634085015	Assessment using Palliative care Outcome Scale symptom list for end-stage renal disease
 12019461000006111	Fluoroscopy guided removal of nephrostomy tube from transplanted kidney
 12019471000006116	Removal of nephrostomy tube from transplanted kidney using fluoroscopic guidance
 12031641000006115	Allotransplantation of left kidney
 12031651000006118	Allotransplantation of right kidney
-12048111000006118	Extracorporeal hemodialysis route
-12048101000006116	Extracorporeal haemodialysis route
-8163641000006110	Adult non-dialysis renal specialty formula
-8163661000006114	Adult dialysis renal specialty formula
-8166021000006119	Adult dialysis specialty formula
-215711000000115	Prosthetic infection
-389691000006118	[X]Infec & inflam react due oth int prosth device/imp/graft
-215701000000117	Graft infection
 272283013	Declotting of thigh vein loop
-79191000006119	Ultrafiltration of blood
-441211000006110	Accid cut,puncture,perf,h'ge - perfusion NOS
