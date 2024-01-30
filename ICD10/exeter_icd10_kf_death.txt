@@ -1,0 +1,9 @@
+ICD10	Term_description
+N18.0	End-stage renal disease
+N18.5	Chronic kidney disease, stage 5
+N18.8	Other chronic renal failure
+N18.9	Chronic renal failure, unspecified
+N19	Unspecified renal failure
+I12.0	Hypertensive renal disease with renal failure
+I13.1	Hypertensive heart and renal disease with renal failure
+I13.2	Hyper heart and renal dis both (cong) heart and renal fail

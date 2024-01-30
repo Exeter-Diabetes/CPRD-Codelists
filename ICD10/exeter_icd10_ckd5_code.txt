@@ -1,12 +1,8 @@
 ICD10	Term_description
 N16.5	Renal tubulo-interstitial disorders in transplant rejection
+N18.0	End-stage renal disease
 N18.5	Chronic kidney disease, stage 5
-T82.4	Mechanical complication of vascular dialysis catheter
 T86.1	Kidney transplant failure and rejection
-Y60.2	During kidney dialysis or other perfusion
-Y61.2	During kidney dialysis or other perfusion
-Y84.1	Kidney dialysis
-Z49.1	Extracorporeal dialysis
+Z49.0	Preparatory care for dialysis
 Z49.2	Other dialysis
 Z94.0	Kidney transplant status
-Z99.2	Dependence on renal dialysis
