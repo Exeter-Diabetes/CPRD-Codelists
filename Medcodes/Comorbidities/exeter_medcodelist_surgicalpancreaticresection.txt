@@ -1,0 +1,78 @@
+medcodeid	term_medcode	category
+270619019	Total pancreatectomy and excision of surrounding tissue	Total
+270646012	Left pancreatectomy and drainage of pancreatic duct	Partial
+486871014	Postpancreatectomy hyperglycaemia	Unclear
+270647015	Left pancreatectomy NEC	Partial
+5486241000006111	95% distal pancreatectomy	Partial
+12702681000006113	Pancreaticoduodenectomy and resection of antrum of stomach	Total
+12702671000006110	Subtotal pancreatectomy	Partial
+3477471000006119	Distal subtotal pancreatectomy with splenectomy	Partial
+6576011000006116	Specimen from pancreas obtained by pylorus sparing pancreaticoduodenectomy, partial pancreatectomy	Partial
+6576031000006110	Specimen from pancreas obtained by pancreaticoduodenectomy, partial pancreatectomy	Partial
+3038651000006119	Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy	Partial
+5914331000006119	Postpancreatectomy hypoinsulinemia	Unclear
+6722601000006112	College of American Pathologists Cancer Checklist; Pancreas (Exocrine): Resection	Unclear
+5080601000006115	Regional pancreatectomy	Partial
+6625771000006113	Status of surgical margin involvement by tumor in segmental resection or pancreaticoduodenectomy specimen	Unclear
+2758481000006119	Anaesthesia for pancreatectomy, partial	Partial
+2788051000006114	Child operation, radical subtotal pancreatectomy	Partial
+2678921000006119	Near-total pancreatectomy with preservation of duodenum	Total
+5914341000006112	Postpancreatectomy diabetes mellitus	Unclear
+4351191000006111	Specimen from pancreatic tail obtained by partial resection	Partial
+6576021000006112	Specimen from pancreas obtained by pylorus sparing pancreaticoduodenectomy, total pancreatectomy	Total
+5080681000006112	Caudal pancreatectomy	Partial
+4266961000006111	Pylorus preserving pancreatic head resection	Partial
+4351171000006110	Specimen from pancreas obtained by partial pancreatectomy	Partial
+2639271000006115	Anesthesia for pancreatectomy, total	Total
+6203661000006116	Partial duodenopancreatectomy	Partial
+249461000006114	Pancreatectomy NEC	Unclear
+3986791000006116	Distal subtotal pancreatectomy with pancreaticojejunostomy	Partial
+4351211000006112	Specimen from pancreas obtained by pancreaticoduodenectomy (Whipple resection)	Partial
+5080591000006111	Supraradical pancreatectomy	Total
+5080671000006114	Resection of tail of pancreas	Partial
+5914321000006117	Postpancreatectomy hypoinsulinaemia	Unclear
+8282661000006119	Laparoscopic distal pancreatectomy	Partial
+4351201000006114	Specimen from pancreas obtained by total pancreatectomy	Total
+5965561000006118	Resection of pancreatic cyst	Partial
+8045201000006113	History of partial pancreatectomy	Partial
+3337591000006111	Radical subtotal resection of pancreas	Partial
+4663381000006111	Proximal pancreatectomy	Partial
+4269791000006113	Whipple operation, proximal pancreatectomy	Partial
+2505081000006111	Distal subtotal pancreatectomy	Partial
+270620013	Total pancreatectomy NEC	Total
+394263015	Subtotal pancreatectomy	Partial
+5080701000006110	Hemipancreatectomy	Partial
+4351181000006113	Specimen from pancreatic body obtained by partial resection	Partial
+5989521000006112	Pancreatectomy sample	Unclear
+6576041000006117	Specimen from pancreas obtained by pancreaticoduodenectomy, total pancreatectomy	Total
+6203651000006118	Proximal subtotal pancreatectomy with pancreaticoduodenectomy and pancreatic jejunostomy	Partial
+5080661000006119	30-50% distal pancreatectomy	Partial
+2505111000006117	Partial distal subtotal pancreatectomy	Partial
+2651851000006112	TP - Total pancreatectomy	Total
+5727861000006113	Partial pancreatectomy	Partial
+3109201000006113	Postpancreatectomy hyperglycemia	Unclear
+5080621000006113	Duodenal preserving pancreatic head resection	Partial
+5080651000006116	2-3cm distal pancreatectomy	Partial
+550481000006115	Childs distal subtotal pancreatectomy	Partial
+2555641000006117	Rodney Smith operation, radical subtotal pancreatectomy	Partial
+6625761000006118	Status of surgical margin involvement by tumour in segmental resection or pancreaticoduodenectomy specimen	Partial
+3622771000006113	Total pancreatectomy with synchronous duodenectomy	Total
+2505101000006115	Distal pancreatectomy	Partial
+8115131000006110	Pancreas resection sample	Unclear
+5080641000006118	Distal pancreatic tail resection	Partial
+249481000006116	Pancreatectomy, head of pancreas	Partial
+5080611000006117	Fortner regional pancreatectomy	Partial
+2639261000006110	Anaesthesia for pancreatectomy, total	Total
+5080711000006113	Left pancreatectomy	Partial
+4269471000006117	Proximal subtotal pancreatectomy	Partial
+3737491000006113	Total pancreatectomy with transplantation	Total
+8045191000006110	History of total pancreatectomy	Total
+4663371000006113	Transplanted pancreas pancreatectomy	Unclear
+164511000006118	Rodney-Smith dist subtotal pancreatectomy	Partial
+16668011	Total pancreatectomy	Total
+2505091000006114	DP - Distal pancreatectomy	Partial
+8035331000006112	History of pancreatectomy	Unclear
+2758491000006116	Anesthesia for pancreatectomy, partial	Partial
+5080691000006110	50-70% distal pancreatectomy	Partial
+352937014	Pancreatectomy	Unclear
+410948010	Subtotal pancreatectomy	Partial

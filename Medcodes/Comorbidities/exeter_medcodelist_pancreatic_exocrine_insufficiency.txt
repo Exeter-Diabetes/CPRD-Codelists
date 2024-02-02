@@ -1,0 +1,16 @@
+medcodeid	term_medcode
+496986017	Pancreatic steatorrhoea
+3385701000006110	Pancreatic steatorrhea
+63364014	Pancreatic insufficiency
+3265761000006117	Pancreatic exocrine insufficiency
+3265751000006119	EPI
+78967012	Exocrine pancreatic insufficiency
+5913231000006112	Pancreatic malabsorption
+5084871000006119	Postprocedural pancreatic steatorrhea
+5084861000006114	Postprocedural pancreatic steatorrhoea
+2555791000006119	Megaloblastic anemia due to pancreatic insufficiency
+2555781000006117	Megaloblastic anaemia due to pancreatic insufficiency
+7617671000006115	Pancreatic insufficiency due to cystic fibrosis of pancreas
+7828601000006114	Pancreatic insufficiency, dyserythropoietic anaemia, calvarial hyperostosis syndrome
+7828611000006112	Pancreatic insufficiency, dyserythropoietic anemia, calvarial hyperostosis syndrome
+7837371000006111	Secondary pancreatic insufficiency
