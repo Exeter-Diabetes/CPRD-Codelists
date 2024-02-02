@@ -1,0 +1,31 @@
+ProdCodeId	dmdid	Term
+295841000033119	NA	Cotazym Capsules
+385541000033111	NA	Creon Capsules
+1038241000033111	NA	Pancreatin Powder
+2603941000033112	NA	*Pancreatin Pills (Sucrose)
+2604241000033118	NA	*Pancreatin Powder
+5792741000033114	NA	Pancreatin Gastro-resistant Granules 271 mg/gram
+2661641000033117	NA	Creon Micro E/c microspheres
+1042541000033114	NA	Pancreatin Tablets forte 200 mg
+2604041000033114	NA	*Pancreatin Liquid
+1029441000033116	NA	Pancreatin Capsules
+385841000033113	NA	Creon Granules
+2603841000033116	NA	*Pancreatin Tablets
+2604141000033113	NA	*Pancreatin Granules
+1029041000033113	NA	Panzytrat Capsules
+1042441000033113	NA	Pancreatin Tablets 60 mg
+1596641000033118	499411000001107	Creon 10000 gastro-resistant capsules (Mylan)
+385241000033114	654311000001107	Creon 25000 gastro-resistant capsules (Mylan)
+990941000033119	3991911000001106	Nutrizym 10 gastro-resistant capsules (Merck Serono Ltd)
+1028941000033116	3995611000001102	Pancrease HL gastro-resistant capsules (Janssen-Cilag Ltd)
+1028441000033114	4074011000001107	Pancrex V 125mg capsules (Essential Pharmaceuticals Ltd)
+1042741000033118	4075911000001105	Pancrex V gastro-resistant tablets (Essential Pharmaceuticals Ltd)
+991241000033116	4377111000001104	Nutrizym GR modified-release capsules (Merck Serono Ltd)
+990841000033110	4377411000001109	Nutrizym 22 gastro-resistant capsules (Merck Serono Ltd)
+1038341000033118	4736111000001101	Pancrex V oral powder (Essential Pharmaceuticals Ltd)
+1031241000033119	4760211000001103	Pancrex gastro-resistant granules (Essential Pharmaceuticals Ltd)
+3160041000033112	8062311000001109	Creon Micro Pancreatin 60.12mg gastro-resistant granules (Mylan)
+2761341000033116	8349111000001105	Creon 40000 gastro-resistant capsules (Mylan)
+1028541000033110	8361511000001107	Pancrex V capsules (Essential Pharmaceuticals Ltd)
+1042841000033111	8375211000001103	Pancrex V Forte gastro-resistant tablets (Essential Pharmaceuticals Ltd)
+1028341000033115	9150911000001109	Pancrease gastro-resistant capsules (Janssen-Cilag Ltd)
