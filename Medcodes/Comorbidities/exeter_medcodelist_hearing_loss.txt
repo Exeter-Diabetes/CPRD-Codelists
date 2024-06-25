@@ -1,0 +1,122 @@
+MedCodeId	Term
+25788011	Hearing loss
+70962017	Low frequency deafness
+73473018	Conductive deafness
+100850012	Sensorineural hearing loss
+100856018	Perceptive hearing loss
+100857010	Perceptive deafness
+121849011	Neural hearing loss
+253161014	Unilateral deafness
+253163012	Bilateral deafness
+255427017	O/E - very deaf
+255435019	O/E - perceptive deafness
+283069016	Provide head worn hearing aid
+283070015	Provide body worn hearing aid
+283071016	Ear fitting hearing aid
+283305018	Deafness remedial therapy
+299241011	Conductive hearing loss due to disorder of external ear
+299242016	Conductive hearing loss due to disorder of tympanic membrane
+299245019	Conductive hearing loss, bilateral
+299261017	Combined perceptive hearing loss
+348075014	Chronic deafness
+348076010	High frequency deafness
+399507018	Ototoxicity - deafness
+407075014	Deafness symptom
+411844019	O/E - deaf
+457008018	Seen in hearing aid clinic
+502417018	Nerve deafness
+512317011	Congenital sensorineural deafness
+1234118017	Mixed conductive and sensorineural deafness
+1234119013	Mixed hearing loss
+1488593014	Hearing aid requested
+2675903011	Removal of hearing implant from external ear
+2675905016	Attachment of bone anchored hearing prosthesis
+2695992016	Attention to hearing implant in middle ear
+1173591000000110	Congenital prelingual deafness
+1779881000000110	Requires deafblind communicator guide
+2226281000000110	Moderate sensorineural hearing loss
+2264121000000110	Bilateral profound sensorineural hearing loss
+267384010	Other operations on middle ear
+299208013	Unspecified sudden hearing loss
+299240012	Unspecified conductive hearing loss
+299248017	Conductive hearing loss NOS
+299255015	Unspecified perceptive hearing loss
+299265014	Deaf mutism, NEC
+313159017	Other external ear anomaly with hearing impairment
+377153018	Deafness due to congenital anomaly NEC
+148351000006111	Senile presbyacusis
+185541000006117	Referral to hearing aid clinic
+207971000006112	Presbyacusis
+361091000000119	Placement of hearing implant in external ear
+578361000006118	Conduct hear loss,unilat+unrestric hearing on contralat side
+622201000000110	Maternally inherited deafness
+1542761000006110	Insertion fixtures bone anchored hearing prosthesis Stage 2
+1586391000006110	One stage insert fixtures bone anchored hearing prosthesis
+25785014	Deafness
+669051000000119	[V]Bone anchored hearing aid in situ
+1173611000000110	Mild acquired hearing loss
+1173631000000110	Moderate acquired hearing loss
+1173671000000110	Profound acquired hearing loss
+460695014	[V]Presence of external hearing-aid
+460886016	[V]Adjustment and management of implanted hearing device
+413668018	Hearing aid worn
+299262012	Perceptive hearing loss NOS
+299550012	[X]Deaf mutism, not elsewhere classified
+255434015	O/E - conductive deafness
+2226361000000110	Profound sensorineural hearing loss
+298231000000110	Uses hearing loop
+2773231012	Combined visual and hearing impairment
+299243014	Conductive hearing loss due to disorder of middle ear
+299247010	Combined conductive hearing loss
+299264013	Mixed conductive and sensorineural hearing loss, bilateral
+286780017	Rubella deafness
+113719012	Central hearing loss
+299551011	[X]Other specified hearing loss
+608101000006118	Deafness
+700951000006112	Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd
+772531000006119	Insertn bone anchors subcutaneous bone anchored hearing aid
+1542791000006110	Other specified attachment bone anchored hearing prosthesis
+148551000006115	Sensorineurl hear loss,unilat unrestrict hear/contralat side
+477221017	Hearing impairment
+360731000000111	Attention to fixtures for bone anchored hearing prosthesis
+2882346015	Provision of replacement hearing aid
+411470013	Drug ototoxicity - deafness
+283072011	Replace hearing aid battery
+255428010	O/E - completely deaf
+360771000000113	Placement of hearing implant in middle ear
+378241000000119	Attachment of bone anchored hearing prosthesis NOS
+587171000006119	Noise induced deafness
+733941000006114	Low frequency deafness
+822981000006112	High frequency deafness
+1586401000006110	Fitting external hearing prosthesis bone anchored fixtures
+399508011	Deafness NOS
+460872015	[V]Fitting or adjustment of hearing aid
+313164018	Other external ear anomaly with hearing impairment NOS
+2226301000000110	Severe sensorineural hearing loss
+2226381000000110	Mild sensorineural hearing loss
+2264161000000110	Bilateral congenital sensorineural hearing loss
+470343013	Partial deafness
+313148014	Ear anomalies with hearing impairment
+251667016	H/O: hearing problem
+255426014	O/E - significantly deaf
+1586421000006110	Second stage ins fixtures for bone anchored hearing prosth
+1848531000006110	Diab insipidus,diab mell,optic atrophy and deafness
+396151000006111	[X]Malformation of ear with impairment of hearing, unspec
+2693867016	Attention to hearing implant in external ear
+1484996016	Hearing aid problem
+419723011	Hearing aid provision
+299244015	Conductive hearing loss due to disorder of inner ear
+299259014	Sensorineural hearing loss, bilateral
+73470015	Conductive hearing loss
+121916015	Noise-induced hearing loss
+141844010	Sensory hearing loss
+1542751000006110	Insertion fixtures bone anchored hearing prosthesis Stage 1
+1542771000006110	Reduction soft tissue for bone anchored hearing prosthesis
+1586411000006110	First stge ins fixtures for bone anchored hearing prosthesis
+283308016	Deafness remedial therapy NOS
+313149018	Ear anomalies with hearing impaired, unspecified
+313177010	Ear anomaly with hearing impaired NOS
+400791015	Other and unspecified ear anomaly with hearing impaired
+1173651000000110	Severe acquired hearing loss
+1668111000000110	Deafened
+299266010	Other specified forms of hearing loss
