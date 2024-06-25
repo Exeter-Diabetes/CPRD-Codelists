@@ -1,0 +1,133 @@
+MedCodeId	Term
+2162148012	Deep vein thrombosis
+2162149016	Deep venous thrombosis
+4403261000006113	DVT - Deep vein thrombosis
+4403291000006117	Deep venous thrombosis of pelvic vein
+8041381000006112	Chronic deep venous thrombosis of lower extremity due to coronary artery bypass graft
+8041371000006114	Chronic deep venous thrombosis of lower limb due to coronary artery bypass grafting
+8041431000006116	Chronic deep venous thrombosis of calf
+8041441000006114	Chronic deep venous thrombosis of lower extremity
+8041451000006111	Chronic deep venous thrombosis of popliteal vein
+8041461000006113	Chronic deep venous thrombosis of tibial vein
+8041471000006118	Chronic deep venous thrombosis of thigh
+8041481000006115	Chronic deep venous thrombosis of femoral vein
+8041501000006113	Chronic deep venous thrombosis of ileofemoral vein
+8041491000006117	Chronic deep venous thrombosis of iliofemoral vein
+8041521000006115	Chronic deep venous thrombosis of upper extremity
+8041541000006110	Acute deep venous thrombosis of popliteal vein
+8041551000006112	Acute deep venous thrombosis of tibial vein
+8041561000006114	Acute deep venous thrombosis of thigh
+8041651000006113	Chronic thrombosis of subclavian vein
+216205019	Deep vein thrombosis of leg related to air travel
+8042501000006117	Acute deep venous thrombosis of axillary vein
+8042911000006112	Chronic deep venous thrombosis of upper extremity as complication of procedure
+8042931000006118	Acute deep venous thrombosis of lower extremity as complication of procedure
+8044851000006112	History of recurrent deep vein thrombosis
+2730141000006117	Splenic vein thrombosis
+2730151000006115	Deep vein thrombosis of splenic vein
+12125791000006113	Acute deep vein thrombosis of right upper limb following procedure
+12125801000006114	Acute deep vein thrombosis of left upper limb following procedure
+12125851000006113	Acute deep vein thrombosis of left lower limb following procedure
+251689017	H/O: Deep Vein Thrombosis
+4540551000006119	History of deep vein thrombosis
+4540531000006114	H/O: Deep vein thrombosis
+1227369013	[V] Personal history DVT (deep vein thrombosis)
+451478017	H/O: Deep vein thrombosis
+2765831000006118	Deep thrombophlebitis
+2784341000006116	Deep vein thrombosis of portal vein
+2784351000006119	PVT - Portal vein thrombosis
+30273012	Portal vein thrombosis
+307740016	Antenatal deep vein thrombosis - delivered
+307741017	Antenatal deep vein thrombosis with antenatal complication
+211691000006114	Postnatal deep vein thrombosis - delivered with postnatal complication
+307749015	Postnatal deep vein thrombosis with postnatal complication
+216571000006116	Postoperative deep vein thrombosis
+339530010	At risk of deep vein thrombosis
+4949271000006110	At risk of DVT
+5059301000006112	Iliofemoral deep vein thrombosis
+5059311000006110	IFVT - Iliofemoral vein thrombosis
+5059321000006119	Ileofemoral deep vein thrombosis
+8087371000006110	Acute deep vein thrombosis of bilateral femoral veins
+8087361000006115	Acute deep venous thrombosis of bilateral femoral veins
+8087351000006117	Bilateral acute deep vein thrombosis of femoral veins
+12107661000006110	Chronic deep vein thrombosis of right iliac vein
+12107671000006115	Chronic deep vein thrombosis of left iliac vein
+12107681000006117	Acute deep vein thrombosis of right iliac vein
+12107691000006119	Acute deep vein thrombosis of left iliac vein
+1780382017	Deep vein thrombosis screening
+6694741000006111	Deep venous thrombosis of lower extremity
+6694771000006115	Deep venous thrombosis of lower limb
+6694761000006110	Deep venous thrombosis of leg
+6694751000006113	DVT - Deep vein thrombosis of lower limb
+2162422011	Deep vein thrombosis of lower limb
+989221000006110	Deep venous thrombosis - leg
+2534187010	Deep vein thrombosis of leg related to intravenous drug use
+7078561000006114	Deep venous thrombosis of profunda femoris vein
+7078581000006116	Deep venous thrombosis of deep femoral vein
+7078571000006119	Thrombosis of profunda femoris vein
+300704016	Thromboembolism of vein
+638821000006113	Embolism and thrombosis NOS
+300712012	Other embolism and thrombosis
+7098321000006117	Venous thromboembolic disease
+300713019	Embolism and thrombosis NOS
+601961000000117	Referral to deep vein thrombosis clinic
+7148331000006119	Referral to DVT clinic
+7148321000006117	Referral to deep vein thrombosis (DVT) clinic
+561891000000110	Suspected deep vein thrombosis
+7213971000006115	Deep venous thrombosis of tibial vein
+7230551000006116	Prevention of deep vein thrombosis
+7273741000006119	Deep venous thrombosis of peroneal vein
+1119161000000115	Deep vein thrombosis of peroneal vein
+7291411000006115	Deep vein thrombosis of bilateral lower extremities
+7291401000006118	Bilateral deep vein thrombosis of lower extremities
+888681000006112	Antepartum DVT
+632731000006118	Antenatal DVT
+307739018	Antenatal deep vein thrombosis unspecified
+3308951000006115	Antepartum deep vein thrombosis
+495552014	Antenatal deep vein thrombosis
+307742012	Antenatal deep vein thrombosis NOS
+3308961000006118	Antepartum deep phlebothrombosis
+1741651000006115	DVT enhanced services administration stage 1 service level
+1715671000006119	Deep vein thrombosis enhanced services administration stage 1 service level
+1741661000006118	DVT enhanced services administration stage 2 service level
+1716271000006111	Deep vein thrombosis enhanced services administration stage 2 service level
+1715681000006116	Deep vein thrombosis enhanced services administration stage 3 service level
+1741671000006113	DVT enhanced services administration stage 3 service level
+307747018	Postnatal deep vein thrombosis unspecified
+307750015	Postnatal deep vein thrombosis NOS
+3414351000006118	Postpartum deep vein thrombosis
+497563011	Postnatal deep vein thrombosis
+497564017	DVT - deep venous thrombosis, postnatal
+3414341000006115	Postpartum deep phlebothrombosis
+888691000006110	Postpartum DVT
+7966351000006118	Acute deep vein thrombosis of lower limb
+7573221000006110	Deep venous thrombosis of femoropopliteal vein
+7654481000006118	Chronic deep vein thrombosis of pelvic vein
+7665071000006116	Recurrent DVT (deep vein thrombosis)
+2144741000000111	Recurrent deep vein thrombosis
+8302581000006115	Deep vein thrombosis care pathway
+8361011000006114	Unprovoked DVT (deep vein thrombosis)
+2488341000000112	Unprovoked deep vein thrombosis
+2488381000000116	Provoked deep vein thrombosis
+8361031000006115	Provoked DVT (deep vein thrombosis)
+300672010	Thrombophlebitis of the femoral vein
+300673017	Thrombophlebitis of the popliteal vein
+300677016	Thrombophlebitis of deep veins of lower extremity
+300681016	Deep vein phlebitis and thrombophlebitis of the leg NOS
+300682011	Phlebitis and thrombophlebitis of the leg NOS
+420621000006111	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+2247661000000111	On deep vein thrombosis care pathway
+884731000006110	Deep venous thrombosis - leg
+218551000000118	Deep vein thrombosis, leg
+395801015	Deep vein phlebitis and thrombophlebitis of the leg
+300666010	Phlebitis of the femoral vein
+300667018	Phlebitis of the popliteal vein
+300668011	Phlebitis of the anterior tibial vein
+300669015	Phlebitis of the dorsalis pedis vein
+300670019	Phlebitis of the posterior tibial vein
+300671015	Phlebitis of lower limb vein
+300674011	Thrombophlebitis of the anterior tibial vein
+300675012	Thrombophlebitis of the dorsalis pedis vein
+300676013	Thrombophlebitis of the posterior tibial vein
+453210011	Thrombosis of vein of leg
+418852012	Phlegmasia alba dolens - obstetric
