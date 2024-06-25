@@ -1,0 +1,105 @@
+MedCodeId,Term
+7967291000006116,Pulmonary embolism with infarction
+7967281000006119,Pulmonary embolism with pulmonary infarction
+9325651000006111,Pulmonary embolism in childbirth
+9326661000006117,History of pulmonary embolism on long-term anticoagulation therapy
+8042101000006112,Chronic pulmonary embolism
+478094014,Amniotic fluid embolism
+2773861000006116,Amniotic fluid pulmonary embolism
+307826010,Amniotic fluid pulmonary embolism unspecified
+307831012,Amniotic fluid pulmonary embolism NOS
+307869019,Obstetric pulmonary embolism NOS - delivered
+307816015,Obstetric pulmonary embolus
+268641000006113,Obstetric pulmonary embolism NOS
+307866014,Other obstetric pulmonary embolism NOS
+307862011,Other obstetric pulmonary embolism - delivered
+307815016,Obstetric pulmonary embolism
+4802301000006116,Puerperal pulmonary embolism
+307872014,Obstetric pulmonary embolism NOS with postnatal complication
+307871019,Obstetric pulmonary embolism NOS with antenatal complication
+24951000006110,Other obstetric pulmonary embolism - delivered + p/n comp
+398450017,Other obstetric pulmonary embolism
+307861016,Other obstetric pulmonary embolism unspecified
+24991000006116,Other obstetric pulmonary embolism with postnatal comp
+308193011,[X]Other obstetric embolism
+268671000006117,Obstetric pulmonary embolism NOS - delivered with p/n comp
+307868010,"Obstetric pulmonary embolism NOS, unspecified"
+307867017,Obstetric pulmonary embolism NOS
+24981000006119,Other obstetric pulmonary embolism with antenatal comp
+888731000006119,Obstetrical pulmonary embolism
+307819010,Obstetric air pulmonary embolism
+307820016,Obstetric air pulmonary embolism unspecified
+307825014,Obstetric air pulmonary embolism NOS
+307821017,Obstetric air pulmonary embolism - delivered
+269841000006118,Obstetric air pulmonary embolism - delivered with postnatal complication
+269891000006110,Obstetric air pulmonary embolism with a/n complication
+4802361000006115,Obstetric air pulmonary embolism with antenatal complication
+4802371000006110,Obstetric air pulmonary embolism with postnatal complication
+269901000006114,Obstetric air pulmonary embolism with p/n complication
+307827018,Amniotic fluid pulmonary embolism - delivered
+4802391000006111,Postpartum amniotic fluid embolism
+479841000006113,Amniotic fluid pulmonary embolism - delivered with postnatal complication
+479891000006116,Amniotic fluid pulmonary embolism with antenatal complication
+479901000006117,Amniotic fluid pulmonary embolism with postnatal complication
+307832017,Obstetric blood-clot pulmonary embolism
+307838018,Obstetric blood-clot pulmonary embolism NOS
+307833010,Obstetric blood-clot pulmonary embolism unspecified
+307834016,Obstetric blood-clot pulmonary embolism - delivered
+269411000006115,Obstetric blood-clot pulmonary embolism - delivered with postnatal complication
+269431000006114,Obstetric blood-clot pulmonary embolism with antenatal complication
+269441000006116,Obstetric blood-clot pulmonary embolism with postnatal complication
+307848016,Obstetric pyaemic and septic pulmonary embolism - delivered
+4802491000006118,Obstetric pyemic and septic pulmonary embolism - delivered
+268741000006119,Obstetric pyaemic and septic pulmonary embolism - delivered with postnatal complication
+4802511000006112,Obstetric pyemic and septic pulmonary embolism - delivered with postnatal complication
+268721000006114,Obstetric pyaemic and septic pulmonary embolism with antenatal complication
+4802531000006118,Obstetric pyemic and septic pulmonary embolism with antenatal complication
+4802551000006113,Obstetric pyemic and septic pulmonary embolism with postnatal complication
+268731000006112,Obstetric pyaemic and septic pulmonary embolism with postnatal complication
+5047361000006115,Operation for pulmonary embolism
+5057641000006114,AMP - Acute massive pulmonary embolism
+5057631000006116,AMPE - Acute massive pulmonary embolism
+5057621000006119,Acute massive pulmonary embolism
+5057661000006113,SAMPE - Subacute massive pulmonary embolism
+5057651000006111,Subacute massive pulmonary embolism
+149011000006118,Septic obstetric embolism
+5499801000006116,Obstetric pyemic and septic pulmonary embolism
+398448013,Obstetric pyaemic and septic pulmonary embolism
+195111000006113,Pyaemic obstetric embolism
+307856018,Obstetric pyaemic and septic pulmonary embolism NOS
+307847014,Obstetric pyaemic and septic pulmonary embolism unspecified
+2549664019,Suspected pulmonary embolism
+7126941000006112,Family history of pulmonary embolism
+632111000000118,Recurrent pulmonary embolism
+7251751000006118,Septic embolus of lung
+7251741000006115,Septic pulmonary embolism
+7254621000006117,"Pulmonary embolism and infarction, iatrogenic"
+7254611000006113,Infarction of lung due to iatrogenic pulmonary embolism
+3328051000006113,Legal abortion with pulmonary embolism
+3328041000006111,Legal termination of pregnancy with pulmonary embolism
+3402681000006110,Illegal termination of pregnancy with pulmonary embolism
+3402691000006113,Illegal abortion with pulmonary embolism
+3444091000006115,Failed attempted termination of pregnancy with pulmonary embolism
+3444101000006114,Failed attempted abortion with pulmonary embolism
+193601000006115,Pulmonary embolus
+3462921000006119,PE - Pulmonary embolism
+98484016,Pulmonary embolism
+7498911000006115,Termination of pregnancy complicated by pulmonary embolism
+7498901000006118,Induced termination of pregnancy complicated by pulmonary embolism
+305585018,Pulmonary embolism following abortive pregnancy
+2509061000006115,Pulmonary embolism following molar AND/OR ectopic pregnancy
+7609581000006110,Acute pulmonary embolism
+7699481000006113,Pulmonary embolism on long-term anticoagulation therapy
+7848521000006117,Pulmonary embolism as current complication following acute myocardial infarction
+12368991000006118,Pulmonary embolism due to and following acute myocardial infarction
+7848531000006119,Pulmonary embolism following acute myocardial infarction
+3836021000006115,Miscarriage with pulmonary embolism
+3836031000006117,Spontaneous abortion with pulmonary embolism
+251693011,H/O: pulmonary embolus
+271392011,Trendelenburg pulmonary embolectomy
+261021000006119,Open pulmonary embolectomy
+232951000006114,Percutaneous transluminal embolectomy of pulmonary artery
+216591000006115,Postoperative pulmonary embolus
+728841000006111,Pulmonary infarction
+355719012,Fat embolism - obstetric
+451479013,[V] Personal history of pulmonary embolism
