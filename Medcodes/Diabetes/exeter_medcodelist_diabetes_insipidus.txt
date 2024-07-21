@@ -1,0 +1,26 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	category
+26721014	23681	C135	C135.00	Diabetes insipidus	15771004	26721014	NA	32	NA
+75638010	1280	C1350	C135000	Cranial diabetes insipidus	45369008	75638010	NA	32	NA
+119846018	1950	K081	K081.00	Nephrogenic diabetes insipidus	111395007	119846018	NA	32	NA
+135166013	154	K0810	K081000	Acquired nephrogenic diabetes insipidus	81475007	135166013	NA	32	NA
+494186019	1417	C135-2	C135.12	Diabetes insipidus - pituitary	45369008	494186019	NA	32	NA
+494187011	46	C135-1	C135.11	Vasopressin deficiency	45369008	494187011	NA	32	NA
+498950010	24	K0811	K081100	Congenital nephrogenic diabetes insipidus	61165007	498950010	NA	32	NA
+3232021000006110	243	^ESCTNE323202	NA	Neurohypophyseal diabetes insipidus	45369008	75633018	NA	32	NA
+3232031000006113	1	^ESCTPI323203	NA	Pituitary diabetes insipidus	45369008	75635013	NA	32	NA
+3232041000006115	1	^ESCTPR323204	NA	Primary central diabetes insipidus	45369008	75636014	NA	32	NA
+3232091000006112	73	^ESCTCE323209	NA	Central diabetes insipidus	45369008	494188018	NA	32	NA
+3493891000006116	4	^ESCTHE349389	NA	Hereditary nephrogenic diabetes insipidus	61165007	101638011	NA	32	NA
+3493981000006114	1	^ESCTPR349398	NA	Primary nephrogenic diabetes insipidus	61165007	498951014	NA	32	NA
+3847091000006116	2	^ESCTDI384709	NA	Dipsogenic diabetes insipidus	82800008	137350019	NA	31	NA
+4195241000006114	1	^ESCTND419524	NA	NDI - Nephrogenic diabetes insipidus	111395007	361940010	NA	32	NA
+8021431000006118	2	^ESCTPA802143	NA	Partial diabetes insipidus	68061000119109	3011683012	NA	31	NA
+354316011	NA	NA	NA	Renal diabetes	NA	NA	NA	NA	diabetes insipidus
+3493931000006113	NA	NA	NA	ADH-resistant diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3232051000006118	NA	NA	NA	Neurogenic diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3493951000006118	NA	NA	NA	Renal diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3493921000006110	NA	NA	NA	Vasopressin-resistant diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3493901000006117	NA	NA	NA	Familial nephrogenic diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3493941000006115	NA	NA	NA	Adiuretin-resistant diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+2750071000006113	NA	NA	NA	DI - Diabetes insipidus	NA	NA	NA	NA	diabetes insipidus
+3232101000006118	NA	NA	NA	Diabetes insipidus secondary to vasopressin deficiency	NA	NA	NA	NA	diabetes insipidus

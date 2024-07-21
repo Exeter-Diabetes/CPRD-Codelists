@@ -1,378 +1,308 @@
-MedCodeId	Term	category
-292551012	Type I diabetes mellitus maturity onset	type 1
-292553010	Type 1 diabetes mellitus maturity onset	type 1
-429970018	Unstable type I diabetes mellitus	type 1
-429971019	Unstable type 1 diabetes mellitus	type 1
-459163017	Type I diabetes mellitus with hypoglycaemic coma	type 1
-459292011	Type 1 diabetes mellitus with arthropathy	type 1
-459294012	Type I diabetes mellitus with arthropathy	type 1
-459308015	Type 2 diabetes mellitus with peripheral angiopathy	type 2
-494564012	Type I diabetes mellitus	type 1
-1223148019	Insulin treated non-insulin dependent diabetes mellitus	unspecified
-1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	type 2
-1780311019	Type 1 diabetes mellitus with persistent microalbuminuria	type 1
-2674067015	Latent autoimmune diabetes mellitus in adult	unspecified
-189711000000119	Lipoatrophic diabetes mellitus without complication	other/unspec genetic inc syndromic
-622221000000118	Maternally inherited diabetes mellitus	unspecified
-2287971000000119	Diabetes mellitus in remission	unspecified
-292548017	Type 1 diabetes mellitus - poor control	type 1
-292550013	Type I diabetes mellitus - poor control	type 1
-292589019	Type II diabetes mellitus - poor control	type 2
-459167016	Type 2 diabetes mellitus with hypoglycaemic coma	type 2
-2476117016	Maturity onset diabetes in youth type 1	mody
-189721000000113	Secondary diabetes mellitus without complication	secondary
-841351000006110	Insulin treated Type II diabetes mellitus	type 2
-850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	type 2
-913851000006119	Type I diabetes mellitus with nephropathy	type 1
-914041000006111	Type II diabetes mellitus with renal complications	type 2
-914251000006116	Type II diabetes mellitus with polyneuropathy	type 2
-928491000006110	Type I diabetes mellitus with persistent microalbuminuria	type 1
-928511000006116	Type I diabetes mellitus with ketoacidosis	type 1
-928531000006110	Type I diabetes mellitus with ketoacidotic coma	type 1
-928571000006113	Type II diabetes mellitus with persistent microalbuminuria	type 2
-928591000006114	Type II diabetes mellitus with ketoacidosis	type 2
-938311000006112	Type I diabetes mellitus with exudative maculopathy	type 1
-459162010	Insulin dependent diabetes mellitus with hypoglycaemic coma	unspecified
-913531000006111	Insulin dependent diabetes mellitus with multiple complicat	unspecified
-913651000006115	Insulin dependent diabetes mellitus with retinopathy	unspecified
-913831000006114	Insulin dependent diabetes mellitus with nephropathy	unspecified
-913921000006119	Insulin dependent diab mell with peripheral angiopathy	unspecified
-913931000006116	Type 1 diabetes mellitus with peripheral angiopathy	type 1
-913981000006115	Insulin dependent diab mell with neuropathic arthropathy	unspecified
-913541000006118	Type 1 diabetes mellitus with multiple complications	type 1
-913671000006113	Type I diabetes mellitus with retinopathy	type 1
-914081000006117	Type II diabetes mellitus with neurological complications	type 2
-914161000006114	Type II diabetes mellitus with retinopathy	type 2
-914231000006111	Type II diabetes mellitus with mononeuropathy	type 2
-1667921000000117	Type II diabetes mellitus with gastroparesis	type 2
-1667941000000112	Type I diabetes mellitus with gastroparesis	type 1
-913481000006113	Type 1 diabetes mellitus with ophthalmic complications	type 1
-483882011	Maturity-onset diabetes of the young	mody
-913841000006116	Renal disorder associated with type 1 diabetes mellitus	type 1
-914031000006118	Renal disorder associated with type II diabetes mellitus	type 2
-928541000006117	Persistent proteinuria associated with type 2 diabetes mellitus	type 2
-928581000006111	Ketoacidosis in type 2 diabetes mellitus	type 2
-459169018	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	type 2
-299621000000117	Gastroparesis with type 2 diabetes mellitus	type 2
-913661000006118	Retinopathy with type 1 diabetes mellitus	type 1
-914051000006113	Disorder of eye with type 2 diabetes mellitus	type 2
-938301000006114	Exudative maculopathy with type 1 diabetes mellitus	type 1
-1848531000006116	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	other/unspec genetic inc syndromic
-1968641000006114	Maturity-onset diabetes of the young, type 5	mody
-292541011	Type 1 diabetes mellitus with gangrene	type 1
-913811000006115	Type 1 diabetes mellitus with polyneuropathy	type 1
-914271000006114	Type II diabetes mellitus with nephropathy	type 2
-928471000006114	Type I diabetes mellitus with persistent proteinuria	type 1
-2288011000000114	Type I diabetes mellitus in remission	type 1
-2288071000000116	Type 2 diabetes mellitus in remission	type 2
-356085010	Maturity onset diabetes in youth type 2	mody
-457326014	Type 1 diabetes mellitus without complication	type 1
-292540012	Type 1 diabetes mellitus with ulcer	type 1
-292576013	Type II diabetes mellitus with multiple complications	type 2
-197761014	Type 2 diabetes mellitus	type 2
-938331000006118	Exudative maculopathy with type 2 diabetes mellitus	type 2
-928461000006119	Persistent proteinuria associated with type 1 diabetes mellitus	type 1
-913911000006110	Type I diabetes mellitus with diabetic cataract	type 1
-914301000006111	Type 2 diabetes mellitus with diabetic cataract	type 2
-913471000006110	Insulin-dependent diabetes mellitus with ophthalmic comps	unspecified
-292543014	Type I diabetes mellitus with gangrene	type 1
-840951000006119	Insulin treated Type 2 diabetes mellitus	type 2
-967701000006116	Lipoatrophic diabetes mellitus	other/unspec genetic inc syndromic
-913711000006112	Insulin dependent diabetes maturity onset	unspecified
-913891000006113	Insulin dependent diabetes mellitus with diabetic cataract	unspecified
-2288061000000111	Type II diabetes mellitus in remission	type 2
-1667891000000113	Hyperosmolar non-ketotic state in type II diabetes mellitus	type 2
-493774016	Type II diabetes mellitus	type 2
-1230929011	Secondary pancreatic diabetes mellitus	secondary
-2160090014	Diabetes mellitus induced by non-steroid drugs	secondary
-457329019	Type 2 diabetes mellitus without complication	type 2
-457330012	Type II diabetes mellitus without complication	type 2
-459312014	Type II diabetes mellitus with neuropathic arthropathy	type 2
-459313016	Type 2 diabetes mellitus with neuropathic arthropathy	type 2
-292538019	Type I diabetes mellitus with ulcer	type 1
-292579018	Type 2 diabetes mellitus with ulcer	type 2
-292581016	Type II diabetes mellitus with ulcer	type 2
-197984010	Type 1 diabetes mellitus	type 1
-913591000006110	Skin ulcer associated with diabetes mellitus	unspecified
-914071000006115	Neurologic disorder associated with type 2 diabetes mellitus	type 2
-914151000006112	Retinopathy with type 2 diabetes mellitus	type 2
-928601000006118	Ketoacidotic coma in type 2 diabetes mellitus	type 2
-914261000006119	Diabetes type 2 with nephropathy	type 2
-967631000006115	Diabetes mellitus induced by non-steroid drugs without complication	secondary
-292582011	Type II diabetes mellitus with gangrene	type 2
-913901000006112	Type 1 diabetes mellitus with diabetic cataract	type 1
-914221000006113	Type 2 diabetes mellitus with mononeuropathy	type 2
-457327017	Insulin-dependent diabetes without complication	unspecified
-459293018	Insulin dependent diabetes mellitus with arthropathy	unspecified
-913771000006115	Insulin dependent diabetes mellitus with mononeuropathy	unspecified
-913801000006118	Insulin dependent diabetes mellitus with polyneuropathy	unspecified
-913551000006116	Type I diabetes mellitus with multiple complications	type 1
-928551000006115	Type II diabetes mellitus with persistent proteinuria	type 2
-459295013	Type I diabetes mellitus with neuropathic arthropathy	type 1
-1233307015	Wolfram syndrome	other/unspec genetic inc syndromic
-459310018	Type 2 diabetes mellitus with arthropathy	type 2
-292577016	Type 2 diabetes mellitus with multiple complications	type 2
-198461000000116	Diabetes mellitus associated with pancreatic disease	secondary
-928561000006118	Persistent microalbuminuria associated with type 2 diabetes mellitus	type 2
-938321000006116	Exudative maculopathy associated with type 2 diabetes mellitus	type 2
-913791000006119	Type I diabetes mellitus with mononeuropathy	type 1
-914311000006114	Type II diabetes mellitus with diabetic cataract	type 2
-913491000006111	Type I diabetes mellitus with ophthalmic complications	type 1
-913781000006117	Type 1 diabetes mellitus with mononeuropathy	type 1
-913441000006119	Insulin-dependent diabetes mellitus with renal complications	unspecified
-913461000006115	Type I diabetes mellitus with renal complications	type 1
-914391000006116	Insulin treated Type 2 diabetes mellitus	type 2
-483886014	Maturity onset diabetes in youth	mody
-2288041000000110	Type 1 diabetes mellitus in remission	type 1
-913681000006111	Insulin dependent diabetes mellitus - poor control	unspecified
-913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus	type 1
-913521000006113	Neurological disorder with type 1 diabetes mellitus	type 1
-840971000006112	Diabetes mellitus autosomal dominant type II	mody
-928501000006119	Ketoacidosis in type 1 diabetes mellitus	type 1
-494831000000119	Diabetes mellitus associated with cystic fibrosis	other/unspec genetic inc syndromic
-457325013	Type I diabetes mellitus without complication	type 1
-459306016	Type II diabetes mellitus with peripheral angiopathy	type 2
-121589010	Diabetes mellitus	unspecified
-913451000006117	Type 1 diabetes mellitus with renal complications	type 1
-914061000006110	Type II diabetes mellitus with ophthalmic complications	type 2
-913501000006115	Insulin-dependent diabetes mellitus with neurological comps	unspecified
-292583018	Type 2 diabetes mellitus with gangrene	type 2
-913511000006117	Type 1 diabetes mellitus with neurological complications	type 1
-913821000006111	Type I diabetes mellitus with polyneuropathy	type 1
-77727018	Insulin dependent diabetes mellitus	unspecified
-913621000006112	Insulin dependent diabetes mellitus with gangrene	unspecified
-1223147012	Insulin treated Type II diabetes mellitus	type 2
-459161015	Type 1 diabetes mellitus with hypoglycaemic coma	type 1
-459296014	Type 1 diabetes mellitus with neuropathic arthropathy	type 1
-459311019	Type II diabetes mellitus with arthropathy	type 2
-15518018	Secondary diabetes mellitus	secondary
-292590011	Type II diabetes mellitus poorly controlled	type 2
-914241000006118	Polyneuropathy due to type 2 diabetes mellitus	type 2
-928521000006112	Ketoacidotic coma in type 1 diabetes mellitus	type 1
-928611000006115	Ketoacidotic coma in type II diabetes mellitus	type 2
-429972014	Unstable insulin dependent diabetes mellitus	unspecified
-299601000000114	Gastroparesis with type 1 diabetes mellitus	type 1
-3029742016	Congenital generalized lipodystrophy	other/unspec genetic inc syndromic
-423110016	Lawrence-Seip syndrome	other/unspec genetic inc syndromic
-356078011	Secondary endocrine diabetes mellitus	secondary
-423109014	Berardinelli's syndrome	other/unspec genetic inc syndromic
-125705011	Diabetes mellitus due to insulin receptor antibodies	other/unspec genetic inc syndromic
-356111014	Insulin-dependent diabetes mellitus secretory diarrhoea syndrome	other/unspec genetic inc syndromic
-3029802015	Beradinelli-Seip syndrome	other/unspec genetic inc syndromic
-6960431000006119	Diabetic retinopathy associated with type I diabetes mellitus	type 1
-12332281000006119	Retinopathy co-occurrent and due to type 1 diabetes mellitus	type 1
-12331061000006114	Mononeuropathy co-occurrent and due to type 2 diabetes mellitus	type 2
-6960441000006112	Diabetes type 1 with retinopathy	type 1
-6970631000006112	Peripheral circulatory disorder associated with type I diabetes mellitus	type 1
-11927561000006118	Hypoglycemic coma co-occurrent and due to diabetes mellitus type II	type 2
-12363671000006118	Gastroparesis co-occurrent and due to type 1 diabetes mellitus	type 1
-8022441000006118	Neuropathic arthropathy due to type 1 diabetes mellitus	type 1
-3649841000006116	DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	other/unspec genetic inc syndromic
-5687781000006110	Congenital generalised lipodystrophy	other/unspec genetic inc syndromic
-3649801000006118	Marquardt-Loriaux syndrome	other/unspec genetic inc syndromic
-6051171000006117	Insulin dependent diabetes mellitus with arthropathy	unspecified
-5109851000006119	Insulin-dependent diabetes mellitus secretory diarrhea syndrome	other/unspec genetic inc syndromic
-6961091000006115	Gangrene associated with type I diabetes mellitus	type 1
-6975211000006112	Gangrene associated with type 2 diabetes mellitus	type 2
-5109831000006114	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhea	other/unspec genetic inc syndromic
-7783451000006114	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	type 2
-5109621000006112	MODY - Maturity onset diabetes glucokinase-related	mody
-6763731000006114	DM induced by non-steroid drug	secondary
-6961081000006118	Gangrene associated with type 1 diabetes mellitus	type 1
-6969931000006116	Diabetes type 2 with neurological disorder	type 2
-6970621000006114	Peripheral circulatory disorder associated with type 1 diabetes mellitus	type 1
-7708051000006112	Gastroparesis due to diabetes mellitus type I	type 1
-5109581000006112	Maturity onset diabetes in youth type II	mody
-7500351000006110	Renal cysts and diabetes syndrome	other/unspec genetic inc syndromic
-12336121000006110	Cataract co-occurrent and due to diabetes mellitus type 1	type 1
-6763751000006119	Diabetes mellitus caused by non-steroid drugs	secondary
-6979251000006110	Diabetes mellitus type 2 with ketoacidotic coma	type 2
-4808921000006113	Diabetic neuropathic arthropathy	unspecified
-12331231000006110	Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus	type 1
-7063141000006118	Diabetes mellitus co-occurrent and due to cystic fibrosis	other/unspec genetic inc syndromic
-5687751000006119	Lipoatrophic diabetes mellitus	other/unspec genetic inc syndromic
-6981621000006113	Persistent proteinuria associated with type II diabetes mellitus	type 2
-6959811000006110	Diabetes type 2 with cataract	type 2
-6982521000006119	Diabetes type 2 with retinopathy	type 2
-6763741000006116	DM caused by non-steroid drug	secondary
-6955501000006113	Persistent proteinuria associated with type I diabetes mellitus	type 1
-6961101000006114	Diabetes type 1 with gangrene	type 1
-5754581000006110	Brittle type 1 diabetes mellitus	type 1
-12363721000006110	Polyneuropathy co-occurrent and due to type 1 diabetes mellitus	type 1
-6050081000006114	Type 1 diabetes mellitus with hypoglycemic coma	type 1
-4392151000006119	Lipodystrophic diabetes	other/unspec genetic inc syndromic
-6982511000006110	Diabetic retinopathy associated with type II diabetes mellitus	type 2
-7500191000006118	Maturity onset diabetes of the young, type 1	mody
-6979991000006111	Renal disorder associated with type I diabetes mellitus	type 1
-6050061000006116	Type I diabetes mellitus with hypoglycemic coma	type 1
-6980001000006117	Kidney disorder associated with type 1 diabetes mellitus	type 1
-12185421000006113	Polyneuropathy due to diabetes mellitus	unspecified
-5109561000006119	Maturity onset diabetes of the young, type 2	mody
-3253231000006110	Diabetes mellitus type I	type 1
-4392181000006110	Renal disorder associated with diabetes mellitus	unspecified
-7287621000006117	Type I diabetes mellitus uncontrolled	type 1
-12702401000006118	Mononeuropathy associated with type 2 diabetes mellitus	type 2
-12704971000006113	Neurologic disorder associated with type 2 diabetes mellitus	type 2
-12704961000006118	Diabetic oculopathy associated with type 2 diabetes mellitus	type 2
-12331051000006112	Mononeuropathy with type 2 diabetes mellitus	type 2
-12336531000006116	Retinopathy with type 2 diabetes mellitus	type 2
-12336111000006119	Cataract due to diabetes mellitus type 1	type 1
-12331221000006112	Exudative maculopathy with type 1 diabetes mellitus	type 1
-12363681000006115	Gastroparesis with type 2 diabetes mellitus	type 2
-12702421000006111	Type II diabetes mellitus with ophthalmic complications	type 2
-12166101000006119	Retinopathy co-occurrent and due to diabetes mellitus	unspecified
-3514801019	Metabolic acidosis with diabetes mellitus	unspecified
-7968751000006116	Diabetes mellitus type 2 without retinopathy	type 2
-7306761000006112	Brittle type II diabetes mellitus	type 2
-12450751000006113	Type 2 diabetes mellitus with gangrene	type 2
-3514794010	Hyperosmolar hyperglycemic coma due to diabetes mellitus without ketoacidosis	unspecified
-12078911000006115	Cataract of right eye co-occurrent and due to diabetes mellitus	unspecified
-8024771000006113	Rubeosis iridis due to type 1 diabetes mellitus	type 1
-3514803016	Metabolic acidosis co-occurrent and due to diabetes mellitus	unspecified
-6967091000006111	Diabetic oculopathy associated with type 1 diabetes mellitus	type 1
-12370731000006114	Rubeosis iridis with type 1 diabetes mellitus	type 1
-3514802014	Diabetic metabolic acidosis	unspecified
-12489581000006110	Type 1 diabetes mellitus with gangrene	type 1
-12454141000006118	Non-insulin-dependent diabetes mellitus with gangrene	unspecified
-3527175018	Chemical-induced diabetes mellitus	secondary
-3527174019	Diabetes mellitus caused by chemical	secondary
-12078941000006116	Diabetic cataract of left eye	unspecified
-3514799017	Lactic acidosis co-occurrent and due to diabetes mellitus	unspecified
-12450771000006115	Type II diabetes mellitus with gangrene	type 2
-7306781000006119	Unstable type II diabetes mellitus	type 2
-2683591000006110	Unstable diabetes mellitus	unspecified
-12704941000006117	Neurological disorder associated with type 1 diabetes mellitus	type 1
-12705081000006111	Gastroparesis due to type 2 diabetes mellitus	type 2
-12703991000006112	[X]Unspecified diabetes mellitus with renal complications	unspecified
-12332751000006115	Mononeuropathy with type 1 diabetes mellitus	type 1
-7708121000006119	Polyneuropathy due to diabetes mellitus type II	type 2
-12702381000006118	Diabetic oculopathy due to type I diabetes mellitus	type 1
-12705071000006113	Gastroparesis due to type 1 diabetes mellitus	type 1
-6965571000006111	Diabetes mellitus type 1 with ketoacidotic coma	type 1
-6977971000006119	Exudative maculopathy associated with type II diabetes mellitus	type 2
-4392211000006114	Diabetes with peripheral circulatory disorder	unspecified
-6977421000006110	Ketoacidosis in type II diabetes mellitus	type 2
-6969921000006119	Neurologic disorder associated with type II diabetes mellitus	type 2
-12334621000006111	Neurological disorder co-occurrent and due to type 1 diabetes mellitus	type 1
-4392221000006118	Peripheral angiopathy due to diabetes mellitus	unspecified
-6954121000006112	Mononeuropathy associated with type II diabetes mellitus	type 2
-3649791000006119	Diabetes mellitus AND insipidus with optic atrophy AND deafness	other/unspec genetic inc syndromic
-3537388019	Diabetic oculopathy due to type 1 diabetes mellitus	type 1
-3209431000006116	Diabetes mellitus type II	type 2
-3649811000006115	DIDMOAD syndrome	other/unspec genetic inc syndromic
-6983691000006114	Diabetic oculopathy associated with type II diabetes mellitus	type 2
-3209441000006114	Diabetes mellitus type 2	type 2
-6959801000006112	Diabetic cataract associated with type II diabetes mellitus	type 2
-12370281000006118	Disorder of eye co-occurrent and due to type 1 diabetes mellitus	type 1
-5109461000006115	Diabetes type 2 on insulin	type 2
-7708091000006118	Polyneuropathy due to type 1 diabetes mellitus	type 1
-12363731000006113	Polyneuropathy co-occurrent and due to type 2 diabetes mellitus	type 2
-7287611000006113	Type 1 diabetes mellitus uncontrolled	type 1
-6030001000006116	Insulin-dependent diabetes without complication	unspecified
-3296773014	DM caused by insulin receptor ab	other/unspec genetic inc syndromic
-2164134013	DM due to insulin receptor ab	other/unspec genetic inc syndromic
-9986011	Drug-induced diabetes mellitus	secondary
-423112012	Congenital total lipodystrophy	other/unspec genetic inc syndromic
-356115017	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhoea	other/unspec genetic inc syndromic
-12078951000006119	Cataract of left eye co-occurrent and due to diabetes mellitus	unspecified
-12078981000006110	Cataract of bilateral eyes co-occurrent and due to diabetes mellitus	unspecified
-12078931000006114	Cataract of left eye due to diabetes mellitus	unspecified
-7306771000006117	Labile type II diabetes mellitus	type 2
-12078971000006112	Bilateral diabetic cataracts	unspecified
-6837991000006112	Diabetes mellitus caused by non-steroid drugs without complication	secondary
-6951081000006112	Ketoacidosis in type I diabetes mellitus	type 1
-4758121000006115	Insulin-dependent diabetes maturity onset	unspecified
-12185431000006111	Polyneuropathy co-occurrent and due to diabetes mellitus	unspecified
-6954991000006112	Exudative maculopathy associated with type I diabetes mellitus	type 1
-7708071000006119	Gastroparesis due to diabetes mellitus type II	type 2
-6975221000006116	Gangrene associated with type II diabetes mellitus	type 2
-6951281000006117	Kidney disorder associated with type 2 diabetes mellitus	type 2
-12335681000006111	Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus	type 2
-5109591000006110	MODY - Maturity onset diabetes in youth type II	mody
-2683561000006119	Brittle diabetes mellitus	unspecified
-12218511000006112	Kidney disorder due to diabetes mellitus	unspecified
-12332761000006118	Mononeuropathy co-occurrent and due to type 1 diabetes mellitus	type 1
-12702371000006116	Mononeuropathy associated with type 1 diabetes mellitus	type 1
-12702391000006115	Diabetic cataract associated with type 2 diabetes mellitus	type 2
-12704981000006111	Diabetic retinopathy associated with type 2 diabetes mellitus	type 2
-12218501000006114	Disorder of kidney co-occurrent and due to diabetes mellitus	unspecified
-12363691000006117	Gastroparesis co-occurrent and due to type 2 diabetes mellitus	type 2
-12489851000006117	Type II diabetes mellitus with exudative maculopathy	type 2
-498512013	Genetic syndromes of diabetes mellitus	other/unspec genetic inc syndromic
-356101019	Hyperproinsulinaemia	unspecified
-1803751000006119	DIDMOAD - Diabetes insip, diabetes mell, optic atrophy, deafness	other/unspec genetic inc syndromic
-4392141000006116	Lipoatrophic diabetes	other/unspec genetic inc syndromic
-12336881000006117	Disorder of eye co-occurrent and due to type 2 diabetes mellitus	type 2
-3522045015	Hyperosmolarity due to type 1 diabetes mellitus	type 1
-12450761000006110	Type I diabetes mellitus with gangrene	type 1
-12078901000006118	Cataract of right eye due to diabetes mellitus	unspecified
-12078991000006113	Bilateral cataracts due to diabetes mellitus	unspecified
-7306751000006110	Brittle type 2 diabetes mellitus	type 2
-3514798013	Diabetic lactic acidosis	unspecified
-11903141000006113	Diabetic oculopathy associated with type I diabetes mellitus	type 1
-2683581000006112	Labile diabetes	unspecified
-12166111000006116	Retinopathy due to diabetes mellitus	unspecified
-12334141000006111	Neurological disorder with diabetes type 2	type 2
-12370271000006116	Disorder of eye with type 1 diabetes mellitus	type 1
-12335671000006113	Exudative maculopathy with type 2 diabetes mellitus	type 2
-12363661000006113	Gastroparesis with type 1 diabetes mellitus	type 1
-12762301000006111	Diabetic oculopathy associated with type 2 diabetes mellitus	type 2
-8022461000006119	Diabetic neuropathic arthropathy due to type 1 diabetes mellitus	type 1
-5754621000006110	Labile type I diabetes mellitus	type 1
-12704991000006114	Ketoacidotic coma in type 2 diabetes mellitus	type 2
-12705011000006116	Exudative maculopathy associated with type 2 diabetes mellitus	type 2
-12702411000006115	Type II diabetes mellitus with neurological complications	type 2
-12705001000006119	Exudative maculopathy associated with type 1 diabetes mellitus	type 1
-12702361000006111	Diabetic cataract associated with type 1 diabetes mellitus	type 1
-6972451000006115	Diabetes type 1 with neurological disorder	type 1
-4392201000006111	Diabetic peripheral vascular disease	unspecified
-6965561000006116	Ketoacidotic coma in type I diabetes mellitus	type 1
-12334131000006118	Neurological disorder co-occurrent and due to type 2 diabetes mellitus	type 2
-5109631000006110	MODY2	mody
-7281511000006118	Type 2 diabetes mellitus uncontrolled	type 2
-6980441000006114	Diabetes type 1 with cataract	type 1
-12336541000006114	Retinopathy co-occurrent and due to type 2 diabetes mellitus	type 2
-7500361000006112	RCAD (renal cysts and diabetes) syndrome	other/unspec genetic inc syndromic
-7065531000006115	Latent autoimmune diabetes mellitus in adult (LADA)	unspecified
-12332111000006115	Cataract co-occurrent and due to diabetes mellitus type 2	type 2
-423111017	Seip's syndrome	other/unspec genetic inc syndromic
-356118015	Diabetes-deafness syndrome maternally transmitted	other/unspec genetic inc syndromic
-1495356017	Total lipoatrophy	other/unspec genetic inc syndromic
-3291658019	Diabetes mellitus caused by insulin receptor antibodies	other/unspec genetic inc syndromic
-12078961000006117	Diabetic cataract of bilateral eyes	unspecified
-12078921000006111	Diabetic cataract of right eye	unspecified
-8120431000006115	Mild nonproliferative retinopathy due to secondary diabetes mellitus	secondary
-2576431000006117	DR - Diabetic retinopathy	unspecified
-6972441000006117	Neurological disorder associated with type I diabetes mellitus	type 1
-3690681000006114	DM - Diabetes mellitus	unspecified
-5109611000006116	MODY - Maturity onset diabetes in youth type 2	mody
-12336871000006115	Disorder of eye with type 2 diabetes mellitus	type 2
-12332271000006117	Retinopathy with type 1 diabetes mellitus	type 1
-12704951000006115	Diabetic retinopathy associated with type 1 diabetes mellitus	type 1
-3253241000006117	Diabetes mellitus type 1	type 1
-6980431000006116	Diabetic cataract associated with type I diabetes mellitus	type 1
-6951091000006110	Diabetes type 1 with ketoacidosis	type 1
-4758061000006110	Insulin-dependent diabetes mellitus with ulcer	unspecified
-356117013	Ballinger-Wallace syndrome	other/unspec genetic inc syndromic
-10928019	Diabetes mellitus associated with genetic syndrome	other/unspec genetic inc syndromic
-3029639016	Berardinelli-Seip congenital lipodystrophy	other/unspec genetic inc syndromic
-3514795011	Hyperosmolar hyperglycaemic coma due to diabetes mellitus without ketoacidosis	unspecified
-3514797015	Lactic acidosis with diabetes mellitus	unspecified
-4758081000006117	Insulin-dependent diabetes mellitus with gangrene	unspecified
-12371131000006119	Mild nonproliferative retinopathy co-occurrent and due to secondary diabetes mellitus	secondary
-5505651000006113	Diabetes mellitus uncontrolled	unspecified
-12332101000006118	Cataract due to diabetes mellitus type 2	type 2
-12334611000006115	Neurological disorder with type 1 diabetes mellitus	type 1
-6050071000006111	Insulin dependent diabetes mellitus with hypoglycemic coma	unspecified
-8022471000006114	Diabetes mellitus type 1 with diabetic Charcot's arthropathy	type 1
-6977431000006113	Diabetes type 2 with ketoacidosis	type 2
-7500341000006113	MODY5 - maturity-onset diabetes of the young type 5	mody
-7500201000006115	MODY1	mody
-6962751000006117	Mononeuropathy associated with type I diabetes mellitus	type 1
-5109741000006111	Hyperproinsulinemia	unspecified
-12370741000006116	Rubeosis iridis co-occurrent and due to type 1 diabetes mellitus	type 1
-5754611000006119	Brittle type I diabetes mellitus	type 1
-12221151000006118	Mononeuropathy co-occurrent and due to diabetes mellitus	unspecified
-6959091000006114	Persistent microalbuminuria associated with type II diabetes mellitus	type 2
-6986151000006117	Multiple complications of type I diabetes mellitus	type 1
-6050041000006115	Insulin dependent diabetes mellitus with hypoglycaemic coma	unspecified
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	category
+15518018	3391	C10N	C10N.00	Secondary diabetes mellitus	8801005	15518018	NA	32	secondary
+77727018	73532	C10E-2	C10E.12	Insulin dependent diabetes mellitus	73211009	121589010	NA	32	unspecified
+121589010	6162881	C10	C10..00	Diabetes mellitus	73211009	121589010	NA	32	unspecified
+197761014	27717601	C10F	C10F.00	Type 2 diabetes mellitus	44054006	197761014	NA	32	type 2
+197984010	2751943	C10E	C10E.00	Type 1 diabetes mellitus	46635009	197984010	NA	32	type 1
+292538019	10	C10E5-1	C10E511	Type I diabetes mellitus with ulcer	190368000	292538019	NA	32	type 1
+292540012	272	C10E5	C10E500	Type 1 diabetes mellitus with ulcer	190368000	292540012	NA	32	type 1
+292541011	172	C10E6	C10E600	Type 1 diabetes mellitus with gangrene	420825003	2618207019	NA	32	type 1
+292543014	13	C10E6-1	C10E611	Type I diabetes mellitus with gangrene	420825003	2618207019	NA	32	type 1
+292548017	1658	C10E8	C10E800	Type 1 diabetes mellitus - poor control	444073006	2872487013	NA	32	type 1
+292550013	59	C10E8-1	C10E811	Type I diabetes mellitus - poor control	444073006	2872487013	NA	32	type 1
+292551012	34	C10E9-1	C10E911	Type I diabetes mellitus maturity onset	190372001	292551012	NA	32	type 1
+292553010	2164	C10E9	C10E900	Type 1 diabetes mellitus maturity onset	190372001	292553010	NA	32	type 1
+292576013	33	C10F3-1	C10F311	Type II diabetes mellitus with multiple complications	190388001	292576013	NA	32	type 2
+292577016	2880	C10F3	C10F300	Type 2 diabetes mellitus with multiple complications	190388001	292577016	NA	32	type 2
+292579018	1207	C10F4	C10F400	Type 2 diabetes mellitus with ulcer	190389009	292579018	NA	32	type 2
+292581016	32	C10F4-1	C10F411	Type II diabetes mellitus with ulcer	190389009	292581016	NA	32	type 2
+292582011	8	C10F5-1	C10F511	Type II diabetes mellitus with gangrene	421631007	2618206011	NA	32	type 2
+292583018	280	C10F5	C10F500	Type 2 diabetes mellitus with gangrene	421631007	2618206011	NA	32	type 2
+292589019	287	C10F7-1	C10F711	Type II diabetes mellitus - poor control	443694000	2921019012	NA	32	type 2
+292590011	16243	C10F7	C10F700	Type II diabetes mellitus poorly controlled	443694000	2921019012	NA	32	type 2
+356085010	820	C10D-1	C10D.11	Maturity onset diabetes in youth type 2	237604008	356085010	NA	32	mody
+429970018	62	C10E4-1	C10E411	Unstable type I diabetes mellitus	290002008	429970018	NA	32	type 1
+429971019	468	C10E4	C10E400	Unstable type 1 diabetes mellitus	290002008	429971019	NA	32	type 1
+429972014	105	C10E4-2	C10E412	Unstable insulin dependent diabetes mellitus	11530004	19931010	NA	27	unspecified
+457325013	108	C10EA-1	C10EA11	Type I diabetes mellitus without complication	313435000	457325013	NA	32	type 1
+457326014	376	C10EA	C10EA00	Type 1 diabetes mellitus without complication	313435000	457326014	NA	32	type 1
+457327017	325	C10EA-2	C10EA12	Insulin-dependent diabetes without complication	111552007	178796018	NA	32	unspecified
+457329019	11539	C10F9	C10F900	Type 2 diabetes mellitus without complication	313436004	457329019	NA	32	type 2
+457330012	1121	C10F9-1	C10F911	Type II diabetes mellitus without complication	313436004	457330012	NA	32	type 2
+459161015	286	C10EE	C10EE00	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	459161015	NA	32	type 1
+459162010	128	C10EE-2	C10EE12	Insulin dependent diabetes mellitus with hypoglycaemic coma	237632004	356141011	NA	32	unspecified
+459163017	43	C10EE-1	C10EE11	Type I diabetes mellitus with hypoglycaemic coma	314771006	459163017	NA	32	type 1
+459167016	221	C10FD	C10FD00	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	3316336015	NA	32	type 2
+459169018	67	C10FD-1	C10FD11	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	719216001	3316336015	NA	32	type 2
+459292011	63	C10EH	C10EH00	Type 1 diabetes mellitus with arthropathy	314893005	459292011	NA	32	type 1
+459293018	6	C10EH-2	C10EH12	Insulin dependent diabetes mellitus with arthropathy	39710007	1229552016	NA	32	unspecified
+459294012	23	C10EH-1	C10EH11	Type I diabetes mellitus with arthropathy	314893005	459294012	NA	32	type 1
+459296014	223	C10EJ	C10EJ00	Type 1 diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018	NA	32	type 1
+459306016	64	C10FF-1	C10FF11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016	NA	32	type 2
+459308015	342	C10FF	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015	NA	32	type 2
+459310018	212	C10FG	C10FG00	Type 2 diabetes mellitus with arthropathy	314903002	459310018	NA	32	type 2
+459311019	49	C10FG-1	C10FG11	Type II diabetes mellitus with arthropathy	314903002	459311019	NA	32	type 2
+459312014	40	C10FH-1	C10FH11	Type II diabetes mellitus with neuropathic arthropathy	314904008	459312014	NA	32	type 2
+459313016	918	C10FH	C10FH00	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	459313016	NA	32	type 2
+483882011	1138	C10C	C10C.00	Maturity-onset diabetes of the young	609561005	2967884018	NA	32	mody
+483886014	3010	C10C-1	C10C.11	Maturity onset diabetes in youth	609561005	2967884018	NA	32	mody
+493774016	677469	C10F-1	C10F.11	Type II diabetes mellitus	44054006	493774016	NA	32	type 2
+494564012	82270	C10E-1	C10E.11	Type I diabetes mellitus	46635009	494564012	NA	32	type 1
+1223147012	1698	C10FJ-1	C10FJ11	Insulin treated Type II diabetes mellitus	237599002	1223147012	NA	32	type 2
+1223148019	1235	C109J-1	C109J11	Insulin treated non-insulin dependent diabetes mellitus	237599002	1223148019	NA	32	unspecified
+1230929011	3828	C10G	C10G.00	Secondary pancreatic diabetes mellitus	51002006	1230929011	NA	32	secondary
+1233307015	275	PKyP-1	PKyP.11	Wolfram syndrome	70694009	1233307015	NA	32	other/unspec genetic inc syndromic
+1488898011	1374	C10FK	C10FK00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	1488898011	NA	32	type 2
+1780311019	3899	C10EL	C10EL00	Type 1 diabetes mellitus with persistent microalbuminuria	401110002	1780311019	NA	32	type 1
+2160090014	263	C10H	C10H.00	Diabetes mellitus induced by non-steroid drugs	408540003	2160090014	NA	32	secondary
+2476117016	499	C10C-2	C10C.12	Maturity onset diabetes in youth type 1	609562003	2967867012	NA	32	mody
+2674067015	10299	C10ER	C10ER00	Latent autoimmune diabetes mellitus in adult	426875007	2674067015	NA	32	unspecified
+189711000000119	5	C10M0	C10M000	Lipoatrophic diabetes mellitus without complication	112991000000101	189711000000119	NA	32	other/unspec genetic inc syndromic
+189721000000113	23	C10N0	C10N000	Secondary diabetes mellitus without complication	8801005	15518018	NA	32	secondary
+198461000000116	3798	C10G0	C10G000	Diabetes mellitus associated with pancreatic disease	51002006	84990019	NA	32	secondary
+299601000000114	7457	C10EQ	C10EQ00	Gastroparesis with type 1 diabetes mellitus	713702000	3698406016	NA	32	type 1
+299621000000117	4801	C10FR	C10FR00	Gastroparesis with type 2 diabetes mellitus	713703005	3698412014	NA	32	type 2
+494831000000119	2182	C10N1	C10N100	Diabetes mellitus associated with cystic fibrosis	426705001	2674608014	NA	32	other/unspec genetic inc syndromic
+622221000000118	207	C10FS	C10FS00	Maternally inherited diabetes mellitus	335621000000101	622221000000118	NA	32	other/unspec genetic inc syndromic
+840951000006119	68030	C109J	C109J00	Insulin treated Type 2 diabetes mellitus	237599002	2967820013	NA	32	type 2
+840971000006112	823	C10D	C10D.00	Diabetes mellitus autosomal dominant type II	237604008	356082013	NA	32	mody
+841351000006110	1603	C109J-2	C109J12	Insulin treated Type II diabetes mellitus	237599002	1223147012	NA	32	type 2
+850691000006118	470	C109K	C109K00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	1488898011	NA	32	type 2
+913441000006119	207	C10E0-2	C10E012	Insulin-dependent diabetes mellitus with renal complications	127013003	301016	NA	32	unspecified
+913451000006117	1691	C10E0	C10E000	Type 1 diabetes mellitus with renal complications	421893009	2618211013	NA	32	type 1
+913461000006115	20	C10E0-1	C10E011	Type I diabetes mellitus with renal complications	421893009	2623054013	NA	32	type 1
+913471000006110	254	C10E1-2	C10E112	Insulin-dependent diabetes mellitus with ophthalmic comps	25093002	3688467012	NA	32	unspecified
+913481000006113	409	C10E1	C10E100	Type 1 diabetes mellitus with ophthalmic complications	739681000	3537386015	NA	32	type 1
+913491000006111	3	C10E1-1	C10E111	Type I diabetes mellitus with ophthalmic complications	739681000	3698438014	NA	32	type 1
+913501000006115	133	C10E2-2	C10E212	Insulin-dependent diabetes mellitus with neurological comps	422088007	3688477014	NA	32	unspecified
+913511000006117	140	C10E2	C10E200	Type 1 diabetes mellitus with neurological complications	421468001	2618197018	NA	32	type 1
+913521000006113	5	C10E2-1	C10E211	Neurological disorder with type 1 diabetes mellitus	421468001	3695401013	NA	32	type 1
+913531000006111	139	C10E3-2	C10E312	Insulin dependent diabetes mellitus with multiple complicat	385041000000108	760111000000115	NA	32	unspecified
+913541000006118	1092	C10E3	C10E300	Type 1 diabetes mellitus with multiple complications	422228004	2618232017	NA	32	type 1
+913551000006116	14	C10E3-1	C10E311	Type I diabetes mellitus with multiple complications	422228004	2967771016	NA	32	type 1
+913591000006110	139	C10E5-2	C10E512	Skin ulcer associated with diabetes mellitus	422183001	2623058011	NA	32	unspecified
+913621000006112	24	C10E6-2	C10E612	Insulin dependent diabetes mellitus with gangrene	422275004	2616612015	NA	32	unspecified
+913651000006115	186	C10E7-2	C10E712	Insulin dependent diabetes mellitus with retinopathy	4855003	9093013	NA	32	unspecified
+913661000006118	2534	C10E7	C10E700	Retinopathy with type 1 diabetes mellitus	420789003	3699407019	NA	32	type 1
+913671000006113	63	C10E7-1	C10E711	Type I diabetes mellitus with retinopathy	420789003	3699407019	NA	32	type 1
+913681000006111	403	C10E8-2	C10E812	Insulin dependent diabetes mellitus - poor control	268519009	401531012	NA	27	unspecified
+913711000006112	986	C10E9-2	C10E912	Insulin dependent diabetes maturity onset	73211009	121589010	NA	32	unspecified
+913771000006115	12	C10EB-2	C10EB12	Insulin dependent diabetes mellitus with mononeuropathy	230577008	345492010	NA	32	unspecified
+913781000006117	17	C10EB	C10EB00	Type 1 diabetes mellitus with mononeuropathy	420918009	2618199015	NA	32	type 1
+913791000006119	7	C10EB-1	C10EB11	Type I diabetes mellitus with mononeuropathy	420918009	3697664014	NA	32	type 1
+913801000006118	26	C10EC-2	C10EC12	Insulin dependent diabetes mellitus with polyneuropathy	49455004	82373015	NA	32	unspecified
+913811000006115	92	C10EC	C10EC00	Type 1 diabetes mellitus with polyneuropathy	713705003	3297342019	NA	32	type 1
+913821000006111	1	C10EC-1	C10EC11	Type I diabetes mellitus with polyneuropathy	713705003	3297390014	NA	32	type 1
+913831000006114	54	C10ED-2	C10ED12	Insulin dependent diabetes mellitus with nephropathy	127013003	301016	NA	32	unspecified
+913841000006116	1250	C10ED	C10ED00	Renal disorder associated with type 1 diabetes mellitus	421893009	2623054013	NA	32	type 1
+913851000006119	20	C10ED-1	C10ED11	Type I diabetes mellitus with nephropathy	421893009	2623054013	NA	32	type 1
+913891000006113	14	C10EF-2	C10EF12	Insulin dependent diabetes mellitus with diabetic cataract	43959009	73294018	NA	32	unspecified
+913901000006112	41	C10EF	C10EF00	Type 1 diabetes mellitus with diabetic cataract	421920002	2618234016	NA	32	type 1
+913911000006110	2	C10EF-1	C10EF11	Type I diabetes mellitus with diabetic cataract	421920002	3688521010	NA	32	type 1
+913921000006119	6	C10EG-2	C10EG12	Insulin dependent diab mell with peripheral angiopathy	421895002	2618203015	NA	32	unspecified
+913931000006116	28	C10EG	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy	31211000119101	3315042015	NA	32	type 1
+913941000006114	3	C10EG-1	C10EG11	Peripheral angiopathy due to type 1 diabetes mellitus	31211000119101	3315042015	NA	32	type 1
+913981000006115	41	C10EJ-2	C10EJ12	Insulin dependent diab mell with neuropathic arthropathy	201724008	309740011	NA	32	unspecified
+914031000006118	3393	C10F0	C10F000	Renal disorder associated with type II diabetes mellitus	420279001	2618208012	NA	32	type 2
+914041000006111	25	C10F0-1	C10F011	Type II diabetes mellitus with renal complications	420279001	3013392012	NA	32	type 2
+914051000006113	1415	C10F1	C10F100	Disorder of eye with type 2 diabetes mellitus	422099009	3698440016	NA	32	type 2
+914061000006110	12	C10F1-1	C10F111	Type II diabetes mellitus with ophthalmic complications	422099009	3698440016	NA	32	type 2
+914071000006115	1783	C10F2	C10F200	Neurologic disorder associated with type 2 diabetes mellitus	421326000	3695406015	NA	32	type 2
+914081000006117	14	C10F2-1	C10F211	Type II diabetes mellitus with neurological complications	421326000	3695406015	NA	32	type 2
+914151000006112	6715	C10F6	C10F600	Retinopathy with type 2 diabetes mellitus	422034002	3699410014	NA	32	type 2
+914161000006114	104	C10F6-1	C10F611	Type II diabetes mellitus with retinopathy	422034002	3699410014	NA	32	type 2
+914221000006113	315	C10FA	C10FA00	Type 2 diabetes mellitus with mononeuropathy	420436000	2618201018	NA	32	type 2
+914231000006111	38	C10FA-1	C10FA11	Type II diabetes mellitus with mononeuropathy	420436000	3697667019	NA	32	type 2
+914241000006118	999	C10FB	C10FB00	Polyneuropathy due to type 2 diabetes mellitus	713706002	3297353013	NA	32	type 2
+914251000006116	34	C10FB-1	C10FB11	Type II diabetes mellitus with polyneuropathy	713706002	3297353013	NA	32	type 2
+914261000006119	7095	C10FC	C10FC00	Diabetes type 2 with nephropathy	420279001	3035432019	NA	32	type 2
+914271000006114	90	C10FC-1	C10FC11	Type II diabetes mellitus with nephropathy	420279001	3013392012	NA	32	type 2
+914301000006111	486	C10FE	C10FE00	Type 2 diabetes mellitus with diabetic cataract	420756003	3688522015	NA	32	type 2
+914311000006114	102	C10FE-1	C10FE11	Type II diabetes mellitus with diabetic cataract	420756003	3688522015	NA	32	type 2
+914391000006116	694796	C10FJ	C10FJ00	Insulin treated Type 2 diabetes mellitus	237599002	2967820013	NA	32	type 2
+928461000006119	3625	C10EK	C10EK00	Persistent proteinuria associated with type 1 diabetes mellitus	420514000	2967914011	NA	32	type 1
+928471000006114	15	C10EK-1	C10EK11	Type I diabetes mellitus with persistent proteinuria	420514000	2967914011	NA	32	type 1
+928491000006110	105	C10EL-1	C10EL11	Type I diabetes mellitus with persistent microalbuminuria	401110002	1780311019	NA	32	type 1
+928501000006119	16076	C10EM	C10EM00	Ketoacidosis in type 1 diabetes mellitus	420270002	2967817017	NA	32	type 1
+928511000006116	700	C10EM-1	C10EM11	Type I diabetes mellitus with ketoacidosis	420270002	2967817017	NA	32	type 1
+928521000006112	842	C10EN	C10EN00	Ketoacidotic coma in type 1 diabetes mellitus	421075007	2967758019	NA	32	type 1
+928531000006110	4	C10EN-1	C10EN11	Type I diabetes mellitus with ketoacidotic coma	421075007	2967758019	NA	32	type 1
+928541000006117	30083	C10FL	C10FL00	Persistent proteinuria associated with type 2 diabetes mellitus	421986006	2967751013	NA	32	type 2
+928551000006115	642	C10FL-1	C10FL11	Type II diabetes mellitus with persistent proteinuria	421986006	2967751013	NA	32	type 2
+928561000006118	68258	C10FM	C10FM00	Persistent microalbuminuria associated with type 2 diabetes mellitus	420715001	2967769016	NA	32	type 2
+928571000006113	2186	C10FM-1	C10FM11	Type II diabetes mellitus with persistent microalbuminuria	420715001	2967769016	NA	32	type 2
+928581000006111	2740	C10FN	C10FN00	Ketoacidosis in type 2 diabetes mellitus	421750000	2967754017	NA	32	type 2
+928591000006114	81	C10FN-1	C10FN11	Type II diabetes mellitus with ketoacidosis	421750000	2967754017	NA	32	type 2
+928601000006118	42	C10FP	C10FP00	Ketoacidotic coma in type 2 diabetes mellitus	421847006	2618218019	NA	32	type 2
+928611000006115	6	C10FP-1	C10FP11	Ketoacidotic coma in type II diabetes mellitus	421847006	2618218019	NA	32	type 2
+938301000006114	514	C10EP	C10EP00	Exudative maculopathy with type 1 diabetes mellitus	420486006	3698521013	NA	32	type 1
+938311000006112	34	C10EP-1	C10EP11	Type I diabetes mellitus with exudative maculopathy	420486006	2618236019	NA	32	type 1
+938321000006116	1403	C10FQ	C10FQ00	Exudative maculopathy associated with type 2 diabetes mellitus	421779007	2618237011	NA	32	type 2
+938331000006118	254	C10FQ-1	C10FQ11	Exudative maculopathy with type 2 diabetes mellitus	421779007	3698529010	NA	32	type 2
+967631000006115	16	C10H0	C10H000	Diabetes mellitus induced by non-steroid drugs without complication	413183008	2474729016	NA	32	secondary
+967701000006116	129	C10M	C10M.00	Lipoatrophic diabetes mellitus	127012008	300015	NA	32	other/unspec genetic inc syndromic
+1667891000000113	89	C10FK-1	C10FK11	Hyperosmolar non-ketotic state in type II diabetes mellitus	395204000	1667891000000113	NA	32	type 2
+1667921000000117	417	C10FR-1	C10FR11	Type II diabetes mellitus with gastroparesis	713703005	3698412014	NA	32	type 2
+1667941000000112	370	C10EQ-1	C10EQ11	Type I diabetes mellitus with gastroparesis	713702000	3698406016	NA	32	type 1
+1848531000006116	76	PKyP	PKyP.00	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	70694009	3028935019	NA	32	other/unspec genetic inc syndromic
+1968641000006114	130	C10Q	C10Q.00	Maturity-onset diabetes of the young, type 5	609572000	2967853015	NA	32	mody
+2287971000000119	45436	C10P	C10P.00	Diabetes mellitus in remission	703136005	3007272014	NA	32	unspecified
+2288011000000114	249	C10P0	C10P000	Type I diabetes mellitus in remission	703137001	3007238018	NA	32	type 1
+2288041000000110	155	C10P0-1	C10P011	Type 1 diabetes mellitus in remission	703137001	3007274010	NA	32	type 1
+2288061000000111	35150	C10P1	C10P100	Type II diabetes mellitus in remission	703138006	3007241010	NA	32	type 2
+2288071000000116	18041	C10P1-1	C10P111	Type 2 diabetes mellitus in remission	703138006	3007259013	NA	32	type 2
+302011	3896	G73y0	G73y000	Diabetic peripheral angiopathy	127014009	302011	NA	32	unspecified
+9093013	445260	F420	F420.00	Diabetic retinopathy	4855003	9093013	NA	32	unspecified
+19931010	1943	66AJ1	66AJ100	Brittle diabetes	11530004	19931010	NA	27	unspecified
+73466011	146761	C1001-2	C100112	Non-insulin dependent diabetes mellitus	44054006	493773010	NA	32	unspecified
+82373015	2306	F372-1	F372.11	Diabetic polyneuropathy	49455004	82373015	NA	32	unspecified
+205225016	39304	C104-1	C104.11	Diabetic nephropathy	127013003	205225016	NA	32	unspecified
+264716012	18651	66AJz	66AJz00	Diabetic - poor control NOS	268519009	401531012	NA	27	unspecified
+292466013	17955	C100	C100.00	Diabetes mellitus without complication	111552007	178796018	NA	32	unspecified
+292475010	5239	C100z	C100z00	Diabetes mellitus NOS with no mention of complication	111552007	178796018	NA	32	unspecified
+292495016	141	C104y	C104y00	Other specified diabetes mellitus with renal complications	127013003	301016	NA	32	other type not specified
+292496015	1705	C104z	C104z00	Diabetes mellitus with nephropathy NOS	127013003	301016	NA	32	unspecified
+292565014	240	C108z	C108z00	Diabetes mellitus with multiple complications	385041000000108	760111000000115	NA	32	unspecified
+292621010	50	C10yz	C10yz00	Diabetes mellitus NOS with other specified manifestation	73211009	121589010	NA	32	unspecified
+293756010	75	Cyu20	Cyu2000	[X]Other specified diabetes mellitus	73211009	121589010	NA	32	other type not specified
+293759015	2308	Cyu23	Cyu2300	Diabetic renal disease	127013003	301016	NA	32	unspecified
+297758012	17666	F420z	F420z00	Diabetic retinopathy NOS	4855003	9093013	NA	32	unspecified
+345492010	1748	F3y0	F3y0.00	Diabetic mononeuropathy	230577008	345492010	NA	32	unspecified
+354316011	314	C314-1	C314.11	Kidney disorder due to diabetes mellitus	127013003	3688488015	NA	32	unspecified
+401531012	412453	66AJ	66AJ.00	Diabetic - poor control	268519009	401531012	NA	27	unspecified
+411891014	3758	66AJ-1	66AJ.11	Unstable diabetes	11530004	19931010	NA	27	unspecified
+457328010	5443	C1099	C109900	Non-insulin-dependent diabetes mellitus without complication	313436004	457328010	NA	32	unspecified
+459309011	8	C109G	C109G00	Non-insulin dependent diabetes mellitus with arthropathy	314903002	459309011	NA	32	unspecified
+493773010	44907	C109-1	C109.11	NIDDM - Non-insulin dependent diabetes mellitus	44054006	493773010	NA	32	unspecified
+13751000006117	354	C108y	C108y00	Other specified diabetes mellitus with multiple comps	385041000000108	760111000000115	NA	32	other type not specified
+13781000006113	11	C10yy	C10yy00	Other specified diabetes mellitus with other spec comps	73211009	121589010	NA	32	other type not specified
+72651000006114	126	C1084	C108400	Unstable insulin dependent diabetes mellitus	11530004	19931010	NA	27	unspecified
+72711000006117	33	C1084-2	C108412	Unstable type 1 diabetes mellitus	290002008	429971019	NA	32	type 1
+72721000006113	16	C1084-1	C108411	Unstable type I diabetes mellitus	290002008	429970018	NA	32	type 1
+84281000006115	36167	C108-2	C108.12	Type 1 diabetes mellitus	46635009	197984010	NA	32	type 1
+84291000006117	798	C1088-2	C108812	Type 1 diabetes mellitus - poor control	444073006	2872487013	NA	32	type 1
+84301000006116	34	C1089-2	C108912	Type 1 diabetes mellitus maturity onset	190372001	292553010	NA	32	type 1
+84311000006118	11	C108H-2	C108H12	Type 1 diabetes mellitus with arthropathy	314893005	459292011	NA	32	type 1
+84321000006114	14	C108F-2	C108F12	Type 1 diabetes mellitus with diabetic cataract	421920002	2618234016	NA	32	type 1
+84331000006112	2	C1086-2	C108612	Type 1 diabetes mellitus with gangrene	420825003	2618207019	NA	32	type 1
+84341000006119	27	C108E-2	C108E12	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	459161015	NA	32	type 1
+84361000006115	12	C1083-2	C108312	Type 1 diabetes mellitus with multiple complications	422228004	2618232017	NA	32	type 1
+84371000006110	253	C108D-2	C108D12	Type 1 diabetes mellitus with nephropathy	421893009	2623054013	NA	32	type 1
+84381000006113	21	C1082-2	C108212	Type 1 diabetes mellitus with neurological complications	421468001	2618197018	NA	32	type 1
+84391000006111	3	C108J-2	C108J12	Type 1 diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018	NA	32	type 1
+84401000006113	84	C1081-2	C108112	Type 1 diabetes mellitus with ophthalmic complications	739681000	3537386015	NA	32	type 1
+84421000006115	14	C108C-2	C108C12	Type 1 diabetes mellitus with polyneuropathy	713705003	3297342019	NA	32	type 1
+84431000006117	52	C1080-2	C108012	Type 1 diabetes mellitus with renal complications	421893009	2618211013	NA	32	type 1
+84441000006110	49	C1087-2	C108712	Type 1 diabetes mellitus with retinopathy	420789003	3699407019	NA	32	type 1
+84451000006112	30	C1085-2	C108512	Type 1 diabetes mellitus with ulcer	190368000	292540012	NA	32	type 1
+84461000006114	13	C108A-2	C108A12	Type 1 diabetes mellitus without complication	313435000	457326014	NA	32	type 1
+84471000006119	273171	C109-2	C109.12	Type 2 diabetes mellitus	44054006	197761014	NA	32	type 2
+84481000006116	1387	C1097-2	C109712	Type 2 diabetes mellitus - poor control	443694000	2921019012	NA	32	type 2
+84491000006118	13	C109G-2	C109G12	Type 2 diabetes mellitus with arthropathy	314903002	459310018	NA	32	type 2
+84501000006114	103	C109E-2	C109E12	Type 2 diabetes mellitus with diabetic cataract	420756003	3688522015	NA	32	type 2
+84511000006112	18	C1095-2	C109512	Type 2 diabetes mellitus with gangrene	421631007	2618206011	NA	32	type 2
+84521000006116	25	C109D-2	C109D12	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	3316336015	NA	32	type 2
+84531000006118	18	C109A-2	C109A12	Type 2 diabetes mellitus with mononeuropathy	420436000	2618201018	NA	32	type 2
+84541000006111	187	C1093-2	C109312	Type 2 diabetes mellitus with multiple complications	190388001	292577016	NA	32	type 2
+84551000006113	810	C109C-2	C109C12	Type 2 diabetes mellitus with nephropathy	420279001	3035432019	NA	32	type 2
+84561000006110	119	C1092-2	C109212	Type 2 diabetes mellitus with neurological complications	421326000	3695406015	NA	32	type 2
+84571000006115	20	C109H-2	C109H12	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	459313016	NA	32	type 2
+84581000006117	192	C1091-2	C109112	Type 2 diabetes mellitus with ophthalmic complications	422099009	3698440016	NA	32	type 2
+84591000006119	8	C109F-2	C109F12	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015	NA	32	type 2
+84601000006110	13	C109B-2	C109B12	Type 2 diabetes mellitus with polyneuropathy	713706002	3297353013	NA	32	type 2
+84611000006113	208	C1090-2	C109012	Type 2 diabetes mellitus with renal complications	420279001	2618208012	NA	32	type 2
+84621000006117	145	C1096-2	C109612	Type 2 diabetes mellitus with retinopathy	422034002	3699410014	NA	32	type 2
+84631000006119	91	C1094-2	C109412	Type 2 diabetes mellitus with ulcer	190389009	292579018	NA	32	type 2
+84641000006112	90	C1099-2	C109912	Type 2 diabetes mellitus without complication	313436004	457329019	NA	32	type 2
+84651000006114	21304	C108-3	C108.13	Type I diabetes mellitus	46635009	494564012	NA	32	type 1
+84661000006111	2139	C1088-1	C108811	Type I diabetes mellitus poorly controlled	444073006	2872487013	NA	32	type 1
+84671000006116	239	C1089-1	C108911	Type I diabetes mellitus maturity onset	190372001	292551012	NA	32	type 1
+84681000006118	1	C108H-1	C108H11	Type I diabetes mellitus with arthropathy	314893005	459294012	NA	32	type 1
+84691000006115	18	C108F-1	C108F11	Cataract due to diabetes mellitus type 1	421920002	3688521010	NA	32	type 1
+84701000006115	13	C1086-1	C108611	Type I diabetes mellitus with gangrene	420825003	2618207019	NA	32	type 1
+84711000006117	68	C108E-1	C108E11	Type I diabetes mellitus with hypoglycaemic coma	314771006	459163017	NA	32	type 1
+84721000006113	4	C108B-1	C108B11	Mononeuropathy with type 1 diabetes mellitus	420918009	3697664014	NA	32	type 1
+84731000006111	338	C1083-1	C108311	Multiple complications of type 1 diabetes mellitus	422228004	2967771016	NA	32	type 1
+84741000006118	365	C108D-1	C108D11	Type I diabetes mellitus with nephropathy	421893009	2623054013	NA	32	type 1
+84751000006116	4	C1082-1	C108211	Type I diabetes mellitus with neurological complications	421468001	3695401013	NA	32	type 1
+84761000006119	123	C108J-1	C108J11	Type I diabetes mellitus with neuropathic arthropathy	71771000119100	3010513018	NA	32	type 1
+84771000006114	28	C1081-1	C108111	Disorder of eye with type 1 diabetes mellitus	739681000	3698438014	NA	32	type 1
+84791000006110	3	C108C-1	C108C11	Polyneuropathy due to diabetes mellitus type I	713705003	3297390014	NA	32	type 1
+84801000006111	54	C1080-1	C108011	Type I diabetes mellitus with renal complications	421893009	2623054013	NA	32	type 1
+84811000006114	106	C1087-1	C108711	Type I diabetes mellitus with retinopathy	420789003	3699407019	NA	32	type 1
+84821000006118	20	C1085-1	C108511	Type I diabetes mellitus with ulcer	190368000	292538019	NA	32	type 1
+84831000006115	5	C108A-1	C108A11	Type I diabetes mellitus without complication	313435000	457325013	NA	32	type 1
+84841000006113	56476	C109-3	C109.13	Type II diabetes mellitus	44054006	493774016	NA	32	type 2
+84851000006110	846	C1097-1	C109711	Type II diabetes mellitus - poor control	443694000	2921019012	NA	32	type 2
+84861000006112	3	C109G-1	C109G11	Type II diabetes mellitus with arthropathy	314903002	459311019	NA	32	type 2
+84871000006117	167	C109E-1	C109E11	Cataract due to diabetes mellitus type 2	420756003	3688522015	NA	32	type 2
+84881000006119	8	C1095-1	C109511	Type II diabetes mellitus with gangrene	421631007	2618206011	NA	32	type 2
+84891000006116	5	C109D-1	C109D11	Type II diabetes mellitus with hypoglycaemic coma	719216001	3316336015	NA	32	type 2
+84901000006117	28	C109A-1	C109A11	Mononeuropathy with type 2 diabetes mellitus	420436000	3697667019	NA	32	type 2
+84911000006119	8	C1093-1	C109311	Type II diabetes mellitus with multiple complications	190388001	292576013	NA	32	type 2
+84921000006110	1042	C109C-1	C109C11	Renal disorder due to type 2 diabetes mellitus	420279001	3013392012	NA	32	type 2
+84931000006113	48	C1092-1	C109211	Neurological disorder with diabetes type 2	421326000	3695406015	NA	32	type 2
+84941000006115	14	C109H-1	C109H11	Type II diabetes mellitus with neuropathic arthropathy	314904008	459312014	NA	32	type 2
+84951000006118	46	C1091-1	C109111	Disorder of eye with type 2 diabetes mellitus	422099009	3698440016	NA	32	type 2
+84961000006116	18	C109F-1	C109F11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016	NA	32	type 2
+84971000006111	23	C109B-1	C109B11	Type II diabetes mellitus with polyneuropathy	713706002	3297353013	NA	32	type 2
+84981000006114	76	C1090-1	C109011	Type II diabetes mellitus with renal complications	420279001	3013392012	NA	32	type 2
+84991000006112	179	C1096-1	C109611	Type II diabetes mellitus with retinopathy	422034002	3699410014	NA	32	type 2
+85001000006117	61	C1094-1	C109411	Type II diabetes mellitus with ulcer	190389009	292581016	NA	32	type 2
+85011000006119	79	C1099-1	C109911	Type II diabetes mellitus without complication	313436004	457330012	NA	32	type 2
+169731000006118	235343	2BBF	2BBF.00	Retinal abnormality - diabetes-related	4855003	1230609013	NA	32	unspecified
+214921000006116	10001	F372	F372.00	Polyneuropathy in diabetes	49455004	82373015	NA	32	unspecified
+223291000000111	23933	C1001-1	C100111	Maturity onset diabetes	44054006	493774016	NA	32	unspecified
+280511000006113	56	C109D	C109D00	Non-insulin dependent diabetes mellitus with hypoglyca coma	719216001	3316336015	NA	32	unspecified
+280521000006117	33	C109A	C109A00	Non-insulin dependent diabetes mellitus with mononeuropathy	420436000	3697667019	NA	32	unspecified
+280531000006119	194	C109C	C109C00	Non-insulin dependent diabetes mellitus with nephropathy	420279001	3035432019	NA	32	unspecified
+280541000006112	50	C109B	C109B00	Non-insulin dependent diabetes mellitus with polyneuropathy	713706002	3297353013	NA	32	unspecified
+280551000006114	324	C1094	C109400	Non-insulin-dependent diabetes mellitus with ulcer	190389009	292580015	NA	32	unspecified
+280561000006111	84	C109F	C109F00	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	314902007	459307013	NA	32	unspecified
+280571000006116	789970	C109	C109.00	Non-insulin dependent diabetes mellitus	44054006	493773010	NA	32	unspecified
+280581000006118	281	C1093	C109300	Non-insulin-dependent diabetes mellitus with multiple complications	190388001	292578014	NA	32	unspecified
+280591000006115	570	C1092	C109200	Non-insulin-dependent diabetes mellitus with neuro comps	421326000	3695406015	NA	32	unspecified
+281161000006114	124	C109E	C109E00	Non-insulin depend diabetes mellitus with diabetic cataract	420756003	3035281015	NA	32	unspecified
+281171000006119	21985	C1097	C109700	Type II diabetes mellitus uncontrolled	443694000	2842387018	NA	32	type 2
+281181000006116	18	C109H	C109H00	Non-insulin dependent diabetes mellitus with neuropathic arthropathy	314904008	459314010	NA	32	unspecified
+281211000006117	114	C1095	C109500	Gangrene associated with type 2 diabetes mellitus	421631007	2967779019	NA	32	type 2
+377001000006117	543	Cyu2	Cyu2.00	[X]Diabetes mellitus	73211009	121589010	NA	32	unspecified
+587111000006111	658	C1091	C109100	Non-insulin-dependent diabetes mellitus with ophthalm comps	422099009	3698440016	NA	32	unspecified
+587521000006111	803	C1090	C109000	Non-insulin-dependent diabetes mellitus with renal comps	420279001	2615535015	NA	32	unspecified
+616451000006110	237	C106-3	C106.13	Diabetes mellitus with polyneuropathy	49455004	82373015	NA	32	unspecified
+616461000006112	12453	C104	C104.00	Diabetes mellitus with renal manifestation	127013003	301016	NA	32	unspecified
+616481000006119	1717	C1061	C106100	Diabetes mellitus, adult onset, + neurological manifestation	421326000	2618196010	NA	32	unspecified
+616491000006116	974	C1051	C105100	Diabetes mellitus, adult onset, + ophthalmic manifestation	422099009	2618233010	NA	32	unspecified
+616501000006112	691	C10z1	C10z100	Disorder due to type 2 diabetes mellitus	422014003	3013072014	NA	32	type 2
+616511000006110	86290	C1001	C100100	Diabetes mellitus, adult onset, no mention of complication	313436004	457329019	NA	32	unspecified
+616531000006116	887	C1011	C101100	Diabetes mellitus, adult onset, with ketoacidosis	421750000	2618220016	NA	32	unspecified
+616541000006114	22	C1031	C103100	Diabetes mellitus, adult onset, with ketoacidotic coma	421847006	2618218019	NA	32	unspecified
+616551000006111	1114	C1041	C104100	Diabetes mellitus, adult onset, with renal manifestation	420279001	2615535015	NA	32	unspecified
+616561000006113	260	C1072	C107200	Diabetes mellitus, adult with gangrene	421631007	2618206011	NA	32	unspecified
+616571000006118	1235	C10y1	C10y100	Diabetes mellitus, adult, + other specified manifestation	73211009	121589010	NA	32	unspecified
+616591000006117	25	C1070	C107000	Diabetes mellitus, juvenile +peripheral circulatory disorder	421365002	2618205010	NA	32	unspecified
+616601000006113	175	C1050	C105000	Diabetes mellitus, juvenile type, + ophthalmic manifestation	739681000	3537386015	NA	32	unspecified
+616611000006111	97	C10z0	C10z000	Disorder due to type 1 diabetes mellitus	420868002	3013528019	NA	32	type 1
+616621000006115	12547	C1000	C100000	Type 1 diabetes mellitus without complication	313435000	457326014	NA	32	type 1
+616641000006110	1636	C1010	C101000	Diabetes mellitus, juvenile type, with ketoacidosis	420270002	2618216015	NA	32	unspecified
+616651000006112	45	C1030	C103000	Diabetes mellitus, juvenile type, with ketoacidotic coma	421075007	2618217012	NA	32	unspecified
+616661000006114	100	C1040	C104000	Diabetes mellitus, juvenile type, with renal manifestation	421893009	2618211013	NA	32	unspecified
+616671000006119	134	C1060	C106000	Diabetes mellitus, juvenile, + neurological manifestation	421468001	2618197018	NA	32	unspecified
+616681000006116	121	C10y0	C10y000	Diabetes mellitus, juvenile, + other specified manifestation	73211009	121589010	NA	32	unspecified
+616971000006114	12617	N0301	N030100	Diabetic Charcot's arthropathy	201724008	309739014	NA	32	unspecified
+641581000006115	691	C1096	C109600	Non-insulin-dependent diabetes mellitus with retinopathy	422034002	3035295017	NA	32	unspecified
+746791000006111	491	C108A	C108A00	Insulin-dependent diabetes without complication	111552007	178796018	NA	32	unspecified
+771371000006118	10	C108B	C108B00	Insulin dependent diabetes mellitus with mononeuropathy	230577008	345492010	NA	32	unspecified
+771381000006115	182	C1083	C108300	Insulin dependent diabetes mellitus with multiple complicatn	385041000000108	760111000000115	NA	32	unspecified
+771391000006117	119	C108D	C108D00	Insulin dependent diabetes mellitus with nephropathy	127013003	301016	NA	32	unspecified
+771401000006115	21	C108C	C108C00	Insulin dependent diabetes mellitus with polyneuropathy	49455004	82373015	NA	32	unspecified
+771411000006117	354	C1087	C108700	Insulin dependent diabetes mellitus with retinopathy	4855003	9093013	NA	32	unspecified
+771501000006119	91	C1080	C108000	Insulin-dependent diabetes mellitus with renal complications	127013003	301016	NA	32	unspecified
+772131000006111	27	C108J	C108J00	Insulin dependent diab mell with neuropathic arthropathy	201724008	309740011	NA	32	unspecified
+772151000006116	753	C1089	C108900	Insulin dependent diabetes maturity onset	73211009	121589010	NA	32	unspecified
+772161000006119	88610	C1000-1	C100011	Insulin dependent diabetes mellitus	73211009	121589010	NA	32	unspecified
+772171000006114	122053	C108	C108.00	Insulin dependent diabetes mellitus	73211009	121589010	NA	32	unspecified
+772181000006112	849	C1088	C108800	Insulin dependent diabetes mellitus - poor control	268519009	401531012	NA	27	unspecified
+787111000006112	29417	C108-1	C108.11	IDDM-Insulin dependent diabetes mellitus	73211009	121589010	NA	32	unspecified
+881441000006111	4609	C1000-99	C100099	Diabetes mellitus - juvenile	73211009	881441000006111	NA	32	unspecified
+881481000006117	1146	C104-99	C104.99	Diabetes + nephropathy	127013003	881481000006117	NA	32	unspecified
