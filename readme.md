@@ -84,13 +84,15 @@ A flow diagram of the overall process of defining a diabetes cohort can be found
 
 ### Defining a cohort of mixed Type 1/Type 2/'other' diabetes
 Include participants with:
-* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. This includes QOF codes for non-Type 1/non-Type 2 diabetes mellitus (note that gestational diabetes is not in QOF so people with gestational diabetes only may be excluded at this stage).
+* At least one diabetes QOF (Quality and Outcomes Framework) medcode (Diabetes/exeter_medcodelist_qof_diabetes). The QOF codelist was constructed from Read codes from version 38 and SNOMED codes from version 44 of the QOF, which include all codes from previous versions. This includes QOF codes for non-Type 1/non-Type 2 diabetes mellitus (note that gestational diabetes is not in QOF).
+* No gestational diabetes codes: we exclude patients with gestational diabetes as it would require a more complex algorithm to calculate their diagnosis dates.
+* No code for diabetes insipidus: we exclude patients with diabetes insipidus as they sometimes incorrectly have diabetes mellitus codes. Note that we do not exclude individuals with codes for syndromes which include diabetes insipidus (codes for these syndromes are not included in the diabetes insipidus codelist), but only with standalone diabetes insipidus codes.
 
 &nbsp;
 
 ### Defining the diagnosis date of diabetes
 Diagnosis date is earliest of:
-* Any diabetes medcode (including 'exclusion' i.e. non_type 1/Type 2 types; Diabetes/exeter_medcodelist_all_diabetes and Diabetes/exeter_medcodelist_diabetes_exclusion) except those with obstypeid=4 (family history), or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below)
+* Any diabetes medcode (from the 'all diabetes' codelist) except those with obstypeid=4 (family history), codes for diabetes in pregnancy where it is not clear if this is pre-existing or gestational, or those in year of birth for those with Type 2 diabetes (see Type 1/Type 2 classification algorithm below)
 * A prescription for glucose lowering medication including insulin (Diabetes medications/exeter_prodcodelist_ohas and Diabetes medications/exeter_prodcodelist_insulin)
 * Any HbA1c (Biomarkers/exeter_medcodelist_hba1c) >=47.5 mmol/mol (values <=20 assumed to be in % units and converted to mmol/mol)
 
@@ -102,7 +104,7 @@ Diagnosis dates within -30 to +90 days (inclusive) of registration start are set
 
 ### Defining diabetes type
 
-Those with any diabetes exclusion medcode (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date are defined as having 'Other' diabetes type (i.e. not Type 1 or 2).
+Those with any diabetes exclusion medcode (codes for non-Type 1/non-Type 2 diabetes mellitus; Diabetes/exeter_medcodelist_exclusion_diabetes) with any date are defined as having 'Other' diabetes type (i.e. not Type 1 or 2) and require further processing to ascertain diabetes type.
 
 For those with no diabetes exclusion medcodes:
 * No insulin prescriptions: Type 2
