@@ -3,7 +3,7 @@ CPRD Aurum codelists from the Exeter Diabetes team. These include medcodes (for 
 
 We have also included Read and SNOMED codelists created during medcode list development (see [Code list generation process](https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/readme.md#code-list-generation-process) below); where available, these are located in each of the subfolders in the [Medcodes](https://github.com/Exeter-Diabetes/CPRD-Codelists/tree/main/Medcodes) folder. Note that Read and SNOMED codelists are csv files and may have hash (#) symbols as suffixes in the 'readcode'/'snomedcode'/'medcodeid' columns to prevent rounding when the csv files are opened in Excel.
 
-All codelists are based on an October 2020 extract of CPRD Aurum; later versions may include extra medcodes/prodcodes not included here.
+In 2024, we updated some of our algorithms and codelists (main branch of this repository). Papers published by the Exeter Diabetes team in or prior to 2024 use the algorithms and codelists in the 'pre-2024' branch of this repository, all of which were based on the October 2020 extract of CPRD Aurum. Where we have updated codelists since then, we have added in additional codes which appear in the June 2024 extract of CPRD Aurum, but haven't removed codes which were in the October 2020 but not the June 2024 extract; thus the codelists are compatible with either extract.
 
 Our scripts which use these codelists and the below algorithms to define cohorts and pull in relevant biomarker/comorbidity/sociodemographic information from CPRD Aurum can be found in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts).
 
