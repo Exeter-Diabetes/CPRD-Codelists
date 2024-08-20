@@ -74,7 +74,7 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 ### Frailty
 
-Note that the 'frailty_simple' codelist is not exhaustive, but contains three of the most commonly used medcodesfor frailty, classified by frailty severity.
+Note that the 'frailty_simple' codelist is not exhaustive, but contains three of the most commonly used medcodes for frailty, classified by frailty severity.
 
 &nbsp;
 
