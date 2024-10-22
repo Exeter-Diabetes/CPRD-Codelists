@@ -1,16 +1,16 @@
-MedCodeId	Term
-1781021000006114	Test request : AST - aspartate transam.(SGOT)
-146761000006113	SGOT serum level
-219691000000115	Aspartate aminotransferase level
-496011000006119	AST serum level
-146771000006118	SGOT serum level
-373708010	Serum aspartate aminotransferase level
-457989010	Plasma aspartate transaminase level
-8412141000006112	AST - aspartate transaminase (SGOT)
-8412131000006119	Aspartate transaminase level
-5288371000006112	Aspartate aminotransferase serum measurement
-5288361000006117	AST serum level
-5288351000006119	AST serum measurement
-6037211000006114	Plasma aspartate transaminase level
-6037221000006118	Plasma AST level
-6037201000006111	Plasma aspartate transaminase measurement
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+373708010	Serum aspartate aminotransferase level	17548970	1	1
+219691000000115	Aspartate aminotransferase level	3124482	1	1
+457989010	Plasma aspartate transaminase level	235187	1	1
+496011000006119	AST serum level	135473	1	1
+1781021000006114	Test request : AST - aspartate transam.(SGOT)	20023	1	1
+146761000006113	SGOT serum level	331	1	1
+146771000006118	SGOT serum level	241	1	1
+5288361000006117	AST serum level	232	1	1
+5288351000006119	AST serum measurement	69	1	1
+8412131000006119	Aspartate transaminase level	52	1	1
+8412141000006112	AST - aspartate transaminase (SGOT)	2	1	1
+5288371000006112	Aspartate aminotransferase serum measurement	NA	1	0
+6037211000006114	Plasma aspartate transaminase level	NA	1	0
+6037221000006118	Plasma AST level	NA	1	0
+6037201000006111	Plasma aspartate transaminase measurement	NA	1	0

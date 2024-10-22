@@ -1,9 +1,9 @@
-MedCodeId	Term
-110181000006112	Test request : Urinary Microalbumin
-74951000006111	Urine albumin level
-2474458019	Urine microalbumin profile
-494597013	Urine microalbumin level
-6833411000006118	Urine microalbumin profile
-3254671000006113	Urine microalbumin
-3254661000006118	Microalbuminuria measurement
-3254681000006111	Urine microalbumin level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+494597013	Urine microalbumin level	13018600	1	1
+2474458019	Urine microalbumin profile	2000525	1	1
+3254671000006113	Urine microalbumin	5	1	1
+3254681000006111	Urine microalbumin level	5	1	1
+110181000006112	Test request : Urinary Microalbumin	NA	1	0
+74951000006111	Urine albumin level	NA	1	0
+6833411000006118	Urine microalbumin profile	NA	1	0
+3254661000006118	Microalbuminuria measurement	NA	1	0

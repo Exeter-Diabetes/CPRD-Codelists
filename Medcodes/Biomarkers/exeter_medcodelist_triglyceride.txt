@@ -1,16 +1,16 @@
-MedCodeId	Term
-1864161000006119	Test request : Serum triglycerides
-145471000006115	Serum triglycerides level
-259260012	Serum fasting triglyceride level
-259261011	Serum random triglyceride level
-259579011	Plasma triglyceride level
-259580014	Plasma random triglyceride level
-259583011	Plasma fasting triglyceride level
-977481000006112	Triglyceride level
-5522421000006118	Serum triglyceride levels
-5522411000006114	Measurement of serum triglyceride level
-4601971000006112	Plasma triglyceride level
-4601961000006117	Plasma triglyceride measurement
-2733551000006117	Triacylglycerols measurement
-2733541000006119	Triglycerides measurement
-2733561000006115	TG - Triglyceride level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+145471000006115	Serum triglycerides level	67821103	1	1
+259579011	Plasma triglyceride level	2451749	1	1
+259260012	Serum fasting triglyceride level	320753	1	1
+977481000006112	Triglyceride level	226083	1	1
+259261011	Serum random triglyceride level	84702	1	1
+1864161000006119	Test request : Serum triglycerides	48196	1	1
+259583011	Plasma fasting triglyceride level	28060	1	1
+259580014	Plasma random triglyceride level	8327	1	1
+2733541000006119	Triglycerides measurement	330	1	1
+5522421000006118	Serum triglyceride levels	14	1	1
+2733561000006115	TG - Triglyceride level	1	1	1
+5522411000006114	Measurement of serum triglyceride level	NA	1	0
+4601971000006112	Plasma triglyceride level	NA	1	0
+4601961000006117	Plasma triglyceride measurement	NA	1	0
+2733551000006117	Triacylglycerols measurement	NA	1	0

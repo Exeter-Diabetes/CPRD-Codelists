@@ -1,20 +1,20 @@
-MedCodeId	Term
-380389013	Serum creatinine level
-109761000006111	Test request : Creatinine
-457919018	Corrected plasma creatinine level
-457927010	Corrected serum creatinine level
-458156012	Plasma creatinine level
-977071000006116	Creatinine level
-259054018	Serum creatinine NOS
-4217571000006110	Serum creatinine
-4217581000006113	Serum creatinine level
-4217561000006115	Creatinine measurement, serum
-6036331000006113	Cor plasma creatinine level
-6036321000006110	Corrected plasma creatinine level
-6036311000006119	Corrected plasma creatinine measurement
-6036401000006114	Corrected serum creatinine measurement
-6036411000006112	Corrected serum creatinine level
-6036421000006116	Cor serum creatinine level
-6039711000006113	Plasma creatinine measurement
-6039721000006117	Plasma creatinine level
-3653141000006112	Creatinine measurement
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+380389013	Serum creatinine level	174354906	1	1
+458156012	Plasma creatinine level	7485330	1	1
+109761000006111	Test request : Creatinine	1060633	1	1
+259054018	Serum creatinine NOS	156546	1	1
+977071000006116	Creatinine level	42362	1	1
+457927010	Corrected serum creatinine level	16563	1	1
+457919018	Corrected plasma creatinine level	8923	1	1
+4217571000006110	Serum creatinine	2056	1	1
+3653141000006112	Creatinine measurement	107	1	1
+6039721000006117	Plasma creatinine level	39	1	1
+4217561000006115	Creatinine measurement, serum	18	1	1
+6036411000006112	Corrected serum creatinine level	1	1	1
+4217581000006113	Serum creatinine level	NA	1	0
+6036331000006113	Cor plasma creatinine level	NA	1	0
+6036321000006110	Corrected plasma creatinine level	NA	1	0
+6036311000006119	Corrected plasma creatinine measurement	NA	1	0
+6036401000006114	Corrected serum creatinine measurement	NA	1	0
+6036421000006116	Cor serum creatinine level	NA	1	0
+6039711000006113	Plasma creatinine measurement	NA	1	0

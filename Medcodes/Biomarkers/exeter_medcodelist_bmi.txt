@@ -1,44 +1,46 @@
-medcodeid	term_medcode
-5892211000006116	Finding of BMI (body mass index)
-5892201000006119	Observation of body mass index
-11923361000006119	Finding of body mass index
-100716012	Body mass index
-3484811000006112	Quetelet index
-3484801000006114	BMI - Body mass index
-3484781000006110	Body mass index
-3484791000006113	Weight: body mass
-3070611000006119	Normal BMI (body mass index)
-253844013	Normal body mass index
-253845014	Increased body mass index
-3284711000006119	Increased BMI (body mass index)
-2603621000006111	Decreased BMI (body mass index)
-253846010	Decreased body mass index
-253847018	Body mass index index 25-29 - overweight
-4553721000006113	BMI 25-29 - overweight
-4553701000006115	Body mass index 25-29 - overweight
-4553741000006118	BMI 30+ - obesity
-253848011	Body mass index 30+ - obesity
-5998281000006119	BMI less than 20
-453856012	Body mass index less than 20
-2160062010	Body mass index 40+ - severely obese
-6763401000006111	BMI (body mass index) 40+ - severely obese
-6763391000006114	Body mass index 40+ - morbidly obese
-2474325012	Body mass index 20-24 - normal
-6831331000006118	BMI (body mass index) 20-24 - normal
-2196071000000116	Baseline body mass index
-8286991000006119	Baseline BMI (body mass index)
-2350241000000116	Obese class I (body mass index 30.0 - 34.9)
-2350261000000115	Obese class II (body mass index 35.0 - 39.9)
-1900331000006113	Obese class III (body mass index equal to or greater than 40.0)
-5256401000006118	Ponderal index
-5256391000006115	Weight for height
-7068851000006119	BMI (body mass index) less than 16.5
-7068841000006116	Body mass index less than 16.5
-12113171000006118	Body mass index 30.00 to 34.99
-12113161000006113	Obese class I
-12113191000006117	Body mass index 35.00 to 39.99
-12113181000006115	Obese class II
-7504441000006114	Measurement of body mass index
-7504451000006111	Calculation of body mass index
-7833991000006118	Overweight in adulthood with body mass index of 25 or more but less than 30
-7834001000006110	Overweight in adulthood with BMI of 25 or more but less than 30
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+100716012	Body mass index	168110661	1	1
+253848011	Body mass index 30+ - obesity	2162815	1	1
+253844013	Normal body mass index	1668992	1	1
+253847018	Body mass index index 25-29 - overweight	1302591	1	1
+253845014	Increased body mass index	954167	1	1
+453856012	Body mass index less than 20	353627	1	1
+2474325012	Body mass index 20-24 - normal	326307	1	1
+2160062010	Body mass index 40+ - severely obese	270424	1	1
+253846010	Decreased body mass index	146416	1	1
+11923361000006119	Finding of body mass index	64587	1	1
+4553701000006115	Body mass index 25-29 - overweight	59495	1	1
+3484801000006114	BMI - Body mass index	35275	1	1
+2350241000000116	Obese class I (body mass index 30.0 - 34.9)	28167	1	1
+2350261000000115	Obese class II (body mass index 35.0 - 39.9)	16852	1	1
+1900331000006113	Obese class III (body mass index equal to or greater than 40.0)	11701	1	1
+5256391000006115	Weight for height	10765	1	1
+2196071000000116	Baseline body mass index	3623	1	1
+12113161000006113	Obese class I	1237	1	1
+13926671000006119	Obese class III	1191	0	1
+4553741000006118	BMI 30+ - obesity	918	1	1
+12113181000006115	Obese class II	815	1	1
+4553721000006113	BMI 25-29 - overweight	414	1	1
+5998281000006119	BMI less than 20	303	1	1
+7833991000006118	Overweight in adulthood with body mass index of 25 or more but less than 30	90	1	1
+7068841000006116	Body mass index less than 16.5	66	1	1
+8286991000006119	Baseline BMI (body mass index)	33	1	1
+6763391000006114	Body mass index 40+ - morbidly obese	31	1	1
+3484811000006112	Quetelet index	16	1	1
+7504441000006114	Measurement of body mass index	14	1	1
+3484791000006113	Weight: body mass	6	1	1
+5892201000006119	Observation of body mass index	5	1	1
+3070611000006119	Normal BMI (body mass index)	1	1	1
+6763401000006111	BMI (body mass index) 40+ - severely obese	1	1	1
+13926691000006118	Obese class III (body mass index equal to or greater than 40.0)	1	0	1
+5892211000006116	Finding of BMI (body mass index)	NA	1	0
+3484781000006110	Body mass index	NA	1	0
+3284711000006119	Increased BMI (body mass index)	NA	1	0
+2603621000006111	Decreased BMI (body mass index)	NA	1	0
+6831331000006118	BMI (body mass index) 20-24 - normal	NA	1	0
+5256401000006118	Ponderal index	NA	1	0
+7068851000006119	BMI (body mass index) less than 16.5	NA	1	0
+12113171000006118	Body mass index 30.00 to 34.99	NA	1	0
+12113191000006117	Body mass index 35.00 to 39.99	NA	1	0
+7504451000006111	Calculation of body mass index	NA	1	0
+7834001000006110	Overweight in adulthood with BMI of 25 or more but less than 30	NA	1	0

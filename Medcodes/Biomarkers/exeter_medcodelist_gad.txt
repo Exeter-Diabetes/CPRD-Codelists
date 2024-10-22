@@ -1,13 +1,18 @@
-MedCodeId	Term
-1485448017	Serum anti-glutamic decarboxylase level
-2501821000000112	Serum glutamic acid decarboxylase antibody concentration
-6522401000006114	Serum anti-glutamic decarboxylase level
-6523681000006114	Glut acid decarboxylase ab lev
-8364161000006113	Serum glutamic acid decarboxylase antibody concentration
-8364151000006111	Serum glutamic acid decarboxylase antibody concentration measurement
-1485550010	Glutamic acid decarboxylase antibody level
-6523671000006111	Glutamic acid decarboxylase antibody level
-6523691000006112	Anti-glutamic decarboxylase antibody level
-6523701000006112	GAD (glutamic acid decarboxylase) antibody measurement
-6522411000006112	Ser anti-glut decarboxlase lev
-6523661000006116	Glutamic acid decarboxylase antibody measurement
+MedCodeId	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+12624621000006115	^ESCT1262462		GAD65 (glutamic acid decarboxylase 65) antibody arbitrary concentration in serum	1109571000000104	2776541000000117		31
+1485448017	43aE	43aE.00	Serum anti-glutamic decarboxylase level	1004991000000100	2561371000000115		33
+1485550010	43m8	43m8.00	Glutamic acid decarboxylase antibody level	1007741000000102	2561661000000116		33
+15127281000006114	^ESCT1512728		GAD (glutamic acid decarboxylase) antibody arbitrary concentration in serum	57851000237100	114551000237110		33
+15128261000006115	^ESCT1512826		GAD (glutamic acid decarboxylase) antibody arbitrary concentration in plasma	58851000237101	108641000237118		33
+2501821000000112	43m80	43m8000	Serum glutamic acid decarboxylase antibody concentration	1011031000000101	2557101000000110		33
+5420131000006117	^ESCTGL542013		Glutamic acid decarboxylase antibody	259892002	387062013		31
+5420151000006112	^ESCTGA542015		GAD - Glutamic acid decarboxylase antibody	259892002	387061018		31
+6522401000006114	^ESCTSE652240		Serum anti-glutamic decarboxylase level	391443009	1485448017		31
+6522411000006112	^ESCTSE652241		Ser anti-glut decarboxlase lev	391443009	133541000000115		31
+6523661000006116	^ESCTGL652366		Glutamic acid decarboxylase antibody measurement	391548002	2266481000000114		31
+6523671000006111	^ESCTGL652367		Glutamic acid decarboxylase antibody level	391548002	1485550010		31
+6523681000006114	^ESCTGL652368		Glut acid decarboxylase ab lev	391548002	132591000000116		31
+6523691000006112	^ESCTAN652369		Anti-glutamic decarboxylase antibody level	391548002	1060231000000117		31
+6523701000006112	^ESCTGA652370		GAD (glutamic acid decarboxylase) antibody measurement	391548002	2266491000000111		31
+8364151000006111	^ESCTSE836415		Serum glutamic acid decarboxylase antibody concentration measurement	983791000000108	2501751000000110		31
+8364161000006113	^ESCTSE836416		Serum glutamic acid decarboxylase antibody concentration	983791000000108	2501821000000112		31

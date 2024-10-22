@@ -1,4 +1,4 @@
-MedCodeId	Term
-1476250012	Faecal elastase 1 level
-6516741000006112	Fecal elastase 1 level
-6516731000006119	Faecal elastase 1 level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+1476250012	Faecal elastase 1 level	61009	1	1
+6516731000006119	Faecal elastase 1 level	1	1	1
+6516741000006112	Fecal elastase 1 level	NA	1	0

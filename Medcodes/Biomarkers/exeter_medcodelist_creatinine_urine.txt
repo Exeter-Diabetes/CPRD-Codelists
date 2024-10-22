@@ -1,4 +1,4 @@
-MedCodeId	Term
-75441000006115	Urine creatinine level
-5522661000006114	Urine creatinine measurement
-5522651000006112	Creatinine measurement, urine
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+75441000006115	Urine creatinine level	19348265	1	1
+5522651000006112	Creatinine measurement, urine	4	1	1
+5522661000006114	Urine creatinine measurement	NA	1	0

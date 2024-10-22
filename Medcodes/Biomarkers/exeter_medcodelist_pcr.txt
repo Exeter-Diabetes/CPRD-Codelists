@@ -1,10 +1,10 @@
-MedCodeId	Term
-457416018	Urine protein/creatinine ratio
-1882291000006111	Test request : Urine protein/creatinine ratio
-2397861000000112	Random urine protein:creatinine ratio
-1780297017	Urine protein/creatinine index
-6030881000006117	Urine protein/creatinine ratio
-6030871000006115	Urine protein/creatinine ratio measurement
-8340321000006117	Random urine protein:creatinine ratio measurement
-8340331000006119	Random urine protein:creatinine ratio
-6648451000006117	Urine protein/creatinine index
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+457416018	Urine protein/creatinine ratio	2138600	1	1
+2397861000000112	Random urine protein:creatinine ratio	338962	1	1
+1780297017	Urine protein/creatinine index	61730	1	1
+1882291000006111	Test request : Urine protein/creatinine ratio	8557	1	1
+6030881000006117	Urine protein/creatinine ratio	43	1	1
+6648451000006117	Urine protein/creatinine index	1	1	1
+6030871000006115	Urine protein/creatinine ratio measurement	NA	1	0
+8340321000006117	Random urine protein:creatinine ratio measurement	NA	1	0
+8340331000006119	Random urine protein:creatinine ratio	NA	1	0

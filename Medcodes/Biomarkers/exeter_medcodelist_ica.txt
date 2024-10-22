@@ -1,7 +1,10 @@
-MedCodeId	Term
-3543031000006113	Islet cell antibody measurement
-3543061000006116	Islet cell cytoplasma antibody
-3543071000006111	Islet cell antibody level
-3543041000006115	Antibody to islet cells of pancreas measurement
-134341000000110	Islet cell antibody level
-3543051000006118	ICA
+MedCodeId	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+134341000000110	43a3	43a3.00	Islet cell antibody level	1016671000000104	2583301000000110		33
+2501971000000115	43ax	43ax.00	Serum islet antigen 2 antibody concentration	1011041000000105	2552021000000115		33
+3543031000006113	^ESCTIS354303		Islet cell antibody measurement	64135003	1489986010		31
+3543041000006115	^ESCTAN354304		Antibody to islet cells of pancreas measurement	64135003	106615014		31
+3543051000006118	^ESCTIC354305		ICA	64135003	1495373015		31
+3543061000006116	^ESCTIS354306		Islet cell cytoplasma antibody	64135003	1495374014		31
+3543071000006111	^ESCTIS354307		Islet cell antibody level	64135003	134341000000110		31
+4283971000006114	^ESCTAN428397		Anti-pancreatic islet cell antibody	117199004	180252010		31
+4283991000006110	^ESCTIS428399		Islet cell antibody	117199004	1220332013		31

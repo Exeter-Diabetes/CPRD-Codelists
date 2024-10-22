@@ -1,12 +1,12 @@
-MedCodeId	Term
-1484985012	Plasma total cholesterol level
-1879211000006117	Test request : Serum cholesterol
-150921000006118	Serum cholesterol level
-259239018	Serum cholesterol studies
-2478443019	Serum total cholesterol level
-6516791000006115	Plasma total cholesterol level
-259252011	Serum cholesterol NOS
-6831591000006111	Serum total cholesterol measurement
-6831601000006115	Serum total cholesterol level
-186091018	Total cholesterol measurement
-405621000000116	Serum fasting total cholesterol level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+150921000006118	Serum cholesterol level	92144907	1	1
+2478443019	Serum total cholesterol level	8476820	1	1
+1484985012	Plasma total cholesterol level	3796711	1	1
+259252011	Serum cholesterol NOS	221796	1	1
+259239018	Serum cholesterol studies	156194	1	1
+1879211000006117	Test request : Serum cholesterol	103733	1	1
+6831601000006115	Serum total cholesterol level	130	1	1
+6831591000006111	Serum total cholesterol measurement	58	1	1
+6516791000006115	Plasma total cholesterol level	NA	1	0
+186091018	Total cholesterol measurement	NA	1	0
+405621000000116	Serum fasting total cholesterol level	NA	1	0

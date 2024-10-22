@@ -1,51 +1,51 @@
-medcodeid	term_medcode
-458823013	Average night interval diastolic blood pressure
-4556621000006110	On examination - Diastolic blood pressure reading
-11924381000006114	O/E - Diastolic BP reading
-4556631000006113	On examination - Diastolic BP reading
-2533636015	Average home diastolic blood pressure
-1780183016	Standing diastolic blood pressure
-2159156012	Sitting diastolic blood pressure
-2159158013	Lying diastolic blood pressure
-458825018	Average 24 hour diastolic blood pressure
-458824019	Average day interval diastolic blood pressure
-5527231000006116	DBP - Diastolic blood pressure
-5527221000006119	DAP - Diastolic arterial pressure
-5527241000006114	Diastolic arterial pressure
-5527211000006110	Diastolic blood pressure
-458816012	Average diastolic blood pressure
-298311000000112	Ambulatory diastolic blood pressure
-8057991000006115	Ambulatory diastolic BP (blood pressure)
-2869181000006114	High diastolic arterial pressure
-2869191000006112	Increased diastolic blood pressure
-2869211000006113	High diastolic arterial
-2869171000006111	Increased diastolic arterial pressure
-2869201000006110	Increased diastolic arterial
-3188161000006112	Low diastolic arterial
-3188121000006118	Decreased diastolic arterial pressure
-3188151000006110	Decreased diastolic arterial
-3188141000006113	Decreased diastolic blood pressure
-3188131000006115	Low diastolic arterial pressure
-3306801000006114	Abnormal diastolic arterial
-3306781000006110	Abnormal diastolic arterial pressure
-3306791000006113	Abnormal diastolic blood pressure
-3372531000006111	Normal diastolic arterial pressure
-3372541000006118	Normal diastolic blood pressure
-3372551000006116	Normal diastolic arterial
-6046181000006111	Minimum diastolic blood pressure
-6046191000006114	Maximum diastolic blood pressure
-6046211000006110	Minimum day interval diastolic blood pressure
-6046221000006119	Minimum night interval diastolic blood pressure
-6046231000006116	Minimum 24 hour diastolic blood pressure
-6046241000006114	Maximum night interval diastolic blood pressure
-6046251000006111	Maximum day interval diastolic blood pressure
-6046261000006113	Maximum 24 hour diastolic blood pressure
-6046321000006114	24 hour diastolic blood pressure
-2418921000000115	Baseline diastolic blood pressure
-4660721000006115	Non-invasive diastolic blood pressure
-4660711000006111	Non-invasive diastolic arterial pressure
-5295081000006115	Invasive diastolic arterial pressure
-5295091000006117	Invasive diastolic blood pressure
-7321231000006110	Diastolic blood pressure on admission
-7635351000006119	Diastolic blood pressure of neonate at birth
-619931000006119	Diastolic arterial pressure
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+619931000006119	Diastolic arterial pressure	376729291	1	1
+2533636015	Average home diastolic blood pressure	2887351	1	1
+1780183016	Standing diastolic blood pressure	1121919	1	1
+2159156012	Sitting diastolic blood pressure	810910	1	1
+458825018	Average 24 hour diastolic blood pressure	301609	1	1
+458824019	Average day interval diastolic blood pressure	227031	1	1
+11924381000006114	O/E - Diastolic BP reading	145567	1	1
+458823013	Average night interval diastolic blood pressure	143418	1	1
+2159158013	Lying diastolic blood pressure	143256	1	1
+298311000000112	Ambulatory diastolic blood pressure	103027	1	1
+458816012	Average diastolic blood pressure	17532	1	1
+5527211000006110	Diastolic blood pressure	7926	1	1
+2418921000000115	Baseline diastolic blood pressure	6206	1	1
+6046321000006114	24 hour diastolic blood pressure	511	1	1
+6046181000006111	Minimum diastolic blood pressure	300	1	1
+6046191000006114	Maximum diastolic blood pressure	119	1	1
+6046261000006113	Maximum 24 hour diastolic blood pressure	119	1	1
+6046231000006116	Minimum 24 hour diastolic blood pressure	97	1	1
+4660711000006111	Non-invasive diastolic arterial pressure	68	1	1
+3372531000006111	Normal diastolic arterial pressure	56	1	1
+6046241000006114	Maximum night interval diastolic blood pressure	34	1	1
+6046221000006119	Minimum night interval diastolic blood pressure	33	1	1
+6046211000006110	Minimum day interval diastolic blood pressure	32	1	1
+6046251000006111	Maximum day interval diastolic blood pressure	32	1	1
+2869171000006111	Increased diastolic arterial pressure	13	1	1
+5295081000006115	Invasive diastolic arterial pressure	8	1	1
+3306781000006110	Abnormal diastolic arterial pressure	6	1	1
+3188121000006118	Decreased diastolic arterial pressure	4	1	1
+5527241000006114	Diastolic arterial pressure	3	1	1
+5527231000006116	DBP - Diastolic blood pressure	2	1	1
+4556631000006113	On examination - Diastolic BP reading	1	1	1
+2869181000006114	High diastolic arterial pressure	1	1	1
+3306791000006113	Abnormal diastolic blood pressure	1	1	1
+3372551000006116	Normal diastolic arterial	1	1	1
+4556621000006110	On examination - Diastolic blood pressure reading	NA	1	0
+5527221000006119	DAP - Diastolic arterial pressure	NA	1	0
+8057991000006115	Ambulatory diastolic BP (blood pressure)	NA	1	0
+2869191000006112	Increased diastolic blood pressure	NA	1	0
+2869211000006113	High diastolic arterial	NA	1	0
+2869201000006110	Increased diastolic arterial	NA	1	0
+3188161000006112	Low diastolic arterial	NA	1	0
+3188151000006110	Decreased diastolic arterial	NA	1	0
+3188141000006113	Decreased diastolic blood pressure	NA	1	0
+3188131000006115	Low diastolic arterial pressure	NA	1	0
+3306801000006114	Abnormal diastolic arterial	NA	1	0
+3372541000006118	Normal diastolic blood pressure	NA	1	0
+4660721000006115	Non-invasive diastolic blood pressure	NA	1	0
+5295091000006117	Invasive diastolic blood pressure	NA	1	0
+7321231000006110	Diastolic blood pressure on admission	NA	1	0
+7635351000006119	Diastolic blood pressure of neonate at birth	NA	1	0

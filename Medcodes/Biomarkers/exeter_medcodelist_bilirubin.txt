@@ -1,12 +1,12 @@
-MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
-258906017	Serum bilirubin level	44E	44E..00	999691000000104	2577161000000111		34
-475624016	Total bilirubin level	44E3	44E3.00	1026761000000106	2600241000000117		34
-458177010	Plasma total bilirubin level	44E9	44E9.00	997561000000103	2581821000000111		34
-457965015	Serum total bilirubin level	44EC	44EC.00	997591000000109	2569221000000113		34
-4599101000006110	Serum bilirubin measurement	^ESCTSE459910		166610007	258905018		31
-4599121000006117	SB - Serum bilirubin	^ESCTSB459912		166610007	1221389015		31
-4599111000006113	Serum bilirubin level	^ESCTSE459911		166610007	258906017		31
-6039951000006112	Plasma total bilirubin measurement	^ESCTPL603995		313951004	458178017		31
-6039961000006114	Plasma total bilirubin level	^ESCTPL603996		313951004	458177010		31
-6036881000006115	Serum total bilirubin level	^ESCTSE603688		313840000	457965015		31
-6036871000006118	Serum total bilirubin measurement	^ESCTSE603687		313840000	457964016		31
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+457965015	Serum total bilirubin level	87508645	1	1
+258906017	Serum bilirubin level	38915376	1	1
+458177010	Plasma total bilirubin level	5614184	1	1
+475624016	Total bilirubin level	3388813	1	1
+6036881000006115	Serum total bilirubin level	28	1	1
+4599111000006113	Serum bilirubin level	11	1	1
+4599121000006117	SB - Serum bilirubin	8	1	1
+6039961000006114	Plasma total bilirubin level	1	1	1
+6036871000006118	Serum total bilirubin measurement	1	1	1
+4599101000006110	Serum bilirubin measurement	NA	1	0
+6039951000006112	Plasma total bilirubin measurement	NA	1	0

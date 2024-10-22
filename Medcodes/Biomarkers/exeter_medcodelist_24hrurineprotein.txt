@@ -1,9 +1,9 @@
-MedCodeId	Term
-129931000000118	24 hour urine protein output
-1822701000006118	Test request : 24 hour urine protein excretion test
-187311000000113	24 hour urine protein excretion test
-2809681000006115	Protein measurement, urine, quantitative 24 hour
-2809691000006117	24 hour urine protein output
-2809711000006119	24 hour urine protein excretion test
-2809701000006117	24 hour urine protein exc test
-8409481000006115	Protein measurement, urine, quantitative 24 hour
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+129931000000118	24 hour urine protein output	526718	1	1
+187311000000113	24 hour urine protein excretion test	15419	1	1
+1822701000006118	Test request : 24 hour urine protein excretion test	87	1	1
+2809681000006115	Protein measurement, urine, quantitative 24 hour	NA	1	0
+2809691000006117	24 hour urine protein output	NA	1	0
+2809711000006119	24 hour urine protein excretion test	NA	1	0
+2809701000006117	24 hour urine protein exc test	NA	1	0
+8409481000006115	Protein measurement, urine, quantitative 24 hour	NA	1	0

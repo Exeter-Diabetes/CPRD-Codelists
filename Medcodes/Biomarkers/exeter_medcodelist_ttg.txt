@@ -1,16 +1,16 @@
-MedCodeId	Term
-216618018	Anti-tissue transglutaminase level
-2478448011	Tissue transglutaminase IgA level
-6831741000006112	Tissue transglutaminase IgG level
-6831711000006113	Tissue transglutaminase IgA level
-4510971000006114	Anti-tissue transglutnase lev
-6831721000006117	Tissue transglutaminase immunoglobulin A measurement
-6831701000006110	Tissue transglutaminase IgA measurement
-6522601000006111	Serum tissue transglutaminase level
-1485461017	Serum tissue transglutaminase level
-2478449015	Tissue transglutaminase IgG level
-6831731000006119	Tissue transglutaminase IgG measurement
-6522611000006114	Ser tiss transglutaminase lev
-1824361000006112	Test request : Serum tissue transglutaminase level
-6831751000006114	Tissue transglutaminase immunoglobulin G measurement
-4510961000006119	Anti-tissue transglutaminase level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+2478448011	Tissue transglutaminase IgA level	2583057	1	1
+216618018	Anti-tissue transglutaminase level	1322229	1	1
+1485461017	Serum tissue transglutaminase level	482377	1	1
+2478449015	Tissue transglutaminase IgG level	261350	1	1
+1824361000006112	Test request : Serum tissue transglutaminase level	9706	1	1
+4510961000006119	Anti-tissue transglutaminase level	8	1	1
+6831711000006113	Tissue transglutaminase IgA level	3	1	1
+6522601000006111	Serum tissue transglutaminase level	3	1	1
+6831741000006112	Tissue transglutaminase IgG level	NA	1	0
+4510971000006114	Anti-tissue transglutnase lev	NA	1	0
+6831721000006117	Tissue transglutaminase immunoglobulin A measurement	NA	1	0
+6831701000006110	Tissue transglutaminase IgA measurement	NA	1	0
+6831731000006119	Tissue transglutaminase IgG measurement	NA	1	0
+6522611000006114	Ser tiss transglutaminase lev	NA	1	0
+6831751000006114	Tissue transglutaminase immunoglobulin G measurement	NA	1	0

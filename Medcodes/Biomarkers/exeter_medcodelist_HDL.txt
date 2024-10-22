@@ -1,15 +1,15 @@
-MedCodeId	Term
-259232010	Serum high density lipoprotein cholesterol level
-1822511000006110	Test request : Serum HDL cholesterol level
-259242012	Serum fasting HDL (high density lipoprotein) cholesterol level
-259243019	Serum random HDL (high density lipoprotein) cholesterol level
-259564016	Plasma random HDL (high density lipoprotein) cholesterol level
-259567011	Plasma fasting HDL (high density lipoprotein) cholesterol level
-458313013	Plasma HDL (high density lipoprotein) cholesterol level
-8385731000006118	Serum HDL (high density lipoprotein) cholesterol level
-4600211000006117	Serum HDL cholesterol level
-4600201000006115	Serum HDL cholesterol measurement
-4600221000006113	Serum high density lipoprotein cholesterol measurement
-6041641000006116	Plasma HDL cholesterol measurement
-6041661000006117	Plasma high density lipoprotein cholesterol measurement
-6041651000006119	Plasma HDL cholesterol level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+259232010	Serum high density lipoprotein cholesterol level	81060754	1	1
+458313013	Plasma HDL (high density lipoprotein) cholesterol level	3505900	1	1
+259242012	Serum fasting HDL (high density lipoprotein) cholesterol level	269747	1	1
+259243019	Serum random HDL (high density lipoprotein) cholesterol level	170445	1	1
+1822511000006110	Test request : Serum HDL cholesterol level	152386	1	1
+259567011	Plasma fasting HDL (high density lipoprotein) cholesterol level	54234	1	1
+259564016	Plasma random HDL (high density lipoprotein) cholesterol level	28975	1	1
+4600211000006117	Serum HDL cholesterol level	280	1	1
+8385731000006118	Serum HDL (high density lipoprotein) cholesterol level	242	1	1
+4600201000006115	Serum HDL cholesterol measurement	37	1	1
+6041651000006119	Plasma HDL cholesterol level	1	1	1
+4600221000006113	Serum high density lipoprotein cholesterol measurement	NA	1	0
+6041641000006116	Plasma HDL cholesterol measurement	NA	1	0
+6041661000006117	Plasma high density lipoprotein cholesterol measurement	NA	1	0

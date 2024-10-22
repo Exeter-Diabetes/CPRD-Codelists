@@ -1,15 +1,15 @@
-MedCodeId	Term
-128011000000115	ALT/SGPT serum level
-1484990010	Plasma alanine aminotransferase level
-1897721000006117	Test request : Serum alanine aminotransferase level
-306221000000119	Serum alanine aminotransferase level
-3057161000006110	Glutamic pyruvate transaminase measurement
-3057171000006115	GPT measurement
-3057141000006111	ALT measurement
-3057181000006117	ALT/SGPT serum level
-3057131000006118	Alanine aminotransferase measurement
-3057151000006113	SGPT measurement
-8061201000006116	Serum ALT level
-8061191000006119	Serum alanine aminotransferase level
-6516861000006118	Plasma alanine aminotransferase level
-6516871000006113	Plasma ALT level
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+306221000000119	Serum alanine aminotransferase level	79690277	1	1
+128011000000115	ALT/SGPT serum level	38582588	1	1
+1484990010	Plasma alanine aminotransferase level	6442927	1	1
+3057131000006118	Alanine aminotransferase measurement	818	1	1
+1897721000006117	Test request : Serum alanine aminotransferase level	788	1	1
+8061201000006116	Serum ALT level	719	1	1
+6516861000006118	Plasma alanine aminotransferase level	88	1	1
+8061191000006119	Serum alanine aminotransferase level	40	1	1
+3057151000006113	SGPT measurement	2	1	1
+3057161000006110	Glutamic pyruvate transaminase measurement	NA	1	0
+3057171000006115	GPT measurement	NA	1	0
+3057141000006111	ALT measurement	NA	1	0
+3057181000006117	ALT/SGPT serum level	NA	1	0
+6516871000006113	Plasma ALT level	NA	1	0

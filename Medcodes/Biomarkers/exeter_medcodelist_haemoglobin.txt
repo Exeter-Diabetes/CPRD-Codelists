@@ -1,11 +1,11 @@
-MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
-813551000006113	Haemoglobin estimation	423	423..00	1022431000000105	2553471000000116		11
-411758010	Hb estimation	423-1	423..11	1022431000000105	2553471000000116		11
-257200015	Haemoglobin estimation NOS	423Z	423Z.00	1022431000000105	2553471000000116		11
-5519211000006113	Haemoglobin estimation level	^ESCTHA551921		271026005	405576017		11
-5519191000006112	Hemoglobin estimation level	^ESCTHE551919		271026005	405574019		31
-5519201000006110	Hemoglobin level estimation	^ESCTHE551920		271026005	405575018		31
-5519181000006114	Haemoglobin level estimation	^ESCTHA551918		271026005	1206388019		31
-5519221000006117	Hb estimation	^ESCTHB551922		271026005	3491906013		11
-7266781000006112	Measurement of total hemoglobin concentration using dipstick	^ESCTME726678		442673006	2818652012		31
-7266771000006114	Measurement of total haemoglobin concentration using dipstick	^ESCTME726677		442673006	2818651017		31
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+813551000006113	Haemoglobin estimation	159159023	1	1
+411758010	Hb estimation	699778	1	1
+257200015	Haemoglobin estimation NOS	65312	1	1
+5519181000006114	Haemoglobin level estimation	41612	1	1
+5519221000006117	Hb estimation	7818	1	1
+5519211000006113	Haemoglobin estimation level	144	1	1
+5519191000006112	Hemoglobin estimation level	3	1	1
+5519201000006110	Hemoglobin level estimation	3	1	1
+7266781000006112	Measurement of total hemoglobin concentration using dipstick	NA	1	0
+7266771000006114	Measurement of total haemoglobin concentration using dipstick	NA	1	0
