@@ -1,24 +1,26 @@
-MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	category
-249732015	No family history diabetes	1228	1228.00	160274005	249732015		7	negative
-249794016	FH: Diabetes mellitus	1252	1252.00	160303001	249794016		7	positive - unspecified
-250064017	FH: Diabetes in pregnancy	12G2	12G2.00	160402005	250064017		7	positive - gestational
-1221255018	No significant family history of diabetes	11542	1154200	160274005	1221255018		7	negative
-2549389017	FH: Diabetes mellitus in first degree relative	1253	1253.00	416855002	2549389017		7	positive - unspecified
-2773644011	Family history of diabetes mellitus type 1	12520	1252000	430678008	2773644011		7	positive - type 1
-2773645012	Family history of diabetes mellitus type 2	12521	1252100	430679000	2773645012		7	positive - type 2
-857531000006117	No FH: diabetes	EMISNOFH5		857531000006101	857531000006117		7	negative
-958041000006113	FH: Diabetes mellitus brother	EMISNQFH4		958041000006109	958041000006113		7	positive - sibling
-418920011	Diabetic child	13L4-1	13L4.11	444094009	2840938016		7	positive - child
-1227610014	[V]Family history of diabetes mellitus (DM)	ZV180-1	ZV18011	160303001	249794016		7	positive - unspecified
-339351000006110	[V]Family history of diabetes mellitus	ZV180	ZV18000	160303001	2666212011		7	positive - unspecified
-4530811000006117	Family history: Diabetes in pregnancy	^ESCTFA453081		160402005	2667811019		7	positive - gestational
-4528531000006114	No family history of diabetes	^ESCTNO452853		160274005	249733013		7	negative
-6898471000006112	Family history: Diabetes mellitus in first degree relative	^ESCTFA689847		416855002	2621891010		7	positive - unspecified
-958021000006118	FH: Diabetes mellitus child	EMISNQFH2		958021000006102	958021000006118		7	positive - child
-958031000006115	FH: Diabetes mellitus sister	EMISNQFH3		958031000006104	958031000006115		7	positive - sibling
-958051000006110	FH: Diabetes mellitus father	EMISNQFH5		958051000006106	958051000006110		7	positive - parent
-371002011	Diabetic relative	13LZ-1	13LZ.11	105452009	169519017		7	positive - unspecified
-460375010	[V]Family history of diabetes mellitus	ZV198	ZV19800	160303001	2666212011		7	positive - unspecified
-958011000006114	FH: Diabetes mellitus in first degree relative	EMISNQFH1		958011000006105	958011000006114		7	positive - unspecified
-958061000006112	FH: Diabetes mellitus mother	EMISNQFH6		958061000006108	958061000006112		7	positive - parent
-1751441000006116	Family history of diabetes mellitus type II	12521-1	1252111	430679000	2773645012		7	positive - type 2
+MedCodeId	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	category
+249732015	1228	1228.00	No family history diabetes	160274005	249732015	NA	7	negative
+249794016	1252	1252.00	FH: Diabetes mellitus	160303001	249794016	NA	7	positive - unspecified
+250064017	12G2	12G2.00	FH: Diabetes in pregnancy	160402005	250064017	NA	7	positive - gestational
+371002011	13LZ-1	13LZ.11	Diabetic relative	105452009	169519017	NA	7	positive - unspecified
+418920011	13L4-1	13L4.11	History of diabetes mellitus in child of subject	444094009	2840938016	NA	7	positive - child
+460375010	ZV198	ZV19800	[V]Family history of diabetes mellitus	160303001	2666212011	NA	7	positive - unspecified
+1221255018	11542	1154200	No significant family history of diabetes	160274005	1221255018	NA	7	negative
+1227610014	ZV180-1	ZV18011	[V]Family history of diabetes mellitus (DM)	160303001	249794016	NA	7	positive - unspecified
+2549389017	1253	1253.00	FH: Diabetes mellitus in first degree relative	416855002	2549389017	NA	7	positive - unspecified
+2773644011	12520	1252000	Family history of diabetes mellitus type 1	430678008	2773644011	NA	7	positive - type 1
+2773645012	12521	1252100	Family history of diabetes mellitus type 2	430679000	2773645012	NA	7	positive - type 2
+339351000006110	ZV180	ZV18000	Family history: Diabetes mellitus	160303001	2666212011	NA	7	positive - unspecified
+857531000006117	EMISNOFH5	NA	No FH: diabetes	857531000006101	857531000006117	NA	7	negative
+958011000006114	EMISNQFH1	NA	FH: Diabetes mellitus in first degree relative	958011000006105	958011000006114	NA	7	positive - unspecified
+958021000006118	EMISNQFH2	NA	FH: Diabetes mellitus child	958021000006102	958021000006118	NA	7	positive - child
+958031000006115	EMISNQFH3	NA	FH: Diabetes mellitus sister	958031000006104	958031000006115	NA	7	positive - sister
+958041000006113	EMISNQFH4	NA	FH: Diabetes mellitus brother	958041000006109	958041000006113	NA	7	positive - brother
+958051000006110	EMISNQFH5	NA	FH: Diabetes mellitus father	958051000006106	958051000006110	NA	7	positive - father
+958061000006112	EMISNQFH6	NA	FH: Diabetes mellitus mother	958061000006108	958061000006112	NA	7	positive - mother
+1751441000006116	12521-1	1252111	Family history of diabetes mellitus type II	430679000	2773645012	NA	7	positive - type 2
+6898471000006112	^ESCTFA689847	NA	Family history: Diabetes mellitus in first degree relative	416855002	2621891010	NA	7	positive - unspecified
+13788911000006117	^ESCT1378891	NA	Family history of diabetes mellitus	160303001	3770042014	NA	7	positive - unspecified
+13831691000006117	^ESCT1383169	NA	Family history of diabetes mellitus in first degree relative	416855002	3770045011	NA	7	positive - unspecified
+4530811000006117	^ESCTFA453081	NA	Family history: Diabetes in pregnancy	160402005	2667811019	NA	7	positive - gestational
+4528531000006114	^ESCTNO452853	NA	No family history of diabetes	160274005	249733013	NA	7	negative
