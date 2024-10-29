@@ -1,45 +1,46 @@
-medcodeid	term_medcode
-251692018	H/O: TIA
-4540591000006113	History of transient ischemic attack
-395783012	Transient ischaemic attack
-395788015	Transient cerebral ischaemia
-95931000006111	Transient cerebral ischaemia NOS
-5492201000006111	TIA - Transient ischaemic attack
-416991000006112	Transient cerebral ischemia
-5492221000006118	Transient ischemic attack
-5492181000006110	Temporary cerebral vascular dysfunction
-300348012	Other transient cerebral ischaemia
-5492171000006112	TIA
-300349016	Transient cerebral ischaemia NOS
-988951000006117	Transient Ischaemic Attacks
-11920121000006117	Transient cerebral ischemia
-5011501000006111	Anterior circulation transient ischemic attack
-5011491000006115	Anterior circulation transient ischaemic attack
-345684012	Carotid territory transient ischaemic attack
-5011511000006114	Carotid territory transient ischemic attack
-5011541000006113	Posterior circulation transient ischemic attack
-5011521000006118	Vertebrobasilar territory transient ischaemic attack
-5011551000006110	Posterior circulation transient ischaemic attack
-5011531000006115	Vertebrobasilar territory transient ischemic attack
-1667741000000110	[V]Personal history of transient ischaemic attack
-8231151000006110	Personal history of transient ischaemic attack
-249970011	FH: TIA
-7064701000006118	Transient cerebral ischemia due to atrial fibrillation
-7064691000006118	Transient cerebral ischaemia due to atrial fibrillation
-7289131000006116	Recurrent transient cerebral ischemic attack
-7289121000006119	Recurrent transient cerebral ischaemic attack
-7483201000006116	Suspected transient ischemic attack
-1704681000000110	Suspected transient ischaemic attack
-11929301000006118	Transient ischaemic attack clinical management plan
-7586791000006118	Transient ischemic attack clinical management plan
-7674171000006113	Transient ischaemic attack due to embolism
-7674181000006111	Transient ischemic attack due to embolism
-8044131000006112	History of transient ischemic attack due to embolism
-8044121000006114	History of transient ischaemic attack due to embolism
-1148331000000111	Transient ischaemic attack clinical management plan
-3517034010	Transient ischemic attack clinical management plan
-145925010	Amaurosis fugax
-102489017	Drop attack
-67511000006117	Vertebro-basilar insufficiency
-884511000006111	Transient Ischaemic Attacks
-2171081000000116	H/O amaurosis fugax
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+395783012	Transient ischaemic attack	1090831	1	1
+395788015	Transient cerebral ischaemia	872459	1	1
+145925010	Amaurosis fugax	90592	1	1
+251692018	H/O: TIA	86987	1	1
+1704681000000110	Suspected transient ischaemic attack	37365	1	1
+67511000006117	Vertebro-basilar insufficiency	18580	1	1
+95931000006111	Transient cerebral ischaemia NOS	17889	1	1
+249970011	FH: TIA	16655	1	1
+102489017	Drop attack	11359	1	1
+300349016	Transient cerebral ischaemia NOS	7581	1	1
+884511000006111	Transient Ischaemic Attacks	2994	1	1
+345684012	Carotid territory transient ischaemic attack	1777	1	1
+300348012	Other transient cerebral ischaemia	1439	1	1
+2171081000000116	H/O amaurosis fugax	1297	1	1
+416991000006112	Transient cerebral ischemia	1279	1	1
+1148331000000111	Transient ischaemic attack clinical management plan	1250	1	1
+5492171000006112	TIA	1057	1	1
+8231151000006110	Personal history of transient ischaemic attack	930	1	1
+14068071000006114	History of transient ischaemic attack	880	0	1
+1667741000000110	[V]Personal history of transient ischaemic attack	854	1	1
+5011491000006115	Anterior circulation transient ischaemic attack	414	1	1
+5492221000006118	Transient ischemic attack	394	1	1
+5492201000006111	TIA - Transient ischaemic attack	184	1	1
+7289121000006119	Recurrent transient cerebral ischaemic attack	176	1	1
+7483201000006116	Suspected transient ischemic attack	112	1	1
+5011521000006118	Vertebrobasilar territory transient ischaemic attack	54	1	1
+11920121000006117	Transient cerebral ischemia	39	1	1
+5011501000006111	Anterior circulation transient ischemic attack	34	1	1
+5011551000006110	Posterior circulation transient ischaemic attack	23	1	1
+7064691000006118	Transient cerebral ischaemia due to atrial fibrillation	14	1	1
+5011541000006113	Posterior circulation transient ischemic attack	13	1	1
+988951000006117	Transient Ischaemic Attacks	12	1	1
+4540591000006113	History of transient ischemic attack	9	1	1
+7289131000006116	Recurrent transient cerebral ischemic attack	5	1	1
+5011531000006115	Vertebrobasilar territory transient ischemic attack	2	1	1
+3517034010	Transient ischemic attack clinical management plan	2	1	1
+5492181000006110	Temporary cerebral vascular dysfunction	1	1	1
+5011511000006114	Carotid territory transient ischemic attack	1	1	1
+7064701000006118	Transient cerebral ischemia due to atrial fibrillation	NA	1	0
+11929301000006118	Transient ischaemic attack clinical management plan	NA	1	0
+7586791000006118	Transient ischemic attack clinical management plan	NA	1	0
+7674171000006113	Transient ischaemic attack due to embolism	NA	1	0
+7674181000006111	Transient ischemic attack due to embolism	NA	1	0
+8044131000006112	History of transient ischemic attack due to embolism	NA	1	0
+8044121000006114	History of transient ischaemic attack due to embolism	NA	1	0

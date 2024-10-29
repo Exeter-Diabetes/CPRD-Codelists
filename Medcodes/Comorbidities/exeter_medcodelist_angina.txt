@@ -1,98 +1,99 @@
-medcodeid	term_medcode
-4540501000006118	History of angina pectoris
-251679016	H/O: angina pectoris
-264492012	Angina control
-264497018	Angina control NOS
-264493019	Angina control - good
-264494013	Angina control - poor
-264495014	Angina control - improving
-299758019	Stenocardia
-299765010	Angina pectoris NOS
-300874013	[X]Other forms of angina pectoris
-4775981000006112	Cardiac angina
-4776031000006115	Ischaemic heart disease - angina
-4776011000006114	AP - Angina pectoris
-4776021000006118	Ischemic heart disease - angina
-299757012	Angina pectoris
-4775971000006114	Angina
-4776001000006111	Anginal syndrome
-482941000006119	Angina pectoris NOS
-299763015	Angina decubitus NOS
-98087016	Angina decubitus
-3458791000006114	Anginal chest pain at rest
-498328016	Angina at rest
-482811000006113	Angina at rest
-59952018	Nocturnal angina
-5887611000006117	Exercise-induced angina
-442204010	Angina on effort
-5887631000006111	Exertional angina
-5887641000006118	Angina of effort
-264496010	Angina control - worsening
-494261017	Worsening angina
-72571000006115	Unstable angina
-2571571000006113	Preinfarction angina
-2571531000006110	Intermediate coronary syndrome
-7847015	Crescendo angina
-7845011	Unstable angina
-7844010	Preinfarction syndrome
-2571561000006118	Pre-infarction syndrome
-299741012	Preinfarction syndrome
-4943331000006119	Ischemic chest pain
-338974012	Ischaemic chest pain
-451370011	H/O: Angina in last year
-5974501000006114	History of angina in last year
-451425016	Antianginal therapy
-36036010	Syncope anginosa
-458410010	Post infarct angina
-350350014	New onset angina
-350348018	Stable angina
-2534674015	Chronic myocardial ischaemia
-6847871000006116	Chronic myocardial ischemia
-2537483013	Chronic coronary insufficiency
-459487012	Refractory angina
-32122016	Status anginosus
-3920021000006112	Coronary artery spasm angina
-3919991000006112	Prinzmetal angina
-3920001000006119	Variant angina pectoris
-3920011000006116	Variant angina
-1235225010	Prinzmetal's angina
-144819018	Variant angina pectoris
-299745015	Acute coronary insufficiency
-931961000006117	Acute coronary syndrome
-1752201000000116	Frequency of angina
-3499001000006116	Angina, class I
-3886751000006118	Angina, class III
-3951991000006119	Angina, class IV
-39773018	Coronary artery spasm
-2878031000006112	Angina pectoris with documented spasm
-2878041000006119	Coronary spasm
-3166141000006114	Angina, class II
-6360381000006116	Progressive Angina
-12276271000006112	Progressive angina
-6360391000006118	Atypical angina
-6360411000006118	Recurrent angina status post percutaneous transluminal coronary angioplasty
-6360401000006116	Recurrent angina after percutaneous transluminal coronary angioplasty
-6360431000006112	Recurrent angina status post coronary stent placement
-6360421000006114	Recurrent angina after coronary stent placement
-6360441000006119	Recurrent angina after coronary artery bypass graft
-6360451000006117	Recurrent angina status post coronary artery bypass graft
-6360471000006110	Recurrent angina status post rotational atherectomy
-6360461000006115	Recurrent angina post rotational atherectomy
-6360481000006113	Recurrent angina after directional coronary atherectomy
-6360491000006111	Recurrent angina status post directional coronary atherectomy
-7105241000006116	Typical angina
-7966951000006119	Diabetic angina pectoris associated with type 2 diabetes mellitus
-7966931000006114	Angina associated with type 2 diabetes mellitus
-7966941000006116	Angina associated with type II diabetes mellitus
-9868461000006110	Unstable angina co-occurrent and due to coronary arteriosclerosis
-9868481000006117	Angina co-occurrent and due to coronary arteriosclerosis
-9868511000006113	Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
-3516223013	Angina self management plan
-12125951000006116	Arteriosclerosis of autologous vein coronary artery bypass graft with angina
-12125961000006119	Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft
-12125971000006114	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
-12125981000006112	Arteriosclerosis of coronary artery bypass graft with unstable angina
-350379019	Cardiac syndrome X
-5056491000006117	Chest pain with normal coronary angiography
-494260016	Impending infarction
-1488382011	Acute coronary syndrome
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+299757012	Angina pectoris	3521352	1	1
+264493019	Angina control - good	489925	1	1
+1488382011	Acute coronary syndrome	217503	1	1
+7845011	Unstable angina	106366	1	1
+251679016	H/O: angina pectoris	105100	1	1
+264492012	Angina control	101040	1	1
+350348018	Stable angina	93364	1	1
+72571000006115	Unstable angina	75389	1	1
+482941000006119	Angina pectoris NOS	64900	1	1
+299765010	Angina pectoris NOS	52035	1	1
+264496010	Angina control - worsening	25317	1	1
+350379019	Cardiac syndrome X	21398	1	1
+264494013	Angina control - poor	19565	1	1
+442204010	Angina on effort	16731	1	1
+264495014	Angina control - improving	15562	1	1
+299741012	Preinfarction syndrome	13129	1	1
+39773018	Coronary artery spasm	12946	1	1
+299745015	Acute coronary insufficiency	10286	1	1
+7847015	Crescendo angina	9542	1	1
+494261017	Worsening angina	8230	1	1
+338974012	Ischaemic chest pain	7635	1	1
+264497018	Angina control NOS	7462	1	1
+7844010	Preinfarction syndrome	6697	1	1
+1235225010	Prinzmetal's angina	6575	1	1
+498328016	Angina at rest	5254	1	1
+451370011	H/O: Angina in last year	5021	1	1
+451425016	Antianginal therapy	4302	1	1
+350350014	New onset angina	3985	1	1
+2534674015	Chronic myocardial ischaemia	3357	1	1
+98087016	Angina decubitus	2427	1	1
+1752201000000116	Frequency of angina	2393	1	1
+5887611000006117	Exercise-induced angina	1830	1	1
+458410010	Post infarct angina	1471	1	1
+459487012	Refractory angina	1458	1	1
+4775971000006114	Angina	1430	1	1
+6360391000006118	Atypical angina	1366	1	1
+482811000006113	Angina at rest	1280	1	1
+2537483013	Chronic coronary insufficiency	853	1	1
+59952018	Nocturnal angina	852	1	1
+7105241000006116	Typical angina	594	1	1
+144819018	Variant angina pectoris	497	1	1
+300874013	[X]Other forms of angina pectoris	347	1	1
+5887631000006111	Exertional angina	235	1	1
+299763015	Angina decubitus NOS	229	1	1
+3920021000006112	Coronary artery spasm angina	222	1	1
+931961000006117	Acute coronary syndrome	206	1	1
+5056491000006117	Chest pain with normal coronary angiography	188	1	1
+36036010	Syncope anginosa	156	1	1
+3166141000006114	Angina, class II	136	1	1
+3919991000006112	Prinzmetal angina	77	1	1
+3920011000006116	Variant angina	58	1	1
+32122016	Status anginosus	50	1	1
+9868461000006110	Unstable angina co-occurrent and due to coronary arteriosclerosis	49	1	1
+4776031000006115	Ischaemic heart disease - angina	46	1	1
+299758019	Stenocardia	43	1	1
+3886751000006118	Angina, class III	42	1	1
+3499001000006116	Angina, class I	34	1	1
+3516223013	Angina self management plan	27	1	1
+12276271000006112	Progressive angina	23	1	1
+2571561000006118	Pre-infarction syndrome	15	1	1
+6360421000006114	Recurrent angina after coronary stent placement	15	1	1
+6360401000006116	Recurrent angina after percutaneous transluminal coronary angioplasty	10	1	1
+7966931000006114	Angina associated with type 2 diabetes mellitus	10	1	1
+4776001000006111	Anginal syndrome	9	1	1
+6360441000006119	Recurrent angina after coronary artery bypass graft	9	1	1
+494260016	Impending infarction	9	1	1
+2878041000006119	Coronary spasm	7	1	1
+12125971000006114	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft	7	1	1
+4540501000006118	History of angina pectoris	4	1	1
+4776021000006118	Ischemic heart disease - angina	4	1	1
+3458791000006114	Anginal chest pain at rest	4	1	1
+5887641000006118	Angina of effort	4	1	1
+4775981000006112	Cardiac angina	3	1	1
+3951991000006119	Angina, class IV	2	1	1
+9868481000006117	Angina co-occurrent and due to coronary arteriosclerosis	2	1	1
+14856811000006118	Recurrent angina following placement of coronary artery stent	2	0	1
+2571531000006110	Intermediate coronary syndrome	1	1	1
+3920001000006119	Variant angina pectoris	1	1	1
+12125951000006116	Arteriosclerosis of autologous vein coronary artery bypass graft with angina	1	1	1
+4776011000006114	AP - Angina pectoris	NA	1	0
+2571571000006113	Preinfarction angina	NA	1	0
+4943331000006119	Ischemic chest pain	NA	1	0
+5974501000006114	History of angina in last year	NA	1	0
+6847871000006116	Chronic myocardial ischemia	NA	1	0
+2878031000006112	Angina pectoris with documented spasm	NA	1	0
+6360381000006116	Progressive Angina	NA	1	0
+6360411000006118	Recurrent angina status post percutaneous transluminal coronary angioplasty	NA	1	0
+6360431000006112	Recurrent angina status post coronary stent placement	NA	1	0
+6360451000006117	Recurrent angina status post coronary artery bypass graft	NA	1	0
+6360471000006110	Recurrent angina status post rotational atherectomy	NA	1	0
+6360461000006115	Recurrent angina post rotational atherectomy	NA	1	0
+6360481000006113	Recurrent angina after directional coronary atherectomy	NA	1	0
+6360491000006111	Recurrent angina status post directional coronary atherectomy	NA	1	0
+7966951000006119	Diabetic angina pectoris associated with type 2 diabetes mellitus	NA	1	0
+7966941000006116	Angina associated with type II diabetes mellitus	NA	1	0
+9868511000006113	Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft	NA	1	0
+12125961000006119	Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft	NA	1	0
+12125981000006112	Arteriosclerosis of coronary artery bypass graft with unstable angina	NA	1	0

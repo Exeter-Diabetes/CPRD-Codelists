@@ -1,570 +1,582 @@
-medcodeid	term_medcode	category
-106392017	Basilar artery syndrome	ischaemic
-11843931000006117	Cerebrovascular accident due to stenosis of right carotid artery	ischaemic
-11843941000006110	Cerebrovascular accident due to stenosis of left carotid artery	ischaemic
-11865051000006118	Cerebrovascular accident due to occlusion of right carotid artery	ischaemic
-118689010	Cerebral thrombosis	ischaemic
-11878511000006113	Cerebrovascular accident due to occlusion of cerebral artery	ischaemic
-11903571000006110	Stroke due to intracerebral haemorrhage	haemorrhagic
-11919571000006110	[X]Other intracerebral haemorrhage	haemorrhagic
-11923791000006114	Subarachnoid hemorrhage following injury without open intracranial wound	haemorrhagic
-1212072018	Occlusive stroke	ischaemic
-12222971000006119	Occlusion of precerebral artery	ischaemic
-12223101000006118	Intracerebral haemorrhage	haemorrhagic
-12223111000006115	Intracerebral hemorrhage	haemorrhagic
-12223121000006111	ICH - intracerebral haemorrhage	haemorrhagic
-12223131000006114	ICH - intracerebral hemorrhage	haemorrhagic
-1222398015	Cerebral arterial occlusion	ischaemic
-122361000006113	Stroke due to cerebral arterial occlusion	ischaemic
-122371000006118	Cerebral haemorrhage	haemorrhagic
-122401000006115	Stroke unspecified	ischaemic
-1227591017	[V]Personal history of stroke	ischaemic
-1227592012	[V]Personal history of cerebrovascular accident (CVA)	ischaemic
-123281000006117	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	haemorrhagic
-123291000006119	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	haemorrhagic
-123301000006118	Subarach h'ge inj + open intracran wnd+LOC unspec duration	haemorrhagic
-123311000006115	Subarach h'ge inj no open intracran wnd + concussion unspec	haemorrhagic
-123321000006111	Subarach h'ge inj no open intracran wnd+>24hrs LOC-restored	haemorrhagic
-123331000006114	Subarach h'ge inj no open intracran wnd+LOC unspec duration	haemorrhagic
-123341000006116	Subarachnoid haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)	haemorrhagic
-123351000006119	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	haemorrhagic
-123361000006117	Subarachnoid h'ge inj + open intracran wound + unspec consc	haemorrhagic
-123371000006112	Subarachnoid haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	haemorrhagic
-123381000006110	Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness	haemorrhagic
-123391000006113	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc	haemorrhagic
-123401000006110	Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery	haemorrhagic
-123411000006113	Subarachnoid h'ge inj no open intracran wnd+no loss consc	haemorrhagic
-123421000006117	Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC	haemorrhagic
-123431000006119	Subarachnoid h'ge inj no open intracran wound + unspec consc	haemorrhagic
-123441000006112	Subarachnoid haemorrh from intracranial artery, unspecif	haemorrhagic
-123481000006118	Subarachnoid haemorrhage from anterior communicating artery	haemorrhagic
-123491000006115	Subarachnoid haemorrhage from basilar artery	haemorrhagic
-123511000006114	Subarachnoid haemorrhage from middle cerebral artery	haemorrhagic
-123521000006118	Subarachnoid haemorrhage from posterior communicating artery	haemorrhagic
-125470015	Cerebral embolism	ischaemic
-12722481000006116	Right sided intracerebral haemorrhage, unspecified	haemorrhagic
-12758611000006110	Right sided intracerebral hemorrhage, unspecified	haemorrhagic
-12761901000006117	Subarachnoid hemorrhage	haemorrhagic
-12762021000006116	Cerebral hemorrhage	haemorrhagic
-13031191000006112	Cerebral hemorrhage	haemorrhagic
-130375018	Lateral medullary syndrome	ischaemic
-158118014	Cerebellar infarction	ischaemic
-163261000006119	Right sided intracerebral haemorrhage, unspecified	haemorrhagic
-200591000006119	Puerperal cerebrovascular disorder - delivered with postnatal complication	ischaemic
-200621000006117	Puerperal cerebrovascular disorder with antenatal complication	ischaemic
-200631000006119	Puerperal cerebrovascular disorder with postnatal complication	ischaemic
-218511000000117	Infarction - cerebral	ischaemic
-2474651019	Infarction of basal ganglia	ischaemic
-2476091017	H/O: stroke	ischaemic
-2520541000006112	Intracranial hemorrhage	haemorrhagic
-2622631000006114	Intrapontine haemorrhage	haemorrhagic
-2622641000006116	Intrapontine hemorrhage	haemorrhagic
-2622651000006119	Pontine hemorrhage	haemorrhagic
-267311000006118	Occlusion and stenosis of multiple and bilateral cerebral arteries	ischaemic
-267321000006114	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction	ischaemic
-2818821000006111	Occlusion of cerebral artery	ischaemic
-2832651000006111	Subcortical haemorrhage	haemorrhagic
-2832661000006113	Subcortical hemorrhage	haemorrhagic
-2832671000006118	Subcortical cerebral haemorrhage	haemorrhagic
-2832681000006115	Subcortical cerebral hemorrhage	haemorrhagic
-2836981000006110	Perinatal subarachnoid hemorrhage	haemorrhagic
-2836991000006113	Subarachnoid hemorrhage from any perinatal cause	haemorrhagic
-2837001000006117	Subarachnoid haemorrhage from any perinatal cause	haemorrhagic
-2837011000006119	Perinatal intracranial subarachnoid haemorrhage	haemorrhagic
-2837021000006110	Perinatal intracranial subarachnoid hemorrhage	haemorrhagic
-2837471000006118	Meningeal haemorrhage	haemorrhagic
-2837481000006115	Meningeal hemorrhage	haemorrhagic
-2841141000006111	SAH - Subarachnoid haemorrhage	haemorrhagic
-2841151000006113	SAH - Subarachnoid hemorrhage	haemorrhagic
-2841161000006110	Subarachnoid intracranial haemorrhage	haemorrhagic
-2841171000006115	Subarachnoid intracranial hemorrhage	haemorrhagic
-2871241000006118	Ventricular haemorrhage	haemorrhagic
-2871251000006116	Ventricular hemorrhage	haemorrhagic
-2871261000006119	Intraventricular hemorrhage	haemorrhagic
-2871271000006114	Intraventricular haemorrhage	haemorrhagic
-2950231000006111	Subarachnoid haemorrhage following injury without open intracranial wound	haemorrhagic
-2962821000006118	Occlusion of precerebral artery	ischaemic
-299342019	Lacunar infarction	ischaemic
-300242011	Ruptured berry aneurysm	haemorrhagic
-300244012	Subarachnoid haemorrhage from carotid siphon and bifurcation	haemorrhagic
-300253017	Subarachnoid haemorrhage from vertebral artery	haemorrhagic
-300257016	Subarachnoid haemorrhage NOS	haemorrhagic
-300276019	External capsule haemorrhage	haemorrhagic
-300277011	Intracerebral haemorrhage, intraventricular	haemorrhagic
-300287010	Intracerebral haemorrhage NOS	haemorrhagic
-300290016	Other and unspecified intracranial haemorrhage	haemorrhagic
-300298011	Intracranial haemorrhage	haemorrhagic
-300303013	Basilar artery occlusion	ischaemic
-300309012	Vertebral artery occlusion	ischaemic
-300312010	Cerebral infarct due to thrombosis of precerebral arteries	ischaemic
-300313017	Cerebral infarction due to embolism of precerebral arteries	ischaemic
-300321011	Cerebral infarction due to thrombosis of cerebral arteries	ischaemic
-300322016	Cerebral infarction due to embolism of cerebral arteries	ischaemic
-300362017	Middle cerebral artery syndrome	ischaemic
-300363010	Anterior cerebral artery syndrome	ischaemic
-300364016	Posterior cerebral artery syndrome	ischaemic
-300366019	Cerebellar stroke syndrome	ischaemic
-300370010	Left sided CVA	ischaemic
-300371014	Right sided CVA	ischaemic
-300395011	Occlusion and stenosis of middle cerebral artery	ischaemic
-300396012	Occlusion and stenosis of anterior cerebral artery	ischaemic
-300398013	Occlusion and stenosis of posterior cerebral artery	ischaemic
-300399017	Occlusion and stenosis of cerebellar arteries	ischaemic
-300935019	[X]Subarachnoid haemorrhage from other intracranial arteries	haemorrhagic
-300936018	[X]Other subarachnoid haemorrhage	haemorrhagic
-300939013	Cerebral haemorrhage	haemorrhagic
-300941014	[X]Other cerebral infarction	ischaemic
-300943012	Cerebral artery occlusion	ischaemic
-300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified	haemorrhagic
-3027211000006117	Haemorrhage due to ruptured congenital cerebral aneurysm	haemorrhagic
-3027221000006113	Hemorrhage due to ruptured congenital cerebral aneurysm	haemorrhagic
-3027231000006111	Hemorrhage due to ruptured berry aneurysm	haemorrhagic
-3027241000006118	Haemorrhage due to ruptured berry aneurysm	haemorrhagic
-307879017	Puerperal cerebrovascular disorder unspecified	ischaemic
-307880019	Puerperal cerebrovascular disorder - delivered	ischaemic
-307884011	Puerperal cerebrovascular disorder NOS	ischaemic
-30981000006112	Oth cerebral h'ge inj no open intracran wnd+unspec consc	haemorrhagic
-316519019	Subarachnoid haemorrhage due to birth injury	haemorrhagic
-3184041000006115	Cerebromeningeal haemorrhage	haemorrhagic
-3184051000006118	Cerebromeningeal hemorrhage	haemorrhagic
-3203191000006110	Vertebral artery obstruction	ischaemic
-320735017	Subarachnoid haemorrhage following injury with open intracranial wound	haemorrhagic
-320853015	Other cerebral haemorrhage following injury	haemorrhagic
-320897016	Other cerebral haemorrhage following injury NOS	haemorrhagic
-3299621000006119	Cortical hemorrhage	haemorrhagic
-3346051000006110	Internal capsule hemorrhage	haemorrhagic
-3441831000006111	Progressing stroke	ischaemic
-345639010	Infarction - precerebral	ischaemic
-345650013	Brainstem infarction NOS	ischaemic
-345655015	Pure motor lacunar syndrome	ischaemic
-345658018	Pure sensory lacunar syndrome	ischaemic
-345675012	Lobar cerebral haemorrhage	haemorrhagic
-3505637014	Occlusion of left middle cerebral artery	ischaemic
-3505639012	Occlusion of right middle cerebral artery	ischaemic
-3505651014	Occlusion of left posterior cerebral artery	ischaemic
-3505653012	Occlusion of right posterior cerebral artery	ischaemic
-3507311016	Occlusion of bilateral vertebral arteries	ischaemic
-3507312011	Occlusion of both vertebral arteries	ischaemic
-3507382019	Spontaneous hemorrhage of cortical intracerebral hemisphere	haemorrhagic
-3507383012	Spontaneous haemorrhage of cortical intracerebral hemisphere	haemorrhagic
-3507384018	Nontraumatic hemispheric cortical intracerebral hemorrhage	haemorrhagic
-3507385017	Nontraumatic hemispheric cortical intracerebral haemorrhage	haemorrhagic
-3507425016	Cerebrovascular accident due to stenosis of right vertebral artery	ischaemic
-3507427012	Cerebrovascular accident due to stenosis of left vertebral artery	ischaemic
-3508952018	Cerebrovascular accident due to thrombus of left carotid artery	ischaemic
-3508953011	Stroke due to thrombus of left carotid artery	ischaemic
-3508955016	Cerebrovascular accident due to thrombus of basilar artery	ischaemic
-3508956015	Stroke due to basilar artery thrombus	ischaemic
-3508958019	Cerebrovascular accident due to thrombus of right carotid artery	ischaemic
-3508959010	Stroke due to thrombus of right carotid artery	ischaemic
-3508961018	Cerebrovascular accident due to thrombus of right middle cerebral artery	ischaemic
-3508962013	Stroke due to thrombus of right middle cerebral artery	ischaemic
-3508964014	Cerebrovascular accident due to thrombus of left middle cerebral artery	ischaemic
-3508965010	Stroke due to thrombus of left middle cerebral artery	ischaemic
-3509769018	Cerebrovascular accident due to occlusion of left cerebellar artery	ischaemic
-3509775010	Cerebrovascular accident due to right vertebral artery occlusion	ischaemic
-3509777019	Cerebrovascular accident due to occlusion of left pontine artery	ischaemic
-3509779016	Cerebrovascular accident due to occlusion of left vertebral artery	ischaemic
-3509781019	Cerebrovascular accident due to occlusion of right cerebellar artery	ischaemic
-3509783016	Cerebrovascular accident due to occlusion of right pontine artery	ischaemic
-3509790014	Cerebrovascular accident due to occlusion of right posterior cerebral artery	ischaemic
-3509792018	Cerebrovascular accident due to occlusion of left carotid artery	ischaemic
-3509794017	Cerebrovascular accident due to occlusion of left middle cerebral artery	ischaemic
-3509799010	Cerebrovascular accident due to occlusion of left posterior cerebral artery	ischaemic
-3509810017	Cerebrovascular accident due to occlusion of right middle cerebral artery	ischaemic
-3509817019	Left hemispheric cerebellar artery embolism with stroke	ischaemic
-3510549010	History of hemorrhagic cerebrovascular accident with residual deficit	haemorrhagic
-3510550010	History of haemorrhagic cerebrovascular accident with residual deficit	haemorrhagic
-3510551014	History of hemorrhagic stroke with residual deficit	haemorrhagic
-3510552019	History of haemorrhagic stroke with residual deficit	haemorrhagic
-3510959018	Lacunar ataxic hemiparesis of left nondominant side	ischaemic
-3510961010	Lacunar ataxic hemiparesis of right dominant side	ischaemic
-3510963013	Lacunar ataxic hemiparesis of left dominant side	ischaemic
-3510965018	Lacunar ataxic hemiparesis of right nondominant side	ischaemic
-3511249016	Nontraumatic haemorrhage of subarachnoid space from left posterior communicating artery	haemorrhagic
-3511250016	Nontraumatic hemorrhage of subarachnoid space from left posterior communicating artery	haemorrhagic
-3511251017	Spontaneous haemorrhage of subarachnoid space from left posterior communicating artery	haemorrhagic
-3511252012	Spontaneous hemorrhage of subarachnoid space from left posterior communicating artery	haemorrhagic
-3511254013	Nontraumatic haemorrhage of subarachnoid space from right posterior communicating artery	haemorrhagic
-3511255014	Spontaneous hemorrhage of subarachnoid space from right posterior communicating artery	haemorrhagic
-3511256010	Nontraumatic hemorrhage of subarachnoid space from right posterior communicating artery	haemorrhagic
-3511257018	Spontaneous haemorrhage of subarachnoid space from right posterior communicating artery	haemorrhagic
-3511277013	Spontaneous hemorrhage of subarachnoid space from basilar artery	haemorrhagic
-3511278015	Spontaneous haemorrhage of subarachnoid space from basilar artery	haemorrhagic
-3511279011	Nontraumatic hemorrhage of subarachnoid space from basilar artery	haemorrhagic
-3511280014	Nontraumatic haemorrhage of subarachnoid space from basilar artery	haemorrhagic
-3511282018	Spontaneous hemorrhage of subarachnoid space from intracranial artery	haemorrhagic
-3511283011	Spontaneous haemorrhage of subarachnoid space from intracranial artery	haemorrhagic
-3511284017	Nontraumatic hemorrhage of subarachnoid space from intracranial artery	haemorrhagic
-3511285016	Nontraumatic haemorrhage of subarachnoid space from intracranial artery	haemorrhagic
-3513216018	Occlusion of left cerebellar artery	ischaemic
-3513218017	Occlusion of right cerebellar artery	ischaemic
-3515793014	Cerebrovascular accident due to occlusion of right vertebral artery	ischaemic
-3533574016	Spontaneous intracranial haemorrhage	haemorrhagic
-3533575015	Spontaneous intracranial hemorrhage	haemorrhagic
-3533577011	Nontraumatic intracranial hemorrhage	haemorrhagic
-3533578018	Nontraumatic intracranial haemorrhage	haemorrhagic
-35791000006117	Other cerebral h'ge after injury + open intracranial wound	haemorrhagic
-35801000006116	Other cerebral h'ge after injury no open intracranial wound	haemorrhagic
-3636133016	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	ischaemic
-3636136012	Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus	ischaemic
-3636137015	Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus	ischaemic
-3636139017	Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus	ischaemic
-3636141016	Cerebrovascular accident due to occlusion of right cerebellar artery by embolus	ischaemic
-3636143018	Cerebrovascular accident due to occlusion of left cerebellar artery by embolus	ischaemic
-3636969013	Occlusion of right middle cerebral artery by embolus	ischaemic
-3636970014	Occlusion of left middle cerebral artery by embolus	ischaemic
-3636973011	Occlusion of left cerebellar artery by embolus	ischaemic
-3636975016	Occlusion of right cerebellar artery by embolus	ischaemic
-3637000018	Occlusion of right posterior cerebral artery by embolus	ischaemic
-3637002014	Occlusion of left posterior cerebral artery by embolus	ischaemic
-3662311000006113	Thrombosis of cerebral arteries	ischaemic
-3662321000006117	Cerebral arterial thrombosis	ischaemic
-3687811000006118	Cerebral hemisphere haemorrhage	haemorrhagic
-3687821000006114	Cerebral hemisphere hemorrhage	haemorrhagic
-370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	ischaemic
-370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	ischaemic
-3719851000006116	Cerebellar hemorrhage	haemorrhagic
-3719861000006119	Haemorrhagic cerebellum	haemorrhagic
-3719871000006114	Hemorrhagic cerebellum	haemorrhagic
-3728451000006116	Cerebral arterial embolism	ischaemic
-3777981000006119	Posterior inferior cerebellar artery syndrome	ischaemic
-3778021000006116	LMS - Lateral medullary syndrome	ischaemic
-3818181000006114	Lacunar infarct	ischaemic
-391042012	Subarachnoid haemorrhage following injury	haemorrhagic
-395780010	Cerebral infarction	ischaemic
-402929011	Subarachnoid haemorrhage following injury without open intracranial wound	haemorrhagic
-405339016	Cerebrovascular accident	ischaemic
-4056931000006116	Brain stem haemorrhage	haemorrhagic
-4056941000006114	Brain stem hemorrhage	haemorrhagic
-4056951000006111	Brainstem haemorrhage	haemorrhagic
-4056961000006113	Brainstem hemorrhage	haemorrhagic
-4057031000006117	Brain stem infarct	ischaemic
-4057041000006110	Brain stem stroke	ischaemic
-4057051000006112	Infarction of brain stem	ischaemic
-411416011	Stroke in the puerperium	ischaemic
-411518010	H/O: CVA	ischaemic
-426231000006114	[X]Sequelae of other nontraumatic intracranial haemorrhage	haemorrhagic
-428181000006115	Subarachnoid hemorrhage	haemorrhagic
-451133011	Left sided cerebral infarction	ischaemic
-451134017	Right sided cerebral infarction	ischaemic
-451371010	H/O: Stroke in last year	ischaemic
-4540671000006111	H/O subarachnoid hemorrhage	haemorrhagic
-4540681000006114	History of subarachnoid hemorrhage	haemorrhagic
-4540691000006112	History of subarachnoid haemorrhage	haemorrhagic
-4777701000006111	Ruptured saccular aneurysm	haemorrhagic
-4777721000006118	Subarachnoid hemorrhage from carotid siphon and bifurcation	haemorrhagic
-4777741000006113	Subarachnoid hemorrhage from vertebral artery	haemorrhagic
-4777751000006110	Intracranial subarachnoid hemorrhage from vertebral artery	haemorrhagic
-4777761000006112	Intracranial subarachnoid haemorrhage from vertebral artery	haemorrhagic
-4777811000006117	Basal ganglia hemorrhage	haemorrhagic
-4777831000006111	External capsule hemorrhage	haemorrhagic
-4777851000006116	Intracerebral hemorrhage, intraventricular	haemorrhagic
-4777861000006119	Intracerebral haemorrhage with intraventricular haemorrhage	haemorrhagic
-4777871000006114	Intracerebral hemorrhage with intraventricular hemorrhage	haemorrhagic
-4777881000006112	Intracerebral haemorrhage, multiple localised	haemorrhagic
-4777891000006110	Intracerebral hemorrhage, multiple localized	haemorrhagic
-4777971000006115	Basilar artery obstruction	ischaemic
-4777981000006117	Occlusion of basilar artery	ischaemic
-4778181000006119	Left sided cerebral hemisphere cerebrovascular accident	ischaemic
-4778201000006118	Right sided cerebral hemisphere cerebrovascular accident	ischaemic
-480952017	Perinatal subarachnoid haemorrhage	haemorrhagic
-481028017	Subarachnoid haemorrhage	haemorrhagic
-483988011	Bulbar haemorrhage	haemorrhagic
-495394013	Cortical haemorrhage	haemorrhagic
-496232015	Internal capsule haemorrhage	haemorrhagic
-5010981000006119	Stroke	ischaemic
-5011021000006113	Cerebrovascular accident due to cerebral artery occlusion	ischaemic
-5011041000006118	Anterior cerebral circulation infarction	ischaemic
-5011051000006116	Total anterior cerebral circulation infarction	ischaemic
-5011061000006119	TACI - Total anterior cerebral circulation infarction	ischaemic
-5011071000006114	Total anterior cerebral circulation stroke	ischaemic
-5011081000006112	TACS - Total anterior cerebral circulation stroke	ischaemic
-5011091000006110	Partial anterior cerebral circulation infarction	ischaemic
-5011101000006116	PACI - Partial anterior cerebral circulation infarction	ischaemic
-5011111000006118	Partial anterior cerebral circulation stroke	ischaemic
-5011121000006114	PACS - Partial anterior cerebral circulation stroke	ischaemic
-5011131000006112	Posterior cerebral circulation infarction	ischaemic
-5011141000006119	Posterior cerebral circulation stroke	ischaemic
-5011161000006115	Lacunar stroke	ischaemic
-5011171000006110	LACI - Lacunar infarction	ischaemic
-5011181000006113	LI - Lacunar infarction	ischaemic
-5011191000006111	Pure motor lacunar infarction	ischaemic
-5011211000006112	Pure sensory lacunar infarction	ischaemic
-5011231000006118	Pure sensorimotor lacunar infarction	ischaemic
-5011241000006111	Lacunar ataxic hemiparesis	ischaemic
-5011291000006119	Haemorrhagic cerebral infarction	haemorrhagic
-5011301000006118	Hemorrhagic cerebral infarction	haemorrhagic
-5011311000006115	Haemorrhagic stroke	haemorrhagic
-5011321000006111	Hemorrhagic stroke	haemorrhagic
-5011331000006114	Anterior cerebral circulation haemorrhagic infarction	haemorrhagic
-5011341000006116	Anterior cerebral circulation hemorrhagic infarction	haemorrhagic
-5011351000006119	Posterior cerebral circulation haemorrhagic infarction	haemorrhagic
-5011361000006117	Posterior cerebral circulation hemorrhagic infarction	haemorrhagic
-5011371000006112	Massive supratentorial cerebral haemorrhage	haemorrhagic
-5011381000006110	Massive supratentorial cerebral hemorrhage	haemorrhagic
-5011401000006110	Lobar cerebral hemorrhage	haemorrhagic
-5011411000006113	Thalamic haemorrhage	haemorrhagic
-5011421000006117	Thalamic hemorrhage	haemorrhagic
-5011431000006119	Lacunar haemorrhage	haemorrhagic
-5011441000006112	Lacunar hemorrhage	haemorrhagic
-5011451000006114	Stroke of uncertain pathology	ischaemic
-5011461000006111	Anterior circulation stroke of uncertain pathology	ischaemic
-5011471000006116	Posterior circulation stroke of uncertain pathology	ischaemic
-5011561000006112	Subarachnoid haemorrhage due to ruptured arteriovenous malformation	haemorrhagic
-5011571000006117	Subarachnoid hemorrhage due to ruptured arteriovenous malformation	haemorrhagic
-5011581000006119	Subarachnoid haemorrhage due to ruptured aneurysm	haemorrhagic
-5011591000006116	Subarachnoid hemorrhage due to ruptured aneurysm	haemorrhagic
-5011601000006112	SAH - Subarachnoid hemorrhage from ruptured aneurysm	haemorrhagic
-5011611000006110	SAH - Subarachnoid haemorrhage from ruptured aneurysm	haemorrhagic
-5011621000006119	Intracranial subarachnoid hemorrhage due to ruptured aneurysm	haemorrhagic
-5011631000006116	Intracranial subarachnoid haemorrhage due to ruptured aneurysm	haemorrhagic
-501622012	Perinatal intraventricular haemorrhage	haemorrhagic
-502878012	Cerebellar haemorrhage	haemorrhagic
-503469016	Pontine haemorrhage	haemorrhagic
-503791000006114	Basal ganglia haemorrhage	haemorrhagic
-505324014	Traumatic cerebral haemorrhage	haemorrhagic
-5058411000006114	Ruptured cerebral aneurysm	haemorrhagic
-524511000006116	Brainstem stroke syndrome	ischaemic
-524541000006117	Brain stem infarction	ischaemic
-542251000006112	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic	ischaemic
-542261000006114	Cerebral infarction due to occlusion of precerebral artery	ischaemic
-542831000006116	Cerebral embolus	ischaemic
-543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	ischaemic
-5518041000006112	Spontaneous subarachnoid haemorrhage	haemorrhagic
-5518051000006114	SAH - Spontaneous subarachnoid hemorrhage	haemorrhagic
-5518061000006111	Spontaneous subarachnoid hemorrhage	haemorrhagic
-5518071000006116	SAH - Spontaneous subarachnoid haemorrhage	haemorrhagic
-5518081000006118	Spontaneous intracranial subarachnoid haemorrhage	haemorrhagic
-5518091000006115	Spontaneous intracranial subarachnoid hemorrhage	haemorrhagic
-5518101000006114	Nontraumatic subarachnoid intracranial hemorrhage	haemorrhagic
-5518111000006112	Nontraumatic subarachnoid intracranial haemorrhage	haemorrhagic
-5560161000006111	Intracerebral hemorrhage (ICH)	haemorrhagic
-5582311000006110	Occipital cerebral infarction	ischaemic
-5582971000006117	Subarachnoid haemorrhage from multiple aneurysms	haemorrhagic
-5582981000006119	Subarachnoid hemorrhage from multiple aneurysms	haemorrhagic
-5582991000006116	Subarachnoid haemorrhage from anterior cerebral artery aneurysm	haemorrhagic
-5583001000006115	Subarachnoid hemorrhage from anterior cerebral artery aneurysm	haemorrhagic
-5583021000006113	Subarachnoid haemorrhage from middle cerebral artery aneurysm	haemorrhagic
-5583031000006111	Subarachnoid hemorrhage from middle cerebral artery aneurysm	haemorrhagic
-5583041000006118	Subarachnoid haemorrhage from posterior cerebral artery aneurysm	haemorrhagic
-5583051000006116	Subarachnoid hemorrhage from posterior cerebral artery aneurysm	haemorrhagic
-5583061000006119	Subarachnoid haemorrhage from anterior communicating artery aneurysm	haemorrhagic
-5583071000006114	Subarachnoid hemorrhage from anterior communicating artery aneurysm	haemorrhagic
-5583081000006112	Subarachnoid haemorrhage from posterior communicating artery aneurysm	haemorrhagic
-5583091000006110	Subarachnoid hemorrhage from posterior communicating artery aneurysm	haemorrhagic
-5583101000006116	Subarachnoid haemorrhage from basilar artery aneurysm	haemorrhagic
-5583111000006118	Subarachnoid hemorrhage from basilar artery aneurysm	haemorrhagic
-5583121000006114	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm	haemorrhagic
-5583131000006112	Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm	haemorrhagic
-5583141000006119	Subarachnoid haemorrhage from carotid artery aneurysm	haemorrhagic
-5583151000006117	Subarachnoid hemorrhage from carotid artery aneurysm	haemorrhagic
-5589641000006112	Intracerebellar and posterior fossa haemorrhage	haemorrhagic
-5589651000006114	Intracerebellar and posterior fossa hemorrhage	haemorrhagic
-5597281000006110	Ruptured cerebral arteriovenous malformation	haemorrhagic
-5597291000006113	AVM - Ruptured cerebral arteriovenous malformation	haemorrhagic
-5597331000006118	Angiogram-negative subarachnoid haemorrhage	haemorrhagic
-5597341000006111	Angiogram-negative subarachnoid hemorrhage	haemorrhagic
-5597351000006113	Angiogram-negative intracranial subarachnoid hemorrhage	haemorrhagic
-5597361000006110	Angiogram-negative intracranial subarachnoid haemorrhage	haemorrhagic
-5597481000006114	Ruptured aneurysm of anterior cerebral artery	haemorrhagic
-5597491000006112	Ruptured aneurysm of middle cerebral artery	haemorrhagic
-5597511000006118	Ruptured aneurysm of posterior cerebral artery	haemorrhagic
-5597521000006114	Ruptured aneurysm of anterior communicating artery	haemorrhagic
-5597571000006110	Ruptured aneurysm of posterior communicating artery	haemorrhagic
-5597601000006115	Ruptured aneurysm of basilar artery	haemorrhagic
-5597611000006117	Ruptured aneurysm of posterior inferior cerebellar artery	haemorrhagic
-5597641000006118	Ruptured internal carotid-anterior communicating artery zone aneurysm	haemorrhagic
-5597651000006116	Ruptured internal carotid-posterior communicating artery zone aneurysm	haemorrhagic
-5597661000006119	Ruptured internal carotid bifurcation aneurysm	haemorrhagic
-5649201000006113	Extension of cerebrovascular accident	ischaemic
-5649211000006111	Extension of stroke	ischaemic
-5649221000006115	CVA - Extension of cerebrovascular accident	ischaemic
-57341000006119	Wallenberg's syndrome	ischaemic
-5967391000006111	Multiple lacunar infarcts	ischaemic
-5974521000006116	History of stroke in last year	ischaemic
-605461000006117	CVA - cerebrovascular accident due to cerebral artery occlusion	ischaemic
-605471000006112	Cerebral hemorrhage	haemorrhagic
-605481000006110	CVA - cerebrovascular accident in the puerperium	ischaemic
-605491000006113	CVA - Cerebrovascular accident	ischaemic
-605501000006117	CVA unspecified	ischaemic
-6348291000006115	Thrombotic stroke	ischaemic
-6348301000006119	Embolic stroke	ischaemic
-6593111000006115	Nontraumatic extradural hemorrhage	haemorrhagic
-6593121000006111	Nontraumatic epidural haemorrhage	haemorrhagic
-6593131000006114	Nontraumatic epidural hemorrhage	haemorrhagic
-6593141000006116	Nontraumatic extradural intracranial hemorrhage	haemorrhagic
-6593151000006119	Nontraumatic extradural intracranial haemorrhage	haemorrhagic
-660111000006117	Nontraumatic extradural haemorrhage	haemorrhagic
-6837051000006119	Basal ganglion stroke	ischaemic
-6837061000006117	Basal ganglion infarct	ischaemic
-6846141000006118	Cardioembolic stroke	ischaemic
-6907881000006118	Hemorrhagic stroke monitoring	haemorrhagic
-6990981000006114	Ischaemic stroke	ischaemic
-6990991000006112	Ischemic stroke	ischaemic
-7052011000006119	Non-traumatic intracerebral ventricular haemorrhage	haemorrhagic
-7052021000006110	Non-traumatic intracerebral ventricular hemorrhage	haemorrhagic
-7054171000006115	Acute lacunar infarction	ischaemic
-7067291000006113	Infarction of medulla oblongata	ischaemic
-7067301000006114	Medulla oblongata stroke	ischaemic
-7071901000006111	Thalamic infarction	ischaemic
-7071911000006114	Thalamic stroke	ischaemic
-7085851000006110	History of cerebral haemorrhage	haemorrhagic
-7085861000006112	History of cerebral hemorrhage	haemorrhagic
-7096021000006119	History of haemorrhage into ventricle of brain	haemorrhagic
-7096031000006116	History of ventricular hemorrhage	haemorrhagic
-7096041000006114	History of hemorrhage into ventricle of brain	haemorrhagic
-7096051000006111	History of intraventricular haemorrhage	haemorrhagic
-7096061000006113	History of intraventricular hemorrhage	haemorrhagic
-7096071000006118	History of ventricular haemorrhage	haemorrhagic
-7100261000006114	History of cardioembolic stroke	ischaemic
-7112631000006117	History of cerebrovascular accident without residual deficits	ischaemic
-7135051000006117	History of occlusion of cerebral artery	ischaemic
-7184511000006118	History of occlusion of cerebral artery without cerebral infarction	ischaemic
-7232811000006116	History of cerebrovascular accident with residual deficit	ischaemic
-7251251000006113	Infarct of cerebrum due to iatrogenic cerebrovascular accident	ischaemic
-7377671000006118	Haemorrhage into subarachnoid space of neuraxis	haemorrhagic
-7377681000006115	Hemorrhage into subarachnoid space of neuraxis	haemorrhagic
-7378271000006116	Intracranial haemorrhage following injury	haemorrhagic
-7378281000006118	Intracranial hemorrhage following injury	haemorrhagic
-7378401000006111	Traumatic intracerebral hemorrhage	haemorrhagic
-7378421000006118	Traumatic intracerebral haemorrhage	haemorrhagic
-7378441000006113	Traumatic cerebral hemorrhage	haemorrhagic
-744901000006114	Intracerebral haemorrhage (ICH)	haemorrhagic
-744921000006116	Intracerebral haemorrhage in hemisphere, unspecified	haemorrhagic
-746571000006116	Intracerebral haemorrhage, multiple localized	haemorrhagic
-748941000006115	Left sided intracerebral haemorrhage, unspecified	haemorrhagic
-7515281000006115	Multiple lacunar infarcts	ischaemic
-7522031000006111	History of cerebrovascular accident in last eight weeks	ischaemic
-7571421000006110	Deep hemispheric cerebral haemorrhage	haemorrhagic
-7571431000006113	Deep hemispheric haemorrhage	haemorrhagic
-7571441000006115	Deep hemispheric cerebral hemorrhage	haemorrhagic
-7571451000006118	Deep hemispheric hemorrhage	haemorrhagic
-7571741000006112	Subarachnoid haemorrhage from vertebral artery aneurysm	haemorrhagic
-7571751000006114	Subarachnoid hemorrhage from vertebral artery aneurysm	haemorrhagic
-7572381000006111	Perimesencephalic subarachnoid haemorrhage	haemorrhagic
-7572391000006114	Perimesencephalic subarachnoid hemorrhage	haemorrhagic
-7598981000006119	Cerebral infarction due to embolism of middle cerebral artery	ischaemic
-7599001000006116	Cerebral infarction due to thrombosis of middle cerebral artery	ischaemic
-7703591000006117	Pain following cerebrovascular accident	ischaemic
-7703601000006113	Post stroke pain	ischaemic
-7703611000006111	Post CVA (cerebrovascular accident) pain	ischaemic
-7741501000006118	Cerebrovascular accident during surgery	ischaemic
-7741511000006115	CVA (cerebrovascular accident) during surgery	ischaemic
-7855631000006111	Cerebral ischaemic stroke due to small artery occlusion	ischaemic
-7855641000006118	Cerebral ischemic stroke due to small artery occlusion	ischaemic
-7855651000006116	Cerebral ischaemic stroke due to intracranial large artery atherosclerosis	ischaemic
-7855661000006119	Cerebral ischemic stroke due to intracranial large artery atherosclerosis	ischaemic
-7855671000006114	Cerebral ischaemic stroke due to extracranial large artery atherosclerosis	ischaemic
-7855681000006112	Cerebral ischemic stroke due to extracranial large artery atherosclerosis	ischaemic
-7855711000006113	Stroke co-occurrent with migraine	ischaemic
-7855731000006119	Migraine-induced stroke	ischaemic
-7863711000006119	Cerebral ischaemic stroke due to occlusion of extracranial large artery	ischaemic
-7863721000006110	Cerebral ischemic stroke due to occlusion of extracranial large artery	ischaemic
-7863731000006113	Cerebral ischaemic stroke due to stenosis of extracranial large artery	ischaemic
-7863741000006115	Cerebral ischemic stroke due to stenosis of extracranial large artery	ischaemic
-7865721000006111	Ischaemic stroke without residual deficits	ischaemic
-7865731000006114	Ischemic stroke without residual deficits	ischaemic
-7951271000006116	Haemorrhage of medulla oblongata	haemorrhagic
-7951281000006118	Hemorrhage of medulla oblongata	haemorrhagic
-7955241000006114	Multifocal cerebral infarction due to and following procedure on cardiovascular system	ischaemic
-7991141000006110	Occlusion of cerebral artery with stroke	ischaemic
-8015121000006118	Cerebral infarction due to occlusion of basilar artery	ischaemic
-8015131000006115	Cerebral infarction due to vertebral artery occlusion	ischaemic
-8030701000006114	History of parietal cerebrovascular accident	ischaemic
-8031211000006113	History of lacunar cerebrovascular accident	ischaemic
-8031281000006118	Cerebral infarction due to stenosis of carotid artery	ischaemic
-8037251000006117	History of thrombotic stroke without residual deficits	ischaemic
-8037261000006115	History of haemorrhagic cerebrovascular accident without residual deficits	haemorrhagic
-8037271000006110	History of hemorrhagic cerebrovascular accident without residual deficits	haemorrhagic
-8037281000006113	History of embolic stroke without deficits	ischaemic
-8044331000006114	History of haemorrhagic stroke with hemiparesis	haemorrhagic
-8044341000006116	History of hemorrhagic stroke with hemiparesis	haemorrhagic
-8044361000006117	History of haemorrhagic stroke with hemiplegia	haemorrhagic
-8044371000006112	History of hemorrhagic stroke with hemiplegia	haemorrhagic
-8044411000006113	Spontaneous cerebral haemorrhage with compression of brain	haemorrhagic
-8044421000006117	Compression of brain co-occurrent and due to spontaneous cerebral hemorrhage	haemorrhagic
-8044431000006119	Spontaneous cerebral hemorrhage with compression of brain	haemorrhagic
-8044441000006112	Compression of brain co-occurrent and due to spontaneous cerebral haemorrhage	haemorrhagic
-8044461000006111	Ischaemic stroke with coma	ischaemic
-8044471000006116	Ischemic stroke with coma	ischaemic
-8044481000006118	Ischaemic stroke without coma	ischaemic
-8044491000006115	Ischemic stroke without coma	ischaemic
-8044541000006113	Nontraumatic subarachnoid haemorrhage with brain compression	haemorrhagic
-8044551000006110	Compression of brain co-occurrent and due to nontraumatic subarachnoid haemorrhage	haemorrhagic
-8044561000006112	Compression of brain co-occurrent and due to nontraumatic subarachnoid hemorrhage	haemorrhagic
-8044571000006117	Nontraumatic subarachnoid hemorrhage with brain compression	haemorrhagic
-8044621000006119	History of ischaemic stroke without residual deficits	ischaemic
-8044631000006116	History of ischemic stroke without residual deficits	ischaemic
-8044801000006113	History of ischaemic cerebrovascular accident with residual deficit	ischaemic
-8044811000006111	History of ischemic cerebrovascular accident with residual deficit	ischaemic
-8044821000006115	History of embolic stroke with deficits	ischaemic
-8045251000006112	Spontaneous cerebellar haemorrhage	haemorrhagic
-8045261000006114	Spontaneous cerebellar hemorrhage	haemorrhagic
-8045741000006119	Nontraumatic intraparenchymal cerebral haemorrhage	haemorrhagic
-8045751000006117	Spontaneous intraparenchymal cerebral haemorrhage	haemorrhagic
-8045761000006115	Spontaneous intraparenchymal cerebral hemorrhage	haemorrhagic
-8045771000006110	Nontraumatic intraparenchymal cerebral hemorrhage	haemorrhagic
-8046951000006114	Cerebral infarction due to carotid artery occlusion	ischaemic
-808111000006110	H/O subarachnoid haemorrhage	haemorrhagic
-8089821000006113	Spontaneous cerebral haemorrhage	haemorrhagic
-8089831000006111	Spontaneous cerebral hemorrhage	haemorrhagic
-8089841000006118	Nontraumatic intracerebral hemorrhage	haemorrhagic
-8089851000006116	Nontraumatic intracerebral haemorrhage	haemorrhagic
-8090421000006115	Cerebral infarction due to vertebral artery stenosis	ischaemic
-8090471000006119	Cerebral infarction due to stenosis of precerebral artery	ischaemic
-809421000006116	History of cerebrovascular accident	ischaemic
-8211961000006117	History of cerebellar stroke	ischaemic
-8211971000006112	History of stroke of cerebellum	ischaemic
-8211981000006110	History of nontraumatic ruptured cerebral aneurysm	haemorrhagic
-884421000006119	Cerebral haemorrhage	haemorrhagic
-884431000006116	Extradural haemorrhage	haemorrhagic
-884451000006111	Cerebral haemorrhage NOS	haemorrhagic
-884461000006113	Basilar artery occluded	ischaemic
-884481000006115	Vertebral artery occluded	ischaemic
-884501000006113	Cerebral A. occlusion NOS	ischaemic
-884521000006115	Stroke/CVA - undefined	ischaemic
-884531000006117	Stroke	ischaemic
-9875641000006111	Cerebrovascular accident due to right carotid artery occlusion	ischaemic
-9875951000006117	Cerebrovascular accident due to right carotid artery stenosis	ischaemic
-9875961000006115	Cerebrovascular accident due to left carotid artery stenosis	ischaemic
-989201000006117	Cerebral haemorrhage	haemorrhagic
-989211000006119	Cerebral haemorrhage NOS	haemorrhagic
-9912271000006112	Cerebellar stroke	ischaemic
-2729551000000111	Cerebral infarction due to occlusion of cerebral artery	ischaemic
-2729571000000119	Cerebral infarction due to stenosis of cerebral artery	ischaemic
-2901571000006113	Completed stroke	ischaemic
-2954611000006112	Pars basalis haemorrhage	haemorrhagic
-2954621000006116	Basilar hemorrhage	haemorrhagic
-2954631000006118	Basilar haemorrhage	haemorrhagic
-2954641000006111	Pars basalis hemorrhage	haemorrhagic
-4193641000006111	Nonparalytic stroke	ischaemic
-4270361000006116	Paralytic stroke	ischaemic
-5009091000006112	Infarction of optic radiation	ischaemic
-5898461000006119	Cerebellar haematoma	haemorrhagic
-5898471000006114	Cerebellar hematoma	haemorrhagic
-5912811000006111	Infarction of visual cortex	ischaemic
-6431861000006113	Periventricular haemorrhagic venous infarct	ischaemic
-6431871000006118	Periventricular hemorrhagic venous infarct	ischaemic
-7134241000006113	Intraparenchymal haematoma of brain	haemorrhagic
-7134251000006110	Intraparenchymal hematoma of brain	haemorrhagic
-7363341000006119	Intraparenchymal haemorrhage of brain	haemorrhagic
-7363351000006117	Intraparenchymal hemorrhage of brain	haemorrhagic
-7386801000006119	Haemorrhage in globus pallidus	haemorrhagic
-7386811000006116	Pallidal hemorrhage	haemorrhagic
-7386821000006112	Pallidal haemorrhage	haemorrhagic
-7386831000006110	Hemorrhage in globus pallidus	haemorrhagic
-7386841000006117	Haemorrhage in caudate nucleus	haemorrhagic
-7386851000006115	Hemorrhage in caudate nucleus	haemorrhagic
-7386861000006118	Haemorrhage in putamen	haemorrhagic
-7386871000006113	Hemorrhage in putamen	haemorrhagic
-7572361000006118	Non-aneurysmal subarachnoid intracranial haemorrhage	haemorrhagic
-7572371000006113	Non-aneurysmal subarachnoid intracranial hemorrhage	haemorrhagic
-7572401000006111	Convexal subarachnoid haemorrhage	haemorrhagic
-7572411000006114	Convexal subarachnoid hemorrhage	haemorrhagic
-7586101000006114	Non-aneurysmal perimesencephalic subarachnoid haemorrhage	haemorrhagic
-7586111000006112	Non-aneurysmal perimesencephalic subarachnoid hemorrhage	haemorrhagic
-7834261000006115	Focal haemorrhagic contusion of cerebrum	haemorrhagic
-7834271000006110	Focal hemorrhagic contusion of cerebrum	haemorrhagic
-7839991000006115	Silent cerebral infarct	ischaemic
-8221321000006118	Stroke and TIA	ischaemic
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+405339016	Cerebrovascular accident	1085587	1	1
+605501000006117	CVA unspecified	542832	1	1
+605491000006113	CVA - Cerebrovascular accident	231667	1	1
+395780010	Cerebral infarction	227398	1	1
+481028017	Subarachnoid haemorrhage	188760	1	1
+809421000006116	History of cerebrovascular accident	164457	1	1
+605461000006117	CVA - cerebrovascular accident due to cerebral artery occlusion	157875	1	1
+1222398015	Cerebral arterial occlusion	135859	1	1
+5010981000006119	Stroke	120370	1	1
+122401000006115	Stroke unspecified	106167	1	1
+744901000006114	Intracerebral haemorrhage (ICH)	90849	1	1
+300370010	Left sided CVA	78674	1	1
+300371014	Right sided CVA	72951	1	1
+411518010	H/O: CVA	57754	1	1
+605471000006112	Cerebral hemorrhage	52166	1	1
+158118014	Cerebellar infarction	43459	1	1
+2476091017	H/O: stroke	39652	1	1
+451133011	Left sided cerebral infarction	39398	1	1
+451134017	Right sided cerebral infarction	34828	1	1
+122371000006118	Cerebral haemorrhage	34375	1	1
+122361000006113	Stroke due to cerebral arterial occlusion	32950	1	1
+118689010	Cerebral thrombosis	26709	1	1
+299342019	Lacunar infarction	22820	1	1
+884521000006115	Stroke/CVA - undefined	22208	1	1
+300298011	Intracranial haemorrhage	18014	1	1
+1227591017	[V]Personal history of stroke	17793	1	1
+218511000000117	Infarction - cerebral	15807	1	1
+502878012	Cerebellar haemorrhage	11601	1	1
+2474651019	Infarction of basal ganglia	11360	1	1
+884531000006117	Stroke	10794	1	1
+300366019	Cerebellar stroke syndrome	9538	1	1
+524511000006116	Brainstem stroke syndrome	9176	1	1
+4778181000006119	Left sided cerebral hemisphere cerebrovascular accident	9119	1	1
+6990981000006114	Ischaemic stroke	8522	1	1
+300362017	Middle cerebral artery syndrome	7829	1	1
+4778201000006118	Right sided cerebral hemisphere cerebrovascular accident	7552	1	1
+125470015	Cerebral embolism	7263	1	1
+543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	5466	1	1
+300277011	Intracerebral haemorrhage, intraventricular	4886	1	1
+524541000006117	Brain stem infarction	4810	1	1
+300321011	Cerebral infarction due to thrombosis of cerebral arteries	4425	1	1
+5011091000006110	Partial anterior cerebral circulation infarction	4367	1	1
+300287010	Intracerebral haemorrhage NOS	4264	1	1
+503791000006114	Basal ganglia haemorrhage	3787	1	1
+300257016	Subarachnoid haemorrhage NOS	3616	1	1
+808111000006110	H/O subarachnoid haemorrhage	3467	1	1
+300364016	Posterior cerebral artery syndrome	3465	1	1
+5011131000006112	Posterior cerebral circulation infarction	3241	1	1
+300312010	Cerebral infarct due to thrombosis of precerebral arteries	3175	1	1
+501622012	Perinatal intraventricular haemorrhage	3103	1	1
+300943012	Cerebral artery occlusion	2947	1	1
+300941014	[X]Other cerebral infarction	2884	1	1
+5582311000006110	Occipital cerebral infarction	2820	1	1
+503469016	Pontine haemorrhage	2786	1	1
+106392017	Basilar artery syndrome	2505	1	1
+300363010	Anterior cerebral artery syndrome	2382	1	1
+123511000006114	Subarachnoid haemorrhage from middle cerebral artery	2081	1	1
+402929011	Subarachnoid haemorrhage following injury without open intracranial wound	1963	1	1
+345655015	Pure motor lacunar syndrome	1926	1	1
+300309012	Vertebral artery occlusion	1847	1	1
+9912271000006112	Cerebellar stroke	1759	1	1
+8044481000006118	Ischaemic stroke without coma	1741	1	1
+300322016	Cerebral infarction due to embolism of cerebral arteries	1735	1	1
+5011051000006116	Total anterior cerebral circulation infarction	1705	1	1
+300242011	Ruptured berry aneurysm	1684	1	1
+300290016	Other and unspecified intracranial haemorrhage	1574	1	1
+300939013	Cerebral haemorrhage	1518	1	1
+542261000006114	Cerebral infarction due to occlusion of precerebral artery	1485	1	1
+123481000006118	Subarachnoid haemorrhage from anterior communicating artery	1465	1	1
+496232015	Internal capsule haemorrhage	1440	1	1
+130375018	Lateral medullary syndrome	1347	1	1
+451371010	H/O: Stroke in last year	1264	1	1
+300313017	Cerebral infarction due to embolism of precerebral arteries	1257	1	1
+748941000006115	Left sided intracerebral haemorrhage, unspecified	1252	1	1
+1227592012	[V]Personal history of cerebrovascular accident (CVA)	1201	1	1
+345675012	Lobar cerebral haemorrhage	1197	1	1
+884421000006119	Cerebral haemorrhage	1034	1	1
+660111000006117	Nontraumatic extradural haemorrhage	1027	1	1
+163261000006119	Right sided intracerebral haemorrhage, unspecified	1014	1	1
+300303013	Basilar artery occlusion	992	1	1
+7054171000006115	Acute lacunar infarction	955	1	1
+345650013	Brainstem infarction NOS	953	1	1
+5011471000006116	Posterior circulation stroke of uncertain pathology	941	1	1
+542251000006112	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic	897	1	1
+6348301000006119	Embolic stroke	865	1	1
+5011411000006113	Thalamic haemorrhage	849	1	1
+495394013	Cortical haemorrhage	842	1	1
+505324014	Traumatic cerebral haemorrhage	810	1	1
+12223101000006118	Intracerebral haemorrhage	801	1	1
+345658018	Pure sensory lacunar syndrome	797	1	1
+123521000006118	Subarachnoid haemorrhage from posterior communicating artery	779	1	1
+5011041000006118	Anterior cerebral circulation infarction	733	1	1
+123441000006112	Subarachnoid haemorrh from intracranial artery, unspecif	703	1	1
+300395011	Occlusion and stenosis of middle cerebral artery	689	1	1
+5967391000006111	Multiple lacunar infarcts	663	1	1
+744921000006116	Intracerebral haemorrhage in hemisphere, unspecified	635	1	1
+1212072018	Occlusive stroke	559	1	1
+391042012	Subarachnoid haemorrhage following injury	529	1	1
+300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified	466	1	1
+5011291000006119	Haemorrhagic cerebral infarction	446	1	1
+123491000006115	Subarachnoid haemorrhage from basilar artery	434	1	1
+5011461000006111	Anterior circulation stroke of uncertain pathology	420	1	1
+370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	410	1	1
+5583061000006119	Subarachnoid haemorrhage from anterior communicating artery aneurysm	399	1	1
+542831000006116	Cerebral embolus	391	1	1
+57341000006119	Wallenberg's syndrome	360	1	1
+300936018	[X]Other subarachnoid haemorrhage	326	1	1
+3818181000006114	Lacunar infarct	298	1	1
+5518041000006112	Spontaneous subarachnoid haemorrhage	264	1	1
+320853015	Other cerebral haemorrhage following injury	233	1	1
+3508964014	Cerebrovascular accident due to thrombus of left middle cerebral artery	232	1	1
+6846141000006118	Cardioembolic stroke	224	1	1
+370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	221	1	1
+5583021000006113	Subarachnoid haemorrhage from middle cerebral artery aneurysm	219	1	1
+884451000006111	Cerebral haemorrhage NOS	216	1	1
+4777881000006112	Intracerebral haemorrhage, multiple localised	214	1	1
+5011161000006115	Lacunar stroke	214	1	1
+5583081000006112	Subarachnoid haemorrhage from posterior communicating artery aneurysm	207	1	1
+5011191000006111	Pure motor lacunar infarction	204	1	1
+428181000006115	Subarachnoid hemorrhage	184	1	1
+746571000006116	Intracerebral haemorrhage, multiple localized	171	1	1
+300399017	Occlusion and stenosis of cerebellar arteries	167	1	1
+3508961018	Cerebrovascular accident due to thrombus of right middle cerebral artery	163	1	1
+5011451000006114	Stroke of uncertain pathology	163	1	1
+605481000006110	CVA - cerebrovascular accident in the puerperium	158	1	1
+13909901000006119	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	157	0	1
+3505637014	Occlusion of left middle cerebral artery	153	1	1
+3509794017	Cerebrovascular accident due to occlusion of left middle cerebral artery	148	1	1
+300276019	External capsule haemorrhage	139	1	1
+300398013	Occlusion and stenosis of posterior cerebral artery	137	1	1
+7071901000006111	Thalamic infarction	134	1	1
+12761901000006117	Subarachnoid hemorrhage	132	1	1
+3508955016	Cerebrovascular accident due to thrombus of basilar artery	130	1	1
+7855631000006111	Cerebral ischaemic stroke due to small artery occlusion	128	1	1
+6348291000006115	Thrombotic stroke	123	1	1
+5011141000006119	Posterior cerebral circulation stroke	120	1	1
+123381000006110	Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness	119	1	1
+5011211000006112	Pure sensory lacunar infarction	117	1	1
+14014251000006116	Cerebrovascular accident due to occlusion of bilateral pontine arteries	117	0	1
+5011111000006118	Partial anterior cerebral circulation stroke	116	1	1
+345639010	Infarction - precerebral	112	1	1
+3505639012	Occlusion of right middle cerebral artery	112	1	1
+6990991000006112	Ischemic stroke	111	1	1
+3509810017	Cerebrovascular accident due to occlusion of right middle cerebral artery	110	1	1
+4540691000006112	History of subarachnoid haemorrhage	108	1	1
+884431000006116	Extradural haemorrhage	106	1	1
+12223121000006111	ICH - intracerebral haemorrhage	103	1	1
+300935019	[X]Subarachnoid haemorrhage from other intracranial arteries	101	1	1
+7067291000006113	Infarction of medulla oblongata	101	1	1
+2622631000006114	Intrapontine haemorrhage	97	1	1
+4056931000006116	Brain stem haemorrhage	93	1	1
+5011121000006114	PACS - Partial anterior cerebral circulation stroke	91	1	1
+13909881000006116	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	86	0	1
+884481000006115	Vertebral artery occluded	84	1	1
+7378271000006116	Intracranial haemorrhage following injury	82	1	1
+3507383012	Spontaneous haemorrhage of cortical intracerebral hemisphere	75	1	1
+300253017	Subarachnoid haemorrhage from vertebral artery	74	1	1
+300396012	Occlusion and stenosis of anterior cerebral artery	69	1	1
+7598981000006119	Cerebral infarction due to embolism of middle cerebral artery	69	1	1
+3509790014	Cerebrovascular accident due to occlusion of right posterior cerebral artery	66	1	1
+300244012	Subarachnoid haemorrhage from carotid siphon and bifurcation	62	1	1
+13718621000006117	History of cerebrovascular accident due to ischaemia	61	0	1
+13909861000006114	Cerebral ischaemic stroke due to dissection of artery	60	0	1
+35801000006116	Other cerebral h'ge after injury no open intracranial wound	56	1	1
+5011071000006114	Total anterior cerebral circulation stroke	56	1	1
+5589641000006112	Intracerebellar and posterior fossa haemorrhage	55	1	1
+884461000006113	Basilar artery occluded	54	1	1
+7515281000006115	Multiple lacunar infarcts	52	1	1
+2871271000006114	Intraventricular haemorrhage	51	1	1
+5011241000006111	Lacunar ataxic hemiparesis	51	1	1
+5011351000006119	Posterior cerebral circulation haemorrhagic infarction	49	1	1
+320735017	Subarachnoid haemorrhage following injury with open intracranial wound	46	1	1
+483988011	Bulbar haemorrhage	46	1	1
+267321000006114	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction	45	1	1
+267311000006118	Occlusion and stenosis of multiple and bilateral cerebral arteries	43	1	1
+7378421000006118	Traumatic intracerebral haemorrhage	43	1	1
+12223111000006115	Intracerebral hemorrhage	42	1	1
+2832651000006111	Subcortical haemorrhage	41	1	1
+3777981000006119	Posterior inferior cerebellar artery syndrome	40	1	1
+480952017	Perinatal subarachnoid haemorrhage	40	1	1
+5011081000006112	TACS - Total anterior cerebral circulation stroke	40	1	1
+7071911000006114	Thalamic stroke	40	1	1
+5011581000006119	Subarachnoid haemorrhage due to ruptured aneurysm	38	1	1
+3778021000006116	LMS - Lateral medullary syndrome	35	1	1
+5597281000006110	Ruptured cerebral arteriovenous malformation	35	1	1
+426231000006114	[X]Sequelae of other nontraumatic intracranial haemorrhage	33	1	1
+5011101000006116	PACI - Partial anterior cerebral circulation infarction	33	1	1
+884501000006113	Cerebral A. occlusion NOS	33	1	1
+320897016	Other cerebral haemorrhage following injury NOS	30	1	1
+316519019	Subarachnoid haemorrhage due to birth injury	29	1	1
+3508962013	Stroke due to thrombus of right middle cerebral artery	27	1	1
+5011171000006110	LACI - Lacunar infarction	27	1	1
+5011431000006119	Lacunar haemorrhage	26	1	1
+2841141000006111	SAH - Subarachnoid haemorrhage	25	1	1
+3508965010	Stroke due to thrombus of left middle cerebral artery	24	1	1
+9875951000006117	Cerebrovascular accident due to right carotid artery stenosis	23	1	1
+3509799010	Cerebrovascular accident due to occlusion of left posterior cerebral artery	22	1	1
+13717171000006112	Cerebrovascular accident due to stenosis of bilateral carotid arteries	22	0	1
+3505651014	Occlusion of left posterior cerebral artery	20	1	1
+5597521000006114	Ruptured aneurysm of anterior communicating artery	20	1	1
+3505653012	Occlusion of right posterior cerebral artery	19	1	1
+3441831000006111	Progressing stroke	18	1	1
+5011061000006119	TACI - Total anterior cerebral circulation infarction	18	1	1
+8031281000006118	Cerebral infarction due to stenosis of carotid artery	18	1	1
+9875961000006115	Cerebrovascular accident due to left carotid artery stenosis	18	1	1
+3510963013	Lacunar ataxic hemiparesis of left dominant side	17	1	1
+7599001000006116	Cerebral infarction due to thrombosis of middle cerebral artery	17	1	1
+3510961010	Lacunar ataxic hemiparesis of right dominant side	16	1	1
+3508958019	Cerebrovascular accident due to thrombus of right carotid artery	15	1	1
+5011231000006118	Pure sensorimotor lacunar infarction	15	1	1
+5058411000006114	Ruptured cerebral aneurysm	14	1	1
+5518071000006116	SAH - Spontaneous subarachnoid haemorrhage	14	1	1
+5011331000006114	Anterior cerebral circulation haemorrhagic infarction	13	1	1
+2871261000006119	Intraventricular hemorrhage	12	1	1
+3508952018	Cerebrovascular accident due to thrombus of left carotid artery	12	1	1
+2622651000006119	Pontine hemorrhage	11	1	1
+3509792018	Cerebrovascular accident due to occlusion of left carotid artery	11	1	1
+7855711000006113	Stroke co-occurrent with migraine	11	1	1
+3636133016	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	10	1	1
+5597491000006112	Ruptured aneurysm of middle cerebral artery	10	1	1
+8045741000006119	Nontraumatic intraparenchymal cerebral haemorrhage	10	1	1
+3533574016	Spontaneous intracranial haemorrhage	9	1	1
+3636136012	Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus	9	1	1
+4777861000006119	Intracerebral haemorrhage with intraventricular haemorrhage	9	1	1
+6837051000006119	Basal ganglion stroke	9	1	1
+14014281000006112	Cerebrovascular accident due to stenosis of bilateral vertebral arteries	9	0	1
+411416011	Stroke in the puerperium	8	1	1
+4777811000006117	Basal ganglia hemorrhage	8	1	1
+12223131000006114	ICH - intracerebral hemorrhage	7	1	1
+307879017	Puerperal cerebrovascular disorder unspecified	7	1	1
+3509817019	Left hemispheric cerebellar artery embolism with stroke	7	1	1
+7703601000006113	Post stroke pain	7	1	1
+9875641000006111	Cerebrovascular accident due to right carotid artery occlusion	7	1	1
+13718601000006110	History of embolic cerebrovascular accident	7	0	1
+123411000006113	Subarachnoid h'ge inj no open intracran wnd+no loss consc	6	1	1
+2520541000006112	Intracranial hemorrhage	6	1	1
+2871241000006118	Ventricular haemorrhage	6	1	1
+3636969013	Occlusion of right middle cerebral artery by embolus	6	1	1
+5011421000006117	Thalamic hemorrhage	6	1	1
+5597571000006110	Ruptured aneurysm of posterior communicating artery	6	1	1
+7378401000006111	Traumatic intracerebral hemorrhage	6	1	1
+123391000006113	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc	5	1	1
+2841151000006113	SAH - Subarachnoid hemorrhage	5	1	1
+307880019	Puerperal cerebrovascular disorder - delivered	5	1	1
+3508956015	Stroke due to basilar artery thrombus	5	1	1
+3636143018	Cerebrovascular accident due to occlusion of left cerebellar artery by embolus	5	1	1
+5583101000006116	Subarachnoid haemorrhage from basilar artery aneurysm	5	1	1
+5649201000006113	Extension of cerebrovascular accident	5	1	1
+7572391000006114	Perimesencephalic subarachnoid hemorrhage	5	1	1
+30981000006112	Oth cerebral h'ge inj no open intracran wnd+unspec consc	4	1	1
+3509781019	Cerebrovascular accident due to occlusion of right cerebellar artery	4	1	1
+3533575015	Spontaneous intracranial hemorrhage	4	1	1
+3533578018	Nontraumatic intracranial haemorrhage	4	1	1
+4056951000006111	Brainstem haemorrhage	4	1	1
+4057031000006117	Brain stem infarct	4	1	1
+6837061000006117	Basal ganglion infarct	4	1	1
+7572381000006111	Perimesencephalic subarachnoid haemorrhage	4	1	1
+123431000006119	Subarachnoid h'ge inj no open intracran wound + unspec consc	3	1	1
+2832661000006113	Subcortical hemorrhage	3	1	1
+307884011	Puerperal cerebrovascular disorder NOS	3	1	1
+3509769018	Cerebrovascular accident due to occlusion of left cerebellar artery	3	1	1
+35791000006117	Other cerebral h'ge after injury + open intracranial wound	3	1	1
+3636141016	Cerebrovascular accident due to occlusion of right cerebellar artery by embolus	3	1	1
+3719851000006116	Cerebellar hemorrhage	3	1	1
+5582971000006117	Subarachnoid haemorrhage from multiple aneurysms	3	1	1
+5582991000006116	Subarachnoid haemorrhage from anterior cerebral artery aneurysm	3	1	1
+5597291000006113	AVM - Ruptured cerebral arteriovenous malformation	3	1	1
+7991141000006110	Occlusion of cerebral artery with stroke	3	1	1
+13718641000006112	History of ischaemic stroke	3	0	1
+13909871000006119	Cerebral ischaemic stroke due to aortic arch embolism	3	0	1
+123311000006115	Subarach h'ge inj no open intracran wnd + concussion unspec	2	1	1
+123351000006119	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	2	1	1
+200591000006119	Puerperal cerebrovascular disorder - delivered with postnatal complication	2	1	1
+3509777019	Cerebrovascular accident due to occlusion of left pontine artery	2	1	1
+3510959018	Lacunar ataxic hemiparesis of left nondominant side	2	1	1
+3636970014	Occlusion of left middle cerebral artery by embolus	2	1	1
+4056941000006114	Brain stem hemorrhage	2	1	1
+4057041000006110	Brain stem stroke	2	1	1
+4057051000006112	Infarction of brain stem	2	1	1
+5011181000006113	LI - Lacunar infarction	2	1	1
+5583041000006118	Subarachnoid haemorrhage from posterior cerebral artery aneurysm	2	1	1
+5583121000006114	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm	2	1	1
+5597331000006118	Angiogram-negative subarachnoid haemorrhage	2	1	1
+5597481000006114	Ruptured aneurysm of anterior cerebral artery	2	1	1
+5597651000006116	Ruptured internal carotid-posterior communicating artery zone aneurysm	2	1	1
+5974521000006116	History of stroke in last year	2	1	1
+7571431000006113	Deep hemispheric haemorrhage	2	1	1
+7951271000006116	Haemorrhage of medulla oblongata	2	1	1
+8089851000006116	Nontraumatic intracerebral haemorrhage	2	1	1
+13909891000006118	Cerebral ischaemic stroke due to hypercoagulable state	2	0	1
+123331000006114	Subarach h'ge inj no open intracran wnd+LOC unspec duration	1	1	1
+123361000006117	Subarachnoid h'ge inj + open intracran wound + unspec consc	1	1	1
+123421000006117	Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC	1	1	1
+200621000006117	Puerperal cerebrovascular disorder with antenatal complication	1	1	1
+200631000006119	Puerperal cerebrovascular disorder with postnatal complication	1	1	1
+2832671000006118	Subcortical cerebral haemorrhage	1	1	1
+2841161000006110	Subarachnoid intracranial haemorrhage	1	1	1
+2841171000006115	Subarachnoid intracranial hemorrhage	1	1	1
+3346051000006110	Internal capsule hemorrhage	1	1	1
+3510551014	History of hemorrhagic stroke with residual deficit	1	1	1
+3636139017	Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus	1	1	1
+3687811000006118	Cerebral hemisphere haemorrhage	1	1	1
+3719861000006119	Haemorrhagic cerebellum	1	1	1
+3728451000006116	Cerebral arterial embolism	1	1	1
+4777871000006114	Intracerebral hemorrhage with intraventricular hemorrhage	1	1	1
+4777981000006117	Occlusion of basilar artery	1	1	1
+5011301000006118	Hemorrhagic cerebral infarction	1	1	1
+5011371000006112	Massive supratentorial cerebral haemorrhage	1	1	1
+5011571000006117	Subarachnoid hemorrhage due to ruptured arteriovenous malformation	1	1	1
+5518061000006111	Spontaneous subarachnoid hemorrhage	1	1	1
+5518101000006114	Nontraumatic subarachnoid intracranial hemorrhage	1	1	1
+5589651000006114	Intracerebellar and posterior fossa hemorrhage	1	1	1
+5597601000006115	Ruptured aneurysm of basilar artery	1	1	1
+7703591000006117	Pain following cerebrovascular accident	1	1	1
+7855641000006118	Cerebral ischemic stroke due to small artery occlusion	1	1	1
+7863741000006115	Cerebral ischemic stroke due to stenosis of extracranial large artery	1	1	1
+8046951000006114	Cerebral infarction due to carotid artery occlusion	1	1	1
+8090471000006119	Cerebral infarction due to stenosis of precerebral artery	1	1	1
+8211961000006117	History of cerebellar stroke	1	1	1
+989201000006117	Cerebral haemorrhage	1	1	1
+989211000006119	Cerebral haemorrhage NOS	1	1	1
+13718611000006113	History of embolic stroke	1	0	1
+11843931000006117	Cerebrovascular accident due to stenosis of right carotid artery	NA	1	0
+11843941000006110	Cerebrovascular accident due to stenosis of left carotid artery	NA	1	0
+11865051000006118	Cerebrovascular accident due to occlusion of right carotid artery	NA	1	0
+11878511000006113	Cerebrovascular accident due to occlusion of cerebral artery	NA	1	0
+11903571000006110	Stroke due to intracerebral haemorrhage	NA	1	0
+11919571000006110	[X]Other intracerebral haemorrhage	NA	1	0
+11923791000006114	Subarachnoid hemorrhage following injury without open intracranial wound	NA	1	0
+12222971000006119	Occlusion of precerebral artery	NA	1	0
+123281000006117	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	NA	1	0
+123291000006119	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	NA	1	0
+123301000006118	Subarach h'ge inj + open intracran wnd+LOC unspec duration	NA	1	0
+123321000006111	Subarach h'ge inj no open intracran wnd+>24hrs LOC-restored	NA	1	0
+123341000006116	Subarachnoid haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)	NA	1	0
+123371000006112	Subarachnoid haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	NA	1	0
+123401000006110	Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery	NA	1	0
+12722481000006116	Right sided intracerebral haemorrhage, unspecified	NA	1	0
+12758611000006110	Right sided intracerebral hemorrhage, unspecified	NA	1	0
+12762021000006116	Cerebral hemorrhage	NA	1	0
+13031191000006112	Cerebral hemorrhage	NA	1	0
+2622641000006116	Intrapontine hemorrhage	NA	1	0
+2818821000006111	Occlusion of cerebral artery	NA	1	0
+2832681000006115	Subcortical cerebral hemorrhage	NA	1	0
+2836981000006110	Perinatal subarachnoid hemorrhage	NA	1	0
+2836991000006113	Subarachnoid hemorrhage from any perinatal cause	NA	1	0
+2837001000006117	Subarachnoid haemorrhage from any perinatal cause	NA	1	0
+2837011000006119	Perinatal intracranial subarachnoid haemorrhage	NA	1	0
+2837021000006110	Perinatal intracranial subarachnoid hemorrhage	NA	1	0
+2837471000006118	Meningeal haemorrhage	NA	1	0
+2837481000006115	Meningeal hemorrhage	NA	1	0
+2871251000006116	Ventricular hemorrhage	NA	1	0
+2950231000006111	Subarachnoid haemorrhage following injury without open intracranial wound	NA	1	0
+2962821000006118	Occlusion of precerebral artery	NA	1	0
+3027211000006117	Haemorrhage due to ruptured congenital cerebral aneurysm	NA	1	0
+3027221000006113	Hemorrhage due to ruptured congenital cerebral aneurysm	NA	1	0
+3027231000006111	Hemorrhage due to ruptured berry aneurysm	NA	1	0
+3027241000006118	Haemorrhage due to ruptured berry aneurysm	NA	1	0
+3184041000006115	Cerebromeningeal haemorrhage	NA	1	0
+3184051000006118	Cerebromeningeal hemorrhage	NA	1	0
+3203191000006110	Vertebral artery obstruction	NA	1	0
+3299621000006119	Cortical hemorrhage	NA	1	0
+3507311016	Occlusion of bilateral vertebral arteries	NA	1	0
+3507312011	Occlusion of both vertebral arteries	NA	1	0
+3507382019	Spontaneous hemorrhage of cortical intracerebral hemisphere	NA	1	0
+3507384018	Nontraumatic hemispheric cortical intracerebral hemorrhage	NA	1	0
+3507385017	Nontraumatic hemispheric cortical intracerebral haemorrhage	NA	1	0
+3507425016	Cerebrovascular accident due to stenosis of right vertebral artery	NA	1	0
+3507427012	Cerebrovascular accident due to stenosis of left vertebral artery	NA	1	0
+3508953011	Stroke due to thrombus of left carotid artery	NA	1	0
+3508959010	Stroke due to thrombus of right carotid artery	NA	1	0
+3509775010	Cerebrovascular accident due to right vertebral artery occlusion	NA	1	0
+3509779016	Cerebrovascular accident due to occlusion of left vertebral artery	NA	1	0
+3509783016	Cerebrovascular accident due to occlusion of right pontine artery	NA	1	0
+3510549010	History of hemorrhagic cerebrovascular accident with residual deficit	NA	1	0
+3510550010	History of haemorrhagic cerebrovascular accident with residual deficit	NA	1	0
+3510552019	History of haemorrhagic stroke with residual deficit	NA	1	0
+3510965018	Lacunar ataxic hemiparesis of right nondominant side	NA	1	0
+3511249016	Nontraumatic haemorrhage of subarachnoid space from left posterior communicating artery	NA	1	0
+3511250016	Nontraumatic hemorrhage of subarachnoid space from left posterior communicating artery	NA	1	0
+3511251017	Spontaneous haemorrhage of subarachnoid space from left posterior communicating artery	NA	1	0
+3511252012	Spontaneous hemorrhage of subarachnoid space from left posterior communicating artery	NA	1	0
+3511254013	Nontraumatic haemorrhage of subarachnoid space from right posterior communicating artery	NA	1	0
+3511255014	Spontaneous hemorrhage of subarachnoid space from right posterior communicating artery	NA	1	0
+3511256010	Nontraumatic hemorrhage of subarachnoid space from right posterior communicating artery	NA	1	0
+3511257018	Spontaneous haemorrhage of subarachnoid space from right posterior communicating artery	NA	1	0
+3511277013	Spontaneous hemorrhage of subarachnoid space from basilar artery	NA	1	0
+3511278015	Spontaneous haemorrhage of subarachnoid space from basilar artery	NA	1	0
+3511279011	Nontraumatic hemorrhage of subarachnoid space from basilar artery	NA	1	0
+3511280014	Nontraumatic haemorrhage of subarachnoid space from basilar artery	NA	1	0
+3511282018	Spontaneous hemorrhage of subarachnoid space from intracranial artery	NA	1	0
+3511283011	Spontaneous haemorrhage of subarachnoid space from intracranial artery	NA	1	0
+3511284017	Nontraumatic hemorrhage of subarachnoid space from intracranial artery	NA	1	0
+3511285016	Nontraumatic haemorrhage of subarachnoid space from intracranial artery	NA	1	0
+3513216018	Occlusion of left cerebellar artery	NA	1	0
+3513218017	Occlusion of right cerebellar artery	NA	1	0
+3515793014	Cerebrovascular accident due to occlusion of right vertebral artery	NA	1	0
+3533577011	Nontraumatic intracranial hemorrhage	NA	1	0
+3636137015	Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus	NA	1	0
+3636973011	Occlusion of left cerebellar artery by embolus	NA	1	0
+3636975016	Occlusion of right cerebellar artery by embolus	NA	1	0
+3637000018	Occlusion of right posterior cerebral artery by embolus	NA	1	0
+3637002014	Occlusion of left posterior cerebral artery by embolus	NA	1	0
+3662311000006113	Thrombosis of cerebral arteries	NA	1	0
+3662321000006117	Cerebral arterial thrombosis	NA	1	0
+3687821000006114	Cerebral hemisphere hemorrhage	NA	1	0
+3719871000006114	Hemorrhagic cerebellum	NA	1	0
+4056961000006113	Brainstem hemorrhage	NA	1	0
+4540671000006111	H/O subarachnoid hemorrhage	NA	1	0
+4540681000006114	History of subarachnoid hemorrhage	NA	1	0
+4777701000006111	Ruptured saccular aneurysm	NA	1	0
+4777721000006118	Subarachnoid hemorrhage from carotid siphon and bifurcation	NA	1	0
+4777741000006113	Subarachnoid hemorrhage from vertebral artery	NA	1	0
+4777751000006110	Intracranial subarachnoid hemorrhage from vertebral artery	NA	1	0
+4777761000006112	Intracranial subarachnoid haemorrhage from vertebral artery	NA	1	0
+4777831000006111	External capsule hemorrhage	NA	1	0
+4777851000006116	Intracerebral hemorrhage, intraventricular	NA	1	0
+4777891000006110	Intracerebral hemorrhage, multiple localized	NA	1	0
+4777971000006115	Basilar artery obstruction	NA	1	0
+5011021000006113	Cerebrovascular accident due to cerebral artery occlusion	NA	1	0
+5011311000006115	Haemorrhagic stroke	NA	1	0
+5011321000006111	Hemorrhagic stroke	NA	1	0
+5011341000006116	Anterior cerebral circulation hemorrhagic infarction	NA	1	0
+5011361000006117	Posterior cerebral circulation hemorrhagic infarction	NA	1	0
+5011381000006110	Massive supratentorial cerebral hemorrhage	NA	1	0
+5011401000006110	Lobar cerebral hemorrhage	NA	1	0
+5011441000006112	Lacunar hemorrhage	NA	1	0
+5011561000006112	Subarachnoid haemorrhage due to ruptured arteriovenous malformation	NA	1	0
+5011591000006116	Subarachnoid hemorrhage due to ruptured aneurysm	NA	1	0
+5011601000006112	SAH - Subarachnoid hemorrhage from ruptured aneurysm	NA	1	0
+5011611000006110	SAH - Subarachnoid haemorrhage from ruptured aneurysm	NA	1	0
+5011621000006119	Intracranial subarachnoid hemorrhage due to ruptured aneurysm	NA	1	0
+5011631000006116	Intracranial subarachnoid haemorrhage due to ruptured aneurysm	NA	1	0
+5518051000006114	SAH - Spontaneous subarachnoid hemorrhage	NA	1	0
+5518081000006118	Spontaneous intracranial subarachnoid haemorrhage	NA	1	0
+5518091000006115	Spontaneous intracranial subarachnoid hemorrhage	NA	1	0
+5518111000006112	Nontraumatic subarachnoid intracranial haemorrhage	NA	1	0
+5560161000006111	Intracerebral hemorrhage (ICH)	NA	1	0
+5582981000006119	Subarachnoid hemorrhage from multiple aneurysms	NA	1	0
+5583001000006115	Subarachnoid hemorrhage from anterior cerebral artery aneurysm	NA	1	0
+5583031000006111	Subarachnoid hemorrhage from middle cerebral artery aneurysm	NA	1	0
+5583051000006116	Subarachnoid hemorrhage from posterior cerebral artery aneurysm	NA	1	0
+5583071000006114	Subarachnoid hemorrhage from anterior communicating artery aneurysm	NA	1	0
+5583091000006110	Subarachnoid hemorrhage from posterior communicating artery aneurysm	NA	1	0
+5583111000006118	Subarachnoid hemorrhage from basilar artery aneurysm	NA	1	0
+5583131000006112	Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm	NA	1	0
+5583141000006119	Subarachnoid haemorrhage from carotid artery aneurysm	NA	1	0
+5583151000006117	Subarachnoid hemorrhage from carotid artery aneurysm	NA	1	0
+5597341000006111	Angiogram-negative subarachnoid hemorrhage	NA	1	0
+5597351000006113	Angiogram-negative intracranial subarachnoid hemorrhage	NA	1	0
+5597361000006110	Angiogram-negative intracranial subarachnoid haemorrhage	NA	1	0
+5597511000006118	Ruptured aneurysm of posterior cerebral artery	NA	1	0
+5597611000006117	Ruptured aneurysm of posterior inferior cerebellar artery	NA	1	0
+5597641000006118	Ruptured internal carotid-anterior communicating artery zone aneurysm	NA	1	0
+5597661000006119	Ruptured internal carotid bifurcation aneurysm	NA	1	0
+5649211000006111	Extension of stroke	NA	1	0
+5649221000006115	CVA - Extension of cerebrovascular accident	NA	1	0
+6593111000006115	Nontraumatic extradural hemorrhage	NA	1	0
+6593121000006111	Nontraumatic epidural haemorrhage	NA	1	0
+6593131000006114	Nontraumatic epidural hemorrhage	NA	1	0
+6593141000006116	Nontraumatic extradural intracranial hemorrhage	NA	1	0
+6593151000006119	Nontraumatic extradural intracranial haemorrhage	NA	1	0
+6907881000006118	Hemorrhagic stroke monitoring	NA	1	0
+7052011000006119	Non-traumatic intracerebral ventricular haemorrhage	NA	1	0
+7052021000006110	Non-traumatic intracerebral ventricular hemorrhage	NA	1	0
+7067301000006114	Medulla oblongata stroke	NA	1	0
+7085851000006110	History of cerebral haemorrhage	NA	1	0
+7085861000006112	History of cerebral hemorrhage	NA	1	0
+7096021000006119	History of haemorrhage into ventricle of brain	NA	1	0
+7096031000006116	History of ventricular hemorrhage	NA	1	0
+7096041000006114	History of hemorrhage into ventricle of brain	NA	1	0
+7096051000006111	History of intraventricular haemorrhage	NA	1	0
+7096061000006113	History of intraventricular hemorrhage	NA	1	0
+7096071000006118	History of ventricular haemorrhage	NA	1	0
+7100261000006114	History of cardioembolic stroke	NA	1	0
+7112631000006117	History of cerebrovascular accident without residual deficits	NA	1	0
+7135051000006117	History of occlusion of cerebral artery	NA	1	0
+7184511000006118	History of occlusion of cerebral artery without cerebral infarction	NA	1	0
+7232811000006116	History of cerebrovascular accident with residual deficit	NA	1	0
+7251251000006113	Infarct of cerebrum due to iatrogenic cerebrovascular accident	NA	1	0
+7377671000006118	Haemorrhage into subarachnoid space of neuraxis	NA	1	0
+7377681000006115	Hemorrhage into subarachnoid space of neuraxis	NA	1	0
+7378281000006118	Intracranial hemorrhage following injury	NA	1	0
+7378441000006113	Traumatic cerebral hemorrhage	NA	1	0
+7522031000006111	History of cerebrovascular accident in last eight weeks	NA	1	0
+7571421000006110	Deep hemispheric cerebral haemorrhage	NA	1	0
+7571441000006115	Deep hemispheric cerebral hemorrhage	NA	1	0
+7571451000006118	Deep hemispheric hemorrhage	NA	1	0
+7571741000006112	Subarachnoid haemorrhage from vertebral artery aneurysm	NA	1	0
+7571751000006114	Subarachnoid hemorrhage from vertebral artery aneurysm	NA	1	0
+7703611000006111	Post CVA (cerebrovascular accident) pain	NA	1	0
+7741501000006118	Cerebrovascular accident during surgery	NA	1	0
+7741511000006115	CVA (cerebrovascular accident) during surgery	NA	1	0
+7855651000006116	Cerebral ischaemic stroke due to intracranial large artery atherosclerosis	NA	1	0
+7855661000006119	Cerebral ischemic stroke due to intracranial large artery atherosclerosis	NA	1	0
+7855671000006114	Cerebral ischaemic stroke due to extracranial large artery atherosclerosis	NA	1	0
+7855681000006112	Cerebral ischemic stroke due to extracranial large artery atherosclerosis	NA	1	0
+7855731000006119	Migraine-induced stroke	NA	1	0
+7863711000006119	Cerebral ischaemic stroke due to occlusion of extracranial large artery	NA	1	0
+7863721000006110	Cerebral ischemic stroke due to occlusion of extracranial large artery	NA	1	0
+7863731000006113	Cerebral ischaemic stroke due to stenosis of extracranial large artery	NA	1	0
+7865721000006111	Ischaemic stroke without residual deficits	NA	1	0
+7865731000006114	Ischemic stroke without residual deficits	NA	1	0
+7951281000006118	Hemorrhage of medulla oblongata	NA	1	0
+7955241000006114	Multifocal cerebral infarction due to and following procedure on cardiovascular system	NA	1	0
+8015121000006118	Cerebral infarction due to occlusion of basilar artery	NA	1	0
+8015131000006115	Cerebral infarction due to vertebral artery occlusion	NA	1	0
+8030701000006114	History of parietal cerebrovascular accident	NA	1	0
+8031211000006113	History of lacunar cerebrovascular accident	NA	1	0
+8037251000006117	History of thrombotic stroke without residual deficits	NA	1	0
+8037261000006115	History of haemorrhagic cerebrovascular accident without residual deficits	NA	1	0
+8037271000006110	History of hemorrhagic cerebrovascular accident without residual deficits	NA	1	0
+8037281000006113	History of embolic stroke without deficits	NA	1	0
+8044331000006114	History of haemorrhagic stroke with hemiparesis	NA	1	0
+8044341000006116	History of hemorrhagic stroke with hemiparesis	NA	1	0
+8044361000006117	History of haemorrhagic stroke with hemiplegia	NA	1	0
+8044371000006112	History of hemorrhagic stroke with hemiplegia	NA	1	0
+8044411000006113	Spontaneous cerebral haemorrhage with compression of brain	NA	1	0
+8044421000006117	Compression of brain co-occurrent and due to spontaneous cerebral hemorrhage	NA	1	0
+8044431000006119	Spontaneous cerebral hemorrhage with compression of brain	NA	1	0
+8044441000006112	Compression of brain co-occurrent and due to spontaneous cerebral haemorrhage	NA	1	0
+8044461000006111	Ischaemic stroke with coma	NA	1	0
+8044471000006116	Ischemic stroke with coma	NA	1	0
+8044491000006115	Ischemic stroke without coma	NA	1	0
+8044541000006113	Nontraumatic subarachnoid haemorrhage with brain compression	NA	1	0
+8044551000006110	Compression of brain co-occurrent and due to nontraumatic subarachnoid haemorrhage	NA	1	0
+8044561000006112	Compression of brain co-occurrent and due to nontraumatic subarachnoid hemorrhage	NA	1	0
+8044571000006117	Nontraumatic subarachnoid hemorrhage with brain compression	NA	1	0
+8044621000006119	History of ischaemic stroke without residual deficits	NA	1	0
+8044631000006116	History of ischemic stroke without residual deficits	NA	1	0
+8044801000006113	History of ischaemic cerebrovascular accident with residual deficit	NA	1	0
+8044811000006111	History of ischemic cerebrovascular accident with residual deficit	NA	1	0
+8044821000006115	History of embolic stroke with deficits	NA	1	0
+8045251000006112	Spontaneous cerebellar haemorrhage	NA	1	0
+8045261000006114	Spontaneous cerebellar hemorrhage	NA	1	0
+8045751000006117	Spontaneous intraparenchymal cerebral haemorrhage	NA	1	0
+8045761000006115	Spontaneous intraparenchymal cerebral hemorrhage	NA	1	0
+8045771000006110	Nontraumatic intraparenchymal cerebral hemorrhage	NA	1	0
+8089821000006113	Spontaneous cerebral haemorrhage	NA	1	0
+8089831000006111	Spontaneous cerebral hemorrhage	NA	1	0
+8089841000006118	Nontraumatic intracerebral hemorrhage	NA	1	0
+8090421000006115	Cerebral infarction due to vertebral artery stenosis	NA	1	0
+8211971000006112	History of stroke of cerebellum	NA	1	0
+8211981000006110	History of nontraumatic ruptured cerebral aneurysm	NA	1	0
+2729551000000111	Cerebral infarction due to occlusion of cerebral artery	NA	1	0
+2729571000000119	Cerebral infarction due to stenosis of cerebral artery	NA	1	0
+2901571000006113	Completed stroke	NA	1	0
+2954611000006112	Pars basalis haemorrhage	NA	1	0
+2954621000006116	Basilar hemorrhage	NA	1	0
+2954631000006118	Basilar haemorrhage	NA	1	0
+2954641000006111	Pars basalis hemorrhage	NA	1	0
+4193641000006111	Nonparalytic stroke	NA	1	0
+4270361000006116	Paralytic stroke	NA	1	0
+5009091000006112	Infarction of optic radiation	NA	1	0
+5898461000006119	Cerebellar haematoma	NA	1	0
+5898471000006114	Cerebellar hematoma	NA	1	0
+5912811000006111	Infarction of visual cortex	NA	1	0
+6431861000006113	Periventricular haemorrhagic venous infarct	NA	1	0
+6431871000006118	Periventricular hemorrhagic venous infarct	NA	1	0
+7134241000006113	Intraparenchymal haematoma of brain	NA	1	0
+7134251000006110	Intraparenchymal hematoma of brain	NA	1	0
+7363341000006119	Intraparenchymal haemorrhage of brain	NA	1	0
+7363351000006117	Intraparenchymal hemorrhage of brain	NA	1	0
+7386801000006119	Haemorrhage in globus pallidus	NA	1	0
+7386811000006116	Pallidal hemorrhage	NA	1	0
+7386821000006112	Pallidal haemorrhage	NA	1	0
+7386831000006110	Hemorrhage in globus pallidus	NA	1	0
+7386841000006117	Haemorrhage in caudate nucleus	NA	1	0
+7386851000006115	Hemorrhage in caudate nucleus	NA	1	0
+7386861000006118	Haemorrhage in putamen	NA	1	0
+7386871000006113	Hemorrhage in putamen	NA	1	0
+7572361000006118	Non-aneurysmal subarachnoid intracranial haemorrhage	NA	1	0
+7572371000006113	Non-aneurysmal subarachnoid intracranial hemorrhage	NA	1	0
+7572401000006111	Convexal subarachnoid haemorrhage	NA	1	0
+7572411000006114	Convexal subarachnoid hemorrhage	NA	1	0
+7586101000006114	Non-aneurysmal perimesencephalic subarachnoid haemorrhage	NA	1	0
+7586111000006112	Non-aneurysmal perimesencephalic subarachnoid hemorrhage	NA	1	0
+7834261000006115	Focal haemorrhagic contusion of cerebrum	NA	1	0
+7834271000006110	Focal hemorrhagic contusion of cerebrum	NA	1	0
+7839991000006115	Silent cerebral infarct	NA	1	0
+8221321000006118	Stroke and TIA	NA	1	0

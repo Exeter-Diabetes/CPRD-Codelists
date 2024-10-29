@@ -1,481 +1,488 @@
-medcodeid	term_medcode
-4540521000006111	History of heart failure
-251680018	H/O: heart failure
-72934016	Rheumatic left ventricular failure
-728671000006119	Malignant hypertensive heart disease with congestive cardiac failure
-3852501000006115	Malignant hypertensive heart disease with congestive heart failure
-504901000006118	Benign hypertensive heart disease with congestive cardiac failure
-741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
-789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
-82584011	Acute cor pulmonale
-145620019	Chronic pulmonary heart disease
-299853015	Other chronic pulmonary heart disease NOS
-395756011	Chronic pulmonary heart disease NOS
-299851018	Other chronic pulmonary heart disease
-3927521000006118	Chronic cardiopulmonary disease
-884191000006113	Chronic pulmonary heart dis.
-132655012	Chronic cor pulmonale
-3800291000006115	COR - Chronic cor pulmonale
-884211000006114	Other pulmonary heart disease
-18472010	Acute congestive heart failure
-147247018	Chronic congestive heart failure
-300179017	Decompensated cardiac failure
-300180019	Compensated cardiac failure
-3182541000006117	Congestive cardiac failure
-3182531000006110	Congestive heart disease
-3182551000006115	CCF - Congestive cardiac failure
-3182561000006118	CHF - Congestive heart failure
-70653017	Congestive heart failure
-493287011	Congestive cardiac failure
-206703015	Right heart failure
-1816101000006113	Right ventricular failure
-490972013	Right ventricular failure
-4005301000006110	Biventricular failure
-510016018	Biventricular congestive heart failure
-300190010	Acute left ventricular failure
-3886061000006119	Left-sided heart failure
-141306010	Left ventricular failure
-3886071000006114	LVF - Left ventricular failure
-3886041000006118	Left heart failure
-3152731000006113	Pulmonary edema - acute
-1216090015	Acute oedema of lung, unspecified
-301741013	Acute pulmonary oedema unspecified
-3152691000006117	Acute pulmonary edema
-3152701000006117	Acute edema of lung
-3152711000006119	Acute oedema of lung
-1490256017	Acute pulmonary oedema
-301743011	Acute pulmonary oedema NOS
-3152721000006110	Pulmonary oedema - acute
-411506018	Impaired left ventricular function
-5573991000006118	Impaired left ventricular func
-784191000006110	Impaired left ventricular function
-94251011	Acute heart failure
-139482012	Cardiac failure
-223981000000118	Cardiac failure NOS
-3868321000006113	Weak heart
-3868311000006117	Myocardial failure
-3868341000006118	HF - Heart failure
-395772015	Heart failure NOS
-139475013	Heart failure
-3868351000006116	Cardiac insufficiency
-139481017	Weak heart
-453099015	H/O: Heart failure in last year
-5990971000006113	History of heart failure in last year
-1488804017	Heart failure confirmed
-11927011000006113	New York Heart Association Classification
-6960931000006110	NYHA - New York Heart Association Classification
-2616470012	New York Heart Association Classification - Class I
-2616471011	New York Heart Association Classification - Class II
-2616472016	New York Heart Association Classification - Class III
-2616473014	New York Heart Association Classification - Class IV
-6895651000006113	Emergency hospital admission for heart failure
-12490061000006118	Admit heart failure emergency
-2549208013	Emergency hospital admission for heart failure
-1778488011	Congestive cardiomyopathy
-6615901000006114	Congestive dilated cardiomyopathy
-6615871000006114	CCM - Congestive cardiomyopathy
-6615881000006112	COCM - Congestive cardiomyopathy
-6615851000006116	Dilated cardiomyopathy
-6615891000006110	DCM - Dilated cardiomyopathy
-350413012	Congestive obstructive cardiomyopathy
-2675255018	Congestive heart failure due to valvular disease
-216207010	Left ventricular systolic dysfunction
-1489358014	Left ventricular diastolic dysfunction
-6212571000006119	Acute cardiogenic pulmonary edema
-6212541000006110	Cardiogenic pulmonary edema
-6212521000006115	Acute cardiac pulmonary oedema
-6212551000006112	Acute cardiac pulmonary edema
-6212561000006114	Acute cardiogenic pulmonary oedema
-6212531000006117	Cardiogenic pulmonary oedema
-316833010	Congenital cardiac failure
-350484012	Heart failure as a complication of care
-403107019	Cardiac insufficiency as a complication of care
-412678013	Neonatal cardiac failure
-5586371000006119	Cardiac failure developing in the perinatal period
-5602531000006118	Sepsis-associated left ventricular failure
-5602541000006111	Sepsis-associated right ventricular failure
-451426015	Cardiac failure therapy
-6043761000006113	Refractory heart failure
-2159197017	Echocardiogram shows left ventricular systolic dysfunction
-2159198010	Echocardiogram shows left ventricular diastolic dysfunction
-7321121000006119	Heart failure with preserved ejection fraction
-1647701000000118	Heart failure with normal ejection fraction
-2227501000000110	Heart failure with preserved ejection fraction
-1661371000000112	HFNEF - heart failure with normal ejection fraction
-2549128016	Right ventricular diastolic dysfunction
-6978012	Diastolic dysfunction
-2694523019	Left ventricular cardiac dysfunction
-2548656015	Right ventricular systolic dysfunction
-7573171000006116	Heart failure with reduced ejection fraction
-301694014	Pulmonary oedema
-2805341000006119	Pulmonary edema
-107545013	Hypertensive heart disease
-741661000006118	Hypertensive heart disease NOS
-741681000006111	Hypertensive heart disease NOS with CCF
-741691000006114	Hypertensive heart disease NOS without CCF
-3552531000006110	HHD - Hypertensive heart disease
-3552501000006119	Hypertensive cardiopathy
-299655012	Hypertensive heart disease NOS
-3552511000006116	Hypertensive cardiomegaly
-3552521000006112	Hypertensive cardiovascular disease
-3669421000006118	Asthma - cardiac
-1495417010	Cardiac asthma
-2117931000000116	Heart failure self-management plan agreed
-300217019	Post cardiac operation heart failure NOS
-300214014	Post cardiac operation functional disturbance
-1703621000000112	Worsening pulmonary oedema
-2504341000006116	Acute left heart failure
-2504331000006114	Acute left-sided heart failure
-2529901000006111	Dilated cardiomyopathy secondary to toxic reaction
-2530931000006112	Dilated cardiomyopathy secondary to metazoal myocarditis
-2543761000006114	Dilated cardiomyopathy secondary to myotonic dystrophy
-2580171000006116	Cardiac insufficiency due to prosthesis
-2580181000006118	Heart failure due to prosthesis
-2581861000006110	Hypertensive heart disease with congestive heart failure
-2585431000006117	Chronic left-sided congestive heart failure
-2595681000006117	Dilated cardiomyopathy secondary to sarcoidosis
-2631011000006118	Dilated cardiomyopathy secondary to haemochromatosis
-2631021000006114	Dilated cardiomyopathy secondary to hemochromatosis
-2660881000006116	High output heart failure
-2664351000006113	Chronic right-sided heart failure
-2676691000006113	Dilated cardiomyopathy secondary to phytanic acid storage disease
-2676711000006111	Dilated cardiomyopathy secondary to Refsum disease
-2676701000006113	Dilated cardiomyopathy secondary to Refsum's disease
-2699901000006110	Dilated cardiomyopathy secondary to radiation
-2699911000006113	Dilated cardiomyopathy caused by radiation
-2746601000006112	Restrictive cardiomyopathy secondary to infiltrations
-2757771000006111	Dilated cardiomyopathy secondary to peripartum heart disease
-34556015	Secondary dilated cardiomyopathy
-2840701000006117	Dilated cardiomyopathy secondary to rheumatoid arthritis
-2892421000006113	Restrictive cardiomyopathy secondary to malignancy
-2908651000006113	Low output heart failure
-2934071000006112	Danish type familial amyloid cardiomyopathy
-2934091000006113	Danish type amyloidosis
-2934081000006110	Familial amyloid heart disease
-2934101000006119	Denmark type amyloidosis
-666221000006118	Familial cardiac amyloid
-2934111000006116	Familial amyloid cardiomyopathy
-2964231000006113	Dilated cardiomyopathy secondary to muscular dystrophy
-2969451000006116	Dilated cardiomyopathy secondary to sensitivity
-2991241000006116	Dilated cardiomyopathy secondary to viral myocarditis
-2997821000006118	Restrictive cardiomyopathy secondary to familial storage disease
-3031351000006116	Restrictive cardiomyopathy secondary to endocardial fibroelastosis
-3035191000006110	Constrictive endocarditis
-3035161000006119	Primary eosinophilic endomyocardial restrictive cardiomyopathy
-3035201000006113	Löffler's parietal fibroplastic endocarditis
-3035171000006114	Eosinophilic endomyocardial disease
-3035181000006112	Löffler's endocarditis
-3053021000006110	Dilated cardiomyopathy secondary to deficiency
-3075181000006114	Dilated cardiomyopathy due to systemic sclerosis
-3075191000006112	Dilated cardiomyopathy secondary to scleroderma
-3075321000006112	Primary familial cardiomyopathy
-59588016	Familial cardiomyopathy
-728681000006116	Malignant hypertensive heart disease without congestive heart failure
-3087841000006114	Dilated cardiomyopathy secondary to systemic lupus erythematosus
-3128441000006111	Restrictive cardiomyopathy secondary to sarcoidosis
-3138401000006112	Dilated cardiomyopathy secondary to granuloma
-3152591000006116	Dilated cardiomyopathy secondary to protozoal myocarditis
-3176431000006115	Hypertrophic cardiomyopathy secondary to neuromuscular disorder
-3178551000006110	Primary endomyocardial fibrosis restrictive cardiomyopathy
-3213831000006118	Right heart failure secondary to left heart failure
-3219591000006115	Dilated cardiomyopathy secondary to fungal myocarditis
-3229411000006118	Obstructive cardiomyopathy
-75410014	Hypertrophic obstructive cardiomyopathy
-3229421000006114	HOCM - Hypertrophic obstructive cardiomyopathy
-3244761000006113	Hypertensive heart failure
-3254291000006112	Dilated cardiomyopathy secondary to dermatomyositis
-3258591000006117	Congestive cardiomyopathy due to selenium deficiency
-3258581000006115	Keshan disease
-3283871000006117	Chronic heart failure
-3314361000006111	Dilated cardiomyopathy secondary to Friedreich's ataxia
-3314371000006116	Dilated cardiomyopathy secondary to Friedreich ataxia
-3314451000006119	Cobalt cardiomyopathy
-3314461000006117	Beer-drinker's cardiomyopathy
-3343421000006117	Familial dilated cardiomyopathy
-3343411000006113	Primary familial dilated cardiomyopathy
-3360091000006112	Primary idiopathic dilated cardiomyopathy
-3364811000006118	Hypertrophic cardiomyopathy secondary to Friedreich ataxia
-3364801000006116	Hypertrophic cardiomyopathy secondary to Friedreich's ataxia
-3370881000006114	Primary eosinophilic endomyocardial cardiomyopathy
-3389851000006118	Dilated cardiomyopathy secondary to bacterial myocarditis
-3402251000006117	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery
-3424991000006119	Restrictive cardiomyopathy secondary to hemochromatosis
-3424981000006117	Restrictive cardiomyopathy secondary to haemochromatosis
-3452461000006110	Dilated cardiomyopathy secondary to amyloidosis
-3457111000006119	Dilated cardiomyopathy secondary to glycogen storage disease
-3482991000006115	Dilated cardiomyopathy secondary to familial storage disease
-3488561000006119	Cardiac insufficiency following cardiac surgery
-3488571000006114	Heart failure following cardiac surgery
-3489281000006119	Hypertensive heart disease without congestive heart failure
-537991000006111	Postpartum cardiomyopathy
-3513911000006111	Puerperal cardiomyopathy
-3527431000006113	Primary idiopathic hypertrophic cardiomyopathy
-3541361000006118	Primary idiopathic restrictive cardiomyopathy
-3550951000006114	Restrictive cardiomyopathy secondary to glycogen storage disease
-3553111000006118	Dilated cardiomyopathy secondary to infiltration
-3589241000006116	Chronic right-sided congestive heart failure
-111625010	Acute pulmonary heart disease
-299848013	Acute pulmonary heart disease NOS
-3616311000006110	Primary endomyocardial fibrosis cardiomyopathy
-3623041000006114	Replacement of pulmonary heart valve in total repair of tetralogy of Fallot
-3623031000006116	Repair of pulmonary heart valve with prosthesis in total repair of tetralogy of Fallot
-3632101000006116	Nonobstructive cardiomyopathy
-3687151000006112	Cardiomyopathy due to drug
-3687171000006119	Dilated cardiomyopathy caused by drug
-3687141000006110	Drug-induced cardiomyopathy
-3687161000006114	Drug-induced specific heart muscle disorder
-3687131000006117	Dilated cardiomyopathy secondary to drug
-3706941000006119	Dilated cardiomyopathy secondary to malignancy
-3718701000006116	Acute left-sided congestive heart failure
-3750831000006111	Restrictive cardiomyopathy secondary to granulomas
-504911000006115	Benign hypertensive heart disease without CCF
-3768511000006114	Benign hypertensive heart disease without congestive heart failure
-3787161000006116	Dilated cardiomyopathy secondary to neuromuscular disorder
-3797011000006119	Restrictive cardiomyopathy secondary to amyloidosis
-3809001000006112	Acute right-sided congestive heart failure
-3821291000006118	Heart failure cell
-3821281000006116	Hemosiderin-laden macrophage
-3821271000006119	Haemosiderin-laden macrophage
-3842421000006111	Congestive rheumatic heart failure
-3855401000006112	Cor pulmonale
-3855421000006119	Right heart failure due to pulmonary disease
-3855411000006110	Right heart failure due to disorder of lung
-138527014	Alcoholic cardiomyopathy
-3859111000006117	Dilated cardiomyopathy caused by alcohol
-3859091000006114	Dilated cardiomyopathy secondary to alcohol
-3866161000006118	Primary familial hypertrophic cardiomyopathy
-3878001000006111	Restrictive cardiomyopathy secondary to mucopolysaccharidosis
-3878171000006116	Dilated cardiomyopathy secondary to nutritive deficiency
-3878181000006118	Nutritional cardiomyopathy
-300032019	Other primary cardiomyopathies
-300912017	[X]Other cardiomyopathies
-3896181000006114	Myocardiopathy
-142397010	Cardiomyopathy
-300041012	Other primary cardiomyopathy NOS
-300062013	Cardiomyopathy NOS
-3901271000006117	Dilated cardiomyopathy secondary to infection
-3914551000006112	Dilated cardiomyopathy secondary to mucopolysaccharidosis
-3954121000006116	Primary cardiomyopathy
-3959991000006115	Cardiac insufficiency during AND/OR resulting from a procedure
-3960001000006113	Heart failure during AND/OR resulting from a procedure
-3966281000006113	Dilated cardiomyopathy secondary to electrolyte deficiency
-3974561000006115	Pleural effusion due to congestive heart failure
-300911012	Primary restrictive cardiomyopathy
-3987001000006110	Rheumatic heart valve failure
-3988271000006114	Dilated cardiomyopathy secondary to polyarteritis nodosa
-4022741000006114	Hypertrophic cardiomyopathy secondary to hyperthyroidism
-4193361000006119	Chronic left-sided heart failure
-4193381000006112	Dilated cardiomyopathy secondary to metabolic disorder
-4193391000006110	Metabolic cardiomyopathy
-216184014	Congestive heart failure monitoring
-299673010	Hypertensive heart and renal disease with renal failure
-299796018	Ischaemic cardiomyopathy
-4776131000006119	Generalized ischemic myocardial dysfunction
-4776121000006117	Generalised ischaemic myocardial dysfunction
-4776141000006112	Ischemic cardiomyopathy
-4777091000006118	Hypertrophic cardiomyopathy without obstruction
-4777111000006110	HCM - Hypertrophic non-obstructive cardiomyopathy
-300038015	Hypertrophic non-obstructive cardiomyopathy
-300040013	Primary dilated cardiomyopathy
-300046019	Mucopolysaccharidosis cardiomyopathy
-4777191000006117	Cardiomyopathy, secondary
-11904331000006116	Secondary cardiomyopathy NOS
-300057012	Cardiomyopathy associated with another disorder
-395768019	Cardiomyopathy associated with another disorder
-300916019	[X]Cardiomyopathy in other diseases classified elsewhere
-12704221000006116	Cardiomyopathy associated with another disorder
-4777181000006115	Secondary cardiomyopathy
-300052018	Cardiomyopathy in disease EC
-370261000006111	[X]Cardiomyopathy in infectious+parasitic diseases CE
-4777211000006116	Cardiomyopathy in Friedreich ataxia
-300053011	Cardiomyopathy in Friedreich's ataxia
-300054017	Cardiomyopathy in myotonic dystrophy
-300055016	Dystrophic cardiomyopathy
-324974014	Heart transplant failure and rejection
-324975010	Heart-lung transplant failure and rejection
-300910013	Hypertrophic cardiomyopathy
-5056831000006119	HCM - Hypertrophic cardiomyopathy
-5056841000006112	Post-myocarditic cardiomyopathy
-5056871000006116	Restrictive cardiomyopathy without endomyocardial fibrosis
-5056881000006118	Familial restrictive cardiomyopathy
-5143111000006115	Benign scapuloperoneal muscular dystrophy with cardiomyopathy
-359673017	Hauptmann-Thannhauser muscular dystrophy
-5143171000006112	Severe scapuloperoneal muscular dystrophy with cardiomyopathy
-401870011	Postoperative pulmonary oedema
-2682661000006114	Postoperative pulmonary edema
-5560071000006117	Pulmonary heart disease
-300884014	[X]Other specified pulmonary heart diseases
-884181000006110	Pulmonary heart disease
-5588241000006116	Haemorrhagic pulmonary oedema
-5588251000006119	Hemorrhagic pulmonary edema
-419130013	Arrhythmogenic right ventricular cardiomyopathy
-460126017	Cardiomyopathy in Duchenne muscular dystrophy
-6204381000006117	Acute right-sided heart failure
-3257341000006116	Chronic pulmonary edema
-494669012	Chronic pulmonary oedema
-6029491000006114	No cardiac failure
-1778232017	Endomyocardial fibrosis
-6611091000006115	African endomyocardial fibrosis
-395766015	Obscure African cardiomyopathy
-6611081000006118	Restrictive cardiomyopathy with endomyocardial fibrosis
-6611101000006114	Obscure cardiomyopathy of Africa
-6727771000006113	Hypertrophy of septomarginal trabeculation
-6727781000006111	Moderator band cardiomyopathy
-6850191000006114	Dilated cardiomyopathy associated with connective tissue disorder
-6850201000006112	Dilated cardiomyopathy due to taurine deficiency
-6873351000006110	Constrictive cardiomyopathy
-6873341000006113	Restrictive cardiomyopathy
-150511013	Constrictive cardiomyopathy
-6878521000006115	Secondary restrictive cardiomyopathy
-2548316014	Seen by community heart failure nurse
-2549089012	Left ventricular dysfunction monitoring verbal invite
-2549243014	Seen in heart failure clinic
-2549697018	Referral to heart failure nurse
-6919191000006119	Diastolic heart failure
-6914191000006115	Systolic heart failure
-6973241000006110	New York Heart Classification finding
-7025691000006110	Decompensated chronic heart failure
-7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction
-7065281000006117	Ischaemic congestive cardiomyopathy
-7065291000006119	Ischemic congestive cardiomyopathy
-7052811000006113	Right heart failure due to pulmonary hypertension
-2674238014	Tachycardia-induced cardiomyopathy
-1705371000000116	Tachycardiomyopathy
-7119751000006110	Chronic systolic dysfunction of left ventricle
-7119761000006112	Chronic left ventricular systolic dysfunction
-7250571000006113	Chronic systolic heart failure
-7251291000006119	Chronic diastolic heart failure
-7262501000006110	Combined systolic and diastolic dysfunction
-7274561000006113	Acute on chronic systolic heart failure
-7274571000006118	Acute systolic heart failure
-7275951000006115	Acute diastolic heart failure
-7275961000006118	Acute on chronic diastolic heart failure
-7306501000006117	Secondary hypertrophic cardiomyopathy
-7306491000006113	Hypertrophic cardiomyopathy associated with another disorder
-7347741000006116	Right ventricular myocardial noncompaction cardiomyopathy
-7347751000006119	Left ventricular myocardial noncompaction cardiomyopathy
-7964821000006113	Nonischemic congestive cardiomyopathy
-8030311000006111	Exacerbation of congestive heart failure
-8037891000006112	Systolic heart failure stage D
-8037901000006111	Systolic heart failure, stage D
-8037911000006114	Systolic heart failure stage C
-8037921000006118	Systolic heart failure, stage C
-8037961000006112	Diastolic heart failure stage C
-8037971000006117	Diastolic heart failure, stage C
-8037941000006113	Diastolic heart failure stage D
-8037951000006110	Diastolic heart failure, stage D
-8021211000006111	Congestive heart failure stage D
-8021221000006115	Congestive heart failure stage C
-7475601000006111	Inflammatory cardiomyopathy
-7475611000006114	Cardiomyopathy due to neuromuscular disorder
-7475641000006113	Valvular cardiomyopathy
-7475651000006110	Cardiomyopathy due to disorder of heart valve
-7475701000006116	Pacing induced cardiomyopathy
-11858851000006114	Pacing-induced cardiomyopathy
-7475711000006118	Ventricular myocardial noncompaction cardiomyopathy
-7475721000006114	Heart failure due to end stage congenital heart disease
-7475731000006112	Hypertrophic cardiomyopathy with genetic marker
-7475741000006119	Dilated cardiomyopathy with genetic marker
-7475751000006117	Ischaemic dilated cardiomyopathy due to coronary artery disease
-7475781000006113	Ischemic dilated cardiomyopathy due to coronary artery disease
-7475771000006110	Ischemic congestive cardiomyopathy due to coronary artery disease
-7475761000006115	Ischaemic congestive cardiomyopathy due to coronary artery disease
-7475891000006117	Hypertrophic mitochondrial cardiomyopathy
-7475881000006115	Mitochondrial cardiomyopathy
-7475901000006118	Histiocytoid mitochondrial cardiomyopathy
-7477861000006117	Right ventricular dysfunction due to disorder of left ventricle
-7487191000006113	Right ventricular cardiac dysfunction
-7487181000006110	Dysfunction of right cardiac ventricle
-305601017	Cardiac failure following abortive pregnancy
-7499321000006117	Induced termination of pregnancy complicated by cardiac failure
-7500111000006111	Systolic heart failure stage A
-8037931000006115	Systolic heart failure stage B
-7500101000006113	Diastolic heart failure stage A
-8037981000006119	Diastolic heart failure stage B
-7501991000006113	Pulmonary hypertension due to systolic left ventricular dysfunction
-7501981000006110	Pulmonary hypertension due to systolic systemic ventricular dysfunction
-7502001000006110	Pulmonary hypertension due to diastolic systemic ventricular dysfunction
-7502011000006113	Pulmonary hypertension due to diastolic left ventricular dysfunction
-8048051000006114	Acute combined systolic and diastolic heart failure
-8031661000006114	Congestive heart failure due to cardiomyopathy
-7507311000006113	Acute on chronic congestive heart failure
-7507301000006110	Acute exacerbation of chronic congestive heart failure
-7510321000006115	Asymptomatic left ventricular systolic dysfunction
-7510341000006110	Symptomatic congestive heart failure
-8048071000006116	Acute on chronic combined systolic and diastolic heart failure
-8011111000006111	Congestive heart failure with right heart failure
-8048061000006111	Chronic combined systolic and diastolic heart failure
-7525381000006119	Secondary nonischemic congestive cardiomyopathy
-8022711000006111	Congestive heart failure as early postoperative complication
-8001631000006110	Hypertensive heart AND chronic kidney disease with congestive heart failure
-7530491000006119	Primary hypertrophic cardiomyopathy
-8065541000006115	Cardiomyopathy due to viral infection
-7560351000006111	X-linked dilated cardiomyopathy
-7560361000006113	Duchenne muscular dystrophy-associated dilated cardiomyopathy
-7560331000006116	Dilated cardiomyopathy 3B
-7560341000006114	DMD-associated dilated cardiomyopathy
-7558431000006116	Salih congenital muscular dystrophy
-7558421000006119	Early onset myopathy with fatal cardiomyopathy
-7558441000006114	Salih myopathy
-5331161000006112	Arrhythmogenic right ventricular cardiomyopathy
-5331151000006110	Arrhythmogenic right ventricular dysplasia
-7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease
-7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy
-7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease
-7573011000006114	Mitral valve regurgitation due to cardiomyopathy
-7573191000006115	Heart failure with reduced ejection fraction due to myocarditis
-8212081000006118	History of cardiomyopathy
-7688011000006118	3-methylglutaconic aciduria type 5
-7688021000006114	Dilated cardiomyopathy with ataxia syndrome
-8464271000006117	Cardiomyopathy due to diphtheria infection
-7705171000006112	Cardiomyopathy co-occurrent with human immunodeficiency virus infection
-7735491000006113	Transthyretin related familial amyloid cardiomyopathy
-7735511000006119	ATTRV122I amyloidosis
-7735501000006117	Transthyretin amyloid cardiopathy
-7738921000006114	Familial isolated ARVD (arrhythmogenic right ventricular dysplasia)
-7738931000006112	Familial isolated arrhythmogenic right ventricular cardiomyopathy
-7738911000006118	Familial isolated arrhythmogenic right ventricular dysplasia
-9834061000006115	Systolic heart failure stage C due to ischemic cardiomyopathy
-9834051000006117	Systolic heart failure stage C due to ischaemic cardiomyopathy
-7786951000006111	Najjar syndrome
-7786941000006114	Malouf syndrome
-7786921000006119	Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome
-7786931000006116	Cardiogenital syndrome
-7791761000006119	Tubular renal disease with cardiomyopathy syndrome
-7806071000006116	Krasnow Qazi syndrome
-7806061000006111	Cardiomyopathy with cataract and hip spine disease syndrome
-7806081000006118	Cardiomyopathy and renal anomaly syndrome
-9834021000006114	Systolic heart failure stage B due to ischaemic cardiomyopathy
-9834031000006112	Systolic heart failure stage B due to ischemic cardiomyopathy
-9834001000006116	Congestive heart failure stage B due to ischemic cardiomyopathy
-9833991000006113	Congestive heart failure stage B due to ischaemic cardiomyopathy
-9833971000006112	Congestive heart failure stage C due to ischaemic cardiomyopathy
-9833981000006110	Congestive heart failure stage C due to Ischemic cardiomyopathy
-8034201000006113	Cardiomyopathy due to hypertension
-7810851000006118	Cardiac conduction disease with dilated cardiomyopathy and brachydactyly syndrome
-7810841000006115	Atriodigital dysplasia Slovenian type
-7810831000006113	Heart-hand syndrome Slovenian type
-7762771000006116	Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome
-7762781000006118	Sengers syndrome
-7762881000006111	Glycogen storage disease type 15
-7762871000006113	Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency
-7762901000006113	Glycogenosis with severe cardiomyopathy due to glycogenin deficiency
-7762891000006114	Glycogen storage disease type XV
-7763221000006118	Congestive heart failure stage B
-7838091000006110	Neonatal cardiac failure due to decreased left ventricular output
-7850181000006112	Sensorineural deafness with dilated cardiomyopathy syndrome
-7857711000006119	Neonatal cardiac failure due to pulmonary overperfusion
-7868601000006115	Cardiomyopathy co-occurrent and due to cirrhosis of liver
-7868591000006111	Cirrhotic cardiomyopathy
-11998421000006119	NYHA (New York Heart Association) Classification class
-833381000006119	New York Heart Association Classification class
-11998471000006118	Assessment using NYHA (New York Heart Association) Classification
-11998461000006113	Assessment using New York Heart Association Classification
-12127521000006110	Cardiomyopathy caused by drug
-12049161000006114	Familial dilated cardiomyopathy with conduction defect due to lamin A/C mutation
-12049151000006112	Familial dilated cardiomyopathy with conduction defect due to LMNA mutation
-13484051000006116	Cardiomyopathy due to COVID-19
-13484061000006119	Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2
-13484031000006111	Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)
-13484041000006118	Cardiomyopathy due to disease caused by 2019 novel coronavirus
-13484071000006114	Cardiomyopathy due to disease caused by 2019-nCoV (novel coronavirus)
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+139475013	Heart failure	1240899	1	1
+70653017	Congestive heart failure	911364	1	1
+141306010	Left ventricular failure	827514	1	1
+493287011	Congestive cardiac failure	556076	1	1
+216207010	Left ventricular systolic dysfunction	364656	1	1
+2159197017	Echocardiogram shows left ventricular systolic dysfunction	245283	1	1
+2549243014	Seen in heart failure clinic	215480	1	1
+142397010	Cardiomyopathy	212817	1	1
+2616471011	New York Heart Association Classification - Class II	156286	1	1
+784191000006110	Impaired left ventricular function	139445	1	1
+2548316014	Seen by community heart failure nurse	125528	1	1
+2616470012	New York Heart Association Classification - Class I	95009	1	1
+2616472016	New York Heart Association Classification - Class III	70457	1	1
+301694014	Pulmonary oedema	69410	1	1
+300040013	Primary dilated cardiomyopathy	63404	1	1
+411506018	Impaired left ventricular function	59095	1	1
+216184014	Congestive heart failure monitoring	45688	1	1
+75410014	Hypertrophic obstructive cardiomyopathy	45078	1	1
+2159198010	Echocardiogram shows left ventricular diastolic dysfunction	44445	1	1
+1489358014	Left ventricular diastolic dysfunction	44123	1	1
+139482012	Cardiac failure	42695	1	1
+395772015	Heart failure NOS	42327	1	1
+107545013	Hypertensive heart disease	40016	1	1
+1647701000000118	Heart failure with normal ejection fraction	37004	1	1
+3886041000006118	Left heart failure	36374	1	1
+300179017	Decompensated cardiac failure	34878	1	1
+6978012	Diastolic dysfunction	34626	1	1
+2549697018	Referral to heart failure nurse	32951	1	1
+1488804017	Heart failure confirmed	32163	1	1
+7573171000006116	Heart failure with reduced ejection fraction	31531	1	1
+147247018	Chronic congestive heart failure	25868	1	1
+132655012	Chronic cor pulmonale	22251	1	1
+510016018	Biventricular congestive heart failure	21501	1	1
+206703015	Right heart failure	19109	1	1
+299796018	Ischaemic cardiomyopathy	19108	1	1
+300910013	Hypertrophic cardiomyopathy	19030	1	1
+300062013	Cardiomyopathy NOS	18098	1	1
+300038015	Hypertrophic non-obstructive cardiomyopathy	16570	1	1
+300190010	Acute left ventricular failure	15328	1	1
+138527014	Alcoholic cardiomyopathy	14295	1	1
+1490256017	Acute pulmonary oedema	12838	1	1
+833381000006119	New York Heart Association Classification class	12500	1	1
+6615851000006116	Dilated cardiomyopathy	12263	1	1
+82584011	Acute cor pulmonale	11239	1	1
+34556015	Secondary dilated cardiomyopathy	10079	1	1
+251680018	H/O: heart failure	9655	1	1
+18472010	Acute congestive heart failure	9496	1	1
+2227501000000110	Heart failure with preserved ejection fraction	9233	1	1
+7025691000006110	Decompensated chronic heart failure	8898	1	1
+2616473014	New York Heart Association Classification - Class IV	6784	1	1
+2694523019	Left ventricular cardiac dysfunction	6169	1	1
+94251011	Acute heart failure	5601	1	1
+2548656015	Right ventricular systolic dysfunction	4709	1	1
+301741013	Acute pulmonary oedema unspecified	4401	1	1
+1816101000006113	Right ventricular failure	4366	1	1
+2117931000000116	Heart failure self-management plan agreed	4362	1	1
+4776121000006117	Generalised ischaemic myocardial dysfunction	4054	1	1
+299851018	Other chronic pulmonary heart disease	3656	1	1
+1778488011	Congestive cardiomyopathy	3363	1	1
+301743011	Acute pulmonary oedema NOS	3315	1	1
+7321121000006119	Heart failure with preserved ejection fraction	3188	1	1
+490972013	Right ventricular failure	3085	1	1
+223981000000118	Cardiac failure NOS	2988	1	1
+451426015	Cardiac failure therapy	2892	1	1
+395756011	Chronic pulmonary heart disease NOS	2541	1	1
+59588016	Familial cardiomyopathy	2453	1	1
+3182541000006117	Congestive cardiac failure	2378	1	1
+419130013	Arrhythmogenic right ventricular cardiomyopathy	2084	1	1
+3182551000006115	CCF - Congestive cardiac failure	2079	1	1
+13910671000006110	Heart failure with mid range ejection fraction	1995	0	1
+3855401000006112	Cor pulmonale	1968	1	1
+395768019	Cardiomyopathy associated with another disorder	1907	1	1
+300180019	Compensated cardiac failure	1851	1	1
+4777091000006118	Hypertrophic cardiomyopathy without obstruction	1836	1	1
+316833010	Congenital cardiac failure	1543	1	1
+145620019	Chronic pulmonary heart disease	1454	1	1
+6029491000006114	No cardiac failure	1397	1	1
+537991000006111	Postpartum cardiomyopathy	1363	1	1
+2675255018	Congestive heart failure due to valvular disease	1332	1	1
+11927011000006113	New York Heart Association Classification	1265	1	1
+2664351000006113	Chronic right-sided heart failure	1140	1	1
+2549208013	Emergency hospital admission for heart failure	1005	1	1
+453099015	H/O: Heart failure in last year	999	1	1
+7251291000006119	Chronic diastolic heart failure	974	1	1
+7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction	956	1	1
+3283871000006117	Chronic heart failure	917	1	1
+494669012	Chronic pulmonary oedema	854	1	1
+2549128016	Right ventricular diastolic dysfunction	825	1	1
+741681000006111	Hypertensive heart disease NOS with CCF	710	1	1
+1661371000000112	HFNEF - heart failure with normal ejection fraction	669	1	1
+1495417010	Cardiac asthma	657	1	1
+300911012	Primary restrictive cardiomyopathy	625	1	1
+300912017	[X]Other cardiomyopathies	605	1	1
+741661000006118	Hypertensive heart disease NOS	604	1	1
+504901000006118	Benign hypertensive heart disease with congestive cardiac failure	586	1	1
+2674238014	Tachycardia-induced cardiomyopathy	572	1	1
+299655012	Hypertensive heart disease NOS	498	1	1
+3859091000006114	Dilated cardiomyopathy secondary to alcohol	495	1	1
+741691000006114	Hypertensive heart disease NOS without CCF	447	1	1
+300054017	Cardiomyopathy in myotonic dystrophy	441	1	1
+4193361000006119	Chronic left-sided heart failure	394	1	1
+7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy	394	1	1
+1703621000000112	Worsening pulmonary oedema	360	1	1
+300032019	Other primary cardiomyopathies	353	1	1
+401870011	Postoperative pulmonary oedema	316	1	1
+72934016	Rheumatic left ventricular failure	313	1	1
+460126017	Cardiomyopathy in Duchenne muscular dystrophy	290	1	1
+150511013	Constrictive cardiomyopathy	290	1	1
+412678013	Neonatal cardiac failure	245	1	1
+300041012	Other primary cardiomyopathy NOS	236	1	1
+7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease	235	1	1
+6873341000006113	Restrictive cardiomyopathy	233	1	1
+1705371000000116	Tachycardiomyopathy	226	1	1
+6960931000006110	NYHA - New York Heart Association Classification	216	1	1
+1778232017	Endomyocardial fibrosis	184	1	1
+884181000006110	Pulmonary heart disease	174	1	1
+5331151000006110	Arrhythmogenic right ventricular dysplasia	168	1	1
+139481017	Weak heart	156	1	1
+350484012	Heart failure as a complication of care	154	1	1
+299673010	Hypertensive heart and renal disease with renal failure	141	1	1
+3589241000006116	Chronic right-sided congestive heart failure	124	1	1
+504911000006115	Benign hypertensive heart disease without CCF	123	1	1
+6212521000006115	Acute cardiac pulmonary oedema	121	1	1
+7475751000006117	Ischaemic dilated cardiomyopathy due to coronary artery disease	119	1	1
+741701000006114	Hypertensive heart and renal disease with (congestive) heart failure	112	1	1
+300916019	[X]Cardiomyopathy in other diseases classified elsewhere	112	1	1
+300053011	Cardiomyopathy in Friedreich's ataxia	112	1	1
+7119751000006110	Chronic systolic dysfunction of left ventricle	112	1	1
+7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease	102	1	1
+300057012	Cardiomyopathy associated with another disorder	101	1	1
+666221000006118	Familial cardiac amyloid	95	1	1
+7510321000006115	Asymptomatic left ventricular systolic dysfunction	91	1	1
+728681000006116	Malignant hypertensive heart disease without congestive heart failure	89	1	1
+2549089012	Left ventricular dysfunction monitoring verbal invite	87	1	1
+403107019	Cardiac insufficiency as a complication of care	83	1	1
+5573991000006118	Impaired left ventricular func	82	1	1
+111625010	Acute pulmonary heart disease	82	1	1
+14015051000006114	Acute on chronic right-sided congestive heart failure	80	0	1
+7250571000006113	Chronic systolic heart failure	76	1	1
+1216090015	Acute oedema of lung, unspecified	58	1	1
+6615891000006110	DCM - Dilated cardiomyopathy	58	1	1
+6919191000006119	Diastolic heart failure	58	1	1
+300052018	Cardiomyopathy in disease EC	53	1	1
+8030311000006111	Exacerbation of congestive heart failure	52	1	1
+7065281000006117	Ischaemic congestive cardiomyopathy	51	1	1
+3886071000006114	LVF - Left ventricular failure	50	1	1
+4776141000006112	Ischemic cardiomyopathy	50	1	1
+728671000006119	Malignant hypertensive heart disease with congestive cardiac failure	47	1	1
+789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	44	1	1
+11998421000006119	NYHA (New York Heart Association) Classification class	41	1	1
+300214014	Post cardiac operation functional disturbance	40	1	1
+5056831000006119	HCM - Hypertrophic cardiomyopathy	39	1	1
+324975010	Heart-lung transplant failure and rejection	36	1	1
+300055016	Dystrophic cardiomyopathy	35	1	1
+2805341000006119	Pulmonary edema	34	1	1
+3343411000006113	Primary familial dilated cardiomyopathy	34	1	1
+324974014	Heart transplant failure and rejection	34	1	1
+299853015	Other chronic pulmonary heart disease NOS	33	1	1
+2585431000006117	Chronic left-sided congestive heart failure	27	1	1
+6611081000006118	Restrictive cardiomyopathy with endomyocardial fibrosis	25	1	1
+350413012	Congestive obstructive cardiomyopathy	23	1	1
+300217019	Post cardiac operation heart failure NOS	23	1	1
+370261000006111	[X]Cardiomyopathy in infectious+parasitic diseases CE	22	1	1
+8048061000006111	Chronic combined systolic and diastolic heart failure	22	1	1
+884211000006114	Other pulmonary heart disease	21	1	1
+7573191000006115	Heart failure with reduced ejection fraction due to myocarditis	20	1	1
+884191000006113	Chronic pulmonary heart dis.	18	1	1
+300884014	[X]Other specified pulmonary heart diseases	18	1	1
+6914191000006115	Systolic heart failure	17	1	1
+7475721000006114	Heart failure due to end stage congenital heart disease	17	1	1
+6043761000006113	Refractory heart failure	15	1	1
+299848013	Acute pulmonary heart disease NOS	15	1	1
+6204381000006117	Acute right-sided heart failure	15	1	1
+7119761000006112	Chronic left ventricular systolic dysfunction	15	1	1
+7487191000006113	Right ventricular cardiac dysfunction	15	1	1
+4005301000006110	Biventricular failure	14	1	1
+2660881000006116	High output heart failure	14	1	1
+3152691000006117	Acute pulmonary edema	13	1	1
+7507301000006110	Acute exacerbation of chronic congestive heart failure	13	1	1
+3552501000006119	Hypertensive cardiopathy	12	1	1
+13484031000006111	Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)	12	1	1
+7052811000006113	Right heart failure due to pulmonary hypertension	11	1	1
+7964821000006113	Nonischemic congestive cardiomyopathy	11	1	1
+8011111000006111	Congestive heart failure with right heart failure	11	1	1
+5331161000006112	Arrhythmogenic right ventricular cardiomyopathy	11	1	1
+3244761000006113	Hypertensive heart failure	10	1	1
+3343421000006117	Familial dilated cardiomyopathy	10	1	1
+395766015	Obscure African cardiomyopathy	10	1	1
+3800291000006115	COR - Chronic cor pulmonale	9	1	1
+6973241000006110	New York Heart Classification finding	9	1	1
+3182531000006110	Congestive heart disease	8	1	1
+3229421000006114	HOCM - Hypertrophic obstructive cardiomyopathy	8	1	1
+3182561000006118	CHF - Congestive heart failure	7	1	1
+2934111000006116	Familial amyloid cardiomyopathy	7	1	1
+4777111000006110	HCM - Hypertrophic non-obstructive cardiomyopathy	7	1	1
+13971661000006116	Infiltrative cardiomyopathy	7	0	1
+7487181000006110	Dysfunction of right cardiac ventricle	6	1	1
+14509111000006110	Dilated cardiomyopathy of ischaemic origin	6	0	1
+3360091000006112	Primary idiopathic dilated cardiomyopathy	5	1	1
+7510341000006110	Symptomatic congestive heart failure	5	1	1
+4540521000006111	History of heart failure	4	1	1
+3152721000006110	Pulmonary oedema - acute	4	1	1
+2504341000006116	Acute left heart failure	4	1	1
+3513911000006111	Puerperal cardiomyopathy	4	1	1
+7806081000006118	Cardiomyopathy and renal anomaly syndrome	4	1	1
+14499651000006114	Dilated cardiomyopathy due to metabolic disorder	4	0	1
+3974561000006115	Pleural effusion due to congestive heart failure	3	1	1
+305601017	Cardiac failure following abortive pregnancy	3	1	1
+8065541000006115	Cardiomyopathy due to viral infection	3	1	1
+11998471000006118	Assessment using NYHA (New York Heart Association) Classification	3	1	1
+3886061000006119	Left-sided heart failure	2	1	1
+2581861000006110	Hypertensive heart disease with congestive heart failure	2	1	1
+3213831000006118	Right heart failure secondary to left heart failure	2	1	1
+3623041000006114	Replacement of pulmonary heart valve in total repair of tetralogy of Fallot	2	1	1
+3842421000006111	Congestive rheumatic heart failure	2	1	1
+3859111000006117	Dilated cardiomyopathy caused by alcohol	2	1	1
+3866161000006118	Primary familial hypertrophic cardiomyopathy	2	1	1
+359673017	Hauptmann-Thannhauser muscular dystrophy	2	1	1
+5560071000006117	Pulmonary heart disease	2	1	1
+7275961000006118	Acute on chronic diastolic heart failure	2	1	1
+7347751000006119	Left ventricular myocardial noncompaction cardiomyopathy	2	1	1
+7560331000006116	Dilated cardiomyopathy 3B	2	1	1
+7560341000006114	DMD-associated dilated cardiomyopathy	2	1	1
+12049151000006112	Familial dilated cardiomyopathy with conduction defect due to LMNA mutation	2	1	1
+14196331000006118	Pulmonary heart disease	2	0	1
+13971301000006111	Low output heart failure due to and following Fontan operation	2	0	1
+3152701000006117	Acute edema of lung	1	1	1
+3868341000006118	HF - Heart failure	1	1	1
+6212531000006117	Cardiogenic pulmonary oedema	1	1	1
+3552521000006112	Hypertensive cardiovascular disease	1	1	1
+3229411000006118	Obstructive cardiomyopathy	1	1	1
+3489281000006119	Hypertensive heart disease without congestive heart failure	1	1	1
+3809001000006112	Acute right-sided congestive heart failure	1	1	1
+300046019	Mucopolysaccharidosis cardiomyopathy	1	1	1
+6873351000006110	Constrictive cardiomyopathy	1	1	1
+7262501000006110	Combined systolic and diastolic dysfunction	1	1	1
+7274561000006113	Acute on chronic systolic heart failure	1	1	1
+7475611000006114	Cardiomyopathy due to neuromuscular disorder	1	1	1
+11858851000006114	Pacing-induced cardiomyopathy	1	1	1
+7735491000006113	Transthyretin related familial amyloid cardiomyopathy	1	1	1
+7738911000006118	Familial isolated arrhythmogenic right ventricular dysplasia	1	1	1
+3852501000006115	Malignant hypertensive heart disease with congestive heart failure	NA	1	0
+3927521000006118	Chronic cardiopulmonary disease	NA	1	0
+3152731000006113	Pulmonary edema - acute	NA	1	0
+3152711000006119	Acute oedema of lung	NA	1	0
+3868321000006113	Weak heart	NA	1	0
+3868311000006117	Myocardial failure	NA	1	0
+3868351000006116	Cardiac insufficiency	NA	1	0
+5990971000006113	History of heart failure in last year	NA	1	0
+6895651000006113	Emergency hospital admission for heart failure	NA	1	0
+12490061000006118	Admit heart failure emergency	NA	1	0
+6615901000006114	Congestive dilated cardiomyopathy	NA	1	0
+6615871000006114	CCM - Congestive cardiomyopathy	NA	1	0
+6615881000006112	COCM - Congestive cardiomyopathy	NA	1	0
+6212571000006119	Acute cardiogenic pulmonary edema	NA	1	0
+6212541000006110	Cardiogenic pulmonary edema	NA	1	0
+6212551000006112	Acute cardiac pulmonary edema	NA	1	0
+6212561000006114	Acute cardiogenic pulmonary oedema	NA	1	0
+5586371000006119	Cardiac failure developing in the perinatal period	NA	1	0
+5602531000006118	Sepsis-associated left ventricular failure	NA	1	0
+5602541000006111	Sepsis-associated right ventricular failure	NA	1	0
+3552531000006110	HHD - Hypertensive heart disease	NA	1	0
+3552511000006116	Hypertensive cardiomegaly	NA	1	0
+3669421000006118	Asthma - cardiac	NA	1	0
+2504331000006114	Acute left-sided heart failure	NA	1	0
+2529901000006111	Dilated cardiomyopathy secondary to toxic reaction	NA	1	0
+2530931000006112	Dilated cardiomyopathy secondary to metazoal myocarditis	NA	1	0
+2543761000006114	Dilated cardiomyopathy secondary to myotonic dystrophy	NA	1	0
+2580171000006116	Cardiac insufficiency due to prosthesis	NA	1	0
+2580181000006118	Heart failure due to prosthesis	NA	1	0
+2595681000006117	Dilated cardiomyopathy secondary to sarcoidosis	NA	1	0
+2631011000006118	Dilated cardiomyopathy secondary to haemochromatosis	NA	1	0
+2631021000006114	Dilated cardiomyopathy secondary to hemochromatosis	NA	1	0
+2676691000006113	Dilated cardiomyopathy secondary to phytanic acid storage disease	NA	1	0
+2676711000006111	Dilated cardiomyopathy secondary to Refsum disease	NA	1	0
+2676701000006113	Dilated cardiomyopathy secondary to Refsum's disease	NA	1	0
+2699901000006110	Dilated cardiomyopathy secondary to radiation	NA	1	0
+2699911000006113	Dilated cardiomyopathy caused by radiation	NA	1	0
+2746601000006112	Restrictive cardiomyopathy secondary to infiltrations	NA	1	0
+2757771000006111	Dilated cardiomyopathy secondary to peripartum heart disease	NA	1	0
+2840701000006117	Dilated cardiomyopathy secondary to rheumatoid arthritis	NA	1	0
+2892421000006113	Restrictive cardiomyopathy secondary to malignancy	NA	1	0
+2908651000006113	Low output heart failure	NA	1	0
+2934071000006112	Danish type familial amyloid cardiomyopathy	NA	1	0
+2934091000006113	Danish type amyloidosis	NA	1	0
+2934081000006110	Familial amyloid heart disease	NA	1	0
+2934101000006119	Denmark type amyloidosis	NA	1	0
+2964231000006113	Dilated cardiomyopathy secondary to muscular dystrophy	NA	1	0
+2969451000006116	Dilated cardiomyopathy secondary to sensitivity	NA	1	0
+2991241000006116	Dilated cardiomyopathy secondary to viral myocarditis	NA	1	0
+2997821000006118	Restrictive cardiomyopathy secondary to familial storage disease	NA	1	0
+3031351000006116	Restrictive cardiomyopathy secondary to endocardial fibroelastosis	NA	1	0
+3035191000006110	Constrictive endocarditis	NA	1	0
+3035161000006119	Primary eosinophilic endomyocardial restrictive cardiomyopathy	NA	1	0
+3035201000006113	Löffler's parietal fibroplastic endocarditis	NA	1	0
+3035171000006114	Eosinophilic endomyocardial disease	NA	1	0
+3035181000006112	Löffler's endocarditis	NA	1	0
+3053021000006110	Dilated cardiomyopathy secondary to deficiency	NA	1	0
+3075181000006114	Dilated cardiomyopathy due to systemic sclerosis	NA	1	0
+3075191000006112	Dilated cardiomyopathy secondary to scleroderma	NA	1	0
+3075321000006112	Primary familial cardiomyopathy	NA	1	0
+3087841000006114	Dilated cardiomyopathy secondary to systemic lupus erythematosus	NA	1	0
+3128441000006111	Restrictive cardiomyopathy secondary to sarcoidosis	NA	1	0
+3138401000006112	Dilated cardiomyopathy secondary to granuloma	NA	1	0
+3152591000006116	Dilated cardiomyopathy secondary to protozoal myocarditis	NA	1	0
+3176431000006115	Hypertrophic cardiomyopathy secondary to neuromuscular disorder	NA	1	0
+3178551000006110	Primary endomyocardial fibrosis restrictive cardiomyopathy	NA	1	0
+3219591000006115	Dilated cardiomyopathy secondary to fungal myocarditis	NA	1	0
+3254291000006112	Dilated cardiomyopathy secondary to dermatomyositis	NA	1	0
+3258591000006117	Congestive cardiomyopathy due to selenium deficiency	NA	1	0
+3258581000006115	Keshan disease	NA	1	0
+3314361000006111	Dilated cardiomyopathy secondary to Friedreich's ataxia	NA	1	0
+3314371000006116	Dilated cardiomyopathy secondary to Friedreich ataxia	NA	1	0
+3314451000006119	Cobalt cardiomyopathy	NA	1	0
+3314461000006117	Beer-drinker's cardiomyopathy	NA	1	0
+3364811000006118	Hypertrophic cardiomyopathy secondary to Friedreich ataxia	NA	1	0
+3364801000006116	Hypertrophic cardiomyopathy secondary to Friedreich's ataxia	NA	1	0
+3370881000006114	Primary eosinophilic endomyocardial cardiomyopathy	NA	1	0
+3389851000006118	Dilated cardiomyopathy secondary to bacterial myocarditis	NA	1	0
+3402251000006117	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	NA	1	0
+3424991000006119	Restrictive cardiomyopathy secondary to hemochromatosis	NA	1	0
+3424981000006117	Restrictive cardiomyopathy secondary to haemochromatosis	NA	1	0
+3452461000006110	Dilated cardiomyopathy secondary to amyloidosis	NA	1	0
+3457111000006119	Dilated cardiomyopathy secondary to glycogen storage disease	NA	1	0
+3482991000006115	Dilated cardiomyopathy secondary to familial storage disease	NA	1	0
+3488561000006119	Cardiac insufficiency following cardiac surgery	NA	1	0
+3488571000006114	Heart failure following cardiac surgery	NA	1	0
+3527431000006113	Primary idiopathic hypertrophic cardiomyopathy	NA	1	0
+3541361000006118	Primary idiopathic restrictive cardiomyopathy	NA	1	0
+3550951000006114	Restrictive cardiomyopathy secondary to glycogen storage disease	NA	1	0
+3553111000006118	Dilated cardiomyopathy secondary to infiltration	NA	1	0
+3616311000006110	Primary endomyocardial fibrosis cardiomyopathy	NA	1	0
+3623031000006116	Repair of pulmonary heart valve with prosthesis in total repair of tetralogy of Fallot	NA	1	0
+3632101000006116	Nonobstructive cardiomyopathy	NA	1	0
+3687151000006112	Cardiomyopathy due to drug	NA	1	0
+3687171000006119	Dilated cardiomyopathy caused by drug	NA	1	0
+3687141000006110	Drug-induced cardiomyopathy	NA	1	0
+3687161000006114	Drug-induced specific heart muscle disorder	NA	1	0
+3687131000006117	Dilated cardiomyopathy secondary to drug	NA	1	0
+3706941000006119	Dilated cardiomyopathy secondary to malignancy	NA	1	0
+3718701000006116	Acute left-sided congestive heart failure	NA	1	0
+3750831000006111	Restrictive cardiomyopathy secondary to granulomas	NA	1	0
+3768511000006114	Benign hypertensive heart disease without congestive heart failure	NA	1	0
+3787161000006116	Dilated cardiomyopathy secondary to neuromuscular disorder	NA	1	0
+3797011000006119	Restrictive cardiomyopathy secondary to amyloidosis	NA	1	0
+3821291000006118	Heart failure cell	NA	1	0
+3821281000006116	Hemosiderin-laden macrophage	NA	1	0
+3821271000006119	Haemosiderin-laden macrophage	NA	1	0
+3855421000006119	Right heart failure due to pulmonary disease	NA	1	0
+3855411000006110	Right heart failure due to disorder of lung	NA	1	0
+3878001000006111	Restrictive cardiomyopathy secondary to mucopolysaccharidosis	NA	1	0
+3878171000006116	Dilated cardiomyopathy secondary to nutritive deficiency	NA	1	0
+3878181000006118	Nutritional cardiomyopathy	NA	1	0
+3896181000006114	Myocardiopathy	NA	1	0
+3901271000006117	Dilated cardiomyopathy secondary to infection	NA	1	0
+3914551000006112	Dilated cardiomyopathy secondary to mucopolysaccharidosis	NA	1	0
+3954121000006116	Primary cardiomyopathy	NA	1	0
+3959991000006115	Cardiac insufficiency during AND/OR resulting from a procedure	NA	1	0
+3960001000006113	Heart failure during AND/OR resulting from a procedure	NA	1	0
+3966281000006113	Dilated cardiomyopathy secondary to electrolyte deficiency	NA	1	0
+3987001000006110	Rheumatic heart valve failure	NA	1	0
+3988271000006114	Dilated cardiomyopathy secondary to polyarteritis nodosa	NA	1	0
+4022741000006114	Hypertrophic cardiomyopathy secondary to hyperthyroidism	NA	1	0
+4193381000006112	Dilated cardiomyopathy secondary to metabolic disorder	NA	1	0
+4193391000006110	Metabolic cardiomyopathy	NA	1	0
+4776131000006119	Generalized ischemic myocardial dysfunction	NA	1	0
+4777191000006117	Cardiomyopathy, secondary	NA	1	0
+11904331000006116	Secondary cardiomyopathy NOS	NA	1	0
+12704221000006116	Cardiomyopathy associated with another disorder	NA	1	0
+4777181000006115	Secondary cardiomyopathy	NA	1	0
+4777211000006116	Cardiomyopathy in Friedreich ataxia	NA	1	0
+5056841000006112	Post-myocarditic cardiomyopathy	NA	1	0
+5056871000006116	Restrictive cardiomyopathy without endomyocardial fibrosis	NA	1	0
+5056881000006118	Familial restrictive cardiomyopathy	NA	1	0
+5143111000006115	Benign scapuloperoneal muscular dystrophy with cardiomyopathy	NA	1	0
+5143171000006112	Severe scapuloperoneal muscular dystrophy with cardiomyopathy	NA	1	0
+2682661000006114	Postoperative pulmonary edema	NA	1	0
+5588241000006116	Haemorrhagic pulmonary oedema	NA	1	0
+5588251000006119	Hemorrhagic pulmonary edema	NA	1	0
+3257341000006116	Chronic pulmonary edema	NA	1	0
+6611091000006115	African endomyocardial fibrosis	NA	1	0
+6611101000006114	Obscure cardiomyopathy of Africa	NA	1	0
+6727771000006113	Hypertrophy of septomarginal trabeculation	NA	1	0
+6727781000006111	Moderator band cardiomyopathy	NA	1	0
+6850191000006114	Dilated cardiomyopathy associated with connective tissue disorder	NA	1	0
+6850201000006112	Dilated cardiomyopathy due to taurine deficiency	NA	1	0
+6878521000006115	Secondary restrictive cardiomyopathy	NA	1	0
+7065291000006119	Ischemic congestive cardiomyopathy	NA	1	0
+7274571000006118	Acute systolic heart failure	NA	1	0
+7275951000006115	Acute diastolic heart failure	NA	1	0
+7306501000006117	Secondary hypertrophic cardiomyopathy	NA	1	0
+7306491000006113	Hypertrophic cardiomyopathy associated with another disorder	NA	1	0
+7347741000006116	Right ventricular myocardial noncompaction cardiomyopathy	NA	1	0
+8037891000006112	Systolic heart failure stage D	NA	1	0
+8037901000006111	Systolic heart failure, stage D	NA	1	0
+8037911000006114	Systolic heart failure stage C	NA	1	0
+8037921000006118	Systolic heart failure, stage C	NA	1	0
+8037961000006112	Diastolic heart failure stage C	NA	1	0
+8037971000006117	Diastolic heart failure, stage C	NA	1	0
+8037941000006113	Diastolic heart failure stage D	NA	1	0
+8037951000006110	Diastolic heart failure, stage D	NA	1	0
+8021211000006111	Congestive heart failure stage D	NA	1	0
+8021221000006115	Congestive heart failure stage C	NA	1	0
+7475601000006111	Inflammatory cardiomyopathy	NA	1	0
+7475641000006113	Valvular cardiomyopathy	NA	1	0
+7475651000006110	Cardiomyopathy due to disorder of heart valve	NA	1	0
+7475701000006116	Pacing induced cardiomyopathy	NA	1	0
+7475711000006118	Ventricular myocardial noncompaction cardiomyopathy	NA	1	0
+7475731000006112	Hypertrophic cardiomyopathy with genetic marker	NA	1	0
+7475741000006119	Dilated cardiomyopathy with genetic marker	NA	1	0
+7475781000006113	Ischemic dilated cardiomyopathy due to coronary artery disease	NA	1	0
+7475771000006110	Ischemic congestive cardiomyopathy due to coronary artery disease	NA	1	0
+7475761000006115	Ischaemic congestive cardiomyopathy due to coronary artery disease	NA	1	0
+7475891000006117	Hypertrophic mitochondrial cardiomyopathy	NA	1	0
+7475881000006115	Mitochondrial cardiomyopathy	NA	1	0
+7475901000006118	Histiocytoid mitochondrial cardiomyopathy	NA	1	0
+7477861000006117	Right ventricular dysfunction due to disorder of left ventricle	NA	1	0
+7499321000006117	Induced termination of pregnancy complicated by cardiac failure	NA	1	0
+7500111000006111	Systolic heart failure stage A	NA	1	0
+8037931000006115	Systolic heart failure stage B	NA	1	0
+7500101000006113	Diastolic heart failure stage A	NA	1	0
+8037981000006119	Diastolic heart failure stage B	NA	1	0
+7501991000006113	Pulmonary hypertension due to systolic left ventricular dysfunction	NA	1	0
+7501981000006110	Pulmonary hypertension due to systolic systemic ventricular dysfunction	NA	1	0
+7502001000006110	Pulmonary hypertension due to diastolic systemic ventricular dysfunction	NA	1	0
+7502011000006113	Pulmonary hypertension due to diastolic left ventricular dysfunction	NA	1	0
+8048051000006114	Acute combined systolic and diastolic heart failure	NA	1	0
+8031661000006114	Congestive heart failure due to cardiomyopathy	NA	1	0
+7507311000006113	Acute on chronic congestive heart failure	NA	1	0
+8048071000006116	Acute on chronic combined systolic and diastolic heart failure	NA	1	0
+7525381000006119	Secondary nonischemic congestive cardiomyopathy	NA	1	0
+8022711000006111	Congestive heart failure as early postoperative complication	NA	1	0
+8001631000006110	Hypertensive heart AND chronic kidney disease with congestive heart failure	NA	1	0
+7530491000006119	Primary hypertrophic cardiomyopathy	NA	1	0
+7560351000006111	X-linked dilated cardiomyopathy	NA	1	0
+7560361000006113	Duchenne muscular dystrophy-associated dilated cardiomyopathy	NA	1	0
+7558431000006116	Salih congenital muscular dystrophy	NA	1	0
+7558421000006119	Early onset myopathy with fatal cardiomyopathy	NA	1	0
+7558441000006114	Salih myopathy	NA	1	0
+7573011000006114	Mitral valve regurgitation due to cardiomyopathy	NA	1	0
+8212081000006118	History of cardiomyopathy	NA	1	0
+7688011000006118	3-methylglutaconic aciduria type 5	NA	1	0
+7688021000006114	Dilated cardiomyopathy with ataxia syndrome	NA	1	0
+8464271000006117	Cardiomyopathy due to diphtheria infection	NA	1	0
+7705171000006112	Cardiomyopathy co-occurrent with human immunodeficiency virus infection	NA	1	0
+7735511000006119	ATTRV122I amyloidosis	NA	1	0
+7735501000006117	Transthyretin amyloid cardiopathy	NA	1	0
+7738921000006114	Familial isolated ARVD (arrhythmogenic right ventricular dysplasia)	NA	1	0
+7738931000006112	Familial isolated arrhythmogenic right ventricular cardiomyopathy	NA	1	0
+9834061000006115	Systolic heart failure stage C due to ischemic cardiomyopathy	NA	1	0
+9834051000006117	Systolic heart failure stage C due to ischaemic cardiomyopathy	NA	1	0
+7786951000006111	Najjar syndrome	NA	1	0
+7786941000006114	Malouf syndrome	NA	1	0
+7786921000006119	Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome	NA	1	0
+7786931000006116	Cardiogenital syndrome	NA	1	0
+7791761000006119	Tubular renal disease with cardiomyopathy syndrome	NA	1	0
+7806071000006116	Krasnow Qazi syndrome	NA	1	0
+7806061000006111	Cardiomyopathy with cataract and hip spine disease syndrome	NA	1	0
+9834021000006114	Systolic heart failure stage B due to ischaemic cardiomyopathy	NA	1	0
+9834031000006112	Systolic heart failure stage B due to ischemic cardiomyopathy	NA	1	0
+9834001000006116	Congestive heart failure stage B due to ischemic cardiomyopathy	NA	1	0
+9833991000006113	Congestive heart failure stage B due to ischaemic cardiomyopathy	NA	1	0
+9833971000006112	Congestive heart failure stage C due to ischaemic cardiomyopathy	NA	1	0
+9833981000006110	Congestive heart failure stage C due to Ischemic cardiomyopathy	NA	1	0
+8034201000006113	Cardiomyopathy due to hypertension	NA	1	0
+7810851000006118	Cardiac conduction disease with dilated cardiomyopathy and brachydactyly syndrome	NA	1	0
+7810841000006115	Atriodigital dysplasia Slovenian type	NA	1	0
+7810831000006113	Heart-hand syndrome Slovenian type	NA	1	0
+7762771000006116	Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome	NA	1	0
+7762781000006118	Sengers syndrome	NA	1	0
+7762881000006111	Glycogen storage disease type 15	NA	1	0
+7762871000006113	Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency	NA	1	0
+7762901000006113	Glycogenosis with severe cardiomyopathy due to glycogenin deficiency	NA	1	0
+7762891000006114	Glycogen storage disease type XV	NA	1	0
+7763221000006118	Congestive heart failure stage B	NA	1	0
+7838091000006110	Neonatal cardiac failure due to decreased left ventricular output	NA	1	0
+7850181000006112	Sensorineural deafness with dilated cardiomyopathy syndrome	NA	1	0
+7857711000006119	Neonatal cardiac failure due to pulmonary overperfusion	NA	1	0
+7868601000006115	Cardiomyopathy co-occurrent and due to cirrhosis of liver	NA	1	0
+7868591000006111	Cirrhotic cardiomyopathy	NA	1	0
+11998461000006113	Assessment using New York Heart Association Classification	NA	1	0
+12127521000006110	Cardiomyopathy caused by drug	NA	1	0
+12049161000006114	Familial dilated cardiomyopathy with conduction defect due to lamin A/C mutation	NA	1	0
+13484051000006116	Cardiomyopathy due to COVID-19	NA	1	0
+13484061000006119	Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2	NA	1	0
+13484041000006118	Cardiomyopathy due to disease caused by 2019 novel coronavirus	NA	1	0
+13484071000006114	Cardiomyopathy due to disease caused by 2019-nCoV (novel coronavirus)	NA	1	0
