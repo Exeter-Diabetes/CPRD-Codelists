@@ -1,0 +1,4 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+14050841000033119	40634411000001107	Finerenone 10mg tablets	Finerenone 10mg tablets	Tablet/ Oral Tablet	Oral	Finerenone	10.000mg	02020300	1064
+14050941000033110	40634511000001106	Finerenone 20mg tablets	Finerenone 20mg tablets	Tablet/ Oral Tablet	Oral	Finerenone	20.000mg	02020300	264
+14051041000033117	40632811000001103	Kerendia 10mg tablets (Bayer Plc)	Kerendia 10mg tablets	Tablet/ Oral Tablet	Oral	Finerenone	10.000mg	NA	4
