@@ -1,237 +1,238 @@
-ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
-213441000033119	318820009	Captopril 12.5mg tablets	Captopril 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-214441000033117	318821008	Captopril 25mg tablets	Captopril 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-214541000033116	318824000	Captopril 50mg tablets	Captopril 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-523541000033115	318850001	Enalapril 2.5mg tablets	Enalapril 2.5mg tablets	Tablet	Oral	Enalapril maleate	2.500mg	2050501	NA
-522841000033111	318851002	Enalapril 5mg tablets	Enalapril 5mg tablets	Tablet	Oral	Enalapril maleate	5.000mg	2050501	NA
-522641000033110	318853004	Enalapril 10mg tablets	Enalapril 10mg tablets	Tablet	Oral	Enalapril maleate	10.000mg	2050501	NA
-522741000033118	318855006	Enalapril 20mg tablets	Enalapril 20mg tablets	Tablet	Oral	Enalapril maleate	20.000mg	2050501	NA
-837941000033119	318857003	Lisinopril 2.5mg tablets	Lisinopril 2.5mg tablets	Tablet	Oral	Lisinopril	2.500mg	2050501	NA
-838141000033117	318858008	Lisinopril 5mg tablets	Lisinopril 5mg tablets	Tablet	Oral	Lisinopril	5.000mg	2050501	NA
-837841000033110	318859000	Lisinopril 10mg tablets	Lisinopril 10mg tablets	Tablet	Oral	Lisinopril	10.000mg	2050501	NA
-838041000033116	318860005	Lisinopril 20mg tablets	Lisinopril 20mg tablets	Tablet	Oral	Lisinopril	20.000mg	2050501	NA
-1149241000033111	318885001	Quinapril 5mg tablets	Quinapril 5mg tablets	Tablet	Oral	Quinapril hydrochloride	5.000mg	2050501	NA
-1149341000033118	318886000	Quinapril 10mg tablets	Quinapril 10mg tablets	Tablet	Oral	Quinapril hydrochloride	10.000mg	2050501	NA
-1149441000033112	318887009	Quinapril 20mg tablets	Quinapril 20mg tablets	Tablet	Oral	Quinapril hydrochloride	20.000mg	2050501	NA
-1149541000033113	318894007	Quinapril 40mg tablets	Quinapril 40mg tablets	Tablet	Oral	Quinapril hydrochloride	40.000mg	2050501	NA
-1067841000033115	318896009	Perindopril erbumine 2mg tablets	Perindopril erbumine 2mg tablets	Tablet	Oral	Perindopril erbumine	2.000mg	2050501	NA
-1067941000033111	318897000	Perindopril erbumine 4mg tablets	Perindopril erbumine 4mg tablets	Tablet	Oral	Perindopril erbumine	4.000mg	2050501	NA
-1151341000033117	318900007	Ramipril 1.25mg capsules	Ramipril 1.25mg capsules	Capsule	Oral	Ramipril	1.250mg	2050501	NA
-1151441000033111	318901006	Ramipril 2.5mg capsules	Ramipril 2.5mg capsules	Capsule	Oral	Ramipril	2.500mg	2050501	NA
-1151541000033112	318902004	Ramipril 5mg capsules	Ramipril 5mg capsules	Capsule	Oral	Ramipril	5.000mg	2050501	NA
-1769841000033111	318906001	Ramipril 10mg capsules	Ramipril 10mg capsules	Capsule	Oral	Ramipril	10.000mg	2050501	NA
-609141000033111	318909008	Fosinopril 10mg tablets	Fosinopril 10mg tablets	Tablet	Oral	Fosinopril sodium	10.000mg	2050501	NA
-609241000033116	318910003	Fosinopril 20mg tablets	Fosinopril 20mg tablets	Tablet	Oral	Fosinopril sodium	20.000mg	2050501	NA
-258441000033119	318915008	Cilazapril 500microgram tablets	Cilazapril 500microgram tablets	Tablet	Oral	Cilazapril monohydrate	500.000microgram	NA	NA
-258141000033110	318916009	Cilazapril 1mg tablets	Cilazapril 1mg tablets	Tablet	Oral	Cilazapril monohydrate	1.000mg	NA	NA
-258241000033115	318917000	Cilazapril 2.5mg tablets	Cilazapril 2.5mg tablets	Tablet	Oral	Cilazapril monohydrate	2.500mg	NA	NA
-258641000033117	318923005	Cilazapril 5mg tablets	Cilazapril 5mg tablets	Tablet	Oral	Cilazapril monohydrate	5.000mg	NA	NA
-1454141000033119	318924004	Trandolapril 500microgram capsules	Trandolapril 500microgram capsules	Capsule	Oral	Trandolapril	500.000microgram	2050501	NA
-1453941000033115	318925003	Trandolapril 1mg capsules	Trandolapril 1mg capsules	Capsule	Oral	Trandolapril	1.000mg	2050501	NA
-1454041000033118	318926002	Trandolapril 2mg capsules	Trandolapril 2mg capsules	Capsule	Oral	Trandolapril	2.000mg	2050501	NA
-2145841000033114	318942009	Imidapril 20mg tablets	Imidapril 20mg tablets	Tablet	Oral	Imidapril hydrochloride	20.000mg	2050501	NA
-1739841000033119	318943004	Imidapril 5mg tablets	Imidapril 5mg tablets	Tablet	Oral	Imidapril hydrochloride	5.000mg	2050501	NA
-1739741000033112	318944005	Imidapril 10mg tablets	Imidapril 10mg tablets	Tablet	Oral	Imidapril hydrochloride	10.000mg	2050501	NA
-2846741000033119	374667004	Perindopril erbumine 8mg tablets	Perindopril erbumine 8mg tablets	Tablet	Oral	Perindopril erbumine	8.000mg	2050501	NA
-2989541000033115	408040007	Ramipril 1.25mg tablets	Ramipril 1.25mg tablets	Tablet	Oral	Ramipril	1.250mg	2050501	NA
-2989641000033119	408050008	Ramipril 2.5mg tablets	Ramipril 2.5mg tablets	Tablet	Oral	Ramipril	2.500mg	2050501	NA
-2989741000033111	408051007	Ramipril 5mg tablets	Ramipril 5mg tablets	Tablet	Oral	Ramipril	5.000mg	2050501	NA
-2989841000033118	408052000	Ramipril 10mg tablets	Ramipril 10mg tablets	Tablet	Oral	Ramipril	10.000mg	2050501	NA
-3014741000033111	410958005	Trandolapril 4mg capsules	Trandolapril 4mg capsules	Capsule	Oral	Trandolapril	4.000mg	2050501	NA
-1769941000033115	43711000001100	Tritace 10mg capsules (Sanofi)	Tritace 10mg capsules	Capsule	Oral	Ramipril	10.000mg	2050501	NA
-377541000033114	48211000001104	Coversyl 2mg tablets (Servier Laboratories Ltd)	Coversyl 2mg tablets	Tablet	Oral	Perindopril erbumine	2.000mg	2050501	NA
-216141000033119	56711000001109	Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 20mg tablets	Tablet	Oral	Lisinopril	20.000mg	NA	NA
-11641000033111	86411000001109	Accupro 40mg tablets (Pfizer Ltd)	Accupro 40mg tablets	Tablet	Oral	Quinapril hydrochloride	40.000mg	2050501	NA
-1455541000033110	111611000001109	Tritace 1.25mg capsules (Aventis Pharma)	Tritace 1.25mg capsules	Capsule	Oral	Ramipril	1.250mg	2050501	NA
-214141000033113	134511000001103	Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-998641000033111	140511000001108	Odrik 2mg capsules (Aventis Pharma)	Odrik 2mg capsules	Capsule	Oral	Trandolapril	2.000mg	NA	NA
-2945841000033112	221411000001104	Ecopace 12.5mg tablets (Advanz Pharma)	Ecopace 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-998741000033119	227511000001106	Odrik 500microgram capsules (Aventis Pharma)	Odrik 500microgram capsules	Capsule	Oral	Trandolapril	500.000microgram	NA	NA
-13241000033114	231111000001106	Accupro 10mg tablets (Pfizer Ltd)	Accupro 10mg tablets	Tablet	Oral	Quinapril hydrochloride	10.000mg	2050501	NA
-648541000033117	253511000001102	Gopten 500microgram capsules (Abbott Laboratories Ltd)	Gopten 500microgram capsules	Capsule	Oral	Trandolapril	500.000microgram	NA	NA
-648441000033118	273111000001109	Gopten 2mg capsules (Abbott Laboratories Ltd)	Gopten 2mg capsules	Capsule	Oral	Trandolapril	2.000mg	NA	NA
-769241000033112	302311000001104	Innovace 20mg tablets (Merck Sharp & Dohme Ltd)	Innovace 20mg tablets	Tablet	Oral	Enalapril maleate	20.000mg	2050501	NA
-215941000033111	315211000001104	Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 10mg tablets	Tablet	Oral	Lisinopril	10.000mg	NA	NA
-769041000033116	316111000001104	Innovace 10mg tablets (Merck Sharp & Dohme Ltd)	Innovace 10mg tablets	Tablet	Oral	Enalapril maleate	10.000mg	2050501	NA
-216041000033118	321011000001103	Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 2.5mg tablets	Tablet	Oral	Lisinopril	2.500mg	NA	NA
-648341000033112	346811000001101	Gopten 1mg capsules (Abbott Laboratories Ltd)	Gopten 1mg capsules	Capsule	Oral	Trandolapril	1.000mg	NA	NA
-1387441000033115	348111000001107	Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Staril 20mg tablets	Tablet	Oral	Fosinopril sodium	20.000mg	NA	NA
-214341000033111	386611000001109	Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-998541000033110	432911000001102	Odrik 1mg capsules (Aventis Pharma)	Odrik 1mg capsules	Capsule	Oral	Trandolapril	1.000mg	NA	NA
-1918641000033112	448611000001106	Pralenal 2.5 tablets (Opus Pharmaceuticals Ltd)	Pralenal 2.5 tablets	Tablet	Oral	Enalapril maleate	2.500mg	2050501	NA
-214241000033118	455611000001103	Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-1387341000033114	462511000001104	Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Staril 10mg tablets	Tablet	Oral	Fosinopril sodium	10.000mg	NA	NA
-1622141000033114	477111000001100	Kaplon 25mg tablets (Teva UK Ltd)	Kaplon 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-1918941000033117	508511000001105	Pralenal 20 tablets (Opus Pharmaceuticals Ltd)	Pralenal 20 tablets	Tablet	Oral	Enalapril maleate	20.000mg	2050501	NA
-10941000033110	517711000001103	Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-2145741000033116	533511000001106	Tanatril 20mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Tanatril 20mg tablets	Tablet	Oral	Imidapril hydrochloride	20.000mg	2050501	NA
-1622241000033119	572511000001102	Kaplon 50mg tablets (Teva UK Ltd)	Kaplon 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-1918741000033115	578511000001100	Pralenal 5 tablets (Opus Pharmaceuticals Ltd)	Pralenal 5 tablets	Tablet	Oral	Enalapril maleate	5.000mg	2050501	NA
-13441000033110	582611000001106	Accupro 5mg tablets (Pfizer Ltd)	Accupro 5mg tablets	Tablet	Oral	Quinapril hydrochloride	5.000mg	2050501	NA
-1552041000033115	593111000001108	Zestril 2.5mg tablets (AstraZeneca UK Ltd)	Zestril 2.5mg tablets	Tablet	Oral	Lisinopril	2.500mg	2050501	NA
-2928441000033115	597511000001109	Tensopril 25mg tablets (Teva UK Ltd)	Tensopril 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-2928541000033119	653111000001108	Tensopril 50mg tablets (Teva UK Ltd)	Tensopril 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-10841000033119	660111000001107	Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-2928341000033114	673711000001107	Tensopril 12.5mg tablets (Teva UK Ltd)	Tensopril 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-1753841000033118	680811000001102	Tanatril 10mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Tanatril 10mg tablets	Tablet	Oral	Imidapril hydrochloride	10.000mg	2050501	NA
-769341000033119	730211000001104	Innovace 5mg tablets (Merck Sharp & Dohme Ltd)	Innovace 5mg tablets	Tablet	Oral	Enalapril maleate	5.000mg	2050501	NA
-769141000033117	749611000001107	Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd)	Innovace 2.5mg tablets	Tablet	Oral	Enalapril maleate	2.500mg	2050501	NA
-1918841000033113	761411000001101	Pralenal 10 tablets (Opus Pharmaceuticals Ltd)	Pralenal 10 tablets	Tablet	Oral	Enalapril maleate	10.000mg	2050501	NA
-2946041000033114	767911000001101	Ecopace 50mg tablets (Advanz Pharma)	Ecopace 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-1622041000033110	777711000001105	Kaplon 12.5mg tablets (Teva UK Ltd)	Kaplon 12.5mg tablets	Tablet	Oral	Captopril	12.500mg	2050501	NA
-216241000033114	778011000001109	Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 5mg tablets	Tablet	Oral	Lisinopril	5.000mg	NA	NA
-1753941000033114	797911000001103	Tanatril 5mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Tanatril 5mg tablets	Tablet	Oral	Imidapril hydrochloride	5.000mg	2050501	NA
-1455741000033119	802311000001101	Tritace 5mg capsules (Sanofi)	Tritace 5mg capsules	Capsule	Oral	Ramipril	5.000mg	2050501	NA
-11041000033117	814111000001108	Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 50mg tablets	Tablet	Oral	Captopril	50.000mg	2050501	NA
-2945941000033116	817411000001108	Ecopace 25mg tablets (Advanz Pharma)	Ecopace 25mg tablets	Tablet	Oral	Captopril	25.000mg	2050501	NA
-1552241000033111	823211000001109	Zestril 5mg tablets (AstraZeneca UK Ltd)	Zestril 5mg tablets	Tablet	Oral	Lisinopril	5.000mg	2050501	NA
-1551941000033114	825311000001100	Zestril 10mg tablets (AstraZeneca UK Ltd)	Zestril 10mg tablets	Tablet	Oral	Lisinopril	10.000mg	2050501	NA
-13341000033116	829111000001100	Accupro 20mg tablets (Pfizer Ltd)	Accupro 20mg tablets	Tablet	Oral	Quinapril hydrochloride	20.000mg	2050501	NA
-1455641000033111	835411000001105	Tritace 2.5mg capsules (Sanofi)	Tritace 2.5mg capsules	Capsule	Oral	Ramipril	2.500mg	2050501	NA
-1552141000033116	891711000001107	Zestril 20mg tablets (AstraZeneca UK Ltd)	Zestril 20mg tablets	Tablet	Oral	Lisinopril	20.000mg	2050501	NA
-377641000033110	902211000001100	Coversyl 4mg tablets (Servier Laboratories Ltd)	Coversyl 4mg tablets	Tablet	Oral	Perindopril erbumine	4.000mg	2050501	NA
-2724641000033119	3042211000001107	Tritace titration pack capsules (Sanofi)	Tritace titration pack capsules	Not applicable	NA	NA	NA	2050501	NA
-1504641000033112	3669711000001105	Vascace 1mg tablets (Roche Products Ltd)	Vascace 1mg tablets	Tablet	Oral	Cilazapril monohydrate	1.000mg	NA	NA
-1503441000033113	3671311000001104	Vascace 5mg tablets (Roche Products Ltd)	Vascace 5mg tablets	Tablet	Oral	Cilazapril monohydrate	5.000mg	NA	NA
-1504741000033115	3672411000001101	Vascace 2.5mg tablets (Roche Products Ltd)	Vascace 2.5mg tablets	Tablet	Oral	Cilazapril monohydrate	2.500mg	NA	NA
-1504941000033117	3740211000001108	Vascace 500microgram tablets (Roche Products Ltd)	Vascace 500microgram tablets	Tablet	Oral	Cilazapril monohydrate	500.000microgram	NA	NA
-2846641000033111	3803711000001101	Coversyl 8mg tablets (Servier Laboratories Ltd)	Coversyl 8mg tablets	Tablet	Oral	Perindopril erbumine	8.000mg	2050501	NA
-2989941000033114	5010511000001106	Tritace 1.25mg tablets (Sanofi)	Tritace 1.25mg tablets	Tablet	Oral	Ramipril	1.250mg	2050501	NA
-2990041000033116	5010811000001109	Tritace 2.5mg tablets (Sanofi)	Tritace 2.5mg tablets	Tablet	Oral	Ramipril	2.500mg	2050501	NA
-2990141000033117	5011111000001108	Tritace 5mg tablets (Sanofi)	Tritace 5mg tablets	Tablet	Oral	Ramipril	5.000mg	2050501	NA
-2990241000033112	5011411000001103	Tritace 10mg tablets (Sanofi)	Tritace 10mg tablets	Tablet	Oral	Ramipril	10.000mg	2050501	NA
-3014841000033118	5651611000001103	Gopten 4mg capsules (Abbott Laboratories Ltd)	Gopten 4mg capsules	Capsule	Oral	Trandolapril	4.000mg	NA	NA
-3159741000033111	7948711000001102	Lopace 2.5mg capsules (Discovery Pharmaceuticals)	Lopace 2.5mg capsules	Capsule	Oral	Ramipril	2.500mg	2050501	NA
-3159841000033118	7948911000001100	Lopace 5mg capsules (Discovery Pharmaceuticals)	Lopace 5mg capsules	Capsule	Oral	Ramipril	5.000mg	2050501	NA
-3159941000033114	7949111000001105	Lopace 10mg capsules (Discovery Pharmaceuticals)	Lopace 10mg capsules	Capsule	Oral	Ramipril	10.000mg	2050501	NA
-5008141000033111	8346811000001109	Captopril 10mg/5ml oral suspension	Captopril 10mg/5ml oral suspension	Oral suspension	Oral	Captopril	2.000mg/1.000ml	NA	NA
-5898741000033114	8347111000001104	Captopril 12.5mg/5ml oral solution	Captopril 12.5mg/5ml oral solution	Oral solution	Oral	Captopril	2.500mg/1.000ml	NA	NA
-5898841000033116	8347211000001105	Captopril 12.5mg/5ml oral suspension	Captopril 12.5mg/5ml oral suspension	Oral suspension	Oral	Captopril	2.500mg/1.000ml	NA	NA
-5401641000033118	8347411000001109	Captopril 15mg/5ml oral suspension	Captopril 15mg/5ml oral suspension	Oral suspension	Oral	Captopril	3.000mg/1.000ml	NA	NA
-2719841000033113	8348311000001101	Captopril 20mg/5ml oral suspension	Captopril 20mg/5ml oral suspension	Oral suspension	Oral	Captopril	4.000mg/1.000ml	NA	NA
-3012741000033115	8348511000001107	Captopril 25mg/5ml oral solution	Captopril 25mg/5ml oral solution	Oral solution	Oral	Captopril	5.000mg/1.000ml	NA	NA
-5132041000033112	8348611000001106	Captopril 25mg/5ml oral suspension	Captopril 25mg/5ml oral suspension	Oral suspension	Oral	Captopril	5.000mg/1.000ml	NA	NA
-3851341000033117	8350511000001107	Captopril 3mg/5ml oral solution	Captopril 3mg/5ml oral solution	Oral solution	Oral	Captopril	600.000microgram/1.000ml	NA	NA
-6001041000033115	8351611000001101	Captopril 5mg/5ml oral solution	Captopril 5mg/5ml oral solution	Oral solution	Oral	Captopril	1.000mg/1.000ml	NA	NA
-2656341000033110	8351811000001102	Captopril 5mg/5ml oral suspension	Captopril 5mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.000mg/1.000ml	NA	NA
-5898941000033112	8351911000001107	Captopril 6.25mg/5ml oral solution	Captopril 6.25mg/5ml oral solution	Oral solution	Oral	Captopril	1.250mg/1.000ml	NA	NA
-5899041000033115	8352011000001100	Captopril 6.25mg/5ml oral suspension	Captopril 6.25mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.250mg/1.000ml	NA	NA
-6012441000033118	8485511000001103	Enalapril 1.25mg/5ml oral solution	Enalapril 1.25mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	250.000microgram/1.000ml	NA	NA
-6012541000033117	8485611000001104	Enalapril 1.25mg/5ml oral suspension	Enalapril 1.25mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	250.000microgram/1.000ml	NA	NA
-5967041000033117	8485711000001108	Enalapril 10mg/5ml oral solution	Enalapril 10mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	2.000mg/1.000ml	NA	NA
-5967141000033118	8485811000001100	Enalapril 10mg/5ml oral suspension	Enalapril 10mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	2.000mg/1.000ml	NA	NA
-5992541000033111	8486911000001103	Enalapril 5mg/5ml oral solution	Enalapril 5mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	1.000mg/1.000ml	NA	NA
-5992641000033112	8487011000001104	Enalapril 5mg/5ml oral suspension	Enalapril 5mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	1.000mg/1.000ml	NA	NA
-5971341000033117	8622111000001109	Lisinopril 2.5mg/5ml oral solution	Lisinopril 2.5mg/5ml oral solution	Oral solution	Oral	Lisinopril	500.000microgram/1.000ml	NA	NA
-5971441000033111	8622211000001103	Lisinopril 2.5mg/5ml oral suspension	Lisinopril 2.5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	500.000microgram/1.000ml	NA	NA
-6044641000033119	8622311000001106	Lisinopril 20mg/5ml oral solution	Lisinopril 20mg/5ml oral solution	Oral solution	Oral	Lisinopril	4.000mg/1.000ml	NA	NA
-6044541000033115	8622411000001104	Lisinopril 20mg/5ml oral suspension	Lisinopril 20mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	4.000mg/1.000ml	NA	NA
-5890241000033117	8622511000001100	Lisinopril 5mg/5ml oral solution	Lisinopril 5mg/5ml oral solution	Oral solution	Oral	Lisinopril	1.000mg/1.000ml	NA	NA
-3152141000033115	8622611000001101	Lisinopril 5mg/5ml oral suspension	Lisinopril 5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	1.000mg/1.000ml	NA	NA
-5971541000033112	8622811000001102	Lisinopril 7.5mg/5ml oral solution	Lisinopril 7.5mg/5ml oral solution	Oral solution	Oral	Lisinopril	1.500mg/1.000ml	NA	NA
-5971641000033113	8622911000001107	Lisinopril 7.5mg/5ml oral suspension	Lisinopril 7.5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	1.500mg/1.000ml	NA	NA
-8276041000033117	8671311000001103	Perindopril erbumine 4mg/5ml oral suspension	Perindopril erbumine 4mg/5ml oral suspension	Oral suspension	Oral	Perindopril erbumine	800.000microgram/1.000ml	NA	NA
-5998241000033112	8720211000001109	Ramipril 1.25mg/5ml oral solution	Ramipril 1.25mg/5ml oral solution	Oral solution	Oral	Ramipril	250.000microgram/1.000ml	NA	NA
-4152241000033113	8720311000001101	Ramipril 1.25mg/5ml oral suspension	Ramipril 1.25mg/5ml oral suspension	Oral suspension	Oral	Ramipril	250.000microgram/1.000ml	NA	NA
-5887841000033118	8720411000001108	Ramipril 10mg/5ml oral solution	Ramipril 10mg/5ml oral solution	Oral solution	Oral	Ramipril	2.000mg/1.000ml	NA	NA
-5887941000033114	8720511000001107	Ramipril 10mg/5ml oral suspension	Ramipril 10mg/5ml oral suspension	Oral suspension	Oral	Ramipril	2.000mg/1.000ml	NA	NA
-5890541000033115	8720611000001106	Ramipril 2.5mg/5ml oral solution	Ramipril 2.5mg/5ml oral solution	Oral solution	Oral	Ramipril	500.000microgram/1.000ml	NA	NA
-4805941000033114	8720711000001102	Ramipril 2.5mg/5ml oral suspension	Ramipril 2.5mg/5ml oral suspension	Oral suspension	Oral	Ramipril	500.000microgram/1.000ml	NA	NA
-5890341000033110	8720811000001105	Ramipril 5mg/5ml oral solution	Ramipril 5mg/5ml oral solution	Oral solution	Oral	Ramipril	1.000mg/1.000ml	NA	NA
-2883341000033118	8720911000001100	Ramipril 5mg/5ml oral suspension	Ramipril 5mg/5ml oral suspension	Oral suspension	Oral	Ramipril	1.000mg/1.000ml	NA	NA
-3940841000033110	8791811000001109	Captopril 2mg capsules	Captopril 2mg capsules	Capsule	Oral	Captopril	2.000mg	NA	NA
-5454041000033117	8791911000001104	Captopril 4mg capsules	Captopril 4mg capsules	Capsule	Oral	Captopril	4.000mg	NA	NA
-3283141000033118	9207711000001100	Quinil 5mg tablets (Tillomed Laboratories Ltd)	Quinil 5mg tablets	Tablet	Oral	Quinapril hydrochloride	5.000mg	NA	NA
-3283241000033113	9208111000001100	Quinil 10mg tablets (Tillomed Laboratories Ltd)	Quinil 10mg tablets	Tablet	Oral	Quinapril hydrochloride	10.000mg	NA	NA
-3283341000033115	9208411000001105	Quinil 20mg tablets (Tillomed Laboratories Ltd)	Quinil 20mg tablets	Tablet	Oral	Quinapril hydrochloride	20.000mg	NA	NA
-3283441000033114	9208711000001104	Quinil 40mg tablets (Tillomed Laboratories Ltd)	Quinil 40mg tablets	Tablet	Oral	Quinapril hydrochloride	40.000mg	NA	NA
-4454441000033119	13444611000001109	Coversyl Arginine 10mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 10mg tablets	Tablet	Oral	Perindopril arginine	10.000mg	2050501	NA
-4454341000033113	13444911000001103	Coversyl Arginine 5mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 5mg tablets	Tablet	Oral	Perindopril arginine	5.000mg	2050501	NA
-4454241000033115	13445211000001108	Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 2.5mg tablets	Tablet	Oral	Perindopril arginine	2.500mg	2050501	NA
-4454141000033110	13454111000001103	Perindopril arginine 10mg tablets	Perindopril arginine 10mg tablets	Tablet	Oral	Perindopril arginine	10.000mg	2050501	NA
-4453941000033114	13454211000001109	Perindopril arginine 2.5mg tablets	Perindopril arginine 2.5mg tablets	Tablet	Oral	Perindopril arginine	2.500mg	2050501	NA
-4454041000033111	13454411000001108	Perindopril arginine 5mg tablets	Perindopril arginine 5mg tablets	Tablet	Oral	Perindopril arginine	5.000mg	2050501	NA
-12090641000033119	13600911000001104	Tritace titration pack tablets (Sanofi)	Tritace titration pack tablets	Not applicable	NA	NA	NA	NA	NA
-8275941000033110	14057311000001102	Perindopril erbumine 8mg/5ml oral solution	Perindopril erbumine 8mg/5ml oral solution	Oral solution	Oral	Perindopril erbumine	1.600mg/1.000ml	NA	NA
-8276141000033118	14057411000001109	Perindopril erbumine 8mg/5ml oral suspension	Perindopril erbumine 8mg/5ml oral suspension	Oral suspension	Oral	Perindopril erbumine	1.600mg/1.000ml	NA	NA
-3333941000033117	19820711000001101	Captopril 8mg/5ml oral suspension	Captopril 8mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.600mg/1.000ml	NA	NA
-6517041000033110	19877111000001100	Ramipril 2.5mg/5ml oral solution sugar free	Ramipril 2.5mg/5ml oral solution sugar free	Oral solution	Oral	Ramipril	500.000microgram/1.000ml	NA	NA
-5568741000033113	20556011000001103	Lisinopril 40mg/5ml oral suspension	Lisinopril 40mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	8.000mg/1.000ml	NA	NA
-8263541000033111	21939811000001102	Perindopril tosilate 10mg tablets	Perindopril tosilate 10mg tablets	Tablet	Oral	Perindopril tosilate	10.000mg	NA	NA
-8263341000033116	21939911000001107	Perindopril tosilate 2.5mg tablets	Perindopril tosilate 2.5mg tablets	Tablet	Oral	Perindopril tosilate	2.500mg	NA	NA
-8263441000033110	21940111000001100	Perindopril tosilate 5mg tablets	Perindopril tosilate 5mg tablets	Tablet	Oral	Perindopril tosilate	5.000mg	NA	NA
-8869441000033119	23471511000001106	Perindopril erbumine 4mg/5ml oral solution	Perindopril erbumine 4mg/5ml oral solution	Oral solution	Oral	Perindopril erbumine	800.000microgram/1.000ml	NA	NA
-8961341000033119	23681711000001107	Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	Noyada 25mg/5ml oral solution	Oral solution	Oral	Captopril	5.000mg/1.000ml	2050501	NA
-8961241000033112	23682011000001102	Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	Noyada 5mg/5ml oral solution	Oral solution	Oral	Captopril	1.000mg/1.000ml	2050501	NA
-9108041000033111	23707311000001108	Captopril 25mg/5ml oral solution sugar free	Captopril 25mg/5ml oral solution sugar free	Oral solution	Oral	Captopril	5.000mg/1.000ml	2050501	NA
-9108141000033110	23707511000001102	Captopril 5mg/5ml oral solution sugar free	Captopril 5mg/5ml oral solution sugar free	Oral solution	Oral	Captopril	1.000mg/1.000ml	2050501	NA
-10645041000033114	30251811000001106	Lisinopril 5mg/5ml oral solution sugar free	Lisinopril 5mg/5ml oral solution sugar free	Oral solution	Oral	Lisinopril	1.000mg/1.000ml	NA	NA
-523941000033114	NA	Enalapril Maleate Wafers 10 mg	NA	NA	NA	NA	NA	NA	NA
-524241000033115	NA	Enalapril Maleate Wafers 5 mg	NA	NA	NA	NA	NA	NA	NA
-524341000033113	NA	Enalapril Maleate Wafers 10 mg	NA	NA	NA	NA	NA	NA	NA
-2724541000033115	NA	Ramipril Titration pack 7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg	NA	NA	NA	NA	NA	NA	NA
-5997541000033113	NA	Perindopril Oral solution 8 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
-524041000033111	NA	Enalapril Maleate Wafers 2.5 mg	NA	NA	NA	NA	NA	NA	NA
-524141000033110	NA	Enalapril Maleate Wafers 20 mg	NA	NA	NA	NA	NA	NA	NA
-5888241000033116	NA	Perindopril Oral suspension 4 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
-3890041000033117	NA	Ramipril Powder For Oral Suspension With Diluent (Kit) 10 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
-4153041000033114	NA	Perindopril Oral suspension 8 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
-523741000033111	NA	Enalapril Maleate Titration pack	NA	NA	NA	NA	NA	NA	NA
-210741000033117	NA	Captopril Tablets 2 mg	NA	NA	NA	NA	NA	NA	NA
-524641000033117	NA	Enalapril Maleate Wafers 5 mg	NA	NA	NA	NA	NA	NA	NA
-524541000033118	NA	Enalapril Maleate Wafers 20 mg	NA	NA	NA	NA	NA	NA	NA
-5595341000033117	NA	Captopril Oral Suspension Sugar Free 2 mg/ml	NA	NA	NA	NA	NA	NA	NA
-210541000033113	NA	Captopril Tablets 1 mg	NA	NA	NA	NA	NA	NA	NA
-258341000033113	NA	Cilazapril Tablets 250 micrograms	NA	NA	NA	NA	NA	NA	NA
-524441000033119	NA	Enalapril Maleate Wafers 2.5 mg	NA	NA	NA	NA	NA	NA	NA
-3163341000033119	318176004	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	2050501	NA
-3163241000033112	318177008	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine 5mg modified-release / Ramipril 5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	2050501	NA
-3162241000033117	318849001	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	2050501	NA
-3160941000033113	318880006	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	NA
-3160841000033117	318884002	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	NA
-3160641000033118	318892006	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	2050501	NA
-3161641000033114	3437611000001100	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	2050501	NA
-4454541000033118	13454311000001101	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	2050501	NA
-3279241000033117	20092911000001108	Enalapril 5mg/5ml oral suspension sugar free	Enalapril 5mg/5ml oral suspension sugar free	Oral suspension	Oral	Enalapril maleate	1.000mg/1.000ml	NA	NA
-8263641000033112	21940011000001101	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril tosilate	1.250mg + 5.000mg	NA	NA
-9105341000033116	23984911000001108	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 4.000mg	NA	NA
-9105241000033114	23985011000001108	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 4.000mg	NA	NA
-9105541000033111	23985111000001109	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 8.000mg	NA	NA
-9105441000033110	23985211000001103	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 8.000mg	NA	NA
-3163041000033116	36149211000001102	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA	NA
-1893141000033119	318806002	Co-zidocapt 12.5mg/25mg tablets	Co-zidocapt 12.5mg/25mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	2050501	NA
-1893241000033114	318807006	Co-zidocapt 25mg/50mg tablets	Co-zidocapt 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	NA
-216441000033110	17311000001102	Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	NA
-770141000033115	146811000001108	Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Innozide 20mg/12.5mg tablets	Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	2050501	NA
-11241000033113	260211000001104	Accuretic 10mg/12.5mg tablets (Pfizer Ltd)	Accuretic 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	2050501	NA
-13141000033119	263311000001101	Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acezide 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	NA
-209241000033119	546711000001107	Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide LS 12.5mg/25mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	NA	NA
-2739541000033117	562511000001109	Coversyl Plus tablets (Servier Laboratories Ltd)	Coversyl Plus tablets	Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	2050501	NA
-1552341000033118	3143111000001100	Zestoretic 20 tablets (AstraZeneca UK Ltd)	Zestoretic 20 tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	NA
-217041000033116	3143511000001109	Carace 20 Plus tablets (Merck Sharp & Dohme Ltd)	Carace 20 Plus tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	NA
-1551841000033118	3144311000001101	Zestoretic 10 tablets (AstraZeneca UK Ltd)	Zestoretic 10 tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	NA
-209841000033115	3144511000001107	Carace 10 Plus tablets (Merck Sharp & Dohme Ltd)	Carace 10 Plus tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	NA
-1406341000033117	3691211000001101	Tarka modified-release capsules (Abbott Laboratories Ltd)	Tarka modified-release capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA	NA
-1834341000033110	3887911000001109	Triapin 5mg/5mg modified-release tablets (Sanofi)	Triapin 5mg/5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	2050501	NA
-8264941000033119	4093211000001109	Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)	Triapin 2.5mg/2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	2050501	NA
-3136141000033118	7385711000001106	Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA	NA
-3136041000033117	7385911000001108	Caralpha 10mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA	NA
-3279541000033115	8145711000001102	Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	NA
-3279641000033119	8145911000001100	Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	NA
-4454641000033117	13444311000001104	Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)	Coversyl Arginine Plus 5mg/1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	2050501	NA
-13443541000033119	38240011000001105	Lisoretic 20mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA	NA
-13443441000033115	38240211000001100	Lisoretic 10mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA	NA
-770241000033110	NA	Innovace Titration pack	NA	NA	NA	NA	NA	NA	NA
-770741000033116	NA	Innovace Melt Wafers 5 mg	NA	NA	NA	NA	NA	NA	NA
-770941000033118	NA	Innovace Melt Wafers 2.5 mg	NA	NA	NA	NA	NA	NA	NA
-4521441000033112	NA	Tritace Tablet Titration Pack 7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg	NA	NA	NA	NA	NA	NA	NA
-6028541000033112	NA	Co-Tritace Tablets 10 mg + 12.5 mg	NA	NA	NA	NA	NA	NA	NA
-6028641000033113	NA	Co-Tritace Tablets 10 mg + 25 mg	NA	NA	NA	NA	NA	NA	NA
-770541000033112	NA	Innovace Melt Wafers 2.5 mg	NA	NA	NA	NA	NA	NA	NA
-771141000033110	NA	Innovace Melt Wafers 5 mg	NA	NA	NA	NA	NA	NA	NA
-1504841000033113	NA	Vascace Tablets 250 micrograms	NA	NA	NA	NA	NA	NA	NA
-1834241000033117	NA	Triapin Mite Tablets	NA	NA	NA	NA	NA	NA	NA
-770641000033113	NA	Innovace Melt Wafers 20 mg	NA	NA	NA	NA	NA	NA	NA
-771041000033111	NA	Innovace Melt Wafers 20 mg	NA	NA	NA	NA	NA	NA	NA
-770441000033111	NA	Innovace Melt Wafers 10 mg	NA	NA	NA	NA	NA	NA	NA
-770841000033114	NA	Innovace Melt Wafers 10 mg	NA	NA	NA	NA	NA	NA	NA
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter
+10841000033119	660111000001107	Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	NA
+10941000033110	517711000001103	Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	NA
+11041000033117	814111000001108	Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acepril 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	NA
+11641000033111	86411000001109	Accupro 40mg tablets (Pfizer Ltd)	Accupro 40mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	40.000mg	NA
+13241000033114	231111000001106	Accupro 10mg tablets (Pfizer Ltd)	Accupro 10mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	10.000mg	NA
+13341000033116	829111000001100	Accupro 20mg tablets (Pfizer Ltd)	Accupro 20mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	20.000mg	NA
+13441000033110	582611000001106	Accupro 5mg tablets (Pfizer Ltd)	Accupro 5mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	5.000mg	NA
+214141000033113	134511000001103	Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	NA
+214241000033118	455611000001103	Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	NA
+214341000033111	386611000001109	Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capoten 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	NA
+215941000033111	315211000001104	Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 10mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	10.000mg	NA
+216041000033118	321011000001103	Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 2.5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	2.500mg	NA
+216141000033119	56711000001109	Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 20mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	20.000mg	NA
+216241000033114	778011000001109	Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Carace 5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	5.000mg	NA
+377541000033114	48211000001104	Coversyl 2mg tablets (Servier Laboratories Ltd)	Coversyl 2mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	2.000mg	NA
+377641000033110	902211000001100	Coversyl 4mg tablets (Servier Laboratories Ltd)	Coversyl 4mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	4.000mg	NA
+648341000033112	346811000001101	Gopten 1mg capsules (Abbott Laboratories Ltd)	Gopten 1mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	1.000mg	NA
+648441000033118	273111000001109	Gopten 2mg capsules (Abbott Laboratories Ltd)	Gopten 2mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	2.000mg	NA
+648541000033117	253511000001102	Gopten 500microgram capsules (Abbott Laboratories Ltd)	Gopten 500microgram capsules	Capsule/ Oral capsule	Oral	Trandolapril	500.000microgram	NA
+769041000033116	316111000001104	Innovace 10mg tablets (Organon Pharma (UK) Ltd)	Innovace 10mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	10.000mg	NA
+769141000033117	749611000001107	Innovace 2.5mg tablets (Organon Pharma (UK) Ltd)	Innovace 2.5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	2.500mg	NA
+769241000033112	302311000001104	Innovace 20mg tablets (Organon Pharma (UK) Ltd)	Innovace 20mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	20.000mg	NA
+769341000033119	730211000001104	Innovace 5mg tablets (Organon Pharma (UK) Ltd)	Innovace 5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	5.000mg	NA
+998541000033110	432911000001102	Odrik 1mg capsules (Aventis Pharma)	Odrik 1mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	1.000mg	NA
+998641000033111	140511000001108	Odrik 2mg capsules (Aventis Pharma)	Odrik 2mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	2.000mg	NA
+998741000033119	227511000001106	Odrik 500microgram capsules (Aventis Pharma)	Odrik 500microgram capsules	Capsule/ Oral capsule	Oral	Trandolapril	500.000microgram	NA
+1387341000033114	462511000001104	Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Staril 10mg tablets	Tablet/ Oral Tablet	Oral	Fosinopril sodium	10.000mg	NA
+1387441000033115	348111000001107	Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Staril 20mg tablets	Tablet/ Oral Tablet	Oral	Fosinopril sodium	20.000mg	NA
+1455541000033110	111611000001109	Tritace 1.25mg capsules (Aventis Pharma)	Tritace 1.25mg capsules	Capsule/ Oral capsule	Oral	Ramipril	1.250mg	NA
+1455641000033111	835411000001105	Tritace 2.5mg capsules (Sanofi)	Tritace 2.5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	2.500mg	NA
+1455741000033119	802311000001101	Tritace 5mg capsules (Sanofi)	Tritace 5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	5.000mg	NA
+1503441000033113	3671311000001104	Vascace 5mg tablets (Roche Products Ltd)	Vascace 5mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	5.000mg	NA
+1504641000033112	3669711000001105	Vascace 1mg tablets (Roche Products Ltd)	Vascace 1mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	1.000mg	NA
+1504741000033115	3672411000001101	Vascace 2.5mg tablets (Roche Products Ltd)	Vascace 2.5mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	2.500mg	NA
+1504941000033117	3740211000001108	Vascace 500microgram tablets (Roche Products Ltd)	Vascace 500microgram tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	500.000microgram	NA
+1551941000033114	825311000001100	Zestril 10mg tablets (Atnahs Pharma UK Ltd)	Zestril 10mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	10.000mg	NA
+1552041000033115	593111000001108	Zestril 2.5mg tablets (AstraZeneca UK Ltd)	Zestril 2.5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	2.500mg	NA
+1552141000033116	891711000001107	Zestril 20mg tablets (Atnahs Pharma UK Ltd)	Zestril 20mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	20.000mg	NA
+1552241000033111	823211000001109	Zestril 5mg tablets (Atnahs Pharma UK Ltd)	Zestril 5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	5.000mg	NA
+1622041000033110	777711000001105	Kaplon 12.5mg tablets (Teva UK Ltd)	Kaplon 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	NA
+1622141000033114	477111000001100	Kaplon 25mg tablets (Teva UK Ltd)	Kaplon 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	NA
+1622241000033119	572511000001102	Kaplon 50mg tablets (Teva UK Ltd)	Kaplon 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	NA
+1753841000033118	680811000001102	Tanatril 10mg tablets (Northumbria Pharma Ltd)	Tanatril 10mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	10.000mg	NA
+1753941000033114	797911000001103	Tanatril 5mg tablets (Northumbria Pharma Ltd)	Tanatril 5mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	5.000mg	NA
+1769941000033115	43711000001100	Tritace 10mg capsules (Sanofi)	Tritace 10mg capsules	Capsule/ Oral capsule	Oral	Ramipril	10.000mg	NA
+1918641000033112	448611000001106	Pralenal 2.5 tablets (Opus Pharmaceuticals Ltd)	Pralenal 2.5 tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	2.500mg	NA
+1918741000033115	578511000001100	Pralenal 5 tablets (Opus Pharmaceuticals Ltd)	Pralenal 5 tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	5.000mg	NA
+1918841000033113	761411000001101	Pralenal 10 tablets (Opus Pharmaceuticals Ltd)	Pralenal 10 tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	10.000mg	NA
+1918941000033117	508511000001105	Pralenal 20 tablets (Opus Pharmaceuticals Ltd)	Pralenal 20 tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	20.000mg	NA
+2145741000033116	533511000001106	Tanatril 20mg tablets (Northumbria Pharma Ltd)	Tanatril 20mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	20.000mg	NA
+2656341000033110	8351811000001102	Captopril 5mg/5ml oral suspension	Captopril 5mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.000mg/1.000ml	02050501
+2719841000033113	8348311000001101	Captopril 20mg/5ml oral suspension	Captopril 20mg/5ml oral suspension	Oral suspension	Oral	Captopril	4.000mg/1.000ml	02050501
+2724641000033119	3042211000001107	Tritace titration pack capsules (Sanofi)	Tritace titration pack capsules	Not applicable	NA	NA	NA	NA
+2846641000033111	3803711000001101	Coversyl 8mg tablets (Servier Laboratories Ltd)	Coversyl 8mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	8.000mg	NA
+2883341000033118	8720911000001100	Ramipril 5mg/5ml oral suspension	Ramipril 5mg/5ml oral suspension	Oral suspension	Oral	Ramipril	1.000mg/1.000ml	02050501
+2928341000033114	673711000001107	Tensopril 12.5mg tablets (Teva UK Ltd)	Tensopril 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	NA
+2928441000033115	597511000001109	Tensopril 25mg tablets (Teva UK Ltd)	Tensopril 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	NA
+2928541000033119	653111000001108	Tensopril 50mg tablets (Teva UK Ltd)	Tensopril 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	NA
+2945841000033112	221411000001104	Ecopace 12.5mg tablets (Advanz Pharma)	Ecopace 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	NA
+2945941000033116	817411000001108	Ecopace 25mg tablets (Advanz Pharma)	Ecopace 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	NA
+2946041000033114	767911000001101	Ecopace 50mg tablets (Advanz Pharma)	Ecopace 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	NA
+2989941000033114	5010511000001106	Tritace 1.25mg tablets (Sanofi)	Tritace 1.25mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	1.250mg	NA
+2990041000033116	5010811000001109	Tritace 2.5mg tablets (Sanofi)	Tritace 2.5mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	2.500mg	NA
+2990141000033117	5011111000001108	Tritace 5mg tablets (Sanofi)	Tritace 5mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	5.000mg	NA
+2990241000033112	5011411000001103	Tritace 10mg tablets (Sanofi)	Tritace 10mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	10.000mg	NA
+3012741000033115	8348511000001107	Captopril 25mg/5ml oral solution	Captopril 25mg/5ml oral solution	Oral solution	Oral	Captopril	5.000mg/1.000ml	02050501
+3014841000033118	5651611000001103	Gopten 4mg capsules (Abbott Laboratories Ltd)	Gopten 4mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	4.000mg	NA
+3152141000033115	8622611000001101	Lisinopril 5mg/5ml oral suspension	Lisinopril 5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	1.000mg/1.000ml	02050501
+3159741000033111	7948711000001102	Lopace 2.5mg capsules (Discovery Pharmaceuticals)	Lopace 2.5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	2.500mg	NA
+3159841000033118	7948911000001100	Lopace 5mg capsules (Discovery Pharmaceuticals)	Lopace 5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	5.000mg	NA
+3159941000033114	7949111000001105	Lopace 10mg capsules (Discovery Pharmaceuticals)	Lopace 10mg capsules	Capsule/ Oral capsule	Oral	Ramipril	10.000mg	NA
+3283141000033118	9207711000001100	Quinil 5mg tablets (Tillomed Laboratories Ltd)	Quinil 5mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	5.000mg	NA
+3333941000033117	19820711000001101	Captopril 8mg/5ml oral suspension	Captopril 8mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.600mg/1.000ml	02050501
+3851341000033117	8350511000001107	Captopril 3mg/5ml oral solution	Captopril 3mg/5ml oral solution	Oral solution	Oral	Captopril	600.000microgram/1.000ml	02050501
+3940841000033110	8791811000001109	Captopril 2mg capsules	Captopril 2mg capsules	Capsule/ Oral capsule	Oral	Captopril	2.000mg	02050501
+4152241000033113	8720311000001101	Ramipril 1.25mg/5ml oral suspension	Ramipril 1.25mg/5ml oral suspension	Oral suspension	Oral	Ramipril	250.000microgram/1.000ml	02050501
+4453941000033114	13454211000001109	Perindopril arginine 2.5mg tablets	Perindopril arginine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	2.500mg	02050501
+4454041000033111	13454411000001108	Perindopril arginine 5mg tablets	Perindopril arginine 5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	5.000mg	02050501
+4454141000033110	13454111000001103	Perindopril arginine 10mg tablets	Perindopril arginine 10mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	10.000mg	02050501
+4454241000033115	13445211000001108	Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	2.500mg	NA
+4454341000033113	13444911000001103	Coversyl Arginine 5mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	5.000mg	NA
+4454441000033119	13444611000001109	Coversyl Arginine 10mg tablets (Servier Laboratories Ltd)	Coversyl Arginine 10mg tablets	Tablet/ Oral Tablet	Oral	Perindopril arginine	10.000mg	NA
+4805941000033114	8720711000001102	Ramipril 2.5mg/5ml oral suspension	Ramipril 2.5mg/5ml oral suspension	Oral suspension	Oral	Ramipril	500.000microgram/1.000ml	02050501
+5008141000033111	8346811000001109	Captopril 10mg/5ml oral suspension	Captopril 10mg/5ml oral suspension	Oral suspension	Oral	Captopril	2.000mg/1.000ml	02050501
+5132041000033112	8348611000001106	Captopril 25mg/5ml oral suspension	Captopril 25mg/5ml oral suspension	Oral suspension	Oral	Captopril	5.000mg/1.000ml	02050501
+5401641000033118	8347411000001109	Captopril 15mg/5ml oral suspension	Captopril 15mg/5ml oral suspension	Oral suspension	Oral	Captopril	3.000mg/1.000ml	02050501
+5454041000033117	8791911000001104	Captopril 4mg capsules	Captopril 4mg capsules	Capsule/ Oral capsule	Oral	Captopril	4.000mg	02050501
+5568741000033113	20556011000001103	Lisinopril 40mg/5ml oral suspension	Lisinopril 40mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	8.000mg/1.000ml	02050501
+5887841000033118	8720411000001108	Ramipril 10mg/5ml oral solution	Ramipril 10mg/5ml oral solution	Oral solution	Oral	Ramipril	2.000mg/1.000ml	02050501
+5887941000033114	8720511000001107	Ramipril 10mg/5ml oral suspension	Ramipril 10mg/5ml oral suspension	Oral suspension	Oral	Ramipril	2.000mg/1.000ml	02050501
+5890241000033117	8622511000001100	Lisinopril 5mg/5ml oral solution	Lisinopril 5mg/5ml oral solution	Oral solution	Oral	Lisinopril	1.000mg/1.000ml	02050501
+5890341000033110	8720811000001105	Ramipril 5mg/5ml oral solution	Ramipril 5mg/5ml oral solution	Oral solution	Oral	Ramipril	1.000mg/1.000ml	02050501
+5890541000033115	8720611000001106	Ramipril 2.5mg/5ml oral solution	Ramipril 2.5mg/5ml oral solution	Oral solution	Oral	Ramipril	500.000microgram/1.000ml	02050501
+5898741000033114	8347111000001104	Captopril 12.5mg/5ml oral solution	Captopril 12.5mg/5ml oral solution	Oral solution	Oral	Captopril	2.500mg/1.000ml	02050501
+5898841000033116	8347211000001105	Captopril 12.5mg/5ml oral suspension	Captopril 12.5mg/5ml oral suspension	Oral suspension	Oral	Captopril	2.500mg/1.000ml	02050501
+5898941000033112	8351911000001107	Captopril 6.25mg/5ml oral solution	Captopril 6.25mg/5ml oral solution	Oral solution	Oral	Captopril	1.250mg/1.000ml	02050501
+5899041000033115	8352011000001100	Captopril 6.25mg/5ml oral suspension	Captopril 6.25mg/5ml oral suspension	Oral suspension	Oral	Captopril	1.250mg/1.000ml	02050501
+5967041000033117	8485711000001108	Enalapril 10mg/5ml oral solution	Enalapril 10mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	2.000mg/1.000ml	02050501
+5967141000033118	8485811000001100	Enalapril 10mg/5ml oral suspension	Enalapril 10mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	2.000mg/1.000ml	02050501
+5971341000033117	8622111000001109	Lisinopril 2.5mg/5ml oral solution	Lisinopril 2.5mg/5ml oral solution	Oral solution	Oral	Lisinopril	500.000microgram/1.000ml	02050501
+5971441000033111	8622211000001103	Lisinopril 2.5mg/5ml oral suspension	Lisinopril 2.5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	500.000microgram/1.000ml	02050501
+5971541000033112	8622811000001102	Lisinopril 7.5mg/5ml oral solution	Lisinopril 7.5mg/5ml oral solution	Oral solution	Oral	Lisinopril	1.500mg/1.000ml	02050501
+5971641000033113	8622911000001107	Lisinopril 7.5mg/5ml oral suspension	Lisinopril 7.5mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	1.500mg/1.000ml	02050501
+5992541000033111	8486911000001103	Enalapril 5mg/5ml oral solution	Enalapril 5mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	1.000mg/1.000ml	02050501
+5992641000033112	8487011000001104	Enalapril 5mg/5ml oral suspension	Enalapril 5mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	1.000mg/1.000ml	02050501
+5998241000033112	8720211000001109	Ramipril 1.25mg/5ml oral solution	Ramipril 1.25mg/5ml oral solution	Oral solution	Oral	Ramipril	250.000microgram/1.000ml	02050501
+6001041000033115	8351611000001101	Captopril 5mg/5ml oral solution	Captopril 5mg/5ml oral solution	Oral solution	Oral	Captopril	1.000mg/1.000ml	02050501
+6012441000033118	8485511000001103	Enalapril 1.25mg/5ml oral solution	Enalapril 1.25mg/5ml oral solution	Oral solution	Oral	Enalapril maleate	250.000microgram/1.000ml	02050501
+6012541000033117	8485611000001104	Enalapril 1.25mg/5ml oral suspension	Enalapril 1.25mg/5ml oral suspension	Oral suspension	Oral	Enalapril maleate	250.000microgram/1.000ml	02050501
+6044541000033115	8622411000001104	Lisinopril 20mg/5ml oral suspension	Lisinopril 20mg/5ml oral suspension	Oral suspension	Oral	Lisinopril	4.000mg/1.000ml	02050501
+6044641000033119	8622311000001106	Lisinopril 20mg/5ml oral solution	Lisinopril 20mg/5ml oral solution	Oral solution	Oral	Lisinopril	4.000mg/1.000ml	02050501
+6517041000033110	19877111000001100	Ramipril 2.5mg/5ml oral solution sugar free	Ramipril 2.5mg/5ml oral solution sugar free	Oral solution	Oral	Ramipril	500.000microgram/1.000ml	02050501
+8263341000033116	21939911000001107	Perindopril tosilate 2.5mg tablets	Perindopril tosilate 2.5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril tosilate	2.500mg	02050501
+8263441000033110	21940111000001100	Perindopril tosilate 5mg tablets	Perindopril tosilate 5mg tablets	Tablet/ Oral Tablet	Oral	Perindopril tosilate	5.000mg	02050501
+8263541000033111	21939811000001102	Perindopril tosilate 10mg tablets	Perindopril tosilate 10mg tablets	Tablet/ Oral Tablet	Oral	Perindopril tosilate	10.000mg	02050501
+8275941000033110	14057311000001102	Perindopril erbumine 8mg/5ml oral solution	Perindopril erbumine 8mg/5ml oral solution	Oral solution	Oral	Perindopril erbumine	1.600mg/1.000ml	02050501
+8276041000033117	8671311000001103	Perindopril erbumine 4mg/5ml oral suspension	Perindopril erbumine 4mg/5ml oral suspension	Oral suspension	Oral	Perindopril erbumine	800.000microgram/1.000ml	02050501
+8276141000033118	14057411000001109	Perindopril erbumine 8mg/5ml oral suspension	Perindopril erbumine 8mg/5ml oral suspension	Oral suspension	Oral	Perindopril erbumine	1.600mg/1.000ml	02050501
+8869441000033119	23471511000001106	Perindopril erbumine 4mg/5ml oral solution	Perindopril erbumine 4mg/5ml oral solution	Oral solution	Oral	Perindopril erbumine	800.000microgram/1.000ml	02050501
+8961241000033112	23682011000001102	Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	Noyada 5mg/5ml oral solution	Oral solution	Oral	Captopril	1.000mg/1.000ml	NA
+8961341000033119	23681711000001107	Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	Noyada 25mg/5ml oral solution	Oral solution	Oral	Captopril	5.000mg/1.000ml	NA
+9108041000033111	23707311000001108	Captopril 25mg/5ml oral solution sugar free	Captopril 25mg/5ml oral solution sugar free	Oral solution	Oral	Captopril	5.000mg/1.000ml	02050501
+9108141000033110	23707511000001102	Captopril 5mg/5ml oral solution sugar free	Captopril 5mg/5ml oral solution sugar free	Oral solution	Oral	Captopril	1.000mg/1.000ml	02050501
+10645041000033114	30251811000001106	Lisinopril 5mg/5ml oral solution sugar free	Lisinopril 5mg/5ml oral solution sugar free	Oral solution	Oral	Lisinopril	1.000mg/1.000ml	02050501
+12090641000033119	13600911000001104	Tritace titration pack tablets (Sanofi)	Tritace titration pack tablets	Not applicable	NA	NA	NA	NA
+210541000033113	NA	Captopril  Tablets  1 mg	NA	NA	NA	NA	NA	NA
+210741000033117	NA	Captopril  Tablets  2 mg	NA	NA	NA	NA	NA	NA
+213441000033119	42372211000001104	Captopril 12.5mg tablets	Captopril 12.5mg tablets	Tablet/ Oral Tablet	Oral	Captopril	12.500mg	02050501
+214441000033117	42372311000001107	Captopril 25mg tablets	Captopril 25mg tablets	Tablet/ Oral Tablet	Oral	Captopril	25.000mg	02050501
+214541000033116	42372411000001100	Captopril 50mg tablets	Captopril 50mg tablets	Tablet/ Oral Tablet	Oral	Captopril	50.000mg	02050501
+258141000033110	39685211000001103	Cilazapril 1mg tablets	Cilazapril 1mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	1.000mg	02050501
+258241000033115	39685311000001106	Cilazapril 2.5mg tablets	Cilazapril 2.5mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	2.500mg	02050501
+258341000033113	NA	Cilazapril  Tablets  250 micrograms	NA	NA	NA	NA	NA	NA
+258441000033119	39686011000001104	Cilazapril 500microgram tablets	Cilazapril 500microgram tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	500.000microgram	02050501
+258641000033117	39685911000001107	Cilazapril 5mg tablets	Cilazapril 5mg tablets	Tablet/ Oral Tablet	Oral	Cilazapril monohydrate	5.000mg	02050501
+522641000033110	42374011000001103	Enalapril 10mg tablets	Enalapril 10mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	10.000mg	02050501
+522741000033118	42374211000001108	Enalapril 20mg tablets	Enalapril 20mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	20.000mg	02050501
+522841000033111	42374311000001100	Enalapril 5mg tablets	Enalapril 5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	5.000mg	02050501
+523541000033115	42374111000001102	Enalapril 2.5mg tablets	Enalapril 2.5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate	2.500mg	02050501
+523741000033111	NA	Enalapril Maleate  Titration pack	NA	NA	NA	NA	NA	NA
+523941000033114	NA	Enalapril Maleate  Wafers  10 mg	NA	NA	NA	NA	NA	NA
+524041000033111	NA	Enalapril Maleate  Wafers  2.5 mg	NA	NA	NA	NA	NA	NA
+524141000033110	NA	Enalapril Maleate  Wafers  20 mg	NA	NA	NA	NA	NA	NA
+524241000033115	NA	Enalapril Maleate  Wafers  5 mg	NA	NA	NA	NA	NA	NA
+524341000033113	NA	Enalapril Maleate  Wafers  10 mg	NA	NA	NA	NA	NA	NA
+524441000033119	NA	Enalapril Maleate  Wafers  2.5 mg	NA	NA	NA	NA	NA	NA
+524541000033118	NA	Enalapril Maleate  Wafers  20 mg	NA	NA	NA	NA	NA	NA
+524641000033117	NA	Enalapril Maleate  Wafers  5 mg	NA	NA	NA	NA	NA	NA
+609141000033111	42210511000001102	Fosinopril 10mg tablets	Fosinopril 10mg tablets	Tablet/ Oral Tablet	Oral	Fosinopril sodium	10.000mg	02050501
+609241000033116	42210611000001103	Fosinopril 20mg tablets	Fosinopril 20mg tablets	Tablet/ Oral Tablet	Oral	Fosinopril sodium	20.000mg	02050501
+837841000033110	42376111000001109	Lisinopril 10mg tablets	Lisinopril 10mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	10.000mg	02050501
+837941000033119	42376211000001103	Lisinopril 2.5mg tablets	Lisinopril 2.5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	2.500mg	02050501
+838041000033116	42376411000001104	Lisinopril 20mg tablets	Lisinopril 20mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	20.000mg	02050501
+838141000033117	42376511000001100	Lisinopril 5mg tablets	Lisinopril 5mg tablets	Tablet/ Oral Tablet	Oral	Lisinopril	5.000mg	02050501
+1067841000033115	42379211000001107	Perindopril erbumine 2mg tablets	Perindopril erbumine 2mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	2.000mg	02050501
+1067941000033111	42379311000001104	Perindopril erbumine 4mg tablets	Perindopril erbumine 4mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	4.000mg	02050501
+1149241000033111	42380911000001103	Quinapril 5mg tablets	Quinapril 5mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	5.000mg	02050501
+1149341000033118	42380611000001109	Quinapril 10mg tablets	Quinapril 10mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	10.000mg	02050501
+1149441000033112	42380711000001100	Quinapril 20mg tablets	Quinapril 20mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	20.000mg	02050501
+1149541000033113	42380811000001108	Quinapril 40mg tablets	Quinapril 40mg tablets	Tablet/ Oral Tablet	Oral	Quinapril hydrochloride	40.000mg	02050501
+1151341000033117	42381011000001106	Ramipril 1.25mg capsules	Ramipril 1.25mg capsules	Capsule/ Oral capsule	Oral	Ramipril	1.250mg	02050501
+1151441000033111	42381411000001102	Ramipril 2.5mg capsules	Ramipril 2.5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	2.500mg	02050501
+1151541000033112	42381611000001104	Ramipril 5mg capsules	Ramipril 5mg capsules	Capsule/ Oral capsule	Oral	Ramipril	5.000mg	02050501
+1453941000033115	42383511000001104	Trandolapril 1mg capsules	Trandolapril 1mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	1.000mg	02050501
+1454041000033118	42383611000001100	Trandolapril 2mg capsules	Trandolapril 2mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	2.000mg	02050501
+1454141000033119	42383811000001101	Trandolapril 500microgram capsules	Trandolapril 500microgram capsules	Capsule/ Oral capsule	Oral	Trandolapril	500.000microgram	02050501
+1739741000033112	42211811000001107	Imidapril 10mg tablets	Imidapril 10mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	10.000mg	02050501
+1739841000033119	42375111000001103	Imidapril 5mg tablets	Imidapril 5mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	5.000mg	02050501
+1769841000033111	42381211000001101	Ramipril 10mg capsules	Ramipril 10mg capsules	Capsule/ Oral capsule	Oral	Ramipril	10.000mg	02050501
+2145841000033114	42375011000001104	Imidapril 20mg tablets	Imidapril 20mg tablets	Tablet/ Oral Tablet	Oral	Imidapril hydrochloride	20.000mg	02050501
+2724541000033115	NA	Ramipril  Titration pack  7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg	NA	NA	NA	NA	NA	NA
+2846741000033119	42379411000001106	Perindopril erbumine 8mg tablets	Perindopril erbumine 8mg tablets	Tablet/ Oral Tablet	Oral	Perindopril erbumine	8.000mg	02050501
+2989541000033115	42381111000001107	Ramipril 1.25mg tablets	Ramipril 1.25mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	1.250mg	02050501
+2989641000033119	42381511000001103	Ramipril 2.5mg tablets	Ramipril 2.5mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	2.500mg	02050501
+2989741000033111	42381711000001108	Ramipril 5mg tablets	Ramipril 5mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	5.000mg	02050501
+2989841000033118	42381311000001109	Ramipril 10mg tablets	Ramipril 10mg tablets	Tablet/ Oral Tablet	Oral	Ramipril	10.000mg	02050501
+3014741000033111	42383711000001109	Trandolapril 4mg capsules	Trandolapril 4mg capsules	Capsule/ Oral capsule	Oral	Trandolapril	4.000mg	02050501
+3160641000033118	39693411000001102	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	02050501
+3160841000033117	42213111000001104	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	02050501
+3160941000033113	42376311000001106	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	02050501
+3161641000033114	3437611000001100	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Tablet/ Oral Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	02050501
+3162241000033117	39691911000001109	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	02050501
+3163041000033116	36149211000001102	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	02050501
+3163241000033112	42374811000001109	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine 5mg modified-release / Ramipril 5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	02050501
+3163341000033119	42374711000001101	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	02050501
+3279241000033117	20092911000001108	Enalapril 5mg/5ml oral suspension sugar free	Enalapril 5mg/5ml oral suspension sugar free	Oral suspension	Oral	Enalapril maleate	1.000mg/1.000ml	NA
+3890041000033117	NA	Ramipril  Powder For Oral Suspension With Diluent (Kit)  10 mg/5 ml	NA	NA	NA	NA	NA	NA
+4153041000033114	NA	Perindopril  Oral suspension  8 mg/5 ml	NA	NA	NA	NA	NA	NA
+4454541000033118	13454311000001101	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Tablet/ Oral Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	02050501
+5595341000033117	NA	Captopril  Oral Suspension Sugar Free  2 mg/ml	NA	NA	NA	NA	NA	NA
+5888241000033116	NA	Perindopril  Oral suspension  4 mg/5 ml	NA	NA	NA	NA	NA	NA
+5997541000033113	NA	Perindopril  Oral solution  8 mg/5 ml	NA	NA	NA	NA	NA	NA
+8263641000033112	21940011000001101	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Tablet/ Oral Tablet	Oral	Indapamide/ Perindopril tosilate	1.250mg + 5.000mg	02050501
+9105241000033114	23985011000001108	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 4.000mg	02050501
+9105341000033116	23984911000001108	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 4.000mg	02050501
+9105441000033110	23985211000001103	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 8.000mg	02050501
+9105541000033111	23985111000001109	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 8.000mg	02050501
+13740241000033119	38955411000001109	Enalapril 20mg tablets (Imported)	Enalapril 20mg tablets	Tablet/ Oral Tablet	NA	Enalapril maleate	20.000mg	NA
+11241000033113	260211000001104	Accuretic 10mg/12.5mg tablets (Pfizer Ltd)	Accuretic 10mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	NA
+13141000033119	263311000001101	Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acezide 25mg/50mg tablets	Tablet/ Oral Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	NA
+209241000033119	546711000001107	Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide LS 12.5mg/25mg tablets	Tablet/ Oral Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	NA
+209841000033115	3144511000001107	Carace 10 Plus tablets (Organon Pharma (UK) Ltd)	Carace 10 Plus tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA
+216441000033110	17311000001102	Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide 25mg/50mg tablets	Tablet/ Oral Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	NA
+217041000033116	3143511000001109	Carace 20 Plus tablets (Organon Pharma (UK) Ltd)	Carace 20 Plus tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA
+770141000033115	146811000001108	Innozide 20mg/12.5mg tablets (Organon Pharma (UK) Ltd)	Innozide 20mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	NA
+1406341000033117	3691211000001101	Tarka modified-release capsules (Abbott Laboratories Ltd)	Tarka modified-release capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA
+1551841000033118	3144311000001101	Zestoretic 10 tablets (Atnahs Pharma UK Ltd)	Zestoretic 10 tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA
+1552341000033118	3143111000001100	Zestoretic 20 tablets (Atnahs Pharma UK Ltd)	Zestoretic 20 tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA
+1834341000033110	3887911000001109	Triapin 5mg/5mg modified-release tablets (Sanofi)	Triapin 5mg/5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	NA
+1893141000033119	42373811000001106	Co-zidocapt 12.5mg/25mg tablets	Co-zidocapt 12.5mg/25mg tablets	Tablet/ Oral Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	02050501
+1893241000033114	42373911000001101	Co-zidocapt 25mg/50mg tablets	Co-zidocapt 25mg/50mg tablets	Tablet/ Oral Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	02050501
+2739541000033117	562511000001109	Coversyl Plus tablets (Servier Laboratories Ltd)	Coversyl Plus tablets	Tablet/ Oral Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	NA
+3136041000033117	7385911000001108	Caralpha 10mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 10mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA
+3136141000033118	7385711000001106	Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 20mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA
+3279541000033115	8145711000001102	Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 10mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA
+3279641000033119	8145911000001100	Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 20mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA
+4454641000033117	13444311000001104	Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)	Coversyl Arginine Plus 5mg/1.25mg tablets	Tablet/ Oral Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	NA
+8264941000033119	4093211000001109	Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)	Triapin 2.5mg/2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	NA
+13443441000033115	38240211000001100	Lisoretic 10mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 10mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	NA
+13443541000033119	38240011000001105	Lisoretic 20mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 20mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	NA
+770241000033110	NA	Innovace  Titration pack	NA	NA	NA	NA	NA	NA
+770441000033111	NA	Innovace Melt  Wafers  10 mg	NA	NA	NA	NA	NA	NA
+770541000033112	NA	Innovace Melt  Wafers  2.5 mg	NA	NA	NA	NA	NA	NA
+770641000033113	NA	Innovace Melt  Wafers  20 mg	NA	NA	NA	NA	NA	NA
+770741000033116	NA	Innovace Melt  Wafers  5 mg	NA	NA	NA	NA	NA	NA
+770841000033114	NA	Innovace Melt  Wafers  10 mg	NA	NA	NA	NA	NA	NA
+770941000033118	NA	Innovace Melt  Wafers  2.5 mg	NA	NA	NA	NA	NA	NA
+771041000033111	NA	Innovace Melt  Wafers  20 mg	NA	NA	NA	NA	NA	NA
+771141000033110	NA	Innovace Melt  Wafers  5 mg	NA	NA	NA	NA	NA	NA
+1504841000033113	NA	Vascace  Tablets  250 micrograms	NA	NA	NA	NA	NA	NA
+1834241000033117	NA	Triapin Mite  Tablets  	NA	NA	NA	NA	NA	NA
+4521441000033112	NA	Tritace  Tablet Titration Pack  7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg	NA	NA	NA	NA	NA	NA
+3283241000033113	9208111000001100	Quinil 10mg tablets (Tillomed Laboratories Ltd)	Quinil 10mg tablets	Tablet	Oral	Quinapril hydrochloride	10.000mg	NA
+3283341000033115	9208411000001105	Quinil 20mg tablets (Tillomed Laboratories Ltd)	Quinil 20mg tablets	Tablet	Oral	Quinapril hydrochloride	20.000mg	NA
+3283441000033114	9208711000001104	Quinil 40mg tablets (Tillomed Laboratories Ltd)	Quinil 40mg tablets	Tablet	Oral	Quinapril hydrochloride	40.000mg	NA
+6028541000033112	NA	Co-Tritace Tablets 10 mg + 12.5 mg	NA	NA	NA	NA	NA	NA
+6028641000033113	NA	Co-Tritace Tablets 10 mg + 25 mg	NA	NA	NA	NA	NA	NA

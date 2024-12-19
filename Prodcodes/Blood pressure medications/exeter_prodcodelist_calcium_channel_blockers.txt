@@ -1,314 +1,318 @@
-ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
-1513241000033114	318204006	Verapamil 40mg tablets	Verapamil 40mg tablets	Tablet	Oral	Verapamil hydrochloride	40.000mg	2060200	NA
-1513341000033116	318205007	Verapamil 80mg tablets	Verapamil 80mg tablets	Tablet	Oral	Verapamil hydrochloride	80.000mg	2060200	NA
-1512941000033111	318206008	Verapamil 120mg tablets	Verapamil 120mg tablets	Tablet	Oral	Verapamil hydrochloride	120.000mg	2060200	NA
-1513141000033119	318248001	Verapamil 160mg tablets	Verapamil 160mg tablets	Tablet	Oral	Verapamil hydrochloride	160.000mg	2060200	NA
-967741000033115	319217004	Nicardipine 20mg capsules	Nicardipine 20mg capsules	Capsule	Oral	Nicardipine hydrochloride	20.000mg	2060200	NA
-967141000033119	319218009	Nicardipine 30mg capsules	Nicardipine 30mg capsules	Capsule	Oral	Nicardipine hydrochloride	30.000mg	2060200	NA
-967341000033116	319222004	Nifedipine 5mg capsules	Nifedipine 5mg capsules	Capsule	Oral	Nifedipine	5.000mg	2060200	NA
-967241000033114	319223009	Nifedipine 10mg capsules	Nifedipine 10mg capsules	Capsule	Oral	Nifedipine	10.000mg	2060200	NA
-784641000033112	319280009	Isradipine 2.5mg tablets	Isradipine 2.5mg tablets	Tablet	Oral	Isradipine	2.500mg	2060200	NA
-3038041000033111	319283006	Amlodipine 5mg tablets	Amlodipine 5mg tablets	Tablet	Oral	Amlodipine	5.000mg	2060200	NA
-3038141000033110	319284000	Amlodipine 10mg tablets	Amlodipine 10mg tablets	Tablet	Oral	Amlodipine	10.000mg	2060200	NA
-817541000033119	319300008	Lacidipine 2mg tablets	Lacidipine 2mg tablets	Tablet	Oral	Lacidipine	2.000mg	2060200	NA
-817641000033118	319301007	Lacidipine 4mg tablets	Lacidipine 4mg tablets	Tablet	Oral	Lacidipine	4.000mg	2060200	NA
-825941000033112	319316005	Lercanidipine 10mg tablets	Lercanidipine 10mg tablets	Tablet	Oral	Lercanidipine hydrochloride	10.000mg	2060200	NA
-977441000033119	323273000	Nimodipine 30mg tablets	Nimodipine 30mg tablets	Tablet	Oral	Nimodipine	30.000mg	2060200	NA
-19341000033119	5011000001109	Adalat retard 20mg tablets (Bayer Plc)	Adalat retard 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	2060200	NA
-452841000033118	5711000001106	Dilzem SR 120 capsules (Teva UK Ltd)	Dilzem SR 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-2295741000033113	17011000001100	Calchan MR 20 tablets (Ranbaxy (UK) Ltd)	Calchan MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-1550841000033111	20011000001105	Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd)	Zanidip 10mg tablets	Tablet	Oral	Lercanidipine hydrochloride	10.000mg	2060200	NA
-1580841000033116	25911000001100	Cardilate MR 10mg tablets (Teva UK Ltd)	Cardilate MR 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA	NA
-14141000033116	27111000001107	Adalat 5mg capsules (Bayer Plc)	Adalat 5mg capsules	Capsule	Oral	Nifedipine	5.000mg	2060200	NA
-1520141000033118	32311000001105	Viazem XL 120mg capsules (Thornton & Ross Ltd)	Viazem XL 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-1520241000033113	33211000001108	Viazem XL 180mg capsules (Thornton & Ross Ltd)	Viazem XL 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-1094041000033119	48511000001101	Plendil 10mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-1489741000033113	65411000001102	Univer 240mg modified-release capsules (Teva UK Ltd)	Univer 240mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-18241000033116	74111000001103	Adipine MR 20 tablets (Chiesi Ltd)	Adipine MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	2060200	NA
-1570441000033110	75111000001104	Angitil XL 240 capsules (Ethypharm UK Ltd)	Angitil XL 240 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-1442841000033115	103611000001105	Tildiem Retard 90mg tablets (Sanofi)	Tildiem Retard 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-199241000033119	104111000001100	Calcicard CR 120mg tablets (Teva UK Ltd)	Calcicard CR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	NA	NA
-1833041000033110	105211000001107	Zemtard 120 XL capsules (Galen Ltd)	Zemtard 120 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-199041000033110	118811000001102	Cardene SR 45mg capsules (Astellas Pharma Ltd)	Cardene SR 45mg capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	45.000mg	2060200	NA
-1346541000033112	119211000001108	Slozem 180mg capsules (Merck Serono Ltd)	Slozem 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-336641000033114	126411000001108	Coracten SR 10mg capsules (UCB Pharma Ltd)	Coracten SR 10mg capsules	Modified-release capsule	Oral	Nifedipine	10.000mg	2060200	NA
-1346441000033111	130211000001109	Slozem 120mg capsules (Merck Serono Ltd)	Slozem 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-1274741000033119	140411000001109	Securon 120mg tablets (Abbott Laboratories Ltd)	Securon 120mg tablets	Tablet	Oral	Verapamil hydrochloride	120.000mg	NA	NA
-5816941000033110	158411000001105	Bi-Carzem XL 300mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA	NA
-1724941000033113	162811000001100	Coracten XL 30mg capsules (UCB Pharma Ltd)	Coracten XL 30mg capsules	Modified-release capsule	Oral	Nifedipine	30.000mg	2060200	NA
-787941000033112	172711000001100	Istin 5mg tablets (Upjohn UK Ltd)	Istin 5mg tablets	Tablet	Oral	Amlodipine	5.000mg	2060200	NA
-605941000033110	188711000001108	Fortipine LA 40 tablets (Advanz Pharma)	Fortipine LA 40 tablets	Modified-release tablet	Oral	Nifedipine	40.000mg	2060200	NA
-199341000033112	219611000001107	Calcicard CR 90mg tablets (Teva UK Ltd)	Calcicard CR 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	NA	NA
-1489541000033117	219711000001103	Univer 120mg modified-release capsules (Teva UK Ltd)	Univer 120mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	120.000mg	2060200	NA
-17241000033117	235511000001104	Adalat LA 60mg tablets (Bayer Plc)	Adalat LA 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	2060200	NA
-453041000033116	243111000001108	Dilzem XL 120 capsules (Teva UK Ltd)	Dilzem XL 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-453141000033117	254911000001106	Dilzem XL 180 capsules (Teva UK Ltd)	Dilzem XL 180 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-375141000033114	258911000001104	Cordilox 80mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 80mg tablets	Tablet	Oral	Verapamil hydrochloride	80.000mg	2060200	NA
-1441841000033112	261611000001107	Tildiem LA 200 capsules (Sanofi)	Tildiem LA 200 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	2060200	NA
-2189541000033117	280811000001100	Nifopress Retard 20mg tablets (Advanz Pharma)	Nifopress Retard 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-176841000033116	291111000001102	Cardene 30mg capsules (Astellas Pharma Ltd)	Cardene 30mg capsules	Capsule	Oral	Nicardipine hydrochloride	30.000mg	2060200	NA
-65441000033110	298811000001103	Angitil SR 120 capsules (Ethypharm UK Ltd)	Angitil SR 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-937141000033113	333011000001100	Motens 4mg tablets (GlaxoSmithKline UK Ltd)	Motens 4mg tablets	Tablet	Oral	Lacidipine	4.000mg	2060200	NA
-65541000033111	336611000001101	Angitil SR 180 capsules (Ethypharm UK Ltd)	Angitil SR 180 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-176741000033114	344811000001108	Cardene 20mg capsules (Astellas Pharma Ltd)	Cardene 20mg capsules	Capsule	Oral	Nicardipine hydrochloride	20.000mg	2060200	NA
-1833241000033119	345411000001107	Zemtard 240 XL capsules (Galen Ltd)	Zemtard 240 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-1602541000033111	353011000001101	Dilcardia SR 90mg capsules (Mylan)	Dilcardia SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-1442741000033113	383911000001109	Tildiem Retard 120mg tablets (Sanofi)	Tildiem Retard 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-1421341000033117	385611000001104	Tensipine MR 20 tablets (Genus Pharmaceuticals Ltd)	Tensipine MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	2060200	NA
-364241000033112	389611000001101	Coracten SR 20mg capsules (UCB Pharma Ltd)	Coracten SR 20mg capsules	Modified-release capsule	Oral	Nifedipine	20.000mg	2060200	NA
-1489641000033116	391811000001102	Univer 180mg modified-release capsules (Teva UK Ltd)	Univer 180mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	180.000mg	2060200	NA
-1520441000033114	407011000001105	Viazem XL 300mg capsules (Thornton & Ross Ltd)	Viazem XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-788041000033110	408111000001107	Istin 10mg tablets (Upjohn UK Ltd)	Istin 10mg tablets	Tablet	Oral	Amlodipine	10.000mg	2060200	NA
-1421241000033110	413111000001101	Tensipine MR 10 tablets (Genus Pharmaceuticals Ltd)	Tensipine MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	2060200	NA
-452641000033119	417111000001109	Dilzem SR 60 capsules (Teva UK Ltd)	Dilzem SR 60 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-65941000033117	440711000001104	Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem CR 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-1570541000033111	467111000001105	Angitil XL 300 capsules (Ethypharm UK Ltd)	Angitil XL 300 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-2674841000033110	469811000001106	Disogram SR 60mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-1094141000033115	490211000001101	Plendil 5mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-1833541000033117	525311000001101	Verapress MR 240mg tablets (Dexcel-Pharma Ltd)	Verapress MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-2779141000033112	540011000001107	Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA	NA
-1275141000033117	540111000001108	Securon SR 240mg tablets (Mylan)	Securon SR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-198941000033118	540311000001105	Cardene SR 30mg capsules (Astellas Pharma Ltd)	Cardene SR 30mg capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	30.000mg	2060200	NA
-2261241000033118	550211000001104	Slozem 300mg capsules (Merck Serono Ltd)	Slozem 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-375041000033110	557111000001106	Cordilox 40mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 40mg tablets	Tablet	Oral	Verapamil hydrochloride	40.000mg	2060200	NA
-1093941000033116	562711000001104	Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	2060200	NA
-66141000033114	568911000001104	Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiopine MR 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA	NA
-19441000033113	569011000001108	Adalat retard 10mg tablets (Bayer Plc)	Adalat retard 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	2060200	NA
-2779341000033110	580711000001101	Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA	NA
-1346641000033113	599811000001104	Slozem 240mg capsules (Merck Serono Ltd)	Slozem 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-1745141000033114	619111000001101	Nifedipress MR 20 tablets (Dexcel-Pharma Ltd)	Nifedipress MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-2295641000033116	627111000001104	Calchan MR 10 tablets (Ranbaxy (UK) Ltd)	Calchan MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA	NA
-2955341000033118	640311000001101	Zemret 300 XL capsules (Tillomed Laboratories Ltd)	Zemret 300 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA	NA
-1520541000033110	648211000001107	Viazem XL 360mg capsules (Thornton & Ross Ltd)	Viazem XL 360mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	360.000mg	2060200	NA
-1754841000033116	675611000001104	Vertab SR 240 tablets (Chiesi Ltd)	Vertab SR 240 tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-452741000033111	682311000001105	Dilzem SR 90 capsules (Teva UK Ltd)	Dilzem SR 90 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-2955041000033115	693311000001101	Valni 20 Retard tablets (Tillomed Laboratories Ltd)	Valni 20 Retard tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-1602341000033116	723811000001107	Dilcardia SR 120mg capsules (Mylan)	Dilcardia SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-453241000033112	733511000001107	Dilzem XL 240 capsules (Teva UK Ltd)	Dilzem XL 240 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-2129041000033118	740811000001102	Cordilox MR 240mg tablets (Teva UK Ltd)	Cordilox MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-1443841000033113	762011000001102	Tildiem 60mg modified-release tablets (Sanofi)	Tildiem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-2779241000033117	764511000001100	Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA	NA
-2104741000033113	782111000001104	Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd)	Ethimil MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA	NA
-14041000033115	782511000001108	Adalat 10mg capsules (Bayer Plc)	Adalat 10mg capsules	Capsule	Oral	Nifedipine	10.000mg	2060200	NA
-1833141000033114	813611000001103	Zemtard 180 XL capsules (Galen Ltd)	Zemtard 180 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-2955241000033111	823511000001107	Zemret 240 XL capsules (Tillomed Laboratories Ltd)	Zemret 240 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA	NA
-18341000033114	833611000001109	Adipine MR 10 tablets (Chiesi Ltd)	Adipine MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	2060200	NA
-660641000033112	846611000001102	Half Securon SR 120mg tablets (Mylan)	Half Securon SR 120mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	2060200	NA
-65341000033116	857011000001109	Angitil SR 90 capsules (Ethypharm UK Ltd)	Angitil SR 90 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-4590741000033116	865711000001107	Retalzem 60 modified-release tablets (Kent Pharmaceuticals Ltd)	Retalzem 60 modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA	NA
-1833341000033112	866811000001107	Zemtard 300 XL capsules (Galen Ltd)	Zemtard 300 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-1766341000033113	881811000001100	Adalat LA 20mg tablets (Bayer Plc)	Adalat LA 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	2060200	NA
-1520341000033115	886511000001107	Viazem XL 240mg capsules (Thornton & Ross Ltd)	Viazem XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-1441741000033119	893111000001107	Tildiem LA 300 capsules (Sanofi)	Tildiem LA 300 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-1745041000033110	904011000001104	Nifedipress MR 10 tablets (Dexcel-Pharma Ltd)	Nifedipress MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	2060200	NA
-199141000033114	905711000001103	Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd)	Cardilate MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-937041000033114	910911000001108	Motens 2mg tablets (GlaxoSmithKline UK Ltd)	Motens 2mg tablets	Tablet	Oral	Lacidipine	2.000mg	2060200	NA
-2955141000033116	924711000001109	Zemret 180 XL capsules (Tillomed Laboratories Ltd)	Zemret 180 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA	NA
-1602441000033110	937011000001101	Dilcardia SR 60mg capsules (Mylan)	Dilcardia SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-17141000033112	2881311000001105	Adalat LA 30mg tablets (Bayer Plc)	Adalat LA 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	2060200	NA
-2776541000033111	2881811000001101	Hypolar XL 30 tablets (Sandoz Ltd)	Hypolar XL 30 tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-1752941000033115	2882011000001104	Slofedipine XL 30mg tablets (Zentiva)	Slofedipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-19641000033110	2885611000001102	Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd)	Adizem-SR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-18041000033112	2886111000001104	Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-17941000033114	2886311000001102	Adizem-XL 240mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-2653341000033118	2886511000001108	Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 200mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	2060200	NA
-17441000033116	2886711000001103	Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-17641000033119	2887011000001102	Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-17341000033110	2887311000001104	Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-17741000033111	2937811000001108	Adizem-XL 120mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-17841000033118	2938011000001101	Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-1725041000033113	3381511000001105	Coracten XL 60mg capsules (UCB Pharma Ltd)	Coracten XL 60mg capsules	Modified-release capsule	Oral	Nifedipine	60.000mg	2060200	NA
-1140241000033117	3689711000001108	Prescal 2.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Prescal 2.5mg tablets	Tablet	Oral	Isradipine	2.500mg	NA	NA
-2928841000033117	3800311000001106	Cabren 2.5mg modified-release tablets (Teva UK Ltd)	Cabren 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA	NA
-2928941000033113	3800511000001100	Cabren 5mg modified-release tablets (Teva UK Ltd)	Cabren 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA	NA
-2929041000033116	3800711000001105	Cabren 10mg modified-release tablets (Teva UK Ltd)	Cabren 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA	NA
-977741000033114	3879211000001104	Nimotop 30mg tablets (Bayer Plc)	Nimotop 30mg tablets	Tablet	Oral	Nimodipine	30.000mg	2060200	NA
-2641041000033116	4129511000001107	Zolvera 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Zolvera 40mg/5ml oral solution	Oral solution	Oral	Verapamil hydrochloride	8.000mg/1.000ml	2060200	NA
-1509841000033114	4139411000001106	Verapamil 40mg/5ml oral solution sugar free	Verapamil 40mg/5ml oral solution sugar free	Oral solution	Oral	Verapamil hydrochloride	8.000mg/1.000ml	2060200	NA
-2979941000033119	4785111000001103	Felotens XL 5mg tablets (Thornton & Ross Ltd)	Felotens XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-2980041000033115	4785511000001107	Felotens XL 10mg tablets (Thornton & Ross Ltd)	Felotens XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-3177441000033110	4972811000001103	Felogen XL 5mg tablets (Mylan)	Felogen XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-3177541000033111	4973011000001100	Felogen XL 10mg tablets (Mylan)	Felogen XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-5576541000033113	5008511000001107	Folpik XL 5mg tablets (Teva UK Ltd)	Folpik XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA	NA
-5576341000033118	5008911000001100	Folpik XL 10mg tablets (Teva UK Ltd)	Folpik XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA	NA
-3034341000033117	5638311000001102	Vascalpha 5mg modified-release tablets (Accord Healthcare Ltd)	Vascalpha 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-3034441000033111	5638811000001106	Vascalpha 10mg modified-release tablets (Accord Healthcare Ltd)	Vascalpha 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-9121641000033116	7387911000001103	Parmid XL 5mg tablets (Sandoz Ltd)	Parmid XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA	NA
-9121741000033113	7388311000001103	Parmid XL 10mg tablets (Sandoz Ltd)	Parmid XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA	NA
-2890641000033116	7418511000001104	Vera-Til SR 120mg tablets (Tillomed Laboratories Ltd)	Vera-Til SR 120mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	NA	NA
-2890741000033113	7418711000001109	Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd)	Vera-Til SR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA	NA
-3154841000033119	7887011000001104	Cardioplen XL 5mg tablets (Chiesi Ltd)	Cardioplen XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-3154941000033110	7887511000001107	Cardioplen XL 10mg tablets (Chiesi Ltd)	Cardioplen XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-3188741000033111	8046211000001107	Amlostin 5mg tablets (Discovery Pharmaceuticals)	Amlostin 5mg tablets	Tablet	Oral	Amlodipine	5.000mg	2060200	NA
-3188841000033118	8046411000001106	Amlostin 10mg tablets (Discovery Pharmaceuticals)	Amlostin 10mg tablets	Tablet	Oral	Amlodipine	10.000mg	2060200	NA
-4521741000033117	8089811000001107	Neofel XL 10mg tablets (Kent Pharmaceuticals Ltd)	Neofel XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-4521641000033114	8090111000001106	Neofel XL 5mg tablets (Kent Pharmaceuticals Ltd)	Neofel XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-3963741000033115	8278111000001105	Amlodipine 10mg/5ml oral suspension	Amlodipine 10mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	2.000mg/1.000ml	NA	NA
-5888741000033110	8278311000001107	Amlodipine 5mg/5ml oral suspension	Amlodipine 5mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	1.000mg/1.000ml	NA	NA
-4953741000033114	8456911000001108	Diltiazem 60mg/5ml oral suspension	Diltiazem 60mg/5ml oral suspension	Oral suspension	Oral	Diltiazem hydrochloride	12.000mg/1.000ml	NA	NA
-5991941000033112	8457011000001107	Diltiazem 60mg/5ml oral solution	Diltiazem 60mg/5ml oral solution	Oral solution	Oral	Diltiazem hydrochloride	12.000mg/1.000ml	NA	NA
-5973741000033117	8670111000001106	Nifedipine 10mg/5ml oral suspension	Nifedipine 10mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	2.000mg/1.000ml	NA	NA
-5056241000033112	8670311000001108	Nifedipine 5mg/5ml oral suspension	Nifedipine 5mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	1.000mg/1.000ml	NA	NA
-9118241000033117	8885711000001100	Kenzem SR 60mg capsules (Kent Pharmaceuticals Ltd)	Kenzem SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA	NA
-9118341000033110	8886211000001101	Kenzem SR 90mg capsules (Kent Pharmaceuticals Ltd)	Kenzem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA	NA
-9118441000033116	8886511000001103	Kenzem SR 120mg capsules (Kent Pharmaceuticals Ltd)	Kenzem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA	NA
-3225441000033117	9049711000001108	Adipine XL 30mg tablets (Chiesi Ltd)	Adipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	2060200	NA
-3225541000033116	9049911000001105	Adipine XL 60mg tablets (Chiesi Ltd)	Adipine XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	2060200	NA
-2639341000033117	9096811000001100	Nifedipine 20mg/ml oral drops	Nifedipine 20mg/ml oral drops	Oral drops	Oral	Nifedipine	20.000mg/1.000ml	NA	NA
-3952641000033110	10189111000001106	Nimodrel XL 30mg tablets (Zurich Pharmaceuticals)	Nimodrel XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-3952741000033118	10189311000001108	Nimodrel XL 60mg tablets (Zurich Pharmaceuticals)	Nimodrel XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA	NA
-3908841000033116	10198711000001102	Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd)	Zanidip 20mg tablets	Tablet	Oral	Lercanidipine hydrochloride	20.000mg	NA	NA
-3908741000033114	10225911000001102	Lercanidipine 20mg tablets	Lercanidipine 20mg tablets	Tablet	Oral	Lercanidipine hydrochloride	20.000mg	NA	NA
-5817441000033119	10751211000001100	Neozipine XL 30mg tablets (Kent Pharmaceuticals Ltd)	Neozipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-5817541000033118	10751411000001101	Neozipine XL 60mg tablets (Kent Pharmaceuticals Ltd)	Neozipine XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA	NA
-4152841000033112	11506711000001103	Cardioplen XL 2.5mg tablets (Chiesi Ltd)	Cardioplen XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA	NA
-5402541000033112	12303311000001109	Nifedipine 2.5mg/5ml oral suspension	Nifedipine 2.5mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	500.000microgram/1.000ml	NA	NA
-4429241000033115	13127311000001107	Felotens XL 2.5mg tablets (Thornton & Ross Ltd)	Felotens XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	2060200	NA
-4451941000033110	13401911000001109	Valni XL 30mg tablets (Zentiva)	Valni XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	2060200	NA
-4452041000033116	13402111000001101	Valni XL 60mg tablets (Zentiva)	Valni XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	2060200	NA
-5576441000033112	13565311000001101	Folpik XL 2.5mg tablets (Teva UK Ltd)	Folpik XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA	NA
-5490241000033113	13892511000001100	Amlodipine 5mg/5ml oral solution	Amlodipine 5mg/5ml oral solution	Oral solution	Oral	Amlodipine	1.000mg/1.000ml	NA	NA
-4897741000033118	15773511000001108	Amlodipine 1.5mg/5ml oral suspension	Amlodipine 1.5mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	300.000microgram/1.000ml	NA	NA
-5891941000033115	17666011000001106	Adanif XL 30mg tablets (Advanz Pharma)	Adanif XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-5892041000033114	17666211000001101	Adanif XL 60mg tablets (Advanz Pharma)	Adanif XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA	NA
-4521541000033113	18167311000001103	Neofel XL 2.5mg tablets (Actavis UK Ltd)	Neofel XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA	NA
-7740641000033112	20478011000001105	Amlodipine 10mg/5ml oral solution	Amlodipine 10mg/5ml oral solution	Oral solution	Oral	Amlodipine	2.000mg/1.000ml	NA	NA
-9121541000033117	24221811000001105	Parmid XL 2.5mg tablets (Sandoz Ltd)	Parmid XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA	NA
-10217641000033116	28882211000001100	Molap 4mg tablets (Rivopharm (UK) Ltd)	Molap 4mg tablets	Tablet	Oral	Lacidipine	4.000mg	NA	NA
-10387441000033111	29826211000001109	Amlodipine 10mg/5ml oral solution sugar free	Amlodipine 10mg/5ml oral solution sugar free	Oral solution	Oral	Amlodipine	2.000mg/1.000ml	NA	NA
-4508041000033119	29826311000001101	Amlodipine 5mg/5ml oral solution sugar free	Amlodipine 5mg/5ml oral solution sugar free	Oral solution	Oral	Amlodipine	1.000mg/1.000ml	NA	NA
-12372341000033117	34685211000001104	Nidef 30mg modified-release tablets (Morningside Healthcare Ltd)	Nidef 30mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA	NA
-12372441000033111	34685811000001103	Nidef 60mg modified-release tablets (Morningside Healthcare Ltd)	Nidef 60mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA	NA
-1509041000033119	35367911000001103	Verapamil 120mg modified-release tablets	Verapamil 120mg modified-release tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	2060200	NA
-972141000033112	36031811000001107	Nisoldipine 10mg modified-release tablets	Nisoldipine 10mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	10.000mg	NA	NA
-1511241000033113	36149411000001103	Verapamil 180mg modified-release capsules	Verapamil 180mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	180.000mg	2060200	NA
-12682241000033110	36237311000001101	Amlodipine 5mg/5ml oral suspension sugar free	Amlodipine 5mg/5ml oral suspension sugar free	Oral suspension	Oral	Amlodipine	1.000mg/1.000ml	NA	NA
-1511141000033118	36565011000001105	Verapamil 120mg modified-release capsules	Verapamil 120mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	120.000mg	2060200	NA
-60741000033111	NA	Amlodipine Besilate Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
-451741000033117	NA	Diltiazem Hydrochloride M/R capsules 300 mg	NA	NA	NA	NA	NA	NA	NA
-974941000033117	NA	Nifedipine Tablets 20 mg	NA	NA	NA	NA	NA	NA	NA
-1511741000033119	NA	Verapamil Hydrochloride M/R capsules 240 mg	NA	NA	NA	NA	NA	NA	NA
-1513041000033118	NA	Verapamil Hydrochloride Tablets 240 mg	NA	NA	NA	NA	NA	NA	NA
-3890141000033118	NA	Amlodipine Powder For Oral Suspension With Diluent (Kit) 10 mg/5 ml	NA	NA	NA	NA	NA	NA	NA
-977341000033113	NA	Nifedipine Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
-468841000033112	NA	Diltiazem Hydrochloride Tablets 60 mg	NA	NA	NA	NA	NA	NA	NA
-977641000033117	NA	Nifedipine Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
-57241000033113	NA	Amlodipine Besilate Tablets 5 mg	NA	NA	NA	NA	NA	NA	NA
-3163341000033119	318176004	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	2050501	NA
-3163241000033112	318177008	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine 5mg modified-release / Ramipril 5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	2050501	NA
-5005841000033114	429502004	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	2050502	NA
-5005941000033118	429503009	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	2050502	NA
-5006041000033111	429678006	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	2050502	NA
-13422241000033114	429828006	Amlodipine 2.5mg tablets	Amlodipine 2.5mg tablets	Tablet	Oral	Amlodipine	2.500mg	NA	NA
-4021641000033111	11160111000001107	Amlodipine 10mg / Valsartan 160mg tablets	Amlodipine 10mg / Valsartan 160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	2060200	NA
-4021541000033110	11160211000001101	Amlodipine 5mg / Valsartan 160mg tablets	Amlodipine 5mg / Valsartan 160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	2060200	NA
-4021441000033114	11160311000001109	Amlodipine 5mg / Valsartan 80mg tablets	Amlodipine 5mg / Valsartan 80mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	2060200	NA
-9105341000033116	23984911000001108	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 4.000mg	NA	NA
-9105241000033114	23985011000001108	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 4.000mg	NA	NA
-9105541000033111	23985111000001109	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 8.000mg	NA	NA
-9105441000033110	23985211000001103	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 8.000mg	NA	NA
-3246941000033118	35903311000001104	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
-972241000033117	36031911000001102	Nisoldipine 20mg modified-release tablets	Nisoldipine 20mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	20.000mg	NA	NA
-972341000033110	36032011000001109	Nisoldipine 30mg modified-release tablets	Nisoldipine 30mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	30.000mg	NA	NA
-3163041000033116	36149211000001102	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA	NA
-13344441000033112	38019311000001102	Lacidipine 6mg tablets	Lacidipine 6mg tablets	Tablet	Oral	Lacidipine	6.000mg	NA	NA
-1509141000033115	38750211000001107	Verapamil 240mg modified-release tablets	Verapamil 240mg modified-release tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-1778841000033111	38896511000001101	Nifedipine 60mg modified-release capsules	Nifedipine 60mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	60.000mg	2060200	NA
-568041000033111	39020311000001104	Felodipine 2.5mg modified-release tablets	Felodipine 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	2060200	NA
-569041000033115	39020511000001105	Felodipine 10mg modified-release tablets	Felodipine 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	2060200	NA
-569141000033116	39020611000001109	Felodipine 5mg modified-release tablets	Felodipine 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	2060200	NA
-1511341000033115	39021011000001106	Verapamil 240mg modified-release capsules	Verapamil 240mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	240.000mg	2060200	NA
-971441000033112	39021711000001108	Nicardipine 30mg modified-release capsules	Nicardipine 30mg modified-release capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	30.000mg	2060200	NA
-971541000033113	39021811000001100	Nicardipine 45mg modified-release capsules	Nicardipine 45mg modified-release capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	45.000mg	2060200	NA
-974141000033119	39022511000001106	Nifedipine 20mg modified-release capsules	Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	20.000mg	2060200	NA
-971341000033118	39022611000001105	Nifedipine 60mg modified-release tablets	Nifedipine 60mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	2060200	NA
-971841000033110	39022711000001101	Nifedipine 10mg modified-release tablets	Nifedipine 10mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	2060200	NA
-970941000033113	39022811000001109	Nifedipine 20mg modified-release tablets	Nifedipine 20mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	2060200	NA
-971141000033116	39022911000001104	Nifedipine 10mg modified-release capsules	Nifedipine 10mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	10.000mg	2060200	NA
-452941000033114	39023011000001107	Diltiazem 60mg modified-release capsules	Diltiazem 60mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-452141000033112	39023111000001108	Diltiazem 90mg modified-release capsules	Diltiazem 90mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-451841000033110	39023211000001102	Diltiazem 120mg modified-release capsules	Diltiazem 120mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-451941000033119	39023311000001105	Diltiazem 180mg modified-release capsules	Diltiazem 180mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-453941000033115	39023411000001103	Diltiazem 200mg modified-release capsules	Diltiazem 200mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	2060200	NA
-453741000033118	39023511000001104	Diltiazem 240mg modified-release capsules	Diltiazem 240mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-452041000033113	39023611000001100	Diltiazem 300mg modified-release capsules	Diltiazem 300mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-1800341000033113	39023711000001109	Diltiazem 360mg modified-release capsules	Diltiazem 360mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	360.000mg	2060200	NA
-454041000033118	39023811000001101	Diltiazem 60mg modified-release tablets	Diltiazem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-458841000033115	39023911000001106	Diltiazem 90mg modified-release tablets	Diltiazem 90mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-459641000033113	39024011000001109	Diltiazem 120mg modified-release tablets	Diltiazem 120mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-1778741000033118	39107511000001109	Nifedipine 30mg modified-release capsules	Nifedipine 30mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	30.000mg	2060200	NA
-972441000033116	39107611000001108	Nifedipine 40mg modified-release tablets	Nifedipine 40mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	40.000mg	2060200	NA
-971241000033111	39111711000001105	Nifedipine 30mg modified-release tablets	Nifedipine 30mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	2060200	NA
-2676041000033111	34711000001104	Disogram SR 300mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	2060200	NA
-2675641000033113	108711000001107	Disogram SR 240mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	2060200	NA
-2675041000033119	116711000001106	Disogram SR 120mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-66041000033110	144811000001101	Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem CR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	2060200	NA
-2739141000033114	157511000001105	Horizem SR 90mg capsules (Horizon lifecare)	Horizem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA	NA
-2952341000033113	200811000001104	Zildil 90mg modified-release capsules (Healthcare Pharma Ltd)	Zildil 90mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA	NA
-2674941000033119	256611000001109	Disogram SR 90mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	2060200	NA
-2051241000033116	309611000001102	Coroday MR 20mg tablets (Mylan)	Coroday MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-1661641000033116	527711000001108	Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd)	Optil 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	2060200	NA
-1753041000033113	630411000001107	Slofedipine XL 60 tablets (Zentiva)	Slofedipine XL 60 tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA	NA
-2952441000033119	655411000001104	Zildil SR 120mg capsules (Healthcare Pharma Ltd)	Zildil SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA	NA
-71141000033114	672311000001103	Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA	NA
-738141000033119	677411000001108	Hypolar Retard 20 tablets (Sandoz Ltd)	Hypolar Retard 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-2675341000033117	713411000001103	Disogram SR 180mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	2060200	NA
-2952241000033115	721811000001108	Zildil SR 60mg capsules (Healthcare Pharma Ltd)	Zildil SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA	NA
-2739041000033110	758511000001104	Horizem SR 120mg capsules (Horizon lifecare)	Horizem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA	NA
-374941000033110	783511000001101	Cordilox 160mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 160mg tablets	Tablet	Oral	Verapamil hydrochloride	160.000mg	2060200	NA
-61841000033111	811311000001107	Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd)	Angiopine 10 capsules	Capsule	Oral	Nifedipine	10.000mg	NA	NA
-1697641000033111	843411000001105	Slofedipine 20mg tablets (Sterwin Medicines)	Slofedipine 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-65241000033114	865011000001105	Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiopine MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA	NA
-374841000033119	867011000001103	Cordilox 120mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 120mg tablets	Tablet	Oral	Verapamil hydrochloride	120.000mg	NA	NA
-5816841000033119	884811000001103	Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA	NA
-1414941000033114	3142511000001102	Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd)	Tenif 50mg/20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
-124341000033119	3142711000001107	Beta-Adalat modified-release capsules (Bayer Plc)	Beta-Adalat modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	NA
-2845841000033119	3634111000001100	Ranvera MR 240mg tablets (Ranbaxy (UK) Ltd)	Ranvera MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA	NA
-1406341000033117	3691211000001101	Tarka modified-release capsules (Abbott Laboratories Ltd)	Tarka modified-release capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA	NA
-1401341000033110	3877011000001100	Syscor MR 10 tablets (Forest Laboratories UK Ltd)	Syscor MR 10 tablets	Modified-release tablet	Oral	Nisoldipine	10.000mg	NA	NA
-1834341000033110	3887911000001109	Triapin 5mg/5mg modified-release tablets (Sanofi)	Triapin 5mg/5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	2050501	NA
-1401541000033115	4069211000001108	Syscor MR 30 tablets (Forest Laboratories UK Ltd)	Syscor MR 30 tablets	Modified-release tablet	Oral	Nisoldipine	30.000mg	NA	NA
-1401441000033116	4070011000001100	Syscor MR 20 tablets (Forest Laboratories UK Ltd)	Syscor MR 20 tablets	Modified-release tablet	Oral	Nisoldipine	20.000mg	NA	NA
-8264941000033119	4093211000001109	Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)	Triapin 2.5mg/2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	2050501	NA
-4021941000033116	11160711000001108	Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 10mg/160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	2060200	NA
-4021841000033112	11161511000001105	Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/160mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	2060200	NA
-4021741000033119	11161811000001108	Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/80mg tablets	Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	2060200	NA
-5006341000033113	15772611000001102	Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/10mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	2050502	NA
-5006241000033115	15772911000001108	Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	2050502	NA
-5006141000033110	15773211000001105	Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 20mg/5mg tablets	Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	2050502	NA
-6180641000033112	18986411000001108	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 20mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 20.000mg	2050502	NA
-6180741000033115	18986711000001102	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 40.000mg	2050502	NA
-6180841000033113	18987011000001101	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 12.500mg + 40.000mg	2050502	NA
-6180941000033117	18987311000001103	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 25.000mg + 40.000mg	2050502	NA
-6181041000033110	18987611000001108	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 25.000mg + 40.000mg	2050502	NA
-65841000033113	NA	Angiopine 40 La M/R tablets 40 mg	NA	NA	NA	NA	NA	NA	NA
-216641000033112	NA	Calcicard Tablets 60 mg	NA	NA	NA	NA	NA	NA	NA
-1039741000033114	NA	Parmid (Metoclopramide) Syrup 5 mg/ml	NA	NA	NA	NA	NA	NA	NA
-1041441000033117	NA	Parmid (Metoclopramide) Tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
-1274841000033112	NA	Securon Tablets 160 mg	NA	NA	NA	NA	NA	NA	NA
-1274941000033116	NA	Securon Tablets 40 mg	NA	NA	NA	NA	NA	NA	NA
-1747341000033119	NA	Optil Xl 240 M/R capsules 240 mg	NA	NA	NA	NA	NA	NA	NA
-8027841000033119	NA	Exforge Tablets 5 mg/320 mg	NA	NA	NA	NA	NA	NA	NA
-8027941000033110	NA	Exforge Tablets 10 mg/320 mg	NA	NA	NA	NA	NA	NA	NA
-1747141000033117	NA	Optil Sr 120 M/R capsules 120 mg	NA	NA	NA	NA	NA	NA	NA
-177241000033117	NA	Cardene Capsules	NA	NA	NA	NA	NA	NA	NA
-1727741000033116	NA	Dilcardia Xl M/R capsules 180 mg	NA	NA	NA	NA	NA	NA	NA
-1727841000033114	NA	Dilcardia Xl M/R capsules 240 mg	NA	NA	NA	NA	NA	NA	NA
-1834241000033117	NA	Triapin Mite Tablets	NA	NA	NA	NA	NA	NA	NA
-61741000033118	NA	Angiopine Capsules 5 mg	NA	NA	NA	NA	NA	NA	NA
-971941000033119	NA	Nimodrel Mr M/R tablets 10 mg	NA	NA	NA	NA	NA	NA	NA
-8029241000033113	NA	Exforge Hct Tablets 5 mg/160 mg/12.5 mg	NA	NA	NA	NA	NA	NA	NA
-1727641000033113	NA	Dilcardia Xl M/R capsules 120 mg	NA	NA	NA	NA	NA	NA	NA
-1820441000033113	NA	Adipine LA 60 M/R tablets 60 mg	NA	NA	NA	NA	NA	NA	NA
-18441000033115	NA	Adizem-Xl Plus M/R capsules	NA	NA	NA	NA	NA	NA	NA
-1747241000033112	NA	Optil Sr 180 M/R capsules 180 mg	NA	NA	NA	NA	NA	NA	NA
-17541000033115	NA	Adizem-Sr M/R capsules 300 mg	NA	NA	NA	NA	NA	NA	NA
-8029341000033115	NA	Exforge Hct Tablets 5 mg/160 mg/25 mg	NA	NA	NA	NA	NA	NA	NA
-1442541000033117	NA	Tildiem S/r tablets 120 mg	NA	NA	NA	NA	NA	NA	NA
-1442641000033116	NA	Tildiem S/r tablets 90 mg	NA	NA	NA	NA	NA	NA	NA
-1747041000033116	NA	Optil Sr 90 M/R capsules 90 mg	NA	NA	NA	NA	NA	NA	NA
-1747441000033113	NA	Optil Xl 300 M/R capsules 300 mg	NA	NA	NA	NA	NA	NA	NA
-1820541000033114	NA	Adipine LA 30 M/R tablets 30 mg	NA	NA	NA	NA	NA	NA	NA
-972041000033113	NA	Nimodrel Mr M/R tablets 20 mg	NA	NA	NA	NA	NA	NA	NA
-1275041000033116	NA	Securon Tablets 80 mg	NA	NA	NA	NA	NA	NA	NA
-19541000033114	NA	Adizem-Sr Tablets 60 mg	NA	NA	NA	NA	NA	NA	NA
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter
+14041000033115	782511000001108	Adalat 10mg capsules (Bayer Plc)	Adalat 10mg capsules	Capsule/ Oral capsule	Oral	Nifedipine	10.000mg	NA
+14141000033116	27111000001107	Adalat 5mg capsules (Bayer Plc)	Adalat 5mg capsules	Capsule/ Oral capsule	Oral	Nifedipine	5.000mg	NA
+17141000033112	2881311000001105	Adalat LA 30mg tablets (Bayer Plc)	Adalat LA 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+17241000033117	235511000001104	Adalat LA 60mg tablets (Bayer Plc)	Adalat LA 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+17341000033110	2887311000001104	Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+17441000033116	2886711000001103	Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+17641000033119	2887011000001102	Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd)	Adizem-SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+17741000033111	2937811000001108	Adizem-XL 120mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+17841000033118	2938011000001101	Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+17941000033114	2886311000001102	Adizem-XL 240mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+18041000033112	2886111000001104	Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+18241000033116	74111000001103	Adipine MR 20 tablets (Chiesi Ltd)	Adipine MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+18341000033114	833611000001109	Adipine MR 10 tablets (Chiesi Ltd)	Adipine MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+19341000033119	5011000001109	Adalat retard 20mg tablets (Bayer Plc)	Adalat retard 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+19441000033113	569011000001108	Adalat retard 10mg tablets (Bayer Plc)	Adalat retard 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+19641000033110	2885611000001102	Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd)	Adizem-SR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	NA
+65341000033116	857011000001109	Angitil SR 90 capsules (Ethypharm UK Ltd)	Angitil SR 90 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+65441000033110	298811000001103	Angitil SR 120 capsules (Ethypharm UK Ltd)	Angitil SR 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+65541000033111	336611000001101	Angitil SR 180 capsules (Ethypharm UK Ltd)	Angitil SR 180 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+65941000033117	440711000001104	Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem CR 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	NA
+66141000033114	568911000001104	Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiopine MR 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+176741000033114	344811000001108	Cardene 20mg capsules (Laboratoire X.O)	Cardene 20mg capsules	Capsule/ Oral capsule	Oral	Nicardipine hydrochloride	20.000mg	NA
+176841000033116	291111000001102	Cardene 30mg capsules (Laboratoire X.O)	Cardene 30mg capsules	Capsule/ Oral capsule	Oral	Nicardipine hydrochloride	30.000mg	NA
+198941000033118	540311000001105	Cardene SR 30mg capsules (Astellas Pharma Ltd)	Cardene SR 30mg capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	30.000mg	NA
+199041000033110	118811000001102	Cardene SR 45mg capsules (Astellas Pharma Ltd)	Cardene SR 45mg capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	45.000mg	NA
+199141000033114	905711000001103	Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd)	Cardilate MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+199241000033119	104111000001100	Calcicard CR 120mg tablets (Teva UK Ltd)	Calcicard CR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	NA
+199341000033112	219611000001107	Calcicard CR 90mg tablets (Teva UK Ltd)	Calcicard CR 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	NA
+336641000033114	126411000001108	Coracten SR 10mg capsules (Teofarma S.r.l.)	Coracten SR 10mg capsules	Modified-release capsule	Oral	Nifedipine	10.000mg	NA
+364241000033112	389611000001101	Coracten SR 20mg capsules (Teofarma S.r.l.)	Coracten SR 20mg capsules	Modified-release capsule	Oral	Nifedipine	20.000mg	NA
+375041000033110	557111000001106	Cordilox 40mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 40mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	40.000mg	NA
+375141000033114	258911000001104	Cordilox 80mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 80mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	80.000mg	NA
+452641000033119	417111000001109	Dilzem SR 60 capsules (Teva UK Ltd)	Dilzem SR 60 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+452741000033111	682311000001105	Dilzem SR 90 capsules (Teva UK Ltd)	Dilzem SR 90 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+452841000033118	5711000001106	Dilzem SR 120 capsules (Teva UK Ltd)	Dilzem SR 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+453041000033116	243111000001108	Dilzem XL 120 capsules (Teva UK Ltd)	Dilzem XL 120 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+453141000033117	254911000001106	Dilzem XL 180 capsules (Teva UK Ltd)	Dilzem XL 180 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+453241000033112	733511000001107	Dilzem XL 240 capsules (Teva UK Ltd)	Dilzem XL 240 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+605941000033110	188711000001108	Fortipine LA 40 tablets (Advanz Pharma)	Fortipine LA 40 tablets	Modified-release tablet	Oral	Nifedipine	40.000mg	NA
+660641000033112	846611000001102	Half Securon SR 120mg tablets (Viatris UK Healthcare Ltd)	Half Securon SR 120mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	NA
+787941000033112	172711000001100	Istin 5mg tablets (Viatris UK Healthcare Ltd)	Istin 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	5.000mg	NA
+788041000033110	408111000001107	Istin 10mg tablets (Viatris UK Healthcare Ltd)	Istin 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	10.000mg	NA
+937041000033114	910911000001108	Motens 2mg tablets (GlaxoSmithKline UK Ltd)	Motens 2mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	2.000mg	NA
+937141000033113	333011000001100	Motens 4mg tablets (GlaxoSmithKline UK Ltd)	Motens 4mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	4.000mg	NA
+972141000033112	36031811000001107	Nisoldipine 10mg modified-release tablets	Nisoldipine 10mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	10.000mg	02060200
+977741000033114	3879211000001104	Nimotop 30mg tablets (Bayer Plc)	Nimotop 30mg tablets	Tablet/ Oral Tablet	Oral	Nimodipine	30.000mg	NA
+1093941000033116	562711000001104	Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+1094041000033119	48511000001101	Plendil 10mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+1094141000033115	490211000001101	Plendil 5mg modified-release tablets (AstraZeneca UK Ltd)	Plendil 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+1140241000033117	3689711000001108	Prescal 2.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Prescal 2.5mg tablets	Tablet/ Oral Tablet	Oral	Isradipine	2.500mg	NA
+1274741000033119	140411000001109	Securon 120mg tablets (Abbott Laboratories Ltd)	Securon 120mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	120.000mg	NA
+1275141000033117	540111000001108	Securon SR 240mg tablets (Viatris UK Healthcare Ltd)	Securon SR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+1346441000033111	130211000001109	Slozem 120mg capsules (Zentiva Pharma UK Ltd)	Slozem 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+1346541000033112	119211000001108	Slozem 180mg capsules (Zentiva Pharma UK Ltd)	Slozem 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+1346641000033113	599811000001104	Slozem 240mg capsules (Zentiva Pharma UK Ltd)	Slozem 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+1421241000033110	413111000001101	Tensipine MR 10 tablets (Genus Pharmaceuticals Ltd)	Tensipine MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+1421341000033117	385611000001104	Tensipine MR 20 tablets (Genus Pharmaceuticals Ltd)	Tensipine MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+1441741000033119	893111000001107	Tildiem LA 300 capsules (Sanofi)	Tildiem LA 300 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+1441841000033112	261611000001107	Tildiem LA 200 capsules (Sanofi)	Tildiem LA 200 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	NA
+1442741000033113	383911000001109	Tildiem Retard 120mg tablets (Sanofi)	Tildiem Retard 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	NA
+1442841000033115	103611000001105	Tildiem Retard 90mg tablets (Sanofi)	Tildiem Retard 90mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	NA
+1443841000033113	762011000001102	Tildiem 60mg modified-release tablets (Sanofi)	Tildiem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA
+1489541000033117	219711000001103	Univer 120mg modified-release capsules (Teva UK Ltd)	Univer 120mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	120.000mg	NA
+1489641000033116	391811000001102	Univer 180mg modified-release capsules (Teva UK Ltd)	Univer 180mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	180.000mg	NA
+1489741000033113	65411000001102	Univer 240mg modified-release capsules (Teva UK Ltd)	Univer 240mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	240.000mg	NA
+1509041000033119	35367911000001103	Verapamil 120mg modified-release tablets	Verapamil 120mg modified-release tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	02060200
+1509841000033114	4139411000001106	Verapamil 40mg/5ml oral solution sugar free	Verapamil 40mg/5ml oral solution sugar free	Oral solution	Oral	Verapamil hydrochloride	8.000mg/1.000ml	02060200
+1511141000033118	36565011000001105	Verapamil 120mg modified-release capsules	Verapamil 120mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	120.000mg	02060200
+1511241000033113	36149411000001103	Verapamil 180mg modified-release capsules	Verapamil 180mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	180.000mg	02060200
+1520141000033118	32311000001105	Viazem XL 120mg capsules (Thornton & Ross Ltd)	Viazem XL 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+1520241000033113	33211000001108	Viazem XL 180mg capsules (Thornton & Ross Ltd)	Viazem XL 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+1520341000033115	886511000001107	Viazem XL 240mg capsules (Thornton & Ross Ltd)	Viazem XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+1520441000033114	407011000001105	Viazem XL 300mg capsules (Thornton & Ross Ltd)	Viazem XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+1520541000033110	648211000001107	Viazem XL 360mg capsules (Thornton & Ross Ltd)	Viazem XL 360mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	360.000mg	NA
+1550841000033111	20011000001105	Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd)	Zanidip 10mg tablets	Tablet/ Oral Tablet	Oral	Lercanidipine hydrochloride	10.000mg	NA
+1570441000033110	75111000001104	Angitil XL 240 capsules (Ethypharm UK Ltd)	Angitil XL 240 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+1570541000033111	467111000001105	Angitil XL 300 capsules (Ethypharm UK Ltd)	Angitil XL 300 capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+1580841000033116	25911000001100	Cardilate MR 10mg tablets (Teva UK Ltd)	Cardilate MR 10mg tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+1602341000033116	723811000001107	Dilcardia SR 120mg capsules (Viatris UK Healthcare Ltd)	Dilcardia SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+1602441000033110	937011000001101	Dilcardia SR 60mg capsules (Viatris UK Healthcare Ltd)	Dilcardia SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+1602541000033111	353011000001101	Dilcardia SR 90mg capsules (Viatris UK Healthcare Ltd)	Dilcardia SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+1724941000033113	162811000001100	Coracten XL 30mg capsules (Teofarma S.r.l.)	Coracten XL 30mg capsules	Modified-release capsule	Oral	Nifedipine	30.000mg	NA
+1725041000033113	3381511000001105	Coracten XL 60mg capsules (Teofarma S.r.l.)	Coracten XL 60mg capsules	Modified-release capsule	Oral	Nifedipine	60.000mg	NA
+1745041000033110	904011000001104	Nifedipress MR 10 tablets (Dexcel-Pharma Ltd)	Nifedipress MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+1745141000033114	619111000001101	Nifedipress MR 20 tablets (Dexcel-Pharma Ltd)	Nifedipress MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+1752941000033115	2882011000001104	Slofedipine XL 30mg tablets (Zentiva Pharma UK Ltd)	Slofedipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+1754841000033116	675611000001104	Vertab SR 240 tablets (Chiesi Ltd)	Vertab SR 240 tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+1766341000033113	881811000001100	Adalat LA 20mg tablets (Bayer Plc)	Adalat LA 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+1833041000033110	105211000001107	Zemtard 120 XL capsules (Galen Ltd)	Zemtard 120 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+1833141000033114	813611000001103	Zemtard 180 XL capsules (Galen Ltd)	Zemtard 180 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+1833241000033119	345411000001107	Zemtard 240 XL capsules (Galen Ltd)	Zemtard 240 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+1833341000033112	866811000001107	Zemtard 300 XL capsules (Galen Ltd)	Zemtard 300 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+1833541000033117	525311000001101	Verapress MR 240mg tablets (Dexcel-Pharma Ltd)	Verapress MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+2129041000033118	740811000001102	Cordilox MR 240mg tablets (Teva UK Ltd)	Cordilox MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+2189541000033117	280811000001100	Nifopress Retard 20mg tablets (Advanz Pharma)	Nifopress Retard 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+2261241000033118	550211000001104	Slozem 300mg capsules (Zentiva Pharma UK Ltd)	Slozem 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+2295641000033116	627111000001104	Calchan MR 10 tablets (Ranbaxy (UK) Ltd)	Calchan MR 10 tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	NA
+2295741000033113	17011000001100	Calchan MR 20 tablets (Ranbaxy (UK) Ltd)	Calchan MR 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+2639341000033117	9096811000001100	Nifedipine 20mg/ml oral drops	Nifedipine 20mg/ml oral drops	Oral drops	Oral	Nifedipine	20.000mg/1.000ml	02060200
+2641041000033116	4129511000001107	Zolvera 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Zolvera 40mg/5ml oral solution	Oral solution	Oral	Verapamil hydrochloride	8.000mg/1.000ml	NA
+2653341000033118	2886511000001108	Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd)	Adizem-XL 200mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	NA
+2674841000033110	469811000001106	Disogram SR 60mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+2776541000033111	2881811000001101	Hypolar XL 30 tablets (Sandoz Ltd)	Hypolar XL 30 tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+2779141000033112	540011000001107	Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+2779241000033117	764511000001100	Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+2779341000033110	580711000001101	Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+2890641000033116	7418511000001104	Vera-Til SR 120mg tablets (Tillomed Laboratories Ltd)	Vera-Til SR 120mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	120.000mg	NA
+2890741000033113	7418711000001109	Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd)	Vera-Til SR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+2928841000033117	3800311000001106	Cabren 2.5mg modified-release tablets (Teva UK Ltd)	Cabren 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+2928941000033113	3800511000001100	Cabren 5mg modified-release tablets (Teva UK Ltd)	Cabren 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+2929041000033116	3800711000001105	Cabren 10mg modified-release tablets (Teva UK Ltd)	Cabren 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+2955041000033115	693311000001101	Valni 20 Retard tablets (Tillomed Laboratories Ltd)	Valni 20 Retard tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+2955141000033116	924711000001109	Zemret 180 XL capsules (Tillomed Laboratories Ltd)	Zemret 180 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+2955241000033111	823511000001107	Zemret 240 XL capsules (Tillomed Laboratories Ltd)	Zemret 240 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+2955341000033118	640311000001101	Zemret 300 XL capsules (Tillomed Laboratories Ltd)	Zemret 300 XL capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+2979941000033119	4785111000001103	Felotens XL 5mg tablets (Thornton & Ross Ltd)	Felotens XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+2980041000033115	4785511000001107	Felotens XL 10mg tablets (Thornton & Ross Ltd)	Felotens XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+3034341000033117	5638311000001102	Vascalpha 5mg modified-release tablets (Accord-UK Ltd)	Vascalpha 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+3034441000033111	5638811000001106	Vascalpha 10mg modified-release tablets (Accord-UK Ltd)	Vascalpha 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+3154841000033119	7887011000001104	Cardioplen XL 5mg tablets (Chiesi Ltd)	Cardioplen XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+3154941000033110	7887511000001107	Cardioplen XL 10mg tablets (Chiesi Ltd)	Cardioplen XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+3177441000033110	4972811000001103	Felogen XL 5mg tablets (Viatris UK Healthcare Ltd)	Felogen XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+3177541000033111	4973011000001100	Felogen XL 10mg tablets (Viatris UK Healthcare Ltd)	Felogen XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+3188741000033111	8046211000001107	Amlostin 5mg tablets (Discovery Pharmaceuticals)	Amlostin 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	5.000mg	NA
+3188841000033118	8046411000001106	Amlostin 10mg tablets (Discovery Pharmaceuticals)	Amlostin 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	10.000mg	NA
+3225441000033117	9049711000001108	Adipine XL 30mg tablets (Chiesi Ltd)	Adipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+3225541000033116	9049911000001105	Adipine XL 60mg tablets (Chiesi Ltd)	Adipine XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+3908741000033114	10225911000001102	Lercanidipine 20mg tablets	Lercanidipine 20mg tablets	Tablet/ Oral Tablet	Oral	Lercanidipine hydrochloride	20.000mg	02060200
+3908841000033116	10198711000001102	Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd)	Zanidip 20mg tablets	Tablet/ Oral Tablet	Oral	Lercanidipine hydrochloride	20.000mg	NA
+3952641000033110	10189111000001106	Nimodrel XL 30mg tablets (Zurich Pharmaceuticals)	Nimodrel XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+3952741000033118	10189311000001108	Nimodrel XL 60mg tablets (Zurich Pharmaceuticals)	Nimodrel XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+3963741000033115	8278111000001105	Amlodipine 10mg/5ml oral suspension	Amlodipine 10mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	2.000mg/1.000ml	02060200
+4152841000033112	11506711000001103	Cardioplen XL 2.5mg tablets (Chiesi Ltd)	Cardioplen XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+4429241000033115	13127311000001107	Felotens XL 2.5mg tablets (Thornton & Ross Ltd)	Felotens XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+4451941000033110	13401911000001109	Valni XL 30mg tablets (Zentiva Pharma UK Ltd)	Valni XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+4452041000033116	13402111000001101	Valni XL 60mg tablets (Zentiva Pharma UK Ltd)	Valni XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+4508041000033119	29826311000001101	Amlodipine 5mg/5ml oral solution sugar free	Amlodipine 5mg/5ml oral solution sugar free	Oral solution	Oral	Amlodipine	1.000mg/1.000ml	02060200
+4521541000033113	11493211000001105	Neofel XL 2.5mg tablets (Kent Pharma (UK) Ltd)	Neofel XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+4521641000033114	8090111000001106	Neofel XL 5mg tablets (Kent Pharma (UK) Ltd)	Neofel XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+4521741000033117	8089811000001107	Neofel XL 10mg tablets (Kent Pharma (UK) Ltd)	Neofel XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+4590741000033116	865711000001107	Retalzem 60 modified-release tablets (Kent Pharma (UK) Ltd)	Retalzem 60 modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA
+4897741000033118	15773511000001108	Amlodipine 1.5mg/5ml oral suspension	Amlodipine 1.5mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	300.000microgram/1.000ml	02060200
+4953741000033114	8456911000001108	Diltiazem 60mg/5ml oral suspension	Diltiazem 60mg/5ml oral suspension	Oral suspension	Oral	Diltiazem hydrochloride	12.000mg/1.000ml	02060200
+5056241000033112	8670311000001108	Nifedipine 5mg/5ml oral suspension	Nifedipine 5mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	1.000mg/1.000ml	02060200
+5402541000033112	12303311000001109	Nifedipine 2.5mg/5ml oral suspension	Nifedipine 2.5mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	500.000microgram/1.000ml	02060200
+5490241000033113	13892511000001100	Amlodipine 5mg/5ml oral solution	Amlodipine 5mg/5ml oral solution	Oral solution	Oral	Amlodipine	1.000mg/1.000ml	02060200
+5576341000033118	5008911000001100	Folpik XL 10mg tablets (Teva UK Ltd)	Folpik XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+5576441000033112	13565311000001101	Folpik XL 2.5mg tablets (Teva UK Ltd)	Folpik XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+5576541000033113	5008511000001107	Folpik XL 5mg tablets (Teva UK Ltd)	Folpik XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+5816941000033110	158411000001105	Bi-Carzem XL 300mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem XL 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+5817441000033119	10751211000001100	Neozipine XL 30mg tablets (Kent Pharma (UK) Ltd)	Neozipine XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+5817541000033118	10751411000001101	Neozipine XL 60mg tablets (Kent Pharma (UK) Ltd)	Neozipine XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+5888741000033110	8278311000001107	Amlodipine 5mg/5ml oral suspension	Amlodipine 5mg/5ml oral suspension	Oral suspension	Oral	Amlodipine	1.000mg/1.000ml	02060200
+5891941000033115	17666011000001106	Adanif XL 30mg tablets (Advanz Pharma)	Adanif XL 30mg tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+5892041000033114	17666211000001101	Adanif XL 60mg tablets (Advanz Pharma)	Adanif XL 60mg tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+5973741000033117	8670111000001106	Nifedipine 10mg/5ml oral suspension	Nifedipine 10mg/5ml oral suspension	Oral suspension	Oral	Nifedipine	2.000mg/1.000ml	02060200
+5991941000033112	8457011000001107	Diltiazem 60mg/5ml oral solution	Diltiazem 60mg/5ml oral solution	Oral solution	Oral	Diltiazem hydrochloride	12.000mg/1.000ml	02060200
+7740641000033112	20478011000001105	Amlodipine 10mg/5ml oral solution	Amlodipine 10mg/5ml oral solution	Oral solution	Oral	Amlodipine	2.000mg/1.000ml	02060200
+9118241000033117	8885711000001100	Kenzem SR 60mg capsules (Kent Pharma (UK) Ltd)	Kenzem SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+9118341000033110	8886211000001101	Kenzem SR 90mg capsules (Kent Pharma (UK) Ltd)	Kenzem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+9118441000033116	8886511000001103	Kenzem SR 120mg capsules (Kent Pharma (UK) Ltd)	Kenzem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+9121541000033117	24221811000001105	Parmid XL 2.5mg tablets (Sandoz Ltd)	Parmid XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+9121641000033116	7387911000001103	Parmid XL 5mg tablets (Sandoz Ltd)	Parmid XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+9121741000033113	7388311000001103	Parmid XL 10mg tablets (Sandoz Ltd)	Parmid XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+10217641000033116	28882211000001100	Molap 4mg tablets (Rivopharm (UK) Ltd)	Molap 4mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	4.000mg	NA
+10387441000033111	29826211000001109	Amlodipine 10mg/5ml oral solution sugar free	Amlodipine 10mg/5ml oral solution sugar free	Oral solution	Oral	Amlodipine	2.000mg/1.000ml	02060200
+12372341000033117	34685211000001104	Nidef 30mg modified-release tablets (Morningside Healthcare Ltd)	Nidef 30mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	NA
+12372441000033111	34685811000001103	Nidef 60mg modified-release tablets (Morningside Healthcare Ltd)	Nidef 60mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+12682241000033110	36237311000001101	Amlodipine 5mg/5ml oral suspension sugar free	Amlodipine 5mg/5ml oral suspension sugar free	Oral suspension	Oral	Amlodipine	1.000mg/1.000ml	02060200
+57241000033113	NA	Amlodipine Besilate  Tablets  5 mg	NA	NA	NA	NA	NA	NA
+60741000033111	NA	Amlodipine Besilate  Tablets  10 mg	NA	NA	NA	NA	NA	NA
+451741000033117	NA	Diltiazem Hydrochloride  M/R capsules  300 mg	NA	NA	NA	NA	NA	NA
+451841000033110	39023211000001102	Diltiazem 120mg modified-release capsules	Diltiazem 120mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	02060200
+451941000033119	39023311000001105	Diltiazem 180mg modified-release capsules	Diltiazem 180mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	02060200
+452041000033113	39023611000001100	Diltiazem 300mg modified-release capsules	Diltiazem 300mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	02060200
+452141000033112	39023111000001108	Diltiazem 90mg modified-release capsules	Diltiazem 90mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	02060200
+452941000033114	39023011000001107	Diltiazem 60mg modified-release capsules	Diltiazem 60mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	02060200
+453741000033118	39023511000001104	Diltiazem 240mg modified-release capsules	Diltiazem 240mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	02060200
+453941000033115	39023411000001103	Diltiazem 200mg modified-release capsules	Diltiazem 200mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	200.000mg	02060200
+454041000033118	39023811000001101	Diltiazem 60mg modified-release tablets	Diltiazem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	02060200
+458841000033115	39023911000001106	Diltiazem 90mg modified-release tablets	Diltiazem 90mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	90.000mg	02060200
+459641000033113	39024011000001109	Diltiazem 120mg modified-release tablets	Diltiazem 120mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	02060200
+468841000033112	NA	Diltiazem Hydrochloride  Tablets  60 mg	NA	NA	NA	NA	NA	NA
+568041000033111	39020311000001104	Felodipine 2.5mg modified-release tablets	Felodipine 2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	2.500mg	02060200
+569041000033115	39020511000001105	Felodipine 10mg modified-release tablets	Felodipine 10mg modified-release tablets	Modified-release tablet	Oral	Felodipine	10.000mg	02060200
+569141000033116	39020611000001109	Felodipine 5mg modified-release tablets	Felodipine 5mg modified-release tablets	Modified-release tablet	Oral	Felodipine	5.000mg	02060200
+784641000033112	42212711000001106	Isradipine 2.5mg tablets	Isradipine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Isradipine	2.500mg	02060200
+817541000033119	42212811000001103	Lacidipine 2mg tablets	Lacidipine 2mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	2.000mg	02060200
+817641000033118	42212911000001108	Lacidipine 4mg tablets	Lacidipine 4mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	4.000mg	02060200
+825941000033112	42213011000001100	Lercanidipine 10mg tablets	Lercanidipine 10mg tablets	Tablet/ Oral Tablet	Oral	Lercanidipine hydrochloride	10.000mg	02060200
+967141000033119	42214711000001101	Nicardipine 30mg capsules	Nicardipine 30mg capsules	Capsule/ Oral capsule	Oral	Nicardipine hydrochloride	30.000mg	02060200
+967241000033114	42215011000001104	Nifedipine 10mg capsules	Nifedipine 10mg capsules	Capsule/ Oral capsule	Oral	Nifedipine	10.000mg	02060200
+967341000033116	42215111000001103	Nifedipine 5mg capsules	Nifedipine 5mg capsules	Capsule/ Oral capsule	Oral	Nifedipine	5.000mg	02060200
+967741000033115	42214611000001105	Nicardipine 20mg capsules	Nicardipine 20mg capsules	Capsule/ Oral capsule	Oral	Nicardipine hydrochloride	20.000mg	02060200
+970941000033113	39022811000001109	Nifedipine 20mg modified-release tablets	Nifedipine 20mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	02060200
+971141000033116	39022911000001104	Nifedipine 10mg modified-release capsules	Nifedipine 10mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	10.000mg	02060200
+971241000033111	39111711000001105	Nifedipine 30mg modified-release tablets	Nifedipine 30mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	30.000mg	02060200
+971341000033118	39022611000001105	Nifedipine 60mg modified-release tablets	Nifedipine 60mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	02060200
+971441000033112	39021711000001108	Nicardipine 30mg modified-release capsules	Nicardipine 30mg modified-release capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	30.000mg	02060200
+971541000033113	39021811000001100	Nicardipine 45mg modified-release capsules	Nicardipine 45mg modified-release capsules	Modified-release capsule	Oral	Nicardipine hydrochloride	45.000mg	02060200
+971841000033110	39022711000001101	Nifedipine 10mg modified-release tablets	Nifedipine 10mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	10.000mg	02060200
+972241000033117	36031911000001102	Nisoldipine 20mg modified-release tablets	Nisoldipine 20mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	20.000mg	02060200
+972341000033110	36032011000001109	Nisoldipine 30mg modified-release tablets	Nisoldipine 30mg modified-release tablets	Modified-release tablet	Oral	Nisoldipine	30.000mg	02060200
+972441000033116	39107611000001108	Nifedipine 40mg modified-release tablets	Nifedipine 40mg modified-release tablets	Modified-release tablet	Oral	Nifedipine	40.000mg	02060200
+974141000033119	39022511000001106	Nifedipine 20mg modified-release capsules	Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	20.000mg	02060200
+974941000033117	NA	Nifedipine  Tablets  20 mg	NA	NA	NA	NA	NA	NA
+977341000033113	NA	Nifedipine  Tablets  10 mg	NA	NA	NA	NA	NA	NA
+977441000033119	42215211000001109	Nimodipine 30mg tablets	Nimodipine 30mg tablets	Tablet/ Oral Tablet	Oral	Nimodipine	30.000mg	02060200
+977641000033117	NA	Nifedipine  Tablets  10 mg	NA	NA	NA	NA	NA	NA
+1509141000033115	38750211000001107	Verapamil 240mg modified-release tablets	Verapamil 240mg modified-release tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	02060200
+1511341000033115	39021011000001106	Verapamil 240mg modified-release capsules	Verapamil 240mg modified-release capsules	Modified-release capsule	Oral	Verapamil hydrochloride	240.000mg	02060200
+1511741000033119	NA	Verapamil Hydrochloride  M/R capsules  240 mg	NA	NA	NA	NA	NA	NA
+1512941000033111	42217111000001107	Verapamil 120mg tablets	Verapamil 120mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	120.000mg	02060200
+1513041000033118	NA	Verapamil Hydrochloride  Tablets  240 mg	NA	NA	NA	NA	NA	NA
+1513141000033119	42217211000001101	Verapamil 160mg tablets	Verapamil 160mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	160.000mg	02060200
+1513241000033114	42217311000001109	Verapamil 40mg tablets	Verapamil 40mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	40.000mg	02060200
+1513341000033116	42217411000001102	Verapamil 80mg tablets	Verapamil 80mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	80.000mg	02060200
+1778741000033118	39107511000001109	Nifedipine 30mg modified-release capsules	Nifedipine 30mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	30.000mg	02060200
+1778841000033111	38896511000001101	Nifedipine 60mg modified-release capsules	Nifedipine 60mg modified-release capsules	Modified-release capsule	Oral	Nifedipine	60.000mg	02060200
+1800341000033113	39023711000001109	Diltiazem 360mg modified-release capsules	Diltiazem 360mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	360.000mg	02060200
+3038041000033111	39732011000001102	Amlodipine 5mg tablets	Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	5.000mg	02060200
+3038141000033110	39731911000001109	Amlodipine 10mg tablets	Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	10.000mg	02060200
+3163041000033116	36149211000001102	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	02050501
+3163241000033112	42374811000001109	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine 5mg modified-release / Ramipril 5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	02050501
+3163341000033119	42374711000001101	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	02050501
+3246941000033118	35903311000001104	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	02040000
+3890141000033118	NA	Amlodipine  Powder For Oral Suspension With Diluent (Kit)  10 mg/5 ml	NA	NA	NA	NA	NA	NA
+4021441000033114	11160311000001109	Amlodipine 5mg / Valsartan 80mg tablets	Amlodipine 5mg / Valsartan 80mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	02060200
+4021541000033110	11160211000001101	Amlodipine 5mg / Valsartan 160mg tablets	Amlodipine 5mg / Valsartan 160mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	02060200
+4021641000033111	11160111000001107	Amlodipine 10mg / Valsartan 160mg tablets	Amlodipine 10mg / Valsartan 160mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	02060200
+5005841000033114	42378211000001102	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	02050502
+5005941000033118	42378611000001100	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	02050502
+5006041000033111	42378511000001104	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	02050502
+9105241000033114	23985011000001108	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 4.000mg	02050501
+9105341000033116	23984911000001108	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 4.000mg	02050501
+9105441000033110	23985211000001103	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	5.000mg + 8.000mg	02050501
+9105541000033111	23985111000001109	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Perindopril erbumine	10.000mg + 8.000mg	02050501
+13344441000033112	38019311000001102	Lacidipine 6mg tablets	Lacidipine 6mg tablets	Tablet/ Oral Tablet	Oral	Lacidipine	6.000mg	02060200
+13422241000033114	42206211000001100	Amlodipine 2.5mg tablets	Amlodipine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine	2.500mg	02060200
+61841000033111	811311000001107	Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd)	Angiopine 10 capsules	Capsule/ Oral capsule	Oral	Nifedipine	10.000mg	NA
+65241000033114	865011000001105	Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiopine MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+66041000033110	144811000001101	Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem CR 120mg tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	120.000mg	NA
+71141000033114	672311000001103	Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd)	Angiozem 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA
+124341000033119	3142711000001107	Beta-Adalat modified-release capsules (Bayer Plc)	Beta-Adalat modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	NA
+374841000033119	867011000001103	Cordilox 120mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 120mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	120.000mg	NA
+374941000033110	783511000001101	Cordilox 160mg tablets (IVAX Pharmaceuticals UK Ltd)	Cordilox 160mg tablets	Tablet/ Oral Tablet	Oral	Verapamil hydrochloride	160.000mg	NA
+738141000033119	677411000001108	Hypolar Retard 20 tablets (Sandoz Ltd)	Hypolar Retard 20 tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+1401341000033110	3877011000001100	Syscor MR 10 tablets (Forest Laboratories UK Ltd)	Syscor MR 10 tablets	Modified-release tablet	Oral	Nisoldipine	10.000mg	NA
+1401441000033116	4070011000001100	Syscor MR 20 tablets (Forest Laboratories UK Ltd)	Syscor MR 20 tablets	Modified-release tablet	Oral	Nisoldipine	20.000mg	NA
+1406341000033117	3691211000001101	Tarka modified-release capsules (Abbott Laboratories Ltd)	Tarka modified-release capsules	Modified-release capsule	Oral	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	NA
+1414941000033114	3142511000001102	Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd)	Tenif 50mg/20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	NA
+1661641000033116	527711000001108	Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd)	Optil 60mg modified-release tablets	Modified-release tablet	Oral	Diltiazem hydrochloride	60.000mg	NA
+1697641000033111	843411000001105	Slofedipine 20mg tablets (Sterwin Medicines)	Slofedipine 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+1753041000033113	630411000001107	Slofedipine XL 60 tablets (Zentiva Pharma UK Ltd)	Slofedipine XL 60 tablets	Modified-release tablet	Oral	Nifedipine	60.000mg	NA
+1834341000033110	3887911000001109	Triapin 5mg/5mg modified-release tablets (Sanofi)	Triapin 5mg/5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	5.000mg + 5.000mg	NA
+2051241000033116	309611000001102	Coroday MR 20mg tablets (Viatris UK Healthcare Ltd)	Coroday MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+2674941000033119	256611000001109	Disogram SR 90mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+2675041000033119	116711000001106	Disogram SR 120mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+2675341000033117	713411000001103	Disogram SR 180mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 180mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	180.000mg	NA
+2675641000033113	108711000001107	Disogram SR 240mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+2676041000033111	34711000001104	Disogram SR 300mg capsules (Ranbaxy (UK) Ltd)	Disogram SR 300mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	300.000mg	NA
+2845841000033119	3634111000001100	Ranvera MR 240mg tablets (Ranbaxy (UK) Ltd)	Ranvera MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+2952241000033115	721811000001108	Zildil SR 60mg capsules (Healthcare Pharma Ltd)	Zildil SR 60mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	60.000mg	NA
+2952341000033113	200811000001104	Zildil 90mg modified-release capsules (Healthcare Pharma Ltd)	Zildil 90mg modified-release capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+2952441000033119	655411000001104	Zildil SR 120mg capsules (Healthcare Pharma Ltd)	Zildil SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+4021741000033119	11161811000001108	Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/80mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 80.000mg	NA
+4021841000033112	11161511000001105	Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 5mg/160mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	5.000mg + 160.000mg	NA
+4021941000033116	11160711000001108	Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Exforge 10mg/160mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Valsartan	10.000mg + 160.000mg	NA
+5006141000033110	15773211000001105	Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 20mg/5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	NA
+5006241000033115	15772911000001108	Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	NA
+5006341000033113	15772611000001102	Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd)	Sevikar 40mg/10mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	NA
+5816841000033119	884811000001103	Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd)	Bi-Carzem XL 240mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	240.000mg	NA
+6180641000033112	18986411000001108	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 20mg/5mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 20.000mg	NA
+6180741000033115	18986711000001102	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 40.000mg	NA
+6180841000033113	18987011000001101	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/12.5mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 12.500mg + 40.000mg	NA
+6180941000033117	18987311000001103	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/25mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 25.000mg + 40.000mg	NA
+6181041000033110	18987611000001108	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/25mg tablets	Tablet/ Oral Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 25.000mg + 40.000mg	NA
+8264941000033119	4093211000001109	Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)	Triapin 2.5mg/2.5mg modified-release tablets	Modified-release tablet	Oral	Felodipine/ Ramipril	2.500mg + 2.500mg	NA
+13788341000033118	39214711000001106	Dexipress MR 20mg tablets (Dexcel-Pharma Ltd)	Dexipress MR 20mg tablets	Modified-release tablet	Oral	Nifedipine	20.000mg	NA
+14040241000033115	40695211000001100	Delofine XL 2.5mg tablets (Morningside Healthcare Ltd)	Delofine XL 2.5mg tablets	Modified-release tablet	Oral	Felodipine	2.500mg	NA
+14040341000033113	40695411000001101	Delofine XL 5mg tablets (Morningside Healthcare Ltd)	Delofine XL 5mg tablets	Modified-release tablet	Oral	Felodipine	5.000mg	NA
+14040441000033119	40695611000001103	Delofine XL 10mg tablets (Morningside Healthcare Ltd)	Delofine XL 10mg tablets	Modified-release tablet	Oral	Felodipine	10.000mg	NA
+17541000033115	NA	Adizem-Sr  M/R capsules  300 mg	NA	NA	NA	NA	NA	NA
+18441000033115	NA	Adizem-Xl Plus  M/R capsules	NA	NA	NA	NA	NA	NA
+19541000033114	NA	Adizem-Sr  Tablets  60 mg	NA	NA	NA	NA	NA	NA
+61741000033118	NA	Angiopine  Capsules  5 mg	NA	NA	NA	NA	NA	NA
+65841000033113	NA	Angiopine 40 La  M/R tablets  40 mg	NA	NA	NA	NA	NA	NA
+177241000033117	NA	Cardene  Capsules  	NA	NA	NA	NA	NA	NA
+210241000033111	NA	Calanif  Capsules  10 mg	NA	NA	NA	NA	NA	NA
+210341000033118	NA	Calanif  Capsules  5 mg	NA	NA	NA	NA	NA	NA
+216641000033112	NA	Calcicard  Tablets  60 mg	NA	NA	NA	NA	NA	NA
+971941000033119	NA	Nimodrel Mr  M/R tablets  10 mg	NA	NA	NA	NA	NA	NA
+972041000033113	NA	Nimodrel Mr  M/R tablets  20 mg	NA	NA	NA	NA	NA	NA
+1274841000033112	NA	Securon  Tablets  160 mg	NA	NA	NA	NA	NA	NA
+1274941000033116	NA	Securon  Tablets  40 mg	NA	NA	NA	NA	NA	NA
+1275041000033116	NA	Securon  Tablets  80 mg	NA	NA	NA	NA	NA	NA
+1727641000033113	NA	Dilcardia Xl  M/R capsules  120 mg	NA	NA	NA	NA	NA	NA
+1727741000033116	NA	Dilcardia Xl  M/R capsules  180 mg	NA	NA	NA	NA	NA	NA
+1727841000033114	NA	Dilcardia Xl  M/R capsules  240 mg	NA	NA	NA	NA	NA	NA
+1747041000033116	NA	Optil Sr 90  M/R capsules  90 mg	NA	NA	NA	NA	NA	NA
+1747141000033117	NA	Optil Sr 120  M/R capsules  120 mg	NA	NA	NA	NA	NA	NA
+1747241000033112	NA	Optil Sr 180  M/R capsules  180 mg	NA	NA	NA	NA	NA	NA
+1747341000033119	NA	Optil Xl 240  M/R capsules  240 mg	NA	NA	NA	NA	NA	NA
+1747441000033113	NA	Optil Xl 300  M/R capsules  300 mg	NA	NA	NA	NA	NA	NA
+1820441000033113	NA	Adipine LA 60  M/R tablets  60 mg	NA	NA	NA	NA	NA	NA
+1820541000033114	NA	Adipine LA 30  M/R tablets  30 mg	NA	NA	NA	NA	NA	NA
+1834241000033117	NA	Triapin Mite  Tablets  	NA	NA	NA	NA	NA	NA
+2104741000033113	782111000001104	Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd)	Ethimil MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
+2739141000033114	157511000001105	Horizem SR 90mg capsules (Horizon lifecare)	Horizem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
+2739041000033110	758511000001104	Horizem SR 120mg capsules (Horizon lifecare)	Horizem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA
+1401541000033115	4069211000001108	Syscor MR 30 tablets (Forest Laboratories UK Ltd)	Syscor MR 30 tablets	Modified-release tablet	Oral	Nisoldipine	30.000mg	NA
+8027841000033119	NA	Exforge Tablets 5 mg/320 mg	NA	NA	NA	NA	NA	NA
+8027941000033110	NA	Exforge Tablets 10 mg/320 mg	NA	NA	NA	NA	NA	NA
+8029241000033113	NA	Exforge Hct Tablets 5 mg/160 mg/12.5 mg	NA	NA	NA	NA	NA	NA
+8029341000033115	NA	Exforge Hct Tablets 5 mg/160 mg/25 mg	NA	NA	NA	NA	NA	NA
+1442541000033117	NA	Tildiem S/r tablets 120 mg	NA	NA	NA	NA	NA	NA
+1442641000033116	NA	Tildiem S/r tablets 90 mg	NA	NA	NA	NA	NA	NA
