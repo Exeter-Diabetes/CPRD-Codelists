@@ -1,0 +1,443 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+114616017	Chronic catatonic schizophrenia	E1022	E102200	68995007	114616017	NA	32
+132503015	Subchronic paranoid schizophrenia	E1031	E103100	79866005	132503015	NA	32
+294726014	Schizophrenia simplex	E100-1	E100.11	191527001	294726014	NA	32
+294727017	Simple schizophrenia	E100	E100.00	191527001	294727017	NA	32
+294742019	Catatonic schizophrenia	E102	E102.00	191542003	294742019	NA	32
+294750011	Acute exacerbation of subchronic catatonic schizophrenia	E1023	E102300	191547009	294750011	NA	32
+294751010	Acute exacerbation of chronic catatonic schizophrenia	E1024	E102400	191548004	294751010	NA	32
+294758016	Acute exacerbation of chronic paranoid schizophrenia	E1034	E103400	191555002	294758016	NA	32
+294764011	Latent schizophrenia	E105	E105.00	191559008	294764011	NA	32
+294767016	Chronic latent schizophrenia	E1052	E105200	191562006	294767016	NA	32
+294788013	Cenesthopathic schizophrenia	E10y-1	E10y.11	191577003	294788013	NA	32
+294860011	Manic-depressive - now depressed	E115-1	E115.11	191627008	294860011	NA	32
+294893019	Atypical manic disorder	E11y1	E11y100	191658009	294893019	NA	32
+294918011	Psychotic reactive depression	E130-1	E130.11	191676002	294918011	NA	32
+401765010	Manic disorder, single episode	E110	E110.00	268619003	401765010	NA	32
+402504012	Psychotic condition, insight present	285-1	285..11	268957000	402504012	NA	27
+1219653018	Atypical schizophrenia	E10y0	E10y000	111484002	1219653018	NA	32
+1780205015	H/O: manic depressive disorder	146D	146D.00	400998002	1780205015	NA	32
+492761000000114	Bipolar affective disorder resolved	212V	212V.00	285491000000101	492761000000114	NA	27
+1974321000006110	Mental and behav dis mlti drg use/oth psych subs: resid/late psychot dis, late-onset psychotic disorder	EMISICD10|F1975		1974321000006106	1974321000006110	NA	32
+1974541000006112	Paranoid schizophrenia, course uncertain, period of observation too short	EMISICD10|F2009		1974541000006108	1974541000006112	NA	32
+1974601000006111	Hebephrenic schizophrenia, continuous	EMISICD10|F2010		1974601000006107	1974601000006111	NA	32
+1974611000006114	Hebephrenic schizophrenia, episodic with progressive deficit	EMISICD10|F2011		1974611000006105	1974611000006114	NA	32
+1974641000006113	Hebephrenic schizophrenia, episodic remittent	EMISICD10|F2013		1974641000006109	1974641000006113	NA	32
+1974721000006114	Hebephrenic schizophrenia, course uncertain, period of observation too short	EMISICD10|F2019		1974721000006105	1974721000006114	NA	32
+1974801000006112	Catatonic schizophrenia, episodic with stable deficit	EMISICD10|F2022		1974801000006108	1974801000006112	NA	32
+1974831000006116	Catatonic schizophrenia, episodic remittent	EMISICD10|F2023		1974831000006100	1974831000006116	NA	32
+1974921000006111	Catatonic schizophrenia, course uncertain, period of observation too short	EMISICD10|F2029		1974921000006107	1974921000006111	NA	32
+1974951000006119	Undifferentiated schizophrenia, continuous	EMISICD10|F2030		1974951000006103	1974951000006119	NA	32
+1975021000006111	Undifferentiated schizophrenia, episodic remittent	EMISICD10|F2033		1975021000006107	1975021000006111	NA	32
+1975351000006117	Residual schizophrenia, continuous	EMISICD10|F2050		1975351000006101	1975351000006117	NA	32
+1975401000006113	Residual schizophrenia, episodic with stable deficit	EMISICD10|F2052		1975401000006109	1975401000006113	NA	32
+1975431000006117	Residual schizophrenia, episodic remittent	EMISICD10|F2053		1975431000006101	1975431000006117	NA	32
+1975521000006116	Simple schizophrenia, episodic with stable deficit	EMISICD10|F2062		1975521000006100	1975521000006116	NA	32
+1975711000006117	Acute schizophrenia-like psychotic disorder, without associated acute stress	EMISICD10|F2320		1975711000006101	1975711000006117	NA	32
+1975751000006116	Other schizophrenia, continuous	EMISICD10|F2080		1975751000006100	1975751000006116	NA	32
+1975801000006111	Other schizophrenia, episodic with stable deficit	EMISICD10|F2082		1975801000006107	1975801000006111	NA	32
+1975911000006119	Other schizophrenia, course uncertain, period of observation too short	EMISICD10|F2089		1975911000006103	1975911000006119	NA	32
+1976061000006114	Schizophrenia, unspecified, episodic with progressive deficit	EMISICD10|F2091		1976061000006105	1976061000006114	NA	32
+1976881000006112	Paranoid schizophrenia, other	EMISICD10|F2008		1976881000006108	1976881000006112	NA	32
+294728010	Unspecified schizophrenia	E1000	E100000	58214004	96745016	NA	32
+294753013	Catatonic schizophrenia NOS	E102z	E102z00	191542003	294742019	NA	32
+294789017	Other schizophrenia NOS	E10yz	E10yz00	58214004	96745016	NA	32
+294802018	Single manic episode, unspecified	E1100	E110000	268619003	401765010	NA	32
+294848010	Bipolar affective disorder, currently manic, unspecified	E1140	E114000	191618007	294846014	NA	32
+294858014	Bipolar affective disorder, currently manic, NOS	E114z	E114z00	191618007	294846014	NA	32
+294861010	Bipolar affective disorder, currently depressed, unspecified	E1150	E115000	191627008	294859018	NA	32
+294880012	Unspecified bipolar affective disorder	E117	E117.00	13746004	2839307017	NA	32
+294881011	Unspecified bipolar affective disorder, unspecified	E1170	E117000	13746004	2839307017	NA	32
+294891017	Other and unspecified manic-depressive psychoses	E11y	E11y.00	13746004	1221011015	NA	32
+296040018	[X]Schizophrenia, unspecified	Eu20z	Eu20z00	58214004	96745016	NA	32
+401864017	[X]Manic episode, unspecified	Eu30z	Eu30z00	268619003	401765010	NA	32
+401865016	[X]Other bipolar affective disorders	Eu31y	Eu31y00	13746004	23447014	NA	32
+1227584015	[V]Personal history of manic-depressive psychosis	ZV111-2	ZV11112	429124005	2693532011	NA	32
+78531000006116	Unspecified schizo-affective schizophrenia	E1070	E107000	191567000	294772013	NA	32
+155161000006117	Schizo-affective schizophrenia NOS	E107z	E107z00	191567000	294772013	NA	32
+169061000006112	Restzustand - schizophrenia	E106-1	E106.11	26025008	43595011	NA	32
+367081000006116	[X]Bipolar affect disorder cur epi manic wout psychotic symp	Eu311	Eu31100	191618007	294846014	NA	32
+367121000006119	[X]Bipolar affective disorder, current episode mixed	Eu316	Eu31600	192362008	296129011	NA	32
+367161000006113	[X]Bipolar II disorder	Eu31y-1	Eu31y11	83225003	138029017	NA	32
+370631000006117	[X]Cenesthopathic schizophrenia	Eu20y-1	Eu20y11	58214004	96745016	NA	32
+378051000006119	[X]Disorganised schizophrenia	Eu201-1	Eu20111	35252006	486103011	NA	32
+389661000006114	[X]Induced psychotic disorder	Eu24-3	Eu24.13	61831009	499134014	NA	32
+396071000006119	[X]Manic-depressive reaction	Eu31-3	Eu31.13	13746004	23447014	NA	32
+396691000006111	[X]Mania NOS	Eu30z-1	Eu30z11	268619003	401765010	NA	32
+396741000006113	[X]Manic episode	Eu30	Eu30.00	268619003	401765010	NA	32
+396761000006112	[X]Manic stupor	Eu302-3	Eu30213	231494001	346965019	NA	32
+418221000006118	[X]Paranoid schizophrenia	Eu200	Eu20000	64905009	107878010	NA	32
+423741000006116	[X]Pseudopsychopathic schizophrenia	Eu21-7	Eu21.17	31027006	51933014	NA	32
+424841000006113	[X]Residual schizophrenia	Eu205	Eu20500	26025008	43595011	NA	32
+425561000006114	[X]Schizoaffective psychosis, depressive type	Eu251-1	Eu25111	84760002	140519016	NA	32
+425631000006118	[X]Schizophrenia-like psychosis in epilepsy	Eu052-2	Eu05212	5510009	10196013	NA	32
+425701000006119	[X]Schizophreniform psychosis, manic type	Eu250-2	Eu25012	271428004	406211010	NA	32
+426881000006111	[X]Simple schizophrenia	Eu206	Eu20600	191527001	294727017	NA	32
+456731000006115	Acute exacerbation of chronic schizo-affective schizophrenia	E1074	E107400	191572009	294778012	NA	32
+513701000006116	Bipolar affect disord, currently manic,severe with psychosis	E1144	E114400	191623007	294852010	NA	32
+513731000006112	Bipolar affect disord, now depressed, severe, no psychosis	E1153	E115300	61403008	102016011	NA	32
+819351000006115	Hebephrenic schizophrenia	E101	E101.00	35252006	2881679010	NA	32
+1785871000006117	[X]Bipolar II disorder	Eu319-1	Eu31911	83225003	138029017	NA	32
+294765012	Unspecified latent schizophrenia	E1050	E105000	191559008	294764011	NA	32
+294877011	Mixed bipolar affective disorder, NOS	E116z	E116z00	191636007	294869012	NA	32
+371031000006115	[X]Chronic undifferentiated schizophrenia	Eu205-1	Eu20511	111484002	178724010	NA	32
+701051000006118	Mixed bipolar affective disorder, partial/unspec remission	E1165	E116500	760721000000109	1683621000000116	NA	32
+460273017	[V]Personal history of schizophrenia	ZV110	ZV11000	161464003	251624012	NA	32
+882311000006110	Manic-depressive psychoses	E11-99	E11..99	13746004	882311000006110	NA	32
+4763751000006112	Chronic catatonic schizophrenia with acute exacerbation	^ESCTCH476375		191548004	2694460018	NA	32
+3700911000006115	Psychotic depression	^ESCTPS370091		73867007	122673015	NA	32
+2501011000006119	Severe bipolar I disorder, most recent episode manic, without psychotic features	^ESCTSE250101		162004	1353015	NA	32
+3301331000006119	Bipolar I disorder, most recent episode depressed, in partial remission	^ESCTBI330133		49512000	82469017	NA	32
+4763911000006114	Acute exacerbation of subchronic schizoaffective schizophrenia	^ESCTAC476391		191571002	294777019	NA	32
+3497641000006117	Severe bipolar I disorder, most recent episode depressed without psychotic features	^ESCTSE349764		61403008	102017019	NA	32
+3555731000006114	Paraphrenic schizophrenia	^ESCTPA355573		64905009	1232626010	NA	32
+3504741000006112	Shared psychotic disorder	^ESCTSH350474		61831009	102771017	NA	32
+8235161000006110	Mixed bipolar affective disorder, in partial remission	^ESCTMI823516		760721000000109	1683621000000116	NA	32
+2957311000006113	Severe recurrent major depression with psychotic features	^ESCTSE295731		28475009	47670016	NA	32
+4767311000006117	Bipolar affective disorder, current episode mixed	^ESCTBI476731		192362008	1775490013	NA	32
+3878611000006116	Schizophreniform psychosis, depressive type	^ESCTSC387861		84760002	1234980016	NA	32
+3854401000006113	Bipolar 2 disorder	^ESCTBI385440		83225003	2951697012	NA	32
+4539931000006112	History of schizophrenia	^ESCTHI453993		161468000	2923441013	NA	32
+2938961000006110	Subchronic disorganized schizophrenia	^ESCTSU293896		27387000	45789010	NA	32
+2726261000006113	Subchronic disorganised schizophrenia with acute exacerbations	^ESCTSU272626		14291003	476208018	NA	32
+2590511000006116	Bipolar disorder, partial remission	^ESCTBI259051		5703000	2951671018	NA	32
+2672961000006111	Severe mixed bipolar I disorder with psychotic features, mood-incongruent	^ESCTSE267296		10875004	18881012	NA	31
+3067411000006110	Chronic disorganised schizophrenia with acute exacerbations	^ESCTCH306741		35218008	486091015	NA	31
+3300541000006111	Depressed bipolar I disorder	^ESCTDE330054		49468007	82392018	NA	31
+12059241000006116	Bipolar I disorder, most recent episode manic	^ESCT1205924		767635003	3673085017	NA	31
+12481991000006120	Acute exacerbation of subchronic hebephrenic schizophrenia	^ESCT1248199		191538001	294738017	NA	31
+3388771000006112	Severe bipolar I disorder, most recent episode depressed with psychotic feature, mood-congruent	^ESCTSE338877		54761006	91015014	NA	31
+3767531000006119	Severe major depression, single episode, with psychotic features, mood-congruent	^ESCTSE376753		77911002	129301014	NA	31
+12463361000006112	Bipolar affective disorder, currently depressed, severe, with psychosis	^ESCT1246336		191632009	294865018	NA	31
+11912191000006112	[V]Personal history of schizophrenia	^ESCT1191219		427491000000103	960101000000114	NA	31
+7882721000006118	Major depression with psychotic features	^ESCTMA788272		726772006	3498367016	NA	31
+8041781000006111	Rapid cycling bipolar I disorder	^ESCTRA804178		133091000119105	2923614014	NA	31
+3647231000006119	Severe bipolar disorder with psychotic features, mood-congruent	^ESCTSE364723		70546001	117182016	NA	31
+2981801000006118	Bipolar I disorder, most recent episode depressed with atypical features	^ESCTBI298180		29929003	50087010	NA	31
+3300551000006113	Bipolar I disorder, most recent episode depressed	^ESCTBI330055		49468007	82394017	NA	31
+4763631000006114	Acute exacerbation of subchronic disorganized schizophrenia	^ESCTAC476363		191538001	3432997014	NA	31
+3118041000006112	Schizoaffective disorder, bipolar type	^ESCTSC311804		38368003	63443014	NA	31
+3052571000006110	Bipolar II disorder, most recent episode major depressive with melancholic features	^ESCTBI305257		34315001	57291014	NA	31
+4763611000006115	Acute exacerbation of subchronic disorganised schizophrenia	^ESCTAC476361		191538001	3432998016	NA	31
+8019691000006113	Bipolar II disorder, most recent episode rapid cycling	^ESCTBI801969		61771000119106	2955678019	NA	31
+8019701000006113	Bipolar 2 disorder, most recent episode rapid cycling	^ESCTBI801970		61771000119106	2955673011	NA	31
+3032461000006117	Severe recurrent major depression with psychotic features, mood-congruent	^ESCTSE303246		33078009	55208011	NA	31
+3615761000006116	Manic bipolar I disorder	^ESCTMA361576		68569003	113887013	NA	31
+3694651000006113	Bipolar I disorder, most recent episode mixed with catatonic features	^ESCTBI369465		73471000	122005010	NA	31
+5568191000006118	Acute polymorphic psychotic disorder	^ESCTAC556819		274953007	410870014	NA	32
+2730111000000111	Acute predominantly delusional psychotic disorder	^ESCT1171787		1089691000000105	2730111000000111	NA	31
+3475971000006117	Severe major depression with psychotic features, mood-incongruent	^ESCTSE347597		60099002	99840015	NA	31
+3822471000006114	Severe bipolar II disorder, most recent episode major depressive without psychotic features	^ESCTSE382247		81319007	134903014	NA	31
+6357621000006116	Severe bipolar I disorder	^ESCTSE635762		371599001	1210228018	NA	31
+3898991000006114	Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent	^ESCTSE389899		86058007	142683012	NA	31
+7127651000006115	Severe major depression, single episode, with psychotic features	^ESCTSE712765		430852001	2773661014	NA	31
+3895621000006112	Subchronic undifferentiated schizophrenia	^ESCTSU389562		85861002	142336016	NA	31
+3589421000006110	Severe bipolar II disorder, most recent episode major depressive, in partial remission	^ESCTSE358942		67002003	111294013	NA	31
+12059221000006110	Bipolar affective disorder, most recent episode mixed	^ESCT1205922		767633005	3673078016	NA	31
+3552851000006118	Severe bipolar I disorder, most recent episode mixed, with psychotic features, mood-congruent	^ESCTSE355285		64731001	107576019	NA	31
+8008581000006117	Mood disorder of manic type	^ESCTMO800858		21071000119101	2955476011	NA	31
+2674681000006116	Severe bipolar I disorder, most recent episode mixed, with psychotic features	^ESCTSE267468		10981006	19053010	NA	31
+3037071000006117	Severe manic bipolar I disorder with psychotic features, mood-incongruent	^ESCTSE303707		33380008	55705010	NA	31
+2729641000006117	Severe bipolar I disorder, single manic episode without psychotic features	^ESCTSE272964		14495005	24635019	NA	31
+2729751000000118	Recurrent depression with current severe episode and psychotic features	^ESCT1171772		1089511000000100	2729751000000118	NA	31
+2848341000006118	Bipolar I disorder, most recent episode depressed with catatonic features	^ESCTBI284834		21900002	36734017	NA	31
+3037081000006119	Severe bipolar I disorder, most recent episode manic, with psychotic features, mood-incongruent	^ESCTSE303708		33380008	55706011	NA	31
+6890801000006117	Late onset schizophrenia	^ESCTLA689080		416340002	2548849011	NA	31
+3731661000006112	Bipolar I disorder, most recent episode depressed with melancholic features	^ESCTBI373166		75752004	125814011	NA	31
+3929161000006110	Bipolar I disorder, single manic episode with catatonic features	^ESCTBI392916		87950005	145794014	NA	31
+2674671000006119	Severe mixed bipolar I disorder with psychotic features	^ESCTSE267467		10981006	19052017	NA	31
+346895011	Psychotic disorder	E13z-1	E13z.11	69322001	115142010	NA	32
+155141000006116	Schizoaffective schizophrenia	E107	E107.00	191567000	294772013	NA	32
+362421000006113	Acute schizophrenia-like psychotic disorder	Eu232	Eu23200	278853003	415877014	NA	32
+367101000006112	Bipolar affective disorder	Eu31	Eu31.00	13746004	2839307017	NA	32
+396791000006116	Manic-depressive illness	Eu31-1	Eu31.11	13746004	1221012010	NA	32
+396801000006115	Manic-depressive psychosis	Eu31-2	Eu31.12	13746004	1221011015	NA	32
+398541000006116	Bipolar affective disorder , current episode mixed	Eu3y0-1	Eu3y011	192362008	296129011	NA	32
+424231000006116	Psychotic	Eu2z-1	Eu2z.11	69322001	2920943016	NA	32
+425501000006113	Schizoaffective disorder, depressive type	Eu251	Eu25100	84760002	140519016	NA	32
+513801000006112	Bipolar affective disorder, current episode manic	E114	E114.00	191618007	294846014	NA	32
+556631000006116	Chronic schizoaffective schizophrenia	E1072	E107200	191570001	294776011	NA	32
+1715191000006112	Severe major depression with psychotic features	Eu328	Eu32800	73867007	122670017	NA	32
+1715781000006110	Severe major depression without psychotic features	Eu327	Eu32700	75084000	124707013	NA	32
+294895014	Mixed bipolar I disorder	E11y3	E11y300	16506000	27929014	NA	32
+82091000006116	Bipolar disorder in partial remission	E1175	E117500	5703000	10501015	NA	32
+182861000006110	Recurrent manic episodes, in partial remission	E1115	E111500	764671000000105	1696341000000111	NA	32
+367071000006119	Bipolar affective disorder, currently manic, severe, with psychosis	Eu312	Eu31200	191623007	294852010	NA	32
+423271000006116	Prepsychotic schizophrenia	Eu21-4	Eu21.14	247804008	369984013	NA	32
+367061000006114	Psychosis and severe depression co-occurrent and due to bipolar affective disorder	Eu315	Eu31500	765176007	3657334019	NA	32
+1785851000006110	Bipolar I disorder	Eu318	Eu31800	371596008	1210225015	NA	32
+294805016	Single manic episode, severe	E1103	E110300	764641000000104	1696281000000112	NA	32
+182871000006115	Recurrent manic episodes, severe	E1113	E111300	764621000000106	1696241000000116	NA	32
+513711000006118	Depressed bipolar I disorder in partial remission	E1155	E115500	49512000	82468013	NA	32
+7860861000006115	Cognitive impairment co-occurrent and due to primary psychotic disorder	^ESCTCO786086		724760003	3449815019	NA	31
+2611981000006118	Subchronic undifferentiated schizophrenia with acute exacerbations	^ESCTSU261198		7025000	12591016	NA	31
+3452781000006113	Severe mood disorder with psychotic features, mood-congruent	^ESCTSE345278		58647003	97455011	NA	31
+2857081000006110	Bipolar II disorder, most recent episode major depressive with catatonic features	^ESCTBI285708		22407005	37616015	NA	31
+2991561000006115	Severe bipolar II disorder, most recent episode major depressive with psychotic features	^ESCTSE299156		30520009	51081017	NA	31
+2960791000006111	Mood disorder, condition with manic features	^ESCTMO296079		28676002	2951754013	NA	31
+3638851000006110	Severe mood disorder with psychotic features, mood-incongruent	^ESCTSE363885		70043001	116330019	NA	31
+2988481000006116	Chronic residual schizophrenia with acute exacerbations	^ESCTCH298848		30336007	50775014	NA	31
+2672971000006116	Severe bipolar I disorder, most recent episode mixed, with psychotic features, mood-incongruent	^ESCTSE267297		10875004	18882017	NA	31
+12759131000006116	[X]Other nonorganic psychotic disorders	^ESCT1275913		480111000000107	996461000000115	NA	32
+2705561000006112	Chronic disorganised schizophrenia	^ESCTCH270556		12939007	474806010	NA	32
+2938951000006113	Subchronic disorganised schizophrenia	^ESCTSU293895		27387000	483516010	NA	32
+6647221000006111	History of manic depressive disorder	^ESCTHI664722		400998002	2986326010	NA	32
+4763691000006113	Schizophrenia, catatonic	^ESCTSC476369		191542003	2951750016	NA	32
+395021000006111	[X]Latent schizophrenia	Eu21-3	Eu21.13	191559008	294764011	NA	32
+424661000006111	[X]Recurrent manic episodes	Eu31y-2	Eu31y12	191590005	294810017	NA	32
+425551000006112	[X]Schizoaffective psychosis NOS	Eu25z-1	Eu25z11	68890003	114425016	NA	32
+425571000006119	[X]Schizoaffective psychosis, manic type	Eu250-1	Eu25011	271428004	406210011	NA	32
+425601000006114	[X]Schizophrenia	Eu20	Eu20.00	58214004	96745016	NA	32
+215691000006112	Poor insight into psychotic condition	286-1	286..11	12200008	21006010	NA	27
+294868016	Bipolar affective disorder, currently depressed, NOS	E115z	E115z00	191627008	294859018	NA	32
+294737010	Chronic hebephrenic schizophrenia	E1012	E101200	12939007	3425737017	NA	32
+1974351000006118	Paranoid schizophrenia, continuous	EMISICD10|F2000		1974351000006102	1974351000006118	NA	32
+1974391000006112	Paranoid schizophrenia, episodic with progressive deficit	EMISICD10|F2001		1974391000006108	1974391000006112	NA	32
+1974751000006117	Catatonic schizophrenia, continuous	EMISICD10|F2020		1974751000006101	1974751000006117	NA	32
+1974971000006112	Undifferentiated schizophrenia, episodic with progressive deficit	EMISICD10|F2031		1974971000006108	1974971000006112	NA	32
+1975001000006118	Undifferentiated schizophrenia, episodic with stable deficit	EMISICD10|F2032		1975001000006102	1975001000006118	NA	32
+1975381000006113	Residual schizophrenia, episodic with progressive deficit	EMISICD10|F2051		1975381000006109	1975381000006113	NA	32
+1975731000006111	Acute schizophrenia-like psychotic disorder, with associated acute stress	EMISICD10|F2321		1975731000006107	1975731000006111	NA	32
+1975761000006119	Other acute predominantly delusional psychotic disorders, without associated acute stress	EMISICD10|F2330		1975761000006103	1975761000006119	NA	32
+1976171000006118	Schizophrenia, unspecified, course uncertain, period of observation too short	EMISICD10|F2099		1976171000006102	1976171000006118	NA	32
+1976941000006111	Simple schizophrenia, other	EMISICD10|F2068		1976941000006107	1976941000006111	NA	32
+1976961000006110	Schizophrenia, unspecified, other	EMISICD10|F2098		1976961000006106	1976961000006110	NA	32
+492821000000113	Schizophrenia resolved	212W	212W.00	285521000000103	492821000000113	NA	27
+294769018	Acute exacerbation of chronic latent schizophrenia	E1054	E105400	191564007	294769018	NA	32
+294806015	Single manic episode, severe, with psychosis	E1104	E110400	191586008	294806015	NA	32
+294810017	Recurrent manic episodes	E111	E111.00	191590005	294810017	NA	32
+294847017	Manic-depressive - now manic	E114-1	E114.11	191618007	294847017	NA	32
+294869012	Mixed bipolar affective disorder	E116	E116.00	191636007	294869012	NA	32
+52897013	Chronic paranoid schizophrenia	E1032	E103200	31658008	52897013	NA	32
+71539017	Subchronic catatonic schizophrenia	E1021	E102100	42868002	71539017	NA	32
+2960491000006119	Severe manic bipolar I disorder with psychotic features	^ESCTSE296049		28663008	47985013	NA	31
+2821731000006115	Severe major depression, single episode, with psychotic features, mood-incongruent	^ESCTSE282173		20250007	34058010	NA	31
+3615771000006111	Bipolar I disorder, most recent episode manic	^ESCTBI361577		68569003	113889011	NA	31
+294790014	Schizophrenia	E10z	E10z.00	58214004	96745016	NA	32
+12059251000006118	Bipolar I disorder, most recent episode depression	^ESCT1205925		767636002	3673088015	NA	31
+5435901000006117	Bipolar	^ESCTBI543590		260994008	388662014	NA	31
+12059211000006120	Bipolar disorder, most recent episode manic	^ESCT1205921		767632000	3673076017	NA	31
+3246861000006114	Severe bipolar I disorder, most recent episode mixed, without psychotic features	^ESCTSE324686		46229002	77093016	NA	31
+3651771000006116	Subchronic residual schizophrenia with acute exacerbations	^ESCTSU365177		70814008	117633015	NA	31
+12482001000006116	Acute exacerbation of subchronic schizophrenia	^ESCT1248200		191530008	294730012	NA	31
+7127661000006118	Major depressive disorder, single episode, severe with psychotic features	^ESCTMA712766		430852001	2770929013	NA	31
+3336841000006115	Chronic bipolar I disorder, most recent episode depressed	^ESCTCH333684		51637008	85997011	NA	31
+3773111000006115	Bipolar 1 disorder, single manic episode, in partial remission	^ESCTBI377311		78269000	2951717016	NA	31
+3468381000006118	Severe depressed bipolar I disorder with psychotic features	^ESCTSE346838		59617007	99035012	NA	31
+3468391000006115	Severe bipolar I disorder, most recent episode depressed with psychotic features	^ESCTSE346839		59617007	99036013	NA	31
+4763891000006112	Subchronic schizoaffective schizophrenia	^ESCTSU476389		191569002	294775010	NA	32
+4763641000006116	Acute exacerbation of chronic disorganised schizophrenia	^ESCTAC476364		191539009	3433000013	NA	32
+4196151000006111	Subchronic schizophrenia with acute exacerbations	^ESCTSU419615		111482003	178722014	NA	32
+5524571000006112	Schizophreniform psychosis, manic type	^ESCTSC552457		271428004	406211010	NA	32
+6357631000006118	Severe bipolar disorder	^ESCTSE635763		371600003	1210229014	NA	31
+2705571000006117	Chronic disorganized schizophrenia	^ESCTCH270557		12939007	22177019	NA	32
+3068121000006112	Disorganised schizophrenia	^ESCTDI306812		35252006	486103011	NA	32
+294771018	Latent schizophrenia NOS	E105z	E105z00	191559008	294764011	NA	32
+294870013	Mixed bipolar affective disorder, unspecified	E1160	E116000	191636007	294869012	NA	32
+294738017	Acute exacerbation of subchronic hebephrenic schizophrenia	E1013	E101300	14291003	3654249015	NA	32
+370451000006110	[X]Catatonic schizophrenia	Eu202	Eu20200	191542003	294742019	NA	32
+423731000006114	[X]Pseudoneurotic schizophrenia	Eu21-6	Eu21.16	31027006	51933014	NA	32
+425691000006119	[X]Schizophreniform psychosis, depressive type	Eu251-2	Eu25112	84760002	1234980016	NA	32
+426961000006114	[X]Single episode of psychotic depression	Eu323-3	Eu32313	191604000	294828015	NA	32
+294734015	Simple schizophrenia NOS	E100z	E100z00	191527001	294727017	NA	32
+294741014	Hebephrenic schizophrenia NOS	E101z	E101z00	35252006	2881679010	NA	32
+294811018	Recurrent manic episodes, unspecified	E1110	E111000	191590005	294810017	NA	32
+294896010	Other and unspecified manic-depressive psychoses NOS	E11yz	E11yz00	13746004	1221011015	NA	32
+296096013	[X]Schizoaffective disorder, unspecified	Eu25z	Eu25z00	68890003	114425016	NA	32
+296135011	[X]Bipolar affective disorder, unspecified	Eu31z	Eu31z00	13746004	2839307017	NA	32
+401764014	Other schizophrenia	E10y	E10y.00	58214004	96745016	NA	32
+401859016	[X]Other acute predominantly delusional psychotic disorders	Eu233	Eu23300	231489001	346960012	NA	32
+1974451000006113	Paranoid schizophrenia, episodic remittent	EMISICD10|F2003		1974451000006109	1974451000006113	NA	32
+1975161000006118	Undifferentiated schizophrenia, course uncertain, period of observation too short	EMISICD10|F2039		1975161000006102	1975161000006118	NA	32
+1975501000006114	Simple schizophrenia, episodic with progressive deficit	EMISICD10|F2061		1975501000006105	1975501000006114	NA	32
+1975771000006114	Other schizophrenia, episodic with progressive deficit	EMISICD10|F2081		1975771000006105	1975771000006114	NA	32
+1976891000006110	Hebephrenic schizophrenia, other	EMISICD10|F2018		1976891000006106	1976891000006110	NA	32
+1976951000006113	Other schizophrenia, other	EMISICD10|F2088		1976951000006109	1976951000006113	NA	32
+2157096015	Manic mood	1S42	1S42.00	405273008	2157096015	NA	27
+294739013	Acute exacerbation of chronic hebephrenic schizophrenia	E1014	E101400	191539009	294739013	NA	32
+28758018	Subchronic schizophrenia	E1001	E100100	16990005	28758018	NA	32
+8008591000006119	Mood disorder with manic feature	^ESCTMO800859		21071000119101	2955674017	NA	31
+2517511000006119	Chronic bipolar II disorder, most recent episode major depressive	^ESCTCH251751		1196001	3127010	NA	31
+2782051000006112	Bipolar I disorder, most recent episode manic with catatonic features	^ESCTBI278205		17782008	30048015	NA	31
+425511000006111	Schizoaffective disorder, manic type	Eu250	Eu25000	271428004	406210011	NA	32
+3174001000006110	Severe bipolar I disorder, single manic episode with psychotic features	^ESCTSE317400		41832009	69788017	NA	31
+2729691000000119	Cataleptic schizophrenia	^ESCT1171769		1089481000000106	2729691000000119	NA	31
+7965151000006112	Severe depressed bipolar I disorder	^ESCTSE796515		261000119107	2916238011	NA	31
+7965161000006114	Severe mixed bipolar I disorder	^ESCTSE796516		271000119101	2915422012	NA	31
+3388761000006117	Severe depressed bipolar I disorder with psychotic features, mood-congruent	^ESCTSE338876		54761006	91014013	NA	31
+3089781000006115	Mixed bipolar I disorder in partial remission	^ESCTMI308978		36583000	61058017	NA	31
+3945551000006119	Severe mood disorder without psychotic features	^ESCTSE394555		88939009	147472016	NA	31
+3946141000006118	Schizophreniform disorder	^ESCTSC394614		88975006	147527010	NA	31
+12717591000006112	[X] (Other nonorganic psychotic disorders) or (chronic hallucinatory psychosis)	^ESCT1271759		480111000000107	885261000000116	NA	32
+2919431000006110	Severe bipolar I disorder, most recent episode depressed with psychotic features, mood-incongruent	^ESCTSE291943		26203008	43896015	NA	31
+2726271000006118	Subchronic disorganized schizophrenia with acute exacerbations	^ESCTSU272627		14291003	24298014	NA	32
+5023961000006111	Manic	^ESCTMA502396		231494001	346967010	NA	32
+2761681000006119	Bipolar I disorder, most recent episode mixed	^ESCTBI276168		16506000	27931017	NA	32
+4763771000006119	Subchronic paranoid schizophrenia with acute exacerbation	^ESCTSU476377		191554003	2693227014	NA	32
+4763921000006118	Acute exacerbation of chronic schizoaffective schizophrenia	^ESCTAC476392		191572009	294778012	NA	32
+513721000006114	Bipolar affect disord, now depressed, severe with psychosis	E1154	E115400	765176007	3657334019	NA	32
+366571000006114	[X]Atypical schizophrenia	Eu203-1	Eu20311	111484002	1219653018	NA	32
+367151000006111	[X]Bipolar disorder, single manic episode	Eu30-1	Eu30.11	268619003	401765010	NA	32
+388741000006110	[X]Hebephrenic schizophrenia	Eu201	Eu20100	35252006	2881679010	NA	32
+294735019	Unspecified hebephrenic schizophrenia	E1010	E101000	35252006	2881679010	NA	32
+294888017	Unspecified bipolar affective disorder, NOS	E117z	E117z00	13746004	2839307017	NA	32
+294736018	Subchronic hebephrenic schizophrenia	E1011	E101100	27387000	3425705018	NA	32
+1975491000006118	Simple schizophrenia, continuous	EMISICD10|F2060		1975491000006102	1975491000006118	NA	32
+1976101000006112	Schizophrenia, unspecified, episodic with stable deficit	EMISICD10|F2092		1976101000006108	1976101000006112	NA	32
+1976931000006118	Residual schizophrenia, other	EMISICD10|F2058		1976931000006102	1976931000006118	NA	32
+3527206014	Secondary psychotic syndrome with hallucinations and delusions	^ESCT1167527		737225007	3527206014	NA	31
+2924621000006115	Severe mood disorder with psychotic features	^ESCTSE292462		26516009	44400015	NA	31
+3552841000006115	Severe mixed bipolar I disorder with psychotic features, mood-congruent	^ESCTSE355284		64731001	107575015	NA	31
+294757014	Acute exacerbation of subchronic paranoid schizophrenia	E1033	E103300	191554003	294757014	NA	32
+294773015	Cyclic schizophrenia	E107-1	E107.11	191567000	294773015	NA	32
+294815010	Recurrent manic episodes, severe, with psychosis	E1114	E111400	191595000	294815010	NA	32
+107878010	Paranoid schizophrenia	E103	E103.00	64905009	107878010	NA	32
+3067421000006119	Chronic disorganized schizophrenia with acute exacerbations	^ESCTCH306742		35218008	58770017	NA	31
+2924901000006115	Severe bipolar disorder with psychotic features, mood-incongruent	^ESCTSE292490		26530004	44425012	NA	31
+2806351000006114	Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent	^ESCTSE280635		19300006	32548017	NA	31
+12059201000006116	Bipolar disorder, most recent episode depression	^ESCT1205920		767631007	3673075018	NA	31
+2919421000006112	Severe depressed bipolar I disorder with psychotic features, mood-incongruent	^ESCTSE291942		26203008	43895016	NA	31
+296031017	Undifferentiated schizophrenia	Eu203	Eu20300	111484002	178724010	NA	32
+223601000000119	Manic psychosis	E11-3	E11..13	231494001	346966018	NA	32
+513751000006117	Bipolar affective disorder, current episode depression	E115	E115.00	191627008	294859018	NA	32
+513871000006118	Bipolar disorder	E11-1	E11..11	13746004	23447014	NA	32
+367951000006113	Borderline schizophrenia	Eu21-2	Eu21.12	274952002	410869013	NA	32
+701071000006111	Mixed bipolar affective disorder, severe	E1163	E116300	764591000000108	1696181000000118	NA	32
+2729991000000112	Recurrent depression with current severe episode without psychotic features	^ESCT1171782		1089631000000109	2729991000000112	NA	31
+2715201000006111	Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent	^ESCTSE271520		13581000	23183012	NA	31
+3745281000006119	Subchronic residual schizophrenia	^ESCTSU374528		76566000	127152011	NA	31
+2960501000006110	Severe bipolar I disorder, most recent episode manic, with psychotic features	^ESCTSE296050		28663008	47986014	NA	31
+2648981000006119	Bipolar I disorder, single manic episode	^ESCTBI264898		9340000	16386015	NA	31
+7860871000006110	Cognitive impairment with primary psychotic disorder	^ESCTCO786087		724760003	3449816018	NA	31
+2976051000006113	Chronic undifferentiated schizophrenia	^ESCTCH297605		29599000	49520019	NA	31
+3042901000006110	Severe major depression with psychotic features, mood-congruent	^ESCTSE304290		33736005	56329012	NA	31
+2730071000000117	Mania with mood-incongruent psychotic features	^ESCT1171785		1089671000000106	2730071000000117	NA	31
+3656651000006111	Chronic residual schizophrenia	^ESCTCH365665		71103003	118080013	NA	31
+2648991000006116	Bipolar 1 disorder, single manic episode	^ESCTBI264899		9340000	2951653013	NA	31
+4763731000006117	Subchronic catatonic schizophrenia with acute exacerbation	^ESCTSU476373		191547009	2692374013	NA	32
+4763791000006118	Chronic paranoid schizophrenia with acute exacerbation	^ESCTCH476379		191555002	2693884010	NA	32
+3504721000006117	Induced psychotic disorder	^ESCTIN350472		61831009	102769017	NA	32
+3779051000006116	Severe bipolar I disorder, most recent episode manic, with psychotic features, mood-congruent	^ESCTSE377905		78640000	130490015	NA	31
+2758341000006117	Bipolar II disorder, most recent episode major depressive	^ESCTBI275834		16295005	27584012	NA	31
+12480451000006112	[X]Schizophrenia, schizotypal and delusional disorders	^ESCT1248045		417601000000102	939641000000117	NA	32
+346955013	Childhood schizophrenia NOS	E14z-1	E14z.11	191687005	294933015	NA	32
+3862661000006112	Chronic schizophrenia	^ESCTCH386266		83746006	138883015	NA	32
+3087971000006112	Severe recurrent major depression without psychotic features	^ESCTSE308797		36474008	60885016	NA	32
+294730012	Acute exacerbation of subchronic schizophrenia	E1003	E100300	111482003	178722014	NA	32
+424671000006116	[X]Recurrent severe episodes of psychotic depression	Eu333-5	Eu33315	191613003	294840015	NA	32
+425681000006117	[X]Schizophreniform disord NOS	Eu20y-2	Eu20y12	58214004	96745016	NA	32
+412201000006113	[X]Other nonorganic psychotic disorders	Eu2y	Eu2y.00	191525009	2575698010	NA	32
+418261000006112	[X]Paraphrenic schizophrenia	Eu200-1	Eu20011	64905009	1232626010	NA	32
+401855010	[X]Other schizophrenia	Eu20y	Eu20y00	58214004	96745016	NA	32
+123611000006110	Subchronic schizo-affective schizophrenia	E1071	E107100	191569002	294775010	NA	32
+294744018	Unspecified catatonic schizophrenia	E1020	E102000	191542003	294742019	NA	32
+294760019	Paranoid schizophrenia NOS	E103z	E103z00	64905009	107878010	NA	32
+294809010	Manic disorder, single episode NOS	E110z	E110z00	268619003	401765010	NA	32
+1974431000006118	Paranoid schizophrenia, episodic with stable deficit	EMISICD10|F2002		1974431000006102	1974431000006118	NA	32
+1974621000006118	Hebephrenic schizophrenia, episodic with stable deficit	EMISICD10|F2012		1974621000006102	1974621000006118	NA	32
+1974781000006113	Catatonic schizophrenia, episodic with progressive deficit	EMISICD10|F2021		1974781000006109	1974781000006113	NA	32
+1975641000006112	Simple schizophrenia, course uncertain, period of observation too short	EMISICD10|F2069		1975641000006108	1975641000006112	NA	32
+1975831000006115	Other schizophrenia, episodic remittent	EMISICD10|F2083		1975831000006104	1975831000006115	NA	32
+1976911000006112	Undifferentiated schizophrenia, other	EMISICD10|F2038		1976911000006108	1976911000006112	NA	32
+294807012	Single manic episode in partial remission	E1105	E110500	764731000000103	1696461000000116	NA	32
+82151000006114	Severe bipolar disorder without psychotic features	E1173	E117300	53049002	88241016	NA	32
+423471000006117	Prodromal schizophrenia	Eu21-5	Eu21.15	247804008	369985014	NA	32
+1785861000006112	Bipolar II disorder	Eu319	Eu31900	83225003	138029017	NA	32
+82171000006116	Severe bipolar disorder with psychotic features	E1174	E117400	4441000	7545018	NA	32
+367051000006112	Severe depressed bipolar I disorder without psychotic features	Eu314	Eu31400	61403008	102016011	NA	32
+513741000006119	Manic bipolar I disorder in partial remission	E1145	E114500	63249007	105141010	NA	32
+294731011	Acute exacerbation of chronic schizophrenia	E1004	E100400	191531007	294731011	NA	32
+294766013	Subchronic latent schizophrenia	E1051	E105100	191561004	294766013	NA	32
+294768014	Acute exacerbation of subchronic latent schizophrenia	E1053	E105300	191563001	294768014	NA	32
+294787015	Coenesthopathic schizophrenia	E10y1	E10y100	191577003	294787015	NA	32
+296022017	[X]Schizophrenia, schizotypal and delusional disorders	Eu2	Eu2..00	417601000000102	939641000000117	NA	32
+251628010	H/O: schizophrenia	1464	1464.00	161468000	251628010	NA	32
+6357651000006113	Severe bipolar II disorder	^ESCTSE635765		371604007	1210233019	NA	31
+3779041000006118	Severe manic bipolar I disorder with psychotic features, mood-congruent	^ESCTSE377904		78640000	130489012	NA	31
+3405421000006118	Schizophreniform disorder without good prognostic features	^ESCTSC340542		55736003	92679012	NA	31
+3743451000006110	Severe major depression, single episode, without psychotic features	^ESCTSE374345		76441001	126947013	NA	31
+5023971000006116	Manic stupor	^ESCTMA502397		231495000	346968017	NA	31
+8011471000006113	Severe manic bipolar I disorder	^ESCTSE801147		23741000119105	2952051013	NA	31
+3788101000006118	Chronic undifferentiated schizophrenia with acute exacerbations	^ESCTCH378810		79204003	131428011	NA	31
+3082681000006117	Schizophreniform disorder with good prognostic features	^ESCTSC308268		36158005	60330011	NA	31
+2740851000006114	Severe recurrent major depression with psychotic features, mood-incongruent	^ESCTSE274085		15193003	25793014	NA	31
+3089791000006117	Bipolar I disorder, most recent episode mixed, in partial remission	^ESCTBI308979		36583000	61059013	NA	31
+3201661000006111	Bipolar II disorder, most recent episode major depressive with atypical features	^ESCTBI320166		43568002	72648018	NA	31
+3246851000006112	Severe mixed bipolar I disorder without psychotic features	^ESCTSE324685		46229002	77092014	NA	31
+2730051000000114	Mania with mood-congruent psychotic features	^ESCT1171784		1089661000000104	2730051000000114	NA	31
+3773101000006118	Bipolar I disorder, single manic episode, in partial remission	^ESCTBI377310		78269000	129877017	NA	31
+3528681000006111	Bipolar I disorder, most recent episode manic, in partial remission	^ESCTBI352868		63249007	105142015	NA	32
+3068131000006110	Disorganized schizophrenia	^ESCTDI306813		35252006	58822019	NA	32
+6357571000006119	Bipolar 1 disorder	^ESCTBI635757		371596008	2951720012	NA	32
+2717981000006118	MDI - Manic-depressive illness	^ESCTMD271798		13746004	1221013017	NA	32
+296118012	[X]Other manic episodes	Eu30y	Eu30y00	231494001	346965019	NA	32
+456801000006115	Acute exacerbation subchronic schizo-affective schizophrenia	E1073	E107300	191571002	294777019	NA	32
+376251000006112	[X]Cyclic schizophrenia	Eu252-1	Eu25211	270901009	405368015	NA	32
+294754019	Unspecified paranoid schizophrenia	E1030	E103000	64905009	107878010	NA	32
+294818012	Recurrent manic episode NOS	E111z	E111z00	191590005	294810017	NA	32
+294892012	Unspecified manic-depressive psychoses	E11y0	E11y000	13746004	1221011015	NA	32
+296095012	[X]Other schizoaffective disorders	Eu25y	Eu25y00	68890003	114425016	NA	32
+1975481000006116	Residual schizophrenia, course uncertain, period of observation too short	EMISICD10|F2059		1975481000006100	1975481000006116	NA	32
+1975551000006113	Simple schizophrenia, episodic remittent	EMISICD10|F2063		1975551000006109	1975551000006113	NA	32
+1975781000006112	Other acute predominantly delusional psychotic disorders, with associated acute stress	EMISICD10|F2331		1975781000006108	1975781000006112	NA	32
+1976001000006113	Schizophrenia, unspecified, continuous	EMISICD10|F2090		1976001000006109	1976001000006113	NA	32
+1976121000006119	Schizophrenia, unspecified, episodic remittent	EMISICD10|F2093		1976121000006103	1976121000006119	NA	32
+1976901000006114	Catatonic schizophrenia, other	EMISICD10|F2028		1976901000006105	1976901000006114	NA	32
+294874016	Mixed bipolar affective disorder, severe, with psychosis	E1164	E116400	191641004	294874016	NA	32
+43595011	Residual schizophrenia	E106	E106.00	26025008	43595011	NA	32
+4763661000006117	Acute exacerbation of chronic disorganized schizophrenia	^ESCTAC476366		191539009	3432999012	NA	32
+2833511000006116	Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent	^ESCTSE283351		20960007	35242011	NA	31
+2730091000000118	Mania with psychotic features	^ESCT1171786		1089681000000108	2730091000000118	NA	31
+296110017	Mania	Eu301	Eu30100	231494001	346965019	NA	32
+425521000006115	Schizoaffective disorder, mixed type	Eu252	Eu25200	270901009	405368015	NA	32
+425541000006110	Schizoaffective disorder	Eu25	Eu25.00	68890003	114425016	NA	32
+513691000006116	Severe manic bipolar I disorder without psychotic features	E1143	E114300	162004	1352013	NA	32
+996171000006114	Psychosis, schizophrenia and bipolar affective disorder resolved	212T	212T.00	200951000000109	305361000000112	NA	27
+294828015	Single major depressive episode, severe, with psychosis	E1124	E112400	191604000	294828015	NA	32
+294840015	Recurrent major depressive episodes, severe, with psychosis	E1134	E113400	191613003	294840015	NA	32
+182801000006114	Recurrent major depressive episodes,partial/unspec remission	E1135	E113500	764691000000109	1696381000000115	NA	32
+294845013	Recurrent major depressive episode NOS	E113z	E113z00	268621008	401767019	NA	32
+3094951000006111	Major depressive disorder, single episode	^ESCTMA309495		36923009	61592011	NA	32
+882831000006113	Severe depression	Eu322-99	Eu32299	397701000000102	882831000006113	NA	32
+11903801000006120	Single major depressive episode, severe	^ESCT1190380		764631000000108	1696261000000115	NA	31
+2724681000006112	Chronic major depressive disorder, single episode	^ESCTCH272468		14183003	24135018	NA	31
+11903751000006114	Single major depressive episode	^ESCT1190375		268620009	401766011	NA	31
+6337491000006116	Major depressive disorder	^ESCTMA633749		370143000	1208903011	NA	31
+3140411000006112	Recurrent major depressive disorder with catatonic features	^ESCTRE314041		39809009	67125015	NA	31
+3578861000006116	Recurrent major depressive disorder	^ESCTRE357886		66344007	110186015	NA	31
+6081011000006117	Recurrent major depressive disorder with melancholic features	^ESCTRE608101		319768000	462884010	NA	31
+3192061000006110	Major depressive disorder, single episode with atypical features	^ESCTMA319206		42925002	71628011	NA	31
+12127571000006112	Recurrent major depressive disorder in partial remission co-occurrent with anxiety	^ESCT1212757		16265301000119106	3647431019	NA	31
+2540711000006115	Chronic recurrent major depressive disorder	^ESCTCH254071		2618002	5460017	NA	31
+9901281000006116	Severe major depressive disorder co-occurrent with anxiety single episode	^ESCTSE990128		16266991000119108	3447111015	NA	31
+142521000006110	Major depression single episode, in partial remission	E1125	E112500	70747007	117520015	NA	32
+182771000006112	Recurrent major depressive episodes, severe	E1133	E113300	764611000000100	1696221000000111	NA	32
+223741000000112	Severe depression	Eu322-2	Eu32212	310497006	454084010	NA	32
+424681000006118	Recurrent reactive depressive episodes, severe, with psychosis	Eu333-6	Eu33316	1086471000000103	2721771000000114	NA	32
+142541000006115	Severe major depression, single episode	E1123	E112300	251000119105	2916281014	NA	32
+3122721000006111	Recurrent major depressive disorder with atypical features	^ESCTRE312272		38694004	64391018	NA	31
+8464961000006115	Recurrent reactive depressive episodes, severe, with psychosis	^ESCTRE846496		1086471000000103	8464961000006115	NA	32
+11921141000006116	[X]Recurrent severe episodes/reactive depressive psychosis	^ESCT1192114		191613003	424681000006118	NA	32
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis	Eu333-4	Eu33314	191613003	294840015	NA	32
+424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp	Eu333	Eu33300	28475009	47670016	NA	32
+6088151000006111	Major depression, melancholic type	^ESCTMA608815		320751009	463437013	NA	31
+3578851000006118	Recurrent major depression	^ESCTRE357885		66344007	110183011	NA	31
+3094941000006114	Major depression, single episode	^ESCTMA309494		36923009	3094941000006114	NA	32
+294832014	Single major depressive episode NOS	E112z	E112z00	36923009	61590015	NA	32
+182721000006111	Recurrent major depressive episodes	E113	E113.00	268621008	401767019	NA	32
+3537261000006119	Major depressive disorder, single episode with melancholic features	^ESCTMA353726		63778009	105998019	NA	31
+294836012	Recurrent major depressive episodes, unspecified	E1130	E113000	268621008	401767019	NA	32
+3033261000006113	Recurrent major depression in partial remission	^ESCTRE303326		33135002	55297012	NA	31
+401766011	Major depression, single episode	E112	E112.00	36923009	61590015	NA	32
+7965131000006117	Severe major depression, single episode	^ESCTSE796513		251000119105	7965131000006117	NA	32
+12127541000006116	Recurrent severe major depressive disorder co-occurrent with anxiety	^ESCT1212754		16264821000119108	3646266012	NA	31
+294824018	Single major depressive episode, unspecified	E1120	E112000	36923009	61590015	NA	32
+2993091000006116	Major depression in partial remission	^ESCTMA299309		30605009	51226016	NA	31
+6337501000006112	Major depression	^ESCTMA633750		370143000	1228731019	NA	31
+3628471000006116	Major depressive disorder, single episode with catatonic features	^ESCTMA362847		69392006	115270017	NA	31
+7382291000006112	Severe major depression	^ESCTSE738229		450714000	2916746011	NA	31
+3650771000006113	Major depression, single episode, in partial remission	^ESCTMA365077		70747007	2951663017	NA	32
+8237831000006115	Recurrent major depressive episodes, in partial remission	^ESCTRE823783		764691000000109	1696381000000115	NA	32
+6000721000006116	Severe depression	^ESCTSE600072		310497006	6000721000006116	NA	32
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt	Eu332	Eu33200	310497006	454084010	NA	32
+7965191000006118	Severe recurrent major depression	^ESCTSE796519		281000119103	2967289019	NA	31

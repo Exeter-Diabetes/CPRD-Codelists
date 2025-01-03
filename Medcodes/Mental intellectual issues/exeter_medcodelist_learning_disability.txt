@@ -1,0 +1,447 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+2548475019	On learning disability register	918e	918e.00	416075005	2548475019	NA	37
+882791000006118	Severe mental retardation	E311-99	E311.99	40700009	882791000006118	NA	32
+1009531000006118	Cause of learning disabilities: Down's syndrome	EMISNQCA42		1009531000006102	1009531000006118	NA	37
+1009571000006115	Cause of learning disabilities: Fragile X syndrome	EMISNQCA46		1009571000006104	1009571000006115	NA	37
+1009591000006119	Cause of learning disabilities: Brain tumour	EMISNQCA48		1009591000006103	1009591000006119	NA	37
+1009601000006110	Cause of learning disabilities: Congenital hydrocephalus	EMISNQCA49		1009601000006106	1009601000006110	NA	37
+1009631000006119	Cause of learning disabilities: Prader-Willi syndrome	EMISNQCA52		1009631000006103	1009631000006119	NA	37
+1009691000006115	Cause of learning disabilities: Other	EMISNQCA58		1009691000006104	1009691000006115	NA	37
+1620441000006116	Learning disability	EMISNQLE5		1620441000006100	1620441000006116	NA	37
+1840501000006110	Special educational needs - moderate learning difficulties	EMISNQSP29		1840501000006106	1840501000006110	NA	17
+1872731000006110	Special education needs - learning difficulty	EMISNQSP34		1872731000006106	1872731000006110	NA	37
+2386061000000116	Progressive intellectual and neurological deterioration	1BZ3	1BZ3.00	931031000000104	2386061000000116	NA	27
+2008481000006110	Learning disabilities: reasonable adjustments	EMISNQLE39		2008481000006106	2008481000006110	NA	37
+1775531012	Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	ESCTHY2		237616002	1775531012	NA	32
+398241000006118	[X]Mental retardation with autistic features	Eu841-2	Eu84112	231536004	347022013	NA	32
+295661017	Other specified mental retardation	E3y	E3y..00	110359009	175156010	NA	32
+296592018	[X]Other mental retardation, other impairments of behaviour	Eu7yy	Eu7yy00	110359009	175156010	NA	32
+401902015	[X]Unspecified mental retardation	Eu7z	Eu7z.00	110359009	175156010	NA	32
+398231000006111	[X]Mental retardation	Eu7	Eu7..00	110359009	3643707012	NA	32
+430071000006118	[X]Unsp mental retardation without mention impairment behav	Eu7zz	Eu7zz00	110359009	175156010	NA	32
+3003351000006112	Profound learning impairment, intelligence quotient less than 20	^ESCTPR300335		31216003	556531000000110	NA	32
+3003331000006117	Profound learning impairment with intelligence quotient less than 20	^ESCTPR300333		31216003	552571000000113	NA	32
+3155151000006112	Severe learning disability	^ESCTSE315515		40700009	2310251000000113	NA	32
+3493661000006111	Moderate learning disability, intelligence quotient in range 35-49	^ESCTMO349366		61152003	536881000000110	NA	32
+4976481000006119	Intellectual limitation	^ESCTIN497648		228156007	1222973013	NA	17
+7567011000006112	Lubs X-linked mental retardation syndrome	^ESCTLU756701		702816000	3009035015	NA	32
+7577251000006111	Microcephaly, mental retardation and distinct features, with or without Hirschsprung disease	^ESCTMI757725		703535000	3009030013	NA	32
+12181621000006112	Severe intellectual development disorder	^ESCT1218162		40700009	3654214010	NA	32
+11998101000006118	Intellectual developmental disorder	^ESCT1199810		110359009	3642975016	NA	32
+8337631000006110	PIND - progressive intellectual and neurological deterioration	^ESCTPI833763		931031000000104	2386101000000119	NA	27
+8337591000006110	Significant intellectual disability	^ESCTSI833759		931001000000105	2714241000000119	NA	31
+7577261000006113	Hirschsprung disease-mental retardation syndrome	^ESCTHI757726		703535000	3009165011	NA	32
+4538731000006118	LD - Learning difficulties	^ESCTLD453873		161129001	251222017	NA	17
+3493681000006118	Moderate learning disability	^ESCTMO349368		61152003	1666321000000118	NA	32
+3910921000006117	Mild mental retardation (Intelligence Quotient 50-70)	^ESCTMI391092		86765009	2975045012	NA	32
+3003311000006111	Profound mental retardation (Intelligence Quotient below 20)	^ESCTPR300331		31216003	2974835016	NA	32
+6989771000006117	X-linked mental retardation with marfanoid habitus syndrome	^ESCTXL698977		422437002	2645975014	NA	32
+12487761000006116	Mental retardation	^ESCT1248776		91138005	151009017	NA	31
+3980931000006116	MR - Mental retardation	^ESCTMR398093		91138005	1235634010	NA	31
+12703921000006110	Profound mental retardation (I.Q. below 20)	^ESCT1270392		31216003	52225019	NA	32
+12703791000006110	Moderate mental retardation (I.Q. 35-49)	^ESCT1270379		61152003	101619019	NA	32
+146051000006113	Severe mental retardation, IQ in range 20-34	E311	E311.00	40700009	3643515012	NA	32
+201751000006110	Profound mental retardation with IQ less than 20	E312	E312.00	31216003	3643527010	NA	32
+296557014	[X]Mild mental retardation, other impairments of behaviour	Eu70y	Eu70y00	86765009	143892017	NA	32
+296574014	[X]Severe mental retardation, other impairments of behaviour	Eu72y	Eu72y00	40700009	67882016	NA	32
+12202441000006114	Mild intellectual disability	^ESCT1220244		86765009	12202441000006114	NA	32
+2730231000000111	Severe intellectual development disorder with significant impairment of behaviour	^ESCT1171798		1089751000000106	2730231000000111	NA	31
+7826551000006113	Mental retardation, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome	^ESCTME782655		722037004	3330287017	NA	31
+7882081000006116	X-linked intellectual disability Hedera type	^ESCTXL788208		726727003	3452241012	NA	31
+3063441000006118	Intellectual aphasia	^ESCTIN306344		34977006	58372010	NA	31
+2730251000000116	Severe intellectual development disorder with minimal impairment of behaviour	^ESCT1171800		1089761000000109	2730251000000116	NA	31
+7758071000006112	Microphthalmia with ankyloblepharon and intellectual disability syndrome	^ESCTMI775807		717222003	3308716017	NA	31
+7830851000006110	Microcephaly, intracranial calcification, intellectual disability syndrome	^ESCTMI783085		722390006	3331821019	NA	31
+7735001000006113	Intellectual disability, truncal obesity, retinal dystrophy and micropenis syndrome	^ESCTIN773500		715628009	3303221016	NA	31
+7813711000006115	SESAME (seizures, sensorineural deafness, ataxia, mental retardation, electrolyte imbalance) syndrome	^ESCTSE781371		721207002	3332064010	NA	31
+7755151000006112	Hypoplasia of corpus callosum and mental retardation with adducted thumbs and spasticity and hydrocephalus syndrome	^ESCTHY775515		716996008	3308122015	NA	31
+7810251000006117	Alopecia, contracture, dwarfism, intellectual disability syndrome	^ESCTAL781025		720979002	3322754015	NA	31
+7953491000006117	Preaxial polydactyly, colobomata, intellectual disability syndrome	^ESCTPR795349		733088002	3498723016	NA	31
+3756811000006119	Borderline mental retardation (I.Q. 70-85)	^ESCTBO375681		77287004	128278012	NA	31
+12357871000006120	Blepharophimosis-intellectual disability syndrome Maat-Kievit-Brunner type	^ESCT1235787		699297004	3643149013	NA	31
+2730411000000116	Mild intellectual development disorder with significant impairment of behaviour	^ESCT1171814		1089841000000101	2730411000000116	NA	31
+7782481000006112	X-linked intellectual disability with hypogammaglobulinaemia and progressive neurological deterioration syndrome	^ESCTXL778248		719156006	3315191012	NA	31
+7807621000006113	Aural atresia with multiple congenital anomalies and intellectual disability syndrome	^ESCTAU780762		720748007	3321980014	NA	31
+7826471000006119	Intellectual disability, enteropathy, deafness, peripheral neuropathy, ichthyosis, keratoderma syndrome	^ESCTIN782647		722035007	3330261017	NA	31
+7743661000006115	Alopecia and intellectual disability syndrome	^ESCTAL774366		716191002	3305033016	NA	31
+7778231000006118	X-linked intellectual disability Zorick type	^ESCTXL777823		718846001	3314098010	NA	31
+7782581000006111	Syndromic X-linked intellectual disability due to jumonji at-rich interactive domain 1c mutation	^ESCTSY778258		719161008	3315211016	NA	31
+2740461000000118	Mild intellectual development disorder with impairment of behaviour	^ESCT1172257		1093991000000101	2740461000000118	NA	31
+7779251000006116	X-linked intellectual disability Stoll type	^ESCTXL777925		718911005	3314394017	NA	31
+7953021000006110	Marfanoid habitus with autosomal recessive intellectual disability syndrome	^ESCTMA795302		733062000	3498653017	NA	31
+8222831000006115	People with learning disability	^ESCTPE822283		721651000000109	1585901000000111	NA	31
+2740291000000111	Profound mental retardation with significant impairment of behaviour	^ESCT1171791		1089711000000107	2740291000000111	NA	31
+12035891000006114	Brachydactyly, mesomelia, intellectual disability, heart defect syndrome	^ESCT1203589		765761009	3659615015	NA	31
+12048691000006116	Activity dependent neuroprotector homeobox related multiple congenital anomalies, intellectual disability, autism spectrum disorder	^ESCT1204869		766824003	3662759017	NA	31
+7809721000006112	Type 1 syndactyly, microcephaly, intellectual disability syndrome	^ESCTTY780972		720954000	3322631017	NA	31
+7866201000006117	X-linked spasticity, intellectual disability, epilepsy syndrome	^ESCTXL786620		725163002	3440998011	NA	31
+7953031000006113	Marfanoid habitus, intellectual disability autosomal recessive	^ESCTMA795303		733062000	3498654011	NA	31
+5130041000006112	Keratoderma with mental retardation and spastic paraplegia	^ESCTKE513004		239077009	358287016	NA	31
+7779221000006113	X-linked intellectual disability Siderius type	^ESCTXL777922		718908009	3314377019	NA	31
+7750931000006111	FRAXE intellectual disability syndrome	^ESCTFR775093		716709002	3307280017	NA	31
+7779231000006111	X-linked intellectual disability Stevenson type	^ESCTXL777923		718909001	3314381019	NA	31
+7811761000006116	Deafness and intellectual disability Martin Probst type syndrome	^ESCTDE781176		721087008	3323440018	NA	31
+7826081000006110	Intellectual disability, balding, patella luxation, acromicria syndrome	^ESCTIN782608		722002002	3330090015	NA	31
+7850191000006110	Seizures and intellectual disability due to hydroxylysinuria	^ESCTSE785019		723994004	3428355013	NA	31
+7959041000006118	MMR (megalocornea, mental retardation) syndrome	^ESCTMM795904		733522005	3499606013	NA	31
+2740411000000115	Moderate mental retardation with impairment of behaviour	^ESCT1171811		1089821000000108	2740411000000115	NA	31
+12026111000006116	Focal epilepsy, intellectual disability, cerebro-cerebellar malformation syndrome	^ESCT1202611		765089003	3656367010	NA	31
+12178711000006112	Hyperphosphatasaemia with intellectual disability	^ESCT1217871		33982008	3643091012	NA	31
+5095461000006114	Prune belly syndrome with pulmonic stenosis, mental retardation and deafness	^ESCTPR509546		236529001	354548014	NA	31
+7832001000006117	Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome	^ESCTMA783200		722459008	3332226017	NA	31
+7519901000006119	Blepharophimosis-intellectual deficit syndrome, Say-Barber/Biesecker/Young-Simpson type	^ESCTBL751990		699298009	2983711017	NA	31
+7758091000006113	X-linked epilepsy with learning disability and behaviour disorder syndrome	^ESCTXL775809		717223008	3308721019	NA	31
+12048671000006118	ADNP-related multiple congenital anomalies, intellectual disability, autism spectrum disorder	^ESCT1204867		766824003	3662757015	NA	31
+7963201000006116	Ectodermal dysplasia, intellectual disability, central nervous system malformation syndrome	^ESCTEC796320		734017008	3481869018	NA	31
+12358691000006118	X-linked intellectual disability Snyder type	^ESCT1235869		702416008	3643146018	NA	31
+7791801000006111	Congenital hypoplasia of ulna and intellectual disability syndrome	^ESCTCO779180		719842006	3318129019	NA	31
+7959031000006111	Megalocornea with intellectual disability syndrome	^ESCTME795903		733522005	3499604011	NA	31
+12009571000006116	Intellectual disability, brachydactyly, Pierre Robin syndrome	^ESCT1200957		763744009	3643604011	NA	31
+7728711000006118	Wilms tumour, aniridia, genitourinary anomalies and mental retardation syndrome	^ESCTWI772871		715215007	3301892015	NA	31
+7874991000006119	X-linked intellectual disability Brooks type	^ESCTXL787499		725912001	3446393017	NA	31
+7791161000006118	Deafness, onychodystrophy, osteodystrophy, intellectual disability syndrome	^ESCTDE779116		719800009	3322825018	NA	31
+7958141000006110	Spastic paraplegia, glaucoma, intellectual disability syndrome	^ESCTSP795814		733455003	3499466016	NA	31
+12178721000006116	Hyperphosphatasemia with intellectual disability	^ESCT1217872		33982008	3643098018	NA	31
+2740371000000119	Severe mental retardation with impairment of behaviour	^ESCT1171803		1089771000000102	2740371000000119	NA	31
+2730291000000112	Moderate intellectual development disorder without significant impairment of behaviour	^ESCT1171804		1089781000000100	2730291000000112	NA	31
+5117631000006115	Nutritional mental retardation	^ESCTNU511763		238110009	356937011	NA	31
+7826561000006110	MEHMO (mental retardation, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity) syndrome	^ESCTME782656		722037004	3330288010	NA	31
+3047021000006119	Hyperphosphatasemia with mental retardation	^ESCTHY304702		33982008	56735014	NA	31
+12009521000006116	Intellectual disability, alacrima, achalasia syndrome	^ESCT1200952		763741001	3643593016	NA	31
+12023851000006118	Cryptorchidism, arachnodactyly, intellectual disability syndrome	^ESCT1202385		764950001	3655725014	NA	31
+7519881000006116	Blepharophimosis-mental retardation syndrome, Say-Barber-Biesecker-Young-Simpson type	^ESCTBL751988		699298009	2983598012	NA	31
+7845921000006118	Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome	^ESCTSP784592		723621000	3425297016	NA	31
+7791251000006111	X-linked intellectual disability with seizure and psoriasis syndrome	^ESCTXL779125		719810000	3317990011	NA	31
+7577051000006119	Progressive epilepsy with mental retardation	^ESCTPR757705		703526007	3008925016	NA	31
+7780441000006117	X-linked intellectual disability Abidi type	^ESCTXL778044		719018008	3314686018	NA	31
+7782191000006119	X-linked intellectual disability with corpus callosum agenesis and spastic quadriparesis syndrome	^ESCTXL778219		719137001	3315137014	NA	31
+2740311000000112	Profound mental retardation with impairment of behaviour	^ESCT1171795		1089731000000104	2740311000000112	NA	31
+7791521000006116	X-linked intellectual disability, macrocephaly, macroorchidism syndrome	^ESCTXL779152		719825000	3318060016	NA	31
+12022541000006112	Intellectual disability Birk-Barel type	^ESCT1202254		764861005	3655432018	NA	31
+2730351000000112	Moderate intellectual development disorder with minimal impairment of behaviour	^ESCT1171808		1089811000000102	2730351000000112	NA	31
+7782491000006110	X-linked intellectual disability with hypogammaglobulinemia and progressive neurological deterioration syndrome	^ESCTXL778249		719156006	3315190013	NA	31
+7782501000006119	X-linked intellectual disability and hypotonia with facial dysmorphism and aggressive behaviour syndrome	^ESCTXL778250		719157002	3315196019	NA	31
+7844061000006110	Non-progressive cerebellar ataxia with intellectual disability	^ESCTNO784406		723441001	3424626016	NA	31
+6862091000006119	Mental retardation, dwarfism, and gonadal hypoplasia due to xeroderma pigmentosa	^ESCTME686209		414673004	2536925015	NA	31
+7519851000006112	Blepharophimosis-mental retardation syndrome, Maat-Kievit-Brunner type	^ESCTBL751985		699297004	2983702017	NA	31
+7953971000006110	Thumb stiffness, brachydactyly, intellectual disability syndrome	^ESCTTH795397		733117001	3498794015	NA	31
+7874821000006113	Intellectual disability Buenos Aires type	^ESCTIN787482		725906006	3446302016	NA	31
+7779101000006113	X-linked intellectual disability Shashi type	^ESCTXL777910		718900002	3314353013	NA	31
+12008551000006116	Craniodigital syndrome and intellectual disability syndrome	^ESCT1200855		763665007	3643217015	NA	31
+2452421000000116	Learning disability care plan	^ESCT1171304		962361000000105	2452421000000116	NA	31
+7558731000006110	X-linked mental retardation syndrome, Christianson type	^ESCTXL755873		702354007	2995009018	NA	31
+7779261000006119	X-linked intellectual disability Turner type	^ESCTXL777926		718912003	3314397012	NA	31
+7786901000006112	Pseudohermaphroditism with intellectual disability syndrome	^ESCTPS778690		719450007	3316401018	NA	31
+7809741000006117	Brachycephaly, deafness, cataract, intellectual disability syndrome	^ESCTBR780974		720955004	3322634013	NA	31
+2730191000000119	Profound intellectual development disorder with impairment of behaviour	^ESCT1171794		1089731000000104	2730191000000119	NA	31
+7525421000006112	X-linked intellectual deficit due to PQBP1 mutation	^ESCTXL752542		699669001	2985846017	NA	31
+7791541000006111	X-linked intellectual disability with acromegaly and hyperactivity syndrome	^ESCTXL779154		719826004	3318056019	NA	31
+7830651000006114	Congenital cataract with intellectual disability and hypogonadotropic hypogonadism syndrome	^ESCTCO783065		722380003	3331762018	NA	31
+3756831000006113	Borderline mental retardation	^ESCTBO375683		77287004	503503019	NA	31
+7959541000006113	MLCRD (microcephaly with or without chorioretinopathy, lymphedema or intellectual disability) syndrome	^ESCTML795954		733604003	3500041011	NA	31
+12022551000006110	Intellectual disability, hypotonia, facial dysmorphism syndrome	^ESCT1202255		764861005	3655431013	NA	31
+7850391000006112	Retinitis pigmentosa, deafness, mental retardation, hypogonadism syndrome	^ESCTRE785039		724001005	3481805014	NA	31
+3756861000006116	Borderline mental retardation (Intelligence Quotient 70-85)	^ESCTBO375686		77287004	2974923016	NA	31
+2730391000000116	Mild intellectual development disorder without significant impairment of behaviour	^ESCT1171812		1089831000000105	2730391000000116	NA	31
+2740481000000110	Mental retardation without significant impairment of behaviour	^ESCT1172260		1094001000000106	2740481000000110	NA	31
+7782161000006110	X-linked intellectual disability with cerebellar hypoplasia syndrome	^ESCTXL778216		719136005	3315132015	NA	31
+7882151000006111	X-linked intellectual disability, nail dystrophy, seizures syndrome	^ESCTXL788215		726732002	3452278010	NA	31
+7742291000006117	Hypospadias and intellectual disability syndrome Goldblatt type	^ESCTHY774229		716096005	3304716014	NA	31
+7780891000006111	Osteopoikilosis with short stature and intellectual disability syndrome	^ESCTOS778089		719046005	3314799013	NA	31
+7778221000006116	X-linked intellectual disability with ataxia and apraxia syndrome	^ESCTXL777822		718845002	3314059017	NA	31
+7733041000006111	Distal osteolysis, short stature and intellectual disability	^ESCTDI773304		715487005	3302795013	NA	31
+7779241000006118	X-linked intellectual disability Stocco Dos Santos type	^ESCTXL777924		718910006	3314384010	NA	31
+7804811000006112	Ataxia with deafness and intellectual disability syndrome	^ESCTAT780481		720517001	3321105017	NA	31
+7810301000006112	Alopecia, psychomotor epilepsy, periodontal pyorrhea, intellectual disability syndrome	^ESCTAL781030		720980004	3331041011	NA	31
+7828621000006116	Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome	^ESCTSP782862		722209002	3331164011	NA	31
+2740301000000110	Profound mental retardation with minimal impairment of behaviour	^ESCT1171793		1089721000000101	2740301000000110	NA	31
+7745751000006114	Intellectual disability and short stature with hand contracture and genital anomaly syndrome	^ESCTIN774575		716334004	3302592013	NA	31
+7844761000006113	Corneal anaesthesia, deafness, intellectual disability syndrome	^ESCTCO784476		723504000	3424867012	NA	31
+7764831000006116	X-linked mental retardation Reish type	^ESCTXL776483		717945001	3324426012	NA	31
+7780361000006112	X-linked intellectual disability Pai type	^ESCTXL778036		719011002	3314662015	NA	31
+12368911000006112	X-linked intellectual disability, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome	^ESCT1236891		722037004	3643161017	NA	31
+7810271000006110	ACD (alopecia, contracture, dwarfism) mental retardation syndrome	^ESCTAC781027		720979002	3322756018	NA	31
+12002931000006116	Cerebellar ataxia, intellectual disability, oculomotor apraxia, cerebellar cysts syndrome	^ESCT1200293		763344007	3638624010	NA	31
+12000381000006120	Charcot-Marie-Tooth disease, deafness, intellectual disability syndrome	^ESCT1200038		763136000	3637979015	NA	31
+1129811000000119	Moderate learning disability	Eu814	Eu81400	984671000000103	2504061000000114	NA	32
+1550051000000113	Profound learning disability	Eu817	Eu81700	984681000000101	2504081000000117	NA	32
+398391000006116	Mild intellectual disability	Eu70z	Eu70z00	86765009	3643513017	NA	32
+423501000006112	Profound intellectual disability	Eu73	Eu73.00	31216003	3643527010	NA	32
+426591000006111	Severe intellectual disability	Eu72	Eu72.00	40700009	3643515012	NA	32
+1887331000006119	Specific learning disability	Eu818	Eu81800	889211000000104	2290291000000110	NA	32
+2730211000000115	Severe intellectual development disorder without significant impairment of behaviour	^ESCT1171796		1089741000000108	2730211000000115	NA	31
+7779041000006111	X-linked intellectual disability Seemanova type	^ESCTXL777904		718897009	3314343012	NA	31
+7764821000006119	Brain anomaly, severe mental retardation, ectodermal dysplasia, skeletal deformity, ear anomaly, kidney dysplasia syndrome	^ESCTBR776482		717945001	3324423016	NA	31
+7791291000006117	X-linked intellectual disability with plagiocephaly syndrome	^ESCTXL779129		719812008	3317998016	NA	31
+2740551000000117	Intellectual development disorder with minimal impairment of behaviour	^ESCT1172263		1094021000000102	2740551000000117	NA	31
+8461341000006115	Enhanced/Intensive Support for learning disability	^ESCTEN846134		1084471000000108	2717411000000111	NA	31
+7830611000006113	Congenital cataract with hypertrichosis and intellectual disability syndrome	^ESCTCO783061		722379001	3331756011	NA	31
+7828691000006119	Severe X-linked intellectual disability Gustavson type	^ESCTSE782869		722213009	3331175010	NA	31
+2740421000000114	Mild mental retardation without significant impairment of behaviour	^ESCT1171813		1089831000000105	2740421000000114	NA	31
+7806471000006114	Coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability ear anomaly syndrome	^ESCTCO780647		720639008	3321629011	NA	31
+7730711000006119	Alpha thalassemia X-linked intellectual deficit	^ESCTAL773071		715342005	3302292012	NA	31
+12024021000006116	Intellectual disability, myopathy, short stature, endocrine defect syndrome	^ESCT1202402		764959000	3655776012	NA	31
+7843171000006116	Hypotrichosis and intellectual disability syndrome Lopes type	^ESCTHY784317		723365002	3424254016	NA	31
+7844751000006111	Corneal anesthesia, deafness, intellectual disability syndrome	^ESCTCO784475		723504000	3424866015	NA	31
+5606361000006119	Alpha thalassemia-mental retardation syndrome	^ESCTAL560636		277918006	414661015	NA	31
+12079711000006114	Tall stature, intellectual disability, facial dysmorphism syndrome	^ESCT1207971		768843007	3687214012	NA	31
+7780371000006117	X-linked intellectual disability Miles Carpenter type	^ESCTXL778037		719012009	3314665018	NA	31
+2740351000000111	Severe mental retardation with significant impairment of behaviour	^ESCT1171799		1089751000000106	2740351000000111	NA	31
+7791811000006114	Ulna hypoplasia with intellectual disability syndrome	^ESCTUL779181		719842006	3318130012	NA	31
+12616911000006116	Germline WGS (whole genome sequencing) targeting intellectual disability panel	^ESCT1261691		62961000000104	1088621000000117	NA	31
+2740491000000112	Intellectual development disorder without significant impairment of behaviour	^ESCT1172259		1094001000000106	2740491000000112	NA	31
+7779291000006110	X-linked intellectual disability Van Esch type	^ESCTXL777929		718914002	3314403018	NA	31
+7782201000006116	X-linked intellectual disability with cubitus valgus and dysmorphism syndrome	^ESCTXL778220		719138006	3315140014	NA	31
+7741171000006119	Goniodysgenesis with intellectual disability and short stature syndrome	^ESCTGO774117		716024001	3304471014	NA	31
+7730721000006110	Alpha thalassaemia X-linked intellectual deficit	^ESCTAL773072		715342005	3302293019	NA	31
+7827481000006119	Osteopenia, myopia, hearing loss, intellectual disability, facial dysmorphism syndrome	^ESCTOS782748		722111004	3330736016	NA	31
+7782241000006119	X-linked intellectual disability with dysmorphism and cerebral atrophy syndrome	^ESCTXL778224		719140001	3315147012	NA	31
+7865921000006113	Severe intellectual disability, hypoplasia of thumb and hallux syndrome	^ESCTSE786592		725140007	3439394013	NA	31
+7951691000006118	Osteopenia, intellectual disability, sparse hair syndrome	^ESCTOS795169		732954002	3498436017	NA	31
+3505255014	Alpha thalassaemia intellectual disability syndrome, deletion type	^ESCT1164324		734349003	3505255014	NA	31
+8191411000006110	[X]Severe learning disability	^ESCTXS819141		508171000000105	1129781000000117	NA	32
+3003321000006115	Profound learning disability with intelligence quotient less than 20	^ESCTPR300332		31216003	536901000000113	NA	32
+1932101000006114	3D study - problems with learning disability management	EMISNQ3D14		1932101000006105	1932101000006114	NA	37
+1823961000006113	Learning disability confirmed	EMISNQLE13		1823961000006109	1823961000006113	NA	27
+1840531000006119	Special educ need-complex learning difficulties and disabilities	EMISNQSP30		1840531000006103	1840531000006119	NA	17
+7735011000006111	Mental retardation, truncal obesity, retinal dystrophy and micropenis syndrome	^ESCTME773501		715628009	3303223018	NA	31
+1009521000006116	Cause of learning disabilities	EMISNQCA41		1009521000006100	1009521000006116	NA	37
+1009541000006111	Cause of learning disabilities: Tuberous sclerosis	EMISNQCA43		1009541000006107	1009541000006111	NA	37
+1009561000006110	Cause of learning disabilities: Meningitis/encephalitis	EMISNQCA45		1009561000006106	1009561000006110	NA	37
+1009671000006116	Cause of learning disablts: Unknown/awaiting investigation	EMISNQCA56		1009671000006100	1009671000006116	NA	37
+882781000006116	Moderate mental retardation	E310-99	E310.99	61152003	882781000006116	NA	32
+12368901000006112	Intellectual disability, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome	^ESCT1236890		722037004	3643128012	NA	31
+2740521000000110	Intellectual development disorder with significant impairment of behaviour	^ESCT1172261		1094011000000108	2740521000000110	NA	31
+7958321000006118	Hypo-and hypermelanotic cutaneous macules, retarded growth, intellectual disability syndrome	^ESCTHY795832		733469003	3499497017	NA	31
+7857971000006113	Intellectual developmental disorder due to nutritional deficiency	^ESCTIN785797		724564005	3441451015	NA	31
+7780341000006113	X-linked intellectual disability Wilson type	^ESCTXL778034		719009006	3314656013	NA	31
+7842791000006113	Fallot complex with intellectual disability and growth delay syndrome	^ESCTFA784279		723336008	3425870019	NA	31
+7728681000006119	Wilms tumor, aniridia, genitourinary anomalies and mental retardation syndrome	^ESCTWI772868		715215007	3301888010	NA	31
+7938121000006116	Cortical blindness, intellectual disability, polydactyly syndrome	^ESCTCO793812		732251003	3464790011	NA	31
+3464611000006113	Ehlers-Danlos syndrome, mental retardation type	^ESCTEH346461		59399004	98663017	NA	31
+7831931000006118	Intellectual disability, developmental delay, contracture syndrome	^ESCTIN783193		722456001	3332213016	NA	31
+12031251000006116	HIVEP2-related intellectual disability	^ESCT1203125		765434008	3658495017	NA	31
+2730311000000113	Moderate intellectual development disorder with significant impairment of behaviour	^ESCT1171806		1089791000000103	2730311000000113	NA	31
+7782551000006115	Syndromic X-linked intellectual disability type 7	^ESCTSY778255		719160009	3315207010	NA	31
+7824221000006111	Hypogonadism with mitral valve prolapse and intellectual disability syndrome	^ESCTHY782422		721841001	3326222014	NA	31
+12009531000006118	Intellectual disability, polydactyly, uncombable hair syndrome	^ESCT1200953		763742008	3643595011	NA	31
+7558741000006117	X-linked intellectual deficit, South African type	^ESCTXL755874		702354007	2995873019	NA	31
+7560041000006112	X-linked intellectual deficit-dystonia-dysarthria syndrome	^ESCTXL756004		702412005	2995685013	NA	31
+7780421000006112	X-linked intellectual disability Armfield type	^ESCTXL778042		719017003	3314682016	NA	31
+7779031000006118	X-linked recessive intellectual disability and macrocephaly with ciliary dysfunction syndrome	^ESCTXL777903		718896000	3314340010	NA	31
+12358681000006116	Partington X-linked intellectual disability syndrome	^ESCT1235868		702412005	3643144015	NA	31
+7740741000006119	Congenital cataract with intellectual disability and anal atresia and urinary defect syndrome	^ESCTCO774074		715989002	3304345014	NA	31
+7825831000006111	Lipodystrophy, intellectual disability, deafness syndrome	^ESCTLI782583		721973006	3327891013	NA	31
+7779171000006119	X-linked intellectual disability Shrimpton type	^ESCTXL777917		718905007	3313636016	NA	31
+7782511000006116	X-linked intellectual disability and hypotonia with facial dysmorphism and aggressive behavior syndrome	^ESCTXL778251		719157002	3315195015	NA	31
+7780801000006116	Uveal coloboma with cleft lip and palate and intellectual disability syndrome	^ESCTUV778080		719042007	3314771016	NA	31
+3505252012	Alpha-thalassaemia intellectual disability syndrome linked to chromosome 16	^ESCT1164321		734349003	3505252012	NA	31
+7791241000006114	X-linked intellectual disability with precocious puberty and obesity syndrome	^ESCTXL779124		719809005	3317987017	NA	31
+3505254013	Alpha thalassemia intellectual disability syndrome, deletion type	^ESCT1164325		734349003	3505254013	NA	31
+7811781000006114	X-linked deafness and intellectual disability syndrome	^ESCTXL781178		721087008	3323442014	NA	31
+12000401000006120	Hereditary motor and sensory neuropathy with deafness, intellectual disability and absent sensory large myelinated fibres	^ESCT1200040		763136000	3637981018	NA	31
+2528351000006115	General learning disability	^ESCTGE252835		1855002	478662017	NA	32
+12190781000006112	Moderate intellectual development disorder	^ESCT1219078		61152003	3654216012	NA	32
+7803961000006117	Aniridia and intellectual disability syndrome	^ESCTAN780396		720468000	3320943011	NA	31
+7780351000006110	X-linked intellectual disability Schimke type	^ESCTXL778035		719010001	3314659018	NA	31
+7560051000006114	Partington x-linked mental retardation syndrome	^ESCTPA756005		702412005	3009033010	NA	31
+7827461000006112	Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome	^ESCTOS782746		722110003	3330732019	NA	31
+423361000006118	[X]Prfnd mental retardation without mention impairment behav	Eu73z	Eu73z00	31216003	52225019	NA	32
+423511000006110	[X]Profound mental retardation, other impairments of behavr	Eu73y	Eu73y00	31216003	52225019	NA	32
+3155191000006118	Severe learning disability, intelligence quotient in range 20-34	^ESCTSE315519		40700009	536891000000112	NA	32
+3155181000006116	Severe mental retardation (Intelligence Quotient 20-34)	^ESCTSE315518		40700009	2975060010	NA	32
+8337561000006119	Significant learning disability	^ESCTSI833756		931001000000105	2385981000000116	NA	32
+7782561000006118	X-linked intellectual disability Ahmad type	^ESCTXL778256		719160009	3315208017	NA	31
+1009551000006113	Cause of learning disabilities: Birth trauma	EMISNQCA44		1009551000006109	1009551000006113	NA	37
+1009581000006117	Cause of learning disabilities: Late effect of head injury	EMISNQCA47		1009581000006101	1009581000006117	NA	37
+1009611000006113	Cause of learning disabilities: Microcephaly	EMISNQCA50		1009611000006109	1009611000006113	NA	37
+1009641000006112	Cause of learning disabilities: Smith-Magenis syndrome	EMISNQCA53		1009641000006108	1009641000006112	NA	37
+1009661000006111	Cause of learning disabilities: Congenital rubella	EMISNQCA55		1009661000006107	1009661000006111	NA	37
+1009681000006118	Cause of learning disabilities: Unknown/despite investigation	EMISNQCA57		1009681000006102	1009681000006118	NA	37
+1009801000006111	Level of support for person with adult learning disablts. (ALD)	EMISNQLE2		1009801000006107	1009801000006111	NA	32
+908941000006118	[RFC] Learning disability	HNG0625		908941000006102	908941000006118	NA	12
+189601000000111	Learning disabilities administration status	9HB	9HB..00	112851000000104	189601000000111	NA	37
+507246016	Mild mental retardation, IQ in range 50-70	E30	E30..00	86765009	507246016	NA	32
+3003341000006110	Profound learning disability, intelligence quotient less than 20	^ESCTPR300334		31216003	556521000000113	NA	32
+7574901000006110	CASK related intellectual disability	^ESCTCA757490		703389002	3008534018	NA	31
+3523881000006115	Congenital insensitivity to pain, anhidrosis and mental retardation	^ESCTCO352388		62985007	1232408016	NA	31
+5606351000006116	Alpha thalassaemia-mental retardation syndrome	^ESCTAL560635		277918006	414660019	NA	31
+7574931000006119	X-linked intellectual deficit, Najm type	^ESCTXL757493		703389002	3008535017	NA	31
+7810281000006113	Alopecia, psychomotor epilepsy, periodontal pyorrhoea, intellectual disability syndrome	^ESCTAL781028		720980004	3332246010	NA	31
+7558821000006117	Brachydactyly mental retardation syndrome	^ESCTBR755882		702357000	2995577012	NA	31
+7850381000006114	Retinitis pigmentosa, intellectual disability, deafness, hypogenitalism syndrome	^ESCTRE785038		724001005	3481804013	NA	31
+7806011000006113	Craniosynostosis with congenital heart disease and intellectual disability syndrome	^ESCTCR780601		720606005	3321522012	NA	31
+12617221000006116	Intellectual disability germline WGS (whole genome sequencing) using microarray, fragile X and sequencing targeting intellectual disability panel	^ESCT1261722		63291000000108	1089271000000112	NA	31
+7846651000006111	Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome	^ESCTSE784665		723676007	3425524017	NA	31
+12026121000006112	Focal epilepsy, intellectual disability, dysarthria, ataxia syndrome	^ESCT1202612		765089003	3656368017	NA	31
+1550041000000110	Mild learning disability	Eu816	Eu81600	984661000000105	2504041000000113	NA	32
+7520441000006113	Facial dysmorphism, intellectual deficit, short stature and hearing loss	^ESCTFA752044		699316006	2983758013	NA	31
+8333361000006115	Learning disability microarray comprehensive genetic test	^ESCTLE833336		925021000000101	2372291000000110	NA	31
+7559961000006113	Iris coloboma with ptosis, hypertelorism, and mental retardation	^ESCTIR755996		702410002	2995644015	NA	31
+7782591000006114	Syndromic X-linked intellectual disability due to JARID1C (jumonji at-rich interactive domain 1c) mutation	^ESCTSY778259		719161008	3315213018	NA	31
+7953651000006113	Ichthyosis, intellectual disability, dwarfism, renal impairment syndrome	^ESCTIC795365		733097003	3498749014	NA	31
+12031521000006112	X-linked intellectual disability, hypogonadism, ichthyosis, obesity, short stature syndrome	^ESCT1203152		765471005	3659532013	NA	31
+7777561000006111	Spondyloepiphyseal dysplasia, craniosynostosis, cleft palate, cataract and intellectual disability syndrome	^ESCTSP777756		718766002	3313787010	NA	31
+7804551000006111	Arachnodactyly and intellectual disability with facial dysmorphism syndrome	^ESCTAR780455		720502000	3321049018	NA	31
+12011241000006112	Pachygyria, intellectual disability, epilepsy syndrome	^ESCT1201124		763861000	3644781017	NA	31
+2730431000000112	Mild intellectual development disorder with minimal impairment of behaviour	^ESCT1171816		1089851000000103	2730431000000112	NA	31
+2740281000000114	Profound mental retardation without impairment of behaviour	^ESCT1171789		1089701000000105	2740281000000114	NA	31
+8195041000006117	Cause of learning disability	^ESCTCA819504		518831000000103	1158501000000112	NA	31
+7786171000006116	Microcephalus and intellectual disability with phalangeal and neurological anomaly syndrome	^ESCTMI778617		719396000	3316197016	NA	31
+7850201000006113	Seizures and intellectual disability due to hydroxylysinuria syndrome	^ESCTSE785020		723994004	3428357017	NA	31
+7832211000006114	Skeletal dysplasia with intellectual disability syndrome	^ESCTSK783221		722478008	3332330016	NA	31
+3462461000006115	Cutis laxa, corneal clouding AND mental retardation	^ESCTCU346246		59252009	98436013	NA	31
+7750911000006117	Female restricted epilepsy with intellectual disability syndrome	^ESCTFE775091		716706009	3307271017	NA	31
+7831891000006110	Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome	^ESCTIN783189		722454003	3332205017	NA	31
+2730171000000118	Profound intellectual development disorder with minimal impairment of behaviour	^ESCT1171792		1089721000000101	2730171000000118	NA	31
+398781000006115	[X]Mod mental retardation without mention impairment behav	Eu71z	Eu71z00	61152003	3643518014	NA	32
+426541000006119	[X]Sev mental retardation without mention impairment behav	Eu72z	Eu72z00	40700009	3643515012	NA	32
+12190771000006114	Moderate intellectual disability	^ESCT1219077		61152003	12190771000006114	NA	32
+12703941000006116	Severe mental retardation (I.Q. 20-34)	^ESCT1270394		40700009	67882016	NA	32
+12728531000006116	Other specified mental retardation NOS	^ESCT1272853		686511000000102	1503131000000119	NA	31
+12337641000006112	X-linked intellectual disability with marfanoid habitus	^ESCT1233764		422437002	3643151012	NA	32
+3493671000006116	Moderate learning impairment, intelligence quotient in range 35-49	^ESCTMO349367		61152003	552551000000116	NA	32
+12177541000006120	Profound intellectual development disorder	^ESCT1217754		31216003	3654215011	NA	32
+3155201000006115	Severe learning impairment, intelligence quotient in range 20-34	^ESCTSE315520		40700009	552561000000118	NA	32
+3910941000006112	Mild learning impairment, intelligence quotient in range 50-70	^ESCTMI391094		86765009	552541000000119	NA	32
+4976471000006117	Intellectual disability	^ESCTIN497647		228156007	1222972015	NA	17
+3910931000006119	Mild learning disability, intelligence quotient in range 50-70	^ESCTMI391093		86765009	536871000000113	NA	32
+3493651000006114	Moderate mental retardation (Intelligence Quotient 35-49)	^ESCTMO349365		61152003	2981606015	NA	32
+151009017	Mental retardation	E3	E3...00	110359009	3643707012	NA	32
+296586012	[X]Other mental retardation	Eu7y	Eu7y.00	110359009	175156010	NA	32
+906941000006119	[RFC] Learning disabilities	HNG0150		906941000006103	906941000006119	NA	12
+7959531000006115	MLCRD (microcephaly with or without chorioretinopathy, lymphoedema or intellectual disability) syndrome	^ESCTML795953		733604003	3500040012	NA	31
+12000391000006116	Hereditary motor and sensory neuropathy with deafness, intellectual disability and absent sensory large myelinated fibers	^ESCT1200039		763136000	3637980017	NA	31
+7560121000006116	Snyder-Robinson x-linked mental retardation syndrome	^ESCTSN756012		702416008	2995857013	NA	31
+7728691000006116	WAGR (Wilms tumor, aniridia, genitourinary anomalies and mental retardation) syndrome	^ESCTWA772869		715215007	3301889019	NA	31
+12007841000006118	Aortic arch anomaly, facial dysmorphism, intellectual disability syndrome	^ESCT1200784		763615003	3643032015	NA	31
+7953531000006117	Microcephalus, digital anomaly, intellectual disability syndrome	^ESCTMI795353		733090001	3498728013	NA	31
+7804531000006116	Arachnodactyly with abnormal ossification and intellectual disability syndrome	^ESCTAR780453		720501007	3321045012	NA	31
+7881911000006118	Intellectual disability, cataract, calcified pinna, myopathy syndrome	^ESCTIN788191		726709001	3451972017	NA	31
+7812791000006119	Ectodermal dysplasia with skin anomaly and intellectual disability	^ESCTEC781279		721147000	3323705015	NA	31
+7845931000006115	Spastic quadriplegia, retinitis pigmentosa, intellectual disability syndrome	^ESCTSP784593		723621000	3425298014	NA	31
+1129781000000117	Severe learning disability	Eu815	Eu81500	508171000000105	1129801000000116	NA	32
+7831901000006114	Mental retardation syndrome Belgian type	^ESCTME783190		722454003	3332207013	NA	31
+3047011000006110	Hyperphosphatasaemia with mental retardation	^ESCTHY304701		33982008	485701012	NA	31
+12197941000006116	Borderline intellectual development disorder	^ESCT1219794		77287004	3654218013	NA	31
+7810451000006116	Aniridia, ptosis, intellectual disability, familial obesity syndrome	^ESCTAN781045		720987001	3322794018	NA	31
+7558791000006114	X-linked mental retardation, syndromic 13	^ESCTXL755879		702356009	2995223012	NA	31
+12008051000006112	Intellectual disability due to nutritional deficiency	^ESCT1200805		763626009	3643081018	NA	31
+7876361000006116	CAMOS (cerebellar ataxia, mental retardation, optic atrophy, skin abnormalities) syndrome	^ESCTCA787636		726031001	3447605017	NA	31
+7786891000006113	Disorder of sex development with intellectual disability syndrome	^ESCTDI778689		719450007	3316400017	NA	31
+2740391000000115	Moderate mental retardation with significant impairment of behaviour	^ESCT1171807		1089791000000103	2740391000000115	NA	31
+7953461000006113	Absent eyebrows and eyelashes with intellectual disability syndrome	^ESCTAB795346		733086003	3498718016	NA	31
+7811821000006115	Dentinogenesis imperfecta, short stature, hearing loss, intellectual disability syndrome	^ESCTDE781182		721089006	3323450017	NA	31
+7750941000006118	Intellectual disability associated with fragile site FRAXE	^ESCTIN775094		716709002	3307281018	NA	31
+7783991000006114	Pterygium colli with intellectual disability and digital anomaly syndrome	^ESCTPT778399		719256004	3315705018	NA	31
+7951861000006110	Branchial dysplasia, intellectual disability, inguinal hernia syndrome	^ESCTBR795186		732961003	3498460018	NA	31
+7742511000006112	Early onset parkinsonism and intellectual disability syndrome	^ESCTEA774251		716107009	3304758012	NA	31
+7782471000006114	X-linked intellectual disability and epilepsy with progressive joint contracture and facial dysmorphism syndrome	^ESCTXL778247		719155005	3315198018	NA	31
+7782571000006113	Syndromic X-linked intellectual disability due to JARID1C mutation	^ESCTSY778257		719161008	3315212011	NA	31
+7829441000006119	Agenesis of corpus callosum, intellectual disability, coloboma, micrognathia syndrome	^ESCTAG782944		722282008	3331425019	NA	31
+7730691000006117	Alpha thalassaemia X-linked intellectual disability syndrome	^ESCTAL773069		715342005	3302291017	NA	31
+8337571000006114	Significant intellectual development disorder	^ESCTSI833757		931001000000105	2714221000000114	NA	31
+12321891000006112	Intellectual disability, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth	^ESCT1232189		412787009	3643126011	NA	32
+7782221000006114	X-linked Dandy-Walker malformation with intellectual disability, basal ganglia disease and seizure syndrome	^ESCTXL778222		719139003	3315143011	NA	31
+12181611000006116	Severe intellectual disability	^ESCT1218161		40700009	12181611000006116	NA	32
+12177531000006112	Profound intellectual disability	^ESCT1217753		31216003	12177531000006112	NA	32
+12703781000006112	Mild mental retardation (I.Q. 50-70)	^ESCT1270378		86765009	143892017	NA	32
+12487771000006110	Mental retardation NOS	^ESCT1248777		91138005	705681000006119	NA	31
+12202451000006112	Mild intellectual development disorder	^ESCT1220245		86765009	3654174011	NA	32
+12359021000006116	Lubs X-linked intellectual disability syndrome	^ESCT1235902		702816000	3643143014	NA	32
+3910951000006114	Mild learning disability	^ESCTMI391095		86765009	1666311000000112	NA	32
+9881000006115	Other specified mental retardation	E31	E31..00	110359009	175156010	NA	32
+411791000006118	[X]Other mental retardation without mention impairment behav	Eu7yz	Eu7yz00	110359009	175156010	NA	32
+2435151000000112	Intellectual development disorder of unknown aetiology	13VC9	13VC900	954731000000103	2435151000000112	NA	17
+1856981000006110	Learning disability follow-up	EMISNQLE20		1856981000006106	1856981000006110	NA	40
+1872721000006112	Special education needs - specific learning disability	EMISNQSP33		1872721000006108	1872721000006112	NA	37
+295664013	Intellectual disability	E3z	E3z..00	110359009	175156010	NA	32
+751221000000117	Examination of learning disabled patient	69DB	69DB.00	442127005	2819976014	NA	1
+968201000006114	Mental retardation, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth	PKyG	PKyG.00	412787009	2474343011	NA	32
+1009621000006117	Cause of learning disabilities: Phenylketonuria	EMISNQCA51		1009621000006101	1009621000006117	NA	37
+882771000006119	Mild mental retardation	E30-99	E30..99	86765009	882771000006119	NA	32
+2730151000000110	Profound intellectual development disorder with significant impairment of behaviour	^ESCT1171790		1089711000000107	2730151000000110	NA	31
+7958311000006114	Hereditary congenital hypomelanotic and hypermelanotic cutaneous macules, growth retardation, intellectual disability syndrome	^ESCTHE795831		733469003	3499496014	NA	31
+7728701000006116	WAGR (Wilms tumour, aniridia, genitourinary anomalies and mental retardation) syndrome	^ESCTWA772870		715215007	3301891010	NA	31
+7876371000006111	Cerebellar ataxia, intellectual disability, optic atrophy, skin abnormalities syndrome	^ESCTCE787637		726031001	3447606016	NA	31
+2740341000000113	Severe mental retardation without significant impairment of behaviour	^ESCT1171797		1089741000000108	2740341000000113	NA	31
+7791271000006118	X-linked intellectual disability Cabezas type	^ESCTXL779127		719811001	3317994019	NA	31
+7733121000006115	Spastic paraplegia, intellectual disability and thin corpus callosum	^ESCTSP773312		715491000	3302807017	NA	31
+7780411000006116	X-linked intellectual disability Cantagrel type	^ESCTXL778041		719016007	3314678018	NA	31
+12009581000006116	Intellectual disability Wolff type	^ESCT1200958		763745005	3643606013	NA	31
+2740441000000119	Mild mental retardation with minimal impairment of behaviour	^ESCT1171817		1089851000000103	2740441000000119	NA	31
+7574921000006117	Calcium/calmodulin-dependent serine protein kinase related intellectual disability	^ESCTCA757492		703389002	3008495017	NA	31
+7742591000006119	Microcephaly with deafness and intellectual disability syndrome	^ESCTMI774259		716112005	3304776017	NA	31
+7831911000006112	Intellectual disability, hypoplastic corpus callosum, preauricular tag syndrome	^ESCTIN783191		722455002	3332209011	NA	31
+7882141000006114	X-linked intellectual disability Nascimento type	^ESCTXL788214		726732002	3452277017	NA	31
+7730701000006117	Alpha thalassemia X-linked intellectual disability syndrome	^ESCTAL773070		715342005	3302290016	NA	31
+7574911000006113	CASK - Calcium/calmodulin-dependent serine protein kinase related intellectual disability	^ESCTCA757491		703389002	3008416015	NA	31
+8313061000006110	Learning disability service	^ESCTLE831306		892581000000104	2298231000000111	NA	31
+2740571000000114	Mental retardation with impairment of behaviour	^ESCT1172266		1094031000000100	2740571000000114	NA	31
+12004001000006116	Ichthyosis, alopecia, eclabion, ectropion, intellectual disability syndrome	^ESCT1200400		763404001	3639338017	NA	31
+12031271000006114	HIVEP2 (human immunodeficiency virus type I enhancer binding protein 2) related intellectual disability	^ESCT1203127		765434008	3658496016	NA	31
+7812761000006110	Intellectual disability, epilepsy, bulbous nose syndrome	^ESCTIN781276		721146009	3323700013	NA	31
+7560131000006118	Mental retardation, x-linked, Snyder-Robinson type	^ESCTME756013		702416008	3009072014	NA	31
+2740431000000111	Mild mental retardation with significant impairment of behaviour	^ESCT1171815		1089841000000101	2740431000000111	NA	31
+8333341000006119	Learning disability microarray targeted genetic test	^ESCTLE833334		925011000000107	2372271000000111	NA	31
+2730371000000115	Moderate intellectual development disorder with impairment of behaviour	^ESCT1171810		1089821000000108	2730371000000115	NA	31
+12358661000006114	X-linked intellectual disability-psychosis-macroorchidism syndrome	^ESCT1235866		702356009	3643100018	NA	31
+2740581000000111	Intellectual development disorder with impairment of behaviour	^ESCT1172265		1094031000000100	2740581000000111	NA	31
+3505251017	Alpha-thalassemia intellectual disability syndrome linked to chromosome 16	^ESCT1164322		734349003	3505251017	NA	31
+7735021000006115	MORM (mental retardation, truncal obesity, retinal dystrophy, micropenis) syndrome	^ESCTMO773502		715628009	3305363018	NA	31
+7864361000006119	Scaphocephaly, macrocephaly, maxillary retrusion, intellectual disability syndrome	^ESCTSC786436		725030006	3437061013	NA	31
+7780381000006119	X-linked intellectual disability Miles-Carpenter type	^ESCTXL778038		719012009	3314667014	NA	31
+7853111000006110	Choroid plexus calcification and mental retardation	^ESCTCH785311		724228005	3432898015	NA	31
+2730271000000113	Severe intellectual development disorder with impairment of behaviour	^ESCT1171802		1089771000000102	2730271000000113	NA	31
+2740381000000117	Moderate mental retardation without significant impairment of behaviour	^ESCT1171805		1089781000000100	2740381000000117	NA	31
+2740361000000114	Severe mental retardation with minimal impairment of behaviour	^ESCT1171801		1089761000000109	2740361000000114	NA	31
+7779091000006119	Syndromic X-linked intellectual disability type 11	^ESCTSY777909		718900002	3314352015	NA	31
+7957711000006111	Metaphyseal dysostosis, intellectual disability, conductive deafness syndrome	^ESCTME795771		733419006	3499401012	NA	31
+7786181000006118	Microcephaly and intellectual disability with phalangeal and neurological anomaly syndrome	^ESCTMI778618		719396000	3316203018	NA	31
+7810701000006113	Hair defect with photosensitivity and intellectual disability syndrome	^ESCTHA781070		721007005	3330083013	NA	31
+7804941000006118	Limb girdle muscular dystrophy with intellectual disability syndrome	^ESCTLI780494		720523006	3321130019	NA	31
+7806491000006110	CHIME (coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability, ear anomaly) syndrome	^ESCTCH780649		720639008	3321631019	NA	31
+7774271000006110	X-linked intellectual disability Atkin type	^ESCTXL777427		718577005	3310203011	NA	31
+7938041000006112	X-linked intellectual disability, limb spasticity, retinal dystrophy, diabetes insipidus syndrome	^ESCTXL793804		732246009	3464527017	NA	31
+7813691000006118	Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome	^ESCTSE781369		721207002	3324614013	NA	31
+7810901000006111	Postaxial polydactyly and intellectual disability syndrome	^ESCTPO781090		721017000	3323061018	NA	31
+6762801000006118	Learning disability	^ESCTLE676280		408468001	2163986010	NA	31
+2730131000000115	Profound intellectual development disorder without impairment of behaviour	^ESCT1171788		1089701000000105	2730131000000115	NA	31
+3756851000006118	Borderline intellectual functioning	^ESCTBO375685		77287004	2951872010	NA	31
+12077271000006118	PPP2R5D-related intellectual disability	^ESCT1207727		768677000	3686455015	NA	31
+12009551000006112	Intellectual disability, spasticity, ectrodactyly syndrome	^ESCT1200955		763743003	3643600019	NA	31
+2740451000000116	Mild mental retardation with impairment of behaviour	^ESCT1172258		1093991000000101	2740451000000116	NA	31
+700071000006118	Moderate mental retardation, IQ in range 35-49	E310	E310.00	61152003	3643518014	NA	32
+3003361000006114	Profound learning disability	^ESCTPR300336		31216003	1666271000000112	NA	32
+12197931000006114	Borderline intellectual disability	^ESCT1219793		77287004	3643525019	NA	31
+12359591000006114	Hirschsprung disease-intellectual disability syndrome	^ESCT1235959		703535000	3643142016	NA	32
+12031261000006120	Human immunodeficiency virus type I enhancer binding protein 2 related intellectual disability	^ESCT1203126		765434008	3658494018	NA	31
+295662012	Other specified mental retardation NOS	E31z	E31z.00	110359009	175156010	NA	32
+398381000006119	[X]Mild mental retardation	Eu70	Eu70.00	86765009	507246016	NA	32
+1821361000006110	Intellectual functioning disability	EMISNQIN133		228156007	1821361000006110	NA	17
+1009651000006114	Cause of learning disabilities: Rett syndrome	EMISNQCA54		1009651000006105	1009651000006114	NA	37
+342177013	Intellectual functioning disability	13VCA		228156007	342177013	NA	17
+251223010	Learning difficulties	13Z4E	13Z4E00	161129001	251223010	NA	17
+2740541000000115	Mental retardation with minimal impairment of behaviour	^ESCT1172264		1094021000000102	2740541000000115	NA	31
+12003071000006114	Autosomal recessive intellectual disability due to TRAPPC9 (trafficking protein particle complex 9) deficiency	^ESCT1200307		763350002	3638652018	NA	31
+2740401000000117	Moderate mental retardation with minimal impairment of behaviour	^ESCT1171809		1089811000000102	2740401000000117	NA	31
+12003061000006120	Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome	^ESCT1200306		763350002	3638651013	NA	31
+2740511000000116	Mental retardation with significant impairment of behaviour	^ESCT1172262		1094011000000108	2740511000000116	NA	31
+3756821000006110	Borderline learning disability	^ESCTBO375682		77287004	503502012	NA	31
+7826481000006116	MEDNIK (mental retardation, enteropathy, deafness, peripheral neuropathy, ichtyosis, keratodermia) syndrome	^ESCTME782648		722035007	3330263019	NA	31
+7855071000006118	Growth delay, deafness, intellectual disability syndrome	^ESCTGR785507		724385009	3481748010	NA	31
+7780401000006119	X-linked intellectual disability, microcephaly, testicular failure syndrome	^ESCTXL778040		719013004	3314670013	NA	31
+7683881000006112	Short stature-characteristic facies-mental retardation-macrodontia-skeletal anomalies syndrome	^ESCTSH768388		711156009	3047531014	NA	31
+7810311000006110	Alopecia and intellectual disability with hypergonadotropic hypogonadism syndrome	^ESCTAL781031		720981000	3322770018	NA	31
+7842381000006111	Microcephaly, seizure, intellectual disability, heart disease syndrome	^ESCTMI784238		723304001	3423989018	NA	31
+7810331000006116	Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome	^ESCTAL781033		720982007	3322765013	NA	31
+7830631000006119	CAHMR (cataract, hypertrichosis, mental retardation) syndrome	^ESCTCA783063		722379001	3331758012	NA	31
+7852451000006112	Laryngeal abductor paralysis with intellectual disability syndrome	^ESCTLA785245		724178000	3431567010	NA	31
+7780391000006116	X-linked intellectual disability Cilliers type	^ESCTXL778039		719013004	3314669012	NA	31
+7558781000006111	PPMX - Mental retardation with psychosis, pyramidal signs, and macroorchidism	^ESCTPP755878		702356009	2995082012	NA	31
+7826101000006119	Intellectual disability with cataract and kyphosis syndrome	^ESCTIN782610		722003007	3330098010	NA	31
+7758101000006119	X-linked epilepsy with learning disability and behavior disorder syndrome	^ESCTXL775810		717223008	3308720018	NA	31
+12359581000006112	Progressive epilepsy-intellectual disability syndrome Finnish type	^ESCT1235958		703526007	3643141011	NA	31
+12022561000006112	Birk Barel mental retardation dysmorphism syndrome	^ESCT1202256		764861005	3655434017	NA	31
+395061000006117	Learning disability	Eu81z-1	Eu81z11	1855002	478664016	NA	32
+398811000006118	Moderate intellectual disability	Eu71	Eu71.00	61152003	3643518014	NA	32
