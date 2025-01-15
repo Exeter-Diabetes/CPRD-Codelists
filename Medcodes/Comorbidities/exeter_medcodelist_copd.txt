@@ -1,198 +1,200 @@
-medcodeid	term_medcode
-3955621000006112	Catarrhal bronchitis
-508562012	Chronic catarrhal bronchitis
-301444018	Simple chronic bronchitis NOS
-508561017	Simple chronic bronchitis
-506053014	Purulent chronic bronchitis
-139979010	Fetid chronic bronchitis
-3873191000006110	Fetid chronic bronchitis
-123588010	Mucopurulent chronic bronchitis
-885281000006118	Mucopurulent chr. bronchitis
-301448015	Mucopurulent chronic bronchitis NOS
-285100019	Emphysematous bronchitis
-301455018	Obstructive chronic bronchitis NOS
-4733031000006114	Chronic obstructive bronchitis
-4733011000006115	COB - Chronic obstructive bronchitis
-4733021000006111	Obstructive chronic bronchitis
-4732991000006119	Chronic bronchitis with emphysema
-4733001000006118	Bronchitis with airway obstruction
-285104011	Obstructive chronic bronchitis
-553211000006119	Chron obstruct pulmonary dis wth acute exacerbation, unspec
-4781421000006111	Acute exacerbation of COPD
-4781431000006114	Acute exacerbation of chronic obstructive pulmonary disease
-301453013	Acute exacerbation of chronic obstructive airways disease
-301456017	Mixed simple and mucopurulent chronic bronchitis
-301458016	Other chronic bronchitis NOS
-301457014	Other chronic bronchitis
-301459012	Chronic bronchitis NOS
-105519017	Chronic bronchitis
-301463017	Segmental bullous emphysema
-301464011	Zonal bullous emphysema
-27096010	Giant bullous emphysema
-396108018	Bullous emphysema with collapse
-301460019	Chronic bullous emphysema
-301468014	Chronic bullous emphysema NOS
-4781461000006117	Emphysematous bulla
-4781471000006112	Bullous emphysema
-2578881000006118	Panacinar emphysema
-2578901000006116	Vesicular emphysema
-9337016	Panlobular emphysema
-2578911000006118	Alveolar emphysema of lung
-113497011	Centrilobular emphysema
-3611791000006110	Centriacinar emphysema
-301477019	Emphysema NOS
-301835010	[X]Other emphysema
-396110016	Other emphysema NOS
-640491000006111	Pulmonary emphysema
-3921361000006112	Emphysema of lung
-301469018	Other emphysema
-301470017	Acute vesicular emphysema
-396109014	Atrophic (senile) emphysema
-12704691000006117	Interstitial emphysema
-19421011	Interstitial pulmonary emphysema
-3764031000006119	Interstitial pulmonary emphysema
-3764021000006117	Interstitial emphysema of lung
-457581000006111	Acute interstitial emphysema
-475431013	Chronic obstructive pulmonary disease
-990651000006112	Chr. airway obstruction NOS
-2716351000006113	COLD - Chronic obstructive lung disease
-2716321000006116	COPD - Chronic obstructive pulmonary disease
-2716251000006119	Chronic irreversible airway obstruction
-2716301000006114	Chronic airflow limitation
-2716271000006112	CAFL - Chronic airflow limitation
-2716311000006112	CAL - Chronic airflow limitation
-301836011	[X]Other specified chronic obstructive pulmonary disease
-555471000006114	COAD - Chronic obstructive airways disease
-2716241000006116	Chronic airway obstruction
-1222334016	Other specified chronic obstructive pulmonary disease
-1222335015	Chronic obstructive pulmonary disease NOS
-301545019	Chronic obstructive airway disease
-2716291000006113	CAO - Chronic airflow obstruction
-2716231000006114	Chronic obstructive lung disease
-2716261000006117	Chronic airflow obstruction
-301539010	Other specified chronic obstructive airways disease
-990641000006110	Chronic obst. pulm. dis. NOS
-2716341000006111	Chronic airway disease
-555461000006119	Chronic obstructive pulmonary disease with acute lower respiratory infection
-4781821000006113	Chronic emphysema caused by chemical fumes
-301572010	Chronic emphysema due to chemical fumes
-405080018	H/O: chr.obstr. airway disease
-5516841000006119	History of chronic obstructive airway disease
-1765681000000110	History of chronic obstructive pulmonary disease
-183191000006115	Recurrent wheezy bronchitis
-301450011	Chronic asthmatic bronchitis
-301451010	Chronic wheezy bronchitis
-87480013	Chronic tracheobronchitis
-457168017	Mild chronic obstructive pulmonary disease
-457169013	Moderate chronic obstructive pulmonary disease
-457171013	Severe chronic obstructive pulmonary disease
-4510801000006114	End stage chronic obstructive pulmonary disease
-216596014	End stage chronic obstructive airways disease
-7049011000006110	Acute exacerbation of chronic bronchitis
-3304301000006112	Occupational bronchitis
-3304321000006119	Occupational chronic bronchitis
-3304311000006110	Industrial bronchitis
-5054281000006114	Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency
-5054271000006111	Pulmonary emphysema in alpha-1 PI deficiency
-5054291000006112	Toxic emphysema
-5054301000006113	Chemical emphysema
-5054311000006111	Scar emphysema
-12489801000006116	Admit COPD emergency
-6763231000006119	Emergency hospital admission for chronic obstructive pulmonary disease
-2160051010	Emergency hospital admission for chronic obstructive pulmonary disease
-6763251000006114	Emergency hospital admission for COPD (chronic obstructive pulmonary disease)
-977901000006111	Emergency chronic obstructive pulmonary disease admission since last appointment
-977911000006114	Number of chronic obstructive pulmonary disease exacerbations in past year
-9317331000006113	Asthma-COPD overlap syndrome (ACOS)
-1948051000006112	Asthma-chronic obstructive pulmonary disease overlap syndrome
-9317341000006115	ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome
-424365019	Acute infective exacerbation of chronic obstructive airways disease
-516801000000112	Very severe chronic obstructive pulmonary disease
-299001000000116	Chronic obstructive pulmonary disease disturbs sleep
-8058301000006110	COPD (chronic obstructive pulmonary disease) disturbs sleep
-8058321000006117	COPD (chronic obstructive pulmonary disease) does not disturb sleep
-299031000000110	Chronic obstructive pulmonary disease does not disturb sleep
-998281000006115	Multiple chronic obstructive pulmonary disease emergency hospital admissions
-8125721000006119	At risk of COPD (chronic obstructive pulmonary disease) exacerbation
-1699821000006113	At risk of chronic obstructive pulmonary disease exacerbation
-2010061000006113	Acute non-infective exacerbation of chronic obstructive pulmonary disease
-8287171000006115	Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)
-3575071000006113	Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors
-3575081000006111	Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors
-3575061000006118	Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours
-3575091000006114	Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours
-3948141000006117	Chronic allergic bronchitis
-4374681000006116	Chronic emphysema
-2767421000006111	Obstructive emphysema
-2778811000006114	Emphysematous bleb
-2975891000006117	Purulent bronchitis
-3013821000006114	Subpleural emphysema
-3013811000006118	Peripheral lobular emphysema
-3013801000006116	Paraseptal emphysema
-3437411000006113	Tension pneumatocele of lung
-3437401000006110	Emphysematous bleb of lung
-3487781000006118	Haemolytic anaemia with emphysema AND cutis laxa
-3487791000006115	Hemolytic anemia with emphysema AND cutis laxa
-3909511000006110	Ruptured emphysematous bleb of lung
-1484924013	Chronic obstructive pulmonary disease monitoring
-839001000006111	COPD self-management plan given
-1484971019	Chronic obstructive pulmonary disease monitoring due
-1494601017	COAD follow-up
-845451000006118	COPD follow-up
-1488423019	Chronic obstructive pulmonary disease follow-up
-1488424013	Chronic obstructive pulmonary disease annual review
-1780380013	Chronic obstructive pulmonary disease monitoring by nurse
-1780381012	Chronic obstructive pulmonary disease monitoring by doctor
-11927801000006117	Chronic obstructive pulmonary disease clinical management plan
-977891000006112	Chronic obstructive pulmonary disease accident and emergency attendance since last visit
-7258581000006114	Acute exacerbation of chronic asthmatic bronchitis
-11929131000006112	Clinical chronic obstructive pulmonary disease questionnaire
-7306151000006111	CCQ - Clinical COPD (chronic obstructive pulmonary disease) questionnaire
-7304221000006115	CCQ (clinical chronic obstructive pulmonary disease questionnaire) total score
-1161361000000118	Clinical chronic obstructive pulmonary disease questionnaire total score
-7304231000006117	Clinical COPD (chronic obstructive pulmonary disease) questionnaire total score
-7304211000006111	Clinical chronic obstructive pulmonary disease questionnaire total score
-7310911000006112	Assessment using clinical chronic obstructive pulmonary disease questionnaire
-7310921000006116	Assessment using CCQ (clinical chronic obstructive pulmonary disease questionnaire)
-7313961000006117	Assessment using chronic obstructive pulmonary disease assessment test
-7313971000006112	Assessment using CAT - COPD (chronic obstructive pulmonary disease) assessment test
-7327761000006115	Chronic obstructive pulmonary disease assessment test score
-1176861000000111	Chronic obstructive pulmonary disease assessment test score
-7327771000006110	CAT - COPD (chronic obstructive pulmonary disease) assessment test score
-7384441000006110	Plication of emphysematous bleb of lung
-7452731000006117	Emphysematous lung sealant preparation kit
-7484341000006112	Optimization of medication for chronic obstructive lung disease
-1783891000006115	Optimisation of medication for chronic obstructive pulmonary disease
-7484331000006119	Optimization of medication for chronic obstructive pulmonary disease
-7484351000006114	Optimisation of medication for chronic obstructive lung disease
-7484671000006110	Chronic obstructive lung disorder medication review
-7484681000006113	Chronic obstructive pulmonary disease medication review
-7970171000006119	Acute exacerbation of chronic obstructive airways disease with asthma
-7501821000006119	Pulmonary hypertension due to chronic obstructive pulmonary disease
-7567251000006116	Chronic obstructive pulmonary disease clinic
-7586701000006113	Change in chronic obstructive pulmonary disease management plan
-7586711000006111	Step up change in chronic obstructive pulmonary disease management plan
-3011135010	Step down change in chronic obstructive pulmonary disease management plan
-7627151000006113	CPFE - combined pulmonary fibrosis and emphysema
-7627161000006110	Combined pulmonary fibrosis and emphysema syndrome
-7627141000006111	Pulmonary emphysema co-occurrent with fibrosis of lung
-7640931000006119	Excision of emphysematous bleb of lung
-7640941000006112	Resection of emphysematous bleb of lung
-8090191000006114	Acute exacerbation of chronic obstructive bronchitis
-8033221000006118	Chronic obstructive lung disease co-occurrent with acute bronchitis
-2423731000000115	Telehealth chronic obstructive pulmonary disease monitoring
-966841000006111	Chronic obstructive pulmonary disease clinical management plan
-3517253011	Acute exacerbation of chronic obstructive pulmonary disease care plan
-2736921000000118	Acute exacerbation of COPD (chronic obstructive pulmonary disease) care plan
-3635300011	Ruptured emphysematous bleb
-405121000000111	Education about chronic obstructive pulmonary disease
-109301000006114	Tension pneumatocoele
-885311000006116	Chronic obst. pulm. dis. NOS
-885301000006119	Chr. airway obstruction NOS
-411520013	H/O: bronchitis
-492443010	Bronchiolitis obliterans
-1230190015	MacLeod's unilateral emphysema
-161781000006116	Sawyer - Jones syndrome
-269761000006112	Obliterative bronchiolitis due to chemical fumes
-2240631000000119	Eosinophilic bronchitis
-55602016	Compensatory emphysema
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+475431013	Chronic obstructive pulmonary disease	6180283	1	1
+1488424013	Chronic obstructive pulmonary disease annual review	5157109	1	1
+977911000006114	Number of chronic obstructive pulmonary disease exacerbations in past year	2565477	1	1
+1484924013	Chronic obstructive pulmonary disease monitoring	1447348	1	1
+1176861000000111	Chronic obstructive pulmonary disease assessment test score	1443401	1	1
+301453013	Acute exacerbation of chronic obstructive airways disease	1310476	1	1
+457169013	Moderate chronic obstructive pulmonary disease	1135059	1	1
+839001000006111	COPD self-management plan given	957718	1	1
+457168017	Mild chronic obstructive pulmonary disease	868421	1	1
+457171013	Severe chronic obstructive pulmonary disease	638821	1	1
+2716321000006116	COPD - Chronic obstructive pulmonary disease	593500	1	1
+301545019	Chronic obstructive airway disease	504768	1	1
+640491000006111	Pulmonary emphysema	404449	1	1
+2716231000006114	Chronic obstructive lung disease	366604	1	1
+555471000006114	COAD - Chronic obstructive airways disease	253340	1	1
+1488423019	Chronic obstructive pulmonary disease follow-up	228496	1	1
+966841000006111	Chronic obstructive pulmonary disease clinical management plan	219676	1	1
+405121000000111	Education about chronic obstructive pulmonary disease	216445	1	1
+299031000000110	Chronic obstructive pulmonary disease does not disturb sleep	171194	1	1
+553211000006119	Chron obstruct pulmonary dis wth acute exacerbation, unspec	132617	1	1
+1783891000006115	Optimisation of medication for chronic obstructive pulmonary disease	93657	1	1
+105519017	Chronic bronchitis	93011	1	1
+424365019	Acute infective exacerbation of chronic obstructive airways disease	85685	1	1
+516801000000112	Very severe chronic obstructive pulmonary disease	72150	1	1
+1948051000006112	Asthma-chronic obstructive pulmonary disease overlap syndrome	53772	1	1
+977901000006111	Emergency chronic obstructive pulmonary disease admission since last appointment	52854	1	1
+845451000006118	COPD follow-up	52457	1	1
+2160051010	Emergency hospital admission for chronic obstructive pulmonary disease	49276	1	1
+977891000006112	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	47517	1	1
+405080018	H/O: chr.obstr. airway disease	40033	1	1
+299001000000116	Chronic obstructive pulmonary disease disturbs sleep	34471	1	1
+2010061000006113	Acute non-infective exacerbation of chronic obstructive pulmonary disease	25107	1	1
+1222335015	Chronic obstructive pulmonary disease NOS	24324	1	1
+285104011	Obstructive chronic bronchitis	20094	1	1
+411520013	H/O: bronchitis	20041	1	1
+1484971019	Chronic obstructive pulmonary disease monitoring due	18533	1	1
+1780380013	Chronic obstructive pulmonary disease monitoring by nurse	17885	1	1
+1161361000000118	Clinical chronic obstructive pulmonary disease questionnaire total score	16697	1	1
+301477019	Emphysema NOS	15912	1	1
+990641000006110	Chronic obst. pulm. dis. NOS	13774	1	1
+885311000006116	Chronic obst. pulm. dis. NOS	13301	1	1
+183191000006115	Recurrent wheezy bronchitis	12217	1	1
+508561017	Simple chronic bronchitis	10622	1	1
+301459012	Chronic bronchitis NOS	10295	1	1
+555461000006119	Chronic obstructive pulmonary disease with acute lower respiratory infection	9611	1	1
+301450011	Chronic asthmatic bronchitis	9576	1	1
+998281000006115	Multiple chronic obstructive pulmonary disease emergency hospital admissions	8628	1	1
+113497011	Centrilobular emphysema	7883	1	1
+301539010	Other specified chronic obstructive airways disease	7807	1	1
+1699821000006113	At risk of chronic obstructive pulmonary disease exacerbation	7204	1	1
+301460019	Chronic bullous emphysema	7141	1	1
+1765681000000110	History of chronic obstructive pulmonary disease	6824	1	1
+216596014	End stage chronic obstructive airways disease	4565	1	1
+285100019	Emphysematous bronchitis	3230	1	1
+492443010	Bronchiolitis obliterans	3062	1	1
+123588010	Mucopurulent chronic bronchitis	2831	1	1
+4781421000006111	Acute exacerbation of COPD	2472	1	1
+1780381012	Chronic obstructive pulmonary disease monitoring by doctor	1934	1	1
+7049011000006110	Acute exacerbation of chronic bronchitis	1826	1	1
+301451010	Chronic wheezy bronchitis	1530	1	1
+2423731000000115	Telehealth chronic obstructive pulmonary disease monitoring	1524	1	1
+8287171000006115	Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)	1352	1	1
+5516841000006119	History of chronic obstructive airway disease	1326	1	1
+4781431000006114	Acute exacerbation of chronic obstructive pulmonary disease	1210	1	1
+508562012	Chronic catarrhal bronchitis	1200	1	1
+2240631000000119	Eosinophilic bronchitis	1169	1	1
+3013801000006116	Paraseptal emphysema	1088	1	1
+19421011	Interstitial pulmonary emphysema	924	1	1
+301468014	Chronic bullous emphysema NOS	920	1	1
+7586711000006111	Step up change in chronic obstructive pulmonary disease management plan	852	1	1
+3517253011	Acute exacerbation of chronic obstructive pulmonary disease care plan	762	1	1
+301469018	Other emphysema	671	1	1
+1230190015	MacLeod's unilateral emphysema	648	1	1
+1494601017	COAD follow-up	562	1	1
+3011135010	Step down change in chronic obstructive pulmonary disease management plan	559	1	1
+301835010	[X]Other emphysema	538	1	1
+11929131000006112	Clinical chronic obstructive pulmonary disease questionnaire	487	1	1
+7627141000006111	Pulmonary emphysema co-occurrent with fibrosis of lung	475	1	1
+9337016	Panlobular emphysema	469	1	1
+301455018	Obstructive chronic bronchitis NOS	401	1	1
+301463017	Segmental bullous emphysema	397	1	1
+7484671000006110	Chronic obstructive lung disorder medication review	396	1	1
+885281000006118	Mucopurulent chr. bronchitis	350	1	1
+301464011	Zonal bullous emphysema	346	1	1
+27096010	Giant bullous emphysema	324	1	1
+3611791000006110	Centriacinar emphysema	322	1	1
+396110016	Other emphysema NOS	310	1	1
+396108018	Bullous emphysema with collapse	308	1	1
+301456017	Mixed simple and mucopurulent chronic bronchitis	278	1	1
+885301000006119	Chr. airway obstruction NOS	272	1	1
+301836011	[X]Other specified chronic obstructive pulmonary disease	268	1	1
+9317341000006115	ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome	239	1	1
+506053014	Purulent chronic bronchitis	225	1	1
+2767421000006111	Obstructive emphysema	191	1	1
+7258581000006114	Acute exacerbation of chronic asthmatic bronchitis	169	1	1
+301444018	Simple chronic bronchitis NOS	144	1	1
+301448015	Mucopurulent chronic bronchitis NOS	130	1	1
+457581000006111	Acute interstitial emphysema	122	1	1
+87480013	Chronic tracheobronchitis	122	1	1
+301572010	Chronic emphysema due to chemical fumes	100	1	1
+2716261000006117	Chronic airflow obstruction	99	1	1
+301470017	Acute vesicular emphysema	83	1	1
+55602016	Compensatory emphysema	72	1	1
+301457014	Other chronic bronchitis	71	1	1
+8090191000006114	Acute exacerbation of chronic obstructive bronchitis	67	1	1
+109301000006114	Tension pneumatocoele	67	1	1
+7970171000006119	Acute exacerbation of chronic obstructive airways disease with asthma	64	1	1
+5054311000006111	Scar emphysema	53	1	1
+3955621000006112	Catarrhal bronchitis	49	1	1
+1222334016	Other specified chronic obstructive pulmonary disease	43	1	1
+301458016	Other chronic bronchitis NOS	38	1	1
+4781471000006112	Bullous emphysema	34	1	1
+9317331000006113	Asthma-COPD overlap syndrome (ACOS)	33	1	1
+7313961000006117	Assessment using chronic obstructive pulmonary disease assessment test	32	1	1
+7627151000006113	CPFE - combined pulmonary fibrosis and emphysema	32	1	1
+3921361000006112	Emphysema of lung	31	1	1
+2578881000006118	Panacinar emphysema	27	1	1
+4781461000006117	Emphysematous bulla	24	1	1
+2716241000006116	Chronic airway obstruction	22	1	1
+2716341000006111	Chronic airway disease	22	1	1
+7310911000006112	Assessment using clinical chronic obstructive pulmonary disease questionnaire	22	1	1
+2716301000006114	Chronic airflow limitation	21	1	1
+269761000006112	Obliterative bronchiolitis due to chemical fumes	18	1	1
+4510801000006114	End stage chronic obstructive pulmonary disease	17	1	1
+5054271000006111	Pulmonary emphysema in alpha-1 PI deficiency	17	1	1
+6763251000006114	Emergency hospital admission for COPD (chronic obstructive pulmonary disease)	15	1	1
+139979010	Fetid chronic bronchitis	13	1	1
+8058301000006110	COPD (chronic obstructive pulmonary disease) disturbs sleep	13	1	1
+396109014	Atrophic (senile) emphysema	12	1	1
+7313971000006112	Assessment using CAT - COPD (chronic obstructive pulmonary disease) assessment test	12	1	1
+5054291000006112	Toxic emphysema	10	1	1
+13651461000006115	Chronic bronchitis co-occurrent with wheeze	10	0	1
+3764021000006117	Interstitial emphysema of lung	9	1	1
+2716351000006113	COLD - Chronic obstructive lung disease	9	1	1
+4733031000006114	Chronic obstructive bronchitis	6	1	1
+4374681000006116	Chronic emphysema	6	1	1
+7567251000006116	Chronic obstructive pulmonary disease clinic	5	1	1
+3304301000006112	Occupational bronchitis	4	1	1
+8033221000006118	Chronic obstructive lung disease co-occurrent with acute bronchitis	4	1	1
+8125721000006119	At risk of COPD (chronic obstructive pulmonary disease) exacerbation	3	1	1
+3437401000006110	Emphysematous bleb of lung	3	1	1
+7327771000006110	CAT - COPD (chronic obstructive pulmonary disease) assessment test score	3	1	1
+7627161000006110	Combined pulmonary fibrosis and emphysema syndrome	3	1	1
+13936791000006111	Chronic emphysema due to vapour	3	0	1
+3873191000006110	Fetid chronic bronchitis	2	1	1
+2716271000006112	CAFL - Chronic airflow limitation	2	1	1
+3013821000006114	Subpleural emphysema	2	1	1
+4733021000006111	Obstructive chronic bronchitis	1	1	1
+990651000006112	Chr. airway obstruction NOS	1	1	1
+2716291000006113	CAO - Chronic airflow obstruction	1	1	1
+5054301000006113	Chemical emphysema	1	1	1
+3948141000006117	Chronic allergic bronchitis	1	1	1
+3909511000006110	Ruptured emphysematous bleb of lung	1	1	1
+7501821000006119	Pulmonary hypertension due to chronic obstructive pulmonary disease	1	1	1
+3635300011	Ruptured emphysematous bleb	1	1	1
+161781000006116	Sawyer - Jones syndrome	1	1	1
+4733011000006115	COB - Chronic obstructive bronchitis	NA	1	0
+4732991000006119	Chronic bronchitis with emphysema	NA	1	0
+4733001000006118	Bronchitis with airway obstruction	NA	1	0
+2578901000006116	Vesicular emphysema	NA	1	0
+2578911000006118	Alveolar emphysema of lung	NA	1	0
+12704691000006117	Interstitial emphysema	NA	1	0
+3764031000006119	Interstitial pulmonary emphysema	NA	1	0
+2716251000006119	Chronic irreversible airway obstruction	NA	1	0
+2716311000006112	CAL - Chronic airflow limitation	NA	1	0
+4781821000006113	Chronic emphysema caused by chemical fumes	NA	1	0
+3304321000006119	Occupational chronic bronchitis	NA	1	0
+3304311000006110	Industrial bronchitis	NA	1	0
+5054281000006114	Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency	NA	1	0
+12489801000006116	Admit COPD emergency	NA	1	0
+6763231000006119	Emergency hospital admission for chronic obstructive pulmonary disease	NA	1	0
+8058321000006117	COPD (chronic obstructive pulmonary disease) does not disturb sleep	NA	1	0
+3575071000006113	Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors	NA	1	0
+3575081000006111	Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors	NA	1	0
+3575061000006118	Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapours	NA	1	0
+3575091000006114	Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapours	NA	1	0
+2778811000006114	Emphysematous bleb	NA	1	0
+2975891000006117	Purulent bronchitis	NA	1	0
+3013811000006118	Peripheral lobular emphysema	NA	1	0
+3437411000006113	Tension pneumatocele of lung	NA	1	0
+3487781000006118	Haemolytic anaemia with emphysema AND cutis laxa	NA	1	0
+3487791000006115	Hemolytic anemia with emphysema AND cutis laxa	NA	1	0
+11927801000006117	Chronic obstructive pulmonary disease clinical management plan	NA	1	0
+7306151000006111	CCQ - Clinical COPD (chronic obstructive pulmonary disease) questionnaire	NA	1	0
+7304221000006115	CCQ (clinical chronic obstructive pulmonary disease questionnaire) total score	NA	1	0
+7304231000006117	Clinical COPD (chronic obstructive pulmonary disease) questionnaire total score	NA	1	0
+7304211000006111	Clinical chronic obstructive pulmonary disease questionnaire total score	NA	1	0
+7310921000006116	Assessment using CCQ (clinical chronic obstructive pulmonary disease questionnaire)	NA	1	0
+7327761000006115	Chronic obstructive pulmonary disease assessment test score	NA	1	0
+7384441000006110	Plication of emphysematous bleb of lung	NA	1	0
+7452731000006117	Emphysematous lung sealant preparation kit	NA	1	0
+7484341000006112	Optimization of medication for chronic obstructive lung disease	NA	1	0
+7484331000006119	Optimization of medication for chronic obstructive pulmonary disease	NA	1	0
+7484351000006114	Optimisation of medication for chronic obstructive lung disease	NA	1	0
+7484681000006113	Chronic obstructive pulmonary disease medication review	NA	1	0
+7586701000006113	Change in chronic obstructive pulmonary disease management plan	NA	1	0
+7640931000006119	Excision of emphysematous bleb of lung	NA	1	0
+7640941000006112	Resection of emphysematous bleb of lung	NA	1	0
+2736921000000118	Acute exacerbation of COPD (chronic obstructive pulmonary disease) care plan	NA	1	0

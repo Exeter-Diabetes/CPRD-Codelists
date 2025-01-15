@@ -1,345 +1,365 @@
-medcodeid	term_medcode
-252318014	Falls
-1817091000006116	[D]Tendency to fall
-332896011	[X]Fall involving wheelchair, occurrence on farm
-385121000006113	[X]Fall invlv w'chair occ school oth instit/pub admin area
-385311000006119	[X]Fall involv wheelchair, occurrnce at indust/constr area
-385611000006114	[X]Fall involving wheelchair, occurrence on street/highway
-385631000006115	[X]Fall involvng wheelchair occurrence residential instit'n
-2783821000006118	Fall involving wheelchair
-2783801000006111	Fall with wheelchair
-332887011	Fall from wheelchair
-385581000006118	[X]Fall involving wheelchair occurrnce at unspecified place
-385621000006118	[X]Fall involving wheelchair, occurrn at sport/athlet area
-1221608017	[X]Fall involving wheelchair
-385321000006110	[X]Fall involv wheelchair, occurrnce at other specif place
-385641000006113	[X]Fall involvng wheelchair occurrnce at trade/service area
-332920010	[X]Fall involving other furniture, occurrence at home
-333026012	[X]Other fall from one level to another, occurrence on farm
-333040013	[X]Unspecified fall
-333042017	[X]Unspecified fall, occurrence in residential institution
-333050014	[X]Unspecified fall, occurrence at unspecified place
-385041000006117	[X]Fall inv ice-skate skis roll-skate/skateboard, occ home
-385161000006119	[X]Fall involv ice-skates skis roller-skates or skateboards
-385171000006114	[X]Fall involv oth furnitre occurrnce at indust/constr area
-385201000006113	[X]Fall involv oth furniture occurrnce at trade/serv area
-385231000006117	[X]Fall involv other furniture occurrnce on street/highway
-386391000006116	[X]Fall whle carr'd/supportd by oth per, occ unspecif place
-386471000006113	[X]Fall whle crd/sprtd oth per occ sch oth inst/pub adm area
-417471000006117	[X]Othr fall frm one level to anothr occurrn at unspec plce
-417491000006116	[X]Othr fall frm one level to anothr, sch inst/pub adm area
-417501000006112	[X]Othr fall from one level to anothr occ sport/athlet area
-417511000006110	[X]Othr fall from one level to anothr occurrn street/h'way
-430581000006113	[X]Unspecif fall occurrnce school oth instit/pub admin area
-4301012	Fall
-332876015	[X]Fall while being carried or supported by other persons
-333046019	[X]Unspecified fall, occurrence at trade and service area
-385001000006119	[X]Fall inv ice-skat ski roll-skat/skateboard occ resid inst
-385011000006116	[X]Fall inv ice-skat ski roll-skat/skatebrd, occur on farm
-385021000006112	[X]Fall inv ice-skat ski roll-skat/skbrd occ street/highway
-385031000006110	[X]Fall inv ice-skat ski roll-skat/skbrd occ unspecif place
-385181000006112	[X]Fall involv oth furnitur occurrnce at other specif place
-386431000006110	[X]Fall whle carr'd/supprtd by oth per occ trade/serv area
-386461000006118	[X]Fall whle carried/supported oth persons occ resid instit
-385081000006111	[X]Fall inv ice-skt ski roll-skt/skbrd, occ oth spec place
-385091000006114	[X]Fall inv oth furnitur occ schl oth instit/pub admin area
-385211000006111	[X]Fall involv oth furniture, occurrnce at unspecif place
-410001000006115	[X]Other fall frm one level to anoth occ indust/constr area
-332919016	[X]Fall involving other furniture
-333048018	[X]Unspecified fall, occurrence on farm
-333049014	[X]Unspecified fall, occurrence at other specified place
-385061000006118	[X]Fall inv ice-skt ski rol-skt/skbrd occ sport/athlet area
-385051000006115	[X]Fall inv ice-skt ski rol-skt/skbrd indust/construct area
-385071000006113	[X]Fall inv ice-skt ski rol-skt/skbrd occ trade/servce area
-385191000006110	[X]Fall involv oth furniture occurrnce at sport/athlet area
-385221000006115	[X]Fall involv other furniture occurrn resident institut'n
-386401000006119	[X]Fall whle carr'd/supportd by other persons, occ on farm
-386411000006116	[X]Fall whle carr'd/supportd oth per occ other specif place
-386451000006115	[X]Fall whle carr'd/supprtd oth pers occ indust/constr area
-410021000006113	[X]Other fall frm one levl to anothr occ at oth specif plce
-417481000006119	[X]Othr fall frm one level to anothr occurrn in resid inst
-431011000006119	[X]Unspecified fall, occurrence at sports / athletics area
-1222238015	[X]Falls
-329380011	Other falls
-333045015	[X]Unspecified fall, occurrence on street and highway
-332927013	[X]Fall involving other furniture, occurrence on farm
-333019012	[X]Other fall from one level to another, occurrence at home
-386421000006112	[X]Fall whle carr'd/supportd oth pers occ sport/athlet area
-386441000006117	[X]Fall whle carr'd/supprtd by oth pers occ on street/h'way
-386481000006111	[X]Fall, ice-skt ski rol-skt/skbd, sch oth inst/pub adm area
-410011000006117	[X]Other fall frm one level to anothr occ at trde/serv area
-430981000006116	[X]Unspecified fall occurrn at industrial/construction area
-332904017	[X]Fall involving bed, occurrence at trade and service area
-332906015	[X]Fall involving bed, occurrence on farm
-332907012	[X]Fall involving bed, occurrence at other specified place
-332908019	[X]Fall involving bed, occurrence at unspecified place
-385141000006118	[X]Fall involv bed occurrn school oth instit/pub admin area
-2832551000006110	Fall involving bed
-385131000006111	[X]Fall involv bed occurrn at industrial/construction area
-385341000006115	[X]Fall involving bed occurrence at sports / athletics area
-1222581016	[X]Fall involving bed
-35150012	Fall from bed
-332899016	[X]Fall involving bed, occurrence at home
-385351000006118	[X]Fall involving bed occurrence in residential institution
-332903011	[X]Fall involving bed, occurrence on street and highway
-325882016	Fall in, on or from train NOS, pedal cyclist injured
-325880012	Fall in, on or from train NOS, passenger injured
-325881011	Fall in, on or from train NOS, pedestrian injured
-325858014	Fall in, on, or from train
-664891000006113	Fall in, on or from train NOS, other spec person injured
-325878018	Fall in, on or from train NOS
-325879014	Fall in, on or from train NOS, railway employee injured
-325884015	Fall in, on or from train NOS, unspecified person injured
-325859018	Fall in train
-325862015	Fall in train, other specified person injured
-325863013	Fall in train, unspecified person injured
-325861010	Fall in train, passenger injured
-325864019	Fall on train
-325870013	Fall on train, other specified person injured
-325872017	Fall on train, unspecified person injured
-325873010	Fall from train
-325876019	Fall from train, other specified person injured
-325877011	Fall from train, unspecified person injured
-325875015	Fall from train, passenger injured
-327664017	Fall on stairs or ladders in water transport
-665511000006118	Fall on stairs in water transport (WT)
-665811000006116	Fall-stairs water transport - crew other watercraft injured
-665881000006111	Fall-stairs water transport - unspecified person injured
-665851000006115	Fall-stairs water transport - other specified person injured
-665861000006118	Fall-stairs water transport - passenger other watercraft inj
-4885551000006118	Fall on stairs in water transport
-329287012	Fall - accidental
-329383013	Accidental falls NOS
-991201000006117	Accidental fall NOS
-446671000006112	Accidental fall
-329382015	Other accidental fall NOS
-329302017	Fall on or from stairs or steps NOS
-332940015	[X]Fall on and from stairs and steps
-332947017	[X]Fall on or from escalator
-385811000006110	[X]Fall on + frm stair + step occ sch oth inst/pub adm area
-385901000006118	[X]Fall on + from stair + step occurrn at oth specif place
-385931000006114	[X]Fall on + from stair + step occurrnce at unspecif place
-385961000006117	[X]Fall on + from stairs + steps occurrn on street/highway
-332949019	[X]Fall on and from stairs and steps, occurrence on farm
-329288019	Fall on or from stairs or steps
-385911000006115	[X]Fall on + from stair + step occurrn at sport/athlet area
-385951000006119	[X]Fall on + from stair + step occurrnce resident instit'n
-901021000006116	Fall - stairs/steps
-385921000006111	[X]Fall on + from stair + step occurrn at trade/servce area
-385941000006116	[X]Fall on + from stair + step occurrnce indust/constr area
-332941016	[X]Fall on and from stairs and steps, occurrence at home
-329289010	Fall on or from escalator
-329293016	Fall on or from escalator NOS
-4899821000006112	Fall on or from moving staircase
-329292014	Fall from escalator
-329294010	Fall on or from stairs
-329297015	Fall on or from stairs NOS
-329296012	Fall from stairs
-329301012	Fall on or from steps NOS
-329298013	Fall on or from steps
-329299017	Fall on steps
-329300013	Fall from steps
-329348014	Fall from chair or bed
-329351019	Fall from chair or bed NOS
-329357015	Fall from stationary vehicle
-329361014	Fall on same level from slipping, tripping or stumbling
-901061000006110	Fall - on same level
-386261000006119	[X]Fall same levl frm slip trip+stumbling, occ unspec place
-386361000006112	[X]Fall sme lvl frm slip trip+stumb, occ trade/service area
-386221000006113	[X]Fall same level from slip trip+stumbling, occur on farm
-386241000006118	[X]Fall same level, slip trip+stumb, occ other specif place
-386331000006115	[X]Fall same levl, slip trip+stumb occ indust/construct area
-386341000006113	[X]Fall sme levl frm slip trip+stumb, occ sport/athlet area
-329367013	Fall on same level from slipping, tripping or stumbling NOS
-386251000006116	[X]Fall same levl frm slip trip + stumb, occurrence at home
-332841017	[X]Fall on same level from slipping, tripping and stumbling
-386201000006115	[X]Fall same level from slip trip + stumb occ resid instit
-386211000006117	[X]Fall same level from slip trip+stumb, occ street/highway
-386351000006110	[X]Fall sme levl slp trp+stmb occ sch, oth inst/pub adm area
-329362019	Fall on same level from slipping
-329363012	Fall on same level from tripping
-329364018	Fall on same level from stumbling
-11924751000006117	Fall on moving sidewalk
-329365017	Fall on travelling pavement
-4900221000006114	Fall on travelling pavement
-329381010	Fall from bump against object
-4935731000006115	FOOSH - Fell onto outstretched hand
-1121551000000119	Fall onto outstretched hand
-4935721000006118	Fell onto outstretched hand
-5170941000006110	Fall from stationary railway vehicle
-5171341000006118	Fall down stairs of motor bus whilst boarding or alighting
-5171351000006116	Fall down stairs of motor bus while boarding or alighting
-5171381000006112	Fall from car in street whilst boarding or alighting
-5171391000006110	Fall from car in street while boarding or alighting
-5171401000006112	Fall from car whilst boarding or alighting due to tripping on seat belt
-5171411000006110	Fall from car while boarding or alighting due to tripping on seat belt
-332830019	Fall due to slipping on ice or snow
-1832971000006112	Fall due to wet surface
-5174441000006112	Fall due to polished surface
-5174451000006114	Fall due to discarded object
-5174461000006111	Fall in bath or shower
-5174471000006116	Fall due to defective pavement
-5174481000006118	Fall due to accidental trip by another person
-5174491000006115	Fall due to trip on loose carpet
-5174501000006111	Fall due to trip on loose rug
-5174511000006114	Fall due to uneven surface indoors
-5174531000006115	Fall due to loss of equilibrium
-5174541000006113	Fall due to failure of support
-5174551000006110	Fall due to failure of rail
-5174561000006112	Fall due to leaning on insecure furniture
-5174571000006117	Fall on same level due to accidental impact with another person
-5174591000006116	Fall due to impact against pedestrian conveyance
-5174601000006112	Fall due to impact against pram
-5174631000006116	Fall due to impact against perambulator
-5174621000006119	Fall due to impact against push chair
-5174611000006110	Fall due to impact against baby buggy
-5174641000006114	Fall due to impact against baby carriage
-5174661000006113	Fall due to impact against shopping trolley
-5174671000006118	Fall due to impact against supermarket shopping cart
-5174651000006111	Fall due to impact against supermarket trolley
-5174681000006115	Fall due to impact against shopping cart
-5174691000006117	Fall due to impact against wheelbarrow
-329359017	Other fall from one level to another NOS
-329360010	Fall from one level to another NOS
-665661000006119	Fall to other level NEC in WT - occ small unpowered boat inj
-17881000006111	Fall from one level to another
-665681000006112	Fall to other level NEC in WT - passenger oth watercraft inj
-329352014	Other fall from one level to another
-665671000006114	Fall to other level NEC in WT - other specified person inj
-665701000006110	Fall to other level NEC in WT - unspecified person injured
-333017014	[X]Other fall from one level to another
-665651000006116	Fall to other level NEC in WT - occ small powered boat inj
-327696013	Fall from one level to another NEC in water transport
-5174761000006116	Fall from stool
-5174791000006112	Fall from ambulance stretcher
-5174801000006113	Fall from toilet seat
-5512871000006114	Fall on same level from impact against object
-665371000006115	Fall on same level from other push/shove/collide oth person
-31231000006113	Other fall on same level- push/shove/collide-oth person NOS
-665361000006110	Fall on same level from collision with other person, unspec
-5567701000006113	Fall on same level due to nature of surface
-665491000006112	Fall on same level- push/shove/collide - other person NOS
-329375019	Fall on same level from pushing by other person, unspecified
-329376018	Fall on same level from shoving by other person, unspecified
-5567711000006111	Fall on same level due to impact against another person
-417481019	Recurrent falls
-292031000006110	Geriatric fall
-5851711000006111	Elderly fall
-386271000006114	[X]Fall same levl inv ice / snow, occ at other specif place
-386281000006112	[X]Fall same levl inv ice / snow, occ at unspecified place
-404641000006115	[X]Oth fall same levl coll/push anoth pers occ unspec place
-404651000006118	[X]Oth fall same levl collisn/push anoth pers occ resid inst
-404671000006111	[X]Oth fall same levl, collisn/push by anoth pers, occ home
-410091000006110	[X]Other fall on same level occurrn at sports/athletic area
-410141000006119	[X]Other fall on same level, occurrnce in resident instit'n
-665481000006114	Fall on same level- collision/push/shove by/with oth person
-1832831000006116	Fall on same level
-386121000006115	[X]Fall on same levl involving ice and snow occurrn on farm
-386321000006118	[X]Fall same levl involv ice/snow, occ sport/athlet area
-404711000006110	[X]Oth fall sme levl coll/push anth pers occ trad/serv area
-386191000006118	[X]Fall sam lvl inv ice/snw occ sch oth inst/pub admin area
-404631000006113	[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area
-404661000006116	[X]Oth fall same levl due collisn/pushing by another person
-410131000006112	[X]Other fall on same level, occurrence on street / highway
-410161000006115	[X]Other fall on same levl, occurrn at indust/constuct area
-333037013	[X]Other fall on same level, occurrence on farm
-404701000006112	[X]Oth fall sme levl coll/push anoth pers occ street/h'way
-404721000006119	[X]Oth fall sme levl, collisn/push by anoth pers, occ farm
-386231000006111	[X]Fall same level involv ice / snow occurrn resid instit'n
-386301000006111	[X]Fall same levl inv ice and snow, occ street / highway
-333029017	Fall on same level
-386291000006110	[X]Fall same levl inv ice / snow, occ trade / service area
-404681000006114	[X]Oth fall sme levl col/push anoth pers occ sport/athl area
-404691000006112	[X]Oth fall sme levl coll/push anoth per occ oth spec place
-404731000006116	[X]Oth fall sme lvl col/push anoth per occ indus/constr area
-410081000006112	[X]Other fall on same level occurrn at oth specified place
-410101000006116	[X]Other fall on same level occurrnce at trade/service area
-333030010	[X]Other fall on same level, occurrence at home
-410071000006114	[X]Other fall on same level occurrence at unspecified place
-410151000006117	[X]Other fall on same levl occ schl oth inst/pub admin area
-386111000006111	[X]Fall on same level involving ice and snow occurrn home
-386311000006114	[X]Fall same levl inv ice/snow, occ indust / construct area
-333041012	Fall in home
-2160111010	Falls caused by medication
-2534630017	Fall on stairs
-12761861000006112	Fall while being carried
-13031301000006119	Fall while being carried
-386381000006119	Fall whilst being carried
-3484331000006110	Fall whilst being carried
-111687017	Fall on escalator
-332909010	[X]Fall involving chair, occurrence at home
-332916011	[X]Fall involving chair, occurrence on farm
-332918012	[X]Fall involving chair, occurrence at unspecified place
-385431000006118	[X]Fall involving chair occurrence at indust/construct area
-3858201000006119	Fall involving chair
-332913015	[X]Fall involving chair, occurrence on street and highway
-332914014	[X]Fall involv chair, occurrence at trade and service area
-385111000006117	[X]Fall invlv chair occ at school oth instit/pub admin area
-385461000006110	[X]Fall involving chair occurrence in residential instit'n
-138437018	Fall from chair
-385441000006111	[X]Fall involving chair occurrence at other specified place
-385451000006113	[X]Fall involving chair occurrence at sports/athletics area
-1234830014	[X]Fall involving chair
-10148651000006112	Facial fracture due to fall
-665841000006117	Fall on stairs in water transport, occupant of small unpowered boat injured
-665831000006110	Fall on stairs in water transport, occupant of small powered boat injured
-5171371000006114	Fall on step of motor bus while boarding or alighting
-5171361000006119	Fall on step of motor bus whilst boarding or alighting
-5171521000006115	Fall on public service vehicle
-5171531000006117	Fall on stationary public service vehicle
-5171541000006110	Fall on moving public service vehicle
-5171551000006112	Fall whilst boarding or alighting from public service vehicle
-5171561000006114	Fall while boarding or alighting from public service vehicle
-5171591000006118	Fall while boarding or alighting from goods vehicle
-5171581000006116	Fall whilst boarding or alighting from goods vehicle
-5174581000006119	Fall on same level due to deliberate assault by another person
-5174751000006118	Fall from furniture
-5174781000006114	Fall from hospital gurney
-5174771000006111	Fall from hospital trolley
-456816018	[V]Examination and observation following a fall
-5731411000006118	Fall - collision/push/shove
-5851741000006110	Finding of frequency of falls
-5851751000006112	Observation of frequency of falls
-5851771000006119	Number of falls
-5851781000006116	Falls occurrence
-6251101000006115	Frequency of falls
-6346521000006115	Patient death associated with a fall whilst being cared for in a healthcare facility
-6346531000006117	Patient death associated with a fall while being cared for in a healthcare facility
-1485031016	Number of falls in last year
-1833851000006117	Falling injury
-6705241000006112	Unexplained recurrent falls
-6705251000006114	Unexplained falls
-6853811000006116	Fall down stairs
-6853821000006112	Fall down steps
-7070591000006116	Post fall assessment
-7079731000006118	Fall onto hard surface
-7079721000006116	Fall on hard surface
-7106151000006119	Fall onto concrete
-7106141000006116	Fall on concrete
-7224961000006115	Fall in nursing home
-3211791000006112	Fall in shower
-3607071000006116	Fall at construction site
-3711601000006115	Fall from bench
-8025501000006112	Accident due to mechanical fall without injury
-3972561000006111	Fall in bathtub
-1222549013	[D]Senility
-317927012	Old-age
-327385014	Fall from road vehicle NEC
-328189010	Fall in aircraft
-664651000006115	Fall in aircraft - other occ comm aircraft surf/surf injured
-901081000006117	Accidental fall NOS
-327375013	Fall in road vehicle NEC
-664711000006112	Fall in road vehicle NEC - pedestrian injured
-664691000006114	Fall in road vehicle NEC - occupant of tram injured
-664701000006114	Fall in road vehicle NEC - other specified person injured
-664721000006116	Fall in road vehicle NEC - unspecified person injured
-327380016	Fall on road vehicle NEC
-664381000006116	Fall from road vehicle NEC - occupant of tram injured
-664391000006118	Fall from road vehicle NEC - other specified person injured
-664411000006118	Fall from road vehicle NEC - unspecified person injured
-664631000006110	Fall in aircraft - occupant other powered aircraft injured
-664661000006118	Fall in aircraft - other person injured
-328190018	Fall on aircraft
-665131000006115	Fall on aircraft - occupant of spacecraft injured
-665121000006118	Fall on aircraft - occupant of military aircraft injured
-665091000006117	Fall on aircraft - crew commercial aircraft surface/surf inj
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+329287012	Fall - accidental	2407853	1	1
+446671000006112	Accidental fall	1427271	1	1
+252318014	Falls	1228177	1	1
+1485031016	Number of falls in last year	908964	1	1
+417481019	Recurrent falls	350573	1	1
+4301012	Fall	217729	1	1
+329383013	Accidental falls NOS	144807	1	1
+329361014	Fall on same level from slipping, tripping or stumbling	101500	1	1
+317927012	Old-age	77233	1	1
+329288019	Fall on or from stairs or steps	55224	1	1
+292031000006110	Geriatric fall	54478	1	1
+329363012	Fall on same level from tripping	39527	1	1
+2534630017	Fall on stairs	32455	1	1
+329382015	Other accidental fall NOS	30571	1	1
+5851711000006111	Elderly fall	25624	1	1
+329380011	Other falls	23232	1	1
+901061000006110	Fall - on same level	21443	1	1
+1222238015	[X]Falls	20868	1	1
+17881000006111	Fall from one level to another	20602	1	1
+35150012	Fall from bed	19123	1	1
+901081000006117	Accidental fall NOS	16279	1	1
+329362019	Fall on same level from slipping	16172	1	1
+329296012	Fall from stairs	13339	1	1
+329294010	Fall on or from stairs	11901	1	1
+665481000006114	Fall on same level- collision/push/shove by/with oth person	11535	1	1
+329364018	Fall on same level from stumbling	11038	1	1
+1121551000000119	Fall onto outstretched hand	7873	1	1
+4935721000006118	Fell onto outstretched hand	7140	1	1
+901021000006116	Fall - stairs/steps	6665	1	1
+404661000006116	[X]Oth fall same levl due collisn/pushing by another person	6340	1	1
+329367013	Fall on same level from slipping, tripping or stumbling NOS	5372	1	1
+138437018	Fall from chair	4835	1	1
+333040013	[X]Unspecified fall	4712	1	1
+2160111010	Falls caused by medication	4179	1	1
+329299017	Fall on steps	3221	1	1
+332841017	[X]Fall on same level from slipping, tripping and stumbling	3004	1	1
+333041012	Fall in home	2872	1	1
+329360010	Fall from one level to another NOS	2719	1	1
+329300013	Fall from steps	2608	1	1
+329298013	Fall on or from steps	2294	1	1
+5851771000006119	Number of falls	2261	1	1
+333029017	Fall on same level	1905	1	1
+329320014	Fall into hole or other opening in surface	1650	0	1
+332830019	Fall due to slipping on ice or snow	1423	1	1
+1817091000006116	[D]Tendency to fall	1398	1	1
+385211000006111	[X]Fall involv oth furniture, occurrnce at unspecif place	1388	1	1
+5851741000006110	Finding of frequency of falls	1150	1	1
+329297015	Fall on or from stairs NOS	1110	1	1
+431011000006119	[X]Unspecified fall, occurrence at sports / athletics area	1021	1	1
+329381010	Fall from bump against object	960	1	1
+329352014	Other fall from one level to another	869	1	1
+329302017	Fall on or from stairs or steps NOS	795	1	1
+385161000006119	[X]Fall involv ice-skates skis roller-skates or skateboards	781	1	1
+332940015	[X]Fall on and from stairs and steps	765	1	1
+1222549013	[D]Senility	735	1	1
+327385014	Fall from road vehicle NEC	722	1	1
+4935731000006115	FOOSH - Fell onto outstretched hand	669	1	1
+332887011	Fall from wheelchair	600	1	1
+386251000006116	[X]Fall same levl frm slip trip + stumb, occurrence at home	551	1	1
+329348014	Fall from chair or bed	530	1	1
+7070591000006116	Post fall assessment	404	1	1
+332941016	[X]Fall on and from stairs and steps, occurrence at home	396	1	1
+111687017	Fall on escalator	388	1	1
+329351019	Fall from chair or bed NOS	342	1	1
+1222581016	[X]Fall involving bed	332	1	1
+1221608017	[X]Fall involving wheelchair	331	1	1
+333017014	[X]Other fall from one level to another	303	1	1
+333050014	[X]Unspecified fall, occurrence at unspecified place	297	1	1
+6853811000006116	Fall down stairs	283	1	1
+327664017	Fall on stairs or ladders in water transport	271	1	1
+456816018	[V]Examination and observation following a fall	257	1	1
+329301012	Fall on or from steps NOS	241	1	1
+329359017	Other fall from one level to another NOS	224	1	1
+329289010	Fall on or from escalator	223	1	1
+329319015	Fall from or out of building or other structure NOS	222	0	1
+386211000006117	[X]Fall same level from slip trip+stumb, occ street/highway	200	1	1
+327375013	Fall in road vehicle NEC	196	1	1
+1234830014	[X]Fall involving chair	183	1	1
+329357015	Fall from stationary vehicle	176	1	1
+333030010	[X]Other fall on same level, occurrence at home	148	1	1
+332899016	[X]Fall involving bed, occurrence at home	144	1	1
+5174751000006118	Fall from furniture	114	1	1
+327380016	Fall on road vehicle NEC	101	1	1
+329292014	Fall from escalator	100	1	1
+325858014	Fall in, on, or from train	92	1	1
+665701000006110	Fall to other level NEC in WT - unspecified person injured	92	1	1
+8025501000006112	Accident due to mechanical fall without injury	91	1	1
+386261000006119	[X]Fall same levl frm slip trip+stumbling, occ unspec place	90	1	1
+665491000006112	Fall on same level- push/shove/collide - other person NOS	88	1	1
+333042017	[X]Unspecified fall, occurrence in residential institution	77	1	1
+333045015	[X]Unspecified fall, occurrence on street and highway	75	1	1
+327696013	Fall from one level to another NEC in water transport	74	1	1
+332919016	[X]Fall involving other furniture	70	1	1
+332920010	[X]Fall involving other furniture, occurrence at home	66	1	1
+386281000006112	[X]Fall same levl inv ice / snow, occ at unspecified place	65	1	1
+665361000006110	Fall on same level from collision with other person, unspec	64	1	1
+386321000006118	[X]Fall same levl involv ice/snow, occ sport/athlet area	63	1	1
+385061000006118	[X]Fall inv ice-skt ski rol-skt/skbrd occ sport/athlet area	62	1	1
+385031000006110	[X]Fall inv ice-skat ski roll-skat/skbrd occ unspecif place	59	1	1
+333049014	[X]Unspecified fall, occurrence at other specified place	59	1	1
+329334014	Fall into other hole or other opening in surface	58	0	1
+332909010	[X]Fall involving chair, occurrence at home	57	1	1
+329344011	Fall into hole NOS	51	0	1
+329375019	Fall on same level from pushing by other person, unspecified	50	1	1
+325873010	Fall from train	49	1	1
+332947017	[X]Fall on or from escalator	49	1	1
+333019012	[X]Other fall from one level to another, occurrence at home	44	1	1
+991201000006117	Accidental fall NOS	42	1	1
+329365017	Fall on travelling pavement	41	1	1
+385901000006118	[X]Fall on + from stair + step occurrn at oth specif place	40	1	1
+386301000006111	[X]Fall same levl inv ice and snow, occ street / highway	40	1	1
+31231000006113	Other fall on same level- push/shove/collide-oth person NOS	39	1	1
+5174511000006114	Fall due to uneven surface indoors	38	1	1
+386111000006111	[X]Fall on same level involving ice and snow occurrn home	38	1	1
+385351000006118	[X]Fall involving bed occurrence in residential institution	33	1	1
+385631000006115	[X]Fall involvng wheelchair occurrence residential instit'n	32	1	1
+417511000006110	[X]Othr fall from one level to anothr occurrn street/h'way	32	1	1
+6705251000006114	Unexplained falls	32	1	1
+385081000006111	[X]Fall inv ice-skt ski roll-skt/skbrd, occ oth spec place	31	1	1
+6853821000006112	Fall down steps	30	1	1
+328189010	Fall in aircraft	30	1	1
+386241000006118	[X]Fall same level, slip trip+stumb, occ other specif place	29	1	1
+329376018	Fall on same level from shoving by other person, unspecified	29	1	1
+5851781000006116	Falls occurrence	28	1	1
+385001000006119	[X]Fall inv ice-skat ski roll-skat/skateboard occ resid inst	27	1	1
+385611000006114	[X]Fall involving wheelchair, occurrence on street/highway	26	1	1
+410021000006113	[X]Other fall frm one levl to anothr occ at oth specif plce	26	1	1
+386361000006112	[X]Fall sme lvl frm slip trip+stumb, occ trade/service area	26	1	1
+386341000006113	[X]Fall sme levl frm slip trip+stumb, occ sport/athlet area	26	1	1
+386201000006115	[X]Fall same level from slip trip + stumb occ resid instit	26	1	1
+5174531000006115	Fall due to loss of equilibrium	26	1	1
+385041000006117	[X]Fall inv ice-skate skis roll-skate/skateboard, occ home	25	1	1
+5174461000006111	Fall in bath or shower	25	1	1
+665371000006115	Fall on same level from other push/shove/collide oth person	25	1	1
+1833851000006117	Falling injury	25	1	1
+386481000006111	[X]Fall, ice-skt ski rol-skt/skbd, sch oth inst/pub adm area	24	1	1
+386351000006110	[X]Fall sme levl slp trp+stmb occ sch, oth inst/pub adm area	24	1	1
+386271000006114	[X]Fall same levl inv ice / snow, occ at other specif place	24	1	1
+329335010	Fall into cavity, unspecified	23	0	1
+385931000006114	[X]Fall on + from stair + step occurrnce at unspecif place	21	1	1
+410131000006112	[X]Other fall on same level, occurrence on street / highway	20	1	1
+404691000006112	[X]Oth fall sme levl coll/push anoth per occ oth spec place	20	1	1
+329343017	Fall into other hole, unspecified	20	0	1
+328190018	Fall on aircraft	19	1	1
+385021000006112	[X]Fall inv ice-skat ski roll-skat/skbrd occ street/highway	18	1	1
+404681000006114	[X]Oth fall sme levl col/push anoth pers occ sport/athl area	18	1	1
+663791000006116	Fall due to watercraft accid - water skier injured	18	0	1
+417471000006117	[X]Othr fall frm one level to anothr occurrn at unspec plce	17	1	1
+325875015	Fall from train, passenger injured	17	1	1
+410071000006114	[X]Other fall on same level occurrence at unspecified place	17	1	1
+386381000006119	Fall whilst being carried	17	1	1
+7224961000006115	Fall in nursing home	17	1	1
+410091000006110	[X]Other fall on same level occurrn at sports/athletic area	15	1	1
+386191000006118	[X]Fall sam lvl inv ice/snw occ sch oth inst/pub admin area	15	1	1
+664391000006118	Fall from road vehicle NEC - other specified person injured	15	1	1
+385581000006118	[X]Fall involving wheelchair occurrnce at unspecified place	14	1	1
+430981000006116	[X]Unspecified fall occurrn at industrial/construction area	14	1	1
+385811000006110	[X]Fall on + frm stair + step occ sch oth inst/pub adm area	14	1	1
+329293016	Fall on or from escalator NOS	14	1	1
+10148651000006112	Facial fracture due to fall	14	1	1
+325859018	Fall in train	13	1	1
+385921000006111	[X]Fall on + from stair + step occurrn at trade/servce area	13	1	1
+6251101000006115	Frequency of falls	13	1	1
+430581000006113	[X]Unspecif fall occurrnce school oth instit/pub admin area	12	1	1
+5174801000006113	Fall from toilet seat	12	1	1
+5567701000006113	Fall on same level due to nature of surface	12	1	1
+5731411000006118	Fall - collision/push/shove	12	1	1
+332876015	[X]Fall while being carried or supported by other persons	11	1	1
+325864019	Fall on train	11	1	1
+5174471000006116	Fall due to defective pavement	11	1	1
+386331000006115	[X]Fall same levl, slip trip+stumb occ indust/construct area	10	1	1
+1832971000006112	Fall due to wet surface	10	1	1
+327555017	Fall due to collision or other accident to watercraft	10	0	1
+333046019	[X]Unspecified fall, occurrence at trade and service area	9	1	1
+3211791000006112	Fall in shower	9	1	1
+663731000006115	Fall due to watercraft accid - occ small powered boat inj	9	0	1
+410001000006115	[X]Other fall frm one level to anoth occ indust/constr area	8	1	1
+385961000006117	[X]Fall on + from stairs + steps occurrn on street/highway	8	1	1
+385951000006119	[X]Fall on + from stair + step occurrnce resident instit'n	8	1	1
+410141000006119	[X]Other fall on same level, occurrnce in resident instit'n	8	1	1
+385111000006117	[X]Fall invlv chair occ at school oth instit/pub admin area	8	1	1
+664711000006112	Fall in road vehicle NEC - pedestrian injured	8	1	1
+385221000006115	[X]Fall involv other furniture occurrn resident institut'n	7	1	1
+325861010	Fall in train, passenger injured	7	1	1
+664701000006114	Fall in road vehicle NEC - other specified person injured	7	1	1
+665121000006118	Fall on aircraft - occupant of military aircraft injured	7	1	1
+385321000006110	[X]Fall involv wheelchair, occurrnce at other specif place	6	1	1
+410011000006117	[X]Other fall frm one level to anothr occ at trde/serv area	6	1	1
+5174761000006116	Fall from stool	6	1	1
+404651000006118	[X]Oth fall same levl collisn/push anoth pers occ resid inst	6	1	1
+410151000006117	[X]Other fall on same levl occ schl oth inst/pub admin area	6	1	1
+6705241000006112	Unexplained recurrent falls	6	1	1
+3972561000006111	Fall in bathtub	6	1	1
+663751000006110	Fall due to watercraft accid - other specified person inj	6	0	1
+385011000006116	[X]Fall inv ice-skat ski roll-skat/skatebrd, occur on farm	5	1	1
+333048018	[X]Unspecified fall, occurrence on farm	5	1	1
+665881000006111	Fall-stairs water transport - unspecified person injured	5	1	1
+665851000006115	Fall-stairs water transport - other specified person injured	5	1	1
+386221000006113	[X]Fall same level from slip trip+stumbling, occur on farm	5	1	1
+404671000006111	[X]Oth fall same levl, collisn/push by anoth pers, occ home	5	1	1
+386291000006110	[X]Fall same levl inv ice / snow, occ trade / service area	5	1	1
+385461000006110	[X]Fall involving chair occurrence in residential instit'n	5	1	1
+663741000006113	Fall due to watercraft accid - occ small unpowered boat inj	5	0	1
+417491000006116	[X]Othr fall frm one level to anothr, sch inst/pub adm area	4	1	1
+386431000006110	[X]Fall whle carr'd/supprtd by oth per occ trade/serv area	4	1	1
+332927013	[X]Fall involving other furniture, occurrence on farm	4	1	1
+325878018	Fall in, on or from train NOS	4	1	1
+665511000006118	Fall on stairs in water transport (WT)	4	1	1
+385941000006116	[X]Fall on + from stair + step occurrnce indust/constr area	4	1	1
+5171341000006118	Fall down stairs of motor bus whilst boarding or alighting	4	1	1
+5174541000006113	Fall due to failure of support	4	1	1
+665671000006114	Fall to other level NEC in WT - other specified person inj	4	1	1
+404711000006110	[X]Oth fall sme levl coll/push anth pers occ trad/serv area	4	1	1
+410161000006115	[X]Other fall on same levl, occurrn at indust/constuct area	4	1	1
+410101000006116	[X]Other fall on same level occurrnce at trade/service area	4	1	1
+385431000006118	[X]Fall involving chair occurrence at indust/construct area	4	1	1
+385441000006111	[X]Fall involving chair occurrence at other specified place	4	1	1
+665091000006117	Fall on aircraft - crew commercial aircraft surface/surf inj	4	1	1
+385121000006113	[X]Fall invlv w'chair occ school oth instit/pub admin area	3	1	1
+385641000006113	[X]Fall involvng wheelchair occurrnce at trade/service area	3	1	1
+333026012	[X]Other fall from one level to another, occurrence on farm	3	1	1
+386391000006116	[X]Fall whle carr'd/supportd by oth per, occ unspecif place	3	1	1
+417501000006112	[X]Othr fall from one level to anothr occ sport/athlet area	3	1	1
+386461000006118	[X]Fall whle carried/supported oth persons occ resid instit	3	1	1
+385341000006115	[X]Fall involving bed occurrence at sports / athletics area	3	1	1
+5171381000006112	Fall from car in street whilst boarding or alighting	3	1	1
+5512871000006114	Fall on same level from impact against object	3	1	1
+404641000006115	[X]Oth fall same levl coll/push anoth pers occ unspec place	3	1	1
+386121000006115	[X]Fall on same levl involving ice and snow occurrn on farm	3	1	1
+404731000006116	[X]Oth fall sme lvl col/push anoth per occ indus/constr area	3	1	1
+410081000006112	[X]Other fall on same level occurrn at oth specified place	3	1	1
+332913015	[X]Fall involving chair, occurrence on street and highway	3	1	1
+664381000006116	Fall from road vehicle NEC - occupant of tram injured	3	1	1
+665131000006115	Fall on aircraft - occupant of spacecraft injured	3	1	1
+663711000006114	Fall due to watercraft accid - crew other watercraft injured	3	0	1
+385621000006118	[X]Fall involving wheelchair, occurrn at sport/athlet area	2	1	1
+385171000006114	[X]Fall involv oth furnitre occurrnce at indust/constr area	2	1	1
+385201000006113	[X]Fall involv oth furniture occurrnce at trade/serv area	2	1	1
+385091000006114	[X]Fall inv oth furnitur occ schl oth instit/pub admin area	2	1	1
+385071000006113	[X]Fall inv ice-skt ski rol-skt/skbrd occ trade/servce area	2	1	1
+386451000006115	[X]Fall whle carr'd/supprtd oth pers occ indust/constr area	2	1	1
+332903011	[X]Fall involving bed, occurrence on street and highway	2	1	1
+325880012	Fall in, on or from train NOS, passenger injured	2	1	1
+665861000006118	Fall-stairs water transport - passenger other watercraft inj	2	1	1
+4885551000006118	Fall on stairs in water transport	2	1	1
+665661000006119	Fall to other level NEC in WT - occ small unpowered boat inj	2	1	1
+665651000006116	Fall to other level NEC in WT - occ small powered boat inj	2	1	1
+404631000006113	[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area	2	1	1
+333037013	[X]Other fall on same level, occurrence on farm	2	1	1
+404701000006112	[X]Oth fall sme levl coll/push anoth pers occ street/h'way	2	1	1
+386311000006114	[X]Fall same levl inv ice/snow, occ indust / construct area	2	1	1
+332914014	[X]Fall involv chair, occurrence at trade and service area	2	1	1
+7079721000006116	Fall on hard surface	2	1	1
+664691000006114	Fall in road vehicle NEC - occupant of tram injured	2	1	1
+664721000006116	Fall in road vehicle NEC - unspecified person injured	2	1	1
+663761000006112	Fall due to watercraft accid - passenger oth watercraft inj	2	0	1
+663781000006119	Fall due to watercraft accid - unspecified person injured	2	0	1
+665631000006111	Fall to other level NEC in WT - crew other watercraft inj	2	0	1
+665691000006110	Fall to other level NEC in WT - swimmer injured	2	0	1
+332896011	[X]Fall involving wheelchair, occurrence on farm	1	1	1
+385311000006119	[X]Fall involv wheelchair, occurrnce at indust/constr area	1	1	1
+385231000006117	[X]Fall involv other furniture occurrnce on street/highway	1	1	1
+386471000006113	[X]Fall whle crd/sprtd oth per occ sch oth inst/pub adm area	1	1	1
+385181000006112	[X]Fall involv oth furnitur occurrnce at other specif place	1	1	1
+385051000006115	[X]Fall inv ice-skt ski rol-skt/skbrd indust/construct area	1	1	1
+385191000006110	[X]Fall involv oth furniture occurrnce at sport/athlet area	1	1	1
+386401000006119	[X]Fall whle carr'd/supportd by other persons, occ on farm	1	1	1
+386411000006116	[X]Fall whle carr'd/supportd oth per occ other specif place	1	1	1
+417481000006119	[X]Othr fall frm one level to anothr occurrn in resid inst	1	1	1
+386421000006112	[X]Fall whle carr'd/supportd oth pers occ sport/athlet area	1	1	1
+386441000006117	[X]Fall whle carr'd/supprtd by oth pers occ on street/h'way	1	1	1
+332904017	[X]Fall involving bed, occurrence at trade and service area	1	1	1
+332906015	[X]Fall involving bed, occurrence on farm	1	1	1
+332907012	[X]Fall involving bed, occurrence at other specified place	1	1	1
+332908019	[X]Fall involving bed, occurrence at unspecified place	1	1	1
+385141000006118	[X]Fall involv bed occurrn school oth instit/pub admin area	1	1	1
+2832551000006110	Fall involving bed	1	1	1
+385131000006111	[X]Fall involv bed occurrn at industrial/construction area	1	1	1
+325882016	Fall in, on or from train NOS, pedal cyclist injured	1	1	1
+325881011	Fall in, on or from train NOS, pedestrian injured	1	1	1
+664891000006113	Fall in, on or from train NOS, other spec person injured	1	1	1
+325879014	Fall in, on or from train NOS, railway employee injured	1	1	1
+325884015	Fall in, on or from train NOS, unspecified person injured	1	1	1
+325862015	Fall in train, other specified person injured	1	1	1
+325863013	Fall in train, unspecified person injured	1	1	1
+325870013	Fall on train, other specified person injured	1	1	1
+325872017	Fall on train, unspecified person injured	1	1	1
+325876019	Fall from train, other specified person injured	1	1	1
+325877011	Fall from train, unspecified person injured	1	1	1
+665811000006116	Fall-stairs water transport - crew other watercraft injured	1	1	1
+332949019	[X]Fall on and from stairs and steps, occurrence on farm	1	1	1
+385911000006115	[X]Fall on + from stair + step occurrn at sport/athlet area	1	1	1
+5174491000006115	Fall due to trip on loose carpet	1	1	1
+5174561000006112	Fall due to leaning on insecure furniture	1	1	1
+665681000006112	Fall to other level NEC in WT - passenger oth watercraft inj	1	1	1
+1832831000006116	Fall on same level	1	1	1
+404721000006119	[X]Oth fall sme levl, collisn/push by anoth pers, occ farm	1	1	1
+386231000006111	[X]Fall same level involv ice / snow occurrn resid instit'n	1	1	1
+332916011	[X]Fall involving chair, occurrence on farm	1	1	1
+332918012	[X]Fall involving chair, occurrence at unspecified place	1	1	1
+385451000006113	[X]Fall involving chair occurrence at sports/athletics area	1	1	1
+665841000006117	Fall on stairs in water transport, occupant of small unpowered boat injured	1	1	1
+665831000006110	Fall on stairs in water transport, occupant of small powered boat injured	1	1	1
+5171361000006119	Fall on step of motor bus whilst boarding or alighting	1	1	1
+5171521000006115	Fall on public service vehicle	1	1	1
+7106141000006116	Fall on concrete	1	1	1
+664651000006115	Fall in aircraft - other occ comm aircraft surf/surf injured	1	1	1
+664411000006118	Fall from road vehicle NEC - unspecified person injured	1	1	1
+664631000006110	Fall in aircraft - occupant other powered aircraft injured	1	1	1
+664661000006118	Fall in aircraft - other person injured	1	1	1
+663721000006118	Fall due to watercraft accid - docker or stevedore injured	1	0	1
+663771000006117	Fall due to watercraft accid - swimmer injured	1	0	1
+665641000006118	Fall to other level NEC in WT - docker or stevedore injured	1	0	1
+665711000006113	Fall to other level NEC in WT - water skier injured	1	0	1
+2783821000006118	Fall involving wheelchair	NA	1	0
+2783801000006111	Fall with wheelchair	NA	1	0
+4899821000006112	Fall on or from moving staircase	NA	1	0
+11924751000006117	Fall on moving sidewalk	NA	1	0
+4900221000006114	Fall on travelling pavement	NA	1	0
+5170941000006110	Fall from stationary railway vehicle	NA	1	0
+5171351000006116	Fall down stairs of motor bus while boarding or alighting	NA	1	0
+5171391000006110	Fall from car in street while boarding or alighting	NA	1	0
+5171401000006112	Fall from car whilst boarding or alighting due to tripping on seat belt	NA	1	0
+5171411000006110	Fall from car while boarding or alighting due to tripping on seat belt	NA	1	0
+5174441000006112	Fall due to polished surface	NA	1	0
+5174451000006114	Fall due to discarded object	NA	1	0
+5174481000006118	Fall due to accidental trip by another person	NA	1	0
+5174501000006111	Fall due to trip on loose rug	NA	1	0
+5174551000006110	Fall due to failure of rail	NA	1	0
+5174571000006117	Fall on same level due to accidental impact with another person	NA	1	0
+5174591000006116	Fall due to impact against pedestrian conveyance	NA	1	0
+5174601000006112	Fall due to impact against pram	NA	1	0
+5174631000006116	Fall due to impact against perambulator	NA	1	0
+5174621000006119	Fall due to impact against push chair	NA	1	0
+5174611000006110	Fall due to impact against baby buggy	NA	1	0
+5174641000006114	Fall due to impact against baby carriage	NA	1	0
+5174661000006113	Fall due to impact against shopping trolley	NA	1	0
+5174671000006118	Fall due to impact against supermarket shopping cart	NA	1	0
+5174651000006111	Fall due to impact against supermarket trolley	NA	1	0
+5174681000006115	Fall due to impact against shopping cart	NA	1	0
+5174691000006117	Fall due to impact against wheelbarrow	NA	1	0
+5174791000006112	Fall from ambulance stretcher	NA	1	0
+5567711000006111	Fall on same level due to impact against another person	NA	1	0
+12761861000006112	Fall while being carried	NA	1	0
+13031301000006119	Fall while being carried	NA	1	0
+3484331000006110	Fall whilst being carried	NA	1	0
+3858201000006119	Fall involving chair	NA	1	0
+5171371000006114	Fall on step of motor bus while boarding or alighting	NA	1	0
+5171531000006117	Fall on stationary public service vehicle	NA	1	0
+5171541000006110	Fall on moving public service vehicle	NA	1	0
+5171551000006112	Fall whilst boarding or alighting from public service vehicle	NA	1	0
+5171561000006114	Fall while boarding or alighting from public service vehicle	NA	1	0
+5171591000006118	Fall while boarding or alighting from goods vehicle	NA	1	0
+5171581000006116	Fall whilst boarding or alighting from goods vehicle	NA	1	0
+5174581000006119	Fall on same level due to deliberate assault by another person	NA	1	0
+5174781000006114	Fall from hospital gurney	NA	1	0
+5174771000006111	Fall from hospital trolley	NA	1	0
+5851751000006112	Observation of frequency of falls	NA	1	0
+6346521000006115	Patient death associated with a fall whilst being cared for in a healthcare facility	NA	1	0
+6346531000006117	Patient death associated with a fall while being cared for in a healthcare facility	NA	1	0
+7079731000006118	Fall onto hard surface	NA	1	0
+7106151000006119	Fall onto concrete	NA	1	0
+3607071000006116	Fall at construction site	NA	1	0
+3711601000006115	Fall from bench	NA	1	0

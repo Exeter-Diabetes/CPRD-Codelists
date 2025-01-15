@@ -1,13 +1,13 @@
-medcodeid	term_medcode
-129525017	Candidiasis
-287573012	Other specified candidiasis
-395445010	Other specified candidiasis NOS
-3769631000006113	Candidosis
-3769611000006119	Infection by Candida species
-287593016	Candidiasis NOS
-503749013	Thrush
-3769651000006118	Candida infection
-288216014	[X]Candidiasis, unspecified
-129530018	Moniliasis
-3769641000006115	Monilia infection
-288215013	[X]Candidiasis of other sites
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+503749013	Thrush	1187371	1	1
+129525017	Candidiasis	671484	1	1
+287593016	Candidiasis NOS	29956	1	1
+129530018	Moniliasis	8949	1	1
+287573012	Other specified candidiasis	1392	1	1
+395445010	Other specified candidiasis NOS	935	1	1
+3769651000006118	Candida infection	698	1	1
+288215013	[X]Candidiasis of other sites	563	1	1
+288216014	[X]Candidiasis, unspecified	188	1	1
+3769631000006113	Candidosis	49	1	1
+3769641000006115	Monilia infection	2	1	1
+3769611000006119	Infection by Candida species	NA	1	0

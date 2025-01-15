@@ -1,374 +1,384 @@
-medcodeid	term_medcode
-4540771000006118	History of asthma
-251716013	H/O: asthma
-3005801000006117	EIA - Exercise-induced asthma
-3005811000006119	Exercise induced asthma
-655601000006113	Exercise-induced asthma
-655611000006111	Exercise induced asthma
-183191000006115	Recurrent wheezy bronchitis
-301450011	Chronic asthmatic bronchitis
-301451010	Chronic wheezy bronchitis
-104872017	Extrinsic asthma without status asthmaticus
-817361000006114	Hay fever with asthma
-350154010	Pollen asthma
-350153016	Hay fever with asthma
-7628271000006114	Acute exacerbation of extrinsic asthma
-7628281000006112	Acute exacerbation of immunoglobulin E-mediated allergic asthma
-350151019	Acute exacerbation of allergic asthma
-885291000006115	Extrinsic asthma - atopy
-6512381000006116	Atopic asthma
-1483199016	Allergic asthma
-660351000006118	Allergic atopic asthma
-350152014	Allergic asthma NEC
-350147016	Childhood asthma
-7030341000006118	IgE mediated allergic asthma
-7030351000006116	Immunoglobulin E-mediated allergic asthma
-7030321000006113	IgE mediated asthma
-7030311000006117	IgE-mediated allergic asthma
-301499010	Extrinsic asthma
-21390015	Intrinsic asthma without status asthmaticus
-350156012	Acute exacerbation of intrinsic asthma
-5492441000006114	Non-allergic asthma
-5492451000006111	Asthma due to internal immunological process
-301508013	Intrinsic asthma NOS
-396114013	Intrinsic asthma
-350149018	Late-onset asthma
-350148014	Late onset asthma
-5054341000006110	Late-onset asthma
-301509017	Mixed asthma
-301485011	Asthma
-4781561000006116	BHR - Bronchial hyperreactivity
-4781551000006118	Bronchial hyperreactivity
-4781531000006113	Asthmatic
-4781581000006114	Bronchial hypersensitivity
-301511014	Asthma unspecified
-396120014	Asthma NOS
-4781521000006110	Airway hyperreactivity
-301480018	Bronchial asthma
-4781571000006111	Bronchial hyperresponsiveness
-2535857010	Hyperreactive airway disease
-396118011	Life threatening acute exacerbation of asthma
-7628191000006118	Acute severe exacerbation of asthma
-145961000006117	Acute severe exacerbation of asthma
-419211018	Acute exacerbation of asthma
-7627241000006119	Acute exacerbation of asthma
-409865018	Asthma attack NOS
-396119015	Asthma attack
-11903851000006115	Severe asthma attack
-95786019	Occupational asthma
-3435971000006119	Industrial asthma
-983771000006118	Work aggravated asthma
-929091000006111	Aspirin-induced asthma
-1780388018	Asthma confirmed
-253533013	Asthma resolved
-496491000006117	Asthma resolved
-338238011	Brittle asthma
-7628301000006111	Acute severe exacerbation of allergic asthma
-7628311000006114	Acute severe exacerbation of extrinsic asthma
-7628321000006118	Acute severe exacerbation of immunoglobin E-mediated allergic asthma
-264540018	Asthma disturbing sleep
-264541019	Asthma causing night waking
-264542014	Asthma disturbs sleep weekly
-264543016	Asthma disturbs sleep frequently
-264544010	Asthma not disturbing sleep
-264545011	Asthma never disturbs sleep
-264546012	Asthma limiting activities
-264547015	Asthma not limiting activities
-6724151000006111	Asthma care
-264550017	Asthma management
-264551018	Asthma severity
-1208971012	Occasional asthma
-1208969012	Mild asthma
-1208970013	Moderate asthma
-1208972017	Severe asthma
-264556011	Asthma prophylactic medication used
-264565016	Emergency asthma admission since last encounter
-264566015	Asthma restricts exercise
-264567012	Asthma sometimes restricts exercise
-264568019	Asthma severely restricts exercise
-264569010	Asthma never restricts exercise
-12485061000006112	Emergency admission, asthma
-4723761000006117	Emergency hospital admission for asthma
-283550015	Emergency hospital admission for asthma
-3169561000006112	Detergent workers' lung
-3169591000006116	Enzyme lung
-3169571000006117	Enzyme detergent lung
-3169601000006112	Enzyme lung disease
-3169581000006119	Enzyme detergent respiratory disease
-69311016	Detergent asthma
-7016001000006111	Non IgE mediated allergic asthma
-7016011000006114	Non-immunoglobulin E mediated allergic asthma
-7015991000006110	Non-IgE mediated allergic asthma
-4020511000006119	Drug-induced asthma
-3047731000006119	Bakers' asthma
-3047751000006114	Baker's asthma
-3047741000006112	Flour asthma
-5054371000006119	Colophony asthma
-5054391000006118	Sulfite-induced asthma
-5054381000006116	Sulphite-induced asthma
-405054019	Asthma monitored
-405055018	Asthma monitoring check done
-2163183015	Wheezy bronchitis
-6720721000006111	Asthmatic bronchitis
-5649191000006110	Exacerbation of asthma
-5904331000006116	Asthma control steps
-11922851000006115	Acute asthma
-1212342016	Asthma daytime symptoms
-1208957016	Asthma causes night symptoms 1 to 2 times per month
-1208960011	Asthma never causes daytime symptoms
-1208954011	Asthma causes daytime symptoms 1 to 2 times per month
-1208955012	Asthma causes daytime symptoms 1 to 2 times per week
-1208956013	Asthma causes daytime symptoms most days
-1208959018	Asthma limits walking up hills or stairs
-1208958014	Asthma limits walking on the flat
-1208962015	Number of asthma exacerbations in past year
-6514741000006118	Asthma finding
-1484953014	Absent from work or school due to asthma
-6550131000006111	Nocturnal asthma
-1488722011	Asthma night-time symptoms
-1780194017	Asthma trigger
-1768981000000110	Asthma never causes night symptoms
-9317331000006113	Asthma-COPD overlap syndrome (ACOS)
-1948051000006112	Asthma-chronic obstructive pulmonary disease overlap syndrome
-9317341000006115	ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome
-3511374015	Moderate acute exacerbation of asthma
-8465381000006111	Life threatening acute exacerbation of extrinsic asthma
-151338014	Life threatening acute exacerbation of allergic asthma
-8465371000006113	Life threatening acute exacerbation of allergic asthma
-8465401000006111	Life threatening acute exacerbation of non-allergic asthma
-8465391000006114	Life threatening acute exacerbation of intrinsic asthma
-98546013	Life threatening acute exacerbation of intrinsic asthma
-9317261000006114	Aspirin exacerbated respiratory disease
-9317291000006118	Samter triad
-9317281000006116	Samter syndrome
-9317271000006119	AERD - aspirin exacerbated respiratory disease
-636291000000118	Asthma trigger - respiratory infection
-8060791000006112	Asthma trigger - respiratory infection
-8060811000006111	Asthma trigger - seasonal
-636311000000117	Asthma trigger - seasonal
-305611000000115	Asthma trigger: animals
-8060841000006110	Asthma trigger - animal
-636231000000119	Asthma trigger - cold air
-8061011000006113	Asthma trigger - cold air
-636251000000114	Asthma trigger - damp
-8061031000006119	Asthma trigger - damp
-636271000000117	Asthma trigger - emotion
-8061051000006114	Asthma trigger - emotion
-1739131000000111	Asthma trigger - airborne dust
-8109001000006118	Asthma trigger - airborne dust
-8109021000006111	Asthma trigger - exercise
-1739141000000119	Asthma trigger - exercise
-1739151000000116	Asthma trigger - pollen
-8109041000006116	Asthma trigger - pollen
-1739161000000118	Asthma trigger - tobacco smoke
-8109071000006112	Asthma trigger - tobacco smoke
-1739171000000113	Asthma trigger - warm air
-8109091000006113	Asthma trigger - warm air
-1722421000000110	Asthma causes night time symptoms 1 to 2 times per week
-1722501000000119	Asthma causes symptoms most nights
-1722581000000112	Asthma limits activities 1 to 2 times per month
-1722651000000119	Asthma limits activities 1 to 2 times per week
-1722731000000116	Asthma limits activities most days
-1811901000006116	Number of days absent from school due to asthma in past 6 months
-8263631000006115	Asthma trigger - wind
-2131281000000114	Asthma trigger - perfume
-2460311000000112	At risk of severe asthma exacerbation
-2690151000006115	Feather-pickers' disease
-2690161000006118	Feather asthma
-2786201000006115	Printers' asthma
-2815001000006115	Meat-wrappers' asthma
-2988741000006118	Allergic-infective asthma
-3176931000006111	Asthmatic pulmonary alveolitis
-3402341000006114	Asthma without status asthmaticus
-94731013	Wood asthma
-3425341000006113	Wood asthma
-3425351000006110	Wood-workers' asthma
-3425371000006117	Wood dust asthma
-3425391000006116	Wood dust pneumonitis
-3425401000006119	Wood pulp workers' lung
-3425381000006119	Saw dust asthma
-3425361000006112	Wood-workers' lung
-3494911000006116	Silo-workers' asthma
-3494901000006119	Silo-fillers' lung
-101749012	Silo-fillers' disease
-142162019	Byssinosis
-3894091000006115	Cotton-dust asthma
-3894081000006118	Cotton workers' lung disease
-3894101000006114	Mill fever
-4009591000006110	Chemical-induced asthma
-797211000006117	Further asthma - drug prevention
-282488010	Asthma control step 0
-282489019	Asthma control step 1
-282490011	Asthma control step 2
-282491010	Asthma control step 3
-282492015	Asthma control step 4
-282493013	Asthma control step 5
-285239019	Seen in asthma clinic
-285727014	Attends asthma monitoring
-12452001000006112	Refuses asthma monitoring
-285729012	Asthma monitor offer default
-496311000006117	Asthma monitoring call first letter
-496321000006113	Asthma monitoring call second letter
-496331000006111	Asthma monitoring call third letter
-496361000006119	Asthma monitoring call verbal invite
-496351000006116	Asthma monitoring call telephone invite
-285737016	Asthma monitoring deleted
-411877015	Asthma monitoring
-5979441000006111	Asthma monitoring call
-5979451000006113	Asthma monitoring status
-456163018	Asthma - currently active
-456164012	Asthma - currently dormant
-6198311000006117	Corticosteroids used in the treatment of asthma
-6298441000006111	PIE - Pulmonary infiltrates with eosinophilia
-6298451000006113	Pulmonary infiltrates with eosinophilia
-301739012	Pulmonary eosinophilia NOS
-2670764010	Pulmonary eosinophilia
-6298421000006116	Eosinophilic asthma
-6298471000006115	Andrews syndrome
-6298461000006110	Eosinophilic pneumonia
-6298431000006118	EP - Eosinophilic pneumonia
-1208976019	Asthma treatment compliance unsatisfactory
-1208977011	Asthma treatment compliance satisfactory
-1484905010	Change in asthma management plan
-1484910014	Step up change in asthma management plan
-1484911013	Step down change in asthma management plan
-1484970018	Asthma monitoring due
-1488421017	Asthma annual review
-1488422012	Asthma follow-up
-1488436019	Asthma medication review
-6589241000006112	Asthma trigger finding
-1780378019	Asthma monitoring by nurse
-1780379010	Asthma monitoring by doctor
-6703821000006115	Platinum asthma
-6703841000006110	Cheese-makers' asthma
-6703881000006116	Isocyanate induced asthma
-6706971000006118	Asthma self-management
-6706961000006113	Asthma self-management behavior
-6706951000006111	Asthma self-management behaviour
-22508019	Flax-dressers' disease
-2708631000006110	Flax dressers disease
-2708611000006116	Strippers' disease
-2708621000006112	Stripper's asthma
-6782071000006115	Cough variant asthma
-11927791000006118	Asthma clinical management plan
-6920631000006113	Tea-makers' asthma
-7021801000006116	Substance induced asthma
-7076331000006112	Intermittent asthma
-7077481000006119	Mild intermittent asthma
-7067211000006115	Mild persistent asthma
-7071891000006112	Moderate persistent asthma
-7062421000006112	Severe persistent asthma
-7052221000006118	Exacerbation of intermittent asthma
-7100621000006118	History of aspirin exacerbated respiratory disease
-7100611000006114	History of aspirin sensitive asthma with nasal polyp
-7100601000006111	History of aspirin-sensitive asthma with nasal polyp
-7258581000006114	Acute exacerbation of chronic asthmatic bronchitis
-1118291000000110	Asthma control test score
-7272271000006114	Asthma control test score
-11929001000006115	Asthma control test
-7302441000006115	Mini AQLQ (asthma quality of life questionnaire)
-11929181000006113	Mini asthma quality of life questionnaire
-7309651000006111	ACQ - Asthma control questionnaire
-11929171000006110	Asthma control questionnaire
-7307941000006113	Seasonal asthma
-1766051000006114	Royal College of Physicians asthma assessment three questions score
-7348611000006112	Royal College of Physicians 3 questions score
-7970171000006119	Acute exacerbation of chronic obstructive airways disease with asthma
-1139131000000117	Under care of asthma specialist nurse
-7510501000006115	Education about asthma self management
-7518271000006114	Did not attend asthma review
-7526251000006112	Asthma self management
-9322561000006117	Asthma in mother complicating childbirth
-9322571000006112	Asthma in childbirth
-7567071000006115	Asthma clinic
-7584511000006110	Allergic asthma due to Dermatophagoides pteronyssinus
-7584531000006116	Allergic asthma caused by Dermatophagoides pteronyssinus
-7584521000006119	Dermatophagoides pteronyssinus allergic asthma
-7584561000006113	Allergic asthma caused by Dermatophagoides farinae
-7584551000006111	Dermatophagoides farinae allergic asthma
-7584541000006114	Allergic asthma due to Dermatophagoides farinae
-7617621000006116	Exacerbation of moderate persistent asthma
-7617611000006112	Exacerbation of mild persistent asthma
-7617631000006118	Exacerbation of severe persistent asthma
-7618811000006114	Uncomplicated severe persistent asthma
-7617601000006114	Uncomplicated asthma
-7618801000006111	Uncomplicated moderate persistent asthma
-7618791000006110	Uncomplicated mild persistent asthma
-7626531000006113	Acute severe exacerbation of moderate persistent asthma
-7626521000006110	Acute severe exacerbation of severe persistent asthma
-7626541000006115	Acute severe exacerbation of mild persistent asthma
-7628331000006115	Acute severe exacerbation of intrinsic asthma
-216186011	Emergency asthma patient visit since last encounter
-9317311000006119	Chronic obstructive asthma co-occurrent with acute exacerbation of asthma
-8038931000006119	Severe persistent asthma co-occurrent with allergic rhinitis
-8031201000006110	Acute exacerbation of asthma co-occurrent with allergic rhinitis
-8038961000006111	Mild persistent asthma co-occurrent with allergic rhinitis
-7970131000006117	Intermittent asthma uncontrolled
-8038971000006116	Intermittent asthma co-occurrent with allergic rhinitis
-7966291000006118	Intermittent asthma well controlled
-9315231000006113	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis
-9315201000006117	Mild persistent allergic asthma
-9315221000006110	Acute severe exacerbation of mild persistent allergic asthma
-8042581000006114	Acute exacerbation of mild persistent asthma
-9315351000006112	Moderate persistent allergic asthma
-8042571000006111	Acute exacerbation of moderate persistent asthma
-9314961000006112	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis
-9315111000006113	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis
-9315091000006116	Severe persistent allergic asthma
-9315101000006110	Acute severe exacerbation of severe persistent allergic asthma
-9315411000006118	Moderate persistent controlled asthma co-occurrent with allergic rhinitis
-9315371000006119	Acute severe exacerbation of moderate persistent allergic asthma
-8038941000006112	Moderate persistent asthma co-occurrent with allergic rhinitis
-9315391000006118	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis
-8555681000006115	Steroid dependent asthma
-7687651000006111	Acute asthma control management
-7688501000006112	Recent asthma management
-9315141000006112	Severe persistent asthma controlled co-occurrent with allergic rhinitis
-9315261000006116	Mild persistent asthma controlled
-9315461000006115	Moderate persistent asthma uncontrolled
-9315291000006112	Mild persistent allergic asthma uncontrolled
-9315121000006117	Severe persistent allergic asthma controlled
-9315251000006118	Mild persistent allergic asthma controlled
-9315431000006112	Moderate persistent allergic asthma uncontrolled
-9315151000006114	Severe persistent allergic asthma uncontrolled
-9315171000006116	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis
-9315301000006113	Mild persistent asthma uncontrolled
-9315341000006110	Moderate persistent asthma controlled
-9315441000006119	Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis
-9315401000006116	Moderate persistent allergic asthma controlled
-9315321000006115	Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis
-9315281000006114	Mild persistent asthma controlled co-occurrent with allergic rhinitis
-5167051000006116	Poisoning caused by herbal asthma mixture
-5167041000006118	Poisoning by herbal asthma mixture
-5769491000006116	Poisoning caused by herbal asthma mixture of undetermined intent
-5769481000006119	Poisoning by herbal asthma mixture of undetermined intent
-2423691000000114	Telehealth asthma monitoring
-7979131000006110	Asthma action plan not done
-7748211000006113	Asthma action care planning
-9315181000006118	Severe uncontrolled persistent asthma
-9315071000006117	Severe controlled persistent asthma
-9934311000006111	Oral steroid-dependent asthma
-7961291000006112	Status asthmaticus
-7961281000006114	Acute severe asthma
-7961271000006111	Acute severe refractory exacerbation of asthma
-3505218014	Use of asthma symptom diary
-3505219018	Asthma monitoring using asthma symptom diary
-3514315010	Asthma in pregnancy
-3514925011	Acute severe exacerbation of asthma co-occurrent and due to allergic asthma
-3514926012	Allergic asthma with status asthmaticus
-3514928013	Uncomplicated allergic asthma
-3514930010	Uncomplicated non-allergic asthma
-2474332015	Asthma clinical management plan
-3637387011	Exacerbation of allergic asthma
-11999511000006117	ACQ (Asthma Control Questionnaire) score
-1139011000000112	Asthma Control Questionnaire score
-11999521000006113	Assessment using Asthma Control Questionnaire
-11999531000006111	Assessment using ACQ (Asthma Control Questionnaire)
-285728016	Asthma monitoring refused
-12008761000006111	Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire)
-12008771000006116	Assessment using Mini Asthma Quality of Life Questionnaire
-12008791000006115	Mini Asthma Quality of Life Questionnaire score
-1139051000000111	Mini AQLQ (Asthma Quality of Life Questionnaire) score
-7965491000006114	Asthma with irreversible airway obstruction
-477291000006114	Allergic bronchitis NEC
-2240591000000119	Chronic asthma with fixed airflow obstruction
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+301485011	Asthma	27571880	1	1
+1488421017	Asthma annual review	15853990	1	1
+264544010	Asthma not disturbing sleep	9308300	1	1
+264547015	Asthma not limiting activities	8933828	1	1
+264550017	Asthma management	6724022	1	1
+1488436019	Asthma medication review	6272425	1	1
+405055018	Asthma monitoring check done	5373111	1	1
+496311000006117	Asthma monitoring call first letter	5319266	1	1
+1208960011	Asthma never causes daytime symptoms	5242509	1	1
+1118291000000110	Asthma control test score	4084490	1	1
+1208962015	Number of asthma exacerbations in past year	3891562	1	1
+1780378019	Asthma monitoring by nurse	2476616	1	1
+1208954011	Asthma causes daytime symptoms 1 to 2 times per month	2340725	1	1
+1208956013	Asthma causes daytime symptoms most days	2257010	1	1
+496321000006113	Asthma monitoring call second letter	2250575	1	1
+411877015	Asthma monitoring	2200194	1	1
+1208955012	Asthma causes daytime symptoms 1 to 2 times per week	2200010	1	1
+419211018	Acute exacerbation of asthma	1944242	1	1
+264545011	Asthma never disturbs sleep	1908281	1	1
+1488422012	Asthma follow-up	1624338	1	1
+264546012	Asthma limiting activities	1624078	1	1
+216186011	Emergency asthma patient visit since last encounter	1621613	1	1
+1212342016	Asthma daytime symptoms	1610390	1	1
+264569010	Asthma never restricts exercise	1523830	1	1
+264567012	Asthma sometimes restricts exercise	1493337	1	1
+251716013	H/O: asthma	1413314	1	1
+264540018	Asthma disturbing sleep	1410953	1	1
+496331000006111	Asthma monitoring call third letter	1146370	1	1
+282490011	Asthma control step 2	1138856	1	1
+1780379010	Asthma monitoring by doctor	982207	1	1
+1208977011	Asthma treatment compliance satisfactory	941192	1	1
+396120014	Asthma NOS	781094	1	1
+282491010	Asthma control step 3	756604	1	1
+1780194017	Asthma trigger	524063	1	1
+282489019	Asthma control step 1	523684	1	1
+285239019	Seen in asthma clinic	507945	1	1
+496491000006117	Asthma resolved	482671	1	1
+660351000006118	Allergic atopic asthma	431827	1	1
+655601000006113	Exercise-induced asthma	421022	1	1
+1484953014	Absent from work or school due to asthma	408415	1	1
+496351000006116	Asthma monitoring call telephone invite	396504	1	1
+636291000000118	Asthma trigger - respiratory infection	365296	1	1
+396114013	Intrinsic asthma	328657	1	1
+1768981000000110	Asthma never causes night symptoms	328131	1	1
+264541019	Asthma causing night waking	327760	1	1
+264566015	Asthma restricts exercise	321136	1	1
+1722421000000110	Asthma causes night time symptoms 1 to 2 times per week	298964	1	1
+1208957016	Asthma causes night symptoms 1 to 2 times per month	284551	1	1
+496361000006119	Asthma monitoring call verbal invite	283605	1	1
+264542014	Asthma disturbs sleep weekly	282949	1	1
+264543016	Asthma disturbs sleep frequently	276894	1	1
+636231000000119	Asthma trigger - cold air	261437	1	1
+264556011	Asthma prophylactic medication used	258712	1	1
+1484910014	Step up change in asthma management plan	255354	1	1
+1739141000000119	Asthma trigger - exercise	252875	1	1
+1208969012	Mild asthma	236609	1	1
+2474332015	Asthma clinical management plan	230938	1	1
+1739151000000116	Asthma trigger - pollen	216077	1	1
+305611000000115	Asthma trigger: animals	202577	1	1
+253533013	Asthma resolved	196306	1	1
+1208959018	Asthma limits walking up hills or stairs	193991	1	1
+396119015	Asthma attack	180388	1	1
+1722501000000119	Asthma causes symptoms most nights	170148	1	1
+1722651000000119	Asthma limits activities 1 to 2 times per week	167808	1	1
+1739131000000111	Asthma trigger - airborne dust	166894	1	1
+8060791000006112	Asthma trigger - respiratory infection	160655	1	1
+8109021000006111	Asthma trigger - exercise	159156	1	1
+636311000000117	Asthma trigger - seasonal	158354	1	1
+1208976019	Asthma treatment compliance unsatisfactory	157986	1	1
+1722581000000112	Asthma limits activities 1 to 2 times per month	156712	1	1
+1488722011	Asthma night-time symptoms	153534	1	1
+8109041000006116	Asthma trigger - pollen	151880	1	1
+8061011000006113	Asthma trigger - cold air	150367	1	1
+264565016	Emergency asthma admission since last encounter	146323	1	1
+285727014	Attends asthma monitoring	141594	1	1
+1722731000000116	Asthma limits activities most days	139288	1	1
+264551018	Asthma severity	132862	1	1
+456164012	Asthma - currently dormant	128677	1	1
+1766051000006114	Royal College of Physicians asthma assessment three questions score	127562	1	1
+283550015	Emergency hospital admission for asthma	125446	1	1
+1139011000000112	Asthma Control Questionnaire score	123188	1	1
+1484911013	Step down change in asthma management plan	121642	1	1
+282488010	Asthma control step 0	115867	1	1
+285729012	Asthma monitor offer default	108702	1	1
+301511014	Asthma unspecified	106827	1	1
+301480018	Bronchial asthma	105651	1	1
+8109001000006118	Asthma trigger - airborne dust	92412	1	1
+636251000000114	Asthma trigger - damp	90487	1	1
+350147016	Childhood asthma	89415	1	1
+2163183015	Wheezy bronchitis	88742	1	1
+1780388018	Asthma confirmed	86100	1	1
+8060811000006111	Asthma trigger - seasonal	84430	1	1
+285728016	Asthma monitoring refused	83441	1	1
+264568019	Asthma severely restricts exercise	82381	1	1
+282492015	Asthma control step 4	80349	1	1
+456163018	Asthma - currently active	78299	1	1
+817361000006114	Hay fever with asthma	72889	1	1
+1208970013	Moderate asthma	70644	1	1
+636271000000117	Asthma trigger - emotion	69084	1	1
+1739171000000113	Asthma trigger - warm air	68009	1	1
+1208971012	Occasional asthma	65529	1	1
+1483199016	Allergic asthma	59195	1	1
+1484970018	Asthma monitoring due	58083	1	1
+145961000006117	Acute severe exacerbation of asthma	55909	1	1
+1948051000006112	Asthma-chronic obstructive pulmonary disease overlap syndrome	53772	1	1
+8061031000006119	Asthma trigger - damp	52421	1	1
+1739161000000118	Asthma trigger - tobacco smoke	48544	1	1
+8109091000006113	Asthma trigger - warm air	48049	1	1
+1484905010	Change in asthma management plan	45550	1	1
+5649191000006110	Exacerbation of asthma	44294	1	1
+14504061000006110	Acute asthma	40781	0	1
+797211000006117	Further asthma - drug prevention	39275	1	1
+1811901000006116	Number of days absent from school due to asthma in past 6 months	38691	1	1
+2131281000000114	Asthma trigger - perfume	37844	1	1
+1208958014	Asthma limits walking on the flat	37683	1	1
+8061051000006114	Asthma trigger - emotion	32789	1	1
+405054019	Asthma monitored	30095	1	1
+350148014	Late onset asthma	26977	1	1
+8109071000006112	Asthma trigger - tobacco smoke	24033	1	1
+885291000006115	Extrinsic asthma - atopy	22623	1	1
+655611000006111	Exercise induced asthma	21980	1	1
+350154010	Pollen asthma	19307	1	1
+1208972017	Severe asthma	19278	1	1
+3511374015	Moderate acute exacerbation of asthma	17558	1	1
+7309651000006111	ACQ - Asthma control questionnaire	15024	1	1
+350149018	Late-onset asthma	14263	1	1
+7077481000006119	Mild intermittent asthma	13934	1	1
+2240591000000119	Chronic asthma with fixed airflow obstruction	13783	1	1
+396118011	Life threatening acute exacerbation of asthma	13165	1	1
+301509017	Mixed asthma	13053	1	1
+409865018	Asthma attack NOS	12758	1	1
+338238011	Brittle asthma	12488	1	1
+301499010	Extrinsic asthma	12435	1	1
+350153016	Hay fever with asthma	12242	1	1
+183191000006115	Recurrent wheezy bronchitis	12217	1	1
+9315261000006116	Mild persistent asthma controlled	10945	1	1
+282493013	Asthma control step 5	10837	1	1
+285737016	Asthma monitoring deleted	10249	1	1
+104872017	Extrinsic asthma without status asthmaticus	10146	1	1
+301450011	Chronic asthmatic bronchitis	9576	1	1
+2460311000000112	At risk of severe asthma exacerbation	8081	1	1
+7348611000006112	Royal College of Physicians 3 questions score	7411	1	1
+95786019	Occupational asthma	6603	1	1
+11929001000006115	Asthma control test	6531	1	1
+350152014	Allergic asthma NEC	6274	1	1
+2670764010	Pulmonary eosinophilia	5999	1	1
+13620311000006117	Asthma never causes night symptoms	5841	0	1
+2535857010	Hyperreactive airway disease	5519	1	1
+350151019	Acute exacerbation of allergic asthma	5390	1	1
+21390015	Intrinsic asthma without status asthmaticus	5167	1	1
+350156012	Acute exacerbation of intrinsic asthma	5138	1	1
+301508013	Intrinsic asthma NOS	4925	1	1
+5979441000006111	Asthma monitoring call	4837	1	1
+6720721000006111	Asthmatic bronchitis	4776	1	1
+11922851000006115	Acute asthma	4746	1	1
+7076331000006112	Intermittent asthma	4411	1	1
+7067211000006115	Mild persistent asthma	4209	1	1
+2423691000000114	Telehealth asthma monitoring	3769	1	1
+7617611000006112	Exacerbation of mild persistent asthma	3737	1	1
+7307941000006113	Seasonal asthma	3658	1	1
+11929171000006110	Asthma control questionnaire	3213	1	1
+3637387011	Exacerbation of allergic asthma	3141	1	1
+14679401000006117	Asthma monitoring declined	2489	0	1
+7966291000006118	Intermittent asthma well controlled	2469	1	1
+477291000006114	Allergic bronchitis NEC	2463	1	1
+7052221000006118	Exacerbation of intermittent asthma	2452	1	1
+1139131000000117	Under care of asthma specialist nurse	2359	1	1
+6514741000006118	Asthma finding	2319	1	1
+151338014	Life threatening acute exacerbation of allergic asthma	1753	1	1
+5979451000006113	Asthma monitoring status	1542	1	1
+301451010	Chronic wheezy bronchitis	1530	1	1
+9315201000006117	Mild persistent allergic asthma	1279	1	1
+8263631000006115	Asthma trigger - wind	1225	1	1
+929091000006111	Aspirin-induced asthma	1050	1	1
+7518271000006114	Did not attend asthma review	1018	1	1
+14504071000006115	Asthma attack	976	0	1
+98546013	Life threatening acute exacerbation of intrinsic asthma	922	1	1
+9315251000006118	Mild persistent allergic asthma controlled	917	1	1
+7970131000006117	Intermittent asthma uncontrolled	811	1	1
+142162019	Byssinosis	806	1	1
+13619961000006119	Exacerbation of allergic asthma due to infection	789	0	1
+7030311000006117	IgE-mediated allergic asthma	764	1	1
+7510501000006115	Education about asthma self management	673	1	1
+7688501000006112	Recent asthma management	663	1	1
+6782071000006115	Cough variant asthma	609	1	1
+7617621000006116	Exacerbation of moderate persistent asthma	527	1	1
+301739012	Pulmonary eosinophilia NOS	508	1	1
+11999521000006113	Assessment using Asthma Control Questionnaire	495	1	1
+1139051000000111	Mini AQLQ (Asthma Quality of Life Questionnaire) score	445	1	1
+5904331000006116	Asthma control steps	385	1	1
+6298421000006116	Eosinophilic asthma	361	1	1
+9315301000006113	Mild persistent asthma uncontrolled	346	1	1
+13997031000006117	Intermittent allergic asthma	310	0	1
+983771000006118	Work aggravated asthma	267	1	1
+6298461000006110	Eosinophilic pneumonia	248	1	1
+4781551000006118	Bronchial hyperreactivity	242	1	1
+9317341000006115	ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome	239	1	1
+9315461000006115	Moderate persistent asthma uncontrolled	204	1	1
+7626541000006115	Acute severe exacerbation of mild persistent asthma	194	1	1
+4781531000006113	Asthmatic	193	1	1
+9317261000006114	Aspirin exacerbated respiratory disease	171	1	1
+7258581000006114	Acute exacerbation of chronic asthmatic bronchitis	169	1	1
+7617631000006118	Exacerbation of severe persistent asthma	168	1	1
+3514930010	Uncomplicated non-allergic asthma	142	1	1
+13775501000006113	Allergic asthma without status asthmaticus	121	0	1
+8031201000006110	Acute exacerbation of asthma co-occurrent with allergic rhinitis	114	1	1
+3505219018	Asthma monitoring using asthma symptom diary	113	1	1
+6512381000006116	Atopic asthma	112	1	1
+9315281000006114	Mild persistent asthma controlled co-occurrent with allergic rhinitis	108	1	1
+7618791000006110	Uncomplicated mild persistent asthma	107	1	1
+9315341000006110	Moderate persistent asthma controlled	100	1	1
+8038961000006111	Mild persistent asthma co-occurrent with allergic rhinitis	94	1	1
+8038971000006116	Intermittent asthma co-occurrent with allergic rhinitis	87	1	1
+8555681000006115	Steroid dependent asthma	81	1	1
+6724151000006111	Asthma care	77	1	1
+69311016	Detergent asthma	71	1	1
+9315091000006116	Severe persistent allergic asthma	66	1	1
+7970171000006119	Acute exacerbation of chronic obstructive airways disease with asthma	64	1	1
+13930321000006112	Thunderstorm asthma	56	0	1
+9315181000006118	Severe uncontrolled persistent asthma	47	1	1
+13619851000006113	Acute severe exacerbation of allergic asthma	47	0	1
+6298451000006113	Pulmonary infiltrates with eosinophilia	46	1	1
+5492441000006114	Non-allergic asthma	44	1	1
+7062421000006112	Severe persistent asthma	44	1	1
+7965491000006114	Asthma with irreversible airway obstruction	44	1	1
+9315291000006112	Mild persistent allergic asthma uncontrolled	43	1	1
+3514315010	Asthma in pregnancy	41	1	1
+4781571000006111	Bronchial hyperresponsiveness	40	1	1
+7626531000006113	Acute severe exacerbation of moderate persistent asthma	40	1	1
+8042581000006114	Acute exacerbation of mild persistent asthma	39	1	1
+9317331000006113	Asthma-COPD overlap syndrome (ACOS)	33	1	1
+7071891000006112	Moderate persistent asthma	30	1	1
+7628331000006115	Acute severe exacerbation of intrinsic asthma	29	1	1
+4781581000006114	Bronchial hypersensitivity	27	1	1
+7015991000006110	Non-IgE mediated allergic asthma	26	1	1
+7961281000006114	Acute severe asthma	26	1	1
+4540771000006118	History of asthma	23	1	1
+8042571000006111	Acute exacerbation of moderate persistent asthma	22	1	1
+7748211000006113	Asthma action care planning	22	1	1
+11999511000006117	ACQ (Asthma Control Questionnaire) score	20	1	1
+9934311000006111	Oral steroid-dependent asthma	18	1	1
+4020511000006119	Drug-induced asthma	17	1	1
+7567071000006115	Asthma clinic	16	1	1
+9317311000006119	Chronic obstructive asthma co-occurrent with acute exacerbation of asthma	16	1	1
+9314961000006112	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis	16	1	1
+7961271000006111	Acute severe refractory exacerbation of asthma	16	1	1
+94731013	Wood asthma	15	1	1
+7626521000006110	Acute severe exacerbation of severe persistent asthma	15	1	1
+4781521000006110	Airway hyperreactivity	13	1	1
+9315231000006113	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis	13	1	1
+9315221000006110	Acute severe exacerbation of mild persistent allergic asthma	13	1	1
+13659841000006117	Near fatal asthma	13	0	1
+5054341000006110	Late-onset asthma	12	1	1
+9315071000006117	Severe controlled persistent asthma	11	1	1
+7628321000006118	Acute severe exacerbation of immunoglobin E-mediated allergic asthma	10	1	1
+4781561000006116	BHR - Bronchial hyperreactivity	8	1	1
+3514925011	Acute severe exacerbation of asthma co-occurrent and due to allergic asthma	8	1	1
+3005811000006119	Exercise induced asthma	7	1	1
+3047731000006119	Bakers' asthma	7	1	1
+9317291000006118	Samter triad	7	1	1
+8038931000006119	Severe persistent asthma co-occurrent with allergic rhinitis	7	1	1
+9315391000006118	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis	7	1	1
+101749012	Silo-fillers' disease	6	1	1
+4009591000006110	Chemical-induced asthma	6	1	1
+3505218014	Use of asthma symptom diary	6	1	1
+5054381000006116	Sulphite-induced asthma	5	1	1
+7584541000006114	Allergic asthma due to Dermatophagoides farinae	5	1	1
+9315351000006112	Moderate persistent allergic asthma	5	1	1
+12452001000006112	Refuses asthma monitoring	4	1	1
+8038941000006112	Moderate persistent asthma co-occurrent with allergic rhinitis	4	1	1
+7628271000006114	Acute exacerbation of extrinsic asthma	3	1	1
+7628301000006111	Acute severe exacerbation of allergic asthma	3	1	1
+11929181000006113	Mini asthma quality of life questionnaire	3	1	1
+7584511000006110	Allergic asthma due to Dermatophagoides pteronyssinus	3	1	1
+9315101000006110	Acute severe exacerbation of severe persistent allergic asthma	3	1	1
+9315371000006119	Acute severe exacerbation of moderate persistent allergic asthma	3	1	1
+3514928013	Uncomplicated allergic asthma	3	1	1
+7030321000006113	IgE mediated asthma	2	1	1
+2988741000006118	Allergic-infective asthma	2	1	1
+6703881000006116	Isocyanate induced asthma	2	1	1
+7021801000006116	Substance induced asthma	2	1	1
+7526251000006112	Asthma self management	2	1	1
+7618811000006114	Uncomplicated severe persistent asthma	2	1	1
+9315111000006113	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis	2	1	1
+9315431000006112	Moderate persistent allergic asthma uncontrolled	2	1	1
+9315441000006119	Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis	2	1	1
+9315401000006116	Moderate persistent allergic asthma controlled	2	1	1
+9315321000006115	Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis	2	1	1
+7979131000006110	Asthma action plan not done	2	1	1
+3005801000006117	EIA - Exercise-induced asthma	1	1	1
+7030341000006118	IgE mediated allergic asthma	1	1	1
+3435971000006119	Industrial asthma	1	1	1
+6550131000006111	Nocturnal asthma	1	1	1
+9317271000006119	AERD - aspirin exacerbated respiratory disease	1	1	1
+3402341000006114	Asthma without status asthmaticus	1	1	1
+22508019	Flax-dressers' disease	1	1	1
+7100601000006111	History of aspirin-sensitive asthma with nasal polyp	1	1	1
+7617601000006114	Uncomplicated asthma	1	1	1
+7687651000006111	Acute asthma control management	1	1	1
+9315141000006112	Severe persistent asthma controlled co-occurrent with allergic rhinitis	1	1	1
+9315121000006117	Severe persistent allergic asthma controlled	1	1	1
+9315171000006116	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis	1	1	1
+7628281000006112	Acute exacerbation of immunoglobulin E-mediated allergic asthma	NA	1	0
+7030351000006116	Immunoglobulin E-mediated allergic asthma	NA	1	0
+5492451000006111	Asthma due to internal immunological process	NA	1	0
+7628191000006118	Acute severe exacerbation of asthma	NA	1	0
+7627241000006119	Acute exacerbation of asthma	NA	1	0
+11903851000006115	Severe asthma attack	NA	1	0
+7628311000006114	Acute severe exacerbation of extrinsic asthma	NA	1	0
+12485061000006112	Emergency admission, asthma	NA	1	0
+4723761000006117	Emergency hospital admission for asthma	NA	1	0
+3169561000006112	Detergent workers' lung	NA	1	0
+3169591000006116	Enzyme lung	NA	1	0
+3169571000006117	Enzyme detergent lung	NA	1	0
+3169601000006112	Enzyme lung disease	NA	1	0
+3169581000006119	Enzyme detergent respiratory disease	NA	1	0
+7016001000006111	Non IgE mediated allergic asthma	NA	1	0
+7016011000006114	Non-immunoglobulin E mediated allergic asthma	NA	1	0
+3047751000006114	Baker's asthma	NA	1	0
+3047741000006112	Flour asthma	NA	1	0
+5054371000006119	Colophony asthma	NA	1	0
+5054391000006118	Sulfite-induced asthma	NA	1	0
+8465381000006111	Life threatening acute exacerbation of extrinsic asthma	NA	1	0
+8465371000006113	Life threatening acute exacerbation of allergic asthma	NA	1	0
+8465401000006111	Life threatening acute exacerbation of non-allergic asthma	NA	1	0
+8465391000006114	Life threatening acute exacerbation of intrinsic asthma	NA	1	0
+9317281000006116	Samter syndrome	NA	1	0
+8060841000006110	Asthma trigger - animal	NA	1	0
+2690151000006115	Feather-pickers' disease	NA	1	0
+2690161000006118	Feather asthma	NA	1	0
+2786201000006115	Printers' asthma	NA	1	0
+2815001000006115	Meat-wrappers' asthma	NA	1	0
+3176931000006111	Asthmatic pulmonary alveolitis	NA	1	0
+3425341000006113	Wood asthma	NA	1	0
+3425351000006110	Wood-workers' asthma	NA	1	0
+3425371000006117	Wood dust asthma	NA	1	0
+3425391000006116	Wood dust pneumonitis	NA	1	0
+3425401000006119	Wood pulp workers' lung	NA	1	0
+3425381000006119	Saw dust asthma	NA	1	0
+3425361000006112	Wood-workers' lung	NA	1	0
+3494911000006116	Silo-workers' asthma	NA	1	0
+3494901000006119	Silo-fillers' lung	NA	1	0
+3894091000006115	Cotton-dust asthma	NA	1	0
+3894081000006118	Cotton workers' lung disease	NA	1	0
+3894101000006114	Mill fever	NA	1	0
+6198311000006117	Corticosteroids used in the treatment of asthma	NA	1	0
+6298441000006111	PIE - Pulmonary infiltrates with eosinophilia	NA	1	0
+6298471000006115	Andrews syndrome	NA	1	0
+6298431000006118	EP - Eosinophilic pneumonia	NA	1	0
+6589241000006112	Asthma trigger finding	NA	1	0
+6703821000006115	Platinum asthma	NA	1	0
+6703841000006110	Cheese-makers' asthma	NA	1	0
+6706971000006118	Asthma self-management	NA	1	0
+6706961000006113	Asthma self-management behavior	NA	1	0
+6706951000006111	Asthma self-management behaviour	NA	1	0
+2708631000006110	Flax dressers disease	NA	1	0
+2708611000006116	Strippers' disease	NA	1	0
+2708621000006112	Stripper's asthma	NA	1	0
+11927791000006118	Asthma clinical management plan	NA	1	0
+6920631000006113	Tea-makers' asthma	NA	1	0
+7100621000006118	History of aspirin exacerbated respiratory disease	NA	1	0
+7100611000006114	History of aspirin sensitive asthma with nasal polyp	NA	1	0
+7272271000006114	Asthma control test score	NA	1	0
+7302441000006115	Mini AQLQ (asthma quality of life questionnaire)	NA	1	0
+9322561000006117	Asthma in mother complicating childbirth	NA	1	0
+9322571000006112	Asthma in childbirth	NA	1	0
+7584531000006116	Allergic asthma caused by Dermatophagoides pteronyssinus	NA	1	0
+7584521000006119	Dermatophagoides pteronyssinus allergic asthma	NA	1	0
+7584561000006113	Allergic asthma caused by Dermatophagoides farinae	NA	1	0
+7584551000006111	Dermatophagoides farinae allergic asthma	NA	1	0
+7618801000006111	Uncomplicated moderate persistent asthma	NA	1	0
+9315411000006118	Moderate persistent controlled asthma co-occurrent with allergic rhinitis	NA	1	0
+9315151000006114	Severe persistent allergic asthma uncontrolled	NA	1	0
+5167051000006116	Poisoning caused by herbal asthma mixture	NA	1	0
+5167041000006118	Poisoning by herbal asthma mixture	NA	1	0
+5769491000006116	Poisoning caused by herbal asthma mixture of undetermined intent	NA	1	0
+5769481000006119	Poisoning by herbal asthma mixture of undetermined intent	NA	1	0
+7961291000006112	Status asthmaticus	NA	1	0
+3514926012	Allergic asthma with status asthmaticus	NA	1	0
+11999531000006111	Assessment using ACQ (Asthma Control Questionnaire)	NA	1	0
+12008761000006111	Assessment using Mini AQLQ (Asthma Quality of Life Questionnaire)	NA	1	0
+12008771000006116	Assessment using Mini Asthma Quality of Life Questionnaire	NA	1	0
+12008791000006115	Mini Asthma Quality of Life Questionnaire score	NA	1	0

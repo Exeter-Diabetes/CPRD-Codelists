@@ -1,1273 +1,1291 @@
-medcodeid	term_medcode
-2524111000006113	Postnatal infantile hemiplegia
-72531016	Infantile hemiplegia
-297232013	Infantile hemiplegia NOS
-542541000006112	Cerebral atonia
-740431000006115	Littles disease
-1815981000006110	Cerebral palsy NOS
-4405181000006112	CP - Cerebral palsy
-4405191000006110	Cerebral palsy (CP)
-297238012	Other infantile cerebral palsy NOS
-297239016	Congenital cerebral palsy NOS
-411453017	Congenital cerebral palsy
-297233015	Other congenital cerebral palsy
-206411014	Cerebral palsy
-345771011	Infantile cerebral palsy
-1815971000006112	Other cerebral palsy
-299394017	[X]Other infantile cerebral palsy
-543071000006115	Cerebral palsy with spastic diplegia
-5012361000006114	Infantile spastic cerebral palsy
-5012351000006112	Little's disease
-411454011	Congenital spastic cerebral palsy
-345773014	Spastic cerebral palsy
-5012321000006115	Pyramidal cerebral palsy
-5012331000006117	Congenital spastic paralysis
-5012341000006110	Spastic infantile paralysis
-5614181000006116	Ataxic cerebral palsy
-297234014	Ataxic infantile cerebral palsy
-4769391000006119	Hypotonic cerebral palsy
-761411000006111	Flaccid infantile cerebral palsy
-451123015	Cerebral palsy, not congenital or infantile, acute
-297210016	Hemiplegia NOS
-3319161000006112	Hemiplegia (paralysis on one side)
-84272011	Hemiplegia
-820131000006114	Hemiparesis
-2818091000006116	Weakness of one side of body
-302151000000117	Hemiparesis NOS
-33703013	Hemiparesis
-2818101000006110	Hemiparesis (weakness on one side)
-134251013	Flaccid hemiplegia
-132112014	Spastic hemiplegia
-415147018	Left hemiplegia
-5611491000006112	LT - Left hemiplegia
-5611521000006114	Left hemiparesis
-415152011	Left sided weakness
-415146010	Right hemiplegia
-415149015	Right sided weakness
-5611501000006116	Right hemiparesis
-19943011	Quadriplegia
-19944017	Tetraplegia
-3381201000006115	Bulbar palsy
-3381211000006117	PBP - Progressive bulbar palsy
-90263012	Progressive bulbar palsy
-3381191000006118	Bulbar paralysis
-134744017	Primary lateral sclerosis
-3101701000006117	Motor neuron disease
-3101721000006110	MND - Motor neurone disease
-486695013	Motor neurone disease
-297130012	Motor neurone disease NOS
-695191000006119	Multiple sclerosis of the brain stem
-4769281000006110	Multiple sclerosis of the brainstem
-4769291000006113	Brain stem multiple sclerosis
-297177019	Multiple sclerosis of the spinal cord
-297179016	Generalised multiple sclerosis
-4769321000006116	Generalized multiple sclerosis
-297180018	Exacerbation of multiple sclerosis
-4769341000006111	Multiple sclerosis (MS) exacerbation
-41398015	Multiple sclerosis
-297181019	Multiple sclerosis NOS
-2894411000006110	MS - Multiple sclerosis
-1223979019	Disseminated sclerosis
-2894421000006119	DS - Disseminated sclerosis
-297581011	Juvenile or adult myasthenia gravis
-3988981000006118	Erb-Goldflam disease
-151829017	Myasthenia gravis
-3988991000006115	MG - Myasthenia gravis
-399191000006111	[X]Myasthenic syndromes in endocrine diseases CE
-399201000006114	[X]Myasthenic syndromes/other diseases classified elsewhere
-412051000006115	[X]Other myasthenic syndromes in neoplastic disease CE
-297582016	Myasthenia gravis NOS
-295688010	Dementia in Parkinsons disease
-7043661000006117	Dementia associated with Parkinson Disease
-7043651000006119	Dementia associated with Parkinson's Disease
-297037012	Parkinson's disease NOS
-3293651000006113	PD - Parkinson's disease
-3293661000006110	Parkinsons disease
-3293621000006116	Shaking palsy
-299314016	[X]Parkinsonism in diseases classified elsewhere
-3293681000006117	Idiopathic Parkinsonism
-3293611000006112	Paralysis agitans
-3293671000006115	Primary Parkinsonism
-3293641000006111	Parkinson disease
-81717011	Parkinson's disease
-3293631000006118	Idiopathic Parkinson's disease
-81719014	Paralysis agitans
-497021000006113	Athetoid cerebral palsy
-124598014	Athetoid cerebral palsy
-27369019	Double athetosis
-2756451000006111	Double athetosis syndrome
-223801000000115	Paraplegia - congenital
-297221013	Congenital paraplegia
-1815931000006114	Spastic diplegic cerebral palsy
-3445451000006117	Spastic diplegic cerebral palsy
-2475877015	Ataxic diplegic cerebral palsy
-297223011	Congenital diplegia NOS
-411456013	Congenital diplegia
-3445431000006112	Diplegic cerebral palsy
-411455012	Congenital quadriplegia
-5573561000006115	Congenital tetraplegia
-110721000006114	Tetraplegia - congenital
-497600015	Congenital monoplegia
-3416421000006111	Monoplegic cerebral palsy
-345780011	Dyskinetic cerebral palsy
-557181000000116	Worster Drought syndrome
-551481000000119	Congenital suprabulbar paresis
-1815951000006119	Spastic quadriplegic cerebral palsy
-3288371000006118	Quadriplegic spastic cerebral palsy
-3288361000006113	Tetraplegic spastic cerebral palsy
-3288351000006111	Cerebral palsy with spastic tetraplegia
-3288341000006114	Tetraplegic cerebral palsy
-3288331000006116	Quadriplegic cerebral palsy
-254829017	O/E - hemiplegia
-4566571000006117	On examination - hemiplegia
-4566621000006119	On examination - paraplegia
-254833012	O/E - paraplegia
-254939012	O/E - hemiplegic posture
-4567691000006115	On examination - hemiplegic posture
-254940014	O/E - paraplegic in flexion
-4567711000006117	On examination - paraplegic in flexion
-494103012	Tropical spastic paraplegia
-7717301000006113	HTLV-I-associated myelopathy
-7717321000006115	Myelopathy caused by Human T-lymphotropic virus 1
-7717281000006114	Human T-cell lymphotropic virus 1-associated myelopathy
-7717311000006111	Tropical spastic paraparesis
-3142321000006114	Familial spastic paraplegia syndrome
-3142311000006118	Strumpell-Lorrain disease
-3142341000006119	Strumpell disease
-3142351000006117	Spastic congenital paraplegia
-3142331000006112	HSP - Hereditary spastic paraplegia
-66483014	Hereditary spastic paraplegia
-297241015	Flaccid tetraplegia
-297242010	Spastic tetraplegia
-4769421000006110	Spastic quadriplegia
-100323011	Paraplegia
-3480751000006110	Paralysis of both lower limbs
-3480761000006112	Lower paraplegia
-3480771000006117	Paraplegia (complete or partial paralysis of legs)
-297243017	Flaccid paraplegia
-297244011	Spastic paraplegia
-3898641000006114	Bulbar motor neuron disease
-3898651000006111	Lou Gehrig's disease
-142653015	Amyotrophic lateral sclerosis
-3898661000006113	ALS - Amyotrophic lateral sclerosis
-147444011	Progressive muscular atrophy
-3945261000006119	PMA - Progressive muscular atrophy
-3945251000006116	Pure progressive muscular atrophy
-3945241000006118	Duchenne-Aran muscular atrophy
-631811000006111	Duchenne Aran muscular atrophy
-13165015	Pseudobulbar palsy
-297132016	Anterior horn cell disease NOS
-297131011	Other anterior horn cell disease
-142016013	Anterior horn cell disease
-641211000000118	Benign multiple sclerosis
-2692565012	Primary progressive multiple sclerosis
-7092351000006112	Multiple sclerosis (MS) primary progressive
-1682241000006111	Relapsing remitting multiple sclerosis
-7058051000006116	Multiple sclerosis (MS) relapsing remitting
-2674605012	Secondary progressive multiple sclerosis
-7045281000006112	Multiple sclerosis (MS) secondary progressive
-178743010	Congenital hereditary muscular dystrophy
-297623019	Hereditary progressive muscular dystrophy NOS
-399421019	Other specified hereditary progressive muscular dystrophy
-297607019	Congenital hereditary muscular dystrophy NOS
-121721014	Muscular dystrophy
-3691961000006117	Progressive muscular dystrophy
-3691951000006119	MD - Muscular dystrophy
-3691971000006112	PMD - Progressive muscular dystrophy
-297608012	Hereditary progressive muscular dystrophy
-3746951000006112	Pseudohypertrophic muscular dystrophy
-127307018	Duchenne muscular dystrophy
-3746961000006114	DMD - Duchenne muscular dystrophy
-198381000006110	Pseudohypertrophic dystrophy
-130209011	Erb's muscular dystrophy
-3776451000006119	Erb muscular dystrophy
-297610014	Pelvic muscular dystrophy
-4015801000006118	Limb-girdle muscular dystrophy
-4015811000006115	Leyden-Möbius muscular dystrophy
-27731000006112	Other limb-girdle muscular dystrophy
-6617201000006110	FMD - Facioscapulohumeral muscular dystrophy
-6617211000006113	Fascioscapulohumeral muscular dystrophy
-661251000006116	Facioscapulohumeral atrophy
-6617161000006116	FSH - Facioscapulohumeral muscular dystrophy
-6617171000006111	Landouzy-Déjérine muscular dystrophy
-1778554019	Facioscapulohumeral muscular dystrophy
-6617181000006114	Landouzy-Dejerine muscular dystrophy
-6617191000006112	FSHD - Facioscapulohumeral muscular dystrophy
-625401000006110	Distal (Gower's) muscular dystrophy
-4770841000006119	Distal muscular dystrophy with juvenile onset
-3601731000006114	Kiloh-Nevin syndrome
-3601741000006116	Ocular myopathy
-112508017	Ocular muscular dystrophy
-127990018	Oculopharyngeal muscular dystrophy
-3753631000006115	Oculopharyngeal dystrophy
-1492251019	Becker's disease
-6476861000006119	BMD - Becker muscular dystrophy
-6476881000006112	Benign Duchenne muscular dystrophy
-1481810012	Becker muscular dystrophy
-6476871000006114	Becker's muscular dystrophy
-3455151000006111	Distal muscular dystrophy
-625421000006117	Distal dystrophy
-5006841000006115	Neuraxonal leucodystrophy
-3270981000006112	Metachromatic leukodystrophy, late infantile type
-3271001000006111	Greenfield disease
-3270991000006110	Late infantile metachromatic leucodystrophy
-3270971000006114	Metachromatic leucodystrophy, late infantile type
-3214621000006117	Metachromatic leucodystrophy, juvenile type
-3214651000006114	Juvenile metachromatic leucodystrophy
-3214631000006119	Metachromatic leukodystrophy, juvenile type
-3214661000006111	Scholz cerebral sclerosis
-3214641000006112	Scholz-Bielschowsky-Henneberg diffuse cerebral sclerosis
-2888161000006113	Metachromatic leucodystrophy, adult type
-2888171000006118	Metachromatic leukodystrophy, adult type
-2888181000006115	Adult metachromatic leucodystrophy
-2888191000006117	Adult metachromatic leukodystrophy
-5142821000006112	Muscular dystrophy with predominantly proximal limb girdle distribution
-5142831000006110	X-linked muscular dystrophy with limb girdle distribution
-5142841000006117	X-linked muscular dystrophy with abnormal dystrophin
-5142861000006118	Xp21-linked muscular dystrophy
-5142851000006115	Meryon muscular dystrophy
-5142871000006113	Intermediate X-linked muscular dystrophy
-5142881000006111	Manifesting female carrier of X-linked muscular dystrophy
-5142891000006114	X-linked limb girdle muscular dystrophy with normal dystrophin
-5142901000006113	Ji muscular dystrophy
-5142921000006115	Autosomal recessive muscular dystrophy with limb girdle distribution
-4196541000006115	Fukuyama muscular dystrophy
-4196531000006113	Fukuyama congenital muscular dystrophy
-5142951000006112	Autosomal recessive muscular dystrophy with gene located at 15q
-5142961000006114	Reunion-Indiana Amish type muscular dystrophy
-5142971000006119	Congenital muscular dystrophy
-5142981000006116	Western type of congenital muscular dystrophy
-5143001000006117	Ullrich congenital muscular dystrophy
-5143011000006119	Congenita hypotonic - sclerotic muscular dystrophy
-5143021000006110	Eichsfeld type congenital muscular dystrophy
-5143031000006113	Hutterite type of muscular dystrophy
-5143051000006118	Autosomal dominant muscular dystrophy with limb girdle distribution
-5143061000006116	Autosomal dominant muscular dystrophy with gene located at 5q31
-5143071000006111	Late onset proximal muscular dystrophy with dysarthria
-5143081000006114	Gilchrist type muscular dystrophy
-5143091000006112	Muscular dystrophy not predominantly limb girdle in distribution
-5143101000006118	X-linked muscular dystrophy not predominantly limb girdle
-178750014	Emery-Dreifuss muscular dystrophy
-4196651000006117	EMD - Emery-Dreifuss muscular dystrophy
-4196661000006115	Benign scapuloperoneal muscular dystrophy with early contractures
-5143131000006114	Autosomal recessive muscular dystrophy not predominantly limb girdle
-5143141000006116	Scapulohumeral muscular dystrophy
-5143151000006119	Autosomal dominant muscular dystrophy not predominantly limb girdle
-5143161000006117	Benign scapuloperoneal muscular dystrophy
-5143181000006110	Benign congenital muscular dystrophy with finger flexion contractures
-5598231000006113	Severe childhood autosomal recessive muscular dystrophy
-5598241000006115	SCARMD - Severe childhood autosomal recessive muscular dystrophy
-4196621000006114	COD-MD - Cerebro-oculo-dysgenesis-muscular dystrophy syndrome
-4196601000006116	Muscle-eye-brain disease, congenital muscular dystrophy
-4196611000006118	Cerebro-oculo-dysgenesis-muscular dystrophy syndrome
-5967371000006110	Leukodystrophy without a known biochemical basis
-5967361000006115	Leucodystrophy without a known biochemical basis
-7349301000006113	Adult onset autosomal dominant leukodystrophy
-7349291000006112	Adult onset autosomal dominant leucodystrophy
-7349311000006111	Adult-onset ADLD (autosomal dominant leucodystrophy)
-5012381000006116	Monoplegic cerebral palsy affecting upper limb
-5012391000006118	Monoplegic cerebral palsy affecting lower limb
-5012431000006112	Dystonic cerebral palsy with spastic features
-5012421000006114	Dystonic/rigid cerebral palsy
-2511001000006119	Transmissible virus dementia
-2510951000006114	Creutzfeldt-Jakob disease
-2510981000006118	CJD - Creutzfeldt-Jakob disease
-2510971000006116	Subacute spongiform encephalopathy
-2510991000006115	JCD - Jakob-Creutzfeldt disease
-2511011000006116	Creutzfeldt Jakob disease
-2386018	Jakob-Creutzfeldt disease
-4768981000006114	Cerebral degeneration due to Creutzfeldt-Jakob disease
-542651000006110	Cerebral degeneration due to Jakob - Creutzfeldt disease
-5931631000006119	nvCJD - New variant of Creutzfeldt-Jakob disease
-5931641000006112	vCJD - variant Creutzfeldt-Jakob disease
-1805751000006115	Variant Creutzfeldt-Jakob disease
-5931651000006114	Creutzfeldt-Jakob variant disease
-2366171000000112	Sporadic Creutzfeldt-Jakob disease
-2366181000000114	Sporadic CJD (Creutzfeldt-Jakob disease)
-7699251000006118	Sporadic Jakob-Creutzfeldt disease
-5008321000006115	Alternating hemiplegia of childhood
-5011241000006111	Lacunar ataxic hemiparesis
-6029971000006116	Residual hemiplegia
-7263011000006112	Dementia due to Huntington disease
-295687017	Dementia due to Huntington chorea
-7263021000006116	Dementia due to Huntingtons disease
-3454521000006114	Chronic progressive hereditary chorea
-3454551000006117	Huntington chorea
-97642017	Huntington's chorea
-3454511000006118	Chronic progressive chorea
-3454531000006112	HC - Huntington chorea
-3454541000006119	HD - Huntington chorea
-5006011000006113	Juvenile onset Huntington's disease
-5006021000006117	Juvenile onset Huntington disease
-5006031000006119	Late onset Huntington's disease
-5006041000006112	Late onset Huntington disease
-5006051000006114	Akinetic-rigid form of Huntington's disease
-5006061000006111	Akinetic-rigid form of Huntington disease
-11904611000006115	Progressive supranuclear palsy
-2966081000006114	Nuchal dystonia-dementia syndrome
-125891000006119	Steele - Richardson Oszewski syndrome
-2966101000006118	PSP - Progressive supranuclear palsy
-48513015	Progressive supranuclear palsy
-48515010	Steele-Richardson-Olszewski syndrome
-48512013	Progressive supranuclear ophthalmoplegia
-125901000006115	Steele Richardson Olszewsk syn
-11903671000006114	Steele-Richardson-Olszewski syndrome
-2966061000006116	Progressive supranuclear ophthalmoplegia
-11904601000006118	Progressive supranuclear ophthalmoplegia
-5005381000006110	Western Pacific motor neurone disease
-5005391000006113	Madras-type motor neurone disease
-5005411000006113	Paraneoplastic motor neurone disease
-5006891000006112	Acute relapsing multiple sclerosis
-5006911000006114	Multiple sclerosis (MS) chronic/progressive
-5006901000006111	Chronic progressive multiple sclerosis
-5006921000006118	Remittent-progressive multiple sclerosis
-5006931000006115	Multiple sclerosis (MS) remitting progressive
-5009451000006111	Chronic inflammatory demyelinating polyradiculoneuropathy with central nervous system demyelination
-641301000000114	Malignant multiple sclerosis
-297580012	Persistent neonatal myasthenia gravis
-4770721000006119	Myasthenic syndrome due to another disorder
-297584015	Myasthenic syndrome due to other malignancy
-297583014	Myasthenic syndrome due to disease EC
-297592012	Myasthenic syndrome due to disease NOS
-2168441000000115	Lambert-Eaton syndrome
-3426061000006118	Lambert-Eaton myasthenic syndrome
-3426071000006113	LEMS - Lambert-Eaton myasthenic syndrome
-94780015	Eaton-Lambert syndrome
-3426051000006115	Myasthenic syndrome
-399419012	Myasthenic syndrome due to diabetic amyotrophy
-297593019	Congenital and developmental myasthenia
-5010751000006112	Genetically determined myasthenia
-5010791000006118	Congenital myasthenia
-5010921000006118	Myasthenia gravis associated with thymoma
-5010931000006115	Generalised myasthenia
-5010941000006113	Generalized myasthenia
-5010951000006110	Myopathy in myasthenia gravis
-5010961000006112	Myasthenic myopathy
-5005901000006119	Juvenile Parkinson disease
-5005891000006118	Juvenile Parkinson's disease
-7289421000006111	Multiple system atrophy, Parkinson's variant
-2841061014	Multiple system atrophy, Parkinson variant
-2665351000006114	Friedreich's ataxia
-2665361000006111	Friedreich's disease
-2665371000006116	Familial ataxia
-2665381000006118	FA - Friedreich ataxia
-18091019	Friedreich ataxia
-39846012	Primary cerebellar degeneration
-297108011	Primary cerebellar degeneration NOS
-6221541000006111	Alcoholic cerebellar degeneration syndrome
-6221531000006118	Alcoholic cerebellar degeneration
-5005171000006110	Progressive spinocerebellar ataxia with retained tendon reflexes
-5005201000006114	Secondary cerebellar degeneration
-2838078010	Multiple system atrophy, cerebellar variant
-2854611000006119	Multifocal leukoencephalopathy
-2854641000006115	PML - Progressive multifocal leucoencephalopathy
-2854601000006117	Progressive multifocal leukoencephalopathy
-2854651000006118	PMLE - Progressive multifocal leukoencephalopathy
-2854631000006113	Multifocal leucoencephalopathy
-2854661000006116	PMLE - Progressive multifocal leucoencephalopathy
-37365019	PML - Progressive multifocal leukoencephalopathy
-481281019	Progressive multifocal leucoencephalopathy
-4767951000006117	Dawson's inclusion body encephalitis
-296838010	Subacute sclerosing panencephalitis
-4767941000006119	SSPE - Subacute sclerosing panencephalitis
-641041000006119	Encephalitis due to subacute sclerosing panencephalitis
-296840017	Dawson's inclusion body encephalitis
-4769001000006112	Cerebral degeneration due to progressive multifocal leukoencephalopathy
-542661000006112	Cerebral degeneration due to progressive multifocal leucoencephalopathy
-450556015	Spastic foot
-4772021000006117	Harada disease
-4772041000006112	Vogt-Koyanagi-Harada syndrome
-4772061000006111	Vogt-Koyanagi syndrome
-4772011000006113	VKH - Vogt-Koyanagi-Harada syndrome
-124599018	Vogt's disease
-297979015	Harada's disease
-297977018	Vogt's disease
-62891000006110	Vogt-Koyanagi-Harada disease
-450600011	Congenital athetosis
-450601010	Athetosis - congenital
-92747014	Symptomatic torsion dystonia
-297087017	Other specified symptomatic torsion dystonia
-297088010	Symptomatic torsion dystonia NOS
-345779013	Congenital spastic foot
-478046010	Cerebellar ataxia due to alcoholism
-2525151000006110	Cerebral hemiparesis
-296998012	Other cerebral degenerations in childhood NOS
-296999016	Childhood cerebral degenerations NOS
-882931000006115	Child cerebral degeneration
-296997019	Other cerebral degenerations in childhood
-296958010	Cerebral degeneration in childhood
-2592351000006112	Athetosis with spastic paraplegia
-2603401000006115	Bilateral paralysis
-2603391000006117	Diplegia
-2643251000006111	Post-hemiplegic tremor
-2650601000006118	Paraplegic-spastic gait
-317121012	[D]Paralytic gait
-2650611000006115	Rigid gait
-2650621000006111	Jerking gait
-2650631000006114	Paralytic gait
-317122017	Spastic gait
-2750301000006117	Methylphenyltetrahydropyridine-induced parkinsonism
-2750291000006118	MPTP - Methylphenyltetrahydropyridine-induced parkinsonism
-2750281000006116	MPTP-induced parkinsonism
-2750321000006110	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced parkinsonism
-2750311000006119	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced parkinsonism
-2776461000006110	Facial hemiparesis (weakness)
-2776451000006113	Facial hemiparesis
-2789711000006115	Paraplegic immobility syndrome
-33622011	Postencephalitic parkinsonism
-2833161000006110	Spinal hemiparesis
-2836961000006117	Sporadic cerebellar degeneration
-2929551000006112	Parkinson's facies
-2929561000006114	Parkinson facies
-2967871000006119	Crossed hemiparesis
-2967881000006116	Alternate hemiparesis
-3012781000006113	Myasthenia gravis, adult form
-3017901000006115	Facial hemiplegia
-3028151000006111	Parkinsonism
-3028161000006113	Disorders presenting primarily with parkinsonism
-3050861000006117	Cerebral hemiplegia
-3106231000006114	Hereditary cerebellar degeneration
-64875013	Syphilitic parkinsonism
-3172811000006113	Paralysis of upper limb
-69671016	Monoplegia of upper limb
-3200341000006112	Hemiplegic cerebral palsy
-3200371000006116	Spastic hemiplegic cerebral palsy
-3200351000006114	Congenital hemiplegia
-3200361000006111	Unilateral spastic cerebral palsy
-3203001000006119	Juvenile paralysis agitans of Hunt
-3203011000006116	Paleostriatal syndrome
-3203041000006117	Pallidal atrophy
-3203021000006112	Neostriatal syndrome
-3203031000006110	Pallidal syndrome
-3215231000006115	Spastic tetraplegia with rigidity syndrome
-3241231000006114	Early familial cerebellar degeneration syndrome
-3241221000006111	Jervis' syndrome
-3287341000006110	Cerebral paraplegia
-3306001000006116	Hereditary motor neuron disease
-3306011000006118	Familial motor neuron disease
-3328111000006111	Hypokinetic parkinsonian dysphonia
-12702281000006111	Degenerative brain disorder
-297000018	Degenerative brain disorder
-35741000006114	Other cerebral degeneration
-87704019	Chronic fatigue syndrome
-3354521000006118	Myalgic encephalopathy
-3354471000006116	Myalgic encephalomyelitis syndrome
-496410014	ME - Myalgic encephalomyelitis
-496413011	Myalgic encephalomyelitis
-3354451000006114	Iceland disease
-3354511000006114	Myalgic encephalitis
-496414017	CFS - Chronic fatigue syndrome
-882411000006117	Nervous debility -neurasthenia
-3354461000006111	Benign myalgic encephalomyelitis
-684221000006112	Myalgic encephalomyelitis
-3355321000006110	Hemiplegic gait
-3362611000006111	Posthemiplegic athetosis
-89919017	Diplegia of upper limbs
-3377571000006112	Paralysis of both upper limbs
-3377581000006110	Upper diplegia
-3393611000006119	Myasthenia gravis, juvenile form
-3403461000006111	Spinal hemiplegia
-98501012	Hemiplegic migraine
-3484001000006116	Vitamin B>12< deficiency disease of spinal cord
-3484021000006114	Lichtheim's disease
-3483991000006113	Posterolateral sclerosis
-3484041000006119	Neuromyelopathy due to vitamin B12 deficiency
-3484051000006117	SACD - Subacute combined degeneration
-100638016	Subacute combined degeneration of spinal cord
-498788015	Subacute combined degeneration
-3484011000006118	Putnam-Dana syndrome
-3484061000006115	Vitamin B>12< deficiency neuropathy
-428171000006118	Subacute combined degeneration of spinal cord
-3511191000006117	Parkinson's disease - dementia complex on Guam
-3511181000006115	Parkinson-dementia complex of Guam
-105536013	Intermittent claudication
-3532651000006115	Myasthenia angiosclerotica
-3532661000006118	IC - Intermittent claudication
-1715241000006112	Vascular claudication
-411512011	Claudication
-3532641000006117	Charcot's syndrome
-107018015	Infantile spinal muscular atrophy
-3547331000006116	WHD - Werdnig-Hoffmann disease
-3547321000006119	Spinal muscular atrophy type I
-3547301000006112	Progressive muscular atrophy of infancy
-59911000006112	Werdnig - Hoffmann disease
-3547281000006113	Werdnig-Hoffmann disease
-3547311000006110	Spinal muscular atrophy, type I
-112538011	Dejerine-Thomas syndrome
-3601971000006114	Déjérine-Thomas syndrome
-3601961000006119	Olivopontocerebellar atrophy
-3602011000006110	Olivocerebellar atrophy
-3601951000006116	Olivopontocerebellar degeneration
-3602001000006112	OPCA - Olivopontocerebellar atrophy
-3601991000006110	Thomas' syndrome
-3680391000006117	Parkinsonian syndrome associated with symptomatic orthostatic hypotension
-3680381000006115	Parkinsonian syndrome associated with idiopathic orthostatic hypotension
-3681511000006114	Alternating hypoglossal hemiplegia
-3705051000006111	Nutritional muscular degeneration
-3705061000006113	Nutritional muscular dystrophy
-3736801000006118	HSMN V
-3736791000006119	Hereditary motor and sensory neuropathy, type V
-3736771000006115	Hereditary sensory-motor neuropathy, type V
-3736821000006111	Hereditary motor and sensory neuropathy type V
-3736831000006114	Hereditary motor-sensory neuropathy with pyramidal signs
-3736781000006117	Spastic paraplegia with hypertrophic sensory-motor neuropathy, type V
-3736811000006115	HMSN V
-3738771000006116	Juvenile cerebellar degeneration AND myoclonus
-3746311000006112	Post-hemiplegic chorea
-3752161000006114	Crossed hemiplegia
-3752171000006119	Alternate hemiplegia
-3807971000006110	Paralysis of lower limb
-133450019	Monoplegia of lower limb
-136302010	Neonatal myasthenia gravis
-3869081000006119	Laryngeal hemiplegia
-3873921000006111	Spinal paraplegia
-3875981000006111	Lower motor neuron disease
-3891321000006117	Primary progressive cerebellar degeneration
-3891331000006119	Holmes' disease
-3898311000006115	Monoplegia
-297246013	Monoplegia unspecified
-3975561000006116	Posthemiplegic ataxia
-4060301000006117	Cerebellar degeneration
-4060311000006119	Upper motor neuron disease
-4060321000006110	Transient hemiplegia
-4060401000006114	Hemiplegic-ophthalmoplegic migraine
-4060391000006112	Familial hemiplegic migraine
-4196511000006119	Almaric's syndrome
-4196501000006117	Muscular dystrophy-deafmutism syndrome
-4196551000006118	Merosin deficient congenital muscular dystrophy
-4196581000006114	Walker Warburg syndrome
-4196591000006112	HARD - Hydrocephalus, agyria and retinal dysplasia
-4196571000006111	Hydrocephalus, agyria and retinal dysplasia
-4196561000006116	Walker-Warburg congenital muscular dystrophy
-4196631000006112	Distal muscular dystrophy, Miyoshi type
-68321016	Guillain-Barre syndrome
-3159801000006119	Acute idiopathic polyradiculoneuritis
-3159741000006112	Guillain-Barré syndrome
-3159831000006110	Acute inflammatory neuropathy
-3159791000006115	Acute inflammatory demyelinating polyradiculoneuropathy
-3159761000006111	Ascending paralysis
-3159811000006116	Acute idiopathic polyneuritis
-3159841000006117	Guillain Barre syndrome
-3159771000006116	Landry-Guillain-Barre syndrome
-3159821000006112	Acute post-infective radiculoneuropathy
-3159751000006114	Landry-Guillain-Barré syndrome
-4405701000006116	CIDP
-4405691000006116	Chronic inflammatory demyelinating polyradiculoneuropathy
-4405711000006118	CIDP - Chronic inflammatory demyelinating polyradiculoneuropathy
-4428381000006111	Spinocerebellar ataxia
-4428571000006118	Scapuloperoneal muscular dystrophy
-254830010	O/E - monoplegia
-4566591000006116	On examination - monoplegia
-4566651000006111	O/E - tetraplegia
-4566661000006113	On examination - tetraplegia
-254834018	O/E - quadriplegia
-4566641000006114	On examination - quadriplegia
-254835017	O/E - diplegia
-4566681000006115	On examination - diplegia
-4567631000006119	On examination - Parkinsonian tremor
-254935018	O/E - Parkinsonian tremor
-254941013	O/E - paraplegic in extension
-4567731000006111	On examination - paraplegic in extension
-280121000006113	O/E - Parkinson posture
-254944017	O/E -Parkinson flexion posture
-4567791000006110	On examination - Parkinson flexion posture
-296959019	Leucodystrophy
-4768661000006111	Leukodystrophy
-296982017	Leucodystrophy NOS
-4768691000006115	Globoid cell leucodystrophy
-4768671000006116	Galactosylceramide beta-galactosidase deficiency
-4768741000006118	Galactocerebroside beta-galactosidase deficiency
-296966018	Krabbe's disease
-4768731000006111	Krabbe disease
-4768751000006116	Diffuse globoid cell cerebral sclerosis
-4768711000006117	GCL - Globoid cell leucodystrophy
-4768701000006115	Krabbe leucodystrophy
-4768681000006118	Krabbe's leukodystrophy
-4768791000006110	Cerebral degeneration in Gaucher disease
-296990017	Cerebral degeneration in Gaucher's disease
-296991018	Cerebral degeneration in Niemann-Pick disease
-296988018	Cerebral lipidoses NOS
-297022013	Cerebral degeneration other disease NOS
-542781000006113	Cerebral degeneration associated with another disorder
-296996011	Cerebral degeneration in disease NOS
-296992013	Cerebral degeneration in lipidosis NOS
-296993015	Cerebral degeneration in diseases EC
-4768841000006113	Cerebral degeneration in Hunter disease
-296994014	Cerebral degeneration in Hunter's disease
-4768851000006110	Cerebral degeneration in mucopolysaccharidosis
-296995010	Cerebral degeneration in mucopolysaccharidoses
-297012019	Cerebral degeneration due to beriberi
-297013012	Cerebral degeneration due to cerebrovascular disease
-297014018	Cerebral degeneration due to congenital hydrocephalus
-297015017	Cerebral degeneration due to neoplastic disease
-297018015	Cerebral degeneration due to vitamin B12 deficiency
-542301000006117	Cerebellar ataxia due to myxoedema
-4769091000006117	Myxoedema cerebellar degeneration
-4769101000006111	Myxedema cerebellar degeneration
-4769111000006114	Paraneoplastic cerebellar degeneration
-297117011	Cerebellar ataxia due to neoplasia
-3511377010	PSP - progressive supranuclear palsy
-297258013	Progressive supranuclear palsy
-297588017	Myasthenic syndrome due to hypothyroidism
-297589013	Myasthenic syndrome due to pernicious anaemia
-4770761000006113	Myasthenic syndrome due to pernicious anemia
-297591017	Myasthenic syndrome due to thyrotoxicosis
-12717021000006115	Myopathy or muscular dystrophy NOS
-297655019	Myopathy or muscular dystrophy NOS
-4997971000006119	Suprabulbar palsy type of dysarthria
-4997941000006110	Spastic dysarthria
-4997981000006116	Pseudobulbar palsy type of dysarthria
-4997961000006114	Upper motor neurone type of dysarthria
-4997951000006112	Rigid type of dysarthria
-5005161000006115	Progressive spinocerebellar ataxia with decreased tendon reflexes
-5005261000006110	Fazio-Londe syndrome
-5005251000006113	Progressive bulbar palsy of childhood
-5005421000006117	Amyotrophic lateral sclerosis with dementia
-5005441000006112	Pure hereditary spastic paraplegia
-5005451000006114	Complicated hereditary spastic paraplegia
-5005671000006118	Frontal lobe degeneration with motor neurone disease
-299323018	[X]Secondary parkinsonism due to other external agents
-151951000006115	Secondary parkinsonism due to other external agents
-5005931000006110	Secondary Parkinson disease
-299313010	[X]Other secondary parkinsonism
-151961000006118	Secondary parkinsonism
-5005921000006112	Secondary Parkinson's disease
-299321016	[X]Secondary parkinsonism, unspecified
-5005941000006117	Carbon monoxide-induced parkinsonism
-5005951000006115	Manganese-induced parkinsonism
-5005961000006118	Parkinsonism with calcification of basal ganglia
-345121017	Vascular parkinsonism
-345122012	Multiple system atrophy
-5005991000006114	MSA - Multiple system atrophy
-5006091000006115	Chronic hepatocerebral degeneration
-5006381000006115	Posthemiplegic dystonia
-5007411000006119	Hemiplegia-hemiconvulsion-epilepsy syndrome
-5007431000006113	H-H-E syndrome
-5007421000006110	Hemiconvulsion-hemiplegia-epilepsy syndrome
-5008281000006114	Non-familial hemiplegic migraine
-5010771000006119	FIM - Familial infantile myasthenia
-5010761000006114	Familial infantile myasthenia
-5010821000006110	Limb girdle myasthenia
-5010811000006119	Pseudomyopathic myasthenia
-5010891000006112	Penicillamine-induced myasthenia
-5010901000006111	Transient neonatal myasthenia
-5010911000006114	Ocular myasthenia
-5012491000006111	Congenital pseudobulbar palsy
-5112121000006111	Addison disease with adrenoleucodystrophy
-5112111000006115	Addison's disease with adrenoleucodystrophy
-5116021000006114	Galactocerebroside beta-galactosidase deficiency - early onset
-5116031000006112	Infantile Krabbe disease
-5116631000006117	Neonatal adrenoleukodystrophy
-5116621000006115	Neonatal adrenoleucodystrophy
-5116771000006112	Pseudo-neonatal adrenoleucodystrophy
-11790731000006116	Pseudoadrenoleukodystrophy
-5116781000006110	Acyl-coenzyme A oxidase deficiency
-5116801000006114	Straight-chain acyl-CoA oxidase deficiency
-5116791000006113	Peroxisomal acyl-CoA oxidase deficiency
-5116761000006117	Acyl-CoA oxidase deficiency
-5130041000006112	Keratoderma with mental retardation and spastic paraplegia
-5142931000006117	Autosomal recessive muscular dystrophy with abnormal dystrophin-associated glycoprotein
-5142941000006110	Severe autosomal recessive muscular dystrophy of childhood - North African type
-5142991000006118	Congenital muscular dystrophy with arthrogryposis multiplex congenita
-5143041000006115	Adult onset autosomal recessive muscular dystrophy with normal dystrophin
-5254241000006110	Mask-like facial expression
-5254231000006117	Parkinsonian facies
-5277271000006113	Paraplegic posture
-5277731000006115	Progressive pseudobulbar palsy
-5279851000006110	Paraplegic gait
-5279881000006119	Parkinsonian shift
-5279891000006116	Parkinsonian shuffle
-5279871000006117	Parkinsonian gait
-5279861000006112	Extrapyramidal gait
-5280091000006113	Parkinsonian ataxia
-5485651000006119	Symptomatic parkinsonism
-402512016	O/E-festination-Parkinson gait
-402513014	O/E - festination
-5509101000006115	On examination - festination-Parkinson gait
-402514015	O/E - Parkinson gait
-5528021000006112	Hemiplegic posture
-5528031000006110	Posture paraplegic in flexion
-5528041000006117	Posture paraplegic in extension
-5528051000006115	Parkinsonian flexion posture
-5595791000006112	Subacute idiopathic demyelinating polyradiculoneuropathy
-5595781000006114	Subacute inflammatory demyelinating polyradiculoneuropathy
-359101000006114	Cerebral degeneration presenting primarily with dementia
-5651361000006115	Spastic diplegia
-5838441000006113	Metachromatic leucodystrophy due to deficiency of cerebroside sulphatase activator
-5838451000006110	Metachromatic leukodystrophy due to deficiency of cerebroside sulfatase activator
-5930421000006111	Parkinsonian features
-5983301000006110	Parkinsonian tremor
-3157091000006112	Metachromatic leucodystrophy, congenital type
-3157101000006118	Metachromatic leukodystrophy, congenital type
-3162681000006112	Galactocerebroside beta-galactosidase deficiency - late onset
-3162631000006111	Adult-type globoid cell leukodystrophy
-3162671000006114	Globoid cell leucodystrophy late onset
-3162651000006116	Adult type Krabbe disease
-3162661000006119	Late onset Krabbe disease
-3162611000006117	Globoid cell leucodystrophy, late-onset
-3162621000006113	Globoid cell leukodystrophy, late-onset
-3162641000006118	Adult-type Krabbe's disease
-109618012	Supranuclear paralysis
-3573321000006114	Supranuclear palsy
-3809951000006112	Aspartoacylase deficiency
-3809941000006110	Canavan-van-Bogaert-Bertrand disease
-3809931000006117	Canavan's disease
-3809981000006116	Canavan-van Bogaert-Bertrand disease
-3809971000006119	Spongiform leucodystrophy
-3809911000006111	Spongy degeneration of central nervous system
-3809961000006114	Spongy degeneration of white matter in infancy
-3809921000006115	Spongy degeneration of white matter
-821141000006113	Hepatolenticular degeneration (Wilson's disease)
-3938641000006113	Wilson disease
-3938571000006116	Copper storage disease
-3938561000006111	Hepatolenticular degeneration syndrome
-3938621000006118	Progressive lenticular degeneration
-3938601000006111	Kinnier-Wilson disease
-3938611000006114	Neurohepatic degeneration
-3938581000006118	Hepatocerebral degeneration
-3938591000006115	Hepatolenticular degeneration
-3938631000006115	WD - Wilson's disease
-146760018	Wilson's disease
-4768641000006112	Cerebral degenerations usually manifest in childhood
-4428171000006111	Menopausal muscular dystrophy syndrome
-3560801000006112	Drug-induced myasthenia
-3603971000006110	Massive calcification in paraplegic
-3684041000006116	Neuroleptic-induced Parkinsonism
-3684051000006119	Neuroleptic-induced parkinsonism
-3812351000006117	Myasthenia gravis panel measurement
-6348811000006112	Paraplegic cerebral palsy
-1232670018	X-linked adrenoleucodystrophy
-1825141000006111	Adrenoleucodystrophy
-3563081000006116	Schilder-Addison complex
-3563051000006112	Adrenoleukodystrophy
-3563071000006119	Bronze Schilder disease
-3563111000006110	ALD - adrenoleukodystrophy
-3563061000006114	Adrenomyeloneuropathy
-3563091000006118	Siemerling-Creutzfeldt disease
-1785557019	Metachromatic leucodystrophy
-6568061000006113	MLD
-6568101000006111	Familial progressive cerebral sclerosis
-6568091000006117	van Bogaert-Nijssen disease
-6568051000006111	Sulfatide lipidosis
-6568031000006116	Metachromatic leukodystrophy
-6568111000006114	MLD - Metachromatic leucodystrophy
-6568081000006115	Metachromatic leukoencephaly
-6568041000006114	Sulphatide lipidosis
-6687061000006118	Ichthyosis, cerebellar degeneration and hepatosplenomegaly
-6703111000006118	Alternating hemiplegia
-6867151000006110	Ocular myasthenia with strabismus
-6892141000006112	Measles virus, viral envelope M protein variant
-6892151000006114	SSPE virus - subacute sclerosing panencephalitis virus
-6892161000006111	Subacute sclerosing panencephalitis virus
-297025010	Other cerebral degeneration NOS
-399393010	Cerebral degeneration
-542741000006119	Cerebral degeneration in lipidoses EC
-6949051000006117	Cerebral degeneration in generalized lipidosis
-6949041000006119	Cerebral degeneration associated with generalized lipidosis
-6949031000006112	Cerebral degeneration associated with generalised lipidosis
-6949061000006115	Cerebral degeneration in lipidoses
-6956291000006113	Progressive multifocal leucoencephalopathy associated with AIDS
-6956321000006116	Progressive multifocal leucoencephalopathy associated with acquired immunodeficiency syndrome
-6956311000006112	Progressive multifocal leukoencephalopathy associated with acquired immunodeficiency syndrome
-6956301000006114	Progressive multifocal leukoencephalopathy associated with AIDS
-7054961000006112	Monoplegia of lower limb affecting dominant side
-7066481000006112	Monoplegia of lower limb affecting non-dominant side
-7060541000006115	Monoplegia of upper limb affecting non-dominant side
-7068491000006111	Monoplegia of dominant upper limb as a late effect of cerebrovascular accident
-7047371000006114	Monoplegia of dominant lower limb as a late effect of cerebrovascular accident
-7103601000006116	Dementia due to Creutzfeldt-Jakob disease
-295686014	Dementia due to Creutzfeldt Jakob disease
-7210141000006118	Cerebral degeneration due to Parkinson disease
-7210131000006111	Cerebral degeneration due to Parkinson's disease
-3863971000006116	Metachromatic leukodystrophy without arylsulfatase deficiency
-3863961000006111	Metachromatic leucodystrophy without arylsulphatase deficiency
-7254191000006114	Spastic hemiplegia of nondominant side
-7253911000006117	Complete quadriplegia due to lesion at C1-C4 level
-7253901000006115	Complete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra
-7253921000006113	Complete tetraplegia due to lesion at C1-C4 level
-7255301000006115	Incomplete tetraplegia due to lesion at C5-C7 level
-7255281000006119	Incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra
-7255291000006116	Incomplete quadriplegia due to lesion at C5-C7 level
-7253681000006116	Incomplete tetraplegia due to spinal cord lesion at C1-C4 level
-7253671000006119	Incomplete quadriplegia due to spinal cord lesion at C1-C4 level
-7253661000006114	Incomplete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra
-7254111000006116	Hemiplegia of nondominant side
-7256661000006119	Spastic hemiplegia of dominant side
-7257491000006114	Monoplegia of upper limb of dominant side
-7259321000006110	Flaccid hemiplegia of nondominant side
-7258531000006113	Flaccid hemiplegia of dominant side
-7257921000006117	Complete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra
-7257941000006112	Complete tetraplegia due to lesion at C5-C7 level
-7257931000006119	Complete quadriplegia due to lesion at C5-C7 level
-7260511000006114	Hemiplegia of dominant side
-317132012	Transient monoplegia
-8089521000006110	Complete paraplegia
-8038521000006111	Functional quadriplegia
-8038531000006114	Functional tetraplegia
-8089531000006113	Incomplete paraplegia
-8014271000006111	Ataxic hemiparesis
-8030671000006113	Paraplegia with neurogenic bladder
-8023791000006112	Myasthenia gravis without exacerbation
-8030661000006118	Neurogenic bladder due to quadriplegia
-8023781000006114	Myasthenia gravis with exacerbation
-8031761000006117	Dementia due to Parkinsons disease
-8031751000006119	Dementia due to Parkinson's disease
-8031771000006112	Dementia due to Parkinson disease
-7506981000006115	X-linked torsion dystonia parkinsonism syndrome
-7506951000006111	Dystonia musculorum deformans
-7506961000006113	Lubag
-7506971000006118	XDP - X-linked dystonia parkinsonism
-7506941000006114	X-linked dystonia parkinsonism
-7506991000006117	Torsion dystonia parkinsonism Filipino type
-7507251000006115	Chronic paraplegia
-7507241000006117	Acute paraplegia
-7510741000006111	Dementia associated with multiple sclerosis
-7512221000006111	Chronic incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra
-7512201000006118	Chronic incomplete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra
-7512211000006115	Acute complete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra
-7512191000006116	Acute complete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra
-7518141000006110	Perry syndrome
-7518151000006112	Parkinsonism with alveolar hypoventilation and mental depression
-8024641000006111	Altered behaviour in Huntington's dementia
-8024661000006110	Altered behavior in dementia due to Huntington chorea
-8024651000006113	Altered behavior in Huntington's dementia
-7520661000006114	Myoclonic epilepsy myopathy sensory ataxia
-7520681000006116	Spinocerebellar ataxia with epilepsy
-7520671000006119	MEMSA - myoclonic epilepsy myopathy sensory ataxia
-8024681000006117	Dementia due to multiple sclerosis with altered behavior
-8024671000006115	Dementia due to multiple sclerosis with altered behaviour
-7528231000006116	Progressive bulbar palsy with sensorineural deafness
-7528221000006119	Brown-Vialetto-Van Laere syndrome
-7528241000006114	Pontobulbar palsy with deafness
-8010631000006115	Quadriplegia with quadriparesis
-7500131000006117	Hemiparesis/hemiplegia (one sided weakness/paralysis)
-7500121000006115	Paralytic syndrome on one side of the body
-7558431000006116	Salih congenital muscular dystrophy
-7558421000006119	Early onset myopathy with fatal cardiomyopathy
-7558441000006114	Salih myopathy
-7558021000006110	DYT12 - dystonia 12
-7558011000006119	Rapid onset dystonia parkinsonism
-7558031000006113	Dystonia 12
-7557901000006115	Non-spastic cerebral palsy
-7557911000006117	Extrapyramidal cerebral palsy
-7557951000006116	Mixed cerebral palsy
-7559241000006115	Huntington disease-like syndrome disorder
-7559231000006113	Huntington disease phenocopy syndrome
-7559221000006110	Huntington disease-like syndrome
-7560551000006115	Wilhelmsen-Lynch disease
-7560561000006118	Disinhibition-dementia-parkinsonism-amytrophy complex
-7560531000006110	Frontotemporal dementia with parkinsonism-17
-7560541000006117	Familial Pick's disease
-7560571000006113	FTDP-17 - Frontotemporal dementia with parkinsonism 17
-7557961000006119	Bilateral cerebral palsy
-7557971000006114	Bilateral spastic cerebral palsy
-7557921000006113	Dystonic cerebral palsy
-7557931000006111	Choreic cerebral palsy
-7557991000006110	Pentaplegic cerebral palsy
-7557981000006112	Triplegic cerebral palsy
-7557941000006118	Chorea-athetoid cerebral palsy
-7560241000006119	Dysmyelinating leukodystrophy and spastic paraparesis
-7560251000006117	Spastic paraplegia 35
-7560231000006112	Fatty acid hydroxylase associated neurodegeneration
-7560911000006114	Friedreich ataxia phenotype with selective vitamin E deficiency
-7560871000006111	Ataxia with vitamin E deficiency
-7560891000006112	Friedreich-like ataxia
-7560881000006114	Familial isolated vitamin E deficiency
-7560901000006111	Ataxia with isolated vitamin E deficiency
-7577621000006117	IBMPFD - Inclusion body myopathy with early onset Paget disease and frontotemporal dementia
-7577601000006110	Muscular dystrophy limb-girdle with Paget disease of bone
-7577611000006113	Pagetoid neuroskeletal syndrome
-7577581000006117	Lower motor neuron degeneration with Paget-like bone disease
-7577571000006115	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
-7577591000006119	Pagetoid amyotrophic lateral sclerosis
-3994601000006110	Portuguese-Azorean disease
-3994641000006112	Spinocerebellar ataxia type 3
-3994611000006113	Machado-Joseph disease
-3994621000006117	MJD - Machado-Joseph disease
-3994631000006119	Machado Joseph disease
-3994591000006119	Azorean disease
-7649851000006110	Kjellin syndrome
-7649841000006113	Spastic paraplegia type 15
-7683931000006118	Spinocerebellar ataxia 36
-7683901000006114	Spinocerebellar ataxia type 36
-7683911000006112	Costa de Morte ataxia
-7683921000006116	Asidan ataxia
-8042771000006117	Cerebral degeneration due to hypothyroidism
-7704681000006118	Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection
-7704671000006116	Progressive multifocal leucoencephalopathy co-occurrent with human immunodeficiency virus infection
-8042761000006112	Cerebral degeneration due to alcoholism
-7730651000006111	Alpha-sarcoglycanopathy LGMD2D (limb girdle muscular dystrophy type 2D)
-7730641000006114	Autosomal recessive limb girdle muscular dystrophy type 2D
-7730661000006113	Autosomal recessive limb girdle muscular dystrophy type 2A
-7730681000006115	Calpain-3 deficiency limb girdle muscular dystrophy type 2A
-7730671000006118	Primary calpainopathy
-7730791000006112	Young onset Parkinson disease
-7730821000006115	Early onset Parkinson's disease
-7730811000006111	Early onset Parkinson disease
-7730801000006113	Young onset Parkinson's disease
-7732641000006113	Bedouin spastic ataxia syndrome
-7732661000006112	Spastic ataxia and corneal dystrophy
-7732671000006117	Mousa-Al Din-Al Nassar syndrome
-7732651000006110	Spinocerebellar degeneration co-occurrent with macular corneal dystrophy
-7733101000006113	Autosomal recessive spastic paraplegia type 11
-7733111000006111	Nakamura Osame syndrome
-7733121000006115	Spastic paraplegia, intellectual disability and thin corpus callosum
-7732041000006117	Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome
-7734211000006115	Lethal arthrogryposis co-occurrent with anterior horn cell disease
-7734201000006118	Vuopala disease
-7734191000006116	Lethal arthrogryposis with anterior horn cell disease
-7731161000006110	Autosomal recessive cerebelloparenchymal disorder type 3
-7731181000006117	SCAR2 (spinocerebellar ataxia autosomal recessive 2)
-7731171000006115	Cerebelloparenchymal disorder III
-7735591000006112	Iatrogenic Jakob-Creutzfeldt disease
-7735601000006116	Iatrogenic Creutzfeldt-Jakob disease
-7736781000006112	Spinocerebellar ataxia type 7
-7736791000006110	Ataxia with pigmentary retinopathy
-7736801000006111	Cerebellar syndrome pigmentary maculopathy
-7737021000006114	Parkinsonism co-occurrent with dementia of Guadeloupe
-7737011000006118	Parkinsonism with dementia of Guadeloupe
-7737191000006112	Spinocerebellar ataxia type 1
-7737201000006110	Spinocerebellar ataxia type 2
-7737211000006113	Spinocerebellar ataxia type 6
-7737221000006117	Spinocerebellar ataxia type 8
-7737231000006119	Spinocerebellar ataxia type 10
-7737241000006112	Spinocerebellar ataxia type 4
-7737491000006116	Spastic paraplegia type 7
-7737911000006117	fCJD (Familial Creutzfeldt-Jakob disease)
-7737921000006113	Inherited Creutzfeldt-Jakob disease
-7737901000006115	Familial Creutzfeldt-Jakob
-7738251000006110	Spinocerebellar ataxia type 28
-7738261000006112	Spinocerebellar ataxia type 29
-7738271000006117	Congenital nonprogressive spinocerebellar ataxia
-7738281000006119	Spinocerebellar ataxia type 31
-7742521000006116	Laxova Opitz syndrome
-7742511000006112	Early onset parkinsonism and intellectual disability syndrome
-7742531000006118	Waisman syndrome
-7742541000006111	Fryns macrocephaly
-7742551000006113	Macrocephaly with spastic paraplegia and dysmorphism syndrome
-7750331000006110	Hereditary late onset Parkinson disease
-7750321000006112	Autosomal dominant late onset Parkinson disease
-7751071000006117	Acute inflammatory demyelinating polyradiculoneuropathy
-7751081000006119	Guillain-Barré syndrome acute inflammatory demyelinating polyradiculoneuropathic form
-7751091000006116	Spinocerebellar ataxia type 15/16
-7768741000006114	Autosomal recessive limb girdle muscular dystrophy type 2C
-7768751000006111	Limb girdle muscular dystrophy due to gamma-sarcoglycan deficiency
-7768771000006118	Limb girdle muscular dystrophy due to delta-sarcoglycan deficiency
-7768761000006113	Autosomal recessive limb girdle muscular dystrophy type 2F
-7768781000006115	Autosomal dominant limb girdle muscular dystrophy type 1B
-7768801000006116	Limb girdle muscular dystrophy due to dysferlin deficiency
-7768791000006117	Autosomal recessive limb girdle muscular dystrophy type 2B
-7768821000006114	Limb girdle muscular dystrophy due to deficiency of fukutin related protein
-7768811000006118	Autosomal recessive limb girdle muscular dystrophy type 2I
-7773891000006114	Juvenile amyotrophic lateral sclerosis
-7773901000006113	JALS - juvenile amyotrophic lateral sclerosis
-297043014	Orthostatic hypotension co-occurrent and due to Parkinson's disease
-7777601000006111	Spinocerebellar ataxia type 26
-7777611000006114	Spinocerebellar ataxia type 25
-7777621000006118	Spinocerebellar ataxia type 20
-7777631000006115	Spinocerebellar ataxia type 23
-7777651000006110	Spinocerebellar ataxia type 21
-7778281000006117	Limb girdle muscular dystrophy due to beta-sarcoglycan deficiency
-7778271000006115	Autosomal recessive limb girdle muscular dystrophy type 2E
-7781581000006118	Spastic paraplegia due to NTE (neuropathy target esterase) mutation
-7781561000006111	Autosomal recessive spastic paraplegia type 39
-7781571000006116	Spastic paraplegia due to neuropathy target esterase mutation
-7783331000006114	Spinocerebellar ataxia type 11
-7783341000006116	Spinocerebellar ataxia type 12
-7783351000006119	Spinocerebellar ataxia type 13
-7783361000006117	Spinocerebellar ataxia type 14
-7783901000006119	Huntington disease-like 4
-7783891000006118	Spinocerebellar ataxia type 17
-7783911000006116	Spinocerebellar ataxia type 18
-7783921000006112	Spinocerebellar ataxia type 19
-7783931000006110	Spinocerebellar ataxia type 27
-7783941000006117	Spinocerebellar ataxia type 30
-7783951000006115	Spinocerebellar ataxia type 32
-7783971000006113	Erythrokeratodermia with ataxia
-7783961000006118	Spinocerebellar ataxia type 34
-7783981000006111	Spinocerebellar ataxia and erythrokeratodermia
-7784781000006111	Spinocerebellar ataxia type 35
-7784791000006114	Spinocerebellar ataxia type 37
-7784801000006110	Spinocerebellar ataxia with altered vertical eye movement
-7784811000006113	Spinocerebellar ataxia type 5
-7790241000006117	Psychosis co-occurrent and due to Parkinson's disease
-7791391000006111	X-linked ataxia deafness syndrome
-7791381000006113	X-linked spinocerebellar ataxia type 3
-7791371000006110	X-linked sideroblastic anemia with spinocerebellar ataxia
-7791361000006115	X-linked sideroblastic anaemia with spinocerebellar ataxia
-7791401000006113	X-linked spinocerebellar ataxia type 4
-7791411000006111	X-linked ataxia dementia syndrome
-7794211000006113	Limb girdle muscular dystrophy due to myotilin deficiency
-7794221000006117	Limb-girdle muscular dystrophy 1A myotilin myopathy
-7794201000006110	Autosomal dominant limb girdle muscular dystrophy type 1A
-7794251000006114	Limb-girdle muscular dystrophy 1C caveolin myopathy
-7794241000006112	Limb girdle muscular dystrophy due to caveolin-3 deficiency
-7794231000006119	Autosomal dominant limb girdle muscular dystrophy type 1C
-7794261000006111	Autosomal dominant limb girdle muscular dystrophy type 1D
-7794271000006116	Autosomal dominant limb girdle muscular dystrophy type 1E
-7794281000006118	Autosomal dominant limb girdle muscular dystrophy type 1F
-7794291000006115	Autosomal dominant limb girdle muscular dystrophy type 1G
-7803941000006116	PLA2G6 (phospholipase A2 group VI) related dystonia parkinsonism
-7803931000006114	Dystonia parkinsonism Paisan-Ruiz type
-7803921000006111	Adult-onset dystonia parkinsonism
-7804921000006113	Limb girdle muscular dystrophy due to telethonin deficiency
-7804911000006117	Autosomal recessive limb girdle muscular dystrophy type 2G
-7804931000006111	Autosomal recessive limb girdle muscular dystrophy type 2K
-7804941000006118	Limb girdle muscular dystrophy with intellectual disability syndrome
-7807671000006114	Corneal cerebellar syndrome
-7807691000006110	Spinocerebellar degeneration and corneal dystrophy syndrome
-7807681000006112	Der Kaloustian Jarudi Khoury syndrome
-7809761000006118	Bilateral anterior opercular syndrome
-7809771000006113	Facio-pharyngo-glosso-masticatory diplegia
-7809751000006115	Foix Chavany Marie syndrome
-7763061000006116	Hereditary sensory and autonomic neuropathy with spastic paraplegia
-7763071000006111	HSAN (hereditary sensory and autonomic neuropathy) with spastic paraplegia
-7765111000006116	Juvenile primary lateral sclerosis
-7813961000006119	Huntington disease-like 2
-7826441000006110	Volcke Soekarman syndrome
-7826431000006117	Macrocephaly, short stature, paraplegia syndrome
-7826751000006116	Oculogastrointestinal muscular dystrophy
-7826761000006119	Visceral myopathy with familial external ophthalmoplegia syndrome
-7826831000006115	Odontoleukodystrophy
-7826841000006113	Dentoleukoencephalopathy
-7826861000006112	Leucodystrophy with oligodontia
-7826851000006110	Leukodystrophy with oligodontia
-7828621000006116	Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome
-7828631000006118	Fitzsimmons McLachlan Gilbert syndrome
-7831581000006114	Early-onset dystonia parkinsonism
-7831571000006111	Dystonia 16
-7833271000006112	Parkinsonism due to human immunodeficiency virus infection
-7833281000006110	Parkinsonism following infection
-7833291000006113	Post-infectious Parkinsonism
-7834061000006111	Parkinsonism due to hereditary spastic paraplegia
-7836111000006119	Infantile dystonia parkinsonism
-7836121000006110	Parkinsonism-dystonia infantile
-7836101000006117	Dopamine transporter deficiency syndrome
-7838691000006117	Atypical Parkinsonism
-7838701000006117	Parkinsonism due to heredodegenerative disorder
-7838921000006112	Amyotrophic lateral sclerosis plus syndrome
-7841131000006115	Flaccid diplegia of upper extremities
-7841121000006118	Flaccid diplegia of upper limbs
-7841151000006110	Spastic diplegia of upper extremities
-7841141000006113	Spastic diplegia of upper limbs
-7841171000006117	Diplegia of lower extremeties
-7841161000006112	Diplegia of lower limbs
-7841181000006119	Flaccid monoplegia of upper limb
-7841191000006116	Flaccid monoplegia of upper extremity
-7841211000006115	Spastic monoplegia of upper extremity
-7841201000006118	Spastic monoplegia of upper limb
-7841231000006114	Flaccid monoplegia of lower extremity
-7841221000006111	Flaccid monoplegia of lower limb
-7841241000006116	Spastic monoplegia of lower limb
-7841251000006119	Spastic monoplegia of lower extremity
-3001471000006111	Postpolio muscular atrophy
-3001491000006112	Progressive muscular atrophy following poliomyelitis
-3001451000006118	Post poliomyelitis syndrome
-3001481000006114	Post-polio progressive muscular atrophy
-52052015	Postpolio syndrome
-7842441000006113	Limb girdle muscular dystrophy with epidermolysis bullosa simplex
-7842431000006115	Epidermolysis bullosa simplex with muscular dystrophy
-7843681000006111	Muscular dystrophy Selcen type
-7843691000006114	Selcen muscular dystrophy
-7845921000006118	Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome
-7845931000006115	Spastic quadriplegia, retinitis pigmentosa, intellectual disability syndrome
-7845971000006117	Spastic paraplegia type 2
-7845951000006110	Spastic gait type 2
-7845941000006113	X-linked spastic paraplegia type 2
-7845961000006112	Spastic paraparesis type 2
-7847971000006111	Autosomal dominant spastic paraplegia type 36
-7847981000006114	Autosomal dominant spastic paraplegia type 4
-7847991000006112	Autosomal recessive spastic paraplegia type 44
-7848001000006119	Autosomal recessive spastic paraplegia type 46
-7848011000006116	Autosomal recessive spastic paraplegia type 53
-7848021000006112	Autosomal recessive spastic paraplegia type 54
-7848051000006115	Spastic paraplegia due to partial TFG deficiency
-7848041000006117	Autosomal recessive spastic paraplegia type 57
-7848031000006110	Autosomal recessive spastic paraplegia type 55
-7850171000006114	Parkinson disease 9
-7850151000006116	Kufor Rakeb syndrome
-7850161000006119	PARK9 - Parkinson disease 9
-7853091000006118	Ophthalmoplegia, hypotonia, ataxia, hypoacusis, athetosis syndrome
-7853071000006119	Infantile onset spinocerebellar ataxia
-7853081000006116	Ohaha syndrome
-7854211000006119	Hypomyelinating leucodystrophy with atrophy of basal ganglia and cerebellum
-7854241000006115	Hypomyelination with atrophy of basal ganglia and cerebellum syndrome
-7854221000006110	Hypomyelinating leukodystrophy with atrophy of basal ganglia and cerebellum
-7854231000006113	H-ABC - hypomyelination, atrophy of basal ganglia and cerebellum
-7864571000006119	Autosomal recessive limb girdle muscular dystrophy type 2J
-7864581000006116	Limb-girdle muscular dystrophy 2J titin gene mutation
-7864601000006114	Limb-girdle muscular dystrophy 2O POMGNT1 (protein o-mannose beta-1,2-n-acetylglucosaminyltransferase) gene mutation
-7864591000006118	Autosomal recessive limb girdle muscular dystrophy type 2O
-7864611000006112	Limb-girdle muscular dystrophy 2O POMGNT1 gene mutation
-7857651000006111	Infectious parkinsonism
-7857641000006114	Infection causing parkinsonism
-7865901000006115	SPOAN (spastic paraplegia, optic atrophy, neuropathy) syndrome
-7865891000006119	Spastic paraplegia, optic atrophy, neuropathy syndrome
-7866021000006118	Atypical juvenile parkinsonism
-7867251000006115	Fitzsimmons Guilbert syndrome
-7867241000006117	Paraplegia, brachydactyly, cone-shaped epiphysis syndrome
-7868441000006115	SCAR1 - spinocerebellar ataxia autosomal recessive 1
-7868421000006110	Autosomal recessive cerebellar ataxia with oculomotor apraxia type 2
-7868451000006118	Spinocerebellar ataxia with axonal neuropathy type 2
-7868431000006113	AOA2 - ataxia oculomotor apraxia type 2
-7868691000006110	Congenital muscular dystrophy Paradas type
-7868701000006110	Congenital myopathy Paradas type
-7868211000006115	ARCA2 - autosomal recessive cerebellar ataxia type 2
-7868231000006114	Autosomal recessive spinocerebellar ataxia type 9
-7868201000006118	Autosomal recessive ataxia due to ubiquinone deficiency
-7868221000006111	Autosomal recessive ataxia due to coenzyme Q10 deficiency
-7861151000006116	Progressive relapsing multiple sclerosis
-7860881000006113	Sporadic Parkinson disease
-7860891000006111	Parkinsonism due to and following injury of head
-7860901000006110	Post-traumatic parkinsonism
-7874861000006119	Autosomal recessive muscular dystrophy due to Torsin-1A-interacting protein 1 deficiency
-7874841000006118	Autosomal recessive limb girdle muscular dystrophy type 2Y
-7874851000006116	Autosomal recessive muscular dystrophy due to LAP1B (lamin-associated protein 1B) deficiency
-7874871000006114	Muscular dystrophy with progressive weakness, distal contracture and rigid spine
-7876351000006118	CAMOS syndrome
-7876381000006114	SCAR5 - spinocerebellar ataxia autosomal recessive 5
-7876361000006116	CAMOS (cerebellar ataxia, mental retardation, optic atrophy, skin abnormalities) syndrome
-7876371000006111	Cerebellar ataxia, intellectual disability, optic atrophy, skin abnormalities syndrome
-7861121000006113	X-linked hereditary spastic paraplegia
-7860911000006113	Parkinsonism due to mass lesion of brain
-7861751000006117	Functional parkinsonism
-7861721000006114	Functional hemiparesis
-7880621000006113	Autosomal recessive spastic paraplegia type 32
-7880631000006111	Autosomal recessive spastic paraplegia type 26
-7880641000006118	GM2 synthase deficiency
-7880661000006119	Lison syndrome
-7880651000006116	Autosomal recessive spastic paraplegia type 23
-7880671000006114	Spastic paraparesis, vitiligo, premature graying, characteristic facies syndrome
-7880681000006112	Spastic paraparesis, vitiligo, premature greying, characteristic facies syndrome
-7880691000006110	Autosomal recessive spastic paraplegia type 64
-7880701000006110	Autosomal recessive spastic paraplegia type 63
-7880711000006113	Autosomal recessive spastic paraplegia type 61
-7880741000006112	Autosomal recessive limb girdle muscular dystrophy type 2P
-7880751000006114	Autosomal recessive limb girdle muscular dystrophy type 2Q
-7880761000006111	Autosomal recessive limb girdle muscular dystrophy type 2L
-7880771000006116	Autosomal recessive limb girdle muscular dystrophy type 2N
-7880781000006118	Autosomal recessive limb girdle muscular dystrophy type 2M
-7880851000006115	Spastic paraplegia with Paget disease of bone syndrome
-7951381000006111	Autosomal recessive limb girdle muscular dystrophy type 2S
-7951391000006114	Autosomal recessive limb girdle muscular dystrophy type 2T
-7951411000006114	Autosomal recessive limb girdle muscular dystrophy due to desmin deficiency
-7951401000006111	Autosomal recessive limb girdle muscular dystrophy type 2R
-7951421000006118	Autosomal recessive spastic paraplegia type 18
-7951431000006115	Autosomal recessive spastic paraplegia type 25
-7951441000006113	Autosomal recessive spastic paraplegia disc herniation syndrome
-7963241000006119	Spinocerebellar ataxia type 40
-7963251000006117	Spinocerebellar ataxia type 38
-7860921000006117	Chorea co-occurrent and due to Huntington disease-like condition
-7860931000006119	Chorea with Huntington disease-like condition
-7951601000006113	Autosomal dominant spastic paraplegia type 10
-7951611000006111	Autosomal dominant spastic paraplegia type 6
-7951621000006115	Autosomal dominant familial spastic paraplegia type 3
-7951771000006112	Spastic paraplegia with precocious puberty syndrome
-7952691000006110	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
-7952701000006110	Autosomal dominant spastic paraplegia type 29
-7952771000006116	Spinocerebellar ataxia dysmorphism syndrome
-7953511000006111	Spastic paraplegia, nephritis, deafness syndrome
-7953521000006115	Fitzsimmons Watson Mellor syndrome
-7958141000006110	Spastic paraplegia, glaucoma, intellectual disability syndrome
-3504836014	Monoplegia of right dominant lower limb
-3504838010	Monoplegia of left dominant lower limb
-3504840017	Monoplegia of left nondominant lower limb
-3504846011	Monoplegia of left arm
-3504845010	Monoplegia of left upper limb
-3509796015	Monoplegia of right nondominant lower limb
-3509797012	Monoplegia of right nondominant leg
-3509802018	Monoplegia of right arm
-3509801013	Monoplegia of right upper limb
-3509868016	Flaccid hemiplegia of left dominant side
-3509873010	Flaccid hemiplegia of right nondominant side
-3509875015	Flaccid hemiplegia of right dominant side
-3509877011	Flaccid hemiplegia of left nondominant side
-3509879014	Neuromuscular scoliosis due to cerebral palsy
-3511417019	Neuromuscular scoliosis co-occurrent and due to cerebral palsy
-3509888017	Hemiplegia of left nondominant side
-3509890016	Hemiplegia of right nondominant side
-3510031016	Hemiplegia of left dominant side
-3510041018	Hemiplegia of right dominant side
-3513421017	Spastic hemiplegia of left dominant side
-3513423019	Spastic hemiplegia of left nondominant side
-3513666019	Spastic hemiplegia of right dominant side
-3513668018	Spastic hemiplegia of right nondominant side
-3527211011	Autosomal dominant hereditary spastic paraplegia
-3528396015	Hemiparkinsonism hemiatrophy syndrome
-11999341000006110	Autosomal dominant spastic paraplegia type 31
-11999351000006112	Autosomal dominant spastic paraplegia type 41
-11999361000006114	Autosomal dominant spastic paraplegia type 42
-12002541000006117	Congenital muscular dystrophy with hyperlaxity
-12003111000006118	Spectrin-associated autosomal recessive cerebellar ataxia type 1
-12003101000006116	Autosomal recessive cerebellar ataxia, cognitive defect syndrome
-12003091000006110	Autosomal recessive spinocerebellar ataxia type 14
-12003081000006112	Spectrin-associated autosomal recessive cerebellar ataxia
-12003351000006119	Autosomal recessive spastic paraplegia type 48
-12003381000006110	Autosomal dominant spastic paraplegia type 37
-12003391000006113	X-linked spastic paraplegia type 34
-12003441000006112	Autosomal recessive spastic paraplegia type 5A
-12003451000006114	Autosomal dominant spastic paraplegia type 12
-12003461000006111	Autosomal dominant spastic paraplegia type 19
-12003471000006116	Autosomal recessive spastic paraplegia type 28
-12003481000006118	Autosomal spastic paraplegia type 30
-12003971000006113	Antinolo Nieto Borrego syndrome
-12003961000006118	Spastic paraplegia, neuropathy, poikiloderma syndrome
-12003981000006111	Spastic paraplegia, facial cutaneous lesion syndrome
-12003991000006114	Bahemuka Brown syndrome
-12020111000006119	Hereditary spastic paraparesis type 15
-12020081000006113	Autosomal recessive spastic paraplegia type 15
-12020091000006111	Spastic paraplegia, retinal degeneration syndrome
-12020101000006117	Kjellin syndrome
-12020141000006115	Autosomal recessive spastic paraplegia type 35
-12020861000006110	Mast syndrome
-12020851000006113	Autosomal recessive spastic paraplegia type 21
-12020891000006119	Autosomal recessive spastic paraplegia type 43
-12023761000006114	Congenital muscular dystrophy type 1B
-12025281000006112	Autosomal recessive spastic paraplegia type 62
-12026151000006116	Spinocerebellar ataxia with axonal neuropathy type 1
-12028001000006118	Symptomatic form of muscular dystrophy of Duchenne and Becker in female carrier
-12035781000006118	Autosomal recessive spastic paraplegia type 45
-12042571000006119	Acute multiple sclerosis Marburg variant
-12042551000006112	Marburg acute multiple sclerosis
-12042561000006114	Acute multiple sclerosis Marburg type
-12047961000006117	Autosomal recessive spastic paraplegia type 67
-12048551000006110	X-linked spinocerebellar ataxia type 5
-12048541000006113	X-linked non progressive cerebellar ataxia
-12049021000006116	Parkinsonism caused by cyanide
-12049031000006118	Cyanide-induced parkinsonism
-12050711000006119	Congenital facial diplegia
-12050701000006117	Moebius syndrome
-5005481000006118	Silver disease
-7784181000006110	Progressive cavitating leukoencephalopathy
-7693291000006110	Ribonucleic acid polymerase III-related leukodystrophy
-7693281000006112	RNA polymerase III-related leukodystrophy
-7955151000006115	Dementia co-occurrent and due to progressive multifocal leukoencephalopathy
-7955141000006117	Dementia with progressive multifocal leukoencephalopathy
-7560451000006116	HDLS - hereditary diffuse leukoencephalopathy with spheroids
-7560431000006111	Hereditary diffuse leukoencephalopathy with axonal spheroids
-7560461000006119	Neuroaxonal leukodystrophy
-7560421000006113	Hereditary diffuse leukoencephalopathy with spheroids
-7560441000006118	Adult-onset leukodystrophy with neuroaxonal spheroids
-1883621000006119	Gross motor function classification system for cerebral palsy
-2283041000000116	Choreo-athetotic cerebral palsy
-2283831000000117	Choreoathetoid cerebral palsy
-2122001000000116	Spastic hemiplegic cerebral palsy
-299393011	[X]Cerebral palsy and other paralytic syndromes
-716831000006114	Massive muscular calcification associated with paraplegia
-400312014	Muscular calcification and ossification, unspecified
-351861000000110	Amyotrophic lateral sclerosis drugs Band 1
-299241000000110	Multiple sclerosis review
-315671000000110	Multiple sclerosis multidisciplinary review
-699671000000115	Management of multiple sclerosis in onset phase
-699731000000110	Management of multiple sclerosis in early disease phase
-699791000000111	Management of multiple sclerosis in stable disability phase
-699911000000117	Management of multiple sclerosis in palliative phase
-300141000000119	Multiple sclerosis care plan agreed
-1148911000000119	Multiple sclerosis review declined
-979461000006111	Specialised services for patients with multiple sclerosis enhanced services administration
-1674381000000115	Multiple sclerosis monitoring first letter
-1674661000000118	Multiple sclerosis monitoring second letter
-1674121000000119	Multiple sclerosis monitoring administration
-1148731000000112	History of Parkinson's disease
-636681000000117	Cerebral degeneration in Parkinson's disease
-65526011	Diabetic amyotrophy
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+81717011	Parkinson's disease	1367963	1	1
+41398015	Multiple sclerosis	939687	1	1
+105536013	Intermittent claudication	576291	1	1
+87704019	Chronic fatigue syndrome	345362	1	1
+151829017	Myasthenia gravis	115021	1	1
+486695013	Motor neurone disease	108676	1	1
+411453017	Congenital cerebral palsy	106563	1	1
+496414017	CFS - Chronic fatigue syndrome	95444	1	1
+297037012	Parkinson's disease NOS	85813	1	1
+411512011	Claudication	71461	1	1
+97642017	Huntington's chorea	65573	1	1
+98501012	Hemiplegic migraine	59721	1	1
+100323011	Paraplegia	58025	1	1
+295688010	Dementia in Parkinsons disease	51583	1	1
+399393010	Cerebral degeneration	39106	1	1
+84272011	Hemiplegia	38369	1	1
+415152011	Left sided weakness	36450	1	1
+68321016	Guillain-Barre syndrome	35443	1	1
+496410014	ME - Myalgic encephalomyelitis	30535	1	1
+254935018	O/E - Parkinsonian tremor	26748	1	1
+415147018	Left hemiplegia	26694	1	1
+415149015	Right sided weakness	26005	1	1
+415146010	Right hemiplegia	25976	1	1
+81719014	Paralysis agitans	25462	1	1
+206411014	Cerebral palsy	23874	1	1
+5611521000006114	Left hemiparesis	23520	1	1
+820131000006114	Hemiparesis	23461	1	1
+48513015	Progressive supranuclear palsy	22824	1	1
+684221000006112	Myalgic encephalomyelitis	22337	1	1
+1682241000006111	Relapsing remitting multiple sclerosis	21806	1	1
+19943011	Quadriplegia	18908	1	1
+5611501000006116	Right hemiparesis	18837	1	1
+297181019	Multiple sclerosis NOS	18114	1	1
+496413011	Myalgic encephalomyelitis	17495	1	1
+345773014	Spastic cerebral palsy	16049	1	1
+345122012	Multiple system atrophy	15051	1	1
+33703013	Hemiparesis	14680	1	1
+345121017	Vascular parkinsonism	14622	1	1
+297239016	Congenital cerebral palsy NOS	14584	1	1
+297244011	Spastic paraplegia	14041	1	1
+151961000006118	Secondary parkinsonism	13380	1	1
+121721014	Muscular dystrophy	13145	1	1
+3028151000006111	Parkinsonism	13144	1	1
+543071000006115	Cerebral palsy with spastic diplegia	12980	1	1
+345771011	Infantile cerebral palsy	12872	1	1
+19944017	Tetraplegia	12654	1	1
+127307018	Duchenne muscular dystrophy	12413	1	1
+66483014	Hereditary spastic paraplegia	11799	1	1
+299241000000110	Multiple sclerosis review	10490	1	1
+297180018	Exacerbation of multiple sclerosis	8400	1	1
+18091019	Friedreich ataxia	8272	1	1
+297655019	Myopathy or muscular dystrophy NOS	8198	1	1
+296958010	Cerebral degeneration in childhood	7494	1	1
+297242010	Spastic tetraplegia	6313	1	1
+1778554019	Facioscapulohumeral muscular dystrophy	5957	1	1
+2674605012	Secondary progressive multiple sclerosis	5683	1	1
+2692565012	Primary progressive multiple sclerosis	5372	1	1
+254829017	O/E - hemiplegia	5178	1	1
+72531016	Infantile hemiplegia	5098	1	1
+132112014	Spastic hemiplegia	4792	1	1
+317122017	Spastic gait	4720	1	1
+297210016	Hemiplegia NOS	4282	1	1
+411456013	Congenital diplegia	4093	1	1
+1481810012	Becker muscular dystrophy	4063	1	1
+1148731000000112	History of Parkinson's disease	4028	1	1
+146760018	Wilson's disease	3842	1	1
+124598014	Athetoid cerebral palsy	3801	1	1
+297582016	Myasthenia gravis NOS	3718	1	1
+402514015	O/E - Parkinson gait	3715	1	1
+3101701000006117	Motor neuron disease	3684	1	1
+90263012	Progressive bulbar palsy	3505	1	1
+297000018	Degenerative brain disorder	3487	1	1
+254835017	O/E - diplegia	3438	1	1
+1223979019	Disseminated sclerosis	3191	1	1
+297258013	Progressive supranuclear palsy	3015	1	1
+297179016	Generalised multiple sclerosis	2933	1	1
+142016013	Anterior horn cell disease	2931	1	1
+1815951000006119	Spastic quadriplegic cerebral palsy	2929	1	1
+299393011	[X]Cerebral palsy and other paralytic syndromes	2833	1	1
+402512016	O/E-festination-Parkinson gait	2734	1	1
+297130012	Motor neurone disease NOS	2696	1	1
+13165015	Pseudobulbar palsy	2549	1	1
+39846012	Primary cerebellar degeneration	2498	1	1
+254834018	O/E - quadriplegia	2461	1	1
+295687017	Dementia due to Huntington chorea	2429	1	1
+48512013	Progressive supranuclear ophthalmoplegia	2373	1	1
+297232013	Infantile hemiplegia NOS	2207	1	1
+451123015	Cerebral palsy, not congenital or infantile, acute	2182	1	1
+411455012	Congenital quadriplegia	2179	1	1
+142653015	Amyotrophic lateral sclerosis	2057	1	1
+299314016	[X]Parkinsonism in diseases classified elsewhere	1987	1	1
+299313010	[X]Other secondary parkinsonism	1965	1	1
+478046010	Cerebellar ataxia due to alcoholism	1929	1	1
+134744017	Primary lateral sclerosis	1907	1	1
+100638016	Subacute combined degeneration of spinal cord	1882	1	1
+497021000006113	Athetoid cerebral palsy	1875	1	1
+5010911000006114	Ocular myasthenia	1748	1	1
+411454011	Congenital spastic cerebral palsy	1629	1	1
+7043651000006119	Dementia associated with Parkinson's Disease	1622	1	1
+297238012	Other infantile cerebral palsy NOS	1620	1	1
+4405691000006116	Chronic inflammatory demyelinating polyradiculoneuropathy	1582	1	1
+3445431000006112	Diplegic cerebral palsy	1566	1	1
+1715241000006112	Vascular claudication	1452	1	1
+882411000006117	Nervous debility -neurasthenia	1377	1	1
+92747014	Symptomatic torsion dystonia	1362	1	1
+296959019	Leucodystrophy	1300	1	1
+481281019	Progressive multifocal leucoencephalopathy	1299	1	1
+62891000006110	Vogt-Koyanagi-Harada disease	1270	1	1
+345780011	Dyskinetic cerebral palsy	1238	1	1
+3293631000006118	Idiopathic Parkinson's disease	1204	1	1
+280121000006113	O/E - Parkinson posture	1199	1	1
+127990018	Oculopharyngeal muscular dystrophy	1185	1	1
+94780015	Eaton-Lambert syndrome	1162	1	1
+297043014	Orthostatic hypotension co-occurrent and due to Parkinson's disease	1150	1	1
+254833012	O/E - paraplegia	1143	1	1
+1815981000006110	Cerebral palsy NOS	1110	1	1
+1785557019	Metachromatic leucodystrophy	1105	1	1
+2122001000000116	Spastic hemiplegic cerebral palsy	1055	1	1
+52052015	Postpolio syndrome	1040	1	1
+133450019	Monoplegia of lower limb	1036	1	1
+297131011	Other anterior horn cell disease	1035	1	1
+2475877015	Ataxic diplegic cerebral palsy	999	1	1
+302151000000117	Hemiparesis NOS	996	1	1
+428171000006118	Subacute combined degeneration of spinal cord	988	1	1
+1815931000006114	Spastic diplegic cerebral palsy	918	1	1
+299321016	[X]Secondary parkinsonism, unspecified	902	1	1
+109618012	Supranuclear paralysis	890	1	1
+297234014	Ataxic infantile cerebral palsy	880	1	1
+297177019	Multiple sclerosis of the spinal cord	877	1	1
+315671000000110	Multiple sclerosis multidisciplinary review	868	1	1
+297243017	Flaccid paraplegia	798	1	1
+65526011	Diabetic amyotrophy	788	1	1
+69671016	Monoplegia of upper limb	771	1	1
+979461000006111	Specialised services for patients with multiple sclerosis enhanced services administration	765	1	1
+300141000000119	Multiple sclerosis care plan agreed	733	1	1
+1232670018	X-linked adrenoleucodystrophy	732	1	1
+254944017	O/E -Parkinson flexion posture	727	1	1
+297223011	Congenital diplegia NOS	722	1	1
+178743010	Congenital hereditary muscular dystrophy	711	1	1
+557181000000116	Worster Drought syndrome	667	1	1
+27731000006112	Other limb-girdle muscular dystrophy	662	1	1
+297593019	Congenital and developmental myasthenia	661	1	1
+2841061014	Multiple system atrophy, Parkinson variant	624	1	1
+147444011	Progressive muscular atrophy	620	1	1
+297013012	Cerebral degeneration due to cerebrovascular disease	606	1	1
+399201000006114	[X]Myasthenic syndromes/other diseases classified elsewhere	601	1	1
+1674381000000115	Multiple sclerosis monitoring first letter	595	1	1
+542651000006110	Cerebral degeneration due to Jakob - Creutzfeldt disease	581	1	1
+2838078010	Multiple system atrophy, cerebellar variant	579	1	1
+151951000006115	Secondary parkinsonism due to other external agents	564	1	1
+3159741000006112	Guillain-Barré syndrome	557	1	1
+297108011	Primary cerebellar degeneration NOS	556	1	1
+450556015	Spastic foot	556	1	1
+1815971000006112	Other cerebral palsy	532	1	1
+254830010	O/E - monoplegia	512	1	1
+8031751000006119	Dementia due to Parkinson's disease	508	1	1
+35741000006114	Other cerebral degeneration	489	1	1
+178750014	Emery-Dreifuss muscular dystrophy	474	1	1
+359101000006114	Cerebral degeneration presenting primarily with dementia	438	1	1
+2510951000006114	Creutzfeldt-Jakob disease	430	1	1
+2386018	Jakob-Creutzfeldt disease	426	1	1
+2366181000000114	Sporadic CJD (Creutzfeldt-Jakob disease)	423	1	1
+89919017	Diplegia of upper limbs	405	1	1
+299394017	[X]Other infantile cerebral palsy	402	1	1
+317121012	[D]Paralytic gait	376	1	1
+297233015	Other congenital cerebral palsy	352	1	1
+641211000000118	Benign multiple sclerosis	349	1	1
+695191000006119	Multiple sclerosis of the brain stem	340	1	1
+296838010	Subacute sclerosing panencephalitis	331	1	1
+3293661000006110	Parkinsons disease	329	1	1
+402513014	O/E - festination	318	1	1
+494103012	Tropical spastic paraplegia	292	1	1
+4015801000006118	Limb-girdle muscular dystrophy	292	1	1
+297246013	Monoplegia unspecified	289	1	1
+297221013	Congenital paraplegia	270	1	1
+497600015	Congenital monoplegia	267	1	1
+130209011	Erb's muscular dystrophy	262	1	1
+297025010	Other cerebral degeneration NOS	259	1	1
+37365019	PML - Progressive multifocal leukoencephalopathy	257	1	1
+1674121000000119	Multiple sclerosis monitoring administration	257	1	1
+48515010	Steele-Richardson-Olszewski syndrome	254	1	1
+295686014	Dementia due to Creutzfeldt Jakob disease	249	1	1
+254939012	O/E - hemiplegic posture	244	1	1
+2366171000000112	Sporadic Creutzfeldt-Jakob disease	242	1	1
+821141000006113	Hepatolenticular degeneration (Wilson's disease)	241	1	1
+297581011	Juvenile or adult myasthenia gravis	234	1	1
+636681000000117	Cerebral degeneration in Parkinson's disease	233	1	1
+3293641000006111	Parkinson disease	230	1	1
+112508017	Ocular muscular dystrophy	219	1	1
+297608012	Hereditary progressive muscular dystrophy	204	1	1
+542661000006112	Cerebral degeneration due to progressive multifocal leucoencephalopathy	204	1	1
+399419012	Myasthenic syndrome due to diabetic amyotrophy	199	1	1
+297979015	Harada's disease	193	1	1
+3547281000006113	Werdnig-Hoffmann disease	188	1	1
+2168441000000115	Lambert-Eaton syndrome	182	1	1
+296966018	Krabbe's disease	178	1	1
+296982017	Leucodystrophy NOS	176	1	1
+107018015	Infantile spinal muscular atrophy	158	1	1
+7557921000006113	Dystonic cerebral palsy	157	1	1
+134251013	Flaccid hemiplegia	148	1	1
+6221531000006118	Alcoholic cerebellar degeneration	148	1	1
+450600011	Congenital athetosis	147	1	1
+125901000006115	Steele Richardson Olszewsk syn	142	1	1
+317132012	Transient monoplegia	138	1	1
+297132016	Anterior horn cell disease NOS	135	1	1
+1148911000000119	Multiple sclerosis review declined	130	1	1
+740431000006115	Littles disease	129	1	1
+12717021000006115	Myopathy or muscular dystrophy NOS	129	1	1
+5983301000006110	Parkinsonian tremor	120	1	1
+59911000006112	Werdnig - Hoffmann disease	118	1	1
+297087017	Other specified symptomatic torsion dystonia	116	1	1
+12702281000006111	Degenerative brain disorder	116	1	1
+297022013	Cerebral degeneration other disease NOS	115	1	1
+4768671000006116	Galactosylceramide beta-galactosidase deficiency	113	1	1
+1674661000000118	Multiple sclerosis monitoring second letter	112	1	1
+625421000006117	Distal dystrophy	111	1	1
+296996011	Cerebral degeneration in disease NOS	105	1	1
+297241015	Flaccid tetraplegia	104	1	1
+2818091000006116	Weakness of one side of body	103	1	1
+2283831000000117	Choreoathetoid cerebral palsy	100	1	1
+3573321000006114	Supranuclear palsy	98	1	1
+14067741000006119	CIDP - Chronic inflammatory demyelinating polyneuropathy	94	0	1
+5142821000006112	Muscular dystrophy with predominantly proximal limb girdle distribution	93	1	1
+297088010	Symptomatic torsion dystonia NOS	93	1	1
+297117011	Cerebellar ataxia due to neoplasia	92	1	1
+110721000006114	Tetraplegia - congenital	91	1	1
+297592012	Myasthenic syndrome due to disease NOS	89	1	1
+296999016	Childhood cerebral degenerations NOS	89	1	1
+297607019	Congenital hereditary muscular dystrophy NOS	88	1	1
+136302010	Neonatal myasthenia gravis	88	1	1
+345779013	Congenital spastic foot	85	1	1
+3445451000006117	Spastic diplegic cerebral palsy	82	1	1
+4769111000006114	Paraneoplastic cerebellar degeneration	81	1	1
+198381000006110	Pseudohypertrophic dystrophy	77	1	1
+33622011	Postencephalitic parkinsonism	75	1	1
+5651361000006115	Spastic diplegia	74	1	1
+542781000006113	Cerebral degeneration associated with another disorder	69	1	1
+297610014	Pelvic muscular dystrophy	65	1	1
+699791000000111	Management of multiple sclerosis in stable disability phase	65	1	1
+3511377010	PSP - progressive supranuclear palsy	64	1	1
+450601010	Athetosis - congenital	63	1	1
+5006891000006112	Acute relapsing multiple sclerosis	62	1	1
+254940014	O/E - paraplegic in flexion	61	1	1
+625401000006110	Distal (Gower's) muscular dystrophy	60	1	1
+5930421000006111	Parkinsonian features	60	1	1
+699731000000110	Management of multiple sclerosis in early disease phase	58	1	1
+297583014	Myasthenic syndrome due to disease EC	57	1	1
+7717311000006111	Tropical spastic paraparesis	56	1	1
+3142331000006112	HSP - Hereditary spastic paraplegia	56	1	1
+3288331000006116	Quadriplegic cerebral palsy	54	1	1
+14072521000006114	Congenital myasthenic syndrome	54	0	1
+4769281000006110	Multiple sclerosis of the brainstem	53	1	1
+7510741000006111	Dementia associated with multiple sclerosis	53	1	1
+1492251019	Becker's disease	52	1	1
+631811000006111	Duchenne Aran muscular atrophy	51	1	1
+5011241000006111	Lacunar ataxic hemiparesis	51	1	1
+12050701000006117	Moebius syndrome	50	1	1
+4769391000006119	Hypotonic cerebral palsy	48	1	1
+297591017	Myasthenic syndrome due to thyrotoxicosis	47	1	1
+400312014	Muscular calcification and ossification, unspecified	46	1	1
+1883621000006119	Gross motor function classification system for cerebral palsy	45	1	1
+125891000006119	Steele - Richardson Oszewski syndrome	43	1	1
+3547321000006119	Spinal muscular atrophy type I	42	1	1
+2603391000006117	Diplegia	41	1	1
+2665351000006114	Friedreich's ataxia	38	1	1
+498788015	Subacute combined degeneration	37	1	1
+296994014	Cerebral degeneration in Hunter's disease	37	1	1
+297589013	Myasthenic syndrome due to pernicious anaemia	37	1	1
+882931000006115	Child cerebral degeneration	34	1	1
+3159841000006117	Guillain Barre syndrome	34	1	1
+1825141000006111	Adrenoleucodystrophy	33	1	1
+6476861000006119	BMD - Becker muscular dystrophy	31	1	1
+223801000000115	Paraplegia - congenital	29	1	1
+661251000006116	Facioscapulohumeral atrophy	29	1	1
+4060391000006112	Familial hemiplegic migraine	28	1	1
+3159831000006110	Acute inflammatory neuropathy	27	1	1
+399191000006111	[X]Myasthenic syndromes in endocrine diseases CE	26	1	1
+297018015	Cerebral degeneration due to vitamin B12 deficiency	26	1	1
+299323018	[X]Secondary parkinsonism due to other external agents	26	1	1
+7058051000006116	Multiple sclerosis (MS) relapsing remitting	24	1	1
+399421019	Other specified hereditary progressive muscular dystrophy	24	1	1
+3684051000006119	Neuroleptic-induced parkinsonism	24	1	1
+3001451000006118	Post poliomyelitis syndrome	24	1	1
+297588017	Myasthenic syndrome due to hypothyroidism	23	1	1
+3416421000006111	Monoplegic cerebral palsy	22	1	1
+551481000000119	Congenital suprabulbar paresis	22	1	1
+4768731000006111	Krabbe disease	22	1	1
+2894411000006110	MS - Multiple sclerosis	21	1	1
+8024641000006111	Altered behaviour in Huntington's dementia	21	1	1
+7838691000006117	Atypical Parkinsonism	21	1	1
+5614181000006116	Ataxic cerebral palsy	20	1	1
+699911000000117	Management of multiple sclerosis in palliative phase	20	1	1
+542541000006112	Cerebral atonia	18	1	1
+124599018	Vogt's disease	18	1	1
+3898311000006115	Monoplegia	18	1	1
+254941013	O/E - paraplegic in extension	18	1	1
+296993015	Cerebral degeneration in diseases EC	18	1	1
+5528051000006115	Parkinsonian flexion posture	18	1	1
+716831000006114	Massive muscular calcification associated with paraplegia	18	1	1
+297623019	Hereditary progressive muscular dystrophy NOS	17	1	1
+5006901000006111	Chronic progressive multiple sclerosis	17	1	1
+13637811000006112	Huntington disease-like 1	17	0	1
+3101721000006110	MND - Motor neurone disease	16	1	1
+1805751000006115	Variant Creutzfeldt-Jakob disease	16	1	1
+3200341000006112	Hemiplegic cerebral palsy	16	1	1
+5005991000006114	MSA - Multiple system atrophy	16	1	1
+5254231000006117	Parkinsonian facies	16	1	1
+5010931000006115	Generalised myasthenia	15	1	1
+64875013	Syphilitic parkinsonism	15	1	1
+3938621000006118	Progressive lenticular degeneration	15	1	1
+6703111000006118	Alternating hemiplegia	14	1	1
+3381201000006115	Bulbar palsy	13	1	1
+3484041000006119	Neuromyelopathy due to vitamin B12 deficiency	13	1	1
+2283041000000116	Choreo-athetotic cerebral palsy	13	1	1
+699671000000115	Management of multiple sclerosis in onset phase	13	1	1
+5142971000006119	Congenital muscular dystrophy	12	1	1
+297014018	Cerebral degeneration due to congenital hydrocephalus	12	1	1
+8089531000006113	Incomplete paraplegia	12	1	1
+7730811000006111	Early onset Parkinson disease	12	1	1
+351861000000110	Amyotrophic lateral sclerosis drugs Band 1	12	1	1
+296998012	Other cerebral degenerations in childhood NOS	11	1	1
+3875981000006111	Lower motor neuron disease	11	1	1
+4768661000006111	Leukodystrophy	11	1	1
+7557961000006119	Bilateral cerebral palsy	11	1	1
+761411000006111	Flaccid infantile cerebral palsy	10	1	1
+5012421000006114	Dystonic/rigid cerebral palsy	10	1	1
+5010921000006118	Myasthenia gravis associated with thymoma	10	1	1
+641041000006119	Encephalitis due to subacute sclerosing panencephalitis	10	1	1
+296840017	Dawson's inclusion body encephalitis	10	1	1
+4428381000006111	Spinocerebellar ataxia	10	1	1
+6568111000006114	MLD - Metachromatic leucodystrophy	10	1	1
+13627911000006119	Congenital muscular dystrophy with intellectual disability	10	0	1
+6617191000006112	FSHD - Facioscapulohumeral muscular dystrophy	9	1	1
+5010791000006118	Congenital myasthenia	9	1	1
+296997019	Other cerebral degenerations in childhood	9	1	1
+296995010	Cerebral degeneration in mucopolysaccharidoses	9	1	1
+542301000006117	Cerebellar ataxia due to myxoedema	9	1	1
+3563051000006112	Adrenoleukodystrophy	9	1	1
+4770841000006119	Distal muscular dystrophy with juvenile onset	8	1	1
+5006031000006119	Late onset Huntington's disease	8	1	1
+7560531000006110	Frontotemporal dementia with parkinsonism-17	8	1	1
+7804931000006111	Autosomal recessive limb girdle muscular dystrophy type 2K	8	1	1
+7861151000006116	Progressive relapsing multiple sclerosis	8	1	1
+27369019	Double athetosis	7	1	1
+3898661000006113	ALS - Amyotrophic lateral sclerosis	7	1	1
+6476871000006114	Becker's muscular dystrophy	7	1	1
+3484051000006117	SACD - Subacute combined degeneration	7	1	1
+5005671000006118	Frontal lobe degeneration with motor neurone disease	7	1	1
+5008281000006114	Non-familial hemiplegic migraine	7	1	1
+7730821000006115	Early onset Parkinson's disease	7	1	1
+7737211000006113	Spinocerebellar ataxia type 6	7	1	1
+7790241000006117	Psychosis co-occurrent and due to Parkinson's disease	7	1	1
+13622571000006118	Congenital disorder of glycosylation type 1u	7	0	1
+5006921000006118	Remittent-progressive multiple sclerosis	6	1	1
+297977018	Vogt's disease	6	1	1
+3511181000006115	Parkinson-dementia complex of Guam	6	1	1
+3891331000006119	Holmes' disease	6	1	1
+5595781000006114	Subacute inflammatory demyelinating polyradiculoneuropathy	6	1	1
+8031761000006117	Dementia due to Parkinsons disease	6	1	1
+7559221000006110	Huntington disease-like syndrome	6	1	1
+7861721000006114	Functional hemiparesis	6	1	1
+13625531000006110	Parkinsonian pyramidal syndrome	6	0	1
+13943181000006116	Classical sporadic Creutzfeldt-Jakob disease	6	0	1
+4769421000006110	Spastic quadriplegia	5	1	1
+7045281000006112	Multiple sclerosis (MS) secondary progressive	5	1	1
+3746961000006114	DMD - Duchenne muscular dystrophy	5	1	1
+4768981000006114	Cerebral degeneration due to Creutzfeldt-Jakob disease	5	1	1
+7289421000006111	Multiple system atrophy, Parkinson's variant	5	1	1
+7500131000006117	Hemiparesis/hemiplegia (one sided weakness/paralysis)	5	1	1
+7557971000006114	Bilateral spastic cerebral palsy	5	1	1
+7730791000006112	Young onset Parkinson disease	5	1	1
+3988991000006115	MG - Myasthenia gravis	4	1	1
+412051000006115	[X]Other myasthenic syndromes in neoplastic disease CE	4	1	1
+3454551000006117	Huntington chorea	4	1	1
+5006911000006114	Multiple sclerosis (MS) chronic/progressive	4	1	1
+641301000000114	Malignant multiple sclerosis	4	1	1
+5005171000006110	Progressive spinocerebellar ataxia with retained tendon reflexes	4	1	1
+3355321000006110	Hemiplegic gait	4	1	1
+4060301000006117	Cerebellar degeneration	4	1	1
+4405701000006116	CIDP	4	1	1
+4405711000006118	CIDP - Chronic inflammatory demyelinating polyradiculoneuropathy	4	1	1
+296990017	Cerebral degeneration in Gaucher's disease	4	1	1
+297015017	Cerebral degeneration due to neoplastic disease	4	1	1
+5279871000006117	Parkinsonian gait	4	1	1
+5280091000006113	Parkinsonian ataxia	4	1	1
+3563111000006110	ALD - adrenoleukodystrophy	4	1	1
+7255301000006115	Incomplete tetraplegia due to lesion at C5-C7 level	4	1	1
+8031771000006112	Dementia due to Parkinson disease	4	1	1
+13622001000006116	Severe intellectual disability, progressive spastic diplegia syndrome	4	0	1
+4405191000006110	Cerebral palsy (CP)	3	1	1
+3293651000006113	PD - Parkinson's disease	3	1	1
+3293681000006117	Idiopathic Parkinsonism	3	1	1
+3898641000006114	Bulbar motor neuron disease	3	1	1
+7092351000006112	Multiple sclerosis (MS) primary progressive	3	1	1
+2510981000006118	CJD - Creutzfeldt-Jakob disease	3	1	1
+5006011000006113	Juvenile onset Huntington's disease	3	1	1
+297580012	Persistent neonatal myasthenia gravis	3	1	1
+297584015	Myasthenic syndrome due to other malignancy	3	1	1
+5010941000006113	Generalized myasthenia	3	1	1
+2854601000006117	Progressive multifocal leukoencephalopathy	3	1	1
+3028161000006113	Disorders presenting primarily with parkinsonism	3	1	1
+3532661000006118	IC - Intermittent claudication	3	1	1
+112538011	Dejerine-Thomas syndrome	3	1	1
+3807971000006110	Paralysis of lower limb	3	1	1
+4196561000006116	Walker-Warburg congenital muscular dystrophy	3	1	1
+296991018	Cerebral degeneration in Niemann-Pick disease	3	1	1
+5279861000006112	Extrapyramidal gait	3	1	1
+8023781000006114	Myasthenia gravis with exacerbation	3	1	1
+7730801000006113	Young onset Parkinson's disease	3	1	1
+7803921000006111	Adult-onset dystonia parkinsonism	3	1	1
+3528396015	Hemiparkinsonism hemiatrophy syndrome	3	1	1
+13622561000006113	Congenital muscular dystrophy with intellectual disability and severe epilepsy	3	0	1
+7043661000006117	Dementia associated with Parkinson Disease	2	1	1
+7717301000006113	HTLV-I-associated myelopathy	2	1	1
+6617211000006113	Fascioscapulohumeral muscular dystrophy	2	1	1
+6617161000006116	FSH - Facioscapulohumeral muscular dystrophy	2	1	1
+5006041000006112	Late onset Huntington disease	2	1	1
+3426051000006115	Myasthenic syndrome	2	1	1
+2665371000006116	Familial ataxia	2	1	1
+2854631000006113	Multifocal leucoencephalopathy	2	1	1
+4772041000006112	Vogt-Koyanagi-Harada syndrome	2	1	1
+3017901000006115	Facial hemiplegia	2	1	1
+3200351000006114	Congenital hemiplegia	2	1	1
+3354471000006116	Myalgic encephalomyelitis syndrome	2	1	1
+3393611000006119	Myasthenia gravis, juvenile form	2	1	1
+296992013	Cerebral degeneration in lipidosis NOS	2	1	1
+4997941000006110	Spastic dysarthria	2	1	1
+5005441000006112	Pure hereditary spastic paraplegia	2	1	1
+5007411000006119	Hemiplegia-hemiconvulsion-epilepsy syndrome	2	1	1
+5277731000006115	Progressive pseudobulbar palsy	2	1	1
+5528021000006112	Hemiplegic posture	2	1	1
+3563061000006114	Adrenomyeloneuropathy	2	1	1
+8024671000006115	Dementia due to multiple sclerosis with altered behaviour	2	1	1
+7558011000006119	Rapid onset dystonia parkinsonism	2	1	1
+3994641000006112	Spinocerebellar ataxia type 3	2	1	1
+3994591000006119	Azorean disease	2	1	1
+7828621000006116	Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome	2	1	1
+7836101000006117	Dopamine transporter deficiency syndrome	2	1	1
+7841161000006112	Diplegia of lower limbs	2	1	1
+7848031000006110	Autosomal recessive spastic paraplegia type 55	2	1	1
+7850151000006116	Kufor Rakeb syndrome	2	1	1
+7861751000006117	Functional parkinsonism	2	1	1
+7951441000006113	Autosomal recessive spastic paraplegia disc herniation syndrome	2	1	1
+12002541000006117	Congenital muscular dystrophy with hyperlaxity	2	1	1
+4405181000006112	CP - Cerebral palsy	1	1	1
+5012331000006117	Congenital spastic paralysis	1	1	1
+5611491000006112	LT - Left hemiplegia	1	1	1
+4769291000006113	Brain stem multiple sclerosis	1	1	1
+4769321000006116	Generalized multiple sclerosis	1	1	1
+3293671000006115	Primary Parkinsonism	1	1	1
+3945261000006119	PMA - Progressive muscular atrophy	1	1	1
+3691961000006117	Progressive muscular dystrophy	1	1	1
+3601741000006116	Ocular myopathy	1	1	1
+5142831000006110	X-linked muscular dystrophy with limb girdle distribution	1	1	1
+5142861000006118	Xp21-linked muscular dystrophy	1	1	1
+5142881000006111	Manifesting female carrier of X-linked muscular dystrophy	1	1	1
+4196661000006115	Benign scapuloperoneal muscular dystrophy with early contractures	1	1	1
+5143141000006116	Scapulohumeral muscular dystrophy	1	1	1
+5012431000006112	Dystonic cerebral palsy with spastic features	1	1	1
+5008321000006115	Alternating hemiplegia of childhood	1	1	1
+6029971000006116	Residual hemiplegia	1	1	1
+7263021000006116	Dementia due to Huntingtons disease	1	1	1
+3426061000006118	Lambert-Eaton myasthenic syndrome	1	1	1
+3426071000006113	LEMS - Lambert-Eaton myasthenic syndrome	1	1	1
+5005891000006118	Juvenile Parkinson's disease	1	1	1
+6221541000006111	Alcoholic cerebellar degeneration syndrome	1	1	1
+4772011000006113	VKH - Vogt-Koyanagi-Harada syndrome	1	1	1
+2776451000006113	Facial hemiparesis	1	1	1
+3306011000006118	Familial motor neuron disease	1	1	1
+3354461000006111	Benign myalgic encephalomyelitis	1	1	1
+3736771000006115	Hereditary sensory-motor neuropathy, type V	1	1	1
+4196581000006114	Walker Warburg syndrome	1	1	1
+3159821000006112	Acute post-infective radiculoneuropathy	1	1	1
+4428571000006118	Scapuloperoneal muscular dystrophy	1	1	1
+296988018	Cerebral lipidoses NOS	1	1	1
+297012019	Cerebral degeneration due to beriberi	1	1	1
+5005421000006117	Amyotrophic lateral sclerosis with dementia	1	1	1
+5005451000006114	Complicated hereditary spastic paraplegia	1	1	1
+5005931000006110	Secondary Parkinson disease	1	1	1
+5005941000006117	Carbon monoxide-induced parkinsonism	1	1	1
+5005961000006118	Parkinsonism with calcification of basal ganglia	1	1	1
+5142991000006118	Congenital muscular dystrophy with arthrogryposis multiplex congenita	1	1	1
+5277271000006113	Paraplegic posture	1	1	1
+5279851000006110	Paraplegic gait	1	1	1
+3938611000006114	Neurohepatic degeneration	1	1	1
+3684041000006116	Neuroleptic-induced Parkinsonism	1	1	1
+6348811000006112	Paraplegic cerebral palsy	1	1	1
+6568031000006116	Metachromatic leukodystrophy	1	1	1
+542741000006119	Cerebral degeneration in lipidoses EC	1	1	1
+7253681000006116	Incomplete tetraplegia due to spinal cord lesion at C1-C4 level	1	1	1
+8014271000006111	Ataxic hemiparesis	1	1	1
+7507241000006117	Acute paraplegia	1	1	1
+7559231000006113	Huntington disease phenocopy syndrome	1	1	1
+7560231000006112	Fatty acid hydroxylase associated neurodegeneration	1	1	1
+7737011000006118	Parkinsonism with dementia of Guadeloupe	1	1	1
+7737201000006110	Spinocerebellar ataxia type 2	1	1	1
+7737221000006117	Spinocerebellar ataxia type 8	1	1	1
+7751071000006117	Acute inflammatory demyelinating polyradiculoneuropathy	1	1	1
+7783921000006112	Spinocerebellar ataxia type 19	1	1	1
+7784811000006113	Spinocerebellar ataxia type 5	1	1	1
+7813961000006119	Huntington disease-like 2	1	1	1
+7831581000006114	Early-onset dystonia parkinsonism	1	1	1
+7853071000006119	Infantile onset spinocerebellar ataxia	1	1	1
+7864571000006119	Autosomal recessive limb girdle muscular dystrophy type 2J	1	1	1
+3509801013	Monoplegia of right upper limb	1	1	1
+3509879014	Neuromuscular scoliosis due to cerebral palsy	1	1	1
+14195861000006111	Huntington disease	1	0	1
+13523971000006111	Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to TUD deficiency	1	0	1
+13621061000006113	Autosomal dominant spastic paraplegia type 3	1	0	1
+13621831000006110	Autosomal recessive cerebellar ataxia due to STUB1 deficiency	1	0	1
+13622301000006119	Intellectual disability, coarse face, macrocephaly, cerebellar hypotrophy syndrome	1	0	1
+13622581000006115	Carbohydrate deficient glycoprotein syndrome type 1u	1	0	1
+13625421000006113	Severe microbrachycephaly, intellectual disability, athetoid cerebral palsy syndrome	1	0	1
+14091281000006114	Dementia with progressive multifocal leucoencephalopathy	1	0	1
+13937211000006114	Lytico Bodig disease	1	0	1
+2524111000006113	Postnatal infantile hemiplegia	NA	1	0
+5012361000006114	Infantile spastic cerebral palsy	NA	1	0
+5012351000006112	Little's disease	NA	1	0
+5012321000006115	Pyramidal cerebral palsy	NA	1	0
+5012341000006110	Spastic infantile paralysis	NA	1	0
+3319161000006112	Hemiplegia (paralysis on one side)	NA	1	0
+2818101000006110	Hemiparesis (weakness on one side)	NA	1	0
+3381211000006117	PBP - Progressive bulbar palsy	NA	1	0
+3381191000006118	Bulbar paralysis	NA	1	0
+4769341000006111	Multiple sclerosis (MS) exacerbation	NA	1	0
+2894421000006119	DS - Disseminated sclerosis	NA	1	0
+3988981000006118	Erb-Goldflam disease	NA	1	0
+3293621000006116	Shaking palsy	NA	1	0
+3293611000006112	Paralysis agitans	NA	1	0
+2756451000006111	Double athetosis syndrome	NA	1	0
+5573561000006115	Congenital tetraplegia	NA	1	0
+3288371000006118	Quadriplegic spastic cerebral palsy	NA	1	0
+3288361000006113	Tetraplegic spastic cerebral palsy	NA	1	0
+3288351000006111	Cerebral palsy with spastic tetraplegia	NA	1	0
+3288341000006114	Tetraplegic cerebral palsy	NA	1	0
+4566571000006117	On examination - hemiplegia	NA	1	0
+4566621000006119	On examination - paraplegia	NA	1	0
+4567691000006115	On examination - hemiplegic posture	NA	1	0
+4567711000006117	On examination - paraplegic in flexion	NA	1	0
+7717321000006115	Myelopathy caused by Human T-lymphotropic virus 1	NA	1	0
+7717281000006114	Human T-cell lymphotropic virus 1-associated myelopathy	NA	1	0
+3142321000006114	Familial spastic paraplegia syndrome	NA	1	0
+3142311000006118	Strumpell-Lorrain disease	NA	1	0
+3142341000006119	Strumpell disease	NA	1	0
+3142351000006117	Spastic congenital paraplegia	NA	1	0
+3480751000006110	Paralysis of both lower limbs	NA	1	0
+3480761000006112	Lower paraplegia	NA	1	0
+3480771000006117	Paraplegia (complete or partial paralysis of legs)	NA	1	0
+3898651000006111	Lou Gehrig's disease	NA	1	0
+3945251000006116	Pure progressive muscular atrophy	NA	1	0
+3945241000006118	Duchenne-Aran muscular atrophy	NA	1	0
+3691951000006119	MD - Muscular dystrophy	NA	1	0
+3691971000006112	PMD - Progressive muscular dystrophy	NA	1	0
+3746951000006112	Pseudohypertrophic muscular dystrophy	NA	1	0
+3776451000006119	Erb muscular dystrophy	NA	1	0
+4015811000006115	Leyden-Möbius muscular dystrophy	NA	1	0
+6617201000006110	FMD - Facioscapulohumeral muscular dystrophy	NA	1	0
+6617171000006111	Landouzy-Déjérine muscular dystrophy	NA	1	0
+6617181000006114	Landouzy-Dejerine muscular dystrophy	NA	1	0
+3601731000006114	Kiloh-Nevin syndrome	NA	1	0
+3753631000006115	Oculopharyngeal dystrophy	NA	1	0
+6476881000006112	Benign Duchenne muscular dystrophy	NA	1	0
+3455151000006111	Distal muscular dystrophy	NA	1	0
+5006841000006115	Neuraxonal leucodystrophy	NA	1	0
+3270981000006112	Metachromatic leukodystrophy, late infantile type	NA	1	0
+3271001000006111	Greenfield disease	NA	1	0
+3270991000006110	Late infantile metachromatic leucodystrophy	NA	1	0
+3270971000006114	Metachromatic leucodystrophy, late infantile type	NA	1	0
+3214621000006117	Metachromatic leucodystrophy, juvenile type	NA	1	0
+3214651000006114	Juvenile metachromatic leucodystrophy	NA	1	0
+3214631000006119	Metachromatic leukodystrophy, juvenile type	NA	1	0
+3214661000006111	Scholz cerebral sclerosis	NA	1	0
+3214641000006112	Scholz-Bielschowsky-Henneberg diffuse cerebral sclerosis	NA	1	0
+2888161000006113	Metachromatic leucodystrophy, adult type	NA	1	0
+2888171000006118	Metachromatic leukodystrophy, adult type	NA	1	0
+2888181000006115	Adult metachromatic leucodystrophy	NA	1	0
+2888191000006117	Adult metachromatic leukodystrophy	NA	1	0
+5142841000006117	X-linked muscular dystrophy with abnormal dystrophin	NA	1	0
+5142851000006115	Meryon muscular dystrophy	NA	1	0
+5142871000006113	Intermediate X-linked muscular dystrophy	NA	1	0
+5142891000006114	X-linked limb girdle muscular dystrophy with normal dystrophin	NA	1	0
+5142901000006113	Ji muscular dystrophy	NA	1	0
+5142921000006115	Autosomal recessive muscular dystrophy with limb girdle distribution	NA	1	0
+4196541000006115	Fukuyama muscular dystrophy	NA	1	0
+4196531000006113	Fukuyama congenital muscular dystrophy	NA	1	0
+5142951000006112	Autosomal recessive muscular dystrophy with gene located at 15q	NA	1	0
+5142961000006114	Reunion-Indiana Amish type muscular dystrophy	NA	1	0
+5142981000006116	Western type of congenital muscular dystrophy	NA	1	0
+5143001000006117	Ullrich congenital muscular dystrophy	NA	1	0
+5143011000006119	Congenita hypotonic - sclerotic muscular dystrophy	NA	1	0
+5143021000006110	Eichsfeld type congenital muscular dystrophy	NA	1	0
+5143031000006113	Hutterite type of muscular dystrophy	NA	1	0
+5143051000006118	Autosomal dominant muscular dystrophy with limb girdle distribution	NA	1	0
+5143061000006116	Autosomal dominant muscular dystrophy with gene located at 5q31	NA	1	0
+5143071000006111	Late onset proximal muscular dystrophy with dysarthria	NA	1	0
+5143081000006114	Gilchrist type muscular dystrophy	NA	1	0
+5143091000006112	Muscular dystrophy not predominantly limb girdle in distribution	NA	1	0
+5143101000006118	X-linked muscular dystrophy not predominantly limb girdle	NA	1	0
+4196651000006117	EMD - Emery-Dreifuss muscular dystrophy	NA	1	0
+5143131000006114	Autosomal recessive muscular dystrophy not predominantly limb girdle	NA	1	0
+5143151000006119	Autosomal dominant muscular dystrophy not predominantly limb girdle	NA	1	0
+5143161000006117	Benign scapuloperoneal muscular dystrophy	NA	1	0
+5143181000006110	Benign congenital muscular dystrophy with finger flexion contractures	NA	1	0
+5598231000006113	Severe childhood autosomal recessive muscular dystrophy	NA	1	0
+5598241000006115	SCARMD - Severe childhood autosomal recessive muscular dystrophy	NA	1	0
+4196621000006114	COD-MD - Cerebro-oculo-dysgenesis-muscular dystrophy syndrome	NA	1	0
+4196601000006116	Muscle-eye-brain disease, congenital muscular dystrophy	NA	1	0
+4196611000006118	Cerebro-oculo-dysgenesis-muscular dystrophy syndrome	NA	1	0
+5967371000006110	Leukodystrophy without a known biochemical basis	NA	1	0
+5967361000006115	Leucodystrophy without a known biochemical basis	NA	1	0
+7349301000006113	Adult onset autosomal dominant leukodystrophy	NA	1	0
+7349291000006112	Adult onset autosomal dominant leucodystrophy	NA	1	0
+7349311000006111	Adult-onset ADLD (autosomal dominant leucodystrophy)	NA	1	0
+5012381000006116	Monoplegic cerebral palsy affecting upper limb	NA	1	0
+5012391000006118	Monoplegic cerebral palsy affecting lower limb	NA	1	0
+2511001000006119	Transmissible virus dementia	NA	1	0
+2510971000006116	Subacute spongiform encephalopathy	NA	1	0
+2510991000006115	JCD - Jakob-Creutzfeldt disease	NA	1	0
+2511011000006116	Creutzfeldt Jakob disease	NA	1	0
+5931631000006119	nvCJD - New variant of Creutzfeldt-Jakob disease	NA	1	0
+5931641000006112	vCJD - variant Creutzfeldt-Jakob disease	NA	1	0
+5931651000006114	Creutzfeldt-Jakob variant disease	NA	1	0
+7699251000006118	Sporadic Jakob-Creutzfeldt disease	NA	1	0
+7263011000006112	Dementia due to Huntington disease	NA	1	0
+3454521000006114	Chronic progressive hereditary chorea	NA	1	0
+3454511000006118	Chronic progressive chorea	NA	1	0
+3454531000006112	HC - Huntington chorea	NA	1	0
+3454541000006119	HD - Huntington chorea	NA	1	0
+5006021000006117	Juvenile onset Huntington disease	NA	1	0
+5006051000006114	Akinetic-rigid form of Huntington's disease	NA	1	0
+5006061000006111	Akinetic-rigid form of Huntington disease	NA	1	0
+11904611000006115	Progressive supranuclear palsy	NA	1	0
+2966081000006114	Nuchal dystonia-dementia syndrome	NA	1	0
+2966101000006118	PSP - Progressive supranuclear palsy	NA	1	0
+11903671000006114	Steele-Richardson-Olszewski syndrome	NA	1	0
+2966061000006116	Progressive supranuclear ophthalmoplegia	NA	1	0
+11904601000006118	Progressive supranuclear ophthalmoplegia	NA	1	0
+5005381000006110	Western Pacific motor neurone disease	NA	1	0
+5005391000006113	Madras-type motor neurone disease	NA	1	0
+5005411000006113	Paraneoplastic motor neurone disease	NA	1	0
+5006931000006115	Multiple sclerosis (MS) remitting progressive	NA	1	0
+5009451000006111	Chronic inflammatory demyelinating polyradiculoneuropathy with central nervous system demyelination	NA	1	0
+4770721000006119	Myasthenic syndrome due to another disorder	NA	1	0
+5010751000006112	Genetically determined myasthenia	NA	1	0
+5010951000006110	Myopathy in myasthenia gravis	NA	1	0
+5010961000006112	Myasthenic myopathy	NA	1	0
+5005901000006119	Juvenile Parkinson disease	NA	1	0
+2665361000006111	Friedreich's disease	NA	1	0
+2665381000006118	FA - Friedreich ataxia	NA	1	0
+5005201000006114	Secondary cerebellar degeneration	NA	1	0
+2854611000006119	Multifocal leukoencephalopathy	NA	1	0
+2854641000006115	PML - Progressive multifocal leucoencephalopathy	NA	1	0
+2854651000006118	PMLE - Progressive multifocal leukoencephalopathy	NA	1	0
+2854661000006116	PMLE - Progressive multifocal leucoencephalopathy	NA	1	0
+4767951000006117	Dawson's inclusion body encephalitis	NA	1	0
+4767941000006119	SSPE - Subacute sclerosing panencephalitis	NA	1	0
+4769001000006112	Cerebral degeneration due to progressive multifocal leukoencephalopathy	NA	1	0
+4772021000006117	Harada disease	NA	1	0
+4772061000006111	Vogt-Koyanagi syndrome	NA	1	0
+2525151000006110	Cerebral hemiparesis	NA	1	0
+2592351000006112	Athetosis with spastic paraplegia	NA	1	0
+2603401000006115	Bilateral paralysis	NA	1	0
+2643251000006111	Post-hemiplegic tremor	NA	1	0
+2650601000006118	Paraplegic-spastic gait	NA	1	0
+2650611000006115	Rigid gait	NA	1	0
+2650621000006111	Jerking gait	NA	1	0
+2650631000006114	Paralytic gait	NA	1	0
+2750301000006117	Methylphenyltetrahydropyridine-induced parkinsonism	NA	1	0
+2750291000006118	MPTP - Methylphenyltetrahydropyridine-induced parkinsonism	NA	1	0
+2750281000006116	MPTP-induced parkinsonism	NA	1	0
+2750321000006110	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced parkinsonism	NA	1	0
+2750311000006119	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced parkinsonism	NA	1	0
+2776461000006110	Facial hemiparesis (weakness)	NA	1	0
+2789711000006115	Paraplegic immobility syndrome	NA	1	0
+2833161000006110	Spinal hemiparesis	NA	1	0
+2836961000006117	Sporadic cerebellar degeneration	NA	1	0
+2929551000006112	Parkinson's facies	NA	1	0
+2929561000006114	Parkinson facies	NA	1	0
+2967871000006119	Crossed hemiparesis	NA	1	0
+2967881000006116	Alternate hemiparesis	NA	1	0
+3012781000006113	Myasthenia gravis, adult form	NA	1	0
+3050861000006117	Cerebral hemiplegia	NA	1	0
+3106231000006114	Hereditary cerebellar degeneration	NA	1	0
+3172811000006113	Paralysis of upper limb	NA	1	0
+3200371000006116	Spastic hemiplegic cerebral palsy	NA	1	0
+3200361000006111	Unilateral spastic cerebral palsy	NA	1	0
+3203001000006119	Juvenile paralysis agitans of Hunt	NA	1	0
+3203011000006116	Paleostriatal syndrome	NA	1	0
+3203041000006117	Pallidal atrophy	NA	1	0
+3203021000006112	Neostriatal syndrome	NA	1	0
+3203031000006110	Pallidal syndrome	NA	1	0
+3215231000006115	Spastic tetraplegia with rigidity syndrome	NA	1	0
+3241231000006114	Early familial cerebellar degeneration syndrome	NA	1	0
+3241221000006111	Jervis' syndrome	NA	1	0
+3287341000006110	Cerebral paraplegia	NA	1	0
+3306001000006116	Hereditary motor neuron disease	NA	1	0
+3328111000006111	Hypokinetic parkinsonian dysphonia	NA	1	0
+3354521000006118	Myalgic encephalopathy	NA	1	0
+3354451000006114	Iceland disease	NA	1	0
+3354511000006114	Myalgic encephalitis	NA	1	0
+3362611000006111	Posthemiplegic athetosis	NA	1	0
+3377571000006112	Paralysis of both upper limbs	NA	1	0
+3377581000006110	Upper diplegia	NA	1	0
+3403461000006111	Spinal hemiplegia	NA	1	0
+3484001000006116	Vitamin B>12< deficiency disease of spinal cord	NA	1	0
+3484021000006114	Lichtheim's disease	NA	1	0
+3483991000006113	Posterolateral sclerosis	NA	1	0
+3484011000006118	Putnam-Dana syndrome	NA	1	0
+3484061000006115	Vitamin B>12< deficiency neuropathy	NA	1	0
+3511191000006117	Parkinson's disease - dementia complex on Guam	NA	1	0
+3532651000006115	Myasthenia angiosclerotica	NA	1	0
+3532641000006117	Charcot's syndrome	NA	1	0
+3547331000006116	WHD - Werdnig-Hoffmann disease	NA	1	0
+3547301000006112	Progressive muscular atrophy of infancy	NA	1	0
+3547311000006110	Spinal muscular atrophy, type I	NA	1	0
+3601971000006114	Déjérine-Thomas syndrome	NA	1	0
+3601961000006119	Olivopontocerebellar atrophy	NA	1	0
+3602011000006110	Olivocerebellar atrophy	NA	1	0
+3601951000006116	Olivopontocerebellar degeneration	NA	1	0
+3602001000006112	OPCA - Olivopontocerebellar atrophy	NA	1	0
+3601991000006110	Thomas' syndrome	NA	1	0
+3680391000006117	Parkinsonian syndrome associated with symptomatic orthostatic hypotension	NA	1	0
+3680381000006115	Parkinsonian syndrome associated with idiopathic orthostatic hypotension	NA	1	0
+3681511000006114	Alternating hypoglossal hemiplegia	NA	1	0
+3705051000006111	Nutritional muscular degeneration	NA	1	0
+3705061000006113	Nutritional muscular dystrophy	NA	1	0
+3736801000006118	HSMN V	NA	1	0
+3736791000006119	Hereditary motor and sensory neuropathy, type V	NA	1	0
+3736821000006111	Hereditary motor and sensory neuropathy type V	NA	1	0
+3736831000006114	Hereditary motor-sensory neuropathy with pyramidal signs	NA	1	0
+3736781000006117	Spastic paraplegia with hypertrophic sensory-motor neuropathy, type V	NA	1	0
+3736811000006115	HMSN V	NA	1	0
+3738771000006116	Juvenile cerebellar degeneration AND myoclonus	NA	1	0
+3746311000006112	Post-hemiplegic chorea	NA	1	0
+3752161000006114	Crossed hemiplegia	NA	1	0
+3752171000006119	Alternate hemiplegia	NA	1	0
+3869081000006119	Laryngeal hemiplegia	NA	1	0
+3873921000006111	Spinal paraplegia	NA	1	0
+3891321000006117	Primary progressive cerebellar degeneration	NA	1	0
+3975561000006116	Posthemiplegic ataxia	NA	1	0
+4060311000006119	Upper motor neuron disease	NA	1	0
+4060321000006110	Transient hemiplegia	NA	1	0
+4060401000006114	Hemiplegic-ophthalmoplegic migraine	NA	1	0
+4196511000006119	Almaric's syndrome	NA	1	0
+4196501000006117	Muscular dystrophy-deafmutism syndrome	NA	1	0
+4196551000006118	Merosin deficient congenital muscular dystrophy	NA	1	0
+4196591000006112	HARD - Hydrocephalus, agyria and retinal dysplasia	NA	1	0
+4196571000006111	Hydrocephalus, agyria and retinal dysplasia	NA	1	0
+4196631000006112	Distal muscular dystrophy, Miyoshi type	NA	1	0
+3159801000006119	Acute idiopathic polyradiculoneuritis	NA	1	0
+3159791000006115	Acute inflammatory demyelinating polyradiculoneuropathy	NA	1	0
+3159761000006111	Ascending paralysis	NA	1	0
+3159811000006116	Acute idiopathic polyneuritis	NA	1	0
+3159771000006116	Landry-Guillain-Barre syndrome	NA	1	0
+3159751000006114	Landry-Guillain-Barré syndrome	NA	1	0
+4566591000006116	On examination - monoplegia	NA	1	0
+4566651000006111	O/E - tetraplegia	NA	1	0
+4566661000006113	On examination - tetraplegia	NA	1	0
+4566641000006114	On examination - quadriplegia	NA	1	0
+4566681000006115	On examination - diplegia	NA	1	0
+4567631000006119	On examination - Parkinsonian tremor	NA	1	0
+4567731000006111	On examination - paraplegic in extension	NA	1	0
+4567791000006110	On examination - Parkinson flexion posture	NA	1	0
+4768691000006115	Globoid cell leucodystrophy	NA	1	0
+4768741000006118	Galactocerebroside beta-galactosidase deficiency	NA	1	0
+4768751000006116	Diffuse globoid cell cerebral sclerosis	NA	1	0
+4768711000006117	GCL - Globoid cell leucodystrophy	NA	1	0
+4768701000006115	Krabbe leucodystrophy	NA	1	0
+4768681000006118	Krabbe's leukodystrophy	NA	1	0
+4768791000006110	Cerebral degeneration in Gaucher disease	NA	1	0
+4768841000006113	Cerebral degeneration in Hunter disease	NA	1	0
+4768851000006110	Cerebral degeneration in mucopolysaccharidosis	NA	1	0
+4769091000006117	Myxoedema cerebellar degeneration	NA	1	0
+4769101000006111	Myxedema cerebellar degeneration	NA	1	0
+4770761000006113	Myasthenic syndrome due to pernicious anemia	NA	1	0
+4997971000006119	Suprabulbar palsy type of dysarthria	NA	1	0
+4997981000006116	Pseudobulbar palsy type of dysarthria	NA	1	0
+4997961000006114	Upper motor neurone type of dysarthria	NA	1	0
+4997951000006112	Rigid type of dysarthria	NA	1	0
+5005161000006115	Progressive spinocerebellar ataxia with decreased tendon reflexes	NA	1	0
+5005261000006110	Fazio-Londe syndrome	NA	1	0
+5005251000006113	Progressive bulbar palsy of childhood	NA	1	0
+5005921000006112	Secondary Parkinson's disease	NA	1	0
+5005951000006115	Manganese-induced parkinsonism	NA	1	0
+5006091000006115	Chronic hepatocerebral degeneration	NA	1	0
+5006381000006115	Posthemiplegic dystonia	NA	1	0
+5007431000006113	H-H-E syndrome	NA	1	0
+5007421000006110	Hemiconvulsion-hemiplegia-epilepsy syndrome	NA	1	0
+5010771000006119	FIM - Familial infantile myasthenia	NA	1	0
+5010761000006114	Familial infantile myasthenia	NA	1	0
+5010821000006110	Limb girdle myasthenia	NA	1	0
+5010811000006119	Pseudomyopathic myasthenia	NA	1	0
+5010891000006112	Penicillamine-induced myasthenia	NA	1	0
+5010901000006111	Transient neonatal myasthenia	NA	1	0
+5012491000006111	Congenital pseudobulbar palsy	NA	1	0
+5112121000006111	Addison disease with adrenoleucodystrophy	NA	1	0
+5112111000006115	Addison's disease with adrenoleucodystrophy	NA	1	0
+5116021000006114	Galactocerebroside beta-galactosidase deficiency - early onset	NA	1	0
+5116031000006112	Infantile Krabbe disease	NA	1	0
+5116631000006117	Neonatal adrenoleukodystrophy	NA	1	0
+5116621000006115	Neonatal adrenoleucodystrophy	NA	1	0
+5116771000006112	Pseudo-neonatal adrenoleucodystrophy	NA	1	0
+11790731000006116	Pseudoadrenoleukodystrophy	NA	1	0
+5116781000006110	Acyl-coenzyme A oxidase deficiency	NA	1	0
+5116801000006114	Straight-chain acyl-CoA oxidase deficiency	NA	1	0
+5116791000006113	Peroxisomal acyl-CoA oxidase deficiency	NA	1	0
+5116761000006117	Acyl-CoA oxidase deficiency	NA	1	0
+5130041000006112	Keratoderma with mental retardation and spastic paraplegia	NA	1	0
+5142931000006117	Autosomal recessive muscular dystrophy with abnormal dystrophin-associated glycoprotein	NA	1	0
+5142941000006110	Severe autosomal recessive muscular dystrophy of childhood - North African type	NA	1	0
+5143041000006115	Adult onset autosomal recessive muscular dystrophy with normal dystrophin	NA	1	0
+5254241000006110	Mask-like facial expression	NA	1	0
+5279881000006119	Parkinsonian shift	NA	1	0
+5279891000006116	Parkinsonian shuffle	NA	1	0
+5485651000006119	Symptomatic parkinsonism	NA	1	0
+5509101000006115	On examination - festination-Parkinson gait	NA	1	0
+5528031000006110	Posture paraplegic in flexion	NA	1	0
+5528041000006117	Posture paraplegic in extension	NA	1	0
+5595791000006112	Subacute idiopathic demyelinating polyradiculoneuropathy	NA	1	0
+5838441000006113	Metachromatic leucodystrophy due to deficiency of cerebroside sulphatase activator	NA	1	0
+5838451000006110	Metachromatic leukodystrophy due to deficiency of cerebroside sulfatase activator	NA	1	0
+3157091000006112	Metachromatic leucodystrophy, congenital type	NA	1	0
+3157101000006118	Metachromatic leukodystrophy, congenital type	NA	1	0
+3162681000006112	Galactocerebroside beta-galactosidase deficiency - late onset	NA	1	0
+3162631000006111	Adult-type globoid cell leukodystrophy	NA	1	0
+3162671000006114	Globoid cell leucodystrophy late onset	NA	1	0
+3162651000006116	Adult type Krabbe disease	NA	1	0
+3162661000006119	Late onset Krabbe disease	NA	1	0
+3162611000006117	Globoid cell leucodystrophy, late-onset	NA	1	0
+3162621000006113	Globoid cell leukodystrophy, late-onset	NA	1	0
+3162641000006118	Adult-type Krabbe's disease	NA	1	0
+3809951000006112	Aspartoacylase deficiency	NA	1	0
+3809941000006110	Canavan-van-Bogaert-Bertrand disease	NA	1	0
+3809931000006117	Canavan's disease	NA	1	0
+3809981000006116	Canavan-van Bogaert-Bertrand disease	NA	1	0
+3809971000006119	Spongiform leucodystrophy	NA	1	0
+3809911000006111	Spongy degeneration of central nervous system	NA	1	0
+3809961000006114	Spongy degeneration of white matter in infancy	NA	1	0
+3809921000006115	Spongy degeneration of white matter	NA	1	0
+3938641000006113	Wilson disease	NA	1	0
+3938571000006116	Copper storage disease	NA	1	0
+3938561000006111	Hepatolenticular degeneration syndrome	NA	1	0
+3938601000006111	Kinnier-Wilson disease	NA	1	0
+3938581000006118	Hepatocerebral degeneration	NA	1	0
+3938591000006115	Hepatolenticular degeneration	NA	1	0
+3938631000006115	WD - Wilson's disease	NA	1	0
+4768641000006112	Cerebral degenerations usually manifest in childhood	NA	1	0
+4428171000006111	Menopausal muscular dystrophy syndrome	NA	1	0
+3560801000006112	Drug-induced myasthenia	NA	1	0
+3603971000006110	Massive calcification in paraplegic	NA	1	0
+3812351000006117	Myasthenia gravis panel measurement	NA	1	0
+3563081000006116	Schilder-Addison complex	NA	1	0
+3563071000006119	Bronze Schilder disease	NA	1	0
+3563091000006118	Siemerling-Creutzfeldt disease	NA	1	0
+6568061000006113	MLD	NA	1	0
+6568101000006111	Familial progressive cerebral sclerosis	NA	1	0
+6568091000006117	van Bogaert-Nijssen disease	NA	1	0
+6568051000006111	Sulfatide lipidosis	NA	1	0
+6568081000006115	Metachromatic leukoencephaly	NA	1	0
+6568041000006114	Sulphatide lipidosis	NA	1	0
+6687061000006118	Ichthyosis, cerebellar degeneration and hepatosplenomegaly	NA	1	0
+6867151000006110	Ocular myasthenia with strabismus	NA	1	0
+6892141000006112	Measles virus, viral envelope M protein variant	NA	1	0
+6892151000006114	SSPE virus - subacute sclerosing panencephalitis virus	NA	1	0
+6892161000006111	Subacute sclerosing panencephalitis virus	NA	1	0
+6949051000006117	Cerebral degeneration in generalized lipidosis	NA	1	0
+6949041000006119	Cerebral degeneration associated with generalized lipidosis	NA	1	0
+6949031000006112	Cerebral degeneration associated with generalised lipidosis	NA	1	0
+6949061000006115	Cerebral degeneration in lipidoses	NA	1	0
+6956291000006113	Progressive multifocal leucoencephalopathy associated with AIDS	NA	1	0
+6956321000006116	Progressive multifocal leucoencephalopathy associated with acquired immunodeficiency syndrome	NA	1	0
+6956311000006112	Progressive multifocal leukoencephalopathy associated with acquired immunodeficiency syndrome	NA	1	0
+6956301000006114	Progressive multifocal leukoencephalopathy associated with AIDS	NA	1	0
+7054961000006112	Monoplegia of lower limb affecting dominant side	NA	1	0
+7066481000006112	Monoplegia of lower limb affecting non-dominant side	NA	1	0
+7060541000006115	Monoplegia of upper limb affecting non-dominant side	NA	1	0
+7068491000006111	Monoplegia of dominant upper limb as a late effect of cerebrovascular accident	NA	1	0
+7047371000006114	Monoplegia of dominant lower limb as a late effect of cerebrovascular accident	NA	1	0
+7103601000006116	Dementia due to Creutzfeldt-Jakob disease	NA	1	0
+7210141000006118	Cerebral degeneration due to Parkinson disease	NA	1	0
+7210131000006111	Cerebral degeneration due to Parkinson's disease	NA	1	0
+3863971000006116	Metachromatic leukodystrophy without arylsulfatase deficiency	NA	1	0
+3863961000006111	Metachromatic leucodystrophy without arylsulphatase deficiency	NA	1	0
+7254191000006114	Spastic hemiplegia of nondominant side	NA	1	0
+7253911000006117	Complete quadriplegia due to lesion at C1-C4 level	NA	1	0
+7253901000006115	Complete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra	NA	1	0
+7253921000006113	Complete tetraplegia due to lesion at C1-C4 level	NA	1	0
+7255281000006119	Incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra	NA	1	0
+7255291000006116	Incomplete quadriplegia due to lesion at C5-C7 level	NA	1	0
+7253671000006119	Incomplete quadriplegia due to spinal cord lesion at C1-C4 level	NA	1	0
+7253661000006114	Incomplete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra	NA	1	0
+7254111000006116	Hemiplegia of nondominant side	NA	1	0
+7256661000006119	Spastic hemiplegia of dominant side	NA	1	0
+7257491000006114	Monoplegia of upper limb of dominant side	NA	1	0
+7259321000006110	Flaccid hemiplegia of nondominant side	NA	1	0
+7258531000006113	Flaccid hemiplegia of dominant side	NA	1	0
+7257921000006117	Complete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra	NA	1	0
+7257941000006112	Complete tetraplegia due to lesion at C5-C7 level	NA	1	0
+7257931000006119	Complete quadriplegia due to lesion at C5-C7 level	NA	1	0
+7260511000006114	Hemiplegia of dominant side	NA	1	0
+8089521000006110	Complete paraplegia	NA	1	0
+8038521000006111	Functional quadriplegia	NA	1	0
+8038531000006114	Functional tetraplegia	NA	1	0
+8030671000006113	Paraplegia with neurogenic bladder	NA	1	0
+8023791000006112	Myasthenia gravis without exacerbation	NA	1	0
+8030661000006118	Neurogenic bladder due to quadriplegia	NA	1	0
+7506981000006115	X-linked torsion dystonia parkinsonism syndrome	NA	1	0
+7506951000006111	Dystonia musculorum deformans	NA	1	0
+7506961000006113	Lubag	NA	1	0
+7506971000006118	XDP - X-linked dystonia parkinsonism	NA	1	0
+7506941000006114	X-linked dystonia parkinsonism	NA	1	0
+7506991000006117	Torsion dystonia parkinsonism Filipino type	NA	1	0
+7507251000006115	Chronic paraplegia	NA	1	0
+7512221000006111	Chronic incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra	NA	1	0
+7512201000006118	Chronic incomplete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra	NA	1	0
+7512211000006115	Acute complete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra	NA	1	0
+7512191000006116	Acute complete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra	NA	1	0
+7518141000006110	Perry syndrome	NA	1	0
+7518151000006112	Parkinsonism with alveolar hypoventilation and mental depression	NA	1	0
+8024661000006110	Altered behavior in dementia due to Huntington chorea	NA	1	0
+8024651000006113	Altered behavior in Huntington's dementia	NA	1	0
+7520661000006114	Myoclonic epilepsy myopathy sensory ataxia	NA	1	0
+7520681000006116	Spinocerebellar ataxia with epilepsy	NA	1	0
+7520671000006119	MEMSA - myoclonic epilepsy myopathy sensory ataxia	NA	1	0
+8024681000006117	Dementia due to multiple sclerosis with altered behavior	NA	1	0
+7528231000006116	Progressive bulbar palsy with sensorineural deafness	NA	1	0
+7528221000006119	Brown-Vialetto-Van Laere syndrome	NA	1	0
+7528241000006114	Pontobulbar palsy with deafness	NA	1	0
+8010631000006115	Quadriplegia with quadriparesis	NA	1	0
+7500121000006115	Paralytic syndrome on one side of the body	NA	1	0
+7558431000006116	Salih congenital muscular dystrophy	NA	1	0
+7558421000006119	Early onset myopathy with fatal cardiomyopathy	NA	1	0
+7558441000006114	Salih myopathy	NA	1	0
+7558021000006110	DYT12 - dystonia 12	NA	1	0
+7558031000006113	Dystonia 12	NA	1	0
+7557901000006115	Non-spastic cerebral palsy	NA	1	0
+7557911000006117	Extrapyramidal cerebral palsy	NA	1	0
+7557951000006116	Mixed cerebral palsy	NA	1	0
+7559241000006115	Huntington disease-like syndrome disorder	NA	1	0
+7560551000006115	Wilhelmsen-Lynch disease	NA	1	0
+7560561000006118	Disinhibition-dementia-parkinsonism-amytrophy complex	NA	1	0
+7560541000006117	Familial Pick's disease	NA	1	0
+7560571000006113	FTDP-17 - Frontotemporal dementia with parkinsonism 17	NA	1	0
+7557931000006111	Choreic cerebral palsy	NA	1	0
+7557991000006110	Pentaplegic cerebral palsy	NA	1	0
+7557981000006112	Triplegic cerebral palsy	NA	1	0
+7557941000006118	Chorea-athetoid cerebral palsy	NA	1	0
+7560241000006119	Dysmyelinating leukodystrophy and spastic paraparesis	NA	1	0
+7560251000006117	Spastic paraplegia 35	NA	1	0
+7560911000006114	Friedreich ataxia phenotype with selective vitamin E deficiency	NA	1	0
+7560871000006111	Ataxia with vitamin E deficiency	NA	1	0
+7560891000006112	Friedreich-like ataxia	NA	1	0
+7560881000006114	Familial isolated vitamin E deficiency	NA	1	0
+7560901000006111	Ataxia with isolated vitamin E deficiency	NA	1	0
+7577621000006117	IBMPFD - Inclusion body myopathy with early onset Paget disease and frontotemporal dementia	NA	1	0
+7577601000006110	Muscular dystrophy limb-girdle with Paget disease of bone	NA	1	0
+7577611000006113	Pagetoid neuroskeletal syndrome	NA	1	0
+7577581000006117	Lower motor neuron degeneration with Paget-like bone disease	NA	1	0
+7577571000006115	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	NA	1	0
+7577591000006119	Pagetoid amyotrophic lateral sclerosis	NA	1	0
+3994601000006110	Portuguese-Azorean disease	NA	1	0
+3994611000006113	Machado-Joseph disease	NA	1	0
+3994621000006117	MJD - Machado-Joseph disease	NA	1	0
+3994631000006119	Machado Joseph disease	NA	1	0
+7649851000006110	Kjellin syndrome	NA	1	0
+7649841000006113	Spastic paraplegia type 15	NA	1	0
+7683931000006118	Spinocerebellar ataxia 36	NA	1	0
+7683901000006114	Spinocerebellar ataxia type 36	NA	1	0
+7683911000006112	Costa de Morte ataxia	NA	1	0
+7683921000006116	Asidan ataxia	NA	1	0
+8042771000006117	Cerebral degeneration due to hypothyroidism	NA	1	0
+7704681000006118	Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection	NA	1	0
+7704671000006116	Progressive multifocal leucoencephalopathy co-occurrent with human immunodeficiency virus infection	NA	1	0
+8042761000006112	Cerebral degeneration due to alcoholism	NA	1	0
+7730651000006111	Alpha-sarcoglycanopathy LGMD2D (limb girdle muscular dystrophy type 2D)	NA	1	0
+7730641000006114	Autosomal recessive limb girdle muscular dystrophy type 2D	NA	1	0
+7730661000006113	Autosomal recessive limb girdle muscular dystrophy type 2A	NA	1	0
+7730681000006115	Calpain-3 deficiency limb girdle muscular dystrophy type 2A	NA	1	0
+7730671000006118	Primary calpainopathy	NA	1	0
+7732641000006113	Bedouin spastic ataxia syndrome	NA	1	0
+7732661000006112	Spastic ataxia and corneal dystrophy	NA	1	0
+7732671000006117	Mousa-Al Din-Al Nassar syndrome	NA	1	0
+7732651000006110	Spinocerebellar degeneration co-occurrent with macular corneal dystrophy	NA	1	0
+7733101000006113	Autosomal recessive spastic paraplegia type 11	NA	1	0
+7733111000006111	Nakamura Osame syndrome	NA	1	0
+7733121000006115	Spastic paraplegia, intellectual disability and thin corpus callosum	NA	1	0
+7732041000006117	Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome	NA	1	0
+7734211000006115	Lethal arthrogryposis co-occurrent with anterior horn cell disease	NA	1	0
+7734201000006118	Vuopala disease	NA	1	0
+7734191000006116	Lethal arthrogryposis with anterior horn cell disease	NA	1	0
+7731161000006110	Autosomal recessive cerebelloparenchymal disorder type 3	NA	1	0
+7731181000006117	SCAR2 (spinocerebellar ataxia autosomal recessive 2)	NA	1	0
+7731171000006115	Cerebelloparenchymal disorder III	NA	1	0
+7735591000006112	Iatrogenic Jakob-Creutzfeldt disease	NA	1	0
+7735601000006116	Iatrogenic Creutzfeldt-Jakob disease	NA	1	0
+7736781000006112	Spinocerebellar ataxia type 7	NA	1	0
+7736791000006110	Ataxia with pigmentary retinopathy	NA	1	0
+7736801000006111	Cerebellar syndrome pigmentary maculopathy	NA	1	0
+7737021000006114	Parkinsonism co-occurrent with dementia of Guadeloupe	NA	1	0
+7737191000006112	Spinocerebellar ataxia type 1	NA	1	0
+7737231000006119	Spinocerebellar ataxia type 10	NA	1	0
+7737241000006112	Spinocerebellar ataxia type 4	NA	1	0
+7737491000006116	Spastic paraplegia type 7	NA	1	0
+7737911000006117	fCJD (Familial Creutzfeldt-Jakob disease)	NA	1	0
+7737921000006113	Inherited Creutzfeldt-Jakob disease	NA	1	0
+7737901000006115	Familial Creutzfeldt-Jakob	NA	1	0
+7738251000006110	Spinocerebellar ataxia type 28	NA	1	0
+7738261000006112	Spinocerebellar ataxia type 29	NA	1	0
+7738271000006117	Congenital nonprogressive spinocerebellar ataxia	NA	1	0
+7738281000006119	Spinocerebellar ataxia type 31	NA	1	0
+7742521000006116	Laxova Opitz syndrome	NA	1	0
+7742511000006112	Early onset parkinsonism and intellectual disability syndrome	NA	1	0
+7742531000006118	Waisman syndrome	NA	1	0
+7742541000006111	Fryns macrocephaly	NA	1	0
+7742551000006113	Macrocephaly with spastic paraplegia and dysmorphism syndrome	NA	1	0
+7750331000006110	Hereditary late onset Parkinson disease	NA	1	0
+7750321000006112	Autosomal dominant late onset Parkinson disease	NA	1	0
+7751081000006119	Guillain-Barré syndrome acute inflammatory demyelinating polyradiculoneuropathic form	NA	1	0
+7751091000006116	Spinocerebellar ataxia type 15/16	NA	1	0
+7768741000006114	Autosomal recessive limb girdle muscular dystrophy type 2C	NA	1	0
+7768751000006111	Limb girdle muscular dystrophy due to gamma-sarcoglycan deficiency	NA	1	0
+7768771000006118	Limb girdle muscular dystrophy due to delta-sarcoglycan deficiency	NA	1	0
+7768761000006113	Autosomal recessive limb girdle muscular dystrophy type 2F	NA	1	0
+7768781000006115	Autosomal dominant limb girdle muscular dystrophy type 1B	NA	1	0
+7768801000006116	Limb girdle muscular dystrophy due to dysferlin deficiency	NA	1	0
+7768791000006117	Autosomal recessive limb girdle muscular dystrophy type 2B	NA	1	0
+7768821000006114	Limb girdle muscular dystrophy due to deficiency of fukutin related protein	NA	1	0
+7768811000006118	Autosomal recessive limb girdle muscular dystrophy type 2I	NA	1	0
+7773891000006114	Juvenile amyotrophic lateral sclerosis	NA	1	0
+7773901000006113	JALS - juvenile amyotrophic lateral sclerosis	NA	1	0
+7777601000006111	Spinocerebellar ataxia type 26	NA	1	0
+7777611000006114	Spinocerebellar ataxia type 25	NA	1	0
+7777621000006118	Spinocerebellar ataxia type 20	NA	1	0
+7777631000006115	Spinocerebellar ataxia type 23	NA	1	0
+7777651000006110	Spinocerebellar ataxia type 21	NA	1	0
+7778281000006117	Limb girdle muscular dystrophy due to beta-sarcoglycan deficiency	NA	1	0
+7778271000006115	Autosomal recessive limb girdle muscular dystrophy type 2E	NA	1	0
+7781581000006118	Spastic paraplegia due to NTE (neuropathy target esterase) mutation	NA	1	0
+7781561000006111	Autosomal recessive spastic paraplegia type 39	NA	1	0
+7781571000006116	Spastic paraplegia due to neuropathy target esterase mutation	NA	1	0
+7783331000006114	Spinocerebellar ataxia type 11	NA	1	0
+7783341000006116	Spinocerebellar ataxia type 12	NA	1	0
+7783351000006119	Spinocerebellar ataxia type 13	NA	1	0
+7783361000006117	Spinocerebellar ataxia type 14	NA	1	0
+7783901000006119	Huntington disease-like 4	NA	1	0
+7783891000006118	Spinocerebellar ataxia type 17	NA	1	0
+7783911000006116	Spinocerebellar ataxia type 18	NA	1	0
+7783931000006110	Spinocerebellar ataxia type 27	NA	1	0
+7783941000006117	Spinocerebellar ataxia type 30	NA	1	0
+7783951000006115	Spinocerebellar ataxia type 32	NA	1	0
+7783971000006113	Erythrokeratodermia with ataxia	NA	1	0
+7783961000006118	Spinocerebellar ataxia type 34	NA	1	0
+7783981000006111	Spinocerebellar ataxia and erythrokeratodermia	NA	1	0
+7784781000006111	Spinocerebellar ataxia type 35	NA	1	0
+7784791000006114	Spinocerebellar ataxia type 37	NA	1	0
+7784801000006110	Spinocerebellar ataxia with altered vertical eye movement	NA	1	0
+7791391000006111	X-linked ataxia deafness syndrome	NA	1	0
+7791381000006113	X-linked spinocerebellar ataxia type 3	NA	1	0
+7791371000006110	X-linked sideroblastic anemia with spinocerebellar ataxia	NA	1	0
+7791361000006115	X-linked sideroblastic anaemia with spinocerebellar ataxia	NA	1	0
+7791401000006113	X-linked spinocerebellar ataxia type 4	NA	1	0
+7791411000006111	X-linked ataxia dementia syndrome	NA	1	0
+7794211000006113	Limb girdle muscular dystrophy due to myotilin deficiency	NA	1	0
+7794221000006117	Limb-girdle muscular dystrophy 1A myotilin myopathy	NA	1	0
+7794201000006110	Autosomal dominant limb girdle muscular dystrophy type 1A	NA	1	0
+7794251000006114	Limb-girdle muscular dystrophy 1C caveolin myopathy	NA	1	0
+7794241000006112	Limb girdle muscular dystrophy due to caveolin-3 deficiency	NA	1	0
+7794231000006119	Autosomal dominant limb girdle muscular dystrophy type 1C	NA	1	0
+7794261000006111	Autosomal dominant limb girdle muscular dystrophy type 1D	NA	1	0
+7794271000006116	Autosomal dominant limb girdle muscular dystrophy type 1E	NA	1	0
+7794281000006118	Autosomal dominant limb girdle muscular dystrophy type 1F	NA	1	0
+7794291000006115	Autosomal dominant limb girdle muscular dystrophy type 1G	NA	1	0
+7803941000006116	PLA2G6 (phospholipase A2 group VI) related dystonia parkinsonism	NA	1	0
+7803931000006114	Dystonia parkinsonism Paisan-Ruiz type	NA	1	0
+7804921000006113	Limb girdle muscular dystrophy due to telethonin deficiency	NA	1	0
+7804911000006117	Autosomal recessive limb girdle muscular dystrophy type 2G	NA	1	0
+7804941000006118	Limb girdle muscular dystrophy with intellectual disability syndrome	NA	1	0
+7807671000006114	Corneal cerebellar syndrome	NA	1	0
+7807691000006110	Spinocerebellar degeneration and corneal dystrophy syndrome	NA	1	0
+7807681000006112	Der Kaloustian Jarudi Khoury syndrome	NA	1	0
+7809761000006118	Bilateral anterior opercular syndrome	NA	1	0
+7809771000006113	Facio-pharyngo-glosso-masticatory diplegia	NA	1	0
+7809751000006115	Foix Chavany Marie syndrome	NA	1	0
+7763061000006116	Hereditary sensory and autonomic neuropathy with spastic paraplegia	NA	1	0
+7763071000006111	HSAN (hereditary sensory and autonomic neuropathy) with spastic paraplegia	NA	1	0
+7765111000006116	Juvenile primary lateral sclerosis	NA	1	0
+7826441000006110	Volcke Soekarman syndrome	NA	1	0
+7826431000006117	Macrocephaly, short stature, paraplegia syndrome	NA	1	0
+7826751000006116	Oculogastrointestinal muscular dystrophy	NA	1	0
+7826761000006119	Visceral myopathy with familial external ophthalmoplegia syndrome	NA	1	0
+7826831000006115	Odontoleukodystrophy	NA	1	0
+7826841000006113	Dentoleukoencephalopathy	NA	1	0
+7826861000006112	Leucodystrophy with oligodontia	NA	1	0
+7826851000006110	Leukodystrophy with oligodontia	NA	1	0
+7828631000006118	Fitzsimmons McLachlan Gilbert syndrome	NA	1	0
+7831571000006111	Dystonia 16	NA	1	0
+7833271000006112	Parkinsonism due to human immunodeficiency virus infection	NA	1	0
+7833281000006110	Parkinsonism following infection	NA	1	0
+7833291000006113	Post-infectious Parkinsonism	NA	1	0
+7834061000006111	Parkinsonism due to hereditary spastic paraplegia	NA	1	0
+7836111000006119	Infantile dystonia parkinsonism	NA	1	0
+7836121000006110	Parkinsonism-dystonia infantile	NA	1	0
+7838701000006117	Parkinsonism due to heredodegenerative disorder	NA	1	0
+7838921000006112	Amyotrophic lateral sclerosis plus syndrome	NA	1	0
+7841131000006115	Flaccid diplegia of upper extremities	NA	1	0
+7841121000006118	Flaccid diplegia of upper limbs	NA	1	0
+7841151000006110	Spastic diplegia of upper extremities	NA	1	0
+7841141000006113	Spastic diplegia of upper limbs	NA	1	0
+7841171000006117	Diplegia of lower extremeties	NA	1	0
+7841181000006119	Flaccid monoplegia of upper limb	NA	1	0
+7841191000006116	Flaccid monoplegia of upper extremity	NA	1	0
+7841211000006115	Spastic monoplegia of upper extremity	NA	1	0
+7841201000006118	Spastic monoplegia of upper limb	NA	1	0
+7841231000006114	Flaccid monoplegia of lower extremity	NA	1	0
+7841221000006111	Flaccid monoplegia of lower limb	NA	1	0
+7841241000006116	Spastic monoplegia of lower limb	NA	1	0
+7841251000006119	Spastic monoplegia of lower extremity	NA	1	0
+3001471000006111	Postpolio muscular atrophy	NA	1	0
+3001491000006112	Progressive muscular atrophy following poliomyelitis	NA	1	0
+3001481000006114	Post-polio progressive muscular atrophy	NA	1	0
+7842441000006113	Limb girdle muscular dystrophy with epidermolysis bullosa simplex	NA	1	0
+7842431000006115	Epidermolysis bullosa simplex with muscular dystrophy	NA	1	0
+7843681000006111	Muscular dystrophy Selcen type	NA	1	0
+7843691000006114	Selcen muscular dystrophy	NA	1	0
+7845921000006118	Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome	NA	1	0
+7845931000006115	Spastic quadriplegia, retinitis pigmentosa, intellectual disability syndrome	NA	1	0
+7845971000006117	Spastic paraplegia type 2	NA	1	0
+7845951000006110	Spastic gait type 2	NA	1	0
+7845941000006113	X-linked spastic paraplegia type 2	NA	1	0
+7845961000006112	Spastic paraparesis type 2	NA	1	0
+7847971000006111	Autosomal dominant spastic paraplegia type 36	NA	1	0
+7847981000006114	Autosomal dominant spastic paraplegia type 4	NA	1	0
+7847991000006112	Autosomal recessive spastic paraplegia type 44	NA	1	0
+7848001000006119	Autosomal recessive spastic paraplegia type 46	NA	1	0
+7848011000006116	Autosomal recessive spastic paraplegia type 53	NA	1	0
+7848021000006112	Autosomal recessive spastic paraplegia type 54	NA	1	0
+7848051000006115	Spastic paraplegia due to partial TFG deficiency	NA	1	0
+7848041000006117	Autosomal recessive spastic paraplegia type 57	NA	1	0
+7850171000006114	Parkinson disease 9	NA	1	0
+7850161000006119	PARK9 - Parkinson disease 9	NA	1	0
+7853091000006118	Ophthalmoplegia, hypotonia, ataxia, hypoacusis, athetosis syndrome	NA	1	0
+7853081000006116	Ohaha syndrome	NA	1	0
+7854211000006119	Hypomyelinating leucodystrophy with atrophy of basal ganglia and cerebellum	NA	1	0
+7854241000006115	Hypomyelination with atrophy of basal ganglia and cerebellum syndrome	NA	1	0
+7854221000006110	Hypomyelinating leukodystrophy with atrophy of basal ganglia and cerebellum	NA	1	0
+7854231000006113	H-ABC - hypomyelination, atrophy of basal ganglia and cerebellum	NA	1	0
+7864581000006116	Limb-girdle muscular dystrophy 2J titin gene mutation	NA	1	0
+7864601000006114	Limb-girdle muscular dystrophy 2O POMGNT1 (protein o-mannose beta-1,2-n-acetylglucosaminyltransferase) gene mutation	NA	1	0
+7864591000006118	Autosomal recessive limb girdle muscular dystrophy type 2O	NA	1	0
+7864611000006112	Limb-girdle muscular dystrophy 2O POMGNT1 gene mutation	NA	1	0
+7857651000006111	Infectious parkinsonism	NA	1	0
+7857641000006114	Infection causing parkinsonism	NA	1	0
+7865901000006115	SPOAN (spastic paraplegia, optic atrophy, neuropathy) syndrome	NA	1	0
+7865891000006119	Spastic paraplegia, optic atrophy, neuropathy syndrome	NA	1	0
+7866021000006118	Atypical juvenile parkinsonism	NA	1	0
+7867251000006115	Fitzsimmons Guilbert syndrome	NA	1	0
+7867241000006117	Paraplegia, brachydactyly, cone-shaped epiphysis syndrome	NA	1	0
+7868441000006115	SCAR1 - spinocerebellar ataxia autosomal recessive 1	NA	1	0
+7868421000006110	Autosomal recessive cerebellar ataxia with oculomotor apraxia type 2	NA	1	0
+7868451000006118	Spinocerebellar ataxia with axonal neuropathy type 2	NA	1	0
+7868431000006113	AOA2 - ataxia oculomotor apraxia type 2	NA	1	0
+7868691000006110	Congenital muscular dystrophy Paradas type	NA	1	0
+7868701000006110	Congenital myopathy Paradas type	NA	1	0
+7868211000006115	ARCA2 - autosomal recessive cerebellar ataxia type 2	NA	1	0
+7868231000006114	Autosomal recessive spinocerebellar ataxia type 9	NA	1	0
+7868201000006118	Autosomal recessive ataxia due to ubiquinone deficiency	NA	1	0
+7868221000006111	Autosomal recessive ataxia due to coenzyme Q10 deficiency	NA	1	0
+7860881000006113	Sporadic Parkinson disease	NA	1	0
+7860891000006111	Parkinsonism due to and following injury of head	NA	1	0
+7860901000006110	Post-traumatic parkinsonism	NA	1	0
+7874861000006119	Autosomal recessive muscular dystrophy due to Torsin-1A-interacting protein 1 deficiency	NA	1	0
+7874841000006118	Autosomal recessive limb girdle muscular dystrophy type 2Y	NA	1	0
+7874851000006116	Autosomal recessive muscular dystrophy due to LAP1B (lamin-associated protein 1B) deficiency	NA	1	0
+7874871000006114	Muscular dystrophy with progressive weakness, distal contracture and rigid spine	NA	1	0
+7876351000006118	CAMOS syndrome	NA	1	0
+7876381000006114	SCAR5 - spinocerebellar ataxia autosomal recessive 5	NA	1	0
+7876361000006116	CAMOS (cerebellar ataxia, mental retardation, optic atrophy, skin abnormalities) syndrome	NA	1	0
+7876371000006111	Cerebellar ataxia, intellectual disability, optic atrophy, skin abnormalities syndrome	NA	1	0
+7861121000006113	X-linked hereditary spastic paraplegia	NA	1	0
+7860911000006113	Parkinsonism due to mass lesion of brain	NA	1	0
+7880621000006113	Autosomal recessive spastic paraplegia type 32	NA	1	0
+7880631000006111	Autosomal recessive spastic paraplegia type 26	NA	1	0
+7880641000006118	GM2 synthase deficiency	NA	1	0
+7880661000006119	Lison syndrome	NA	1	0
+7880651000006116	Autosomal recessive spastic paraplegia type 23	NA	1	0
+7880671000006114	Spastic paraparesis, vitiligo, premature graying, characteristic facies syndrome	NA	1	0
+7880681000006112	Spastic paraparesis, vitiligo, premature greying, characteristic facies syndrome	NA	1	0
+7880691000006110	Autosomal recessive spastic paraplegia type 64	NA	1	0
+7880701000006110	Autosomal recessive spastic paraplegia type 63	NA	1	0
+7880711000006113	Autosomal recessive spastic paraplegia type 61	NA	1	0
+7880741000006112	Autosomal recessive limb girdle muscular dystrophy type 2P	NA	1	0
+7880751000006114	Autosomal recessive limb girdle muscular dystrophy type 2Q	NA	1	0
+7880761000006111	Autosomal recessive limb girdle muscular dystrophy type 2L	NA	1	0
+7880771000006116	Autosomal recessive limb girdle muscular dystrophy type 2N	NA	1	0
+7880781000006118	Autosomal recessive limb girdle muscular dystrophy type 2M	NA	1	0
+7880851000006115	Spastic paraplegia with Paget disease of bone syndrome	NA	1	0
+7951381000006111	Autosomal recessive limb girdle muscular dystrophy type 2S	NA	1	0
+7951391000006114	Autosomal recessive limb girdle muscular dystrophy type 2T	NA	1	0
+7951411000006114	Autosomal recessive limb girdle muscular dystrophy due to desmin deficiency	NA	1	0
+7951401000006111	Autosomal recessive limb girdle muscular dystrophy type 2R	NA	1	0
+7951421000006118	Autosomal recessive spastic paraplegia type 18	NA	1	0
+7951431000006115	Autosomal recessive spastic paraplegia type 25	NA	1	0
+7963241000006119	Spinocerebellar ataxia type 40	NA	1	0
+7963251000006117	Spinocerebellar ataxia type 38	NA	1	0
+7860921000006117	Chorea co-occurrent and due to Huntington disease-like condition	NA	1	0
+7860931000006119	Chorea with Huntington disease-like condition	NA	1	0
+7951601000006113	Autosomal dominant spastic paraplegia type 10	NA	1	0
+7951611000006111	Autosomal dominant spastic paraplegia type 6	NA	1	0
+7951621000006115	Autosomal dominant familial spastic paraplegia type 3	NA	1	0
+7951771000006112	Spastic paraplegia with precocious puberty syndrome	NA	1	0
+7952691000006110	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	NA	1	0
+7952701000006110	Autosomal dominant spastic paraplegia type 29	NA	1	0
+7952771000006116	Spinocerebellar ataxia dysmorphism syndrome	NA	1	0
+7953511000006111	Spastic paraplegia, nephritis, deafness syndrome	NA	1	0
+7953521000006115	Fitzsimmons Watson Mellor syndrome	NA	1	0
+7958141000006110	Spastic paraplegia, glaucoma, intellectual disability syndrome	NA	1	0
+3504836014	Monoplegia of right dominant lower limb	NA	1	0
+3504838010	Monoplegia of left dominant lower limb	NA	1	0
+3504840017	Monoplegia of left nondominant lower limb	NA	1	0
+3504846011	Monoplegia of left arm	NA	1	0
+3504845010	Monoplegia of left upper limb	NA	1	0
+3509796015	Monoplegia of right nondominant lower limb	NA	1	0
+3509797012	Monoplegia of right nondominant leg	NA	1	0
+3509802018	Monoplegia of right arm	NA	1	0
+3509868016	Flaccid hemiplegia of left dominant side	NA	1	0
+3509873010	Flaccid hemiplegia of right nondominant side	NA	1	0
+3509875015	Flaccid hemiplegia of right dominant side	NA	1	0
+3509877011	Flaccid hemiplegia of left nondominant side	NA	1	0
+3511417019	Neuromuscular scoliosis co-occurrent and due to cerebral palsy	NA	1	0
+3509888017	Hemiplegia of left nondominant side	NA	1	0
+3509890016	Hemiplegia of right nondominant side	NA	1	0
+3510031016	Hemiplegia of left dominant side	NA	1	0
+3510041018	Hemiplegia of right dominant side	NA	1	0
+3513421017	Spastic hemiplegia of left dominant side	NA	1	0
+3513423019	Spastic hemiplegia of left nondominant side	NA	1	0
+3513666019	Spastic hemiplegia of right dominant side	NA	1	0
+3513668018	Spastic hemiplegia of right nondominant side	NA	1	0
+3527211011	Autosomal dominant hereditary spastic paraplegia	NA	1	0
+11999341000006110	Autosomal dominant spastic paraplegia type 31	NA	1	0
+11999351000006112	Autosomal dominant spastic paraplegia type 41	NA	1	0
+11999361000006114	Autosomal dominant spastic paraplegia type 42	NA	1	0
+12003111000006118	Spectrin-associated autosomal recessive cerebellar ataxia type 1	NA	1	0
+12003101000006116	Autosomal recessive cerebellar ataxia, cognitive defect syndrome	NA	1	0
+12003091000006110	Autosomal recessive spinocerebellar ataxia type 14	NA	1	0
+12003081000006112	Spectrin-associated autosomal recessive cerebellar ataxia	NA	1	0
+12003351000006119	Autosomal recessive spastic paraplegia type 48	NA	1	0
+12003381000006110	Autosomal dominant spastic paraplegia type 37	NA	1	0
+12003391000006113	X-linked spastic paraplegia type 34	NA	1	0
+12003441000006112	Autosomal recessive spastic paraplegia type 5A	NA	1	0
+12003451000006114	Autosomal dominant spastic paraplegia type 12	NA	1	0
+12003461000006111	Autosomal dominant spastic paraplegia type 19	NA	1	0
+12003471000006116	Autosomal recessive spastic paraplegia type 28	NA	1	0
+12003481000006118	Autosomal spastic paraplegia type 30	NA	1	0
+12003971000006113	Antinolo Nieto Borrego syndrome	NA	1	0
+12003961000006118	Spastic paraplegia, neuropathy, poikiloderma syndrome	NA	1	0
+12003981000006111	Spastic paraplegia, facial cutaneous lesion syndrome	NA	1	0
+12003991000006114	Bahemuka Brown syndrome	NA	1	0
+12020111000006119	Hereditary spastic paraparesis type 15	NA	1	0
+12020081000006113	Autosomal recessive spastic paraplegia type 15	NA	1	0
+12020091000006111	Spastic paraplegia, retinal degeneration syndrome	NA	1	0
+12020101000006117	Kjellin syndrome	NA	1	0
+12020141000006115	Autosomal recessive spastic paraplegia type 35	NA	1	0
+12020861000006110	Mast syndrome	NA	1	0
+12020851000006113	Autosomal recessive spastic paraplegia type 21	NA	1	0
+12020891000006119	Autosomal recessive spastic paraplegia type 43	NA	1	0
+12023761000006114	Congenital muscular dystrophy type 1B	NA	1	0
+12025281000006112	Autosomal recessive spastic paraplegia type 62	NA	1	0
+12026151000006116	Spinocerebellar ataxia with axonal neuropathy type 1	NA	1	0
+12028001000006118	Symptomatic form of muscular dystrophy of Duchenne and Becker in female carrier	NA	1	0
+12035781000006118	Autosomal recessive spastic paraplegia type 45	NA	1	0
+12042571000006119	Acute multiple sclerosis Marburg variant	NA	1	0
+12042551000006112	Marburg acute multiple sclerosis	NA	1	0
+12042561000006114	Acute multiple sclerosis Marburg type	NA	1	0
+12047961000006117	Autosomal recessive spastic paraplegia type 67	NA	1	0
+12048551000006110	X-linked spinocerebellar ataxia type 5	NA	1	0
+12048541000006113	X-linked non progressive cerebellar ataxia	NA	1	0
+12049021000006116	Parkinsonism caused by cyanide	NA	1	0
+12049031000006118	Cyanide-induced parkinsonism	NA	1	0
+12050711000006119	Congenital facial diplegia	NA	1	0
+5005481000006118	Silver disease	NA	1	0
+7784181000006110	Progressive cavitating leukoencephalopathy	NA	1	0
+7693291000006110	Ribonucleic acid polymerase III-related leukodystrophy	NA	1	0
+7693281000006112	RNA polymerase III-related leukodystrophy	NA	1	0
+7955151000006115	Dementia co-occurrent and due to progressive multifocal leukoencephalopathy	NA	1	0
+7955141000006117	Dementia with progressive multifocal leukoencephalopathy	NA	1	0
+7560451000006116	HDLS - hereditary diffuse leukoencephalopathy with spheroids	NA	1	0
+7560431000006111	Hereditary diffuse leukoencephalopathy with axonal spheroids	NA	1	0
+7560461000006119	Neuroaxonal leukodystrophy	NA	1	0
+7560421000006113	Hereditary diffuse leukoencephalopathy with spheroids	NA	1	0
+7560441000006118	Adult-onset leukodystrophy with neuroaxonal spheroids	NA	1	0

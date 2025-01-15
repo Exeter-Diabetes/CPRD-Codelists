@@ -1,180 +1,180 @@
-medcodeid	term_medcode
-4421421000006112	Urinary control
-252794012	Micturition control
-4421431000006110	Bladder control, function
-4421401000006119	Bladder control
-208692015	Functional urinary incontinence
-4590211000006112	Unable to hold urine
-4590221000006116	Lack of bladder control
-4590201000006114	Unable to control bladder
-4590281000006117	Loss of bladder control
-317523016	[D]Incontinence of urine
-295453015	Non-organic enuresis NOS
-317527015	[D]Incontinence of urine NOS
-305212011	Urinary incontinence
-4590181000006113	Leaking of urine
-4590231000006118	Involuntary urination
-4590241000006111	Unable to hold fluids
-4590271000006115	Bladder incontinence
-4590171000006110	Urine incontinence
-317524010	Urinary incontinence
-4590261000006110	Absence of bladder continence
-4590251000006113	UI - Urinary incontinence
-317525011	[D]Urethral sphincter incontinence
-256950013	Bladder: incontinent
-1494848017	Incontinence of urine
-4590291000006119	Weak bladder
-4590161000006115	Unable to prevent bladder emptying
-256951012	Bladder: occasional accident
-121721000006114	Stress incontinence
-121751000006117	Stress incontinence - symptom
-2854031000006118	Incontinence when straining
-2854021000006116	Stress bladder incontinence
-2854071000006115	Stress urinary incontinence
-2854041000006111	SI - Stress incontinence
-2854001000006114	Genuine stress incontinence
-2854051000006113	Urinary stress incontinence
-2854061000006110	GSI - Genuine stress incontinence
-37299019	Stress incontinence
-781731000006114	Incontinence control
-397460012	Incontinence control
-5525441000006118	Nocturnal bladder warning system
-406330013	Enuresis alarm
-406331012	Enuretic alarm
-419993011	Daytime enuresis
-6026151000006118	Provision of enuresis alarm
-6026131000006113	Provision of nocturnal bladder warning system
-6026141000006115	Provision of enuretic alarm
-12704501000006111	Nocturnal bladder warning syst
-673501000006114	Provision of nocturnal bladder warning system
-3478371000006111	Female urinary stress incontinence
-121741000006119	Female stress incontinence
-124716012	Urgency of micturition
-502907019	Precipitancy of micturition
-3720841000006117	Urgency - urination
-3720901000006113	Urgency to pass urine
-74221000006110	Urgent desire to urinate
-3720821000006112	Urinary precipitancy
-3720871000006113	Precipitancy of urine
-213441000006118	Precipitancy
-3720861000006118	Must hurry to pass urine
-3720881000006111	Urgency to micturate
-3720891000006114	Urging to urinate
-292171000006114	[D] Urgency of micturition
-3776301000006110	Total incontinence
-3776311000006113	Double incontinence - urine and stool
-503840017	Double incontinence
-504334012	Nocturnal enuresis
-2627781000006119	Bed wetting
-2627801000006115	Nocturnal incontinence of urine
-646261000006118	Enuresis
-2627811000006117	Wets bed
-504331016	Bedwetting
-507635014	Urge incontinence of urine
-3923181000006115	Must urinate at once with urge
-3923191000006117	Lack of bladder control if desire resisted
-3923201000006119	Lack of bladder control if desire urgent
-3923211000006116	Urge urinary incontinence
-317526012	[D] Urge incontinence
-4081211000006119	Difficulty passing urine
-4081231000006113	Difficulty in urination
-4081221000006110	Difficulty in voiding
-318017018	[X]Other difficulties with micturition
-1222518015	[D]Difficulty with micturition
-255420015	Difficulty with micturition
-4196111000006110	Nocturnal AND diurnal enuresis
-8036861000006119	Urinary urgency due to benign prostatic hypertrophy
-8036891000006110	Urinary incontinence due to benign prostatic hypertrophy
-4431911000006111	Urinary incontinence with continuous leakage
-208698016	Total urinary incontinence
-252112018	H/O: stress incontinence
-4544171000006112	History of stress incontinence
-252795013	Micturition stream normal
-4546731000006118	Poor flow of urine
-455440013	Poor stream of urine
-4546751000006113	Weak urinary stream
-252800015	Micturition stream poor
-12454201000006113	O/E - mict.refl.abn.-retention
-255187012	On examination - micturition reflex abnormal - retention
-4571151000006117	On examination - micturition reflex abnormal - retention
-12453451000006111	O/E-mict.refl.abn-ret+overflow
-4571191000006111	On examination - micturition reflex abnormal retention and overflow
-4571171000006110	O/E- micturition reflex abnormal retention and overflow
-255188019	O/E- micturition reflex abnormal retention and overflow
-5097221000006114	Cough - urge incontinence of urine
-354736014	Giggle incontinence of urine
-5097241000006119	Orgasmic incontinence of urine
-5097261000006115	Post-micturition dribbling
-5097271000006110	PMD - Post-micturition dribbling
-5097251000006117	Post-micturition incontinence
-1936691000006114	Postural urinary incontinence
-5097291000006111	Dependency urinary incontinence
-5097301000006112	Psychogenic urinary incontinence
-5269431000006113	Desire for urination
-5269441000006115	Urge for micturition
-371965013	Unaware of passing urine
-5269551000006117	Passive incontinence
-5577001000006119	Bladder control - child
-6342721000006113	Urinary incontinence due to urethral sphincter incompetence
-6342731000006111	Urinary sphincter weakness incontinence
-6460041000006116	Neurogenic incontinence
-1777475010	Overflow incontinence of urine
-6594181000006112	Paradoxic incontinence
-6594191000006110	Paradoxical incontinence
-6694681000006111	Irritable bladder
-6694691000006114	Unstable bladder
-6694661000006118	Bladder irritability
-6694671000006113	Bladder instability
-3035332015	Mixed urinary incontinence
-6839981000006117	Mixed incontinence
-400101000006118	[X]Nonorganic enuresis
-3178831000006117	Enuresis
-503036010	Non-organic secondary enuresis
-478855012	Urinary incontinence of non-organic origin
-504669015	Non-organic primary enuresis
-7033781000006117	Incontinence due to detrusor instability
-7175671000006116	Neurogenic bladder as late effect of cerebrovascular accident
-7259051000006115	Stress incontinence after prostatectomy
-7295341000006110	Male urinary stress incontinence
-7356231000006118	Incontinence without sensory awareness
-7383961000006119	Intermittent urinary incontinence
-7383971000006114	Non-organic primary nocturnal enuresis
-7383981000006112	Non-organic secondary nocturnal enuresis
-7383991000006110	Non-organic nocturnal enuresis
-7384001000006118	Primary nocturnal enuresis
-7384011000006115	Secondary nocturnal enuresis
-3278161000006118	Autonomic reflex inhibition of micturition
-3282081000006116	Incontinence
-2594841000006113	Delay when starting to pass urine
-2594861000006112	Urinary hesitation
-2594851000006110	Urinary hesitancy
-1231994019	Hesitancy of micturition
-1231995018	Hesitancy
-2162416019	Unstable bladder
-72601000006110	Unstable bladder
-3491671000006115	DI - Detrusor instability
-2162415015	Detrusor instability of bladder
-615711000006112	Detrusor instability
-2164085015	Detrusor instability
-3491651000006113	Detrusor dyssynergia
-3558181000006119	Automatic micturition
-7856561000006114	Urinary incontinence co-occurrent and due to prolapse of female genital organ
-7856571000006119	Urinary incontinence with prolapse of female genital organ
-3514654019	Stress incontinence with pelvic organ prolapse
-3514653013	Stress incontinence co-occurrent and due to pelvic organ prolapse
-3636271019	Overflow incontinence of urine due to prolapse of female genital organ
-3636273016	Urge incontinence due to prolapse of female genital organ
-3636274010	Mixed incontinence due to prolapse of female genital organ
-12082301000006111	Double incontinence in childhood
-12082291000006110	Childhood double incontinence
-2638891000006111	Diurnal only enuresis
-2638901000006110	Diurnal enuresis
-3978561000006114	Reflex incontinence of urine
-3978571000006119	Reflex emptying of bladder
-3978581000006116	Reflex urinary incontinence
-1784723015	Urinary control
-1784722013	Bladder control - finding
-529651000000113	Pis en deux
-529601000000112	Urge to pass urine again shortly after finishing voiding
-2373691000000119	Functional urinary and faecal incontinence
-283236012	Urinary bladder control NOS
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+1494848017	Incontinence of urine	994064	1	1
+504334012	Nocturnal enuresis	579553	1	1
+74221000006110	Urgent desire to urinate	449910	1	1
+646261000006118	Enuresis	410695	1	1
+121721000006114	Stress incontinence	402724	1	1
+124716012	Urgency of micturition	368640	1	1
+121741000006119	Female stress incontinence	340944	1	1
+507635014	Urge incontinence of urine	301335	1	1
+2162415015	Detrusor instability of bladder	269394	1	1
+317524010	Urinary incontinence	268532	1	1
+317523016	[D]Incontinence of urine	178973	1	1
+256950013	Bladder: incontinent	170406	1	1
+256951012	Bladder: occasional accident	145870	1	1
+615711000006112	Detrusor instability	135154	1	1
+121751000006117	Stress incontinence - symptom	98469	1	1
+503840017	Double incontinence	92642	1	1
+72601000006110	Unstable bladder	70584	1	1
+317526012	[D] Urge incontinence	53207	1	1
+504331016	Bedwetting	51490	1	1
+292171000006114	[D] Urgency of micturition	47172	1	1
+1231994019	Hesitancy of micturition	45035	1	1
+37299019	Stress incontinence	44523	1	1
+478855012	Urinary incontinence of non-organic origin	44229	1	1
+252800015	Micturition stream poor	36427	1	1
+2164085015	Detrusor instability	34886	1	1
+419993011	Daytime enuresis	27506	1	1
+252112018	H/O: stress incontinence	27308	1	1
+3035332015	Mixed urinary incontinence	25063	1	1
+255420015	Difficulty with micturition	22096	1	1
+455440013	Poor stream of urine	19453	1	1
+317527015	[D]Incontinence of urine NOS	17911	1	1
+1784722013	Bladder control - finding	15539	1	1
+1231995018	Hesitancy	15505	1	1
+252795013	Micturition stream normal	14911	1	1
+2854001000006114	Genuine stress incontinence	10505	1	1
+2162416019	Unstable bladder	9002	1	1
+4081211000006119	Difficulty passing urine	7882	1	1
+2594841000006113	Delay when starting to pass urine	7490	1	1
+397460012	Incontinence control	5909	1	1
+305212011	Urinary incontinence	5740	1	1
+2373691000000119	Functional urinary and faecal incontinence	4936	1	1
+283236012	Urinary bladder control NOS	4417	1	1
+317525011	[D]Urethral sphincter incontinence	4115	1	1
+1784723015	Urinary control	3517	1	1
+252794012	Micturition control	3276	1	1
+504669015	Non-organic primary enuresis	3267	1	1
+1222518015	[D]Difficulty with micturition	3095	1	1
+529601000000112	Urge to pass urine again shortly after finishing voiding	2908	1	1
+208692015	Functional urinary incontinence	2323	1	1
+503036010	Non-organic secondary enuresis	1544	1	1
+406330013	Enuresis alarm	1325	1	1
+781731000006114	Incontinence control	1258	1	1
+318017018	[X]Other difficulties with micturition	1168	1	1
+673501000006114	Provision of nocturnal bladder warning system	1048	1	1
+354736014	Giggle incontinence of urine	835	1	1
+3282081000006116	Incontinence	780	1	1
+529651000000113	Pis en deux	763	1	1
+406331012	Enuretic alarm	701	1	1
+208698016	Total urinary incontinence	570	1	1
+371965013	Unaware of passing urine	507	1	1
+1777475010	Overflow incontinence of urine	490	1	1
+2627781000006119	Bed wetting	369	1	1
+2638891000006111	Diurnal only enuresis	367	1	1
+3720901000006113	Urgency to pass urine	364	1	1
+400101000006118	[X]Nonorganic enuresis	360	1	1
+213441000006118	Precipitancy	310	1	1
+502907019	Precipitancy of micturition	293	1	1
+5525441000006118	Nocturnal bladder warning system	236	1	1
+2854071000006115	Stress urinary incontinence	227	1	1
+3923211000006116	Urge urinary incontinence	224	1	1
+5097251000006117	Post-micturition incontinence	203	1	1
+2854041000006111	SI - Stress incontinence	198	1	1
+4590181000006113	Leaking of urine	180	1	1
+3720841000006117	Urgency - urination	180	1	1
+4546731000006118	Poor flow of urine	179	1	1
+7384001000006118	Primary nocturnal enuresis	172	1	1
+5269431000006113	Desire for urination	151	1	1
+295453015	Non-organic enuresis NOS	134	1	1
+3178831000006117	Enuresis	122	1	1
+4590171000006110	Urine incontinence	96	1	1
+2627811000006117	Wets bed	84	1	1
+5097221000006114	Cough - urge incontinence of urine	79	1	1
+5577001000006119	Bladder control - child	63	1	1
+2854051000006113	Urinary stress incontinence	60	1	1
+2627801000006115	Nocturnal incontinence of urine	59	1	1
+4590291000006119	Weak bladder	57	1	1
+4421401000006119	Bladder control	55	1	1
+6839981000006117	Mixed incontinence	51	1	1
+255187012	On examination - micturition reflex abnormal - retention	47	1	1
+1936691000006114	Postural urinary incontinence	41	1	1
+4590281000006117	Loss of bladder control	35	1	1
+4590221000006116	Lack of bladder control	28	1	1
+6694681000006111	Irritable bladder	28	1	1
+4590271000006115	Bladder incontinence	23	1	1
+2854021000006116	Stress bladder incontinence	21	1	1
+3720881000006111	Urgency to micturate	19	1	1
+4081221000006110	Difficulty in voiding	19	1	1
+5097241000006119	Orgasmic incontinence of urine	19	1	1
+5097261000006115	Post-micturition dribbling	19	1	1
+7384011000006115	Secondary nocturnal enuresis	17	1	1
+2594851000006110	Urinary hesitancy	17	1	1
+3978561000006114	Reflex incontinence of urine	15	1	1
+3776311000006113	Double incontinence - urine and stool	14	1	1
+4590211000006112	Unable to hold urine	12	1	1
+4081231000006113	Difficulty in urination	12	1	1
+255188019	O/E- micturition reflex abnormal retention and overflow	11	1	1
+7383961000006119	Intermittent urinary incontinence	11	1	1
+4590231000006118	Involuntary urination	10	1	1
+4196111000006110	Nocturnal AND diurnal enuresis	10	1	1
+3514654019	Stress incontinence with pelvic organ prolapse	10	1	1
+3720891000006114	Urging to urinate	9	1	1
+4590201000006114	Unable to control bladder	8	1	1
+6694661000006118	Bladder irritability	7	1	1
+2638901000006110	Diurnal enuresis	7	1	1
+6026151000006118	Provision of enuresis alarm	6	1	1
+6342721000006113	Urinary incontinence due to urethral sphincter incompetence	6	1	1
+7033781000006117	Incontinence due to detrusor instability	6	1	1
+3478371000006111	Female urinary stress incontinence	4	1	1
+3923201000006119	Lack of bladder control if desire urgent	4	1	1
+5097301000006112	Psychogenic urinary incontinence	4	1	1
+7259051000006115	Stress incontinence after prostatectomy	4	1	1
+7383991000006110	Non-organic nocturnal enuresis	4	1	1
+2854031000006118	Incontinence when straining	3	1	1
+4431911000006111	Urinary incontinence with continuous leakage	3	1	1
+5097271000006110	PMD - Post-micturition dribbling	3	1	1
+7295341000006110	Male urinary stress incontinence	3	1	1
+4590251000006113	UI - Urinary incontinence	2	1	1
+2854061000006110	GSI - Genuine stress incontinence	2	1	1
+4546751000006113	Weak urinary stream	2	1	1
+6342731000006111	Urinary sphincter weakness incontinence	2	1	1
+4421431000006110	Bladder control, function	1	1	1
+4590241000006111	Unable to hold fluids	1	1	1
+4590261000006110	Absence of bladder continence	1	1	1
+4590161000006115	Unable to prevent bladder emptying	1	1	1
+6026141000006115	Provision of enuretic alarm	1	1	1
+7356231000006118	Incontinence without sensory awareness	1	1	1
+3636273016	Urge incontinence due to prolapse of female genital organ	1	1	1
+3636274010	Mixed incontinence due to prolapse of female genital organ	1	1	1
+4421421000006112	Urinary control	NA	1	0
+6026131000006113	Provision of nocturnal bladder warning system	NA	1	0
+12704501000006111	Nocturnal bladder warning syst	NA	1	0
+3720821000006112	Urinary precipitancy	NA	1	0
+3720871000006113	Precipitancy of urine	NA	1	0
+3720861000006118	Must hurry to pass urine	NA	1	0
+3776301000006110	Total incontinence	NA	1	0
+3923181000006115	Must urinate at once with urge	NA	1	0
+3923191000006117	Lack of bladder control if desire resisted	NA	1	0
+8036861000006119	Urinary urgency due to benign prostatic hypertrophy	NA	1	0
+8036891000006110	Urinary incontinence due to benign prostatic hypertrophy	NA	1	0
+4544171000006112	History of stress incontinence	NA	1	0
+12454201000006113	O/E - mict.refl.abn.-retention	NA	1	0
+4571151000006117	On examination - micturition reflex abnormal - retention	NA	1	0
+12453451000006111	O/E-mict.refl.abn-ret+overflow	NA	1	0
+4571191000006111	On examination - micturition reflex abnormal retention and overflow	NA	1	0
+4571171000006110	O/E- micturition reflex abnormal retention and overflow	NA	1	0
+5097291000006111	Dependency urinary incontinence	NA	1	0
+5269441000006115	Urge for micturition	NA	1	0
+5269551000006117	Passive incontinence	NA	1	0
+6460041000006116	Neurogenic incontinence	NA	1	0
+6594181000006112	Paradoxic incontinence	NA	1	0
+6594191000006110	Paradoxical incontinence	NA	1	0
+6694691000006114	Unstable bladder	NA	1	0
+6694671000006113	Bladder instability	NA	1	0
+7175671000006116	Neurogenic bladder as late effect of cerebrovascular accident	NA	1	0
+7383971000006114	Non-organic primary nocturnal enuresis	NA	1	0
+7383981000006112	Non-organic secondary nocturnal enuresis	NA	1	0
+3278161000006118	Autonomic reflex inhibition of micturition	NA	1	0
+2594861000006112	Urinary hesitation	NA	1	0
+3491671000006115	DI - Detrusor instability	NA	1	0
+3491651000006113	Detrusor dyssynergia	NA	1	0
+3558181000006119	Automatic micturition	NA	1	0
+7856561000006114	Urinary incontinence co-occurrent and due to prolapse of female genital organ	NA	1	0
+7856571000006119	Urinary incontinence with prolapse of female genital organ	NA	1	0
+3514653013	Stress incontinence co-occurrent and due to pelvic organ prolapse	NA	1	0
+3636271019	Overflow incontinence of urine due to prolapse of female genital organ	NA	1	0
+12082301000006111	Double incontinence in childhood	NA	1	0
+12082291000006110	Childhood double incontinence	NA	1	0
+3978571000006119	Reflex emptying of bladder	NA	1	0
+3978581000006116	Reflex urinary incontinence	NA	1	0

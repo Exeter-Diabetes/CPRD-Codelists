@@ -1,881 +1,889 @@
-medcodeid	term_medcode
-476611000006116	Alcoholic cirrhosis of liver
-6947471000006110	Alcoholic liver cirrhosis
-6947461000006115	Alcoholic cirrhosis
-126721013	Florid cirrhosis
-2576980018	Portal cirrhosis
-6941931000006112	Laennec's cirrhosis
-2579818016	Laennec's cirrhosis
-303442010	Portal cirrhosis unspecified
-6941941000006119	PC - Portal cirrhosis
-3165691000006115	ALD - Alcoholic liver disease
-303399018	Alcoholic liver damage
-3165681000006118	Alcoholic liver disease
-396390012	Multilobular portal cirrhosis
-493707012	Hypertrophic portal cirrhosis
-3206871000006111	Macronodular cirrhosis
-3206891000006112	PNC - Postnecrotic cirrhosis
-731231000006114	Macronodular cirrhosis of liver
-3206901000006111	Multilobar cirrhosis
-211821000006111	Postnecrotic cirrhosis of liver
-303419015	Diffuse nodular cirrhosis
-303420014	Fatty portal cirrhosis
-303425016	Capsular portal cirrhosis
-396391011	Cardiac portal cirrhosis
-123999018	Congestive cirrhosis
-3713571000006114	Congestive cirrhosis
-3713561000006119	Cardiac cirrhosis
-396392016	Juvenile portal cirrhosis
-303404016	Autoimmune chronic active hepatitis
-553311000006111	Chronic aggressive hepatitis
-4787151000006116	CAH - Chronic aggressive hepatitis
-303401012	Chronic active hepatitis
-4787131000006111	CAH - Chronic active hepatitis
-550431000006116	Childhood function cirrhosis
-2598551000006118	ICC - Indian childhood cirrhosis
-11267010	Indian childhood cirrhosis
-2598561000006116	Cirrhosis-familial with pulmonary hypertension
-303437019	Bacterial portal cirrhosis
-4787261000006114	Zooparasitic portal cirrhosis
-303440019	Zooparasitic portal cirrhosis
-303441015	Infectious cirrhosis
-396393014	Non-alcoholic cirrhosis NOS
-5493051000006111	Cirrhosis of liver not due to alcohol
-221111000000114	Cirrhosis - non-alcoholic
-5493041000006114	Cirrhosis, nonalcoholic
-603321000006118	Cryptogenic cirrhosis
-303781011	[X]Other and unspecified cirrhosis of liver
-2816681000006110	CL - Cirrhosis of liver
-2816671000006112	Hepatic cirrhosis
-353613017	Cirrhosis of liver
-353621011	Laennec's cirrhosis, non-alcoholic
-5086991000006115	Laennec cirrhosis, non-alcoholic
-3515871000006112	Fibrosis of liver
-103853010	Hepatic fibrosis
-820381000006112	Hepatic fibrosis
-21289010	Secondary biliary cirrhosis
-303452014	Biliary cirrhosis of children
-303453016	Biliary cirrhosis NOS
-2526461000006113	Chronic nonsuppurative destructive cholangitis
-4044018	Biliary cirrhosis
-2526441000006114	Cholangitic cirrhosis
-2526451000006111	Cholestatic cirrhosis
-353587018	Alcoholic hepatitis
-5086741000006114	AH - Alcoholic hepatitis
-303393017	Cirrhosis and chronic liver disease
-303458013	Portal fibrosis without cirrhosis
-303518014	Toxic liver disease with fibrosis and cirrhosis of liver
-83834016	Alcoholic fatty liver
-3315041000006111	Alcoholic steatosis
-3315061000006110	Alcoholic fatty liver disease
-286879013	Chronic viral hepatitis B without delta-agent
-4407011000006114	Chronic type C viral hepatitis
-557071000006112	Chronic hepatitis C
-557081000006110	Chronic viral hepatitis, unspecified
-288169017	[X]Other chronic viral hepatitis
-288170016	[X]Chronic viral hepatitis, unspecified
-17930015	Chronic viral hepatitis
-3010811000006111	Primary biliary cholangitis
-3010831000006117	Hanot's cirrhosis
-52980015	Primary biliary cirrhosis
-4787861000006113	PSC - Primary sclerosing cholangitis
-303614019	Primary sclerosing cholangitis
-17390014	Acute alcoholic hepatitis
-2658601000006116	Acute alcoholic liver disease
-286868015	Viral hepatitis C with coma
-7302012	Viral hepatitis
-286870012	Other specified viral hepatitis without coma
-288168013	[X]Other specified acute viral hepatitis
-303497017	Hepatitis in other viral disease
-303499019	Hepatitis in viral diseases EC NOS
-1601000006112	Other specified viral hepatitis without mention of coma NOS
-303491016	Hepatitis in viral diseases EC
-2558581000006119	VH - Viral hepatitis
-286867013	Other specified viral hepatitis with coma
-286869011	Other specified viral hepatitis with hepatic coma NOS
-286882015	Unspecified viral hepatitis
-432411000006115	[X]Viral hepatitis
-286876018	Unspecified viral hepatitis with coma
-4787031000006110	ALF - Acute liver failure
-303381014	Acute hepatic failure
-303379012	Acute liver failure
-303388015	Subacute hepatic failure
-324976011	Liver transplant failure and rejection
-325080013	Hepatic failure as a complication of care
-325079010	Liver failure as a complication of care
-6617771000006112	Bronze cirrhosis
-1786709019	Pigmentary cirrhosis of liver
-6617781000006110	Bronzed cirrhosis
-451442010	Oesophageal varices in cirrhosis of the liver
-5975531000006117	Esophageal varices in cirrhosis of the liver
-5992721000006114	Esophageal varices in alcoholic cirrhosis of the liver
-453265010	Oesophageal varices in alcoholic cirrhosis of the liver
-353594015	Alcoholic fibrosis and sclerosis of liver
-353595019	Alcoholic hepatic failure
-55851000006118	Xanthomatous portal cirrhosis
-5524681000006114	Cirrhosis secondary to cholestasis
-451124014	Chronic alcoholic hepatitis
-353625019	Hepatic sclerosis
-353627010	Hepatic fibrosis with hepatic sclerosis
-1786211000006116	Fatty liver
-1786201000006119	Fatty change of liver
-303463012	Steatosis of liver
-4787331000006113	Hepatic lipidosis
-7266931000006113	NASH - Nonalcoholic steatohepatitis
-2819666013	Nonalcoholic steatohepatitis
-2693857014	History of hepatitis B
-4596171000006113	HBsAg positive
-820791000006114	Hepatitis B surface antigen positive
-257841016	Hepatitis e antigen present
-4596181000006111	Hepatitis Be antigen present
-459095018	Hepatitis C antibody test positive
-3574401000006110	Type B viral hepatitis
-3574441000006112	Hepatitis B infection
-109733012	Serum hepatitis
-61061000006116	Serum hepatitis
-3574451000006114	Viral hepatitis type B
-3574421000006117	Hepatitis B
-3574431000006119	SH - Serum hepatitis
-3321231000006119	Type C viral hepatitis
-286871011	Viral hepatitis C
-3321251000006114	Viral hepatitis type C
-84516016	Hepatitis C
-353575013	Acute delta-(super)infection of hepatitis B carrier
-5086601000006117	Hepatitis D superinfection of hepatitis B carrier
-353580016	Chronic viral hepatitis B with delta-agent
-5086651000006118	Chronic viral hepatitis B with hepatitis D
-3507191000006112	Chronic type B viral hepatitis
-1232261014	Chronic viral hepatitis B
-3482741000006114	Congenital hepatitis B
-582851000006119	Congenital viral hepatitis B infection
-2159899016	Autoimmune hepatitis
-286862019	Hepatic coma due to viral hepatitis B
-2919481000006111	Viral hepatitis B with hepatic coma
-4786991000006110	Acute yellow atrophy of liver
-4786981000006112	Massive hepatic necrosis
-2619492010	Acute yellow atrophy
-303377014	Acute necrosis of liver
-303385017	Acute necrosis of liver NOS
-303389011	Subacute yellow atrophy
-4787101000006115	Subacute yellow atrophy of liver
-303387013	Subacute necrosis of liver
-4787061000006118	Subacute hepatic necrosis
-886491000006111	Acute/subac. necrosis of liver
-303376017	Acute and subacute liver necrosis
-303392010	Acute and subacute liver necrosis NOS
-3684461000006114	Hepatocerebral intoxication
-120980011	Hepatic coma
-359011000006113	[X] Liver failure
-3473231000006113	Hepatic insufficiency
-353596018	Liver failure
-99549014	Hepatic failure
-3473241000006115	Liver function failure
-358961000006119	[X] Hepatic failure
-3473251000006118	Liver decompensation
-353597010	Hepatic failure NOS
-2783891000006116	Infarction of liver
-30226018	Hepatic infarction
-2783881000006119	Infarct of liver
-303512010	Toxic liver disease with hepatic necrosis
-2534188017	Acute hepatic failure due to drugs
-303521011	Central haemorrhagic necrosis of liver
-4787621000006118	Central hemorrhagic necrosis of liver
-268812014	Open operations on oesophageal varices
-114801000006118	Tanner devascularisation for bleeding varices
-4656461000006114	Open operations on esophageal varices
-394102015	Other specified open operation on oesophageal varices
-268827014	Open operation on oesophageal varices NOS
-3595991000006116	Ligation of esophageal varices
-862761000006111	Oesophageal vessels ligated
-737961000006116	Ligation of oesophageal varices
-862771000006116	Oesophageal varices injected
-268819017	Open injection sclerotherapy to oesophageal varices
-4656511000006112	Open injection sclerotherapy to esophageal varices
-4656751000006116	Fiberoptic endoscopic injection sclerotherapy to esophageal varices
-4656741000006118	Fibreoptic oesophagoscopy and injection sclerotherapy of varices
-708811000006119	Fibreoptic endoscopic injection sclerotherapy to oesophageal varices
-4656761000006119	Fiberoptic esophagoscopy and injection sclerotherapy of varices
-4656791000006110	Fiberoptic endoscopic banding of esophageal varices
-4656781000006112	Fibreoptic oesophagoscopy and banding of oesophageal varices
-4656811000006114	Fiberoptic esophagoscopy and banding of esophageal varices
-268885015	Fibreoptic endoscopic banding of oesophageal varices
-163571000006112	Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope
-4657131000006113	Rigid oesophagoscopy and injection sclerotherapy of varices
-4657151000006118	Rigid esophagoscopy and injection sclerotherapy of varices
-4657161000006116	Endoscopic injection sclerotherapy to varices of esophagus using rigid esophagoscope
-987751000006119	Oesophageal varices injected
-4657171000006111	Rigid oesophagoscopy and banding of oesophageal varices
-4657191000006112	Rigid esophagoscopy and banding of esophageal varices
-268957016	Rigid oesophagoscopic banding of oesophageal varices
-4657181000006114	Rigid esophagoscopic banding of esophageal varices
-267161000006118	Oesophageal tamponade
-4657411000006114	Balloon tamponade of esophagus
-4657391000006114	Balloon tamponade of esophageal varices
-4657381000006111	Balloon tamponade of oesophagus
-4657401000006111	Balloon tamponade of oesophageal varices
-2786011000006112	Hepatic transplantation
-2786021000006116	LTx - Liver transplant
-2786001000006114	Tx - Liver transplantation
-270234015	Transplantation of liver NOS
-30458014	Transplantation of liver
-270233014	Other specified transplantation of liver
-864281000006116	Liver transplant
-864291000006118	Total hepatectomy
-31211000006119	Orthotopic transplantation of liver
-4661761000006116	Orthotopic transplantation of liver
-4661751000006118	Orthotopic liver transplant
-376141000000113	Orthotopic transplantation of liver NEC
-225661000006111	Piggy back liver transplant
-4661791000006112	Piggy-back liver transplant
-822591000006117	Heterotopic liver transplant
-500401000006116	Auxillary liver transplant
-4661781000006114	Auxiliary liver transplant
-270232016	Replacement of previous liver transplant
-352929018	Exploration of liver transplant
-68294019	Viral hepatitis with hepatic coma
-288171017	Hepatic coma due to viral hepatitis
-2824421000006113	Poliodystrophy
-2824401000006115	Gray matter degeneration
-2824411000006117	Spongy glioneuronal dystrophy
-2824381000006115	Progressive sclerosing poliodystrophy
-2824391000006117	Alpers' disease
-1222437010	Alper's disease
-2824431000006111	Progressive neuronal degeneration with liver cirrhosis
-2781081000006114	BOV - Bleeding esophageal varices
-2781071000006111	Esophageal varices with bleeding
-2781021000006110	Bleeding esophageal varices
-2781041000006115	Oesophageal varices with haemorrhage
-2781031000006113	Esophageal varices with hemorrhage
-1216060010	Oesophageal varices with bleeding
-2781061000006116	BOV - Bleeding oesophageal varices
-2781011000006119	Bleeding oesophageal varices
-24192017	Oesophageal varices without bleeding
-2725291000006114	Esophageal varices without bleeding
-300784019	Oesophageal varices in diseases EC NOS
-4779691000006115	Oesophageal varices associated with another disorder
-4779711000006117	Esophageal varices associated with another disorder
-300775019	Oesophageal varices in diseases EC
-4779741000006118	Esophageal varices with bleeding, associated with another disorder
-4779721000006113	Oesophageal varices with bleeding, associated with another disorder
-300776018	Oesophageal varices with bleeding in diseases EC
-300779013	Oesophageal varices without bleeding in diseases EC
-4779771000006114	Esophageal varices without bleeding, associated with another disorder
-4779751000006116	Oesophageal varices without bleeding, associated with another disorder
-3980471000006110	Gastric varix
-150964016	Gastric varices
-456800015	Oesophageal varices NOS
-2960651000006110	Esophageal varix
-2960631000006115	OV - Oesophageal varices
-300993011	[X]Oesophageal varices in diseases classified elsewhere
-2960641000006113	Oesophageal varix
-2960621000006118	Esophageal varices
-48003016	Oesophageal varices
-2960661000006112	OV - Esophageal varices
-127487019	Chronic hepatitis
-303409014	Chronic hepatitis unspecified
-303410016	Chronic hepatitis NOS
-3748781000006119	CH - Chronic hepatitis
-69895016	Chronic persistent hepatitis
-3175071000006117	CPH - Chronic persistent hepatitis
-303407011	Recurrent hepatitis
-303414013	Unilobular portal cirrhosis
-2753761000006112	Mixed micro AND macronodular cirrhosis
-477604016	Mixed portal cirrhosis
-303433015	Pigmentary portal cirrhosis
-226161000006113	Pipe-stem portal cirrhosis
-4787221000006115	Pipestem portal cirrhosis
-303435010	Toxic portal cirrhosis
-303439016	Syphilitic portal cirrhosis
-3796401000006114	Fatty metamorphosis of liver
-303456012	Chronic nonalcoholic liver disease
-3828211000006115	Chronic yellow atrophy
-3828201000006118	Chronic yellow atrophy of liver
-504762019	Chronic yellow liver atrophy
-303464018	Other non-alcoholic chronic liver disease NOS
-303465017	Chronic liver disease
-303489012	Liver abscess and chronic liver disease causing sequelae NOS
-303466016	Liver abscess and sequelae of chronic liver disease
-57989014	Portal hypertension
-3059491000006115	PHT - Portal hypertension
-3331281000006115	HRF - Hepatorenal failure
-3331291000006117	Hepatorenal failure
-85441018	Hepatorenal syndrome
-3059391000006113	Nutmeg liver
-555881000006114	Chronic passive liver congestion
-3059381000006110	Chronic passive congestion of liver
-303515012	Toxic liver disease with chronic persistent hepatitis
-303516013	Toxic liver disease with chronic lobular hepatitis
-303517016	Toxic liver disease with chronic active hepatitis
-303525019	Hepatic granulomas in sarcoidosis
-128627011	Biliary atresia
-314035016	Biliary atresia NOS
-3760701000006115	BA - Biliary atresia
-3760691000006115	Atresia of bile ducts
-3760671000006116	Congenital biliary atresia
-221941000000113	Atresia of bile duct
-511611000006113	Bile duct atresia
-3268012	Congenital absence of bile duct
-2518931000006117	Agenesis of bile duct
-3269016	Agenesis of bile duct
-113108015	Congenital hypoplasia of bile duct
-3607721000006115	Congenital short bile duct
-5334681000006114	Intrahepatic biliary atresia
-768541000006118	Intrahepatic atresia of bile duct
-3847451000006117	Extrahepatic biliary atresia
-3847461000006115	EHBA - Extrahepatic biliary atresia
-660151000006116	Extrahepatic atresia of bile duct
-3847441000006119	Congenital atresia of extrahepatic bile duct
-314032018	Congenital absence of hepatic ducts
-314033011	Agenesis of hepatic ducts
-314034017	Atresia of hepatic ducts
-3011321000006119	Watson-Alagille syndrome
-3011301000006112	Arteriohepatic dysplasia
-53033015	Alagille syndrome
-325081012	Hepatorenal syndrome as a complication of care
-5077191000006113	Balloon tamponade of esophagus using Sengstaken-Blakemore tube
-5077161000006117	Sengstaken intubation of esophagus
-352566017	Sengstaken intubation of oesophagus
-5077141000006116	Balloon tamponade of oesophagus using Sengstaken-Blakemore tube
-5077151000006119	Blakemore intubation of esophagus
-352567014	Blakemore intubation of oesophagus
-5077201000006111	Balloon tamponade of oesophagus using Minnesota tube
-5077211000006114	Balloon tamponade of esophagus using Minnesota tube
-5086671000006111	Chronic non-A non-B hepatitis
-5086821000006114	FHF - Fulminant hepatic failure
-5086811000006118	Fulminant hepatic failure
-5086831000006112	Subfulminant hepatic failure
-5086841000006119	Chronic hepatic failure
-95368015	Chronic lobular hepatitis
-3431801000006116	CLH - Chronic lobular hepatitis
-5086951000006114	Drug-induced chronic hepatitis
-2847631000006117	Micronodular cirrhosis
-5087011000006114	Hypoxia-associated cirrhosis
-4353641000006110	Toxic cirrhosis
-132070012	Congenital hepatic fibrosis
-5087021000006118	Pericellular fibrosis of congenital syphilis
-5087041000006113	Portal and splenic vein sclerosis
-5087061000006112	Intrahepatic phlebosclerosis and fibrosis
-5087201000006117	Liver transplant disorder
-5087211000006119	Liver transplant rejection
-5087221000006110	Liver transplant failure
-5087301000006113	Ichthyosis congenita with biliary atresia
-7084841000006114	Hepatocyte transplantation
-363051000000111	Transplantation of liver cells
-7084831000006116	Transplantation of hepatocytes
-2676200013	Orthotopic transplantation of whole liver
-2675247013	Liver disease due to cystic fibrosis
-3527364013	Transplanted liver present
-3532180010	Liver transplant recipient
-12458801000006116	[V]Liver transplanted
-460651015	Transplanted liver present
-49567015	Glycogen storage disease
-480671000006116	Amylopectinosis
-803941000006118	Glycogenosis of liver and muscle
-803951000006116	Glycogenosis of liver and muscle
-2976621000006110	Glycogenosis
-2976631000006113	GSD - Glycogen storage disease
-803921000006113	Glycogenosis - glycogen storage disease
-803961000006119	Glycogenosis with hepatic cirrhosis
-293190013	Other specified glycogenosis
-293191012	Glycogenosis NOS
-19362016	Andersen's disease
-1495570018	Glycogenosis, type 4
-2678011000006114	Glycogen storage disease, type 4
-2677991000006118	Andersen disease
-2677951000006112	GSD IV
-2677911000006111	1,4,alpha-glucan 6-alpha-glucosyltransferase deficiency
-2677921000006115	Brancher deficiency glycogen storage disease
-2677901000006113	Glycogen storage disease, type IV
-2677981000006116	Glycogen storage disease type IV
-2677971000006119	Branching enzyme deficiency
-2677961000006114	Branching-transferase deficiency glycogenosis
-2677931000006117	Amylopectinosis
-6618761000006118	Haemochromatosis
-813401000006113	Hemochromatosis
-6618731000006110	Haemochromatosis
-6618751000006115	Iron storage disease
-6618061000006116	Bronze diabetes
-1786715019	Bronzed diabetes
-3070271000006114	Familial hemochromatosis
-3070281000006112	Familial haemochromatosis
-3070251000006116	Hereditary haemochromatosis
-3070261000006119	Hereditary hemochromatosis
-63781000006112	Von Recklinghausen - Applebaum disease
-1736361000000112	Cystic fibrosis related cirrhosis
-8242561000006112	Cirrhosis associated with cystic fibrosis
-8234961000006111	Hepatitis C viral RNA PCR (ribonucleic acid polymerase chain reaction) positive
-1766481000006112	Hepatitis C viral ribonucleic acid polymerase chain reaction positive
-1739601000000111	Hepatitis C PCR positive
-2118321000000118	Hepatitis C antigen positive
-2146441000000113	Hepatitis C genotype 1
-2146461000000114	Hepatitis C genotype 2
-2146501000000114	Hepatitis C genotype 3
-2146521000000117	Hepatitis C genotype 4
-538121000000117	Other specified compensation for liver failure
-538081000000115	Compensation for liver failure
-538101000000114	Liver failure support management
-303391015	Subacute necrosis of liver NOS
-303527010	Other specified liver disorder
-395261000006113	[X]Liver disorders in infectious and parasitic diseases CE
-303532011	Liver disease
-303531016	Other specified liver disorder NOS
-5086481000006111	Hepatopathy
-740781000006110	Liver anomalies
-303783014	Disease of liver
-303779014	[X]Diseases of the liver
-303490015	Other liver disorders
-303785019	[X]Liver disorders in other diseases classified elsewhere
-396394015	Other sequelae of chronic liver disease
-5086501000006118	Disorder of liver
-314015017	Liver anomaly, unspecified
-5086511000006115	LD - Liver disease
-2720841000006110	Hepatocerebral encephalopathy
-221131000000118	Hepatic encephalopathy
-2720851000006112	HE - Hepatic encephalopathy
-7065101000006116	Fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
-1544611000006117	Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
-12456711000006114	[V]Assessment for liver transplant
-461319017	[V]Assessment for liver transplant
-2507081000006119	Glissonian cirrhosis
-2516171000006116	Chronic aggressive type B viral hepatitis
-2560511000006119	Structure of transplanted liver
-2560521000006110	Transplanted liver
-2560711000006114	Failed attempted abortion with acute yellow atrophy of liver
-2560701000006111	Failed attempted termination of pregnancy with acute necrosis of liver
-2560721000006118	Failed attempted abortion with acute necrosis of liver
-2577341000006117	Acute toxic hepatitis
-2591931000006110	Legal termination of pregnancy with acute necrosis of liver
-2591951000006115	Legal abortion with acute necrosis of liver
-2591941000006117	Legal abortion with acute yellow atrophy of liver
-11790131000006117	Product containing hepatitis B immunoglobulin (human)
-11790151000006112	Hepatitis B immunoglobulin of human origin
-2652141000006112	Hepatitis B immune globulin (human)
-2652131000006119	Hepatitis B immunoglobulin
-2652161000006111	Antihepatitis B immunoglobulin
-2652151000006114	HBIG
-12168511000006111	Hepatitis B surface antigen immunoglobulin product
-11790141000006110	Hepatitis B immunoglobulin (human)
-2656731000006119	Chronic lymphocytic cholangitis-cholangiohepatitis
-2658301000006110	Perinatal jaundice due to foetal OR neonatal hepatitis
-2658271000006113	Perinatal jaundice due to fetal OR neonatal hepatitis
-2658281000006111	Perinatal jaundice due to giant cell hepatitis
-2536512019	Giant cell hepatitis causing neonatal jaundice
-2682331000006110	Antibody to hepatitis B core antigen, immunoglobulin M type
-2682321000006112	Anti HB IgM type
-2682311000006116	Antibody to hepatitis B core antigen, IgM type
-2692251000006110	Ligation of gastric varices
-2692261000006112	Ligation of varicose veins of stomach
-2710421000006113	Acute fulminating type B viral hepatitis
-2754811000006115	Toxic noninfectious hepatitis
-2754831000006114	Hepar lobatum
-2754821000006111	Syphilitic cirrhosis
-2779711000006113	Hepatitis B e antibody
-2779681000006112	Antibody to hepatitis Be antigen
-2779691000006110	Anti HBe
-2779701000006110	Hepatitis B virus associated e antibody
-2780581000006113	Hepatitis caused by acquired toxoplasmosis
-2780571000006110	Hepatitis due to acquired toxoplasmosis
-2792661000006119	Hepatitis C virus recombinant immunoblot measurement
-2792671000006114	HCV by RIBA measurement
-2812521000006111	Lupoid hepatitis
-2812511000006115	Lupus hepatitis
-2855161000006110	Hb>s< Ag
-2855171000006115	Australian antigen
-2855181000006117	Hepatitis B surface antigen
-2855151000006113	Hepatitis B virus surface antigen
-72021000033110	Hepatitis B Surface Antigen
-2858671000006117	Hepatic failure due to a procedure
-2858681000006119	Postprocedural hepatic failure
-2864041000006118	Hepatorenal syndrome following delivery
-2896171000006116	Bleeding gastric varices
-43471011	Fibrosis of pancreas
-2915211000006119	Cirrhosis of pancreas
-2935051000006118	Posthepatitic cirrhosis
-2937111000006111	Liver transplant with recipient hepatectomy
-2949531000006115	Liver transplant without recipient hepatectomy
-2962351000006117	Transfusion hepatitis
-2962331000006112	Posttransfusion viral hepatitis
-2962341000006119	Posttransfusion hepatitis
-2999971000006115	Postprocedural hepatorenal syndrome
-2999961000006110	Hepatorenal syndrome due to a procedure
-3033421000006115	Parasitic cirrhosis
-3033691000006115	Complication of transplanted liver
-3100831000006113	Acute yellow atrophy of liver following molar AND/OR ectopic pregnancy
-3100841000006115	Acute necrosis of liver following molar AND/OR ectopic pregnancy
-3106821000006112	Clonorchiasis with biliary cirrhosis
-3122251000006114	Chronic immune tolerant hepatitis B
-3122241000006112	Chronic persistent type B viral hepatitis
-3151011000006114	Spontaneous abortion with acute yellow atrophy of liver
-3151001000006111	Miscarriage with acute necrosis of liver
-3151031000006115	Miscarriage with acute yellow atrophy of liver
-3151021000006118	Spontaneous abortion with acute necrosis of liver
-3312561000006112	Chronic active type B viral hepatitis
-3367271000006118	Radiation hepatitis
-3409091000006113	Oriental cholangiohepatitis
-3446751000006119	Nutritional edema with dyspigmentation of skin AND/OR hair
-3446761000006117	Nutritional oedema with dyspigmentation of skin AND/OR hair
-3446711000006115	Malignant malnutrition
-3446721000006111	Deposed child syndrome
-3446731000006114	Fatty liver of Brahmin children
-3446741000006116	Protein malnutrition
-96824017	Kwashiorkor
-3447041000006117	Relapsing viral hepatitis
-3475171000006115	Chronic persistent viral hepatitis
-3484541000006114	Hbe Ag
-3484531000006116	Hepatitis B associated e antigen
-3484521000006119	Hepatitis B e antigen
-3484551000006111	Hepatitis E antigen
-3490971000006119	Hepatitis E antigen measurement
-3492541000006115	Hepatitis D antibody measurement
-3510791000006110	Familial arthrogryposis - cholestatic hepatorenal syndrome
-3510781000006112	Lethal familial cholestatic AND pigmentary liver disease
-3510771000006114	Familial arthrogryposis-cholestatic hepatorenal syndrome
-3523221000006115	Hepatitis C virus
-3523231000006117	HCV - Hepatitis C virus
-3527631000006111	Infectious necrotic hepatitis
-3527651000006116	Infection caused by Clostridium novyi
-3527621000006113	Infection due to Clostridium novyi
-3527641000006118	Black disease
-3587281000006119	Chronic active viral hepatitis
-3634881000006112	Neonatal hepatitis
-3634891000006110	Giant cell hepatitis
-3636581000006118	Icterus gravis of pregnancy
-3636591000006115	Acute yellow atrophy of liver during pregnancy
-3678071000006110	Subacute noninfective hepatitis
-122921000006118	Subacute hepatitis - noninfective
-3678081000006113	Subacute non-infective hepatitis
-3738321000006116	Anti HBc IgG type
-3738331000006118	Antibody to hepatitis B core antigen, immunoglobulin G type
-3738311000006112	Antibody to hepatitis B core antigen, IgG type
-3748931000006118	Acute hepatitis B
-3748921000006116	Acute type B viral hepatitis
-3772081000006115	Pigment cirrhosis
-3808311000006118	Stapling of gastric varices
-133978014	Secondary syphilitic hepatitis
-3813641000006119	Secondary syphilis of liver
-3828021000006119	HBV - Hepatitis B virus
-3828011000006110	Serum hepatitis virus
-3828001000006112	Hepatitis B virus
-3860591000006116	Delta agent
-3860561000006112	Hepatitis D virus
-3860571000006117	Delta hepatitis viral agent
-3860581000006119	HDV - Hepatitis D virus
-3905811000006110	Postnecrotic cirrhosis
-3905821000006119	Healed yellow atrophy of liver
-303787010	[X]Granulomatous hepatitis, not elsewhere classified
-806841000006117	Granulomatous hepatitis
-3937841000006113	Hyperpipecolic acidemia
-3937811000006114	Zellweger syndrome
-3937821000006118	Cerebrohepatorenal syndrome
-3937831000006115	Hyperpipecolic acidaemia
-1235347013	Zellweger's syndrome
-3959541000006116	Chronic aggressive viral hepatitis
-3966001000006110	HBcAg measurement
-3965991000006114	Hepatitis B core antigen measurement
-3973131000006117	Anesthesia for liver transplant, recipient
-3973121000006115	Anaesthesia for liver transplant, recipient
-3975431000006114	Illegal abortion with acute yellow atrophy of liver
-3975441000006116	Illegal abortion with acute necrosis of liver
-3975421000006111	Illegal termination of pregnancy with acute necrosis of liver
-3981401000006111	Necrosis of liver of pregnancy
-4058511000006118	Cholestatic hepatitis
-4170231000006119	Obstructive biliary cirrhosis
-4200821000006111	Viral hepatitis B without hepatic coma
-4200831000006114	Infectious neonatal hepatitis
-4353651000006112	Nutritional cirrhosis
-4353661000006114	Cholangiolitic cirrhosis
-4353671000006119	Septal fibrosis of liver
-4355091000006112	Latent cirrhosis
-4355101000006118	Advanced cirrhosis
-4403611000006113	Acquired portal-systemic shunt due to cirrhosis
-3691681000006119	Injection of esophageal varices by endoscopy
-3691711000006118	Injection of sclerosing agent into oesophageal varices by endoscopy
-3691651000006110	Esophagoscopy for injection of esophageal varices
-3691701000006116	Endoscopic injection of oesophageal varices
-3691731000006112	Injection of oesophageal varices by endoscopy
-3691721000006114	Injection of varicose veins of oesophagus by endoscopy
-3691641000006113	Oesophagoscopy for injection of oesophageal varices
-3691661000006112	Injection of sclerosing agent into esophageal varices by endoscopy
-3691671000006117	Endoscopic injection of esophageal varices
-3691691000006116	Injection of varicose veins of esophagus by endoscopy
-1227539017	[V]SH antigen carrier
-1227541016	[V]Hepatitis Australia antigen carrier
-460192013	[V]Viral hepatitis carrier
-1227540015	[V]Australia antigen carrier
-264367013	Viral hepatitis carrier
-457391000006117	Acute hepatitis B with delta agent (coinfection) with hepatic coma
-457401000006115	Acute hepatitis B with delta-agent (coinfection) without hepatic coma
-4742611000006119	Hepatitis non-A non-B
-821081000006115	Hepatitis non A non B
-293605014	Alpha-1-antitrypsin hepatitis
-4787291000006118	NAFLD - Nonalcoholic fatty liver disease
-303457015	Non-alcoholic fatty liver
-4787481000006117	Quaternary syphilitic hepatitis
-303501010	Hepatitis in late syphilis
-303503013	Hepatitis in secondary syphilis
-99171000006113	Toxic liver disease, unspecified
-303780012	[X]Toxic liver disease with other disorders of liver
-303510019	Toxic liver disease
-303786018	[X]Toxic liver disease, unspecified
-303511015	Toxic liver disease with cholestasis
-303514011	Toxic liver disease with acute hepatitis
-316474016	Congenital viral hepatitis
-316477011	Congenital viral hepatitis NOS
-316476019	Other specified congenital viral hepatitis
-4837241000006117	Congenital hepatitis
-5076631000006115	Operation on oesophageal varices
-5076641000006113	Operation on esophageal varices
-5076881000006115	Sclerotherapy of oesophageal varices
-5076891000006117	Injection of scleroscant into esophageal varices
-5076901000006118	Injection of scleroscant into oesophageal varices
-5076911000006115	Sclerotherapy of esophageal varices
-5077541000006110	Injection of scleroscant into gastric lesion
-5077531000006117	Sclerotherapy of gastric varices
-5077711000006116	Balloon tamponade of stomach
-5077731000006110	Balloon tamponade of gastric varices
-5077721000006112	Balloon tamponade of stomach using Linton-Nachlas tube
-5086591000006113	Acute hepatitis B with hepatitis D
-353576014	Acute hepatitis C
-5086641000006115	Acute non-A non-B hepatitis
-459860017	Hepatitis B carrier
-2474329018	Hepatitis C carrier
-5086771000006118	Ischemic hepatitis
-5086761000006113	Ischaemic hepatitis
-5152281000006113	Symmer pipe-stem fibrosis
-5152261000006115	Symmer's pipe-stem fibrosis
-5152271000006110	Clay pipe-stem cirrhosis
-5153141000006119	Capillaria hepatica hepatitis
-5153151000006117	Hepatic capillariasis
-5161091000006119	Ultrasound scan of transplant liver
-5161081000006117	US scan of transplant liver
-161771000006119	Sawaguchi roux-en-y procedure for biliary atresia
-394251013	Roux-en-Y procedure for biliary atresia
-5538541000006110	Entire transplanted liver
-5586981000006115	Cryptogenic hepatitis in infancy
-5586971000006118	Idiopathic hepatitis in infancy
-5588901000006113	Congenital non-A non-B hepatitis infection
-5619351000006114	Congenital hepatitis C infection
-5903231000006114	Yellow atrophy of the liver
-3151501000006115	IH - Infectious hepatitis
-2598261000006118	Idiopathic neonatal hemochromatosis
-2598271000006113	Idiopathic neonatal haemochromatosis
-2598251000006115	Neonatal hemochromatosis
-2598241000006117	Neonatal haemochromatosis
-3918501000006116	Liver necrosis
-3918491000006112	Hepatic necrosis
-4353631000006117	Acute focal hepatitis
-6342211000006110	Copper storage associated hepatitis
-6346091000006112	Lymphocytic portal hepatitis
-6347341000006116	Hepatitis C antibody positive with elevated alanine transaminase
-6347331000006114	Hepatitis C seropositive with elevated ALT
-6347321000006111	Hepatitis C antibody positive with elevated ALT
-6349661000006117	Early cirrhosis
-6349691000006113	Polymerase chain reaction positive for hepatitis C viral ribonucleic acid genotype 1A
-6349671000006112	PCR positive for hepatitis C viral RNA (genotype 1A)
-6349681000006110	Polymerase chain reaction (PCR) positive for hepatitis C viral ribonucleic acid (genotype 1A)
-6342191000006114	Acute cholangiohepatitis
-7019781000006112	Acute hepatitis B with hepatic coma
-7019801000006111	Hepatic coma due to acute hepatitis B
-7019791000006110	Acute viral hepatitis B with hepatic coma
-7024461000006115	Hepatic coma due to chronic hepatitis B
-7024441000006119	Chronic hepatitis B with hepatic coma
-7024451000006117	Chronic viral hepatitis B with hepatic coma
-12758671000006118	Hepatitis D infection
-12758651000006111	Hepatitis B with delta agent superinfection
-12758641000006114	Viral hepatitis B with hepatitis D superinfection
-1805791000006114	Viral hepatitis D
-12758681000006115	Viral hepatitis B with delta agent superinfection
-12722521000006116	Hepatitis B with hepatitis D superinfection
-12758661000006113	Hepatitis B with delta agent coinfection
-12758691000006117	Viral hepatitis delta
-7032521000006119	Orthohepadnavirus
-7032541000006114	Genus: Hepatitis B virus group
-7032531000006116	Hepatitis B virus group
-7032551000006111	Genus Orthohepadnavirus
-7043971000006117	Drug-induced cirrhosis of liver
-7043981000006119	Drug-induced hepatic cirrhosis
-7068151000006114	Fulminant hepatitis
-7170221000006110	Chronic rejection of liver transplant
-7167121000006113	Hyperacute rejection of liver transplant
-7167181000006112	Accelerated rejection of liver transplant
-7133411000006113	Acute rejection of liver transplant
-7210651000006110	Specimen from transplanted liver obtained by biopsy
-7263471000006113	Hepatitis B and hepatitis C
-7260251000006113	Hepatitis B associated with Human immunodeficiency virus infection
-7261021000006117	Steatohepatitis
-7300021000006118	Sequela of chronic liver disease
-7328421000006117	Reactivation of hepatitis B viral hepatitis
-7329241000006118	Endoscopy of upper gastrointestinal tract and banding of varix of esophagus
-7329191000006118	Endoscopy of upper gastrointestinal tract and banding of varix of oesophagus
-7329231000006111	Endoscopy of upper gastrointestinal tract and banding of esophageal varices
-7329201000006115	Endoscopy of upper gastrointestinal tract and banding of oesophageal varices
-7329221000006113	Oesophagogastroduodenoscopy and banding of oesophageal varices
-7329211000006117	Esophagogastroduodenoscopy and banding of esophageal varices
-7329251000006116	Banding of varix of stomach
-7329261000006119	Banding of gastric varices
-7329291000006110	Endoscopy of upper gastrointestinal tract and injection of varix of oesophagus
-7329311000006114	Endoscopy of upper gastrointestinal tract and injection of oesophageal varices
-7329331000006115	Oesophagogastroduodenoscopy and injection of oesophageal varices
-7329321000006118	Esophagogastroduodenoscopy and injection of esophageal varices
-7329341000006113	Endoscopy of upper gastrointestinal tract and injection of varix of esophagus
-7329301000006111	Endoscopy of upper gastrointestinal tract and injection of esophageal varices
-7328881000006116	Endoscopy of upper gastrointestinal tract and injection of varix of stomach
-7328891000006118	Esophagogastroduodenoscopy and injection of gastric varices
-7328901000006119	Oesophagogastroduodenoscopy and injection of gastric varices
-7328911000006116	Endoscopy of upper gastrointestinal tract and injection of gastric varices
-7329361000006112	Endoscopy of upper gastrointestinal tract and banding of gastric varices
-7329351000006110	Endoscopy of upper gastrointestinal tract and banding of varix of stomach
-7329371000006117	Esophagogastroduodenoscopy and banding of gastric varices
-7329381000006119	Oesophagogastroduodenoscopy and banding of gastric varices
-7329171000006119	Injection of varix of stomach
-7329181000006116	Injection of gastric varices
-7376511000006111	Hepatic encephalopathy in fulminant hepatic failure
-7488491000006118	Hepatitis C virus subtype 1b
-7488631000006119	Hepatitis C virus subtype 1c
-7488571000006115	Hepatitis C virus genotype 1
-7488651000006114	Hepatitis C virus subtype 4b
-7488681000006118	Hepatitis C virus subtype 4e
-7488551000006113	Hepatitis C virus subtype 6a
-7488521000006116	Hepatitis C virus subtype 3a
-7488581000006117	Hepatitis C virus genotype 2
-7488601000006110	Hepatitis C virus genotype 4
-7488621000006117	Hepatitis C virus genotype 6
-7488531000006118	Hepatitis C virus subtype 3b
-7488671000006116	Hepatitis C virus subtype 4d
-7488561000006110	Hepatitis C virus subtype 4a
-7488501000006114	Hepatitis C virus subtype 2a
-7488611000006113	Hepatitis C virus genotype 5
-7488511000006112	Hepatitis C virus subtype 2b
-7488641000006112	Hepatitis C virus subtype 2c
-7488591000006119	Hepatitis C virus genotype 3
-7488541000006111	Hepatitis C virus subtype 5a
-7488661000006111	Hepatitis C virus subtype 4c
-7488481000006116	Hepatitis C virus subtype 1a
-305599019	Acute liver necrosis following abortive pregnancy
-7498361000006116	Induced termination of pregnancy complicated by acute necrosis of liver
-7966991000006113	Chronic hepatitis C with stage 4 fibrosis
-7966981000006110	Cirrhosis of liver due to chronic hepatitis C
-7507931000006118	Transgastric plication of gastric varices
-7516751000006110	Transgastric plication of oesophageal varices
-7516761000006112	Transgastric plication of esophageal varices
-7518231000006111	NAIC - North American Indian childhood cirrhosis
-7518221000006113	North American Indian childhood cirrhosis
-7559281000006114	HMDPC - hypermanganesemia with dystonia, polycythaemia and cirrhosis
-7559271000006111	HMDPC - hypermanganesemia with dystonia, polycythemia and cirrhosis
-7559261000006116	Hypermanganesemia with dystonia, polycythemia, and cirrhosis
-7559251000006118	Hypermanganesemia with dystonia, polycythaemia, and cirrhosis
-7565141000006116	Doppler ultrasound of transplant liver
-7566431000006113	Liver transplant recipient
-7568861000006119	Reactivation of hepatitis C viral hepatitis
-8112141000006113	Chronic hepatitis C with stage 3 fibrosis
-7583121000006113	Chronic hepatitis C with stage 2 fibrosis
-7583471000006115	Hepatitis B virus genotype D
-7583491000006119	Hepatitis B virus genotype F
-7583451000006113	Hepatitis B virus genotype B
-7583441000006111	Hepatitis B virus genotype A
-7583511000006113	Hepatitis B virus genotype H
-7583481000006117	Hepatitis B virus genotype E
-7583501000006110	Hepatitis B virus genotype G
-7583461000006110	Hepatitis B virus genotype C
-8040621000006113	Cryoglobulinaemia due to chronic hepatitis C
-8040631000006111	Cryoglobulinemia due to chronic hepatitis C
-8032261000006117	Cirrhosis of liver due to hepatitis B
-8037721000006115	Glomerulonephritis due to hepatitis C
-7613341000006114	Acute multi-acinar necrosis of liver
-7615611000006119	Hepatitis D virus infection
-7615591000006113	Viral hepatitis D
-7615621000006110	Hepatitis D
-7615601000006117	Viral hepatitis type D
-7617291000006116	Portal hypertension in classical cystic fibrosis
-7617281000006119	Portal hypertension due to cystic fibrosis
-7629961000006118	Chronic active hepatitis C
-8019271000006110	History of portal hypertension
-7686921000006114	Polymerase chain reaction test for Hepatitis C positive
-8458751000006119	Ascites due to alcoholic hepatitis
-8046451000006115	Hepatic coma due to chronic hepatitis C
-8462251000006117	Hepatic coma due to chronic hepatic failure
-8458771000006112	Hepatic coma due to alcoholic liver failure
-8032441000006115	Hepatic coma due to hepatitis
-8039281000006117	Hepatic coma due to acute hepatitis C
-8462171000006115	Hepatic ascites due to chronic alcoholic hepatitis
-8047801000006118	Hepatic coma due to chronic hepatitis B with delta agent
-8467451000006119	Coma due to subacute hepatic failure
-8467441000006116	Hepatic coma due to subacute liver failure
-8458711000006115	Ascites due to alcoholic cirrhosis
-8467501000006117	Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease
-8458621000006115	Hepatic coma due to acute hepatic failure
-8458631000006117	Coma due to acute hepatic failure
-7700651000006119	Chronic alcoholic liver disease
-7703061000006115	Acute on chronic alcoholic liver disease
-7705241000006113	Steatosis of liver caused by retroviral protease inhibitor
-7705251000006110	Fatty liver caused by retroviral protease inhibitor
-7705401000006112	Portal hypertension caused by antiretroviral drug
-7705411000006110	Portal hypertension caused by anti-retroviral drug
-7712051000006112	Occult hepatitis B infection
-7712041000006110	Occult chronic type B viral hepatitis
-7731531000006110	Primary biliary cirrhosis co-occurrent with systemic scleroderma
-7731521000006112	Reynolds syndrome
-7738891000006115	Idiopathic copper associated cirrhosis of liver
-7738901000006116	Non-Wilsonian hepatic copper toxicosis of infancy and childhood
-7743871000006114	Decompensated cirrhosis of liver
-7743881000006112	Decompensated cirrhosis
-7756121000006113	Renal tubulopathy with encephalopathy and liver failure syndrome
-7757271000006117	BASM syndrome
-7757261000006112	Biliary atresia with splenic malformation syndrome
-7757691000006119	Boichis disease
-7757681000006117	Boichis syndrome
-7757701000006119	Nephronophthisis hepatic fibrosis syndrome
-7763571000006119	Gastric varices without bleeding
-7767241000006119	Doppler ultrasound of transplanted liver
-7767231000006112	Doppler ultrasound scan of transplanted liver
-7767221000006114	Doppler ultrasonography of transplanted liver
-7767531000006110	Hepatoportal sclerosis
-7767541000006117	Obliterative portal venopathy
-7803831000006116	Acute infantile liver failure due to synthesis defect of mitochondrial deoxyribonucleic acid encoded protein
-7821631000006114	Fibrosis of liver caused by alcohol
-7821641000006116	Alcoholic fibrosis of liver
-7821651000006119	Autoimmune hepatitis type 1
-7821661000006117	Autoimmune hepatitis type 2
-7821671000006112	Autoimmune hepatitis type 3
-7824371000006115	Gentile syndrome
-7824341000006111	Joubert syndrome with hepatic defect
-7824351000006113	Cerebellar vermis hypoplasia, oligophrenia, congenital ataxia, coloboma, hepatic fibrosis
-7824331000006118	Joubert syndrome with congenital hepatic fibrosis
-7824381000006117	COACH (cerebellar vermis hypoplasia, oligophrenia, congenital ataxia, coloboma, hepatic fibrosis) syndrome
-7824361000006110	COACH syndrome
-7837271000006119	Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis
-7837281000006116	Idiopathic portal hypertension
-7840451000006111	Idiopathic granulomatous hepatitis
-7851551000006119	Neonatal diabetes, congenital hypothyroidism, congenital glaucoma, hepatic fibrosis, polycystic kidney syndrome
-7868601000006115	Cardiomyopathy co-occurrent and due to cirrhosis of liver
-7868591000006111	Cirrhotic cardiomyopathy
-7875291000006110	Cirrhosis of liver caused by methotrexate
-7875301000006111	Cirrhosis of liver caused by amiodarone
-7875311000006114	Cirrhosis of liver caused by methyldopa
-3514567013	Chronic viral hepatitis D
-3514568015	Chronic infection caused by Hepatitis D virus
-3515305014	Cirrhosis of liver with primary sclerosing cholangitis
-3515307018	Cirrhosis of liver co-occurrent and due to primary sclerosing cholangitis
-12031691000006112	Alcoholic steatohepatitis
-12031701000006112	Steatohepatitis caused by ingestible alcohol
-12061221000006116	Chronic hepatitis C caused by hepatitis C virus genotype 6
-12061231000006118	Chronic hepatitis C caused by hepatitis C virus genotype 5
-12064771000006114	Chronic hepatitis C caused by Hepatitis C virus genotype 3
-12066921000006115	Chronic hepatitis C caused by Hepatitis C virus genotype 2
-12066931000006117	Chronic hepatitis C caused by Hepatitis C virus genotype 4
-12066941000006110	Chronic hepatitis C caused by Hepatitis C virus genotype 1
-12070031000006113	Chronic hepatitis C caused by Hepatitis C virus genotype 1b
-12070041000006115	Chronic hepatitis C caused by Hepatitis C virus genotype 1a
-886501000006115	Alcoholic liver damage NOS
-2156971000000110	H/O hepatitis C antiviral drug therapy
-1686831000000111	Hepatitis C resolved
-1786403019	Hepatitis C nucleic acid detection
-1786360015	Hepatitis B nucleic acid detection
-1488891017	Hepatitis C viral load
-354081000000114	Hepatitis B viral load
-1783609017	Hepatitis C virus genotype
-350841000000119	Hepatitis B treatment drugs Band 1
-2155841000000118	12 week virologic response to hepatitis C treatment
-286858013	Hepatic coma due to viral hepatitis A
-394236016	Exploration of liver
-864341000006115	Liver exploration
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+303457015	Non-alcoholic fatty liver	423217	1	1
+1786211000006116	Fatty liver	196694	1	1
+303463012	Steatosis of liver	162519	1	1
+84516016	Hepatitis C	158023	1	1
+476611000006116	Alcoholic cirrhosis of liver	124766	1	1
+353613017	Cirrhosis of liver	120336	1	1
+303399018	Alcoholic liver damage	109339	1	1
+813401000006113	Hemochromatosis	82158	1	1
+459860017	Hepatitis B carrier	66642	1	1
+52980015	Primary biliary cirrhosis	66408	1	1
+303393017	Cirrhosis and chronic liver disease	61048	1	1
+2159899016	Autoimmune hepatitis	59533	1	1
+48003016	Oesophageal varices	57031	1	1
+83834016	Alcoholic fatty liver	56394	1	1
+459095018	Hepatitis C antibody test positive	54300	1	1
+1786201000006119	Fatty change of liver	54091	1	1
+30458014	Transplantation of liver	46820	1	1
+820791000006114	Hepatitis B surface antigen positive	45019	1	1
+7302012	Viral hepatitis	44541	1	1
+61061000006116	Serum hepatitis	40998	1	1
+57989014	Portal hypertension	39638	1	1
+127487019	Chronic hepatitis	38031	1	1
+303465017	Chronic liver disease	33479	1	1
+1232261014	Chronic viral hepatitis B	28824	1	1
+222891000000119	Infectious hepatitis	28807	0	1
+286871011	Viral hepatitis C	28747	1	1
+6947461000006115	Alcoholic cirrhosis	28446	1	1
+353587018	Alcoholic hepatitis	28179	1	1
+6618761000006118	Haemochromatosis	26586	1	1
+557071000006112	Chronic hepatitis C	23972	1	1
+4044018	Biliary cirrhosis	20956	1	1
+1488891017	Hepatitis C viral load	20480	1	1
+303614019	Primary sclerosing cholangitis	19768	1	1
+2693857014	History of hepatitis B	15880	1	1
+221131000000118	Hepatic encephalopathy	15794	1	1
+303401012	Chronic active hepatitis	15459	1	1
+1216060010	Oesophageal varices with bleeding	15274	1	1
+17390014	Acute alcoholic hepatitis	14083	1	1
+221111000000114	Cirrhosis - non-alcoholic	12946	1	1
+2474329018	Hepatitis C carrier	12515	1	1
+2819666013	Nonalcoholic steatohepatitis	11570	1	1
+303490015	Other liver disorders	10993	1	1
+460651015	Transplanted liver present	9983	1	1
+103853010	Hepatic fibrosis	9519	1	1
+456800015	Oesophageal varices NOS	8680	1	1
+303404016	Autoimmune chronic active hepatitis	8648	1	1
+264367013	Viral hepatitis carrier	8022	1	1
+1786360015	Hepatitis B nucleic acid detection	7246	1	1
+150964016	Gastric varices	6997	1	1
+303783014	Disease of liver	6711	1	1
+3070251000006116	Hereditary haemochromatosis	6613	1	1
+303532011	Liver disease	6518	1	1
+268885015	Fibreoptic endoscopic banding of oesophageal varices	6448	1	1
+1783609017	Hepatitis C virus genotype	6059	1	1
+286882015	Unspecified viral hepatitis	4941	1	1
+1786403019	Hepatitis C nucleic acid detection	4783	1	1
+603321000006118	Cryptogenic cirrhosis	4611	1	1
+354081000000114	Hepatitis B viral load	4539	1	1
+303410016	Chronic hepatitis NOS	4523	1	1
+303779014	[X]Diseases of the liver	4517	1	1
+31211000006119	Orthotopic transplantation of liver	4247	1	1
+396393014	Non-alcoholic cirrhosis NOS	4223	1	1
+353595019	Alcoholic hepatic failure	4189	1	1
+128627011	Biliary atresia	4133	1	1
+353596018	Liver failure	3999	1	1
+24192017	Oesophageal varices without bleeding	3754	1	1
+1739601000000111	Hepatitis C PCR positive	3312	1	1
+3574441000006112	Hepatitis B infection	3119	1	1
+99549014	Hepatic failure	3001	1	1
+359011000006113	[X] Liver failure	2983	1	1
+303379012	Acute liver failure	2759	1	1
+353594015	Alcoholic fibrosis and sclerosis of liver	2750	1	1
+303381014	Acute hepatic failure	2652	1	1
+85441018	Hepatorenal syndrome	2622	1	1
+303511015	Toxic liver disease with cholestasis	2493	1	1
+1686831000000111	Hepatitis C resolved	2395	1	1
+2146501000000114	Hepatitis C genotype 3	2328	1	1
+886501000006115	Alcoholic liver damage NOS	2287	1	1
+2146441000000113	Hepatitis C genotype 1	2151	1	1
+453265010	Oesophageal varices in alcoholic cirrhosis of the liver	2123	1	1
+303781011	[X]Other and unspecified cirrhosis of liver	1969	1	1
+17930015	Chronic viral hepatitis	1933	1	1
+49567015	Glycogen storage disease	1902	1	1
+270234015	Transplantation of liver NOS	1816	1	1
+286879013	Chronic viral hepatitis B without delta-agent	1665	1	1
+740781000006110	Liver anomalies	1626	1	1
+3515871000006112	Fibrosis of liver	1569	1	1
+2118321000000118	Hepatitis C antigen positive	1543	1	1
+2855181000006117	Hepatitis B surface antigen	1479	1	1
+864281000006116	Liver transplant	1439	1	1
+460192013	[V]Viral hepatitis carrier	1401	1	1
+303456012	Chronic nonalcoholic liver disease	1379	1	1
+2781011000006119	Bleeding oesophageal varices	1368	1	1
+257841016	Hepatitis e antigen present	1350	1	1
+1766481000006112	Hepatitis C viral ribonucleic acid polymerase chain reaction positive	1350	1	1
+53033015	Alagille syndrome	1338	1	1
+451442010	Oesophageal varices in cirrhosis of the liver	1302	1	1
+820381000006112	Hepatic fibrosis	1213	1	1
+3507191000006112	Chronic type B viral hepatitis	1161	1	1
+358961000006119	[X] Hepatic failure	1142	1	1
+806841000006117	Granulomatous hepatitis	1134	1	1
+582851000006119	Congenital viral hepatitis B infection	1073	1	1
+451124014	Chronic alcoholic hepatitis	1044	1	1
+4661751000006118	Orthotopic liver transplant	892	1	1
+303510019	Toxic liver disease	860	1	1
+461319017	[V]Assessment for liver transplant	850	1	1
+2156971000000110	H/O hepatitis C antiviral drug therapy	844	1	1
+353580016	Chronic viral hepatitis B with delta-agent	830	1	1
+4656781000006112	Fibreoptic oesophagoscopy and banding of oesophageal varices	784	1	1
+821081000006115	Hepatitis non A non B	742	1	1
+731231000006114	Macronodular cirrhosis of liver	731	1	1
+737961000006116	Ligation of oesophageal varices	728	1	1
+3315041000006111	Alcoholic steatosis	725	1	1
+268819017	Open injection sclerotherapy to oesophageal varices	708	1	1
+69895016	Chronic persistent hepatitis	707	1	1
+1544611000006117	Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices	697	1	1
+303527010	Other specified liver disorder	683	1	1
+303466016	Liver abscess and sequelae of chronic liver disease	667	1	1
+3010811000006111	Primary biliary cholangitis	634	1	1
+109733012	Serum hepatitis	629	1	1
+3523221000006115	Hepatitis C virus	608	1	1
+268957016	Rigid oesophagoscopic banding of oesophageal varices	602	1	1
+303376017	Acute and subacute liver necrosis	599	1	1
+803921000006113	Glycogenosis - glycogen storage disease	598	1	1
+353576014	Acute hepatitis C	596	1	1
+394251013	Roux-en-Y procedure for biliary atresia	595	1	1
+708811000006119	Fibreoptic endoscopic injection sclerotherapy to oesophageal varices	570	1	1
+457401000006115	Acute hepatitis B with delta-agent (coinfection) without hepatic coma	565	1	1
+303497017	Hepatitis in other viral disease	544	1	1
+432411000006115	[X]Viral hepatitis	508	1	1
+3574401000006110	Type B viral hepatitis	481	1	1
+303409014	Chronic hepatitis unspecified	468	1	1
+324976011	Liver transplant failure and rejection	450	1	1
+2155841000000118	12 week virologic response to hepatitis C treatment	447	1	1
+293605014	Alpha-1-antitrypsin hepatitis	427	1	1
+7743871000006114	Decompensated cirrhosis of liver	427	1	1
+122921000006118	Subacute hepatitis - noninfective	425	1	1
+314015017	Liver anomaly, unspecified	419	1	1
+303453016	Biliary cirrhosis NOS	415	1	1
+288168013	[X]Other specified acute viral hepatitis	408	1	1
+303525019	Hepatic granulomas in sarcoidosis	408	1	1
+303531016	Other specified liver disorder NOS	406	1	1
+314035016	Biliary atresia NOS	388	1	1
+1235347013	Zellweger's syndrome	374	1	1
+120980011	Hepatic coma	373	1	1
+1227540015	[V]Australia antigen carrier	367	1	1
+21289010	Secondary biliary cirrhosis	362	1	1
+396394015	Other sequelae of chronic liver disease	348	1	1
+303491016	Hepatitis in viral diseases EC	340	1	1
+3165681000006118	Alcoholic liver disease	339	1	1
+270232016	Replacement of previous liver transplant	329	1	1
+132070012	Congenital hepatic fibrosis	317	1	1
+300993011	[X]Oesophageal varices in diseases classified elsewhere	310	1	1
+2534188017	Acute hepatic failure due to drugs	299	1	1
+286870012	Other specified viral hepatitis without coma	274	1	1
+303388015	Subacute hepatic failure	272	1	1
+353575013	Acute delta-(super)infection of hepatitis B carrier	271	1	1
+5086501000006118	Disorder of liver	268	1	1
+14056631000006114	Hepatitis B virus surface antigen	263	0	1
+4787291000006118	NAFLD - Nonalcoholic fatty liver disease	259	1	1
+325079010	Liver failure as a complication of care	258	1	1
+303514011	Toxic liver disease with acute hepatitis	252	1	1
+538081000000115	Compensation for liver failure	250	1	1
+303458013	Portal fibrosis without cirrhosis	243	1	1
+7261021000006117	Steatohepatitis	239	1	1
+3828001000006112	Hepatitis B virus	238	1	1
+493707012	Hypertrophic portal cirrhosis	233	1	1
+822591000006117	Heterotopic liver transplant	230	1	1
+303464018	Other non-alcoholic chronic liver disease NOS	230	1	1
+660151000006116	Extrahepatic atresia of bile duct	228	1	1
+303787010	[X]Granulomatous hepatitis, not elsewhere classified	223	1	1
+303518014	Toxic liver disease with fibrosis and cirrhosis of liver	222	1	1
+2675247013	Liver disease due to cystic fibrosis	214	1	1
+3574421000006117	Hepatitis B	210	1	1
+2576980018	Portal cirrhosis	204	1	1
+268812014	Open operations on oesophageal varices	202	1	1
+2146461000000114	Hepatitis C genotype 2	199	1	1
+2146521000000117	Hepatitis C genotype 4	196	1	1
+4657171000006111	Rigid oesophagoscopy and banding of oesophageal varices	195	1	1
+376141000000113	Orthotopic transplantation of liver NEC	194	1	1
+350841000000119	Hepatitis B treatment drugs Band 1	192	1	1
+303419015	Diffuse nodular cirrhosis	182	1	1
+396391011	Cardiac portal cirrhosis	181	1	1
+5086651000006118	Chronic viral hepatitis B with hepatitis D	176	1	1
+303377014	Acute necrosis of liver	165	1	1
+2536512019	Giant cell hepatitis causing neonatal jaundice	151	1	1
+1227541016	[V]Hepatitis Australia antigen carrier	142	1	1
+15316281000006113	Hepatitis C antibody detected	141	0	1
+555881000006114	Chronic passive liver congestion	138	1	1
+6947471000006110	Alcoholic liver cirrhosis	135	1	1
+303407011	Recurrent hepatitis	135	1	1
+325080013	Hepatic failure as a complication of care	134	1	1
+3748921000006116	Acute type B viral hepatitis	131	1	1
+803961000006119	Glycogenosis with hepatic cirrhosis	130	1	1
+557081000006110	Chronic viral hepatitis, unspecified	126	1	1
+30226018	Hepatic infarction	125	1	1
+353625019	Hepatic sclerosis	124	1	1
+353597010	Hepatic failure NOS	123	1	1
+288170016	[X]Chronic viral hepatitis, unspecified	121	1	1
+95368015	Chronic lobular hepatitis	121	1	1
+2855151000006113	Hepatitis B virus surface antigen	118	1	1
+862771000006116	Oesophageal varices injected	117	1	1
+3206871000006111	Macronodular cirrhosis	116	1	1
+1222437010	Alper's disease	112	1	1
+394236016	Exploration of liver	110	1	1
+268827014	Open operation on oesophageal varices NOS	104	1	1
+325081012	Hepatorenal syndrome as a complication of care	101	1	1
+300775019	Oesophageal varices in diseases EC	100	1	1
+553311000006111	Chronic aggressive hepatitis	98	1	1
+457391000006117	Acute hepatitis B with delta agent (coinfection) with hepatic coma	93	1	1
+43471011	Fibrosis of pancreas	92	1	1
+303441015	Infectious cirrhosis	85	1	1
+886491000006111	Acute/subac. necrosis of liver	85	1	1
+7743881000006112	Decompensated cirrhosis	84	1	1
+19362016	Andersen's disease	83	1	1
+2960641000006113	Oesophageal varix	81	1	1
+2658601000006116	Acute alcoholic liver disease	79	1	1
+221941000000113	Atresia of bile duct	78	1	1
+288169017	[X]Other chronic viral hepatitis	73	1	1
+163571000006112	Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope	72	1	1
+3059381000006110	Chronic passive congestion of liver	70	1	1
+286858013	Hepatic coma due to viral hepatitis A	70	1	1
+6349661000006117	Early cirrhosis	69	1	1
+352566017	Sengstaken intubation of oesophagus	65	1	1
+303391015	Subacute necrosis of liver NOS	65	1	1
+1601000006112	Other specified viral hepatitis without mention of coma NOS	62	1	1
+3713561000006119	Cardiac cirrhosis	61	1	1
+768541000006118	Intrahepatic atresia of bile duct	58	1	1
+500401000006116	Auxillary liver transplant	56	1	1
+96824017	Kwashiorkor	55	1	1
+99171000006113	Toxic liver disease, unspecified	54	1	1
+538101000000114	Liver failure support management	53	1	1
+3760671000006116	Congenital biliary atresia	52	1	1
+316474016	Congenital viral hepatitis	52	1	1
+303420014	Fatty portal cirrhosis	51	1	1
+303442010	Portal cirrhosis unspecified	50	1	1
+286862019	Hepatic coma due to viral hepatitis B	50	1	1
+303512010	Toxic liver disease with hepatic necrosis	49	1	1
+7266931000006113	NASH - Nonalcoholic steatohepatitis	48	1	1
+300784019	Oesophageal varices in diseases EC NOS	48	1	1
+3011301000006112	Arteriohepatic dysplasia	47	1	1
+1786709019	Pigmentary cirrhosis of liver	46	1	1
+303785019	[X]Liver disorders in other diseases classified elsewhere	45	1	1
+15310081000006116	Hepatitis B surface antigen detected	45	0	1
+300776018	Oesophageal varices with bleeding in diseases EC	44	1	1
+3315061000006110	Alcoholic fatty liver disease	43	1	1
+303385017	Acute necrosis of liver NOS	42	1	1
+314034017	Atresia of hepatic ducts	42	1	1
+1805791000006114	Viral hepatitis D	40	1	1
+303499019	Hepatitis in viral diseases EC NOS	39	1	1
+113108015	Congenital hypoplasia of bile duct	39	1	1
+2560521000006110	Transplanted liver	39	1	1
+303786018	[X]Toxic liver disease, unspecified	37	1	1
+126721013	Florid cirrhosis	36	1	1
+303517016	Toxic liver disease with chronic active hepatitis	35	1	1
+303516013	Toxic liver disease with chronic lobular hepatitis	34	1	1
+2676200013	Orthotopic transplantation of whole liver	33	1	1
+3828021000006119	HBV - Hepatitis B virus	33	1	1
+314032018	Congenital absence of hepatic ducts	32	1	1
+3165691000006115	ALD - Alcoholic liver disease	31	1	1
+4596181000006111	Hepatitis Be antigen present	31	1	1
+353627010	Hepatic fibrosis with hepatic sclerosis	30	1	1
+352929018	Exploration of liver transplant	29	1	1
+4787861000006113	PSC - Primary sclerosing cholangitis	28	1	1
+123999018	Congestive cirrhosis	27	1	1
+300779013	Oesophageal varices without bleeding in diseases EC	27	1	1
+7837271000006119	Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis	27	1	1
+286868015	Viral hepatitis C with coma	26	1	1
+3473251000006118	Liver decompensation	26	1	1
+12064771000006114	Chronic hepatitis C caused by Hepatitis C virus genotype 3	25	1	1
+5086601000006117	Hepatitis D superinfection of hepatitis B carrier	24	1	1
+1736361000000112	Cystic fibrosis related cirrhosis	24	1	1
+3760691000006115	Atresia of bile ducts	23	1	1
+7263471000006113	Hepatitis B and hepatitis C	23	1	1
+3268012	Congenital absence of bile duct	22	1	1
+6618731000006110	Haemochromatosis	22	1	1
+5086761000006113	Ischaemic hepatitis	22	1	1
+303387013	Subacute necrosis of liver	21	1	1
+3980471000006110	Gastric varix	21	1	1
+293190013	Other specified glycogenosis	21	1	1
+862761000006111	Oesophageal vessels ligated	19	1	1
+303515012	Toxic liver disease with chronic persistent hepatitis	19	1	1
+293191012	Glycogenosis NOS	19	1	1
+7329261000006119	Banding of gastric varices	19	1	1
+303425016	Capsular portal cirrhosis	18	1	1
+270233014	Other specified transplantation of liver	18	1	1
+2816681000006110	CL - Cirrhosis of liver	17	1	1
+1786715019	Bronzed diabetes	17	1	1
+2779681000006112	Antibody to hepatitis Be antigen	17	1	1
+3484521000006119	Hepatitis B e antigen	17	1	1
+4656741000006118	Fibreoptic oesophagoscopy and injection sclerotherapy of varices	16	1	1
+1495570018	Glycogenosis, type 4	16	1	1
+3070261000006119	Hereditary hemochromatosis	16	1	1
+7821651000006119	Autoimmune hepatitis type 1	16	1	1
+394102015	Other specified open operation on oesophageal varices	15	1	1
+4058511000006118	Cholestatic hepatitis	15	1	1
+7700651000006119	Chronic alcoholic liver disease	15	1	1
+12031691000006112	Alcoholic steatohepatitis	15	1	1
+14059521000006115	Hepatitis B virus e protein antigen	15	0	1
+550431000006116	Childhood function cirrhosis	14	1	1
+303503013	Hepatitis in secondary syphilis	14	1	1
+2816671000006112	Hepatic cirrhosis	13	1	1
+3574451000006114	Viral hepatitis type B	13	1	1
+477604016	Mixed portal cirrhosis	13	1	1
+538121000000117	Other specified compensation for liver failure	13	1	1
+5086481000006111	Hepatopathy	13	1	1
+1227539017	[V]SH antigen carrier	13	1	1
+303780012	[X]Toxic liver disease with other disorders of liver	13	1	1
+8458711000006115	Ascites due to alcoholic cirrhosis	13	1	1
+211821000006111	Postnecrotic cirrhosis of liver	12	1	1
+4657381000006111	Balloon tamponade of oesophagus	12	1	1
+5077141000006116	Balloon tamponade of oesophagus using Sengstaken-Blakemore tube	12	1	1
+396392016	Juvenile portal cirrhosis	11	1	1
+267161000006118	Oesophageal tamponade	11	1	1
+314033011	Agenesis of hepatic ducts	11	1	1
+2847631000006117	Micronodular cirrhosis	11	1	1
+395261000006113	[X]Liver disorders in infectious and parasitic diseases CE	11	1	1
+2579818016	Laennec's cirrhosis	10	1	1
+11267010	Indian childhood cirrhosis	10	1	1
+303521011	Central haemorrhagic necrosis of liver	10	1	1
+225661000006111	Piggy back liver transplant	10	1	1
+352567014	Blakemore intubation of oesophagus	10	1	1
+133978014	Secondary syphilitic hepatitis	10	1	1
+4596171000006113	HBsAg positive	9	1	1
+303392010	Acute and subacute liver necrosis NOS	9	1	1
+2960621000006118	Esophageal varices	9	1	1
+303489012	Liver abscess and chronic liver disease causing sequelae NOS	9	1	1
+4353641000006110	Toxic cirrhosis	9	1	1
+5087211000006119	Liver transplant rejection	9	1	1
+316477011	Congenital viral hepatitis NOS	9	1	1
+8032261000006117	Cirrhosis of liver due to hepatitis B	9	1	1
+396390012	Multilobular portal cirrhosis	8	1	1
+3523231000006117	HCV - Hepatitis C virus	8	1	1
+2786021000006116	LTx - Liver transplant	7	1	1
+4661791000006112	Piggy-back liver transplant	7	1	1
+4779691000006115	Oesophageal varices associated with another disorder	7	1	1
+511611000006113	Bile duct atresia	7	1	1
+3860561000006112	Hepatitis D virus	7	1	1
+4742611000006119	Hepatitis non-A non-B	7	1	1
+316476019	Other specified congenital viral hepatitis	7	1	1
+161771000006119	Sawaguchi roux-en-y procedure for biliary atresia	7	1	1
+7629961000006118	Chronic active hepatitis C	7	1	1
+12066941000006110	Chronic hepatitis C caused by Hepatitis C virus genotype 1	7	1	1
+353621011	Laennec's cirrhosis, non-alcoholic	6	1	1
+114801000006118	Tanner devascularisation for bleeding varices	6	1	1
+4779721000006113	Oesophageal varices with bleeding, associated with another disorder	6	1	1
+5086841000006119	Chronic hepatic failure	6	1	1
+12456711000006114	[V]Assessment for liver transplant	6	1	1
+3678081000006113	Subacute non-infective hepatitis	6	1	1
+3748931000006118	Acute hepatitis B	6	1	1
+7329201000006115	Endoscopy of upper gastrointestinal tract and banding of oesophageal varices	6	1	1
+7703061000006115	Acute on chronic alcoholic liver disease	6	1	1
+12070041000006115	Chronic hepatitis C caused by Hepatitis C virus genotype 1a	6	1	1
+864341000006115	Liver exploration	6	1	1
+303452014	Biliary cirrhosis of children	5	1	1
+286869011	Other specified viral hepatitis with hepatic coma NOS	5	1	1
+4657131000006113	Rigid oesophagoscopy and injection sclerotherapy of varices	5	1	1
+864291000006118	Total hepatectomy	5	1	1
+3070281000006112	Familial haemochromatosis	5	1	1
+5076881000006115	Sclerotherapy of oesophageal varices	5	1	1
+6349671000006112	PCR positive for hepatitis C viral RNA (genotype 1A)	5	1	1
+7032521000006119	Orthohepadnavirus	5	1	1
+7329191000006118	Endoscopy of upper gastrointestinal tract and banding of varix of oesophagus	5	1	1
+7821631000006114	Fibrosis of liver caused by alcohol	5	1	1
+3515305014	Cirrhosis of liver with primary sclerosing cholangitis	5	1	1
+13954441000006117	Chronic necrosis of liver	5	0	1
+3713571000006114	Congestive cirrhosis	4	1	1
+286867013	Other specified viral hepatitis with coma	4	1	1
+55851000006118	Xanthomatous portal cirrhosis	4	1	1
+2619492010	Acute yellow atrophy	4	1	1
+2783891000006116	Infarction of liver	4	1	1
+2960631000006115	OV - Oesophageal varices	4	1	1
+303433015	Pigmentary portal cirrhosis	4	1	1
+303435010	Toxic portal cirrhosis	4	1	1
+504762019	Chronic yellow liver atrophy	4	1	1
+3331291000006117	Hepatorenal failure	4	1	1
+3847451000006117	Extrahepatic biliary atresia	4	1	1
+2677991000006118	Andersen disease	4	1	1
+2779691000006110	Anti HBe	4	1	1
+3122241000006112	Chronic persistent type B viral hepatitis	4	1	1
+5076631000006115	Operation on oesophageal varices	4	1	1
+3918501000006116	Liver necrosis	4	1	1
+7329251000006116	Banding of varix of stomach	4	1	1
+7966981000006110	Cirrhosis of liver due to chronic hepatitis C	4	1	1
+288171017	Hepatic coma due to viral hepatitis	3	1	1
+3269016	Agenesis of bile duct	3	1	1
+5086811000006118	Fulminant hepatic failure	3	1	1
+803951000006116	Glycogenosis of liver and muscle	3	1	1
+7065101000006116	Fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices	3	1	1
+2577341000006117	Acute toxic hepatitis	3	1	1
+3634881000006112	Neonatal hepatitis	3	1	1
+2598241000006117	Neonatal haemochromatosis	3	1	1
+3918491000006112	Hepatic necrosis	3	1	1
+7329361000006112	Endoscopy of upper gastrointestinal tract and banding of gastric varices	3	1	1
+7615621000006110	Hepatitis D	3	1	1
+6941941000006119	PC - Portal cirrhosis	2	1	1
+303437019	Bacterial portal cirrhosis	2	1	1
+286876018	Unspecified viral hepatitis with coma	2	1	1
+4787031000006110	ALF - Acute liver failure	2	1	1
+5524681000006114	Cirrhosis secondary to cholestasis	2	1	1
+4656791000006110	Fiberoptic endoscopic banding of esophageal varices	2	1	1
+987751000006119	Oesophageal varices injected	2	1	1
+2786011000006112	Hepatic transplantation	2	1	1
+2781021000006110	Bleeding esophageal varices	2	1	1
+4779751000006116	Oesophageal varices without bleeding, associated with another disorder	2	1	1
+303414013	Unilobular portal cirrhosis	2	1	1
+3059491000006115	PHT - Portal hypertension	2	1	1
+3847441000006119	Congenital atresia of extrahepatic bile duct	2	1	1
+5087201000006117	Liver transplant disorder	2	1	1
+480671000006116	Amylopectinosis	2	1	1
+803941000006118	Glycogenosis of liver and muscle	2	1	1
+63781000006112	Von Recklinghausen - Applebaum disease	2	1	1
+3312561000006112	Chronic active type B viral hepatitis	2	1	1
+3446741000006116	Protein malnutrition	2	1	1
+303501010	Hepatitis in late syphilis	2	1	1
+5077711000006116	Balloon tamponade of stomach	2	1	1
+5086641000006115	Acute non-A non-B hepatitis	2	1	1
+5086771000006118	Ischemic hepatitis	2	1	1
+5161081000006117	US scan of transplant liver	2	1	1
+7328421000006117	Reactivation of hepatitis B viral hepatitis	2	1	1
+305599019	Acute liver necrosis following abortive pregnancy	2	1	1
+7568861000006119	Reactivation of hepatitis C viral hepatitis	2	1	1
+8458621000006115	Hepatic coma due to acute hepatic failure	2	1	1
+7731521000006112	Reynolds syndrome	2	1	1
+7763571000006119	Gastric varices without bleeding	2	1	1
+7821641000006116	Alcoholic fibrosis of liver	2	1	1
+303440019	Zooparasitic portal cirrhosis	1	1	1
+5493051000006111	Cirrhosis of liver not due to alcohol	1	1	1
+5086741000006114	AH - Alcoholic hepatitis	1	1	1
+4407011000006114	Chronic type C viral hepatitis	1	1	1
+2558581000006119	VH - Viral hepatitis	1	1	1
+3574431000006119	SH - Serum hepatitis	1	1	1
+303389011	Subacute yellow atrophy	1	1	1
+4787061000006118	Subacute hepatic necrosis	1	1	1
+3473241000006115	Liver function failure	1	1	1
+4657181000006114	Rigid esophagoscopic banding of esophageal varices	1	1	1
+2824431000006111	Progressive neuronal degeneration with liver cirrhosis	1	1	1
+2781041000006115	Oesophageal varices with haemorrhage	1	1	1
+2960651000006110	Esophageal varix	1	1	1
+3175071000006117	CPH - Chronic persistent hepatitis	1	1	1
+226161000006113	Pipe-stem portal cirrhosis	1	1	1
+303439016	Syphilitic portal cirrhosis	1	1	1
+3796401000006114	Fatty metamorphosis of liver	1	1	1
+5086951000006114	Drug-induced chronic hepatitis	1	1	1
+3532180010	Liver transplant recipient	1	1	1
+2677901000006113	Glycogen storage disease, type IV	1	1	1
+8234961000006111	Hepatitis C viral RNA PCR (ribonucleic acid polymerase chain reaction) positive	1	1	1
+2720851000006112	HE - Hepatic encephalopathy	1	1	1
+2560511000006119	Structure of transplanted liver	1	1	1
+2658271000006113	Perinatal jaundice due to fetal OR neonatal hepatitis	1	1	1
+2779711000006113	Hepatitis B e antibody	1	1	1
+2896171000006116	Bleeding gastric varices	1	1	1
+2962351000006117	Transfusion hepatitis	1	1	1
+3634891000006110	Giant cell hepatitis	1	1	1
+3828011000006110	Serum hepatitis virus	1	1	1
+3937811000006114	Zellweger syndrome	1	1	1
+4355091000006112	Latent cirrhosis	1	1	1
+4355101000006118	Advanced cirrhosis	1	1	1
+3691701000006116	Endoscopic injection of oesophageal varices	1	1	1
+5077531000006117	Sclerotherapy of gastric varices	1	1	1
+5161091000006119	Ultrasound scan of transplant liver	1	1	1
+5619351000006114	Congenital hepatitis C infection	1	1	1
+7043971000006117	Drug-induced cirrhosis of liver	1	1	1
+7133411000006113	Acute rejection of liver transplant	1	1	1
+7686921000006114	Polymerase chain reaction test for Hepatitis C positive	1	1	1
+7767231000006112	Doppler ultrasound scan of transplanted liver	1	1	1
+7821661000006117	Autoimmune hepatitis type 2	1	1	1
+12061221000006116	Chronic hepatitis C caused by hepatitis C virus genotype 6	1	1	1
+12070031000006113	Chronic hepatitis C caused by Hepatitis C virus genotype 1b	1	1	1
+14071021000006114	Hepatic coma due to acute hepatitis B with delta agent	1	0	1
+13938561000006110	Chronic hepatitis B with hepatitis C and hepatitis D	1	0	1
+6941931000006112	Laennec's cirrhosis	NA	1	0
+3206891000006112	PNC - Postnecrotic cirrhosis	NA	1	0
+3206901000006111	Multilobar cirrhosis	NA	1	0
+4787151000006116	CAH - Chronic aggressive hepatitis	NA	1	0
+4787131000006111	CAH - Chronic active hepatitis	NA	1	0
+2598551000006118	ICC - Indian childhood cirrhosis	NA	1	0
+2598561000006116	Cirrhosis-familial with pulmonary hypertension	NA	1	0
+4787261000006114	Zooparasitic portal cirrhosis	NA	1	0
+5493041000006114	Cirrhosis, nonalcoholic	NA	1	0
+5086991000006115	Laennec cirrhosis, non-alcoholic	NA	1	0
+2526461000006113	Chronic nonsuppurative destructive cholangitis	NA	1	0
+2526441000006114	Cholangitic cirrhosis	NA	1	0
+2526451000006111	Cholestatic cirrhosis	NA	1	0
+3010831000006117	Hanot's cirrhosis	NA	1	0
+6617771000006112	Bronze cirrhosis	NA	1	0
+6617781000006110	Bronzed cirrhosis	NA	1	0
+5975531000006117	Esophageal varices in cirrhosis of the liver	NA	1	0
+5992721000006114	Esophageal varices in alcoholic cirrhosis of the liver	NA	1	0
+4787331000006113	Hepatic lipidosis	NA	1	0
+3321231000006119	Type C viral hepatitis	NA	1	0
+3321251000006114	Viral hepatitis type C	NA	1	0
+3482741000006114	Congenital hepatitis B	NA	1	0
+2919481000006111	Viral hepatitis B with hepatic coma	NA	1	0
+4786991000006110	Acute yellow atrophy of liver	NA	1	0
+4786981000006112	Massive hepatic necrosis	NA	1	0
+4787101000006115	Subacute yellow atrophy of liver	NA	1	0
+3684461000006114	Hepatocerebral intoxication	NA	1	0
+3473231000006113	Hepatic insufficiency	NA	1	0
+2783881000006119	Infarct of liver	NA	1	0
+4787621000006118	Central hemorrhagic necrosis of liver	NA	1	0
+4656461000006114	Open operations on esophageal varices	NA	1	0
+3595991000006116	Ligation of esophageal varices	NA	1	0
+4656511000006112	Open injection sclerotherapy to esophageal varices	NA	1	0
+4656751000006116	Fiberoptic endoscopic injection sclerotherapy to esophageal varices	NA	1	0
+4656761000006119	Fiberoptic esophagoscopy and injection sclerotherapy of varices	NA	1	0
+4656811000006114	Fiberoptic esophagoscopy and banding of esophageal varices	NA	1	0
+4657151000006118	Rigid esophagoscopy and injection sclerotherapy of varices	NA	1	0
+4657161000006116	Endoscopic injection sclerotherapy to varices of esophagus using rigid esophagoscope	NA	1	0
+4657191000006112	Rigid esophagoscopy and banding of esophageal varices	NA	1	0
+4657411000006114	Balloon tamponade of esophagus	NA	1	0
+4657391000006114	Balloon tamponade of esophageal varices	NA	1	0
+4657401000006111	Balloon tamponade of oesophageal varices	NA	1	0
+2786001000006114	Tx - Liver transplantation	NA	1	0
+4661761000006116	Orthotopic transplantation of liver	NA	1	0
+4661781000006114	Auxiliary liver transplant	NA	1	0
+68294019	Viral hepatitis with hepatic coma	NA	1	0
+2824421000006113	Poliodystrophy	NA	1	0
+2824401000006115	Gray matter degeneration	NA	1	0
+2824411000006117	Spongy glioneuronal dystrophy	NA	1	0
+2824381000006115	Progressive sclerosing poliodystrophy	NA	1	0
+2824391000006117	Alpers' disease	NA	1	0
+2781081000006114	BOV - Bleeding esophageal varices	NA	1	0
+2781071000006111	Esophageal varices with bleeding	NA	1	0
+2781031000006113	Esophageal varices with hemorrhage	NA	1	0
+2781061000006116	BOV - Bleeding oesophageal varices	NA	1	0
+2725291000006114	Esophageal varices without bleeding	NA	1	0
+4779711000006117	Esophageal varices associated with another disorder	NA	1	0
+4779741000006118	Esophageal varices with bleeding, associated with another disorder	NA	1	0
+4779771000006114	Esophageal varices without bleeding, associated with another disorder	NA	1	0
+2960661000006112	OV - Esophageal varices	NA	1	0
+3748781000006119	CH - Chronic hepatitis	NA	1	0
+2753761000006112	Mixed micro AND macronodular cirrhosis	NA	1	0
+4787221000006115	Pipestem portal cirrhosis	NA	1	0
+3828211000006115	Chronic yellow atrophy	NA	1	0
+3828201000006118	Chronic yellow atrophy of liver	NA	1	0
+3331281000006115	HRF - Hepatorenal failure	NA	1	0
+3059391000006113	Nutmeg liver	NA	1	0
+3760701000006115	BA - Biliary atresia	NA	1	0
+2518931000006117	Agenesis of bile duct	NA	1	0
+3607721000006115	Congenital short bile duct	NA	1	0
+5334681000006114	Intrahepatic biliary atresia	NA	1	0
+3847461000006115	EHBA - Extrahepatic biliary atresia	NA	1	0
+3011321000006119	Watson-Alagille syndrome	NA	1	0
+5077191000006113	Balloon tamponade of esophagus using Sengstaken-Blakemore tube	NA	1	0
+5077161000006117	Sengstaken intubation of esophagus	NA	1	0
+5077151000006119	Blakemore intubation of esophagus	NA	1	0
+5077201000006111	Balloon tamponade of oesophagus using Minnesota tube	NA	1	0
+5077211000006114	Balloon tamponade of esophagus using Minnesota tube	NA	1	0
+5086671000006111	Chronic non-A non-B hepatitis	NA	1	0
+5086821000006114	FHF - Fulminant hepatic failure	NA	1	0
+5086831000006112	Subfulminant hepatic failure	NA	1	0
+3431801000006116	CLH - Chronic lobular hepatitis	NA	1	0
+5087011000006114	Hypoxia-associated cirrhosis	NA	1	0
+5087021000006118	Pericellular fibrosis of congenital syphilis	NA	1	0
+5087041000006113	Portal and splenic vein sclerosis	NA	1	0
+5087061000006112	Intrahepatic phlebosclerosis and fibrosis	NA	1	0
+5087221000006110	Liver transplant failure	NA	1	0
+5087301000006113	Ichthyosis congenita with biliary atresia	NA	1	0
+7084841000006114	Hepatocyte transplantation	NA	1	0
+363051000000111	Transplantation of liver cells	NA	1	0
+7084831000006116	Transplantation of hepatocytes	NA	1	0
+3527364013	Transplanted liver present	NA	1	0
+12458801000006116	[V]Liver transplanted	NA	1	0
+2976621000006110	Glycogenosis	NA	1	0
+2976631000006113	GSD - Glycogen storage disease	NA	1	0
+2678011000006114	Glycogen storage disease, type 4	NA	1	0
+2677951000006112	GSD IV	NA	1	0
+2677911000006111	1,4,alpha-glucan 6-alpha-glucosyltransferase deficiency	NA	1	0
+2677921000006115	Brancher deficiency glycogen storage disease	NA	1	0
+2677981000006116	Glycogen storage disease type IV	NA	1	0
+2677971000006119	Branching enzyme deficiency	NA	1	0
+2677961000006114	Branching-transferase deficiency glycogenosis	NA	1	0
+2677931000006117	Amylopectinosis	NA	1	0
+6618751000006115	Iron storage disease	NA	1	0
+6618061000006116	Bronze diabetes	NA	1	0
+3070271000006114	Familial hemochromatosis	NA	1	0
+8242561000006112	Cirrhosis associated with cystic fibrosis	NA	1	0
+5086511000006115	LD - Liver disease	NA	1	0
+2720841000006110	Hepatocerebral encephalopathy	NA	1	0
+2507081000006119	Glissonian cirrhosis	NA	1	0
+2516171000006116	Chronic aggressive type B viral hepatitis	NA	1	0
+2560711000006114	Failed attempted abortion with acute yellow atrophy of liver	NA	1	0
+2560701000006111	Failed attempted termination of pregnancy with acute necrosis of liver	NA	1	0
+2560721000006118	Failed attempted abortion with acute necrosis of liver	NA	1	0
+2591931000006110	Legal termination of pregnancy with acute necrosis of liver	NA	1	0
+2591951000006115	Legal abortion with acute necrosis of liver	NA	1	0
+2591941000006117	Legal abortion with acute yellow atrophy of liver	NA	1	0
+11790131000006117	Product containing hepatitis B immunoglobulin (human)	NA	1	0
+11790151000006112	Hepatitis B immunoglobulin of human origin	NA	1	0
+2652141000006112	Hepatitis B immune globulin (human)	NA	1	0
+2652131000006119	Hepatitis B immunoglobulin	NA	1	0
+2652161000006111	Antihepatitis B immunoglobulin	NA	1	0
+2652151000006114	HBIG	NA	1	0
+12168511000006111	Hepatitis B surface antigen immunoglobulin product	NA	1	0
+11790141000006110	Hepatitis B immunoglobulin (human)	NA	1	0
+2656731000006119	Chronic lymphocytic cholangitis-cholangiohepatitis	NA	1	0
+2658301000006110	Perinatal jaundice due to foetal OR neonatal hepatitis	NA	1	0
+2658281000006111	Perinatal jaundice due to giant cell hepatitis	NA	1	0
+2682331000006110	Antibody to hepatitis B core antigen, immunoglobulin M type	NA	1	0
+2682321000006112	Anti HB IgM type	NA	1	0
+2682311000006116	Antibody to hepatitis B core antigen, IgM type	NA	1	0
+2692251000006110	Ligation of gastric varices	NA	1	0
+2692261000006112	Ligation of varicose veins of stomach	NA	1	0
+2710421000006113	Acute fulminating type B viral hepatitis	NA	1	0
+2754811000006115	Toxic noninfectious hepatitis	NA	1	0
+2754831000006114	Hepar lobatum	NA	1	0
+2754821000006111	Syphilitic cirrhosis	NA	1	0
+2779701000006110	Hepatitis B virus associated e antibody	NA	1	0
+2780581000006113	Hepatitis caused by acquired toxoplasmosis	NA	1	0
+2780571000006110	Hepatitis due to acquired toxoplasmosis	NA	1	0
+2792661000006119	Hepatitis C virus recombinant immunoblot measurement	NA	1	0
+2792671000006114	HCV by RIBA measurement	NA	1	0
+2812521000006111	Lupoid hepatitis	NA	1	0
+2812511000006115	Lupus hepatitis	NA	1	0
+2855161000006110	Hb>s< Ag	NA	1	0
+2855171000006115	Australian antigen	NA	1	0
+72021000033110	Hepatitis B Surface Antigen	NA	1	0
+2858671000006117	Hepatic failure due to a procedure	NA	1	0
+2858681000006119	Postprocedural hepatic failure	NA	1	0
+2864041000006118	Hepatorenal syndrome following delivery	NA	1	0
+2915211000006119	Cirrhosis of pancreas	NA	1	0
+2935051000006118	Posthepatitic cirrhosis	NA	1	0
+2937111000006111	Liver transplant with recipient hepatectomy	NA	1	0
+2949531000006115	Liver transplant without recipient hepatectomy	NA	1	0
+2962331000006112	Posttransfusion viral hepatitis	NA	1	0
+2962341000006119	Posttransfusion hepatitis	NA	1	0
+2999971000006115	Postprocedural hepatorenal syndrome	NA	1	0
+2999961000006110	Hepatorenal syndrome due to a procedure	NA	1	0
+3033421000006115	Parasitic cirrhosis	NA	1	0
+3033691000006115	Complication of transplanted liver	NA	1	0
+3100831000006113	Acute yellow atrophy of liver following molar AND/OR ectopic pregnancy	NA	1	0
+3100841000006115	Acute necrosis of liver following molar AND/OR ectopic pregnancy	NA	1	0
+3106821000006112	Clonorchiasis with biliary cirrhosis	NA	1	0
+3122251000006114	Chronic immune tolerant hepatitis B	NA	1	0
+3151011000006114	Spontaneous abortion with acute yellow atrophy of liver	NA	1	0
+3151001000006111	Miscarriage with acute necrosis of liver	NA	1	0
+3151031000006115	Miscarriage with acute yellow atrophy of liver	NA	1	0
+3151021000006118	Spontaneous abortion with acute necrosis of liver	NA	1	0
+3367271000006118	Radiation hepatitis	NA	1	0
+3409091000006113	Oriental cholangiohepatitis	NA	1	0
+3446751000006119	Nutritional edema with dyspigmentation of skin AND/OR hair	NA	1	0
+3446761000006117	Nutritional oedema with dyspigmentation of skin AND/OR hair	NA	1	0
+3446711000006115	Malignant malnutrition	NA	1	0
+3446721000006111	Deposed child syndrome	NA	1	0
+3446731000006114	Fatty liver of Brahmin children	NA	1	0
+3447041000006117	Relapsing viral hepatitis	NA	1	0
+3475171000006115	Chronic persistent viral hepatitis	NA	1	0
+3484541000006114	Hbe Ag	NA	1	0
+3484531000006116	Hepatitis B associated e antigen	NA	1	0
+3484551000006111	Hepatitis E antigen	NA	1	0
+3490971000006119	Hepatitis E antigen measurement	NA	1	0
+3492541000006115	Hepatitis D antibody measurement	NA	1	0
+3510791000006110	Familial arthrogryposis - cholestatic hepatorenal syndrome	NA	1	0
+3510781000006112	Lethal familial cholestatic AND pigmentary liver disease	NA	1	0
+3510771000006114	Familial arthrogryposis-cholestatic hepatorenal syndrome	NA	1	0
+3527631000006111	Infectious necrotic hepatitis	NA	1	0
+3527651000006116	Infection caused by Clostridium novyi	NA	1	0
+3527621000006113	Infection due to Clostridium novyi	NA	1	0
+3527641000006118	Black disease	NA	1	0
+3587281000006119	Chronic active viral hepatitis	NA	1	0
+3636581000006118	Icterus gravis of pregnancy	NA	1	0
+3636591000006115	Acute yellow atrophy of liver during pregnancy	NA	1	0
+3678071000006110	Subacute noninfective hepatitis	NA	1	0
+3738321000006116	Anti HBc IgG type	NA	1	0
+3738331000006118	Antibody to hepatitis B core antigen, immunoglobulin G type	NA	1	0
+3738311000006112	Antibody to hepatitis B core antigen, IgG type	NA	1	0
+3772081000006115	Pigment cirrhosis	NA	1	0
+3808311000006118	Stapling of gastric varices	NA	1	0
+3813641000006119	Secondary syphilis of liver	NA	1	0
+3860591000006116	Delta agent	NA	1	0
+3860571000006117	Delta hepatitis viral agent	NA	1	0
+3860581000006119	HDV - Hepatitis D virus	NA	1	0
+3905811000006110	Postnecrotic cirrhosis	NA	1	0
+3905821000006119	Healed yellow atrophy of liver	NA	1	0
+3937841000006113	Hyperpipecolic acidemia	NA	1	0
+3937821000006118	Cerebrohepatorenal syndrome	NA	1	0
+3937831000006115	Hyperpipecolic acidaemia	NA	1	0
+3959541000006116	Chronic aggressive viral hepatitis	NA	1	0
+3966001000006110	HBcAg measurement	NA	1	0
+3965991000006114	Hepatitis B core antigen measurement	NA	1	0
+3973131000006117	Anesthesia for liver transplant, recipient	NA	1	0
+3973121000006115	Anaesthesia for liver transplant, recipient	NA	1	0
+3975431000006114	Illegal abortion with acute yellow atrophy of liver	NA	1	0
+3975441000006116	Illegal abortion with acute necrosis of liver	NA	1	0
+3975421000006111	Illegal termination of pregnancy with acute necrosis of liver	NA	1	0
+3981401000006111	Necrosis of liver of pregnancy	NA	1	0
+4170231000006119	Obstructive biliary cirrhosis	NA	1	0
+4200821000006111	Viral hepatitis B without hepatic coma	NA	1	0
+4200831000006114	Infectious neonatal hepatitis	NA	1	0
+4353651000006112	Nutritional cirrhosis	NA	1	0
+4353661000006114	Cholangiolitic cirrhosis	NA	1	0
+4353671000006119	Septal fibrosis of liver	NA	1	0
+4403611000006113	Acquired portal-systemic shunt due to cirrhosis	NA	1	0
+3691681000006119	Injection of esophageal varices by endoscopy	NA	1	0
+3691711000006118	Injection of sclerosing agent into oesophageal varices by endoscopy	NA	1	0
+3691651000006110	Esophagoscopy for injection of esophageal varices	NA	1	0
+3691731000006112	Injection of oesophageal varices by endoscopy	NA	1	0
+3691721000006114	Injection of varicose veins of oesophagus by endoscopy	NA	1	0
+3691641000006113	Oesophagoscopy for injection of oesophageal varices	NA	1	0
+3691661000006112	Injection of sclerosing agent into esophageal varices by endoscopy	NA	1	0
+3691671000006117	Endoscopic injection of esophageal varices	NA	1	0
+3691691000006116	Injection of varicose veins of esophagus by endoscopy	NA	1	0
+4787481000006117	Quaternary syphilitic hepatitis	NA	1	0
+4837241000006117	Congenital hepatitis	NA	1	0
+5076641000006113	Operation on esophageal varices	NA	1	0
+5076891000006117	Injection of scleroscant into esophageal varices	NA	1	0
+5076901000006118	Injection of scleroscant into oesophageal varices	NA	1	0
+5076911000006115	Sclerotherapy of esophageal varices	NA	1	0
+5077541000006110	Injection of scleroscant into gastric lesion	NA	1	0
+5077731000006110	Balloon tamponade of gastric varices	NA	1	0
+5077721000006112	Balloon tamponade of stomach using Linton-Nachlas tube	NA	1	0
+5086591000006113	Acute hepatitis B with hepatitis D	NA	1	0
+5152281000006113	Symmer pipe-stem fibrosis	NA	1	0
+5152261000006115	Symmer's pipe-stem fibrosis	NA	1	0
+5152271000006110	Clay pipe-stem cirrhosis	NA	1	0
+5153141000006119	Capillaria hepatica hepatitis	NA	1	0
+5153151000006117	Hepatic capillariasis	NA	1	0
+5538541000006110	Entire transplanted liver	NA	1	0
+5586981000006115	Cryptogenic hepatitis in infancy	NA	1	0
+5586971000006118	Idiopathic hepatitis in infancy	NA	1	0
+5588901000006113	Congenital non-A non-B hepatitis infection	NA	1	0
+5903231000006114	Yellow atrophy of the liver	NA	1	0
+3151501000006115	IH - Infectious hepatitis	NA	1	0
+2598261000006118	Idiopathic neonatal hemochromatosis	NA	1	0
+2598271000006113	Idiopathic neonatal haemochromatosis	NA	1	0
+2598251000006115	Neonatal hemochromatosis	NA	1	0
+4353631000006117	Acute focal hepatitis	NA	1	0
+6342211000006110	Copper storage associated hepatitis	NA	1	0
+6346091000006112	Lymphocytic portal hepatitis	NA	1	0
+6347341000006116	Hepatitis C antibody positive with elevated alanine transaminase	NA	1	0
+6347331000006114	Hepatitis C seropositive with elevated ALT	NA	1	0
+6347321000006111	Hepatitis C antibody positive with elevated ALT	NA	1	0
+6349691000006113	Polymerase chain reaction positive for hepatitis C viral ribonucleic acid genotype 1A	NA	1	0
+6349681000006110	Polymerase chain reaction (PCR) positive for hepatitis C viral ribonucleic acid (genotype 1A)	NA	1	0
+6342191000006114	Acute cholangiohepatitis	NA	1	0
+7019781000006112	Acute hepatitis B with hepatic coma	NA	1	0
+7019801000006111	Hepatic coma due to acute hepatitis B	NA	1	0
+7019791000006110	Acute viral hepatitis B with hepatic coma	NA	1	0
+7024461000006115	Hepatic coma due to chronic hepatitis B	NA	1	0
+7024441000006119	Chronic hepatitis B with hepatic coma	NA	1	0
+7024451000006117	Chronic viral hepatitis B with hepatic coma	NA	1	0
+12758671000006118	Hepatitis D infection	NA	1	0
+12758651000006111	Hepatitis B with delta agent superinfection	NA	1	0
+12758641000006114	Viral hepatitis B with hepatitis D superinfection	NA	1	0
+12758681000006115	Viral hepatitis B with delta agent superinfection	NA	1	0
+12722521000006116	Hepatitis B with hepatitis D superinfection	NA	1	0
+12758661000006113	Hepatitis B with delta agent coinfection	NA	1	0
+12758691000006117	Viral hepatitis delta	NA	1	0
+7032541000006114	Genus: Hepatitis B virus group	NA	1	0
+7032531000006116	Hepatitis B virus group	NA	1	0
+7032551000006111	Genus Orthohepadnavirus	NA	1	0
+7043981000006119	Drug-induced hepatic cirrhosis	NA	1	0
+7068151000006114	Fulminant hepatitis	NA	1	0
+7170221000006110	Chronic rejection of liver transplant	NA	1	0
+7167121000006113	Hyperacute rejection of liver transplant	NA	1	0
+7167181000006112	Accelerated rejection of liver transplant	NA	1	0
+7210651000006110	Specimen from transplanted liver obtained by biopsy	NA	1	0
+7260251000006113	Hepatitis B associated with Human immunodeficiency virus infection	NA	1	0
+7300021000006118	Sequela of chronic liver disease	NA	1	0
+7329241000006118	Endoscopy of upper gastrointestinal tract and banding of varix of esophagus	NA	1	0
+7329231000006111	Endoscopy of upper gastrointestinal tract and banding of esophageal varices	NA	1	0
+7329221000006113	Oesophagogastroduodenoscopy and banding of oesophageal varices	NA	1	0
+7329211000006117	Esophagogastroduodenoscopy and banding of esophageal varices	NA	1	0
+7329291000006110	Endoscopy of upper gastrointestinal tract and injection of varix of oesophagus	NA	1	0
+7329311000006114	Endoscopy of upper gastrointestinal tract and injection of oesophageal varices	NA	1	0
+7329331000006115	Oesophagogastroduodenoscopy and injection of oesophageal varices	NA	1	0
+7329321000006118	Esophagogastroduodenoscopy and injection of esophageal varices	NA	1	0
+7329341000006113	Endoscopy of upper gastrointestinal tract and injection of varix of esophagus	NA	1	0
+7329301000006111	Endoscopy of upper gastrointestinal tract and injection of esophageal varices	NA	1	0
+7328881000006116	Endoscopy of upper gastrointestinal tract and injection of varix of stomach	NA	1	0
+7328891000006118	Esophagogastroduodenoscopy and injection of gastric varices	NA	1	0
+7328901000006119	Oesophagogastroduodenoscopy and injection of gastric varices	NA	1	0
+7328911000006116	Endoscopy of upper gastrointestinal tract and injection of gastric varices	NA	1	0
+7329351000006110	Endoscopy of upper gastrointestinal tract and banding of varix of stomach	NA	1	0
+7329371000006117	Esophagogastroduodenoscopy and banding of gastric varices	NA	1	0
+7329381000006119	Oesophagogastroduodenoscopy and banding of gastric varices	NA	1	0
+7329171000006119	Injection of varix of stomach	NA	1	0
+7329181000006116	Injection of gastric varices	NA	1	0
+7376511000006111	Hepatic encephalopathy in fulminant hepatic failure	NA	1	0
+7488491000006118	Hepatitis C virus subtype 1b	NA	1	0
+7488631000006119	Hepatitis C virus subtype 1c	NA	1	0
+7488571000006115	Hepatitis C virus genotype 1	NA	1	0
+7488651000006114	Hepatitis C virus subtype 4b	NA	1	0
+7488681000006118	Hepatitis C virus subtype 4e	NA	1	0
+7488551000006113	Hepatitis C virus subtype 6a	NA	1	0
+7488521000006116	Hepatitis C virus subtype 3a	NA	1	0
+7488581000006117	Hepatitis C virus genotype 2	NA	1	0
+7488601000006110	Hepatitis C virus genotype 4	NA	1	0
+7488621000006117	Hepatitis C virus genotype 6	NA	1	0
+7488531000006118	Hepatitis C virus subtype 3b	NA	1	0
+7488671000006116	Hepatitis C virus subtype 4d	NA	1	0
+7488561000006110	Hepatitis C virus subtype 4a	NA	1	0
+7488501000006114	Hepatitis C virus subtype 2a	NA	1	0
+7488611000006113	Hepatitis C virus genotype 5	NA	1	0
+7488511000006112	Hepatitis C virus subtype 2b	NA	1	0
+7488641000006112	Hepatitis C virus subtype 2c	NA	1	0
+7488591000006119	Hepatitis C virus genotype 3	NA	1	0
+7488541000006111	Hepatitis C virus subtype 5a	NA	1	0
+7488661000006111	Hepatitis C virus subtype 4c	NA	1	0
+7488481000006116	Hepatitis C virus subtype 1a	NA	1	0
+7498361000006116	Induced termination of pregnancy complicated by acute necrosis of liver	NA	1	0
+7966991000006113	Chronic hepatitis C with stage 4 fibrosis	NA	1	0
+7507931000006118	Transgastric plication of gastric varices	NA	1	0
+7516751000006110	Transgastric plication of oesophageal varices	NA	1	0
+7516761000006112	Transgastric plication of esophageal varices	NA	1	0
+7518231000006111	NAIC - North American Indian childhood cirrhosis	NA	1	0
+7518221000006113	North American Indian childhood cirrhosis	NA	1	0
+7559281000006114	HMDPC - hypermanganesemia with dystonia, polycythaemia and cirrhosis	NA	1	0
+7559271000006111	HMDPC - hypermanganesemia with dystonia, polycythemia and cirrhosis	NA	1	0
+7559261000006116	Hypermanganesemia with dystonia, polycythemia, and cirrhosis	NA	1	0
+7559251000006118	Hypermanganesemia with dystonia, polycythaemia, and cirrhosis	NA	1	0
+7565141000006116	Doppler ultrasound of transplant liver	NA	1	0
+7566431000006113	Liver transplant recipient	NA	1	0
+8112141000006113	Chronic hepatitis C with stage 3 fibrosis	NA	1	0
+7583121000006113	Chronic hepatitis C with stage 2 fibrosis	NA	1	0
+7583471000006115	Hepatitis B virus genotype D	NA	1	0
+7583491000006119	Hepatitis B virus genotype F	NA	1	0
+7583451000006113	Hepatitis B virus genotype B	NA	1	0
+7583441000006111	Hepatitis B virus genotype A	NA	1	0
+7583511000006113	Hepatitis B virus genotype H	NA	1	0
+7583481000006117	Hepatitis B virus genotype E	NA	1	0
+7583501000006110	Hepatitis B virus genotype G	NA	1	0
+7583461000006110	Hepatitis B virus genotype C	NA	1	0
+8040621000006113	Cryoglobulinaemia due to chronic hepatitis C	NA	1	0
+8040631000006111	Cryoglobulinemia due to chronic hepatitis C	NA	1	0
+8037721000006115	Glomerulonephritis due to hepatitis C	NA	1	0
+7613341000006114	Acute multi-acinar necrosis of liver	NA	1	0
+7615611000006119	Hepatitis D virus infection	NA	1	0
+7615591000006113	Viral hepatitis D	NA	1	0
+7615601000006117	Viral hepatitis type D	NA	1	0
+7617291000006116	Portal hypertension in classical cystic fibrosis	NA	1	0
+7617281000006119	Portal hypertension due to cystic fibrosis	NA	1	0
+8019271000006110	History of portal hypertension	NA	1	0
+8458751000006119	Ascites due to alcoholic hepatitis	NA	1	0
+8046451000006115	Hepatic coma due to chronic hepatitis C	NA	1	0
+8462251000006117	Hepatic coma due to chronic hepatic failure	NA	1	0
+8458771000006112	Hepatic coma due to alcoholic liver failure	NA	1	0
+8032441000006115	Hepatic coma due to hepatitis	NA	1	0
+8039281000006117	Hepatic coma due to acute hepatitis C	NA	1	0
+8462171000006115	Hepatic ascites due to chronic alcoholic hepatitis	NA	1	0
+8047801000006118	Hepatic coma due to chronic hepatitis B with delta agent	NA	1	0
+8467451000006119	Coma due to subacute hepatic failure	NA	1	0
+8467441000006116	Hepatic coma due to subacute liver failure	NA	1	0
+8467501000006117	Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease	NA	1	0
+8458631000006117	Coma due to acute hepatic failure	NA	1	0
+7705241000006113	Steatosis of liver caused by retroviral protease inhibitor	NA	1	0
+7705251000006110	Fatty liver caused by retroviral protease inhibitor	NA	1	0
+7705401000006112	Portal hypertension caused by antiretroviral drug	NA	1	0
+7705411000006110	Portal hypertension caused by anti-retroviral drug	NA	1	0
+7712051000006112	Occult hepatitis B infection	NA	1	0
+7712041000006110	Occult chronic type B viral hepatitis	NA	1	0
+7731531000006110	Primary biliary cirrhosis co-occurrent with systemic scleroderma	NA	1	0
+7738891000006115	Idiopathic copper associated cirrhosis of liver	NA	1	0
+7738901000006116	Non-Wilsonian hepatic copper toxicosis of infancy and childhood	NA	1	0
+7756121000006113	Renal tubulopathy with encephalopathy and liver failure syndrome	NA	1	0
+7757271000006117	BASM syndrome	NA	1	0
+7757261000006112	Biliary atresia with splenic malformation syndrome	NA	1	0
+7757691000006119	Boichis disease	NA	1	0
+7757681000006117	Boichis syndrome	NA	1	0
+7757701000006119	Nephronophthisis hepatic fibrosis syndrome	NA	1	0
+7767241000006119	Doppler ultrasound of transplanted liver	NA	1	0
+7767221000006114	Doppler ultrasonography of transplanted liver	NA	1	0
+7767531000006110	Hepatoportal sclerosis	NA	1	0
+7767541000006117	Obliterative portal venopathy	NA	1	0
+7803831000006116	Acute infantile liver failure due to synthesis defect of mitochondrial deoxyribonucleic acid encoded protein	NA	1	0
+7821671000006112	Autoimmune hepatitis type 3	NA	1	0
+7824371000006115	Gentile syndrome	NA	1	0
+7824341000006111	Joubert syndrome with hepatic defect	NA	1	0
+7824351000006113	Cerebellar vermis hypoplasia, oligophrenia, congenital ataxia, coloboma, hepatic fibrosis	NA	1	0
+7824331000006118	Joubert syndrome with congenital hepatic fibrosis	NA	1	0
+7824381000006117	COACH (cerebellar vermis hypoplasia, oligophrenia, congenital ataxia, coloboma, hepatic fibrosis) syndrome	NA	1	0
+7824361000006110	COACH syndrome	NA	1	0
+7837281000006116	Idiopathic portal hypertension	NA	1	0
+7840451000006111	Idiopathic granulomatous hepatitis	NA	1	0
+7851551000006119	Neonatal diabetes, congenital hypothyroidism, congenital glaucoma, hepatic fibrosis, polycystic kidney syndrome	NA	1	0
+7868601000006115	Cardiomyopathy co-occurrent and due to cirrhosis of liver	NA	1	0
+7868591000006111	Cirrhotic cardiomyopathy	NA	1	0
+7875291000006110	Cirrhosis of liver caused by methotrexate	NA	1	0
+7875301000006111	Cirrhosis of liver caused by amiodarone	NA	1	0
+7875311000006114	Cirrhosis of liver caused by methyldopa	NA	1	0
+3514567013	Chronic viral hepatitis D	NA	1	0
+3514568015	Chronic infection caused by Hepatitis D virus	NA	1	0
+3515307018	Cirrhosis of liver co-occurrent and due to primary sclerosing cholangitis	NA	1	0
+12031701000006112	Steatohepatitis caused by ingestible alcohol	NA	1	0
+12061231000006118	Chronic hepatitis C caused by hepatitis C virus genotype 5	NA	1	0
+12066921000006115	Chronic hepatitis C caused by Hepatitis C virus genotype 2	NA	1	0
+12066931000006117	Chronic hepatitis C caused by Hepatitis C virus genotype 4	NA	1	0

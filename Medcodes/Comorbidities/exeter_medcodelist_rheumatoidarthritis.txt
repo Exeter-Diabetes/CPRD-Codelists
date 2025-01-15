@@ -1,173 +1,191 @@
-medcodeid	term_medcode
-251794010	H/O: rheumatoid arthritis
-4541331000006113	History of rheumatoid arthritis
-297544012	Polyneuropathy in rheumatoid arthritis
-297641010	Myopathy due to rheumatoid arthritis
-309787016	Rheumatoid arthritis of cervical spine
-16833013	Ankylosing spondylitis
-2653371000006113	Rheumatoid spondylitis
-2653381000006111	Spondylosis deformans
-2653421000006118	Idiopathic ankylosing spondylitis
-2653431000006115	AS - Ankylosing spondylitis
-2653411000006114	Marie-Strumpell spondylitis
-2653391000006114	Bekhterev's disease
-718001000006112	Marie - Strumpell spondylitis
-309788014	Rheumatoid arthritis of spine
-2653361000006118	Marie Strümpell spondylitis
-309789018	Rheumatoid arthritis of shoulder
-309790010	Rheumatoid arthritis of sternoclavicular joint
-309791014	Rheumatoid arthritis of acromioclavicular joint
-309792019	Rheumatoid arthritis of elbow
-4809101000006114	Rheumatoid arthritis of distal radioulnar joint
-162051000006115	Rheumatoid arthritis of distal radio-ulnar joint
-309794018	Rheumatoid arthritis of wrist
-989291000006112	Rheum. arth. - wrist joint
-162111000006117	Rheumatoid arthritis of metacarpophalangeal joint
-989301000006113	Rheum. arth. - hand joint
-162131000006111	Rheumatoid arthritis of proximal interphalangeal joint of finger
-162041000006117	Rheumatoid arthritis of distal interphalangeal joint of finger
-989311000006111	Rheum. arth. - hip joint
-309798015	Rheumatoid arthritis of hip
-162141000006118	Rheumatoid arthritis of sacroiliac joint
-989321000006115	Rheum. arth. - knee joint
-309800010	Rheumatoid arthritis of knee
-4809181000006117	Rheumatoid arthritis of tibiofibular joint
-162191000006110	Rheumatoid arthritis of tibio-fibular joint
-989331000006117	Rheum. arth. - ankle/foot
-309802019	Rheumatoid arthritis of ankle
-309803012	Rheumatoid arthritis of subtalar joint
-309804018	Rheumatoid arthritis of talonavicular joint
-7099641000006113	Rheumatoid arthritis of foot
-309805017	Rheumatoid arthritis of other tarsal joint
-4809221000006114	Rheumatoid arthritis of first metatarsophalangeal joint
-168761000006118	Rheumatoid arthritis of 1st metatarsophalangeal joint
-162101000006115	Rheumatoid arthritis of lesser metatarsophalangeal joint
-162081000006111	Rheumatoid arthritis of interphalangeal joint of toe
-889741000006118	Rheum. arth. - other joint
-889761000006119	Rheum. arth. - knee joint
-889781000006112	Rheum. arth. - hand joint
-312520011	[X]Other specified rheumatoid arthritis
-168751000006115	Rheumatoid arthritis and other inflammatory polyarthropathy
-3636561000006111	RhA - Rheumatoid arthritis
-3636571000006116	Proliferative arthritis
-889751000006116	Rheum. arth. - ankle/foot
-889771000006114	Rheum. arth. - hip joint
-889791000006110	Rheum. arth. - wrist joint
-889821000006118	Rheum. arth. - multiple joint
-3636541000006112	RA - Rheumatoid arthritis
-116082011	Rheumatoid arthritis
-3636521000006117	Chronic rheumatic arthritis
-889731000006111	Rheumatoid arthritis NOS
-889811000006114	Rheum. arth. - shoulder joint
-3636551000006114	Rheumatoid disease
-3636511000006113	Atrophic arthritis
-3636531000006119	Rheumatic gout
-889801000006111	Rheum. arth. - elbow joint
-5721431000006114	Rheumatoid arthritis of multiple joints
-426510015	Rheumatoid arthritis - multiple joint
-309816012	Flare of rheumatoid arthritis
-1778239014	Rheumatoid lung disease
-1786545019	Rheumatoid lung
-162301000006117	Rheumatoid lung
-485614018	Rheumatoid nodule
-3042571000006112	Subcutaneous rheumatoid nodule
-3042581000006110	Chronic rheumatoid nodular fibrosis
-162341000006115	Rheumatoid nodule
-16911000006114	Rheumatoid arthritis with organ / system involvement
-424981000006114	[X]Rheumatoid arthritis+involvement/other organs or systems
-162231000006117	Rheumatoid arthropathy + visceral/systemic involvement NOS
-312518013	[X]Other seropositive rheumatoid arthritis
-312534011	[X]Seropositive rheumatoid arthritis, unspecified
-149911000006117	Seropositive rheumatoid arthritis
-1779323014	Rheumatoid vasculitis
-359292012	Seronegative rheumatoid arthritis
-11903911000006111	Seropositive errosive rheumatoid arthritis
-451461014	Seropositive erosive rheumatoid arthritis
-6608771000006110	Rheumatoid pneumoconiosis
-6608791000006111	Caplans syndrome
-6608781000006113	Caplan's syndrome
-1786505011	Caplan's syndrome
-311496011	Fibrosing alveolitis associated with rheumatoid arthritis
-2670341000006112	Diffuse interstitial rheumatoid disease of lung
-463301000006112	Adult-onset Still's disease
-5141321000006112	Adult onset Still disease
-463281000006113	Adult onset Still's disease
-125937016	Acute polyarticular juvenile rheumatoid arthritis
-3732891000006112	Acute juvenile rheumatoid arthritis
-755441000006119	Juvenile rheumatoid arthritis - Still's disease
-6802581000006114	JRA - Juvenile rheumatoid arthritis
-309828016	Juvenile rheumatoid arthritis NOS
-2472447010	Juvenile rheumatoid arthritis
-889841000006113	Still's disease - juvenile R.A
-4809291000006111	Juvenile arthritis with systemic onset
-4809311000006110	Systemic juvenile idiopathic arthritis
-4809321000006119	Juvenile onset Still's disease
-4809281000006113	Systemic onset juvenile chronic arthritis
-4809301000006112	Systemic onset juvenile rheumatoid arthritis
-4809341000006114	Monoarticular juvenile rheumatoid arthritis
-309827014	Monarticular juvenile rheumatoid arthritis
-5141691000006118	Nailfold rheumatoid vasculitis
-5721491000006113	Rheumatoid arthritis - ankle/foot
-5721481000006110	Rheumatoid arthritis - ankle and/or foot
-5721501000006117	Rheumatoid arthritis of ankle and/or foot
-5721471000006112	Rheumatoid arthritis of hand
-5721461000006117	Rheumatoid arthritis of hand joint
-5721451000006119	Rheumatoid arthritis - hand joint
-5139351000006118	Rheumatoid arthritis with multisystem involvement
-5141701000006118	Systemic rheumatoid vasculitis
-2530001000006117	Chronic polyarticular juvenile rheumatoid arthritis
-2620951000006114	Pericarditis secondary to rheumatoid arthritis
-11826151000006116	Pericarditis co-occurrent with extraarticular rheumatoid arthritis
-2840701000006117	Dilated cardiomyopathy secondary to rheumatoid arthritis
-3322481000006114	Rheumatoid nodule
-3339321000006113	Pseudorheumatoid nodule
-3428901000006117	Rheumatoid arthritis, leucopenia AND splenomegaly
-3428891000006116	Rheumatoid arthritis, leukopenia AND splenomegaly
-3428911000006119	Felty syndrome
-95067016	Felty's syndrome
-123542016	Pauciarticular juvenile rheumatoid arthritis
-3709271000006110	Pauciarticular onset juvenile arthritis
-3709251000006117	Pauciarticular juvenile rheumatoid arthritis
-3709261000006115	JCA - Pauciarticular onset juvenile chronic arthritis
-502690012	Pauciarticular onset juvenile chronic arthritis
-3901751000006115	Uveitis-rheumatoid arthritis syndrome
-219021000000114	Rheumatoid arthritis monitoring
-6665271000006114	Cutaneous atrophy due to rheumatoid arthritis
-6798411000006117	Juvenile idiopathic arthritis
-6802621000006114	Juvenile seropositive arthritis
-6802591000006112	Juvenile seropositive polyarthritis
-6802631000006112	Juvenile chronic arthritis, polyarticular seropositive
-6802611000006118	Juvenile idiopathic arthritis, polyarthritis, rheumatoid factor positive
-6802601000006116	Juvenile rheumatoid arthritis, seropositive
-6895391000006110	Anterior uveitis in juvenile rheumatoid arthritis
-6895371000006114	Anterior uveitis in juvenile idiopathic arthritis
-6895401000006112	Anterior uveitis in juvenile chronic arthritis
-6895381000006112	Iritis in juvenile idiopathic arthritis
-7078501000006113	Rheumatoid arthritis of temporomandibular joint
-215551000000114	Sero negative polyarthritis
-219271000000117	Seronegative arthritis
-7144151000006115	Deformity of wrist due to rheumatoid arthritis
-7144161000006118	Rheumatoid wrist deformity
-7176491000006113	Deformity of foot due to rheumatoid arthritis
-7125241000006110	Family history of juvenile rheumatoid arthritis
-7308781000006115	Polyarticular juvenile rheumatoid arthritis
-8030351000006112	Deformity of hand due to rheumatoid arthritis
-8030361000006114	Rheumatoid hand deformity
-8102191000006119	Rheumatoid lung disease with rheumatoid arthritis
-8045661000006112	Rheumatoid arthritis in remission
-9357441000006116	Seropositive rheumatoid arthritis of multiple joints
-8447181000006111	Rheumatoid arthritis of left knee
-8447281000006115	Rheumatoid arthritis of right knee
-3514956015	Rheumatoid arthritis with erosion
-3514955016	Erosion of joint surface co-occurrent and due to rheumatoid arthritis
-3514958019	Rheumatoid arthritis without erosion
-3527061011	Deformity of left foot co-occurrent and due to rheumatoid arthritis
-3527712017	Deformity of left hand co-occurrent and due to rheumatoid arthritis
-3527731011	Deformity of right foot co-occurrent and due to rheumatoid arthritis
-3527737010	Deformity of right hand co-occurrent and due to rheumatoid arthritis
-3528259014	Rheumatoid arthritis of left hand
-3528262012	Rheumatoid arthritis of right hand
-3528264013	Rheumatoid arthritis of left hip
-3528266010	Rheumatoid arthritis of right hip
-12114051000006110	Rheumatoid arthritis of left shoulder
-12114061000006112	Rheumatoid arthritis of right shoulder
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+116082011	Rheumatoid arthritis	3207929	1	1
+16833013	Ankylosing spondylitis	323710	1	1
+359292012	Seronegative rheumatoid arthritis	208400	1	1
+149911000006117	Seropositive rheumatoid arthritis	148428	1	1
+219271000000117	Seronegative arthritis	134428	1	1
+219021000000114	Rheumatoid arthritis monitoring	72276	1	1
+251794010	H/O: rheumatoid arthritis	49550	1	1
+426510015	Rheumatoid arthritis - multiple joint	35853	1	1
+168751000006115	Rheumatoid arthritis and other inflammatory polyarthropathy	35315	1	1
+755441000006119	Juvenile rheumatoid arthritis - Still's disease	27020	1	1
+215551000000114	Sero negative polyarthritis	22847	1	1
+451461014	Seropositive erosive rheumatoid arthritis	19134	1	1
+309816012	Flare of rheumatoid arthritis	14719	1	1
+889731000006111	Rheumatoid arthritis NOS	12907	1	1
+463281000006113	Adult onset Still's disease	9025	1	1
+889821000006118	Rheum. arth. - multiple joint	8404	1	1
+2472447010	Juvenile rheumatoid arthritis	8171	1	1
+309828016	Juvenile rheumatoid arthritis NOS	8146	1	1
+123542016	Pauciarticular juvenile rheumatoid arthritis	4615	1	1
+162341000006115	Rheumatoid nodule	4539	1	1
+312534011	[X]Seropositive rheumatoid arthritis, unspecified	4451	1	1
+125937016	Acute polyarticular juvenile rheumatoid arthritis	3953	1	1
+463301000006112	Adult-onset Still's disease	3169	1	1
+485614018	Rheumatoid nodule	3035	1	1
+309800010	Rheumatoid arthritis of knee	2776	1	1
+5721431000006114	Rheumatoid arthritis of multiple joints	2615	1	1
+309794018	Rheumatoid arthritis of wrist	2583	1	1
+95067016	Felty's syndrome	2521	1	1
+502690012	Pauciarticular onset juvenile chronic arthritis	2404	1	1
+1779323014	Rheumatoid vasculitis	2032	1	1
+311496011	Fibrosing alveolitis associated with rheumatoid arthritis	1989	1	1
+312518013	[X]Other seropositive rheumatoid arthritis	1962	1	1
+6798411000006117	Juvenile idiopathic arthritis	1918	1	1
+162231000006117	Rheumatoid arthropathy + visceral/systemic involvement NOS	1373	1	1
+889841000006113	Still's disease - juvenile R.A	1355	1	1
+8045661000006112	Rheumatoid arthritis in remission	1066	1	1
+162301000006117	Rheumatoid lung	1051	1	1
+1778239014	Rheumatoid lung disease	997	1	1
+162111000006117	Rheumatoid arthritis of metacarpophalangeal joint	990	1	1
+309827014	Monarticular juvenile rheumatoid arthritis	916	1	1
+889781000006112	Rheum. arth. - hand joint	882	1	1
+889791000006110	Rheum. arth. - wrist joint	821	1	1
+309789018	Rheumatoid arthritis of shoulder	765	1	1
+309787016	Rheumatoid arthritis of cervical spine	536	1	1
+309792019	Rheumatoid arthritis of elbow	510	1	1
+162131000006111	Rheumatoid arthritis of proximal interphalangeal joint of finger	499	1	1
+889761000006119	Rheum. arth. - knee joint	485	1	1
+309802019	Rheumatoid arthritis of ankle	440	1	1
+1786545019	Rheumatoid lung	406	1	1
+312520011	[X]Other specified rheumatoid arthritis	377	1	1
+309798015	Rheumatoid arthritis of hip	371	1	1
+889751000006116	Rheum. arth. - ankle/foot	277	1	1
+4809281000006113	Systemic onset juvenile chronic arthritis	269	1	1
+3709251000006117	Pauciarticular juvenile rheumatoid arthritis	238	1	1
+2530001000006117	Chronic polyarticular juvenile rheumatoid arthritis	235	1	1
+16911000006114	Rheumatoid arthritis with organ / system involvement	229	1	1
+297544012	Polyneuropathy in rheumatoid arthritis	204	1	1
+309804018	Rheumatoid arthritis of talonavicular joint	164	1	1
+309788014	Rheumatoid arthritis of spine	162	1	1
+13677531000006119	Seronegative rheumatoid arthritis of multiple sites	147	0	1
+309803012	Rheumatoid arthritis of subtalar joint	137	1	1
+3042571000006112	Subcutaneous rheumatoid nodule	116	1	1
+162041000006117	Rheumatoid arthritis of distal interphalangeal joint of finger	109	1	1
+168761000006118	Rheumatoid arthritis of 1st metatarsophalangeal joint	104	1	1
+309791014	Rheumatoid arthritis of acromioclavicular joint	93	1	1
+889771000006114	Rheum. arth. - hip joint	93	1	1
+162141000006118	Rheumatoid arthritis of sacroiliac joint	92	1	1
+889811000006114	Rheum. arth. - shoulder joint	76	1	1
+3636551000006114	Rheumatoid disease	71	1	1
+297641010	Myopathy due to rheumatoid arthritis	70	1	1
+3709271000006110	Pauciarticular onset juvenile arthritis	66	1	1
+5721451000006119	Rheumatoid arthritis - hand joint	62	1	1
+162081000006111	Rheumatoid arthritis of interphalangeal joint of toe	60	1	1
+4809221000006114	Rheumatoid arthritis of first metatarsophalangeal joint	56	1	1
+162101000006115	Rheumatoid arthritis of lesser metatarsophalangeal joint	54	1	1
+13709541000006116	Bilateral rheumatoid arthritis of knees	54	0	1
+14507321000006114	JIA - juvenile idiopathic arthritis	53	0	1
+309805017	Rheumatoid arthritis of other tarsal joint	45	1	1
+889741000006118	Rheum. arth. - other joint	45	1	1
+309790010	Rheumatoid arthritis of sternoclavicular joint	44	1	1
+2670341000006112	Diffuse interstitial rheumatoid disease of lung	44	1	1
+889801000006111	Rheum. arth. - elbow joint	42	1	1
+14011041000006114	Bilateral deformity of hands due to rheumatoid arthritis	42	0	1
+6802591000006112	Juvenile seropositive polyarthritis	37	1	1
+8447181000006111	Rheumatoid arthritis of left knee	34	1	1
+14512891000006117	Rheumatoid arthritis with erosion of joint	33	0	1
+162051000006115	Rheumatoid arthritis of distal radio-ulnar joint	31	1	1
+14666871000006112	Juvenile rheumatoid arthritis	30	0	1
+8447281000006115	Rheumatoid arthritis of right knee	29	1	1
+7078501000006113	Rheumatoid arthritis of temporomandibular joint	26	1	1
+424981000006114	[X]Rheumatoid arthritis+involvement/other organs or systems	25	1	1
+718001000006112	Marie - Strumpell spondylitis	24	1	1
+5721481000006110	Rheumatoid arthritis - ankle and/or foot	24	1	1
+13709571000006112	Bilateral rheumatoid arthritis of hands	24	0	1
+14514751000006114	Seronegative rheumatoid arthritis of multiple joints	21	0	1
+3636541000006112	RA - Rheumatoid arthritis	20	1	1
+13709511000006115	Bilateral rheumatoid arthritis of feet	19	0	1
+8102191000006119	Rheumatoid lung disease with rheumatoid arthritis	18	1	1
+3528264013	Rheumatoid arthritis of left hip	18	1	1
+1786505011	Caplan's syndrome	17	1	1
+3528266010	Rheumatoid arthritis of right hip	17	1	1
+7099641000006113	Rheumatoid arthritis of foot	16	1	1
+12114051000006110	Rheumatoid arthritis of left shoulder	15	1	1
+4809101000006114	Rheumatoid arthritis of distal radioulnar joint	12	1	1
+9357441000006116	Seropositive rheumatoid arthritis of multiple joints	10	1	1
+5141321000006112	Adult onset Still disease	9	1	1
+3322481000006114	Rheumatoid nodule	9	1	1
+13687691000006111	Rheumatoid arthritis of left wrist	9	0	1
+13687701000006111	Rheumatoid arthritis of right foot	9	0	1
+3528262012	Rheumatoid arthritis of right hand	8	1	1
+12114061000006112	Rheumatoid arthritis of right shoulder	8	1	1
+162191000006110	Rheumatoid arthritis of tibio-fibular joint	7	1	1
+3514955016	Erosion of joint surface co-occurrent and due to rheumatoid arthritis	6	1	1
+3527061011	Deformity of left foot co-occurrent and due to rheumatoid arthritis	6	1	1
+3527731011	Deformity of right foot co-occurrent and due to rheumatoid arthritis	6	1	1
+13687711000006114	Rheumatoid arthritis of right wrist	6	0	1
+13605001000006117	Rheumatoid arthritis of joint of spine	6	0	1
+4809311000006110	Systemic juvenile idiopathic arthritis	5	1	1
+3901751000006115	Uveitis-rheumatoid arthritis syndrome	5	1	1
+13687681000006113	Rheumatoid arthritis of left foot	5	0	1
+989291000006112	Rheum. arth. - wrist joint	4	1	1
+3527712017	Deformity of left hand co-occurrent and due to rheumatoid arthritis	4	1	1
+3527737010	Deformity of right hand co-occurrent and due to rheumatoid arthritis	4	1	1
+3528259014	Rheumatoid arthritis of left hand	4	1	1
+13709551000006119	Rheumatoid arthritis of both knees	4	0	1
+4541331000006113	History of rheumatoid arthritis	3	1	1
+2653431000006115	AS - Ankylosing spondylitis	3	1	1
+989301000006113	Rheum. arth. - hand joint	3	1	1
+4809181000006117	Rheumatoid arthritis of tibiofibular joint	3	1	1
+6895371000006114	Anterior uveitis in juvenile idiopathic arthritis	3	1	1
+13709581000006110	Rheumatoid arthritis of both hands	3	0	1
+5721471000006112	Rheumatoid arthritis of hand	2	1	1
+6802621000006114	Juvenile seropositive arthritis	2	1	1
+8030351000006112	Deformity of hand due to rheumatoid arthritis	2	1	1
+3514958019	Rheumatoid arthritis without erosion	2	1	1
+13709561000006117	Rheumatoid arthritis of bilateral knees	2	0	1
+2653381000006111	Spondylosis deformans	1	1	1
+989311000006111	Rheum. arth. - hip joint	1	1	1
+989321000006115	Rheum. arth. - knee joint	1	1	1
+989331000006117	Rheum. arth. - ankle/foot	1	1	1
+3636531000006119	Rheumatic gout	1	1	1
+4809291000006111	Juvenile arthritis with systemic onset	1	1	1
+4809321000006119	Juvenile onset Still's disease	1	1	1
+5141691000006118	Nailfold rheumatoid vasculitis	1	1	1
+3428911000006119	Felty syndrome	1	1	1
+7176491000006113	Deformity of foot due to rheumatoid arthritis	1	1	1
+14493941000006117	Rheumatoid pericarditis	1	0	1
+2653371000006113	Rheumatoid spondylitis	NA	1	0
+2653421000006118	Idiopathic ankylosing spondylitis	NA	1	0
+2653411000006114	Marie-Strumpell spondylitis	NA	1	0
+2653391000006114	Bekhterev's disease	NA	1	0
+2653361000006118	Marie Strümpell spondylitis	NA	1	0
+3636561000006111	RhA - Rheumatoid arthritis	NA	1	0
+3636571000006116	Proliferative arthritis	NA	1	0
+3636521000006117	Chronic rheumatic arthritis	NA	1	0
+3636511000006113	Atrophic arthritis	NA	1	0
+3042581000006110	Chronic rheumatoid nodular fibrosis	NA	1	0
+11903911000006111	Seropositive errosive rheumatoid arthritis	NA	1	0
+6608771000006110	Rheumatoid pneumoconiosis	NA	1	0
+6608791000006111	Caplans syndrome	NA	1	0
+6608781000006113	Caplan's syndrome	NA	1	0
+3732891000006112	Acute juvenile rheumatoid arthritis	NA	1	0
+6802581000006114	JRA - Juvenile rheumatoid arthritis	NA	1	0
+4809301000006112	Systemic onset juvenile rheumatoid arthritis	NA	1	0
+4809341000006114	Monoarticular juvenile rheumatoid arthritis	NA	1	0
+5721491000006113	Rheumatoid arthritis - ankle/foot	NA	1	0
+5721501000006117	Rheumatoid arthritis of ankle and/or foot	NA	1	0
+5721461000006117	Rheumatoid arthritis of hand joint	NA	1	0
+5139351000006118	Rheumatoid arthritis with multisystem involvement	NA	1	0
+5141701000006118	Systemic rheumatoid vasculitis	NA	1	0
+2620951000006114	Pericarditis secondary to rheumatoid arthritis	NA	1	0
+11826151000006116	Pericarditis co-occurrent with extraarticular rheumatoid arthritis	NA	1	0
+2840701000006117	Dilated cardiomyopathy secondary to rheumatoid arthritis	NA	1	0
+3339321000006113	Pseudorheumatoid nodule	NA	1	0
+3428901000006117	Rheumatoid arthritis, leucopenia AND splenomegaly	NA	1	0
+3428891000006116	Rheumatoid arthritis, leukopenia AND splenomegaly	NA	1	0
+3709261000006115	JCA - Pauciarticular onset juvenile chronic arthritis	NA	1	0
+6665271000006114	Cutaneous atrophy due to rheumatoid arthritis	NA	1	0
+6802631000006112	Juvenile chronic arthritis, polyarticular seropositive	NA	1	0
+6802611000006118	Juvenile idiopathic arthritis, polyarthritis, rheumatoid factor positive	NA	1	0
+6802601000006116	Juvenile rheumatoid arthritis, seropositive	NA	1	0
+6895391000006110	Anterior uveitis in juvenile rheumatoid arthritis	NA	1	0
+6895401000006112	Anterior uveitis in juvenile chronic arthritis	NA	1	0
+6895381000006112	Iritis in juvenile idiopathic arthritis	NA	1	0
+7144151000006115	Deformity of wrist due to rheumatoid arthritis	NA	1	0
+7144161000006118	Rheumatoid wrist deformity	NA	1	0
+7125241000006110	Family history of juvenile rheumatoid arthritis	NA	1	0
+7308781000006115	Polyarticular juvenile rheumatoid arthritis	NA	1	0
+8030361000006114	Rheumatoid hand deformity	NA	1	0
+3514956015	Rheumatoid arthritis with erosion	NA	1	0

@@ -1,159 +1,159 @@
-medcodeid	term_medcode
-2500131000006115	Anxiety disorder of childhood OR adolescence
-4196291000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks
-4196301000006110	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission
-2690121000006112	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission
-4391041000006110	Separation anxiety
-370861000006110	[X]Childhood overanxious disorder
-550361000006119	Childhood and adolescent overanxiousness disturbance
-2712981000006115	Overanxious disorder of childhood
-2520421000006116	Agoraphobia without history of panic disorder with limited symptom attacks
-2742251000006114	Hallucinogen-induced anxiety disorder
-2742261000006111	Hallucinogen induced anxiety disorder
-12127531000006113	Recurrent mild major depressive disorder co-occurrent with anxiety
-12127541000006115	Recurrent severe major depressive disorder co-occurrent with anxiety
-12127551000006118	Recurrent moderate major depressive disorder co-occurrent with anxiety
-9901121000006113	Illness anxiety disorder
-9901161000006119	Mild major depressive disorder co-occurrent with anxiety single episode
-9901261000006114	Moderate major depressive disorder co-occurrent with anxiety single episode
-9901281000006116	Severe major depressive disorder co-occurrent with anxiety single episode
-2525391000006119	Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder
-403931000006116	Organic anxiety disorder
-12703831000006115	[X]Organic anxiety disorder
-2777721000006112	Organic anxiety disorder
-2527461000006111	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks
-294960010	Chronic anxiety
-294961014	Recurrent anxiety
-294992011	Agoraphobia with panic attacks
-418051000006118	[X]Panic disorder with agoraphobia
-882381000006115	Agoraphobia
-988881000006118	Agoraphobia
-12716981000006115	Agoraphobia without mention of panic attacks
-295474019	Acute panic state due to acute stress reaction
-626101000006114	Disturbance anxiety and fearfulness childhood/adolescent NOS
-626121000006116	Disturbance of anxiety and fearfulness in childhood and adolescence
-4767501000006113	Childhood phobic anxiety disorder
-420641000006116	[X]Phobic anxiety disorder of childhood
-363641000006114	[X]Anxiety hysteria
-488201000006114	Anxiety disorder
-401881014	[X]Other specified anxiety disorders
-363671000006118	[X]Anxiety reaction
-296238018	[X]Other anxiety disorders
-363661000006113	[X]Anxiety NOS
-296249012	[X]Anxiety disorder, unspecified
-2813941000006116	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks
-2832021000006113	Inhalant-induced anxiety disorder
-2832031000006111	Inhalant induced anxiety disorder
-481154010	Generalised anxiety disorder
-388071000006116	[X]Generalized anxiety disorder
-2848311000006117	GAD - Generalised anxiety disorder
-2848291000006116	Generalized anxiety disorder
-2848301000006115	GAD - Generalized anxiety disorder
-2854161000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission
-8010321000006110	Anxiety disorder caused by drug
-398351000006110	[X]Mild anxiety depression
-398561000006117	[X]Mixed anxiety and depressive disorder
-419841000006116	[X]Persistant anxiety depression
-488211000006112	Mixed anxiety and depressive disorder
-5024071000006118	Anxiety depression
-296245018	[X]Other mixed anxiety disorders
-2895611000006111	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission
-138401000006119	Social phobic disorders
-427071000006115	Social phobia
-2907991000006110	Social anxiety disorder
-363361000006117	[X]Anthropophobia
-427061000006110	[X]Social neurosis
-2983851000006118	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks
-2549381000006117	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission
-3011881000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks
-3021721000006110	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks
-3049471000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks
-3062791000006112	Alcohol-induced anxiety disorder
-3062801000006113	Alcohol induced anxiety disorder
-8113001000006117	Stranger anxiety
-3073541000006113	Panic disorder with agoraphobia
-1210253015	Panic disorder
-418031000006113	[X]Panic attack
-418061000006116	[X]Panic state
-6358151000006115	Episodic paroxysmal anxiety disorder
-296239014	[X]Panic disorder [episodic paroxysmal anxiety]
-3110021000006119	Anxiety disorder of adolescence
-3110101000006111	Avoidant disorder of childhood OR adolescence
-3117191000006115	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission
-296224013	[X]Phobic anxiety disorders
-296237011	[X]Phobic anxiety disorder, unspecified
-420671000006112	[X]Phobic state NOS
-426871000006113	[X]Simple phobia
-401780016	Phobic disorder
-296236019	[X]Other phobic anxiety disorders
-223641000000116	Phobic anxiety disorder
-420631000006114	Phobic disorder
-11920891000006113	[X]Phobia NOS
-223631000000113	Phobic disorders
-882371000006118	Phobic state
-3142901000006117	Cannabis-induced anxiety disorder
-3142911000006119	Cannabis induced anxiety disorder
-3195421000006117	Panic disorder without agoraphobia with severe panic attacks
-2578051000006118	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks
-3302251000006110	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks
-3310151000006118	Psychoactive substance-induced organic anxiety disorder
-3325931000006113	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission
-3334391000006114	Cocaine induced anxiety disorder
-3334381000006111	Cocaine-induced anxiety disorder
-3357961000006113	Anxiety disorder due to a general medical condition
-3357971000006118	Anxiety disorder due to medical disorder
-3357981000006115	Anxiety disorder due to general medical condition
-3367191000006114	Anxiety disorder of childhood
-3375111000006115	Panic disorder without agoraphobia with panic attacks in partial remission
-2587471000006114	Panic disorder with agoraphobia AND severe panic attacks
-3409271000006118	PCP induced anxiety disorder
-3409261000006113	Phencyclidine-induced anxiety disorder
-1808521000006110	Panic disorder without agoraphobia
-3473121000006117	Panic disorder with agoraphobia AND panic attacks in full remission
-3494631000006116	Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks
-3497371000006119	Moderate anxiety
-294993018	Agoraphobia without history of panic disorder
-3536071000006118	Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks
-3539231000006117	Panic disorder with agoraphobia AND panic attacks in partial remission
-3541591000006117	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission
-3558031000006116	Panic disorder without agoraphobia with moderate panic attacks
-3649131000006119	Caffeine-induced anxiety disorder
-3649141000006112	Caffeine induced anxiety disorder
-7859081000006118	Anxiety disorder caused by opioid
-7859091000006115	Opioid-induced anxiety disorder
-7860011000006112	Anxiety disorder caused by methylenedioxymethamphetamine
-7860031000006118	Ecstasy type drug-induced anxiety disorder
-7860021000006116	Anxiety disorder caused by MDMA (methylenedioxymethamphetamine)
-7860271000006114	Anxiety disorder caused by dissociative drug
-7860281000006112	Dissociative drug-induced anxiety disorder
-7860301000006111	Ketamine-induced anxiety disorder
-7860291000006110	Anxiety disorder caused by ketamine
-3684921000006110	Panic disorder without agoraphobia with mild panic attacks
-3527470018	Synthetic cannabinoid-induced anxiety disorder
-3527472014	Anxiety disorder caused by synthetic cannabinoid
-3703211000006116	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission
-3636421019	Anxiety disorder caused by stimulant
-3636813017	Synthetic cathinone-induced anxiety disorder
-3636814011	Anxiety disorder caused by synthetic cathinone
-3749151000006116	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission
-3749871000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks
-3810661000006112	Severe anxiety (panic)
-3822891000006112	Free-floating anxiety
-2630621000006112	Panic disorder with agoraphobia AND moderate panic attacks
-3839481000006118	Amphetamine-induced anxiety disorder
-3839491000006115	Amphetamine induced anxiety disorder
-3840651000006116	Agoraphobia without history of panic disorder without limited symptom attacks
-3841871000006116	Panic disorder without agoraphobia with panic attacks in full remission
-3846111000006111	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks
-3860791000006112	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks
-3883581000006112	Separation anxiety disorder of childhood, early onset
-3926881000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks
-3962111000006111	Panic disorder with agoraphobia AND mild panic attacks
-3975551000006118	Avoidant disorder of adolescence
-3514292010	Anxiety in pregnancy
-304838011	Anxiety state
-294963012	Anxiety state
-294953016	Anxiety state unspecified
-339044013	Panic attack
-363651000006111	Anxiety neurosis
-363681000006115	[X]Anxiety state
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+488211000006112	Mixed anxiety and depressive disorder	11632305	1	1
+488201000006114	Anxiety disorder	7765921	1	1
+294963012	Anxiety state	1709067	1	1
+339044013	Panic attack	1117292	1	1
+363661000006113	[X]Anxiety NOS	605733	1	1
+481154010	Generalised anxiety disorder	597002	1	1
+1210253015	Panic disorder	427020	1	1
+398561000006117	[X]Mixed anxiety and depressive disorder	384939	1	1
+294960010	Chronic anxiety	366562	1	1
+294953016	Anxiety state unspecified	188685	1	1
+304838011	Anxiety state	168722	1	1
+294961014	Recurrent anxiety	163956	1	1
+294992011	Agoraphobia with panic attacks	134125	1	1
+296249012	[X]Anxiety disorder, unspecified	104509	1	1
+388071000006116	[X]Generalized anxiety disorder	101847	1	1
+363681000006115	[X]Anxiety state	85009	1	1
+223641000000116	Phobic anxiety disorder	60755	1	1
+296238018	[X]Other anxiety disorders	37433	1	1
+363671000006118	[X]Anxiety reaction	33396	1	1
+296239014	[X]Panic disorder [episodic paroxysmal anxiety]	32906	1	1
+427071000006115	Social phobia	32817	1	1
+418031000006113	[X]Panic attack	32363	1	1
+398351000006110	[X]Mild anxiety depression	30568	1	1
+296224013	[X]Phobic anxiety disorders	29299	1	1
+223631000000113	Phobic disorders	27873	1	1
+420631000006114	Phobic disorder	20323	1	1
+363651000006111	Anxiety neurosis	19894	1	1
+138401000006119	Social phobic disorders	19821	1	1
+418051000006118	[X]Panic disorder with agoraphobia	17825	1	1
+419841000006116	[X]Persistant anxiety depression	16558	1	1
+401780016	Phobic disorder	13623	1	1
+294993018	Agoraphobia without history of panic disorder	11279	1	1
+418061000006116	[X]Panic state	7422	1	1
+295474019	Acute panic state due to acute stress reaction	5288	1	1
+882381000006115	Agoraphobia	4986	1	1
+296237011	[X]Phobic anxiety disorder, unspecified	4959	1	1
+426871000006113	[X]Simple phobia	4114	1	1
+296245018	[X]Other mixed anxiety disorders	2775	1	1
+626121000006116	Disturbance of anxiety and fearfulness in childhood and adolescence	1650	1	1
+401881014	[X]Other specified anxiety disorders	1534	1	1
+2848311000006117	GAD - Generalised anxiety disorder	1320	1	1
+403931000006116	Organic anxiety disorder	1028	1	1
+420671000006112	[X]Phobic state NOS	1014	1	1
+363641000006114	[X]Anxiety hysteria	742	1	1
+296236019	[X]Other phobic anxiety disorders	711	1	1
+420641000006116	[X]Phobic anxiety disorder of childhood	697	1	1
+882371000006118	Phobic state	563	1	1
+626101000006114	Disturbance anxiety and fearfulness childhood/adolescent NOS	394	1	1
+5024071000006118	Anxiety depression	372	1	1
+2848291000006116	Generalized anxiety disorder	357	1	1
+12127551000006118	Recurrent moderate major depressive disorder co-occurrent with anxiety	354	1	1
+550361000006119	Childhood and adolescent overanxiousness disturbance	269	1	1
+12127531000006113	Recurrent mild major depressive disorder co-occurrent with anxiety	263	1	1
+4391041000006110	Separation anxiety	245	1	1
+1808521000006110	Panic disorder without agoraphobia	238	1	1
+427061000006110	[X]Social neurosis	213	1	1
+2907991000006110	Social anxiety disorder	168	1	1
+12127541000006115	Recurrent severe major depressive disorder co-occurrent with anxiety	162	1	1
+3497371000006119	Moderate anxiety	108	1	1
+4767501000006113	Childhood phobic anxiety disorder	88	1	1
+9901161000006119	Mild major depressive disorder co-occurrent with anxiety single episode	86	1	1
+3810661000006112	Severe anxiety (panic)	73	1	1
+370861000006110	[X]Childhood overanxious disorder	70	1	1
+9901261000006114	Moderate major depressive disorder co-occurrent with anxiety single episode	52	1	1
+988881000006118	Agoraphobia	49	1	1
+6358151000006115	Episodic paroxysmal anxiety disorder	45	1	1
+9901281000006116	Severe major depressive disorder co-occurrent with anxiety single episode	32	1	1
+2848301000006115	GAD - Generalized anxiety disorder	31	1	1
+2712981000006115	Overanxious disorder of childhood	15	1	1
+3962111000006111	Panic disorder with agoraphobia AND mild panic attacks	10	1	1
+363361000006117	[X]Anthropophobia	9	1	1
+8113001000006117	Stranger anxiety	8	1	1
+3073541000006113	Panic disorder with agoraphobia	7	1	1
+3494631000006116	Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks	5	1	1
+3684921000006110	Panic disorder without agoraphobia with mild panic attacks	5	1	1
+3142901000006117	Cannabis-induced anxiety disorder	4	1	1
+2587471000006114	Panic disorder with agoraphobia AND severe panic attacks	3	1	1
+3195421000006117	Panic disorder without agoraphobia with severe panic attacks	2	1	1
+3375111000006115	Panic disorder without agoraphobia with panic attacks in partial remission	2	1	1
+3558031000006116	Panic disorder without agoraphobia with moderate panic attacks	2	1	1
+3514292010	Anxiety in pregnancy	2	1	1
+2690121000006112	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in full remission	1	1	1
+9901121000006113	Illness anxiety disorder	1	1	1
+3636421019	Anxiety disorder caused by stimulant	1	1	1
+3822891000006112	Free-floating anxiety	1	1	1
+2630621000006112	Panic disorder with agoraphobia AND moderate panic attacks	1	1	1
+3839481000006118	Amphetamine-induced anxiety disorder	1	1	1
+2500131000006115	Anxiety disorder of childhood OR adolescence	NA	1	0
+4196291000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	NA	1	0
+4196301000006110	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission	NA	1	0
+2520421000006116	Agoraphobia without history of panic disorder with limited symptom attacks	NA	1	0
+2742251000006114	Hallucinogen-induced anxiety disorder	NA	1	0
+2742261000006111	Hallucinogen induced anxiety disorder	NA	1	0
+2525391000006119	Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder	NA	1	0
+12703831000006115	[X]Organic anxiety disorder	NA	1	0
+2777721000006112	Organic anxiety disorder	NA	1	0
+2527461000006111	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	NA	1	0
+12716981000006115	Agoraphobia without mention of panic attacks	NA	1	0
+2813941000006116	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	NA	1	0
+2832021000006113	Inhalant-induced anxiety disorder	NA	1	0
+2832031000006111	Inhalant induced anxiety disorder	NA	1	0
+2854161000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission	NA	1	0
+8010321000006110	Anxiety disorder caused by drug	NA	1	0
+2895611000006111	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission	NA	1	0
+2983851000006118	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	NA	1	0
+2549381000006117	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in partial remission	NA	1	0
+3011881000006114	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks	NA	1	0
+3021721000006110	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks	NA	1	0
+3049471000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	NA	1	0
+3062791000006112	Alcohol-induced anxiety disorder	NA	1	0
+3062801000006113	Alcohol induced anxiety disorder	NA	1	0
+3110021000006119	Anxiety disorder of adolescence	NA	1	0
+3110101000006111	Avoidant disorder of childhood OR adolescence	NA	1	0
+3117191000006115	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	NA	1	0
+11920891000006113	[X]Phobia NOS	NA	1	0
+3142911000006119	Cannabis induced anxiety disorder	NA	1	0
+2578051000006118	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks	NA	1	0
+3302251000006110	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks	NA	1	0
+3310151000006118	Psychoactive substance-induced organic anxiety disorder	NA	1	0
+3325931000006113	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission	NA	1	0
+3334391000006114	Cocaine induced anxiety disorder	NA	1	0
+3334381000006111	Cocaine-induced anxiety disorder	NA	1	0
+3357961000006113	Anxiety disorder due to a general medical condition	NA	1	0
+3357971000006118	Anxiety disorder due to medical disorder	NA	1	0
+3357981000006115	Anxiety disorder due to general medical condition	NA	1	0
+3367191000006114	Anxiety disorder of childhood	NA	1	0
+3409271000006118	PCP induced anxiety disorder	NA	1	0
+3409261000006113	Phencyclidine-induced anxiety disorder	NA	1	0
+3473121000006117	Panic disorder with agoraphobia AND panic attacks in full remission	NA	1	0
+3536071000006118	Panic disorder with agoraphobia, mild agoraphobic avoidance AND mild panic attacks	NA	1	0
+3539231000006117	Panic disorder with agoraphobia AND panic attacks in partial remission	NA	1	0
+3541591000006117	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission	NA	1	0
+3649131000006119	Caffeine-induced anxiety disorder	NA	1	0
+3649141000006112	Caffeine induced anxiety disorder	NA	1	0
+7859081000006118	Anxiety disorder caused by opioid	NA	1	0
+7859091000006115	Opioid-induced anxiety disorder	NA	1	0
+7860011000006112	Anxiety disorder caused by methylenedioxymethamphetamine	NA	1	0
+7860031000006118	Ecstasy type drug-induced anxiety disorder	NA	1	0
+7860021000006116	Anxiety disorder caused by MDMA (methylenedioxymethamphetamine)	NA	1	0
+7860271000006114	Anxiety disorder caused by dissociative drug	NA	1	0
+7860281000006112	Dissociative drug-induced anxiety disorder	NA	1	0
+7860301000006111	Ketamine-induced anxiety disorder	NA	1	0
+7860291000006110	Anxiety disorder caused by ketamine	NA	1	0
+3527470018	Synthetic cannabinoid-induced anxiety disorder	NA	1	0
+3527472014	Anxiety disorder caused by synthetic cannabinoid	NA	1	0
+3703211000006116	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	NA	1	0
+3636813017	Synthetic cathinone-induced anxiety disorder	NA	1	0
+3636814011	Anxiety disorder caused by synthetic cathinone	NA	1	0
+3749151000006116	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission	NA	1	0
+3749871000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks	NA	1	0
+3839491000006115	Amphetamine induced anxiety disorder	NA	1	0
+3840651000006116	Agoraphobia without history of panic disorder without limited symptom attacks	NA	1	0
+3841871000006116	Panic disorder without agoraphobia with panic attacks in full remission	NA	1	0
+3846111000006111	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks	NA	1	0
+3860791000006112	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	NA	1	0
+3883581000006112	Separation anxiety disorder of childhood, early onset	NA	1	0
+3926881000006118	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks	NA	1	0
+3975551000006118	Avoidant disorder of adolescence	NA	1	0

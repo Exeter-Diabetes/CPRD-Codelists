@@ -1,38 +1,38 @@
-medcodeid	term_medcode
-18532015	Mumps pancreatitis
-353692014	Cytomegaloviral pancreatitis
-351123016	Pancytopenia with pancreatitis
-303630010	Acute pancreatitis
-303632019	Acute pancreatitis unspecified
-1816471000006113	Other acute pancreatitis
-396402014	Acute pancreatitis NOS
-4787911000006115	AP - Acute pancreatitis
-303633012	Acute recurrent pancreatitis
-493743018	Acute haemorrhagic pancreatitis
-2568871000006112	Acute hemorrhagic pancreatitis
-2568891000006113	Haemorrhagic pancreatitis
-2568881000006110	Hemorrhagic pancreatitis
-303636016	Acute suppurative pancreatitis
-98289011	Subacute pancreatitis
-353686015	Gallstone acute pancreatitis
-353688019	Idiopathic acute pancreatitis
-353687012	Alcohol-induced acute pancreatitis
-353689010	Drug-induced acute pancreatitis
-5087661000006118	Acute pancreatitis due to infection
-5087671000006113	Viral acute pancreatitis
-5087691000006114	Postoperative acute pancreatitis
-5087721000006116	Traumatic acute pancreatitis
-5600731000006112	Post-ERCP acute pancreatitis
-5600741000006119	Post-endoscopic retrograde cholangiopancreatography acute pancreatitis
-2625421000006118	Acute necrotizing pancreatitis
-2625431000006115	Necrotizing pancreatitis
-2625411000006114	Acute necrotising pancreatitis
-2625441000006113	Necrotising pancreatitis
-404861000000110	History of acute pancreatitis
-2116751000000111	Biliary acute pancreatitis
-3730761000006113	Inflammation of pancreas
-125722013	Pancreatitis
-3253081000006116	Subcutaneous nodular fat necrosis in pancreatitis
-8030241000006115	Acute pancreatitis due to common bile duct calculus
-399218019	Pancytopenia with malformation
-399224013	Pancytopenia
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+303630010	Acute pancreatitis	239861	1	1
+125722013	Pancreatitis	94753	1	1
+399224013	Pancytopenia	42678	1	1
+353686015	Gallstone acute pancreatitis	30890	1	1
+396402014	Acute pancreatitis NOS	12646	1	1
+303633012	Acute recurrent pancreatitis	6148	1	1
+353687012	Alcohol-induced acute pancreatitis	3896	1	1
+404861000000110	History of acute pancreatitis	3108	1	1
+303632019	Acute pancreatitis unspecified	1723	1	1
+353688019	Idiopathic acute pancreatitis	912	1	1
+2116751000000111	Biliary acute pancreatitis	526	1	1
+18532015	Mumps pancreatitis	414	1	1
+493743018	Acute haemorrhagic pancreatitis	413	1	1
+98289011	Subacute pancreatitis	404	1	1
+1816471000006113	Other acute pancreatitis	258	1	1
+353689010	Drug-induced acute pancreatitis	172	1	1
+2625411000006114	Acute necrotising pancreatitis	102	1	1
+303636016	Acute suppurative pancreatitis	75	1	1
+2625441000006113	Necrotising pancreatitis	49	1	1
+5600731000006112	Post-ERCP acute pancreatitis	48	1	1
+399218019	Pancytopenia with malformation	18	1	1
+351123016	Pancytopenia with pancreatitis	15	1	1
+4787911000006115	AP - Acute pancreatitis	12	1	1
+5087671000006113	Viral acute pancreatitis	9	1	1
+353692014	Cytomegaloviral pancreatitis	6	1	1
+5087721000006116	Traumatic acute pancreatitis	5	1	1
+3730761000006113	Inflammation of pancreas	4	1	1
+2568891000006113	Haemorrhagic pancreatitis	2	1	1
+2625431000006115	Necrotizing pancreatitis	2	1	1
+2625421000006118	Acute necrotizing pancreatitis	1	1	1
+8030241000006115	Acute pancreatitis due to common bile duct calculus	1	1	1
+2568871000006112	Acute hemorrhagic pancreatitis	NA	1	0
+2568881000006110	Hemorrhagic pancreatitis	NA	1	0
+5087661000006118	Acute pancreatitis due to infection	NA	1	0
+5087691000006114	Postoperative acute pancreatitis	NA	1	0
+5600741000006119	Post-endoscopic retrograde cholangiopancreatography acute pancreatitis	NA	1	0
+3253081000006116	Subcutaneous nodular fat necrosis in pancreatitis	NA	1	0

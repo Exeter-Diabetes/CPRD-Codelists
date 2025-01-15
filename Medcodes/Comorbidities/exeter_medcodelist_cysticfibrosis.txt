@@ -1,67 +1,68 @@
-medcodeid	term_medcode
-293539016	Cystic fibrosis NOS
-1227346010	Cystic fibrosis with combined manifestations
-293528019	Cystic fibrosis
-293530017	Fibrocystic disease
-4760431000006115	CF - Cystic fibrosis
-293532013	Mucoviscidosis
-4760451000006110	CF
-451084014	Cystic fibrosis with other manifestations
-3824111000006115	Cystic fibrosis without meconium ileus
-1495466012	Cystic fibrosis with no meconium ileus
-1495490013	Meconium ileus in cystic fibrosis
-142759013	Cystic fibrosis with meconium ileus
-3899691000006112	Meconium ileus of the newborn
-3899681000006114	Meconium obstruction of intestine in mucoviscidosis
-3907561000006119	Pulmonary cystic fibrosis
-606441000006110	Cystic fibrosis of the lung
-3907551000006116	Mucoviscidosis involving the lung
-293537019	Cystic fibrosis with intestinal manifestations
-7063141000006118	Diabetes mellitus co-occurrent and due to cystic fibrosis
-494831000000119	Diabetes mellitus associated with cystic fibrosis
-2675247013	Liver disease due to cystic fibrosis
-5088111000006112	Fibrocystic disease of the pancreas
-5088121000006116	Mucoviscidosis of pancreas
-5088101000006114	Cystic fibrosis of pancreas
-5088131000006118	Fibrocystic disease of pancreas
-4838121000006118	Perinatal jaundice due to cystic fibrosis
-316643011	Perinatal jaundice due to mucoviscidosis
-7068831000006114	Diabetes mellitus due to cystic fibrosis
-7514991000006113	Arthropathy associated with cystic fibrosis
-7617251000006110	Male infertility in classical cystic fibrosis
-7617241000006113	Male infertility due to cystic fibrosis
-7617261000006112	Osteoporosis due to cystic fibrosis
-7617271000006117	Osteoporosis in classical cystic fibrosis
-7617291000006116	Portal hypertension in classical cystic fibrosis
-7617281000006119	Portal hypertension due to cystic fibrosis
-7617671000006115	Pancreatic insufficiency due to cystic fibrosis of pancreas
-7619291000006113	Digestive manifestation of classical cystic fibrosis
-7619281000006110	Digestive system manifestation co-occurrent and due to cystic fibrosis
-7619391000006119	Otorhinolaryngological manifestation of classical cystic fibrosis
-7619381000006117	Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis
-7620171000006116	Female hypofertility due to cystic fibrosis
-7620151000006114	Female infertility due to cystic fibrosis
-7620161000006111	Female hypofertility in classical cystic fibrosis
-7620181000006118	Perforation of intestine due to cystic fibrosis with meconium ileus
-7620201000006117	Intestinal perforation due to cystic fibrosis with meconium ileus
-7620191000006115	Meconium ileus in cystic fibrosis with perforation
-7622831000006110	Elevated hepatic enzymes in classical cystic fibrosis
-7622821000006112	Elevated liver enzymes level due to cystic fibrosis
-7623271000006117	Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis
-7623281000006119	Exocrine pancreatic manifestation of classic cystic fibrosis
-7742121000006112	Follicular hamartoma with alopecia and cystic fibrosis syndrome
-7803031000006110	Lubani Al-Saleh Teebi syndrome
-7803011000006116	Cystic fibrosis with gastritis and megaloblastic anaemia syndrome
-7803021000006112	Cystic fibrosis with gastritis and megaloblastic anemia syndrome
-7813571000006118	Polyneuropathy due to classical cystic fibrosis
-7864831000006119	Foetal cystic fibrosis
-7864821000006117	Fetal cystic fibrosis
-3636280019	Classical cystic fibrosis
-3636282010	Atypical cystic fibrosis
-3636283017	Subclinical cystic fibrosis
-1148201000000111	Cystic fibrosis monitoring
-1148241000000114	Cystic fibrosis annual review
-1174311000000111	Arthropathy in cystic fibrosis
-1174361000000113	Cystic fibrosis with distal intestinal obstruction syndrome
-1736361000000112	Cystic fibrosis related cirrhosis
-2222561000000111	Exacerbation of cystic fibrosis
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+293528019	Cystic fibrosis	136226	1	1
+293539016	Cystic fibrosis NOS	3987	1	1
+2222561000000111	Exacerbation of cystic fibrosis	3460	1	1
+293530017	Fibrocystic disease	3293	1	1
+494831000000119	Diabetes mellitus associated with cystic fibrosis	2182	1	1
+1148201000000111	Cystic fibrosis monitoring	1117	1	1
+1148241000000114	Cystic fibrosis annual review	1027	1	1
+606441000006110	Cystic fibrosis of the lung	947	1	1
+142759013	Cystic fibrosis with meconium ileus	334	1	1
+1495490013	Meconium ileus in cystic fibrosis	245	1	1
+451084014	Cystic fibrosis with other manifestations	238	1	1
+2675247013	Liver disease due to cystic fibrosis	214	1	1
+7068831000006114	Diabetes mellitus due to cystic fibrosis	142	1	1
+293537019	Cystic fibrosis with intestinal manifestations	122	1	1
+1174361000000113	Cystic fibrosis with distal intestinal obstruction syndrome	57	1	1
+1174311000000111	Arthropathy in cystic fibrosis	39	1	1
+293532013	Mucoviscidosis	28	1	1
+1736361000000112	Cystic fibrosis related cirrhosis	24	1	1
+1495466012	Cystic fibrosis with no meconium ileus	19	1	1
+1227346010	Cystic fibrosis with combined manifestations	7	1	1
+13925411000006118	Distal intestinal obstruction syndrome due to cystic fibrosis	5	0	1
+7617671000006115	Pancreatic insufficiency due to cystic fibrosis of pancreas	4	1	1
+3907561000006119	Pulmonary cystic fibrosis	3	1	1
+3636282010	Atypical cystic fibrosis	2	1	1
+4760431000006115	CF - Cystic fibrosis	1	1	1
+5088101000006114	Cystic fibrosis of pancreas	1	1	1
+316643011	Perinatal jaundice due to mucoviscidosis	1	1	1
+7617261000006112	Osteoporosis due to cystic fibrosis	1	1	1
+4760451000006110	CF	NA	1	0
+3824111000006115	Cystic fibrosis without meconium ileus	NA	1	0
+3899691000006112	Meconium ileus of the newborn	NA	1	0
+3899681000006114	Meconium obstruction of intestine in mucoviscidosis	NA	1	0
+3907551000006116	Mucoviscidosis involving the lung	NA	1	0
+7063141000006118	Diabetes mellitus co-occurrent and due to cystic fibrosis	NA	1	0
+5088111000006112	Fibrocystic disease of the pancreas	NA	1	0
+5088121000006116	Mucoviscidosis of pancreas	NA	1	0
+5088131000006118	Fibrocystic disease of pancreas	NA	1	0
+4838121000006118	Perinatal jaundice due to cystic fibrosis	NA	1	0
+7514991000006113	Arthropathy associated with cystic fibrosis	NA	1	0
+7617251000006110	Male infertility in classical cystic fibrosis	NA	1	0
+7617241000006113	Male infertility due to cystic fibrosis	NA	1	0
+7617271000006117	Osteoporosis in classical cystic fibrosis	NA	1	0
+7617291000006116	Portal hypertension in classical cystic fibrosis	NA	1	0
+7617281000006119	Portal hypertension due to cystic fibrosis	NA	1	0
+7619291000006113	Digestive manifestation of classical cystic fibrosis	NA	1	0
+7619281000006110	Digestive system manifestation co-occurrent and due to cystic fibrosis	NA	1	0
+7619391000006119	Otorhinolaryngological manifestation of classical cystic fibrosis	NA	1	0
+7619381000006117	Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis	NA	1	0
+7620171000006116	Female hypofertility due to cystic fibrosis	NA	1	0
+7620151000006114	Female infertility due to cystic fibrosis	NA	1	0
+7620161000006111	Female hypofertility in classical cystic fibrosis	NA	1	0
+7620181000006118	Perforation of intestine due to cystic fibrosis with meconium ileus	NA	1	0
+7620201000006117	Intestinal perforation due to cystic fibrosis with meconium ileus	NA	1	0
+7620191000006115	Meconium ileus in cystic fibrosis with perforation	NA	1	0
+7622831000006110	Elevated hepatic enzymes in classical cystic fibrosis	NA	1	0
+7622821000006112	Elevated liver enzymes level due to cystic fibrosis	NA	1	0
+7623271000006117	Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis	NA	1	0
+7623281000006119	Exocrine pancreatic manifestation of classic cystic fibrosis	NA	1	0
+7742121000006112	Follicular hamartoma with alopecia and cystic fibrosis syndrome	NA	1	0
+7803031000006110	Lubani Al-Saleh Teebi syndrome	NA	1	0
+7803011000006116	Cystic fibrosis with gastritis and megaloblastic anaemia syndrome	NA	1	0
+7803021000006112	Cystic fibrosis with gastritis and megaloblastic anemia syndrome	NA	1	0
+7813571000006118	Polyneuropathy due to classical cystic fibrosis	NA	1	0
+7864831000006119	Foetal cystic fibrosis	NA	1	0
+7864821000006117	Fetal cystic fibrosis	NA	1	0
+3636280019	Classical cystic fibrosis	NA	1	0
+3636283017	Subclinical cystic fibrosis	NA	1	0
