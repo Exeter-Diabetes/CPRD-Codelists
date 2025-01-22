@@ -306,6 +306,9 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 1820441000033113	NA	Adipine LA 60  M/R tablets  60 mg	NA	NA	NA	NA	NA	NA
 1820541000033114	NA	Adipine LA 30  M/R tablets  30 mg	NA	NA	NA	NA	NA	NA
 1834241000033117	NA	Triapin Mite  Tablets  	NA	NA	NA	NA	NA	NA
+4503941000033114	NA	Felendil Xl  M/R tablets  2.5 mg	NA	NA	NA	NA	NA	NA
+4504041000033111	NA	Felendil Xl  M/R tablets  5 mg	NA	NA	NA	NA	NA	NA
+4504141000033110	NA	Felendil Xl  M/R tablets  10 mg	NA	NA	NA	NA	NA	NA
 2104741000033113	782111000001104	Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd)	Ethimil MR 240mg tablets	Modified-release tablet	Oral	Verapamil hydrochloride	240.000mg	NA
 2739141000033114	157511000001105	Horizem SR 90mg capsules (Horizon lifecare)	Horizem SR 90mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	90.000mg	NA
 2739041000033110	758511000001104	Horizem SR 120mg capsules (Horizon lifecare)	Horizem SR 120mg capsules	Modified-release capsule	Oral	Diltiazem hydrochloride	120.000mg	NA

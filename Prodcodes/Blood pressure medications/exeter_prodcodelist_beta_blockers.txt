@@ -248,8 +248,6 @@ ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 1451041000033115	NA	Tolerzide  Tablets	NA	NA	NA	NA	NA	NA
 1453041000033116	NA	Totamol  Tablets  100 mg	NA	NA	NA	NA	NA	NA
 1453141000033117	NA	Totamol  Tablets  50 mg	NA	NA	NA	NA	NA	NA
-1505241000033113	NA	Vasaten  Tablets  100 mg	NA	NA	NA	NA	NA	NA
-1505341000033115	NA	Vasaten  Tablets  50 mg	NA	NA	NA	NA	NA	NA
 1572241000033113	NA	Atenamin  Tablets  100 mg	NA	NA	NA	NA	NA	NA
 1572341000033115	NA	Atenamin  Tablets  25 mg	NA	NA	NA	NA	NA	NA
 1572441000033114	NA	Atenamin  Tablets  50 mg	NA	NA	NA	NA	NA	NA
