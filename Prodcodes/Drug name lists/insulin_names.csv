@@ -1,0 +1,79 @@
+name,basal_bolus
+endopancrine,unclear
+hupurin,unclear
+insulin aspart,bolus
+apidra,bolus
+humalog,bolus
+fiasp,bolus
+novorapid,bolus
+lispro,bolus
+exubera,bolus
+glulisine,bolus
+actrapid,bolus
+admelog,bolus
+trurapi,bolus
+h-tronin,bolus
+humaject s,bolus
+velosulin,bolus
+velasulin,bolus
+hypurin bovine neutral,bolus
+hypurin porcine neutral,bolus
+insuman rapid,bolus
+lyumjev,bolus
+humulin r,bolus
+humulin s,bolus
+insuman infusat,bolus
+neutral insulin,bolus
+quicksol,bolus
+neusulin,bolus
+glargine,basal
+lantus,basal
+detemir,basal
+levemir,basal
+toujeo,basal
+basaglar,basal
+degludec,basal
+tresiba,basal
+protamine zinc,basal
+zinc lente,basal
+zinc suspension,basal
+humulin l,basal
+humulin u,basal
+humulin z,basal
+hypurin bovine lente,basal
+lentard mc,basal
+monotard,basal
+semglee,basal
+ultralente,basal
+ultratard,basal
+protaphane,basal
+neulente,basal
+tempulin,basal
+biphasic,mix
+humulin 50/50,mix
+humulin 60/40,mix
+humulin 70/30,mix
+humulin 80/20,mix
+humulin 90/10,mix
+hypurin porcine 30/70,mix
+hypurin porcine biphasic,mix
+initard 50/50,mix
+actraphane,mix
+insuman comb,mix
+mixtard,mix
+humaject m3,mix
+humulin m,mix
+novomix,mix
+penmix,mix
+humulin i,intermediate
+insulatard,intermediate
+insuman basal,intermediate
+isophane,intermediate
+hypurin porcine isophane,intermediate
+hypurin bovine isophane,intermediate
+humulin n,intermediate
+monophane,intermediate
+neuphane,intermediate
+semilente,intermediate
+semitard mc,intermediate
+rapitard mc,intermediate

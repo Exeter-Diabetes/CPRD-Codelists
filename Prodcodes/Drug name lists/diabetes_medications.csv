@@ -1,0 +1,77 @@
+Generic name,Brand name,Drug class
+Canagliflozin,Invokana or Silusent,SGLT2
+Dapagliflozin,Forxiga,SGLT2
+Empagliflozin,Jardiance,SGLT2
+Ertugliflozin,Steglatro,SGLT2
+Canagliflozin,Vokanamet,SGLT2
+Metformin,Vokanamet,MFN
+Dapagliflozin,Xigduo,SGLT2
+Metformin,Xigduo,MFN
+Empagliflozin,Synjardy,SGLT2
+Metformin,Synjardy,MFN
+Ertugliflozin,Segluromet,SGLT2
+Metformin,Segluromet,MFN
+Alogliptin,Nesina or Vipidia,DPP4
+Linagliptin,Tradjenta or Trajenta,DPP4
+Saxagliptin,Onglyza,DPP4
+Sitagliptin,Januvia,DPP4
+Vildagliptin,Galvus,DPP4
+Alogliptin,Kazano or Vipdomet,DPP4
+Metformin,Kazano or Vipdomet,MFN
+Linagliptin,Jentadueto,DPP4
+Metformin,Jentadueto,MFN
+Saxagliptin,Komboglyze or Kombiglyze,DPP4
+Metformin,Komboglyze or Kombiglyze,MFN
+Sitagliptin,Janumet or Ristfor,DPP4
+Metformin,Janumet or Ristfor,MFN
+Vildagliptin,Eucreas,DPP4
+Metformin,Eucreas,MFN
+Albiglutide,Eperzan or Tanzeum,GLP1
+Dulaglutide,Trulicity,GLP1
+Exenatide,Byetta,GLP1
+Exenatide prolonged-release,Bydureon,GLP1
+Liraglutide,Victoza or Saxenda,GLP1
+Lixisenatide,Lyxumia,GLP1
+High-dose semaglutide,Wegovy,GLP1
+Low-dose semaglutide,Ozempic,GLP1
+Oral semaglutide,Rybelsus,GLP1
+Semaglutide,,GLP1
+Liraglutide,Xultophy,GLP1
+Basal insulin,Xultophy,INS
+Lixisenatide,Suliqua,GLP1
+Basal insulin,Suliqua,INS
+Tirzepatide,Mounjaro,GIPGLP1
+Pioglitazone,Actos or Glidipion or Diabiom or Glizofar,TZD
+Rosiglitazone,Avandia,TZD
+Troglitazone,Rezulin or Romozin,TZD
+Metformin,Competact,MFN
+Pioglitazone,Competact,TZD
+Metformin,Avandamet,MFN
+Rosiglitazone,Avandamet,TZD
+Nateglinide,Starlix,Glinide
+Repaglinide,Prandin or Novonorm or Enyglid,Glinide
+Saxagliptin,Qtern,DPP4
+Dapagliflozin,Qtern,SGLT2
+Linagliptin,Glyxambi,DPP4
+Empagliflozin,Glyxambi,SGLT2
+Rosiglitazone,Avandaryl,TZD
+Glimepiride,Avandaryl,SU
+Acarbose,Glucobay,Acarbose
+Miglitol,Glyset,Acarbose
+Voglibose,Voglib,Acarbose
+Acetohexamide,Dimelor,SU
+Chlorpropamide,Diabemide or Diabinese or Glymese or Melitase,SU
+Glibenclamide,Abbenclamide or Calabren or Daonil or Diabetamide or Euglucon or Gliken or Lederglib or Libanil or Malix or Amglidia,SU
+Glibornuride,Glutril,SU
+Gliclazide,Bilxona or Dacadis or Diaglyk or Diamicron or Edicil or Glimil or Laaglyda or Nazdol or Vamju or Vitile or Vivazide or Ziclaseg or Zicron or Glydex or Lamzarin,SU
+Glimepiride,Amaryl or Niddaryl,SU
+Glipizide,Glibenese or Minodiab,SU
+Gliquidone,Glurenorm,SU
+Glymidine,Gondafon or Redul,SU
+Grenamide,,SU
+Tolazamide,Tolanase,SU
+Tolbutamide,Glyconon or Orabet or Pramidex or Rastinon,SU
+Metformin,Amaryl M,MFN
+Glimepiride,Amaryl M,SU
+Metformin,Glucophage or Metabet or Diagemet or Duformin or Glucamet or Glyformin or Ledermetin or Meijumet or Metsol or Metuxtan or Milform or Yaltormin or Glucient or Bolamyn or Sukkarto or Axpinet or Glucorex or Jesacrin,MFN
+Phenformin,Dibotin,PFN
