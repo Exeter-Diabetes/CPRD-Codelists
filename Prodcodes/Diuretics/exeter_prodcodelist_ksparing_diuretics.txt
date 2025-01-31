@@ -1,101 +1,96 @@
-ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
-57141000033118	318052005	Amiloride 5mg tablets	Amiloride 5mg tablets	Tablet	Oral	Amiloride hydrochloride	5.000mg	2020300	NA
-1374241000033118	318056008	Spironolactone 25mg tablets	Spironolactone 25mg tablets	Tablet	Oral	Spironolactone	25.000mg	2020300	NA
-1374341000033111	318057004	Spironolactone 50mg tablets	Spironolactone 50mg tablets	Tablet	Oral	Spironolactone	50.000mg	2020300	NA
-1374141000033113	318058009	Spironolactone 100mg tablets	Spironolactone 100mg tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	NA
-1455341000033115	318082004	Triamterene 50mg capsules	Triamterene 50mg capsules	Capsule	Oral	Triamterene	50.000mg	2020300	NA
-1903541000033116	318096005	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	2020400	NA
-1845641000033119	318097001	Amiloride 5mg / Bumetanide 1mg tablets	Amiloride 5mg / Bumetanide 1mg tablets	Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	2020400	NA
-3161941000033119	318098006	Triamterene 50mg / Benzthiazide 25mg capsules	Triamterene 50mg / Benzthiazide 25mg capsules	Capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg	NA	NA
-3162341000033110	318100006	Triamterene 50mg / Chlortalidone 50mg tablets	Triamterene 50mg / Chlortalidone 50mg tablets	Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	2020400	NA
-3092741000033119	318101005	Triamterene 50mg / Furosemide 40mg tablets	Triamterene 50mg / Furosemide 40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	NA
-3162541000033115	318102003	Spironolactone 50mg / Furosemide 20mg capsules	Spironolactone 50mg / Furosemide 20mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	NA
-376941000033117	318121006	Co-amilozide 2.5mg/25mg tablets	Co-amilozide 2.5mg/25mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	2020400	NA
-377041000033116	318127005	Co-flumactone 25mg/25mg tablets	Co-flumactone 25mg/25mg tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	2020400	NA
-377141000033117	318128000	Co-flumactone 50mg/50mg tablets	Co-flumactone 50mg/50mg tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	2020400	NA
-376841000033113	318135008	Co-amilofruse 2.5mg/20mg tablets	Co-amilofruse 2.5mg/20mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	NA
-376641000033112	318136009	Co-amilofruse 5mg/40mg tablets	Co-amilofruse 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
-376741000033115	318137000	Co-amilofruse 10mg/80mg tablets	Co-amilofruse 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	NA
-369141000033118	377566005	Co-amilozide 5mg/50mg tablets	Co-amilozide 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	NA
-3198841000033117	407011007	Eplerenone 25mg tablets	Eplerenone 25mg tablets	Tablet	Oral	Eplerenone	25.000mg	2020300	NA
-3198941000033113	407012000	Eplerenone 50mg tablets	Eplerenone 50mg tablets	Tablet	Oral	Eplerenone	50.000mg	2020300	NA
-370241000033111	410896007	Co-triamterzide 50mg/25mg tablets	Co-triamterzide 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	NA
-1374541000033116	3411000001104	Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd)	Spirospare 100 tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	NA
-615041000033112	25411000001108	Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd)	Frusene 50mg/40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	NA
-172341000033112	33911000001104	Burinex A 5mg/1mg tablets (LEO Pharma)	Burinex A 5mg/1mg tablets	Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	NA	NA
-935341000033118	74311000001101	Moducren tablets (Merck Sharp & Dohme Ltd)	Moducren tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	NA
-615641000033118	82611000001106	Frumil Forte 10mg/80mg tablets (Sanofi)	Frumil Forte 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	NA
-492341000033115	132811000001106	Dyazide 50mg/25mg tablets (Advanz Pharma)	Dyazide 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	NA
-1470341000033112	191211000001106	Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)	Triam-Co 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	NA
-2956041000033112	220711000001102	Amoride 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Amoride 5mg tablets	Tablet	Oral	Amiloride hydrochloride	5.000mg	NA	NA
-793741000033117	237011000001100	Kalten capsules (M & A Pharmachem Ltd)	Kalten capsules	Capsule	Oral	Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide	2.500mg + 50.000mg + 25.000mg	2040000	NA
-935441000033112	314211000001100	Moduret 25 tablets (Merck Sharp & Dohme Ltd)	Moduret 25 tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	2020400	NA
-1611441000033117	331311000001103	Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
-40441000033111	421611000001100	Aldactone 100mg tablets (Pfizer Ltd)	Aldactone 100mg tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	NA
-614641000033117	427411000001106	Frumil 40mg/5mg tablets (Sanofi)	Frumil 40mg/5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
-935541000033113	453811000001103	Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd)	Moduretic 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	NA
-2955841000033110	465111000001101	Synuretic 25 tablets (Dr Reddy's Laboratories (UK) Ltd)	Synuretic 25 tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	NA	NA
-956741000033114	535711000001100	Navispare 2.5mg/250microgram tablets (Advanz Pharma)	Navispare 2.5mg/250microgram tablets	Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	2020400	NA
-614341000033113	550711000001106	Frumil LS 20mg/2.5mg tablets (Sanofi)	Frumil LS 20mg/2.5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	NA
-2955741000033117	601011000001103	Synuretic 50 tablets (Dr Reddy's Laboratories (UK) Ltd)	Synuretic 50 tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	NA	NA
-60341000033110	636611000001107	Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd)	Amil-Co 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	NA
-818941000033112	678511000001106	Lasoride 5mg/40mg tablets (Sanofi)	Lasoride 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
-57341000033115	712211000001108	Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd)	Amilmaxco 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	NA	NA
-491741000033113	714911000001108	Dytide capsules (Mercury Pharma Group Ltd)	Dytide capsules	Capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg	NA	NA
-1468141000033118	721311000001104	Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd)	Triamaxco 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	NA
-40241000033110	762511000001105	Aldactide 25 tablets (Pfizer Ltd)	Aldactide 25 tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	2020400	NA
-2101641000033119	799711000001108	Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	Amilamont 5mg/5ml oral solution sugar free	Oral solution	Oral	Amiloride hydrochloride	1.000mg/1.000ml	2020300	NA
-615241000033116	818511000001106	Fru-Co 5mg/40mg tablets (Teva UK Ltd)	Fru-Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	NA
-40641000033113	921811000001103	Aldactone 50mg tablets (Pfizer Ltd)	Aldactone 50mg tablets	Tablet	Oral	Spironolactone	50.000mg	2020300	NA
-40541000033112	930511000001105	Aldactone 25mg tablets (Pfizer Ltd)	Aldactone 25mg tablets	Tablet	Oral	Spironolactone	25.000mg	2020300	NA
-796541000033115	3252011000001105	Kalspare tablets (DHP Healthcare Ltd)	Kalspare tablets	Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	2020400	NA
-808841000033119	3645811000001107	Lasilactone 20mg/50mg capsules (Sanofi)	Lasilactone 20mg/50mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	NA
-491641000033116	3907911000001100	Dytac 50mg capsules (Advanz Pharma)	Dytac 50mg capsules	Capsule	Oral	Triamterene	50.000mg	NA	NA
-40341000033117	4669111000001107	Aldactide 50 tablets (Pfizer Ltd)	Aldactide 50 tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	2020400	NA
-5710441000033117	8427011000001108	Co-amilofruse 5mg/40mg/5ml oral suspension	Co-amilofruse 5mg/40mg/5ml oral suspension	Oral suspension	Oral	Amiloride hydrochloride/ Furosemide	1.000mg/1.000ml + 8.000mg/1.000ml	NA	NA
-3199041000033116	8477211000001104	Inspra 25mg tablets (Upjohn UK Ltd)	Inspra 25mg tablets	Tablet	Oral	Eplerenone	25.000mg	2020300	NA
-3199141000033117	8479811000001106	Inspra 50mg tablets (Upjohn UK Ltd)	Inspra 50mg tablets	Tablet	Oral	Eplerenone	50.000mg	2020300	NA
-1371141000033111	8726311000001103	Spironolactone 5mg/5ml oral suspension	Spironolactone 5mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	1.000mg/1.000ml	NA	NA
-1371341000033114	8726411000001105	Spironolactone 50mg/5ml oral suspension	Spironolactone 50mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	10.000mg/1.000ml	NA	NA
-1371041000033112	8726511000001109	Spironolactone 25mg/5ml oral suspension	Spironolactone 25mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	5.000mg/1.000ml	NA	NA
-5975441000033113	8727011000001103	Spironolactone 15mg/5ml oral suspension	Spironolactone 15mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	3.000mg/1.000ml	NA	NA
-1371241000033116	8727311000001100	Spironolactone 10mg/5ml oral suspension	Spironolactone 10mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	2.000mg/1.000ml	NA	NA
-2011541000033114	8727611000001105	Spironolactone 100mg/5ml oral suspension	Spironolactone 100mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	20.000mg/1.000ml	NA	NA
-351941000033111	8792311000001109	Co-amilozide 5mg/50mg/5ml oral solution	Co-amilozide 5mg/50mg/5ml oral solution	Oral solution	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	1.000mg/1.000ml + 10.000mg/1.000ml	NA	NA
-5975541000033114	13353511000001101	Spironolactone 250mg/5ml oral solution	Spironolactone 250mg/5ml oral solution	Oral solution	Oral	Spironolactone	25.000mg/1.000ml	NA	NA
-5975641000033110	13353611000001102	Spironolactone 250mg/5ml oral suspension	Spironolactone 250mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	25.000mg/1.000ml	NA	NA
-5999141000033111	13894611000001109	Spironolactone 100mg/5ml oral solution	Spironolactone 100mg/5ml oral solution	Oral solution	Oral	Spironolactone	20.000mg/1.000ml	NA	NA
-5999241000033116	13894711000001100	Spironolactone 10mg/5ml oral solution	Spironolactone 10mg/5ml oral solution	Oral solution	Oral	Spironolactone	2.000mg/1.000ml	NA	NA
-5890141000033112	13894811000001108	Spironolactone 25mg/5ml oral solution	Spironolactone 25mg/5ml oral solution	Oral solution	Oral	Spironolactone	5.000mg/1.000ml	NA	NA
-5890441000033116	13894911000001103	Spironolactone 50mg/5ml oral solution	Spironolactone 50mg/5ml oral solution	Oral solution	Oral	Spironolactone	10.000mg/1.000ml	NA	NA
-5999341000033114	13895011000001103	Spironolactone 5mg/5ml oral solution	Spironolactone 5mg/5ml oral solution	Oral solution	Oral	Spironolactone	1.000mg/1.000ml	NA	NA
-9278541000033112	16072811000001103	Spironolactone 3mg / Chlorothiazide 30mg capsules	Spironolactone 3mg / Chlorothiazide 30mg capsules	Capsule	Oral	Chlorothiazide/ Spironolactone	30.000mg + 3.000mg	NA	NA
-5376441000033114	16458411000001107	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd)	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	NA
-7681541000033117	18520511000001107	Spironolactone 4mg / Chlorothiazide 40mg capsules	Spironolactone 4mg / Chlorothiazide 40mg capsules	Capsule	Oral	Chlorothiazide/ Spironolactone	40.000mg + 4.000mg	NA	NA
-53841000033117	35900111000001108	Amiloride 5mg/5ml oral solution sugar free	Amiloride 5mg/5ml oral solution sugar free	Oral solution	Oral	Amiloride hydrochloride	1.000mg/1.000ml	2020300	NA
-1368341000033110	NA	Spironolactone Capsules 100 mg	NA	NA	NA	NA	NA	NA	NA
-1846841000033111	NA	Triamterene And Frusemide Tablets 50 mg + 40 mg	NA	NA	NA	NA	NA	NA	NA
-5393041000033115	NA	Chlorothiazide And Spironolactone Capsules 250 mg + 25 mg	NA	NA	NA	NA	NA	NA	NA
-61241000033112	NA	Amilospare-5 Tablets 5 mg	NA	NA	NA	NA	NA	NA	NA
-141341000033119	NA	Berkamil Tablets 5 mg	NA	NA	NA	NA	NA	NA	NA
-746141000033119	NA	Hypertane-50 Tablets	NA	NA	NA	NA	NA	NA	NA
-1373041000033111	NA	Spiro-Co 25 Tablets	NA	NA	NA	NA	NA	NA	NA
-1373441000033119	NA	Spiretic Tablets 100 mg	NA	NA	NA	NA	NA	NA	NA
-1373541000033118	NA	Spiretic Tablets 25 mg	NA	NA	NA	NA	NA	NA	NA
-1373841000033116	NA	Spirolone Tablets 100 mg	NA	NA	NA	NA	NA	NA	NA
-1373941000033112	NA	Spirolone Tablets 25 mg	NA	NA	NA	NA	NA	NA	NA
-1374041000033114	NA	Spirolone Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
-1372941000033118	NA	Spiro-Co 50 Tablets	NA	NA	NA	NA	NA	NA	NA
-933541000033112	NA	Moduretic Solution	NA	NA	NA	NA	NA	NA	NA
-1367941000033110	NA	Spiroctan Capsules 100 mg	NA	NA	NA	NA	NA	NA	NA
-1373741000033114	NA	Spiroctan Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
-1372841000033114	NA	Spirospare-25 Tablets 25 mg	NA	NA	NA	NA	NA	NA	NA
-1373641000033117	NA	Spiroctan Tablets 25 mg	NA	NA	NA	NA	NA	NA	NA
-1370541000033113	NA	Spiroctan-M Injection 20 mg/ml	NA	NA	NA	NA	NA	NA	NA
-796741000033111	NA	Kalspare Ls Tablets	NA	NA	NA	NA	NA	NA	NA
-428741000033112	NA	Delvas Tablets	NA	NA	NA	NA	NA	NA	NA
-921541000033114	NA	Midamor Tablets 5 mg	NA	NA	NA	NA	NA	NA	NA
-1374441000033117	NA	Spiroprop Tablets	NA	NA	NA	NA	NA	NA	NA
-1505441000033114	NA	Vasetic 5/50 Tablets	NA	NA	NA	NA	NA	NA	NA
-1557741000033119	NA	Zida-Co 5/50 Tablets	NA	NA	NA	NA	NA	NA	NA
-466641000033112	NA	Diatensec Tablets 50 mg	NA	NA	NA	NA	NA	NA	NA
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+40241000033110	762511000001105	Aldactide 25 tablets (Pfizer Ltd)	Aldactide 25 tablets	Tablet/ Oral Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	NA	63832
+40341000033117	4669111000001107	Aldactide 50 tablets (Pfizer Ltd)	Aldactide 50 tablets	Tablet/ Oral Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	NA	128355
+40441000033111	421611000001100	Aldactone 100mg tablets (Pfizer Ltd)	Aldactone 100mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	100.000mg	NA	32538
+40541000033112	930511000001105	Aldactone 25mg tablets (Pfizer Ltd)	Aldactone 25mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	25.000mg	NA	32383
+40641000033113	921811000001103	Aldactone 50mg tablets (Pfizer Ltd)	Aldactone 50mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	50.000mg	NA	20672
+53841000033117	35900111000001108	Amiloride 5mg/5ml oral solution sugar free	Amiloride 5mg/5ml oral solution sugar free	Oral solution	Oral	Amiloride hydrochloride	1.000mg/1.000ml	02020300	29371
+57141000033118	42206111000001106	Amiloride 5mg tablets	Amiloride 5mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride	5.000mg	02020300	2575786
+57341000033115	712211000001108	Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd)	Amilmaxco 5mg/50mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	NA	8113
+60341000033110	636611000001107	Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd)	Amil-Co 5mg/50mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	NA	31355
+172341000033112	33911000001104	Burinex A 5mg/1mg tablets (LEO Pharma)	Burinex A 5mg/1mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	NA	405618
+351941000033111	8792311000001109	Co-amilozide 5mg/50mg/5ml oral solution	Co-amilozide 5mg/50mg/5ml oral solution	Oral solution	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	1.000mg/1.000ml + 10.000mg/1.000ml	02020400	2727
+369141000033118	42207611000001101	Co-amilozide 5mg/50mg tablets	Co-amilozide 5mg/50mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	02020400	2102145
+370241000033111	42208111000001105	Co-triamterzide 50mg/25mg tablets	Co-triamterzide 50mg/25mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	02020400	410581
+376641000033112	42293411000001108	Co-amilofruse 5mg/40mg tablets	Co-amilofruse 5mg/40mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	02020400	7976687
+376741000033115	42293211000001109	Co-amilofruse 10mg/80mg tablets	Co-amilofruse 10mg/80mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	02020400	79842
+376841000033113	42293311000001101	Co-amilofruse 2.5mg/20mg tablets	Co-amilofruse 2.5mg/20mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	02020400	2110555
+376941000033117	42207511000001100	Co-amilozide 2.5mg/25mg tablets	Co-amilozide 2.5mg/25mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	02020400	712548
+377041000033116	42207711000001105	Co-flumactone 25mg/25mg tablets	Co-flumactone 25mg/25mg tablets	Tablet/ Oral Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	02020400	20620
+377141000033117	42207811000001102	Co-flumactone 50mg/50mg tablets	Co-flumactone 50mg/50mg tablets	Tablet/ Oral Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	02020400	26271
+491641000033116	3907911000001100	Dytac 50mg capsules (Advanz Pharma)	Dytac 50mg capsules	Capsule/ Oral capsule	Oral	Triamterene	50.000mg	NA	4105
+491741000033113	714911000001108	Dytide capsules (Mercury Pharma Group Ltd)	Dytide capsules	Capsule/ Oral capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg	NA	8730
+492341000033115	132811000001106	Dyazide 50mg/25mg tablets (Advanz Pharma)	Dyazide 50mg/25mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	NA	1115946
+614341000033113	550711000001106	Frumil LS 20mg/2.5mg tablets (Sanofi)	Frumil LS 20mg/2.5mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	NA	275575
+614641000033117	427411000001106	Frumil 40mg/5mg tablets (Sanofi)	Frumil 40mg/5mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	NA	1654844
+615041000033112	25411000001108	Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd)	Frusene 50mg/40mg tablets	Tablet/ Oral Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	NA	303612
+615241000033116	818511000001106	Fru-Co 5mg/40mg tablets (Teva UK Ltd)	Fru-Co 5mg/40mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	NA	108522
+615641000033118	82611000001106	Frumil Forte 10mg/80mg tablets (Sanofi)	Frumil Forte 10mg/80mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	NA	11372
+793741000033117	237011000001100	Kalten capsules (M & A Pharmachem Ltd)	Kalten capsules	Capsule/ Oral capsule	Oral	Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide	2.500mg + 50.000mg + 25.000mg	NA	151762
+796541000033115	3252011000001105	Kalspare tablets (DHP Healthcare Ltd)	Kalspare tablets	Tablet/ Oral Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	NA	8413
+808841000033119	3645811000001107	Lasilactone 20mg/50mg capsules (Sanofi)	Lasilactone 20mg/50mg capsules	Capsule/ Oral capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	NA	99795
+818941000033112	678511000001106	Lasoride 5mg/40mg tablets (Sanofi)	Lasoride 5mg/40mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	NA	231267
+935341000033118	74311000001101	Moducren tablets (Organon Pharma (UK) Ltd)	Moducren tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	98885
+935441000033112	314211000001100	Moduret 25 tablets (Organon Pharma (UK) Ltd)	Moduret 25 tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	NA	243711
+935541000033113	453811000001103	Moduretic 5mg/50mg tablets (Merck Sharp & Dohme (UK) Ltd)	Moduretic 5mg/50mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	NA	1289226
+956741000033114	535711000001100	Navispare 2.5mg/250microgram tablets (Advanz Pharma)	Navispare 2.5mg/250microgram tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	NA	916096
+1371041000033112	8726511000001109	Spironolactone 25mg/5ml oral suspension	Spironolactone 25mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	5.000mg/1.000ml	02020300	19814
+1371141000033111	8726311000001103	Spironolactone 5mg/5ml oral suspension	Spironolactone 5mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	1.000mg/1.000ml	02020300	10770
+1371241000033116	8727311000001100	Spironolactone 10mg/5ml oral suspension	Spironolactone 10mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	2.000mg/1.000ml	02020300	9909
+1371341000033114	8726411000001105	Spironolactone 50mg/5ml oral suspension	Spironolactone 50mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	10.000mg/1.000ml	02020300	29847
+1374141000033113	42216411000001104	Spironolactone 100mg tablets	Spironolactone 100mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	100.000mg	02020300	1602664
+1374241000033118	42216511000001100	Spironolactone 25mg tablets	Spironolactone 25mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	25.000mg	02020300	11870276
+1374341000033111	42216611000001101	Spironolactone 50mg tablets	Spironolactone 50mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	50.000mg	02020300	2258395
+1374541000033116	3411000001104	Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd)	Spirospare 100 tablets	Tablet/ Oral Tablet	Oral	Spironolactone	100.000mg	NA	1293
+1455341000033115	42217011000001106	Triamterene 50mg capsules	Triamterene 50mg capsules	Capsule/ Oral capsule	Oral	Triamterene	50.000mg	02020300	30131
+1468141000033118	721311000001104	Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd)	Triamaxco 50mg/25mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	NA	10378
+1470341000033112	191211000001106	Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)	Triam-Co 50mg/25mg tablets	Tablet/ Oral Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	NA	37366
+1611441000033117	331311000001103	Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop Co 5mg/40mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	NA	1866
+1845641000033119	42290711000001106	Amiloride 5mg / Bumetanide 1mg tablets	Amiloride 5mg / Bumetanide 1mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Bumetanide	5.000mg + 1.000mg	02020400	217617
+1903541000033116	42206011000001105	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	02020400	207195
+2011541000033114	8727611000001105	Spironolactone 100mg/5ml oral suspension	Spironolactone 100mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	20.000mg/1.000ml	02020300	2453
+2101641000033119	799711000001108	Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	Amilamont 5mg/5ml oral solution sugar free	Oral solution	Oral	Amiloride hydrochloride	1.000mg/1.000ml	NA	462
+2956041000033112	220711000001102	Amoride 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Amoride 5mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride	5.000mg	NA	17
+3092741000033119	42299311000001103	Triamterene 50mg / Furosemide 40mg tablets	Triamterene 50mg / Furosemide 40mg tablets	Tablet/ Oral Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	02020400	75837
+3161941000033119	42216811000001102	Triamterene 50mg / Benzthiazide 25mg capsules	Triamterene 50mg / Benzthiazide 25mg capsules	Capsule/ Oral capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg	02020400	1040
+3162341000033110	42216911000001107	Triamterene 50mg / Chlortalidone 50mg tablets	Triamterene 50mg / Chlortalidone 50mg tablets	Tablet/ Oral Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	02020400	4712
+3162541000033115	42297911000001109	Spironolactone 50mg / Furosemide 20mg capsules	Spironolactone 50mg / Furosemide 20mg capsules	Capsule/ Oral capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	02020400	22738
+3198841000033117	42209511000001107	Eplerenone 25mg tablets	Eplerenone 25mg tablets	Tablet/ Oral Tablet	Oral	Eplerenone	25.000mg	02020300	2440629
+3198941000033113	42209611000001106	Eplerenone 50mg tablets	Eplerenone 50mg tablets	Tablet/ Oral Tablet	Oral	Eplerenone	50.000mg	02020300	331450
+3199041000033116	8477211000001104	Inspra 25mg tablets (Viatris UK Healthcare Ltd)	Inspra 25mg tablets	Tablet/ Oral Tablet	Oral	Eplerenone	25.000mg	NA	9307
+3199141000033117	8479811000001106	Inspra 50mg tablets (Viatris UK Healthcare Ltd)	Inspra 50mg tablets	Tablet/ Oral Tablet	Oral	Eplerenone	50.000mg	NA	2433
+5376441000033114	16458411000001107	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd)	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	Tablet/ Oral Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg	NA	869
+5710441000033117	8427011000001108	Co-amilofruse 5mg/40mg/5ml oral suspension	Co-amilofruse 5mg/40mg/5ml oral suspension	Oral suspension	Oral	Amiloride hydrochloride/ Furosemide	1.000mg/1.000ml + 8.000mg/1.000ml	02020400	190
+5890141000033112	13894811000001108	Spironolactone 25mg/5ml oral solution	Spironolactone 25mg/5ml oral solution	Oral solution	Oral	Spironolactone	5.000mg/1.000ml	02020300	2278
+5890441000033116	13894911000001103	Spironolactone 50mg/5ml oral solution	Spironolactone 50mg/5ml oral solution	Oral solution	Oral	Spironolactone	10.000mg/1.000ml	02020300	4904
+5975441000033113	8727011000001103	Spironolactone 15mg/5ml oral suspension	Spironolactone 15mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	3.000mg/1.000ml	02020300	172
+5975541000033114	13353511000001101	Spironolactone 250mg/5ml oral solution	Spironolactone 250mg/5ml oral solution	Oral solution	Oral	Spironolactone	50.000mg/1.000ml	02020300	7
+5975641000033110	13353611000001102	Spironolactone 250mg/5ml oral suspension	Spironolactone 250mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	50.000mg/1.000ml	02020300	6
+5999141000033111	13894611000001109	Spironolactone 100mg/5ml oral solution	Spironolactone 100mg/5ml oral solution	Oral solution	Oral	Spironolactone	20.000mg/1.000ml	02020300	445
+5999241000033116	13894711000001100	Spironolactone 10mg/5ml oral solution	Spironolactone 10mg/5ml oral solution	Oral solution	Oral	Spironolactone	2.000mg/1.000ml	02020300	1571
+5999341000033114	13895011000001103	Spironolactone 5mg/5ml oral solution	Spironolactone 5mg/5ml oral solution	Oral solution	Oral	Spironolactone	1.000mg/1.000ml	02020300	2083
+7681541000033117	18520511000001107	Spironolactone 4mg / Chlorothiazide 40mg capsules	Spironolactone 4mg / Chlorothiazide 40mg capsules	Capsule/ Oral capsule	Oral	Chlorothiazide/ Spironolactone	40.000mg + 4.000mg	02020400	143
+9278541000033112	16072811000001103	Spironolactone 3mg / Chlorothiazide 30mg capsules	Spironolactone 3mg / Chlorothiazide 30mg capsules	Capsule/ Oral capsule	Oral	Chlorothiazide/ Spironolactone	30.000mg + 3.000mg	02020400	135
+13777741000033113	39356011000001101	Spironolactone 12.5mg tablets	Spironolactone 12.5mg tablets	Tablet/ Oral Tablet	Oral	Spironolactone	12.500mg	02020300	96149
+1368341000033110	NA	Spironolactone  Capsules  100 mg	NA	NA	NA	NA	NA	NA	12592
+5393041000033115	NA	Chlorothiazide And Spironolactone  Capsules  250 mg + 25 mg	NA	NA	NA	NA	NA	NA	1
+61241000033112	NA	Amilospare-5  Tablets  5 mg	NA	NA	NA	NA	NA	NA	4540
+141341000033119	NA	Berkamil  Tablets  5 mg	NA	NA	NA	NA	NA	NA	477
+428741000033112	NA	Delvas  Tablets  	NA	NA	NA	NA	NA	NA	344
+466641000033112	NA	Diatensec  Tablets  50 mg	NA	NA	NA	NA	NA	NA	3
+746141000033119	NA	Hypertane-50  Tablets  	NA	NA	NA	NA	NA	NA	1
+796741000033111	NA	Kalspare Ls  Tablets	NA	NA	NA	NA	NA	NA	6
+921541000033114	NA	Midamor  Tablets  5 mg	NA	NA	NA	NA	NA	NA	12946
+933541000033112	NA	Moduretic  Solution	NA	NA	NA	NA	NA	NA	3898
+1367941000033110	NA	Spiroctan  Capsules  100 mg	NA	NA	NA	NA	NA	NA	1671
+1372841000033114	NA	Spirospare-25  Tablets  25 mg	NA	NA	NA	NA	NA	NA	263
+1372941000033118	NA	Spiro-Co 50  Tablets	NA	NA	NA	NA	NA	NA	576
+1373041000033111	NA	Spiro-Co 25  Tablets	NA	NA	NA	NA	NA	NA	74
+1373441000033119	NA	Spiretic  Tablets  100 mg	NA	NA	NA	NA	NA	NA	5
+1373541000033118	NA	Spiretic  Tablets  25 mg	NA	NA	NA	NA	NA	NA	10
+1373641000033117	NA	Spiroctan  Tablets  25 mg	NA	NA	NA	NA	NA	NA	1521
+1373741000033114	NA	Spiroctan  Tablets  50 mg	NA	NA	NA	NA	NA	NA	1188
+1373841000033116	NA	Spirolone  Tablets  100 mg	NA	NA	NA	NA	NA	NA	620
+1373941000033112	NA	Spirolone  Tablets  25 mg	NA	NA	NA	NA	NA	NA	690
+1374041000033114	NA	Spirolone  Tablets  50 mg	NA	NA	NA	NA	NA	NA	490
+1374441000033117	NA	Spiroprop  Tablets	NA	NA	NA	NA	NA	NA	54
