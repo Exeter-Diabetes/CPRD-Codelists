@@ -43,7 +43,6 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 &nbsp;
 
-
 ### Haematocrit
 * Convert all to proportion by dividing those >1 by 100
 
@@ -175,7 +174,7 @@ Note that CPRD also provide patient ethnicity (at a fee) based on their own ethn
 
 &nbsp;
 
-### ONS death data from CPRD (2024 update)
+## ONS death data from CPRD (2024 update)
 * Linked ONS death data provided by CPRD in the November 2024 linkage update contained duplicate entries for a small number of patids
 * To deal with this, we selected the date of death (reg_date_of_death) which was closest to cprd_ddate in the primary care Patient table (where available). Where cprd_ddate was not available, the earliest date of death was selected. Rows corresponding to death dates which weren't selected were discarded - i.e. data associated with these dates such as causes of death were not used
 * Some patients still had duplicate rows with the same date of death: we retained all unique underlying and secondary causes of death for each patient, and all unique values for the three place of death variables (pod_cod, pod_nhs_establishment, pod_establishment type). We have not used the other variables in the table.
