@@ -1,658 +1,757 @@
-MedCodeId	Term	Observations_jun24	old_2021	new_2024	category
-1221271018	Alcohol consumption	36338802	1	1	AlcoholConsumptionLevel1
-1660411000006112	AUDIT-C (Alcohol Use Disorders Identification Test - Consumption) score	15481871	1	1	AlcoholConsumptionLevel1
-240741000006114	Education about alcohol consumption	10850702	1	1	AlcoholConsumptionLevel1
-291355016	Teetotaller	8358299	1	1	AlcoholConsumptionLevel0
-817981000006115	Health education - alcohol	7012079	1	1	AlcoholConsumptionLevel2
-408548014	Alcohol use disorders identification test score	4736635	1	1	AlcoholConsumptionLevel1
-538891000000111	FAST (Fast Alcohol Screening Test) score	4336465	1	1	AlcoholConsumptionLevel1
-397729013	Trivial drinker - <1u/day	3994612	1	1	AlcoholConsumptionLevel1
-1590901000006110	Alcohol screen - alcohol use disorder identification test consumption questions completed	3362302	1	1	AlcoholConsumptionLevel1
-4533141000006118	Alcohol intake	2598302	1	1	AlcoholConsumptionLevel1
-250312016	Light drinker - 1-2u/day	2434143	1	1	AlcoholConsumptionLevel1
-217461000000118	Non - drinker	1962932	1	1	AlcoholConsumptionLevel0
-629811000006113	Occasional drinker	1916872	1	1	AlcoholConsumptionLevel1
-250340014	Alcohol intake within recommended sensible limits	1626122	1	1	AlcoholConsumptionLevel1
-500478011	Alcohol dependence syndrome	1339911	1	1	AlcoholConsumptionLevel3
-250313014	Moderate drinker - 3-6u/day	1264751	1	1	AlcoholConsumptionLevel2
-936001000006111	Advice relating to alcohol consumption	1118941	1	1	AlcoholConsumptionLevel1
-1680121000006110	Brief intervention for excessive alcohol consumption completed	1079758	1	1	AlcoholConsumptionLevel2
-629821000006117	Drinks rarely	1069804	1	1	AlcoholConsumptionLevel1
-502017010	Alcohol problem drinking	995888	1	1	AlcoholConsumptionLevel3
-476411000006118	Alcohol consumption NOS	855899	1	1	AlcoholConsumptionLevel1
-1590881000006113	Alcohol screen - alcohol use disorder identification test completed	799954	1	1	AlcoholConsumptionLevel1
-587231000006111	Non drinker alcohol	585962	1	1	AlcoholConsumptionLevel0
-47085011	Social drinker	585162	1	1	AlcoholConsumptionLevel1
-250317010	Stopped drinking alcohol	561633	1	1	AlcoholConsumptionLevel0
-476431000006112	Alcohol consumption screening	472519	1	1	AlcoholConsumptionLevel1
-291352018	Non-drinker alcohol	328073	1	1	AlcoholConsumptionLevel0
-250335018	Alcohol intake above recommended sensible limits	292581	1	1	AlcoholConsumptionLevel2
-2532935011	Alcohol questionnaire completed	282302	1	1	AlcoholConsumptionLevel1
-13929361000006112	Alcohol detoxification	209148	0	1	AlcoholConsumptionLevel2
-250314015	Heavy drinker - 7-9u/day	201850	1	1	AlcoholConsumptionLevel3
-12878014	Alcoholism	195946	1	1	AlcoholConsumptionLevel3
-250332015	Beer drinker	187945	1	1	AlcoholConsumptionLevel1
-250334019	Drinks wine	179884	1	1	AlcoholConsumptionLevel1
-769451000006111	Intoxication - alcohol	177395	1	1	AlcoholConsumptionLevel3
-2502061000006114	Current drinker	155709	1	1	AlcoholConsumptionLevel1
-401797010	Nondependent alcohol abuse	153394	1	1	AlcoholConsumptionLevel3
-299061000000117	Hazardous alcohol use	152582	1	1	AlcoholConsumptionLevel2
-295136019	Alcohol dependence	141981	1	1	AlcoholConsumptionLevel3
-476421000006114	Alcohol consumption screen	137171	1	1	AlcoholConsumptionLevel1
-295144019	Alcohol dependence syndrome NOS	129778	1	1	AlcoholConsumptionLevel3
-1738421000000111	Lower risk drinking	127794	1	1	AlcoholConsumptionLevel1
-476611000006116	Alcoholic cirrhosis of liver	124766	1	1	AlcoholConsumptionLevel3
-250316018	Very heavy drinker - >9u/day	120326	1	1	AlcoholConsumptionLevel3
-283028013	Alcohol leaflet given	120113	1	1	AlcoholConsumptionLevel2
-342320016	Light drinker	117765	1	1	AlcoholConsumptionLevel1
-294674018	Alcohol withdrawal syndrome	115637	1	1	AlcoholConsumptionLevel3
-236441000000113	Alcohol misuse enhanced services administration	114858	1	1	AlcoholConsumptionLevel2
-303399018	Alcoholic liver damage	109339	1	1	AlcoholConsumptionLevel2
-1484890014	Referral to community alcohol team	108128	1	1	AlcoholConsumptionLevel2
-299081000000114	Harmful alcohol use	103827	1	1	AlcoholConsumptionLevel3
-6769921000006111	Alcohol abuse prevention education	90770	1	1	AlcoholConsumptionLevel2
-2692396019	Alcohol consumption screening test declined	84619	1	1	AlcoholConsumptionLevel1
-362251000006117	Alcohol intoxication	77688	1	1	AlcoholConsumptionLevel3
-2549646014	Referral to community drug and alcohol team	76379	1	1	AlcoholConsumptionLevel2
-2532939017	Alcohol consumption counselling	75848	1	1	AlcoholConsumptionLevel2
-110629012	Chronic alcoholism	74269	1	1	AlcoholConsumptionLevel3
-251626014	H/O: alcoholism	70162	1	1	AlcoholConsumptionLevel3
-1680131000006113	Extended intervention for excessive alcohol consumption completed	63445	1	1	AlcoholConsumptionLevel3
-342366014	Binge drinker	60064	1	1	AlcoholConsumptionLevel2
-606991000000117	Alcohol misuse	58369	1	1	AlcoholConsumptionLevel3
-73012011	Moderate drinker	57809	1	1	AlcoholConsumptionLevel2
-83834016	Alcoholic fatty liver	56394	1	1	AlcoholConsumptionLevel2
-250331010	Spirit drinker	53465	1	1	AlcoholConsumptionLevel1
-295251015	Nondependent alcohol abuse, unspecified	44669	1	1	AlcoholConsumptionLevel3
-1704281000006117	Brief intervention for excessive alcohol consumption declined	43923	1	1	AlcoholConsumptionLevel2
-2614651000006115	Alcoholism	38618	1	1	AlcoholConsumptionLevel3
-4525015	Alcoholic gastritis	38106	1	1	AlcoholConsumptionLevel2
-144179014	Heavy drinker	36728	1	1	AlcoholConsumptionLevel3
-622961000000116	Referral to specialist alcohol treatment service	34086	1	1	AlcoholConsumptionLevel2
-397881000006114	Alcohol abuse	31532	1	1	AlcoholConsumptionLevel3
-4977911000006115	Lifetime non-drinker	29149	1	1	AlcoholConsumptionLevel0
-6947461000006115	Alcoholic cirrhosis	28446	1	1	AlcoholConsumptionLevel3
-353587018	Alcoholic hepatitis	28179	1	1	AlcoholConsumptionLevel3
-622791000000112	Single alcohol screening questionnaire	27822	1	1	AlcoholConsumptionLevel1
-315091000000117	Alcohol withdrawal-induced seizure	26960	1	1	AlcoholConsumptionLevel3
-461112017	Alcoholism counselling	26245	1	1	AlcoholConsumptionLevel3
-2998891000006117	Drinking	25845	1	1	AlcoholConsumptionLevel1
-750531000000113	Declined referral to specialist alcohol treatment service	25202	1	1	AlcoholConsumptionLevel2
-451082013	[V] Alcohol use	20485	1	1	AlcoholConsumptionLevel1
-8107561000006116	AUDIT-C questionnaire	19929	1	1	AlcoholConsumptionLevel1
-1746481000000112	Referral to community alcohol team declined	18665	1	1	AlcoholConsumptionLevel2
-216585018	Under care of community alcohol team	18664	1	1	AlcoholConsumptionLevel2
-4120351000006119	Does not drink alcohol	17747	1	1	AlcoholConsumptionLevel0
-283559019	Admitted to alcohol detoxification centre	17085	1	1	AlcoholConsumptionLevel3
-2474678017	Alcohol disorder monitoring	16470	1	1	AlcoholConsumptionLevel3
-295765017	Alcohol-induced organic mental disorder	16410	1	1	AlcoholConsumptionLevel3
-250333013	Drinks beer and spirits	16195	1	1	AlcoholConsumptionLevel1
-346931015	Drunkenness	15556	1	1	AlcoholConsumptionLevel3
-13628811000006110	Lifetime non-drinker of alcohol	15484	0	1	AlcoholConsumptionLevel0
-405461000000114	Alcohol abuse monitoring	15392	1	1	AlcoholConsumptionLevel3
-362921000006118	[X]Alcohol addiction	15370	1	1	AlcoholConsumptionLevel3
-353698013	Alcohol-induced chronic pancreatitis	14603	1	1	AlcoholConsumptionLevel3
-138527014	Alcoholic cardiomyopathy	14295	1	1	AlcoholConsumptionLevel3
-17390014	Acute alcoholic hepatitis	14083	1	1	AlcoholConsumptionLevel2
-397801000006117	[X]Mental and behav dis due to use alcohol: dependence syndr	12581	1	1	AlcoholConsumptionLevel3
-1738341000000110	Increasing risk drinking	12510	1	1	AlcoholConsumptionLevel2
-250321015	Ex-trivial drinker (<1u/day)	12303	1	1	AlcoholConsumptionLevel0
-295127018	Acute alcoholic intoxication in alcoholism	12102	1	1	AlcoholConsumptionLevel3
-295139014	Continuous chronic alcoholism	11814	1	1	AlcoholConsumptionLevel3
-4978031000006111	Problem drinker	11807	1	1	AlcoholConsumptionLevel2
-753331000006118	Korsakov alcoholic psychosis	10174	1	1	AlcoholConsumptionLevel3
-250329018	Ex-very heavy drinker-(>9u/d)	9786	1	1	AlcoholConsumptionLevel3
-460926018	[V]Alcohol rehabilitation	9252	1	1	AlcoholConsumptionLevel3
-254305017	O/E - breath - alcohol smell	9177	1	1	AlcoholConsumptionLevel2
-409423019	Severity of alcohol dependence questionnaire score	9109	1	1	AlcoholConsumptionLevel2
-3843491000006118	Ex-drinker	9043	1	1	AlcoholConsumptionLevel0
-250324011	Ex-heavy drinker - (7-9u/day)	9033	1	1	AlcoholConsumptionLevel3
-1754191000006119	Extended intervention for excessive alcohol consumption declined	8935	1	1	AlcoholConsumptionLevel3
-5981291000006110	Alcohol withdrawal-induced convulsion	8685	1	1	AlcoholConsumptionLevel3
-1724531000000116	Advised to abstain from alcohol consumption	8473	1	1	AlcoholConsumptionLevel1
-7613321000006119	Alcohol reduction programme	8065	1	1	AlcoholConsumptionLevel2
-6455201000006114	Substance use treatment: alcohol withdrawal	8043	1	1	AlcoholConsumptionLevel2
-250322010	Ex-light drinker - (1-2u/day)	7838	1	1	AlcoholConsumptionLevel0
-106878015	Alcohol detoxification	7765	1	1	AlcoholConsumptionLevel3
-5547231000006118	AUDIT - Alcohol use disorders identification test	7550	1	1	AlcoholConsumptionLevel1
-394681000006119	Korsakoff's psychosis	7477	1	1	AlcoholConsumptionLevel3
-750721000000118	Number of alcohol units consumed on heaviest drinking day	7311	1	1	AlcoholConsumptionLevel2
-370971000006114	[X]Chronic alcoholism	7285	1	1	AlcoholConsumptionLevel3
-342322012	Very heavy drinker	7237	1	1	AlcoholConsumptionLevel3
-295143013	Chronic alcoholism NOS	7112	1	1	AlcoholConsumptionLevel3
-346929012	Alcoholic dementia	7100	1	1	AlcoholConsumptionLevel3
-3545831000006115	Detoxication psychiatric therapy for alcoholism	6512	1	1	AlcoholConsumptionLevel3
-250323017	Ex-moderate drinker - (3-6u/d)	6385	1	1	AlcoholConsumptionLevel2
-295142015	Chronic alcoholism in remission	6290	1	1	AlcoholConsumptionLevel3
-295255012	Nondependent alcohol abuse NOS	6029	1	1	AlcoholConsumptionLevel3
-500729017	Alcohol causing toxic effect	5661	1	1	AlcoholConsumptionLevel2
-14103017	Alcohol-induced polyneuropathy	5608	1	1	AlcoholConsumptionLevel3
-1738381000000119	Higher risk drinking	5577	1	1	AlcoholConsumptionLevel2
-217631000000113	Excessive fluid intake - finding	5504	1	1	AlcoholConsumptionLevel2
-295141010	Episodic chronic alcoholism	5373	1	1	AlcoholConsumptionLevel3
-882531000006110	Non-dependent abuse of alcohol	5335	1	1	AlcoholConsumptionLevel3
-15243013	Alcohol withdrawal delirium	5058	1	1	AlcoholConsumptionLevel3
-476741000006111	Alcohol-induced psychosis	5032	1	1	AlcoholConsumptionLevel3
-11928751000006111	Alcohol use disorder identification test consumption questionnaire	4980	1	1	AlcoholConsumptionLevel1
-317123010	Staggering gait	4917	1	1	AlcoholConsumptionLevel2
-295253017	Nondependent alcohol abuse, episodic	4883	1	1	AlcoholConsumptionLevel3
-2502081000006116	Drinks alcohol	4191	1	1	AlcoholConsumptionLevel1
-353595019	Alcoholic hepatic failure	4189	1	1	AlcoholConsumptionLevel3
-501294012	Wernicke-Korsakov syndrome	4149	1	1	AlcoholConsumptionLevel3
-8066881000006119	Discussion about maternal wellbeing - alcohol	4140	1	1	AlcoholConsumptionLevel2
-294673012	Other alcoholic psychosis	4129	1	1	AlcoholConsumptionLevel3
-4533231000006117	Very heavy drinker - greater than 9 units/day	4109	1	1	AlcoholConsumptionLevel3
-254306016	O/E - alcoholic breath	4061	1	1	AlcoholConsumptionLevel2
-409424013	SADQ - Severity of alcohol dependence questionnaire	4038	1	1	AlcoholConsumptionLevel2
-461292011	Screening for alcohol abuse	4015	1	1	AlcoholConsumptionLevel1
-353687012	Alcohol-induced acute pancreatitis	3896	1	1	AlcoholConsumptionLevel2
-295252010	Nondependent alcohol abuse, continuous	3638	1	1	AlcoholConsumptionLevel3
-380031000006116	[X]Evid of alcohol involv determind by level of intoxication	3634	1	1	AlcoholConsumptionLevel1
-297011014	Alcoholic encephalopathy	3387	1	1	AlcoholConsumptionLevel3
-362941000006113	[X]Alcoholic dementia NOS	3255	1	1	AlcoholConsumptionLevel3
-2502971000006115	Dementia associated with alcoholism	3237	1	1	AlcoholConsumptionLevel3
-15244019	Delirium tremens	3176	1	1	AlcoholConsumptionLevel3
-2534258017	Alcohol counselling by other agencies	3148	1	1	AlcoholConsumptionLevel2
-251195015	Alcoholics anonymous	3083	1	1	AlcoholConsumptionLevel3
-478024019	Alcohol-induced epilepsy	2930	1	1	AlcoholConsumptionLevel3
-342421016	Feels should cut down drinking	2884	1	1	AlcoholConsumptionLevel2
-353594015	Alcoholic fibrosis and sclerosis of liver	2750	1	1	AlcoholConsumptionLevel3
-317636014	High ethanol level in blood	2704	1	1	AlcoholConsumptionLevel2
-2419601000000110	Specialist alcohol treatment service signposted	2658	1	1	AlcoholConsumptionLevel2
-4533451000006113	Excessive alcohol consumption	2656	1	1	AlcoholConsumptionLevel2
-886501000006115	Alcoholic liver damage NOS	2287	1	1	AlcoholConsumptionLevel2
-2437261000000112	Family wellbeing discussion about alcohol	2239	1	1	AlcoholConsumptionLevel1
-7264381000006117	Referral to specialist alcohol treatment service declined by patient	2160	1	1	AlcoholConsumptionLevel2
-453265010	Oesophageal varices in alcoholic cirrhosis of the liver	2123	1	1	AlcoholConsumptionLevel3
-739501000000112	Advised to contact primary care alcohol worker	2025	1	1	AlcoholConsumptionLevel2
-11928611000006119	FAST - Fast Alcohol Screening Test	1961	1	1	AlcoholConsumptionLevel1
-478046010	Cerebellar ataxia due to alcoholism	1929	1	1	AlcoholConsumptionLevel3
-397611000006115	[X]Mental & behav dis due to use alcohol: acute intoxication	1920	1	1	AlcoholConsumptionLevel3
-4533271000006119	Ex-trivial drinker - less than 1 unit/day	1885	1	1	AlcoholConsumptionLevel0
-12002341000006114	Assessment using AUDIT-C (Alcohol Use Disorders Identification Test - Consumption)	1856	1	1	AlcoholConsumptionLevel1
-376451000006113	[X]Delirium tremens, alcohol induced	1836	1	1	AlcoholConsumptionLevel3
-401760017	Other alcoholic dementia	1760	1	1	AlcoholConsumptionLevel3
-507053019	DTs - delirium tremens	1755	1	1	AlcoholConsumptionLevel3
-393861000006111	[X]Intentional self poisoning by and exposure to alcohol	1746	1	1	AlcoholConsumptionLevel2
-362951000006110	Alcoholic hallucinosis	1730	1	1	AlcoholConsumptionLevel3
-294669014	Alcohol withdrawal hallucinosis	1612	1	1	AlcoholConsumptionLevel3
-4120341000006116	Never drinks	1587	1	1	AlcoholConsumptionLevel0
-324489011	Alcohol causing toxic effect NOS	1481	1	1	AlcoholConsumptionLevel2
-294668018	Chronic alcoholic brain syndrome	1455	1	1	AlcoholConsumptionLevel3
-362981000006119	[X]Alcoholic psychosis NOS	1450	1	1	AlcoholConsumptionLevel3
-4120371000006112	Non - drinker alcohol	1386	1	1	AlcoholConsumptionLevel0
-4978571000006117	Drinking binge	1301	1	1	AlcoholConsumptionLevel2
-1947501000006118	Emergency department attendance related to personal alcohol consumption	1265	1	1	AlcoholConsumptionLevel2
-2549849017	Alcohol induced hallucinations	1261	1	1	AlcoholConsumptionLevel3
-2298341000000114	In-house alcohol detoxification	1228	1	1	AlcoholConsumptionLevel3
-542611000006114	Cerebral degeneration due to alcoholism	1197	1	1	AlcoholConsumptionLevel3
-480271000000113	Disqualified from driving due to excess alcohol	1169	1	1	AlcoholConsumptionLevel2
-476701000006114	Alcohol myopathy	1154	1	1	AlcoholConsumptionLevel3
-397621000006111	Alcohol-induced psychosis	1149	1	1	AlcoholConsumptionLevel3
-3073921000006112	Alcohol rehabilitation	1142	1	1	AlcoholConsumptionLevel2
-397431000006111	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	1115	1	1	AlcoholConsumptionLevel3
-649311000006115	Toxic effect of ethyl alcohol	1066	1	1	AlcoholConsumptionLevel2
-283451018	Aversion therapy - alcoholism	1060	1	1	AlcoholConsumptionLevel3
-451124014	Chronic alcoholic hepatitis	1044	1	1	AlcoholConsumptionLevel3
-223671000000110	Hangover from alcohol	1043	1	1	AlcoholConsumptionLevel3
-295254011	Nondependent alcohol abuse in remission	1037	1	1	AlcoholConsumptionLevel3
-295128011	Acute alcoholic intoxication, unspecified, in alcoholism	991	1	1	AlcoholConsumptionLevel3
-371501000000110	Delivery of rehabilitation for alcohol addiction	910	1	1	AlcoholConsumptionLevel3
-2626161000006111	Alcoholic peripheral neuropathy	907	1	1	AlcoholConsumptionLevel3
-294676016	Alcoholic psychosis NOS	794	1	1	AlcoholConsumptionLevel3
-325596018	Toxic effect of alcohol	783	1	1	AlcoholConsumptionLevel2
-1234742013	Ethanol causing toxic effect	781	1	1	AlcoholConsumptionLevel2
-397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state	774	1	1	AlcoholConsumptionLevel3
-2454281000000112	Hospital attendance related to personal alcohol consumption	769	1	1	AlcoholConsumptionLevel2
-295132017	Acute alcoholic intoxication in alcoholism NOS	760	1	1	AlcoholConsumptionLevel3
-899411000006110	Toxic effects of alcohol	754	1	1	AlcoholConsumptionLevel2
-15079111000006113	Alcohol withdrawal	746	0	1	AlcoholConsumptionLevel3
-2364891000000111	Hospital alcohol liaison team report received	733	1	1	AlcoholConsumptionLevel2
-3315041000006111	Alcoholic steatosis	725	1	1	AlcoholConsumptionLevel2
-2467301000000111	Alcohol relapse prevention	686	1	1	AlcoholConsumptionLevel3
-294671014	Pathological alcohol intoxication	673	1	1	AlcoholConsumptionLevel3
-397791000006118	Alcohol amnestic disorder	671	1	1	AlcoholConsumptionLevel3
-7382961000006113	Assessment using alcohol use disorders identification test	646	1	1	AlcoholConsumptionLevel1
-2475831000000114	Alcohol harm reduction programme	643	1	1	AlcoholConsumptionLevel3
-476361000006114	Alcohol amnestic syndrome	639	1	1	AlcoholConsumptionLevel3
-294672019	Alcoholic paranoia	630	1	1	AlcoholConsumptionLevel3
-295130013	Episodic acute alcoholic intoxication in alcoholism	620	1	1	AlcoholConsumptionLevel3
-4978581000006119	Alcohol binge	615	1	1	AlcoholConsumptionLevel2
-7334601000006116	Drinks alcoholic cider	557	1	1	AlcoholConsumptionLevel1
-295126010	Alcohol dependence with acute alcoholic intoxication	542	1	1	AlcoholConsumptionLevel3
-380081000006115	Finding of alcohol in blood	536	1	1	AlcoholConsumptionLevel1
-4533331000006113	Ex-very heavy drinker - greater than 9 units/day	536	1	1	AlcoholConsumptionLevel3
-397241000006119	[X]Men & behav dis due to use alcohol: oth men & behav dis	528	1	1	AlcoholConsumptionLevel3
-4978481000006118	Alcoholic binges exceeding safe amounts	518	1	1	AlcoholConsumptionLevel2
-4533461000006110	Excessive alcohol use	513	1	1	AlcoholConsumptionLevel2
-4979061000006110	Craving for alcohol	500	1	1	AlcoholConsumptionLevel2
-3859091000006114	Dilated cardiomyopathy secondary to alcohol	495	1	1	AlcoholConsumptionLevel3
-346930019	Inebriety NOS	460	1	1	AlcoholConsumptionLevel3
-4978471000006116	Alcoholic binges exceeding sensible amounts	446	1	1	AlcoholConsumptionLevel2
-370961000006119	[X]Chronic alcoholic brain syndrome	445	1	1	AlcoholConsumptionLevel3
-294670010	Drunkenness - pathological	414	1	1	AlcoholConsumptionLevel3
-4977991000006113	Fairly heavy drinker	404	1	1	AlcoholConsumptionLevel2
-11928741000006114	Alcohol use disorders identification test	382	1	1	AlcoholConsumptionLevel1
-4533171000006114	ETOH - Alcohol intake	380	1	1	AlcoholConsumptionLevel1
-294662017	Korsakov's alcoholic psychosis with peripheral neuritis	376	1	1	AlcoholConsumptionLevel3
-5720641000006112	Ex-problem drinker	367	1	1	AlcoholConsumptionLevel2
-397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium	347	1	1	AlcoholConsumptionLevel3
-3165681000006118	Alcoholic liver disease	339	1	1	AlcoholConsumptionLevel2
-379971000006119	[X]Evid alch invl detrm by levl intox alch invl not oth spec	306	1	1	AlcoholConsumptionLevel1
-7710581000006113	Severe alcohol dependence	295	1	1	AlcoholConsumptionLevel3
-422801000006118	[X]Poisoning by and exposure to alcohol, undetermined intent	286	1	1	AlcoholConsumptionLevel2
-295131012	Acute alcoholic intoxication in remission, in alcoholism	277	1	1	AlcoholConsumptionLevel3
-4978491000006115	Daily drinker	259	1	1	AlcoholConsumptionLevel2
-2462911000000112	Withdrawn from alcohol detoxification programme	258	1	1	AlcoholConsumptionLevel3
-3510721000006113	Combined alcohol and drug rehabilitation	252	1	1	AlcoholConsumptionLevel3
-5689771000006115	Persistent alcohol abuse	242	1	1	AlcoholConsumptionLevel3
-295129015	Continuous acute alcoholic intoxication in alcoholism	193	1	1	AlcoholConsumptionLevel3
-393601000006114	[X]Intentional self poisoning by and exposure to alcohol, occurrence at unspecified place	190	1	1	AlcoholConsumptionLevel2
-397201000006116	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	188	1	1	AlcoholConsumptionLevel3
-391941000006118	[X]Intentional self poisoning by and exposure to alcohol, occurrence at home	186	1	1	AlcoholConsumptionLevel2
-3846821000006114	Alcohol poisoning	184	1	1	AlcoholConsumptionLevel2
-12456651000006117	[V]Alcohol rehabilitation	182	1	1	AlcoholConsumptionLevel2
-356292013	Alcohol-induced pseudo-Cushing's syndrome	182	1	1	AlcoholConsumptionLevel3
-362971000006117	[X]Alcoholic paranoia	177	1	1	AlcoholConsumptionLevel3
-342361016	Drinks in morning to get rid of hangover	175	1	1	AlcoholConsumptionLevel3
-3024491000006118	Hangover	172	1	1	AlcoholConsumptionLevel1
-882221000006114	Other alcoholic psychoses	172	1	1	AlcoholConsumptionLevel3
-4978431000006119	Weekend drinker	166	1	1	AlcoholConsumptionLevel1
-7725141000006111	Moderate alcohol dependence	154	1	1	AlcoholConsumptionLevel2
-4120321000006111	Abstinent	153	1	1	AlcoholConsumptionLevel0
-6221531000006118	Alcoholic cerebellar degeneration	148	1	1	AlcoholConsumptionLevel3
-1168961000000110	Five-Shot questionnaire score	145	1	1	AlcoholConsumptionLevel1
-1225183017	Alcohol deterrent poisoning	142	1	1	AlcoholConsumptionLevel2
-13770661000006117	Referral to alcoholism rehabilitation service	138	0	1	AlcoholConsumptionLevel3
-6947471000006110	Alcoholic liver cirrhosis	135	1	1	AlcoholConsumptionLevel3
-4978041000006118	Alcoholic	134	1	1	AlcoholConsumptionLevel2
-7275011000006117	AUDIT (alcohol use disorders identification test) score	128	1	1	AlcoholConsumptionLevel1
-294664016	Alcohol amnestic syndrome NOS	121	1	1	AlcoholConsumptionLevel3
-4082231000006118	Feeling intoxicated	118	1	1	AlcoholConsumptionLevel1
-4978321000006111	Drinks with friends	109	1	1	AlcoholConsumptionLevel1
-6221451000006112	Alcohol-related fit	99	1	1	AlcoholConsumptionLevel3
-4978731000006113	Ability to control drinking	98	1	1	AlcoholConsumptionLevel2
-324488015	Other alcohol causing toxic effect	96	1	1	AlcoholConsumptionLevel2
-3122331000006110	Patient referral for alcoholism rehabilitation	95	1	1	AlcoholConsumptionLevel3
-4978601000006112	Drinking day	92	1	1	AlcoholConsumptionLevel1
-502016018	Dipsomania	90	1	1	AlcoholConsumptionLevel3
-4120381000006110	Current non-drinker of alcohol	86	1	1	AlcoholConsumptionLevel0
-2658601000006116	Acute alcoholic liver disease	79	1	1	AlcoholConsumptionLevel2
-2626141000006112	Alcoholic polyneuropathy	79	1	1	AlcoholConsumptionLevel3
-2819381000006112	Alcohol rehabilitation and detoxification	79	1	1	AlcoholConsumptionLevel3
-324467012	Ethyl alcohol causing toxic effect NOS	75	1	1	AlcoholConsumptionLevel2
-459715013	Pain in lymph nodes after alcohol consumption	74	1	1	AlcoholConsumptionLevel1
-4978511000006114	Habitual drinker	74	1	1	AlcoholConsumptionLevel1
-5547201000006114	Alcohol dependence scale	73	1	1	AlcoholConsumptionLevel1
-4978911000006116	Drink driving	72	1	1	AlcoholConsumptionLevel2
-2911301000006110	Drunk	65	1	1	AlcoholConsumptionLevel1
-4977931000006114	Lifetime teetotaller	63	1	1	AlcoholConsumptionLevel0
-4977971000006112	Drinks on special occasions	60	1	1	AlcoholConsumptionLevel1
-4533431000006118	Excessive ethanol consumption	60	1	1	AlcoholConsumptionLevel2
-4978501000006111	Drinks alcohol daily	60	1	1	AlcoholConsumptionLevel2
-391511000006110	[X]Intentional self poisoning by and exposure to alcohol, occurrence at other specified place	57	1	1	AlcoholConsumptionLevel2
-7706231000006114	Mild alcohol dependence	56	1	1	AlcoholConsumptionLevel2
-1748121000000117	Replaces meals with drinks	54	1	1	AlcoholConsumptionLevel3
-350971000006112	[X] Adverse reaction to alcohol deterrents	53	1	1	AlcoholConsumptionLevel3
-4978421000006117	Drinks alcohol unevenly through week	52	1	1	AlcoholConsumptionLevel1
-2950191000006118	Smell of alcohol on breath	51	1	1	AlcoholConsumptionLevel2
-4978591000006116	Binge drinking	48	1	1	AlcoholConsumptionLevel2
-8088751000006117	Alcohol dependence with alcohol induced disorder	48	1	1	AlcoholConsumptionLevel3
-7309201000006114	Alcoholic pancreatitis	47	1	1	AlcoholConsumptionLevel2
-3630171000006111	Alcoholic amnestic syndrome	45	1	1	AlcoholConsumptionLevel3
-3315061000006110	Alcoholic fatty liver disease	43	1	1	AlcoholConsumptionLevel2
-362961000006112	[X]Alcoholic jealousy	42	1	1	AlcoholConsumptionLevel3
-2911291000006114	Acute alcohol intoxication	41	1	1	AlcoholConsumptionLevel1
-899421000006119	Ethyl alcohol - toxic effect	41	1	1	AlcoholConsumptionLevel2
-4978531000006115	Drinking episode	41	1	1	AlcoholConsumptionLevel2
-294675017	Other alcoholic psychosis NOS	41	1	1	AlcoholConsumptionLevel3
-4978971000006113	Persistent effect of alcohol	38	1	1	AlcoholConsumptionLevel2
-380131000006115	[X]Evidence of alcohl involv determin by blood alcohl level	38	1	1	AlcoholConsumptionLevel2
-3913321000006111	Drinks heavily	38	1	1	AlcoholConsumptionLevel3
-3630161000006116	Amnesic syndrome due to alcohol	38	1	1	AlcoholConsumptionLevel3
-4978781000006114	Unable to control drinking once started	37	1	1	AlcoholConsumptionLevel2
-2502071000006119	Alcohol user	36	1	1	AlcoholConsumptionLevel1
-126721013	Florid cirrhosis	36	1	1	AlcoholConsumptionLevel3
-464381000006118	Alcohol metabolism modifier adverse reaction	35	1	1	AlcoholConsumptionLevel3
-2502091000006118	Current drinker of alcohol	34	1	1	AlcoholConsumptionLevel1
-4978561000006112	Heavy drinking session	33	1	1	AlcoholConsumptionLevel2
-4979021000006116	Ashamed of drinking	31	1	1	AlcoholConsumptionLevel1
-3165691000006115	ALD - Alcoholic liver disease	31	1	1	AlcoholConsumptionLevel2
-7309181000006113	Alcohol-induced pancreatitis	31	1	1	AlcoholConsumptionLevel2
-6006211000006116	Drinking alcohol	29	1	1	AlcoholConsumptionLevel1
-2612481000006116	Alcohol hallucinosis	29	1	1	AlcoholConsumptionLevel3
-4533441000006111	XS - Excessive alcohol consumption	28	1	1	AlcoholConsumptionLevel2
-4533191000006110	Alcoholic drink intake	27	1	1	AlcoholConsumptionLevel1
-4978951000006115	Convicted of drink driving	27	1	1	AlcoholConsumptionLevel2
-5063221000006116	Alcohol-related macrocytosis	26	1	1	AlcoholConsumptionLevel3
-421381000006110	[X]Poisoning by and exposure to alcohol, occurrence at other specified place, undetermined intent	25	1	1	AlcoholConsumptionLevel2
-5564291000006118	Alcoholism detoxication centre	24	1	1	AlcoholConsumptionLevel3
-4533151000006116	AI - Alcohol intake	22	1	1	AlcoholConsumptionLevel1
-4979011000006112	Attitude to drinking	22	1	1	AlcoholConsumptionLevel2
-4951321000006115	Alcohol-free diet	21	1	1	AlcoholConsumptionLevel0
-4978751000006118	Able to control drinking	21	1	1	AlcoholConsumptionLevel2
-4978931000006110	Charged with drink driving offence	21	1	1	AlcoholConsumptionLevel2
-4978411000006113	Drinks alcohol evenly through week	20	1	1	AlcoholConsumptionLevel1
-1792751000000118	Cycle of change stage, alcohol	20	1	1	AlcoholConsumptionLevel2
-12001651000006110	Alcohol Use Disorders Identification Test - Consumption score	19	1	1	AlcoholConsumptionLevel1
-8048151000006113	Chronic pancreatitis due to chronic alcoholism	19	1	1	AlcoholConsumptionLevel3
-7278531000006111	SADQ (severity of alcohol dependence questionnaire) score	18	1	1	AlcoholConsumptionLevel2
-7849271000006113	Alcohol withdrawal with perceptual disturbances and seizures	18	1	1	AlcoholConsumptionLevel3
-380091000006117	[X]Eviden of alcohl involv blood alcohl level 20-39mg/100ml	17	1	1	AlcoholConsumptionLevel2
-4978801000006113	Unable to stop drinking before intoxication	17	1	1	AlcoholConsumptionLevel2
-4978551000006110	Drinking session	17	1	1	AlcoholConsumptionLevel2
-7700651000006119	Chronic alcoholic liver disease	15	1	1	AlcoholConsumptionLevel3
-4978121000006114	Drinks at home	13	1	1	AlcoholConsumptionLevel1
-1926131000006117	Referral to mental health services deferred until alcohol misuse resolved	13	1	1	AlcoholConsumptionLevel2
-8458711000006115	Ascites due to alcoholic cirrhosis	13	1	1	AlcoholConsumptionLevel3
-4978241000006111	Company when drinking	12	1	1	AlcoholConsumptionLevel1
-4978851000006112	Tolerance to alcohol	12	1	1	AlcoholConsumptionLevel2
-393311000006117	[X]Intentional self poisoning by and exposure to alcohol, occurrence on street and highway	12	1	1	AlcoholConsumptionLevel2
-4978541000006113	Drinking bout	12	1	1	AlcoholConsumptionLevel2
-5887581000006113	Alcohol-induced cerebellar ataxia	12	1	1	AlcoholConsumptionLevel3
-4978251000006113	Drinks alone	11	1	1	AlcoholConsumptionLevel1
-4978811000006111	Use of stratagems to control drinking	11	1	1	AlcoholConsumptionLevel2
-2485391000000114	Alcohol twelve step programme	11	1	1	AlcoholConsumptionLevel3
-3630091000006111	Wernicke-Korsakoff syndrome	11	1	1	AlcoholConsumptionLevel3
-362931000006115	[X]Alcohol deterrents caus adverse effects in therapeut use	11	1	1	AlcoholConsumptionLevel3
-4979041000006111	Feels drinking is out of control	10	1	1	AlcoholConsumptionLevel2
-2740351000006116	Ethanol abuse	10	1	1	AlcoholConsumptionLevel3
-377081000006114	[X]Dipsomania	10	1	1	AlcoholConsumptionLevel3
-2579818016	Laennec's cirrhosis	10	1	1	AlcoholConsumptionLevel3
-380001000006112	[X]Evid alcoh invol determ by level of intox sev alcoh intox	9	1	1	AlcoholConsumptionLevel1
-5549981000006119	Drinking problem scale	9	1	1	AlcoholConsumptionLevel1
-5110231000006116	Alcohol-induced hypoglycaemia	9	1	1	AlcoholConsumptionLevel2
-5497621000006118	Drinks a lot - fluids	9	1	1	AlcoholConsumptionLevel2
-3545841000006113	Detoxication therapy for alcoholism	9	1	1	AlcoholConsumptionLevel3
-8088741000006119	Alcohol induced disorder co-occurrent and due to alcohol dependence	9	1	1	AlcoholConsumptionLevel3
-6006201000006119	Ingestible alcohol	8	1	1	AlcoholConsumptionLevel1
-421801000006113	[X]Poisoning by and exposure to alcohol, occurrence at unspecified place, undetermined intent	8	1	1	AlcoholConsumptionLevel2
-4978061000006119	Dependent drinker	8	1	1	AlcoholConsumptionLevel2
-4978761000006116	Unable to control drinking	8	1	1	AlcoholConsumptionLevel2
-2969641000006116	Alcohol-related disorder	8	1	1	AlcoholConsumptionLevel3
-7791901000006117	Alcohol induced disorder	8	1	1	AlcoholConsumptionLevel3
-4978281000006117	Drinks in company	7	1	1	AlcoholConsumptionLevel1
-4978151000006117	Drinks in public places	7	1	1	AlcoholConsumptionLevel1
-6282101000006116	Alcohol intake - finding	7	1	1	AlcoholConsumptionLevel1
-5612351000006115	Alcoholic macrocytosis	7	1	1	AlcoholConsumptionLevel2
-5980911000006115	Alcohol-induced flushing	7	1	1	AlcoholConsumptionLevel2
-391521000006119	[X]Intentional self poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area	7	1	1	AlcoholConsumptionLevel2
-7518451000006115	Thrombocytopaenia due to alcohol	7	1	1	AlcoholConsumptionLevel3
-3916281000006114	Combined alcohol and drug detoxification	7	1	1	AlcoholConsumptionLevel3
-379991000006118	[X]Evid alcoh invol determ by level of intox mod alcoh intox	6	1	1	AlcoholConsumptionLevel1
-3402361000006113	Alcoholic ketoacidosis	6	1	1	AlcoholConsumptionLevel2
-422121000006117	[X]Poisoning by and exposure to alcohol, occurrence at home, undetermined intent	6	1	1	AlcoholConsumptionLevel2
-380101000006111	[X]Eviden of alcohl involv blood alcohl level 40-59mg/100ml	6	1	1	AlcoholConsumptionLevel2
-380111000006114	[X]Eviden of alcohl involv blood alcohl level 60-79mg/100ml	6	1	1	AlcoholConsumptionLevel2
-6047161000006116	Alcohol related optic neuropathy	6	1	1	AlcoholConsumptionLevel3
-7703061000006115	Acute on chronic alcoholic liver disease	6	1	1	AlcoholConsumptionLevel3
-379981000006116	[X]Evid alcoh invl determ by levl intox very sev alcoh intox	5	1	1	AlcoholConsumptionLevel1
-421521000006118	[X]Poisoning by and exposure to alcohol, occurrence on street and highway, undetermined intent	5	1	1	AlcoholConsumptionLevel2
-4722771000006115	Alcohol aversion therapy	5	1	1	AlcoholConsumptionLevel3
-5689781000006117	Chronic alcohol abuse	5	1	1	AlcoholConsumptionLevel3
-4539891000006115	History of alcoholism	5	1	1	AlcoholConsumptionLevel3
-7821631000006114	Fibrosis of liver caused by alcohol	5	1	1	AlcoholConsumptionLevel3
-13943151000006112	Cognitive impairment caused by alcohol	5	0	1	AlcoholConsumptionLevel3
-380011000006110	[X]Evid alcoh invol determ by levl of intox mild alcoh intox	4	1	1	AlcoholConsumptionLevel1
-380021000006119	[X]Evid alcoh invol detrm by pres alcoh in bld levl not spec	4	1	1	AlcoholConsumptionLevel1
-420991000006116	[X]Poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area, undetermined intent	4	1	1	AlcoholConsumptionLevel2
-11929541000006113	SADQ - Severity of alcohol dependence questionnaire	4	1	1	AlcoholConsumptionLevel2
-391351000006115	[X]Intentional self poisoning by and exposure to alcohol, occurrence at industrial and construction area	4	1	1	AlcoholConsumptionLevel2
-4978921000006112	Drunk driving	4	1	1	AlcoholConsumptionLevel2
-7108471000006117	Alcohol intake exceeds recommended daily limit	4	1	1	AlcoholConsumptionLevel2
-3630121000006110	Korsakoff psychosis	4	1	1	AlcoholConsumptionLevel3
-3630141000006115	Korsakov syndrome - alcoholic	4	1	1	AlcoholConsumptionLevel3
-2881581000006119	Combined alcohol and drug rehabilitation and detoxification	4	1	1	AlcoholConsumptionLevel3
-13667221000006114	Psychotic behaviour caused by ingestible alcohol	4	0	1	AlcoholConsumptionLevel3
-7967731000006110	Decreased alcohol consumption	3	1	1	AlcoholConsumptionLevel1
-7587641000006118	Admits alcohol use	3	1	1	AlcoholConsumptionLevel1
-4064221000006110	Drug interaction with alcohol	3	1	1	AlcoholConsumptionLevel1
-4978171000006110	Street drinker	3	1	1	AlcoholConsumptionLevel2
-11929551000006110	Severity of alcohol dependence questionnaire	3	1	1	AlcoholConsumptionLevel2
-2934661000006111	Poisoning by alcohol deterrent	3	1	1	AlcoholConsumptionLevel2
-7613331000006116	Alcohol reduction program	3	1	1	AlcoholConsumptionLevel2
-3630151000006118	Korsakov psychosis	3	1	1	AlcoholConsumptionLevel3
-7858041000006119	Alcohol-related neurological disorder	3	1	1	AlcoholConsumptionLevel3
-4533161000006119	Ethanol intake	2	1	1	AlcoholConsumptionLevel1
-7301021000006114	Five shot questionnaire on heavy drinking	2	1	1	AlcoholConsumptionLevel1
-2911271000006113	Acute alcoholism	2	1	1	AlcoholConsumptionLevel1
-4978141000006119	Drinks at other people's homes	2	1	1	AlcoholConsumptionLevel1
-4978201000006114	Drinks in public houses	2	1	1	AlcoholConsumptionLevel1
-7084901000006118	Alcohol intake within recommended daily limit	2	1	1	AlcoholConsumptionLevel1
-4978881000006116	Physical tolerance to alcohol	2	1	1	AlcoholConsumptionLevel2
-4978891000006118	Psychological tolerance to alcohol	2	1	1	AlcoholConsumptionLevel2
-4978461000006111	Episodic drinker	2	1	1	AlcoholConsumptionLevel2
-4978771000006111	Unable to abstain from drinking	2	1	1	AlcoholConsumptionLevel2
-7267751000006119	High alcohol level in blood	2	1	1	AlcoholConsumptionLevel2
-391951000006116	[X]Intentional self poisoning by and exposure to alcohol, occurrence on farm	2	1	1	AlcoholConsumptionLevel2
-393321000006113	[X]Intentional self poisoning by and exposure to alcohol, occurrence at trade and service area	2	1	1	AlcoholConsumptionLevel2
-393591000006118	[X]Intentional self poisoning by and exposure to alcohol, occurrence in residential institution	2	1	1	AlcoholConsumptionLevel2
-324466015	Grain alcohol causing toxic effect	2	1	1	AlcoholConsumptionLevel2
-2740361000006119	AA - Alcohol abuse	2	1	1	AlcoholConsumptionLevel3
-2502981000006117	Alcohol-induced persisting dementia	2	1	1	AlcoholConsumptionLevel3
-3859111000006117	Dilated cardiomyopathy caused by alcohol	2	1	1	AlcoholConsumptionLevel3
-7683281000006111	Facilitation of alcohol abuse recovery	2	1	1	AlcoholConsumptionLevel3
-8041851000006114	Degenerative brain disorder caused by alcohol	2	1	1	AlcoholConsumptionLevel3
-7821641000006116	Alcoholic fibrosis of liver	2	1	1	AlcoholConsumptionLevel3
-4120391000006113	Non-drinker for personal reasons	1	1	1	AlcoholConsumptionLevel0
-7650111000006114	Exposure to alcohol	1	1	1	AlcoholConsumptionLevel1
-4064231000006113	Alcohol interaction with drug	1	1	1	AlcoholConsumptionLevel1
-4978331000006114	Drinks with work colleagues	1	1	1	AlcoholConsumptionLevel1
-4978011000006117	Secret drinker	1	1	1	AlcoholConsumptionLevel1
-4978131000006112	Home drinker	1	1	1	AlcoholConsumptionLevel1
-5556091000006114	Short alcohol dependence data	1	1	1	AlcoholConsumptionLevel1
-4082241000006111	Feeling drunk	1	1	1	AlcoholConsumptionLevel1
-4082251000006113	Feeling groggy	1	1	1	AlcoholConsumptionLevel1
-5552891000006118	Michigan alcoholism screening test	1	1	1	AlcoholConsumptionLevel1
-4978821000006115	Has no stratagem to control drinking	1	1	1	AlcoholConsumptionLevel2
-4978831000006117	Uses stratagems to control drinking	1	1	1	AlcoholConsumptionLevel2
-4978901000006119	Reverse tolerance to alcohol	1	1	1	AlcoholConsumptionLevel2
-4978991000006114	Feels effect of alcohol at work	1	1	1	AlcoholConsumptionLevel2
-5110241000006114	Alcohol-induced hypoglycemia	1	1	1	AlcoholConsumptionLevel2
-8088731000006112	Disorder due to alcohol abuse	1	1	1	AlcoholConsumptionLevel2
-420981000006119	[X]Poisoning by and exposure to alcohol, occurrence at sports and athletics area, undetermined intent	1	1	1	AlcoholConsumptionLevel2
-421531000006115	[X]Poisoning by and exposure to alcohol, occurrence at trade and service area, undetermined intent	1	1	1	AlcoholConsumptionLevel2
-421791000006112	[X]Poisoning by and exposure to alcohol, occurrence in residential institution, undetermined intent	1	1	1	AlcoholConsumptionLevel2
-422131000006119	[X]Poisoning by and exposure to alcohol, occurrence on farm, undetermined intent	1	1	1	AlcoholConsumptionLevel2
-422381000006116	[X]Poisoning by and exposure to alcohol, occurrence at industrial and construction area, undetermined intent	1	1	1	AlcoholConsumptionLevel2
-6841781000006117	Alcohol consumption counseling	1	1	1	AlcoholConsumptionLevel2
-4978701000006117	Drinking takes priority over social obligations	1	1	1	AlcoholConsumptionLevel2
-4979051000006113	Feels afraid of being an alcoholic	1	1	1	AlcoholConsumptionLevel2
-5497631000006115	Cannot stop drinking	1	1	1	AlcoholConsumptionLevel2
-391501000006112	[X]Intentional self poisoning by and exposure to alcohol, occurrence at sports and athletics area	1	1	1	AlcoholConsumptionLevel2
-991151000006114	Alcohol NOS - toxic effect	1	1	1	AlcoholConsumptionLevel2
-7518471000006113	Thrombocytopaenia caused by alcohol	1	1	1	AlcoholConsumptionLevel3
-7785371000006113	Withdrawn from alcohol detoxification program	1	1	1	AlcoholConsumptionLevel3
-3182591000006114	Alcohol induced psychosis	1	1	1	AlcoholConsumptionLevel3
-3182581000006111	Alcoholic psychosis	1	1	1	AlcoholConsumptionLevel3
-5086741000006114	AH - Alcoholic hepatitis	1	1	1	AlcoholConsumptionLevel3
-6221541000006111	Alcoholic cerebellar degeneration syndrome	1	1	1	AlcoholConsumptionLevel3
-8041861000006111	Degenerative brain disorder due to alcohol	1	1	1	AlcoholConsumptionLevel3
-7849261000006118	Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal	1	1	1	AlcoholConsumptionLevel3
-13938641000006112	Acute alcoholic myopathy	1	0	1	AlcoholConsumptionLevel3
-4951331000006117	E2OH - Alcohol-free diet	NA	1	0	AlcoholConsumptionLevel0
-4977921000006111	Lifetime abstainer from drink	NA	1	0	AlcoholConsumptionLevel0
-4120401000006110	Non-drinker for religious reasons	NA	1	0	AlcoholConsumptionLevel0
-4120411000006113	Non-drinker for medical reasons	NA	1	0	AlcoholConsumptionLevel0
-4978521000006118	Drinks on empty stomach	NA	1	0	AlcoholConsumptionLevel1
-4978611000006110	Drinking days	NA	1	0	AlcoholConsumptionLevel1
-4533361000006116	Drinker of hard liquor	NA	1	0	AlcoholConsumptionLevel1
-4533391000006112	Drinks beer and hard liquor	NA	1	0	AlcoholConsumptionLevel1
-11929141000006119	Five-shot questionnaire on heavy drinking	NA	1	0	AlcoholConsumptionLevel1
-3024501000006114	Hangover effect	NA	1	0	AlcoholConsumptionLevel1
-2502101000006112	Drinks	NA	1	0	AlcoholConsumptionLevel1
-4978261000006110	Isolated drinker	NA	1	0	AlcoholConsumptionLevel1
-4978271000006115	Lone drinker	NA	1	0	AlcoholConsumptionLevel1
-4978291000006119	Drinks with family	NA	1	0	AlcoholConsumptionLevel1
-4978341000006116	Drinks with business associates	NA	1	0	AlcoholConsumptionLevel1
-4978351000006119	Drinks with acquaintances	NA	1	0	AlcoholConsumptionLevel1
-4978361000006117	Drinks with strangers	NA	1	0	AlcoholConsumptionLevel1
-4978021000006113	Hidden drinker	NA	1	0	AlcoholConsumptionLevel1
-4978161000006115	Park drinker	NA	1	0	AlcoholConsumptionLevel1
-5547211000006112	ADS - Alcohol dependence scale	NA	1	0	AlcoholConsumptionLevel1
-5556101000006115	SADD - Short alcohol dependence data	NA	1	0	AlcoholConsumptionLevel1
-5566231000006110	Finding of alcohol in blood	NA	1	0	AlcoholConsumptionLevel1
-8107541000006115	SASQ - single alcohol screening questionnaire	NA	1	0	AlcoholConsumptionLevel1
-4978191000006111	Drinks in licensed premises	NA	1	0	AlcoholConsumptionLevel1
-4978211000006112	Drinks at restaurants	NA	1	0	AlcoholConsumptionLevel1
-4978221000006116	Drinks at hotels	NA	1	0	AlcoholConsumptionLevel1
-4978231000006118	Drinks at night clubs	NA	1	0	AlcoholConsumptionLevel1
-4978301000006118	Drinks with spouse	NA	1	0	AlcoholConsumptionLevel1
-4978311000006115	Drinks with children	NA	1	0	AlcoholConsumptionLevel1
-5552901000006119	MAST - Michigan alcoholism screening test	NA	1	0	AlcoholConsumptionLevel1
-5552911000006116	Brief Michigan alcoholism screening test	NA	1	0	AlcoholConsumptionLevel1
-5552921000006112	BMAST - Brief Michigan alcoholism screening test	NA	1	0	AlcoholConsumptionLevel1
-5552941000006117	SMAST - Short Michigan alcoholism screening test	NA	1	0	AlcoholConsumptionLevel1
-5552931000006110	Short Michigan alcoholism screening test	NA	1	0	AlcoholConsumptionLevel1
-5553401000006115	MALT - Munich alcoholism test	NA	1	0	AlcoholConsumptionLevel1
-5553391000006117	Munich alcoholism test	NA	1	0	AlcoholConsumptionLevel1
-6282111000006118	Finding of alcohol intake	NA	1	0	AlcoholConsumptionLevel1
-6282161000006115	Company when drinking - finding	NA	1	0	AlcoholConsumptionLevel1
-6282171000006110	Finding of company when drinking	NA	1	0	AlcoholConsumptionLevel1
-5549991000006116	DPS - Drinking problem scale	NA	1	0	AlcoholConsumptionLevel1
-5552231000006118	Last six months of drinking questionnaire	NA	1	0	AlcoholConsumptionLevel1
-7275001000006115	Alcohol use disorders identification test score	NA	1	0	AlcoholConsumptionLevel1
-7334611000006118	Cider drinker	NA	1	0	AlcoholConsumptionLevel1
-7334621000006114	Drinks cider	NA	1	0	AlcoholConsumptionLevel1
-7382971000006118	Assessment using AUDIT (alcohol use disorders identification test)	NA	1	0	AlcoholConsumptionLevel1
-12002351000006111	Assessment using Alcohol Use Disorders Identification Test - Consumption	NA	1	0	AlcoholConsumptionLevel1
-8042621000006114	Parasomnia due to alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042611000006118	Parasomnia caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042641000006119	Insomnia due to alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042631000006112	Insomnia caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042661000006115	Hypersomnia due to alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042651000006117	Hypersomnia caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-8042671000006110	Circadian rhythm sleep disorder caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-4978181000006113	Drinks at work	NA	1	0	AlcoholConsumptionLevel2
-4978741000006115	Capacity to control drinking	NA	1	0	AlcoholConsumptionLevel2
-4978841000006110	Makes rules about drinking	NA	1	0	AlcoholConsumptionLevel2
-4978861000006114	Behavioural tolerance to alcohol	NA	1	0	AlcoholConsumptionLevel2
-4978871000006119	Behavioral tolerance to alcohol	NA	1	0	AlcoholConsumptionLevel2
-4978981000006111	After effect of drinking	NA	1	0	AlcoholConsumptionLevel2
-4979001000006114	Difficulty getting up after drinking	NA	1	0	AlcoholConsumptionLevel2
-4979071000006115	Urge for alcohol	NA	1	0	AlcoholConsumptionLevel2
-3062791000006112	Alcohol-induced anxiety disorder	NA	1	0	AlcoholConsumptionLevel2
-3062801000006113	Alcohol induced anxiety disorder	NA	1	0	AlcoholConsumptionLevel2
-6282281000006117	Finding of tolerance to alcohol	NA	1	0	AlcoholConsumptionLevel2
-6282271000006115	Tolerance to alcohol - finding	NA	1	0	AlcoholConsumptionLevel2
-3161691000006118	Alcohol-induced sleep disorder	NA	1	0	AlcoholConsumptionLevel2
-3161701000006118	Alcohol induced sleep disorder	NA	1	0	AlcoholConsumptionLevel2
-3374891000006116	Alcohol induced mood disorder	NA	1	0	AlcoholConsumptionLevel2
-3374881000006119	Alcohol-induced mood disorder	NA	1	0	AlcoholConsumptionLevel2
-3402371000006118	Alcohol induced ketoacidosis	NA	1	0	AlcoholConsumptionLevel2
-3402351000006111	Ketoacidosis due to acute alcohol intoxication	NA	1	0	AlcoholConsumptionLevel2
-3402381000006115	Ketoacidosis due to acute alcoholic intoxication	NA	1	0	AlcoholConsumptionLevel2
-7848901000006118	Duodenitis caused by ingestible alcohol	NA	1	0	AlcoholConsumptionLevel2
-7848911000006115	Alcoholic duodenitis	NA	1	0	AlcoholConsumptionLevel2
-7849311000006113	Alcohol-induced mood disorder with depressive symptoms	NA	1	0	AlcoholConsumptionLevel2
-7849301000006110	Mood disorder with depressive symptoms caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-3777361000006113	Alcohol induced sexual dysfunction	NA	1	0	AlcoholConsumptionLevel2
-3777351000006111	Alcohol-induced sexual dysfunction	NA	1	0	AlcoholConsumptionLevel2
-3779961000006118	Titubant ataxic gait	NA	1	0	AlcoholConsumptionLevel2
-3779981000006111	Reeling gait	NA	1	0	AlcoholConsumptionLevel2
-3779971000006113	Drunken gait	NA	1	0	AlcoholConsumptionLevel2
-3779951000006115	Titubation	NA	1	0	AlcoholConsumptionLevel2
-3834171000006114	Diarrhea caused by alcohol intake	NA	1	0	AlcoholConsumptionLevel2
-3834151000006116	Diarrhoea due to alcohol intake	NA	1	0	AlcoholConsumptionLevel2
-3834181000006112	Diarrhoea caused by alcohol intake	NA	1	0	AlcoholConsumptionLevel2
-3834161000006119	Diarrhea due to alcohol intake	NA	1	0	AlcoholConsumptionLevel2
-3903691000006115	Non megaloblastic anemia due to alcoholism	NA	1	0	AlcoholConsumptionLevel2
-3903681000006118	Non megaloblastic anaemia due to alcoholism	NA	1	0	AlcoholConsumptionLevel2
-3927041000006118	Megaloblastic anemia due to alcoholism	NA	1	0	AlcoholConsumptionLevel2
-3927061000006119	Megaloblastic anemia caused by alcoholism	NA	1	0	AlcoholConsumptionLevel2
-3927051000006116	Megaloblastic anaemia caused by alcoholism	NA	1	0	AlcoholConsumptionLevel2
-3927031000006111	Megaloblastic anaemia due to alcoholism	NA	1	0	AlcoholConsumptionLevel2
-4533421000006116	XS - Excessive ethanol consumption	NA	1	0	AlcoholConsumptionLevel2
-4978451000006114	Bout drinker	NA	1	0	AlcoholConsumptionLevel2
-7265801000006115	Heaviest drinking day	NA	1	0	AlcoholConsumptionLevel2
-4559361000006118	On examination - breath - alcohol smell	NA	1	0	AlcoholConsumptionLevel2
-6769931000006114	Teach alcohol abuse control	NA	1	0	AlcoholConsumptionLevel2
-6769941000006116	Teach alcohol abuse prevention	NA	1	0	AlcoholConsumptionLevel2
-6841801000006118	Counselling about alcohol consumption	NA	1	0	AlcoholConsumptionLevel2
-6841791000006119	Counseling about alcohol consumption	NA	1	0	AlcoholConsumptionLevel2
-7253631000006117	Ethanol in blood specimen above reference range	NA	1	0	AlcoholConsumptionLevel2
-2934681000006118	Poisoning caused by alcohol deterrent	NA	1	0	AlcoholConsumptionLevel2
-3846791000006117	Toxic effect of ethanol	NA	1	0	AlcoholConsumptionLevel2
-3846801000006116	Ethyl alcohol poisoning	NA	1	0	AlcoholConsumptionLevel2
-3846781000006115	Toxic effect of grain alcohol	NA	1	0	AlcoholConsumptionLevel2
-3846811000006118	Ethanol poisoning	NA	1	0	AlcoholConsumptionLevel2
-2885451000006111	Alcoholism counseling	NA	1	0	AlcoholConsumptionLevel2
-4978051000006116	Boozer	NA	1	0	AlcoholConsumptionLevel2
-4978711000006119	Drinking takes priority over family obligations	NA	1	0	AlcoholConsumptionLevel2
-4978721000006110	Drinking takes priority over financial obligations	NA	1	0	AlcoholConsumptionLevel2
-4978791000006112	Unable to control spontaneous drinking bouts	NA	1	0	AlcoholConsumptionLevel2
-5980921000006111	Alcohol-induced flushes	NA	1	0	AlcoholConsumptionLevel2
-5497641000006113	Drinks continuously	NA	1	0	AlcoholConsumptionLevel2
-5497651000006110	Finding of excessive fluid intake	NA	1	0	AlcoholConsumptionLevel2
-5549231000006112	CDP - Comprehensive drinker profile	NA	1	0	AlcoholConsumptionLevel2
-5549221000006114	Comprehensive drinker profile	NA	1	0	AlcoholConsumptionLevel2
-7267761000006117	Alcohol in blood specimen above reference range	NA	1	0	AlcoholConsumptionLevel2
-8197801000006118	Counselling about alcohol by other agencies	NA	1	0	AlcoholConsumptionLevel2
-4978941000006117	Charged with drunk driving offence	NA	1	0	AlcoholConsumptionLevel2
-4978961000006118	Convicted of drunk driving	NA	1	0	AlcoholConsumptionLevel2
-6282291000006119	Attitude to drinking - finding	NA	1	0	AlcoholConsumptionLevel2
-6282301000006118	Finding of attitude to drinking	NA	1	0	AlcoholConsumptionLevel2
-7278521000006113	Severity of alcohol dependence questionnaire score	NA	1	0	AlcoholConsumptionLevel2
-7309211000006112	Inflammation of pancreas caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-7309191000006111	Inflammation of pancreas due to alcohol	NA	1	0	AlcoholConsumptionLevel2
-8016431000006116	Gastric haemorrhage due to alcoholic gastritis	NA	1	0	AlcoholConsumptionLevel2
-8016441000006114	Gastric hemorrhage due to alcoholic gastritis	NA	1	0	AlcoholConsumptionLevel2
-7719211000006113	Difficulty abstaining from drinking	NA	1	0	AlcoholConsumptionLevel2
-7840371000006114	Alcohol induced gastric ulcer	NA	1	0	AlcoholConsumptionLevel2
-7840361000006119	Gastric ulcer caused by alcohol	NA	1	0	AlcoholConsumptionLevel2
-12001351000006118	Assessment using SADQ (Severity of Alcohol Dependence Questionnaire)	NA	1	0	AlcoholConsumptionLevel2
-12001361000006116	Assessment using Severity of Alcohol Dependence Questionnaire	NA	1	0	AlcoholConsumptionLevel2
-9322521000006111	Alcohol dependence in pregnancy	NA	1	0	AlcoholConsumptionLevel3
-9324921000006113	Alcohol dependence in childbirth	NA	1	0	AlcoholConsumptionLevel3
-2806381000006118	Alcoholic myositis	NA	1	0	AlcoholConsumptionLevel3
-2806371000006116	Alcoholic myopathic syndrome	NA	1	0	AlcoholConsumptionLevel3
-5063691000006117	Alcohol-related sideroblastic anaemia	NA	1	0	AlcoholConsumptionLevel3
-5063701000006117	Alcohol-related sideroblastic anemia	NA	1	0	AlcoholConsumptionLevel3
-7518461000006118	Thrombocytopenia due to alcohol	NA	1	0	AlcoholConsumptionLevel3
-7518481000006111	Thrombocytopenia caused by alcohol	NA	1	0	AlcoholConsumptionLevel3
-8030711000006112	Thrombocytopaenia co-occurrent and due to alcoholism	NA	1	0	AlcoholConsumptionLevel3
-8030721000006116	Thrombocytopenia co-occurrent and due to alcoholism	NA	1	0	AlcoholConsumptionLevel3
-7798471000006110	Alcohol harm reduction program	NA	1	0	AlcoholConsumptionLevel3
-7798531000006111	Alcohol twelve step program	NA	1	0	AlcoholConsumptionLevel3
-4723831000006118	Admitted to alcohol detoxification center	NA	1	0	AlcoholConsumptionLevel3
-5111831000006111	Pseudo-Cushing syndrome due to alcohol	NA	1	0	AlcoholConsumptionLevel3
-5111821000006113	Alcohol-induced pseudo-Cushing syndrome	NA	1	0	AlcoholConsumptionLevel3
-11922951000006112	Alcoholic psychoses	NA	1	0	AlcoholConsumptionLevel3
-3630101000006117	Amnestic syndrome of Wernicke's disease	NA	1	0	AlcoholConsumptionLevel3
-4763141000006111	Korsakov alcoholic psychosis with peripheral neuritis	NA	1	0	AlcoholConsumptionLevel3
-3688931000006118	Alcohol-induced persisting amnestic disorder	NA	1	0	AlcoholConsumptionLevel3
-2612491000006118	Alcohol-induced psychotic disorder with hallucinations	NA	1	0	AlcoholConsumptionLevel3
-2612511000006112	Alcohol induced hallucinosis	NA	1	0	AlcoholConsumptionLevel3
-4768901000006117	Alcohol induced encephalopathy	NA	1	0	AlcoholConsumptionLevel3
-5992721000006114	Esophageal varices in alcoholic cirrhosis of the liver	NA	1	0	AlcoholConsumptionLevel3
-5087751000006113	Chronic pancreatitis due to acute alcohol intoxication	NA	1	0	AlcoholConsumptionLevel3
-6221461000006114	Rum fits	NA	1	0	AlcoholConsumptionLevel3
-5012711000006112	Alcoholic coma	NA	1	0	AlcoholConsumptionLevel3
-2834051000006112	Idiosyncratic intoxication	NA	1	0	AlcoholConsumptionLevel3
-2834061000006114	Extreme sensitivity to alcohol syndrome	NA	1	0	AlcoholConsumptionLevel3
-3314451000006119	Cobalt cardiomyopathy	NA	1	0	AlcoholConsumptionLevel3
-3314461000006117	Beer-drinker's cardiomyopathy	NA	1	0	AlcoholConsumptionLevel3
-3794201000006119	Alcohol induced paranoia	NA	1	0	AlcoholConsumptionLevel3
-3794181000006115	Alcohol paranoia	NA	1	0	AlcoholConsumptionLevel3
-3794191000006117	Alcoholic jealousy	NA	1	0	AlcoholConsumptionLevel3
-12482561000006114	Alcoholics anonymous	NA	1	0	AlcoholConsumptionLevel3
-5564301000006117	Alcoholism detoxication center	NA	1	0	AlcoholConsumptionLevel3
-3493491000006118	Alcohol-induced psychotic disorder with delusions	NA	1	0	AlcoholConsumptionLevel3
-3493501000006114	Alcohol induced psychosis with delusions	NA	1	0	AlcoholConsumptionLevel3
-8458751000006119	Ascites due to alcoholic hepatitis	NA	1	0	AlcoholConsumptionLevel3
-8458771000006112	Hepatic coma due to alcoholic liver failure	NA	1	0	AlcoholConsumptionLevel3
-8462171000006115	Hepatic ascites due to chronic alcoholic hepatitis	NA	1	0	AlcoholConsumptionLevel3
-8042761000006112	Cerebral degeneration due to alcoholism	NA	1	0	AlcoholConsumptionLevel3
-8088761000006115	Perceptual disturbance due to alcohol withdrawal	NA	1	0	AlcoholConsumptionLevel3
-7791891000006116	Disorder caused by alcohol	NA	1	0	AlcoholConsumptionLevel3
-7798481000006113	Alcohol relapse prevention programme	NA	1	0	AlcoholConsumptionLevel3
-7798491000006111	Alcohol relapse prevention program	NA	1	0	AlcoholConsumptionLevel3
-7828201000006111	Dependent for drinking	NA	1	0	AlcoholConsumptionLevel3
-7849281000006111	Psychotic disorder caused by alcohol with schizophreniform symptoms	NA	1	0	AlcoholConsumptionLevel3
-7849291000006114	Alcohol-induced psychotic disorder with schizophreniform symptoms	NA	1	0	AlcoholConsumptionLevel3
-7849341000006112	Mood disorder with mixed manic and depressive symptoms caused by alcohol	NA	1	0	AlcoholConsumptionLevel3
-7849351000006114	Alcohol-induced mood disorder with mixed manic and depressive symptoms	NA	1	0	AlcoholConsumptionLevel3
-7849321000006117	Mood disorder with manic symptoms caused by alcohol	NA	1	0	AlcoholConsumptionLevel3
-7849331000006119	Alcohol-induced mood disorder with manic symptoms	NA	1	0	AlcoholConsumptionLevel3
-7858031000006112	Neurological disorder caused by ingestible alcohol	NA	1	0	AlcoholConsumptionLevel3
-3527541012	Alcohol abuse surveillance	NA	1	0	AlcoholConsumptionLevel3
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+1221271018	Alcohol consumption	36338802	1	1
+1660411000006112	AUDIT-C (Alcohol Use Disorders Identification Test - Consumption) score	15481871	1	1
+240741000006114	Education about alcohol consumption	10850702	1	1
+291355016	Teetotaller	8358299	1	1
+817981000006115	Health education - alcohol	7012079	1	1
+408548014	Alcohol use disorders identification test score	4736635	1	1
+538891000000111	FAST (Fast Alcohol Screening Test) score	4336465	1	1
+397729013	Trivial drinker - <1u/day	3994612	1	1
+1590901000006110	Alcohol screen - alcohol use disorder identification test consumption questions completed	3362302	1	1
+4533141000006118	Alcohol intake	2598302	1	1
+250312016	Light drinker - 1-2u/day	2434143	1	1
+217461000000118	Non - drinker	1962932	1	1
+629811000006113	Occasional drinker	1916872	1	1
+250340014	Alcohol intake within recommended sensible limits	1626122	1	1
+500478011	Alcohol dependence syndrome	1339911	1	1
+250313014	Moderate drinker - 3-6u/day	1264751	1	1
+936001000006111	Advice relating to alcohol consumption	1118941	1	1
+1680121000006110	Brief intervention for excessive alcohol consumption completed	1079758	1	1
+629821000006117	Drinks rarely	1069804	1	1
+502017010	Alcohol problem drinking	995888	1	1
+476411000006118	Alcohol consumption NOS	855899	1	1
+1590881000006113	Alcohol screen - alcohol use disorder identification test completed	799954	1	1
+587231000006111	Non drinker alcohol	585962	1	1
+47085011	Social drinker	585162	1	1
+250317010	Stopped drinking alcohol	561633	1	1
+476431000006112	Alcohol consumption screening	472519	1	1
+291352018	Non-drinker alcohol	328073	1	1
+250335018	Alcohol intake above recommended sensible limits	292581	1	1
+2532935011	Alcohol questionnaire completed	282302	1	1
+13929361000006112	Alcohol detoxification	209148	0	1
+250314015	Heavy drinker - 7-9u/day	201850	1	1
+12878014	Alcoholism	195946	1	1
+250332015	Beer drinker	187945	1	1
+250334019	Drinks wine	179884	1	1
+769451000006111	Intoxication - alcohol	177395	1	1
+2502061000006114	Current drinker	155709	1	1
+401797010	Nondependent alcohol abuse	153394	1	1
+299061000000117	Hazardous alcohol use	152582	1	1
+295136019	Alcohol dependence	141981	1	1
+476421000006114	Alcohol consumption screen	137171	1	1
+295144019	Alcohol dependence syndrome NOS	129778	1	1
+1738421000000111	Lower risk drinking	127794	1	1
+476611000006116	Alcoholic cirrhosis of liver	124766	1	1
+250316018	Very heavy drinker - >9u/day	120326	1	1
+283028013	Alcohol leaflet given	120113	1	1
+342320016	Light drinker	117765	1	1
+294674018	Alcohol withdrawal syndrome	115637	1	1
+236441000000113	Alcohol misuse enhanced services administration	114858	1	1
+119641000006116	Intentional self poisoning	112948	0	1
+303399018	Alcoholic liver damage	109339	1	1
+1484890014	Referral to community alcohol team	108128	1	1
+299081000000114	Harmful alcohol use	103827	1	1
+6769921000006111	Alcohol abuse prevention education	90770	1	1
+2692396019	Alcohol consumption screening test declined	84619	1	1
+362251000006117	Alcohol intoxication	77688	1	1
+2549646014	Referral to community drug and alcohol team	76379	1	1
+2532939017	Alcohol consumption counselling	75848	1	1
+110629012	Chronic alcoholism	74269	1	1
+251626014	H/O: alcoholism	70162	1	1
+1680131000006113	Extended intervention for excessive alcohol consumption completed	63445	1	1
+342366014	Binge drinker	60064	1	1
+606991000000117	Alcohol misuse	58369	1	1
+73012011	Moderate drinker	57809	1	1
+83834016	Alcoholic fatty liver	56394	1	1
+250331010	Spirit drinker	53465	1	1
+295251015	Nondependent alcohol abuse, unspecified	44669	1	1
+1704281000006117	Brief intervention for excessive alcohol consumption declined	43923	1	1
+2614651000006115	Alcoholism	38618	1	1
+4525015	Alcoholic gastritis	38106	1	1
+144179014	Heavy drinker	36728	1	1
+622961000000116	Referral to specialist alcohol treatment service	34086	1	1
+397881000006114	Alcohol abuse	31532	1	1
+4977911000006115	Lifetime non-drinker	29149	1	1
+6947461000006115	Alcoholic cirrhosis	28446	1	1
+353587018	Alcoholic hepatitis	28179	1	1
+622791000000112	Single alcohol screening questionnaire	27822	1	1
+315091000000117	Alcohol withdrawal-induced seizure	26960	1	1
+461112017	Alcoholism counselling	26245	1	1
+2998891000006117	Drinking	25845	1	1
+750531000000113	Declined referral to specialist alcohol treatment service	25202	1	1
+451082013	[V] Alcohol use	20485	1	1
+8107561000006116	AUDIT-C questionnaire	19929	1	1
+1746481000000112	Referral to community alcohol team declined	18665	1	1
+216585018	Under care of community alcohol team	18664	1	1
+4120351000006119	Does not drink alcohol	17747	1	1
+283559019	Admitted to alcohol detoxification centre	17085	1	1
+2474678017	Alcohol disorder monitoring	16470	1	1
+295765017	Alcohol-induced organic mental disorder	16410	1	1
+250333013	Drinks beer and spirits	16195	1	1
+346931015	Drunkenness	15556	1	1
+13628811000006110	Lifetime non-drinker of alcohol	15484	0	1
+405461000000114	Alcohol abuse monitoring	15392	1	1
+362921000006118	[X]Alcohol addiction	15370	1	1
+353698013	Alcohol-induced chronic pancreatitis	14603	1	1
+138527014	Alcoholic cardiomyopathy	14295	1	1
+17390014	Acute alcoholic hepatitis	14083	1	1
+397801000006117	[X]Mental and behav dis due to use alcohol: dependence syndr	12581	1	1
+1738341000000110	Increasing risk drinking	12510	1	1
+250321015	Ex-trivial drinker (<1u/day)	12303	1	1
+295127018	Acute alcoholic intoxication in alcoholism	12102	1	1
+295139014	Continuous chronic alcoholism	11814	1	1
+4978031000006111	Problem drinker	11807	1	1
+220641000006117	Deliberate self poisoning	10497	0	1
+753331000006118	Korsakov alcoholic psychosis	10174	1	1
+250329018	Ex-very heavy drinker-(>9u/d)	9786	1	1
+460926018	[V]Alcohol rehabilitation	9252	1	1
+254305017	O/E - breath - alcohol smell	9177	1	1
+409423019	Severity of alcohol dependence questionnaire score	9109	1	1
+3843491000006118	Ex-drinker	9043	1	1
+250324011	Ex-heavy drinker - (7-9u/day)	9033	1	1
+1754191000006119	Extended intervention for excessive alcohol consumption declined	8935	1	1
+5981291000006110	Alcohol withdrawal-induced convulsion	8685	1	1
+1724531000000116	Advised to abstain from alcohol consumption	8473	1	1
+7613321000006119	Alcohol reduction programme	8065	1	1
+6455201000006114	Substance use treatment: alcohol withdrawal	8043	1	1
+250322010	Ex-light drinker - (1-2u/day)	7838	1	1
+106878015	Alcohol detoxification	7765	1	1
+5547231000006118	AUDIT - Alcohol use disorders identification test	7550	1	1
+394681000006119	Korsakoff's psychosis	7477	1	1
+750721000000118	Number of alcohol units consumed on heaviest drinking day	7311	1	1
+370971000006114	[X]Chronic alcoholism	7285	1	1
+342322012	Very heavy drinker	7237	1	1
+295143013	Chronic alcoholism NOS	7112	1	1
+346929012	Alcoholic dementia	7100	1	1
+3545831000006115	Detoxication psychiatric therapy for alcoholism	6512	1	1
+250323017	Ex-moderate drinker - (3-6u/d)	6385	1	1
+295142015	Chronic alcoholism in remission	6290	1	1
+295255012	Nondependent alcohol abuse NOS	6029	1	1
+500729017	Alcohol causing toxic effect	5661	1	1
+14103017	Alcohol-induced polyneuropathy	5608	1	1
+1738381000000119	Higher risk drinking	5577	1	1
+217631000000113	Excessive fluid intake - finding	5504	1	1
+295141010	Episodic chronic alcoholism	5373	1	1
+882531000006110	Non-dependent abuse of alcohol	5335	1	1
+15243013	Alcohol withdrawal delirium	5058	1	1
+476741000006111	Alcohol-induced psychosis	5032	1	1
+11928751000006111	Alcohol use disorder identification test consumption questionnaire	4980	1	1
+317123010	Staggering gait	4917	1	1
+295253017	Nondependent alcohol abuse, episodic	4883	1	1
+2502081000006116	Drinks alcohol	4191	1	1
+353595019	Alcoholic hepatic failure	4189	1	1
+501294012	Wernicke-Korsakov syndrome	4149	1	1
+8066881000006119	Discussion about maternal wellbeing - alcohol	4140	1	1
+294673012	Other alcoholic psychosis	4129	1	1
+4533231000006117	Very heavy drinker - greater than 9 units/day	4109	1	1
+392121000006118	[X]Int self poison/exposure to other/unspec drug/medicament	4105	0	1
+254306016	O/E - alcoholic breath	4061	1	1
+409424013	SADQ - Severity of alcohol dependence questionnaire	4038	1	1
+461292011	Screening for alcohol abuse	4015	1	1
+353687012	Alcohol-induced acute pancreatitis	3896	1	1
+295252010	Nondependent alcohol abuse, continuous	3638	1	1
+380031000006116	[X]Evid of alcohol involv determind by level of intoxication	3634	1	1
+297011014	Alcoholic encephalopathy	3387	1	1
+362941000006113	[X]Alcoholic dementia NOS	3255	1	1
+2502971000006115	Dementia associated with alcoholism	3237	1	1
+15244019	Delirium tremens	3176	1	1
+2534258017	Alcohol counselling by other agencies	3148	1	1
+251195015	Alcoholics anonymous	3083	1	1
+478024019	Alcohol-induced epilepsy	2930	1	1
+342421016	Feels should cut down drinking	2884	1	1
+353594015	Alcoholic fibrosis and sclerosis of liver	2750	1	1
+317636014	High ethanol level in blood	2704	1	1
+2419601000000110	Specialist alcohol treatment service signposted	2658	1	1
+4533451000006113	Excessive alcohol consumption	2656	1	1
+392191000006116	[X]Int self poison/exposure to unspecif chemical at home	2586	0	1
+886501000006115	Alcoholic liver damage NOS	2287	1	1
+2437261000000112	Family wellbeing discussion about alcohol	2239	1	1
+7264381000006117	Referral to specialist alcohol treatment service declined by patient	2160	1	1
+453265010	Oesophageal varices in alcoholic cirrhosis of the liver	2123	1	1
+739501000000112	Advised to contact primary care alcohol worker	2025	1	1
+11928611000006119	FAST - Fast Alcohol Screening Test	1961	1	1
+393961000006115	[X]Intentional self poisoning by and exposure to sedative hypnotics	1931	0	1
+478046010	Cerebellar ataxia due to alcoholism	1929	1	1
+397611000006115	[X]Mental & behav dis due to use alcohol: acute intoxication	1920	1	1
+4533271000006119	Ex-trivial drinker - less than 1 unit/day	1885	1	1
+12002341000006114	Assessment using AUDIT-C (Alcohol Use Disorders Identification Test - Consumption)	1856	1	1
+376451000006113	[X]Delirium tremens, alcohol induced	1836	1	1
+401760017	Other alcoholic dementia	1760	1	1
+507053019	DTs - delirium tremens	1755	1	1
+393861000006111	[X]Intentional self poisoning by and exposure to alcohol	1746	1	1
+362951000006110	Alcoholic hallucinosis	1730	1	1
+294669014	Alcohol withdrawal hallucinosis	1612	1	1
+4120341000006116	Never drinks	1587	1	1
+393951000006117	[X]Intentional self poisoning by and exposure to psychotropic drugs	1578	0	1
+324489011	Alcohol causing toxic effect NOS	1481	1	1
+397471000006114	Psychoactive substance abuse	1481	0	1
+294668018	Chronic alcoholic brain syndrome	1455	1	1
+362981000006119	[X]Alcoholic psychosis NOS	1450	1	1
+4120371000006112	Non - drinker alcohol	1386	1	1
+4978571000006117	Drinking binge	1301	1	1
+1947501000006118	Emergency department attendance related to personal alcohol consumption	1265	1	1
+2549849017	Alcohol induced hallucinations	1261	1	1
+2298341000000114	In-house alcohol detoxification	1228	1	1
+542611000006114	Cerebral degeneration due to alcoholism	1197	1	1
+480271000000113	Disqualified from driving due to excess alcohol	1169	1	1
+476701000006114	Alcohol myopathy	1154	1	1
+397621000006111	Alcohol-induced psychosis	1149	1	1
+3073921000006112	Alcohol rehabilitation	1142	1	1
+397431000006111	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	1115	1	1
+649311000006115	Toxic effect of ethyl alcohol	1066	1	1
+283451018	Aversion therapy - alcoholism	1060	1	1
+398061000006110	[X]Mental and behav dis mlti/oth psych sbs: dependence syndr	1052	0	1
+451124014	Chronic alcoholic hepatitis	1044	1	1
+223671000000110	Hangover from alcohol	1043	1	1
+295254011	Nondependent alcohol abuse in remission	1037	1	1
+295128011	Acute alcoholic intoxication, unspecified, in alcoholism	991	1	1
+393741000006117	[X]Intent self poison oth/unsp drug/medic unspecif place	940	0	1
+371501000000110	Delivery of rehabilitation for alcohol addiction	910	1	1
+2626161000006111	Alcoholic peripheral neuropathy	907	1	1
+294676016	Alcoholic psychosis NOS	794	1	1
+325596018	Toxic effect of alcohol	783	1	1
+1234742013	Ethanol causing toxic effect	781	1	1
+397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state	774	1	1
+2454281000000112	Hospital attendance related to personal alcohol consumption	769	1	1
+295132017	Acute alcoholic intoxication in alcoholism NOS	760	1	1
+899411000006110	Toxic effects of alcohol	754	1	1
+15079111000006113	Alcohol withdrawal	746	0	1
+425831000006119	[X]Self carbon monoxide poisoning	734	0	1
+2364891000000111	Hospital alcohol liaison team report received	733	1	1
+3315041000006111	Alcoholic steatosis	725	1	1
+398111000006111	[X]Mental and behavioural dis due use sedatives/hypnotics	704	0	1
+2467301000000111	Alcohol relapse prevention	686	1	1
+294671014	Pathological alcohol intoxication	673	1	1
+397791000006118	Alcohol amnestic disorder	671	1	1
+7382961000006113	Assessment using alcohol use disorders identification test	646	1	1
+2475831000000114	Alcohol harm reduction programme	643	1	1
+476361000006114	Alcohol amnestic syndrome	639	1	1
+294672019	Alcoholic paranoia	630	1	1
+295130013	Episodic acute alcoholic intoxication in alcoholism	620	1	1
+4978581000006119	Alcohol binge	615	1	1
+7334601000006116	Drinks alcoholic cider	557	1	1
+295126010	Alcohol dependence with acute alcoholic intoxication	542	1	1
+380081000006115	Finding of alcohol in blood	536	1	1
+4533331000006113	Ex-very heavy drinker - greater than 9 units/day	536	1	1
+397241000006119	[X]Men & behav dis due to use alcohol: oth men & behav dis	528	1	1
+4978481000006118	Alcoholic binges exceeding safe amounts	518	1	1
+4533461000006110	Excessive alcohol use	513	1	1
+4979061000006110	Craving for alcohol	500	1	1
+3859091000006114	Dilated cardiomyopathy secondary to alcohol	495	1	1
+346930019	Inebriety NOS	460	1	1
+4978471000006116	Alcoholic binges exceeding sensible amounts	446	1	1
+370961000006119	[X]Chronic alcoholic brain syndrome	445	1	1
+393971000006110	[X]Intent self poison/exposure to unspecif chemical	443	0	1
+294670010	Drunkenness - pathological	414	1	1
+4977991000006113	Fairly heavy drinker	404	1	1
+397451000006116	[X]Ment & behav dis due use opioids: unsp ment & behav dis	383	0	1
+11928741000006114	Alcohol use disorders identification test	382	1	1
+4533171000006114	ETOH - Alcohol intake	380	1	1
+392091000006117	[X]Int self poison/exposure to oth/unsp drug/medicam home	380	0	1
+294662017	Korsakov's alcoholic psychosis with peripheral neuritis	376	1	1
+5720641000006112	Ex-problem drinker	367	1	1
+397711000006111	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine	363	0	1
+397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium	347	1	1
+3165681000006118	Alcoholic liver disease	339	1	1
+379971000006119	[X]Evid alch invl detrm by levl intox alch invl not oth spec	306	1	1
+334743014	[X]Self poisoning from glue solvent	297	0	1
+7710581000006113	Severe alcohol dependence	295	1	1
+422801000006118	[X]Poisoning by and exposure to alcohol, undetermined intent	286	1	1
+392151000006110	[X]Intentional self poisoning by and exposure to psychotropic drugs, occurrence at home	279	0	1
+295131012	Acute alcoholic intoxication in remission, in alcoholism	277	1	1
+393931000006112	[X]Intent self poison/exposure to other gas/vapour	263	0	1
+393871000006116	[X]Intentional self poisoning by and exposure to antiepileptics	261	0	1
+4978491000006115	Daily drinker	259	1	1
+2462911000000112	Withdrawn from alcohol detoxification programme	258	1	1
+3510721000006113	Combined alcohol and drug rehabilitation	252	1	1
+5689771000006115	Persistent alcohol abuse	242	1	1
+13899001000006113	Excessive fluid intake	224	0	1
+398081000006117	[X]Mental and behav dis oth stim inc caffein: dependnce synd	221	0	1
+398161000006114	[X]Mental and behavioural disorders due to use hallucinogens	203	0	1
+295129015	Continuous acute alcoholic intoxication in alcoholism	193	1	1
+393601000006114	[X]Intentional self poisoning by and exposure to alcohol, occurrence at unspecified place	190	1	1
+397201000006116	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	188	1	1
+391941000006118	[X]Intentional self poisoning by and exposure to alcohol, occurrence at home	186	1	1
+3846821000006114	Alcohol poisoning	184	1	1
+12456651000006117	[V]Alcohol rehabilitation	182	1	1
+356292013	Alcohol-induced pseudo-Cushing's syndrome	182	1	1
+362971000006117	[X]Alcoholic paranoia	177	1	1
+342361016	Drinks in morning to get rid of hangover	175	1	1
+3024491000006118	Hangover	172	1	1
+882221000006114	Other alcoholic psychoses	172	1	1
+331546017	Suicide and selfinflicted poisoning by other carbon monoxide	169	0	1
+4978431000006119	Weekend drinker	166	1	1
+397751000006112	[X]Mental and behav dis due seds/hypntcs: withdrawal state	159	0	1
+7725141000006111	Moderate alcohol dependence	154	1	1
+4120321000006111	Abstinent	153	1	1
+394291000006118	[X]Intentional self poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours	153	0	1
+6221531000006118	Alcoholic cerebellar degeneration	148	1	1
+1168961000000110	Five-Shot questionnaire score	145	1	1
+1225183017	Alcohol deterrent poisoning	142	1	1
+397631000006114	[X]Mental & behav dis due to use cocaine: acute intoxication	142	0	1
+13770661000006117	Referral to alcoholism rehabilitation service	138	0	1
+6947471000006110	Alcoholic liver cirrhosis	135	1	1
+4978041000006118	Alcoholic	134	1	1
+7275011000006117	AUDIT (alcohol use disorders identification test) score	128	1	1
+294664016	Alcohol amnestic syndrome NOS	121	1	1
+4082231000006118	Feeling intoxicated	118	1	1
+4978321000006111	Drinks with friends	109	1	1
+398271000006114	[X]Mental/behav dis multi drg use/psychoac subs: acute intox	109	0	1
+397301000006112	[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis	106	0	1
+397961000006112	[X]Mental and behav dis due to use seds/hypntcs: harmful use	104	0	1
+398041000006111	[X]Mental and behav dis due volatile solvents: harmful use	102	0	1
+6221451000006112	Alcohol-related fit	99	1	1
+4978731000006113	Ability to control drinking	98	1	1
+324488015	Other alcohol causing toxic effect	96	1	1
+3122331000006110	Patient referral for alcoholism rehabilitation	95	1	1
+393851000006114	[X]Intent self poison unspecif chemical unspecif place	94	0	1
+4978601000006112	Drinking day	92	1	1
+502016018	Dipsomania	90	1	1
+397441000006118	[X]Ment & behav dis due use cocaine: unsp ment & behav dis	89	0	1
+4120381000006110	Current non-drinker of alcohol	86	1	1
+2658601000006116	Acute alcoholic liver disease	79	1	1
+2626141000006112	Alcoholic polyneuropathy	79	1	1
+2819381000006112	Alcohol rehabilitation and detoxification	79	1	1
+397141000006111	[X]Men & beh dis due cocaine: resid & late-onset psychot dis	78	0	1
+324467012	Ethyl alcohol causing toxic effect NOS	75	1	1
+423031000006112	[X]Post hallucinogen perception disorder	75	0	1
+459715013	Pain in lymph nodes after alcohol consumption	74	1	1
+4978511000006114	Habitual drinker	74	1	1
+5547201000006114	Alcohol dependence scale	73	1	1
+397491000006110	[X]Ment/behav dis due to use oth stims inc caff: harmful use	73	0	1
+4978911000006116	Drink driving	72	1	1
+397861000006116	[X]Mental and behav dis due to use cocaine: withdrawal state	69	0	1
+397571000006113	[X]Mental & behav dis due seds/hypntcs: acute intoxication	68	0	1
+2911301000006110	Drunk	65	1	1
+398071000006115	[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state	65	0	1
+4977931000006114	Lifetime teetotaller	63	1	1
+4977971000006112	Drinks on special occasions	60	1	1
+4533431000006118	Excessive ethanol consumption	60	1	1
+4978501000006111	Drinks alcohol daily	60	1	1
+391511000006110	[X]Intentional self poisoning by and exposure to alcohol, occurrence at other specified place	57	1	1
+7706231000006114	Mild alcohol dependence	56	1	1
+1748121000000117	Replaces meals with drinks	54	1	1
+350971000006112	[X] Adverse reaction to alcohol deterrents	53	1	1
+4978421000006117	Drinks alcohol unevenly through week	52	1	1
+2950191000006118	Smell of alcohol on breath	51	1	1
+398011000006112	[X]Mental and behav dis due to vol solvents: dependence synd	51	0	1
+397311000006110	[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis	49	0	1
+4978591000006116	Binge drinking	48	1	1
+8088751000006117	Alcohol dependence with alcohol induced disorder	48	1	1
+7309201000006114	Alcoholic pancreatitis	47	1	1
+3630171000006111	Alcoholic amnestic syndrome	45	1	1
+398691000006112	[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis	45	0	1
+3315061000006110	Alcoholic fatty liver disease	43	1	1
+362961000006112	[X]Alcoholic jealousy	42	1	1
+392101000006111	[X]Int self poison/exposure to other gas/vapour at home	42	0	1
+2911291000006114	Acute alcohol intoxication	41	1	1
+899421000006119	Ethyl alcohol - toxic effect	41	1	1
+4978531000006115	Drinking episode	41	1	1
+294675017	Other alcoholic psychosis NOS	41	1	1
+4978971000006113	Persistent effect of alcohol	38	1	1
+380131000006115	[X]Evidence of alcohl involv determin by blood alcohl level	38	1	1
+3913321000006111	Drinks heavily	38	1	1
+3630161000006116	Amnesic syndrome due to alcohol	38	1	1
+4978781000006114	Unable to control drinking once started	37	1	1
+393891000006115	[X]Intentional self poisoning by and exposure to hallucinogens	37	0	1
+2502071000006119	Alcohol user	36	1	1
+126721013	Florid cirrhosis	36	1	1
+397561000006118	[X]Mental & behav dis due hallucinogens: acute intoxicatn	36	0	1
+464381000006118	Alcohol metabolism modifier adverse reaction	35	1	1
+2502091000006118	Current drinker of alcohol	34	1	1
+397231000006112	[X]Men & behav dis due opioid: withdrawl state with delirium	34	0	1
+397821000006110	[X]Mental and behav dis due to use cannabinoids: amnesic syn	34	0	1
+4978561000006112	Heavy drinking session	33	1	1
+4979021000006116	Ashamed of drinking	31	1	1
+3165691000006115	ALD - Alcoholic liver disease	31	1	1
+7309181000006113	Alcohol-induced pancreatitis	31	1	1
+397871000006111	[X]Mental and behav dis due to use hallucinogens: harmfl use	30	0	1
+397921000006118	[X]Mental and behav dis due to use opioids: amnesic syndrome	30	0	1
+6006211000006116	Drinking alcohol	29	1	1
+2612481000006116	Alcohol hallucinosis	29	1	1
+4533441000006111	XS - Excessive alcohol consumption	28	1	1
+4533191000006110	Alcoholic drink intake	27	1	1
+4978951000006115	Convicted of drink driving	27	1	1
+5063221000006116	Alcohol-related macrocytosis	26	1	1
+421381000006110	[X]Poisoning by and exposure to alcohol, occurrence at other specified place, undetermined intent	25	1	1
+393921000006114	[X]Intentional self poisoning by and exposure to other autonomic drugs	25	0	1
+5564291000006118	Alcoholism detoxication centre	24	1	1
+4533151000006116	AI - Alcohol intake	22	1	1
+4979011000006112	Attitude to drinking	22	1	1
+391781000006110	[X]Int self poison oth/unsp drug/medic other spec place	22	0	1
+397531000006110	[X]Ment/behav dis due use vol solvents: unsp ment/behav dis	22	0	1
+4951321000006115	Alcohol-free diet	21	1	1
+4978751000006118	Able to control drinking	21	1	1
+4978931000006110	Charged with drink driving offence	21	1	1
+397521000006112	[X]Ment/behav dis due use seds/hypntcs: unsp ment/behav disd	21	0	1
+398681000006114	[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state	21	0	1
+4978411000006113	Drinks alcohol evenly through week	20	1	1
+1792751000000118	Cycle of change stage, alcohol	20	1	1
+12001651000006110	Alcohol Use Disorders Identification Test - Consumption score	19	1	1
+8048151000006113	Chronic pancreatitis due to chronic alcoholism	19	1	1
+7278531000006111	SADQ (severity of alcohol dependence questionnaire) score	18	1	1
+7849271000006113	Alcohol withdrawal with perceptual disturbances and seizures	18	1	1
+391441000006113	[X]Int self pois oth/unsp drug/medic indust/construct area	18	0	1
+393771000006113	[X]Intent self poison other gas/vapour unspecif place	18	0	1
+380091000006117	[X]Eviden of alcohl involv blood alcohl level 20-39mg/100ml	17	1	1
+4978801000006113	Unable to stop drinking before intoxication	17	1	1
+4978551000006110	Drinking session	17	1	1
+398701000006112	[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis	17	0	1
+397841000006115	[X]Mental and behav dis due to use cocaine: amnesic syndrome	16	0	1
+7700651000006119	Chronic alcoholic liver disease	15	1	1
+391801000006114	[X]Int self poison other gas/vapour other spec place	15	0	1
+4978121000006114	Drinks at home	13	1	1
+1926131000006117	Referral to mental health services deferred until alcohol misuse resolved	13	1	1
+8458711000006115	Ascites due to alcoholic cirrhosis	13	1	1
+4978241000006111	Company when drinking	12	1	1
+4978851000006112	Tolerance to alcohol	12	1	1
+393311000006117	[X]Intentional self poisoning by and exposure to alcohol, occurrence on street and highway	12	1	1
+4978541000006113	Drinking bout	12	1	1
+5887581000006113	Alcohol-induced cerebellar ataxia	12	1	1
+397511000006116	[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis	12	0	1
+4978251000006113	Drinks alone	11	1	1
+4978811000006111	Use of stratagems to control drinking	11	1	1
+2485391000000114	Alcohol twelve step programme	11	1	1
+3630091000006111	Wernicke-Korsakoff syndrome	11	1	1
+362931000006115	[X]Alcohol deterrents caus adverse effects in therapeut use	11	1	1
+4979041000006111	Feels drinking is out of control	10	1	1
+2740351000006116	Ethanol abuse	10	1	1
+377081000006114	[X]Dipsomania	10	1	1
+2579818016	Laennec's cirrhosis	10	1	1
+393881000006118	[X]Intentional self poisoning by and exposure to antiparkinson drugs	10	0	1
+398021000006116	[X]Mental and behav dis due use hallucinogens: amnesic syndr	10	0	1
+3984641000006113	Disorder due to psychoactive substance use	10	0	1
+380001000006112	[X]Evid alcoh invol determ by level of intox sev alcoh intox	9	1	1
+5549981000006119	Drinking problem scale	9	1	1
+5110231000006116	Alcohol-induced hypoglycaemia	9	1	1
+5497621000006118	Drinks a lot - fluids	9	1	1
+3545841000006113	Detoxication therapy for alcoholism	9	1	1
+8088741000006119	Alcohol induced disorder co-occurrent and due to alcohol dependence	9	1	1
+6006201000006119	Ingestible alcohol	8	1	1
+421801000006113	[X]Poisoning by and exposure to alcohol, occurrence at unspecified place, undetermined intent	8	1	1
+4978061000006119	Dependent drinker	8	1	1
+4978761000006116	Unable to control drinking	8	1	1
+2969641000006116	Alcohol-related disorder	8	1	1
+7791901000006117	Alcohol induced disorder	8	1	1
+4978281000006117	Drinks in company	7	1	1
+4978151000006117	Drinks in public places	7	1	1
+6282101000006116	Alcohol intake - finding	7	1	1
+5612351000006115	Alcoholic macrocytosis	7	1	1
+5980911000006115	Alcohol-induced flushing	7	1	1
+391521000006119	[X]Intentional self poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area	7	1	1
+7518451000006115	Thrombocytopaenia due to alcohol	7	1	1
+3916281000006114	Combined alcohol and drug detoxification	7	1	1
+391921000006113	[X]Int self poison unspecif chemical other spec place	7	0	1
+379991000006118	[X]Evid alcoh invol determ by level of intox mod alcoh intox	6	1	1
+3402361000006113	Alcoholic ketoacidosis	6	1	1
+422121000006117	[X]Poisoning by and exposure to alcohol, occurrence at home, undetermined intent	6	1	1
+380101000006111	[X]Eviden of alcohl involv blood alcohl level 40-59mg/100ml	6	1	1
+380111000006114	[X]Eviden of alcohl involv blood alcohl level 60-79mg/100ml	6	1	1
+6047161000006116	Alcohol related optic neuropathy	6	1	1
+7703061000006115	Acute on chronic alcoholic liver disease	6	1	1
+391771000006112	[X]Int self poison oth/uns drug/med school/pub admin area	6	0	1
+379981000006116	[X]Evid alcoh invl determ by levl intox very sev alcoh intox	5	1	1
+421521000006118	[X]Poisoning by and exposure to alcohol, occurrence on street and highway, undetermined intent	5	1	1
+4722771000006115	Alcohol aversion therapy	5	1	1
+5689781000006117	Chronic alcohol abuse	5	1	1
+4539891000006115	History of alcoholism	5	1	1
+7821631000006114	Fibrosis of liver caused by alcohol	5	1	1
+13943151000006112	Cognitive impairment caused by alcohol	5	0	1
+397951000006110	[X]Mental and behav dis due to use seds/hypntcs: amnesic syn	5	0	1
+3984651000006110	Psychoactive substance misuse disorder	5	0	1
+380011000006110	[X]Evid alcoh invol determ by levl of intox mild alcoh intox	4	1	1
+380021000006119	[X]Evid alcoh invol detrm by pres alcoh in bld levl not spec	4	1	1
+420991000006116	[X]Poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area, undetermined intent	4	1	1
+11929541000006113	SADQ - Severity of alcohol dependence questionnaire	4	1	1
+391351000006115	[X]Intentional self poisoning by and exposure to alcohol, occurrence at industrial and construction area	4	1	1
+4978921000006112	Drunk driving	4	1	1
+7108471000006117	Alcohol intake exceeds recommended daily limit	4	1	1
+3630121000006110	Korsakoff psychosis	4	1	1
+3630141000006115	Korsakov syndrome - alcoholic	4	1	1
+2881581000006119	Combined alcohol and drug rehabilitation and detoxification	4	1	1
+13667221000006114	Psychotic behaviour caused by ingestible alcohol	4	0	1
+393471000006118	[X]Intent self pois oth/unsp drug/medic in street/highway	4	0	1
+397171000006115	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	4	0	1
+397221000006114	[X]Men & behav dis due cocaine: withdrawl state wth delirium	4	0	1
+397331000006116	[X]Men/behav dis due to use hallucinogens: oth men/behav dis	4	0	1
+397351000006111	[X]Men/behav dis due to use vol solvents: oth men/behav disd	4	0	1
+398731000006116	[X]Mnt/bh dis oth stims inc caffne: withdr state wt delirium	4	0	1
+7967731000006110	Decreased alcohol consumption	3	1	1
+7587641000006118	Admits alcohol use	3	1	1
+4064221000006110	Drug interaction with alcohol	3	1	1
+4978171000006110	Street drinker	3	1	1
+11929551000006110	Severity of alcohol dependence questionnaire	3	1	1
+2934661000006111	Poisoning by alcohol deterrent	3	1	1
+7613331000006116	Alcohol reduction program	3	1	1
+3630151000006118	Korsakov psychosis	3	1	1
+7858041000006119	Alcohol-related neurological disorder	3	1	1
+391491000006116	[X]Int self pois unspecif chemical indust/construct area	3	0	1
+392081000006115	[X]Int self poison/exposure to oth/unsp drug/medic on farm	3	0	1
+393491000006117	[X]Intent self pois other gas/vapour in street/highway	3	0	1
+393751000006115	[X]Intent self poison oth/unsp drug/medicam res institut	3	0	1
+397741000006110	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state	3	0	1
+398091000006119	[X]Mental and behav dis oth stims inc caffeine: amnesic syn	3	0	1
+4533161000006119	Ethanol intake	2	1	1
+7301021000006114	Five shot questionnaire on heavy drinking	2	1	1
+2911271000006113	Acute alcoholism	2	1	1
+4978141000006119	Drinks at other people's homes	2	1	1
+4978201000006114	Drinks in public houses	2	1	1
+7084901000006118	Alcohol intake within recommended daily limit	2	1	1
+4978881000006116	Physical tolerance to alcohol	2	1	1
+4978891000006118	Psychological tolerance to alcohol	2	1	1
+4978461000006111	Episodic drinker	2	1	1
+4978771000006111	Unable to abstain from drinking	2	1	1
+7267751000006119	High alcohol level in blood	2	1	1
+391951000006116	[X]Intentional self poisoning by and exposure to alcohol, occurrence on farm	2	1	1
+393321000006113	[X]Intentional self poisoning by and exposure to alcohol, occurrence at trade and service area	2	1	1
+393591000006118	[X]Intentional self poisoning by and exposure to alcohol, occurrence in residential institution	2	1	1
+324466015	Grain alcohol causing toxic effect	2	1	1
+2740361000006119	AA - Alcohol abuse	2	1	1
+2502981000006117	Alcohol-induced persisting dementia	2	1	1
+3859111000006117	Dilated cardiomyopathy caused by alcohol	2	1	1
+7683281000006111	Facilitation of alcohol abuse recovery	2	1	1
+8041851000006114	Degenerative brain disorder caused by alcohol	2	1	1
+7821641000006116	Alcoholic fibrosis of liver	2	1	1
+391911000006117	[X]Int self poison unspecif chemical in sport/athletic area	2	0	1
+393571000006119	[X]Intent self pois unspecif chemical in street/highway	2	0	1
+398001000006114	[X]Mental and behav dis due to use vol solvents: amnesic syn	2	0	1
+398751000006111	[X]Mnt/bh dis vol solvents: resid & late-onset psychotic dis	2	0	1
+4120391000006113	Non-drinker for personal reasons	1	1	1
+7650111000006114	Exposure to alcohol	1	1	1
+4064231000006113	Alcohol interaction with drug	1	1	1
+4978331000006114	Drinks with work colleagues	1	1	1
+4978011000006117	Secret drinker	1	1	1
+4978131000006112	Home drinker	1	1	1
+5556091000006114	Short alcohol dependence data	1	1	1
+4082241000006111	Feeling drunk	1	1	1
+4082251000006113	Feeling groggy	1	1	1
+5552891000006118	Michigan alcoholism screening test	1	1	1
+4978821000006115	Has no stratagem to control drinking	1	1	1
+4978831000006117	Uses stratagems to control drinking	1	1	1
+4978901000006119	Reverse tolerance to alcohol	1	1	1
+4978991000006114	Feels effect of alcohol at work	1	1	1
+5110241000006114	Alcohol-induced hypoglycemia	1	1	1
+8088731000006112	Disorder due to alcohol abuse	1	1	1
+420981000006119	[X]Poisoning by and exposure to alcohol, occurrence at sports and athletics area, undetermined intent	1	1	1
+421531000006115	[X]Poisoning by and exposure to alcohol, occurrence at trade and service area, undetermined intent	1	1	1
+421791000006112	[X]Poisoning by and exposure to alcohol, occurrence in residential institution, undetermined intent	1	1	1
+422131000006119	[X]Poisoning by and exposure to alcohol, occurrence on farm, undetermined intent	1	1	1
+422381000006116	[X]Poisoning by and exposure to alcohol, occurrence at industrial and construction area, undetermined intent	1	1	1
+6841781000006117	Alcohol consumption counseling	1	1	1
+4978701000006117	Drinking takes priority over social obligations	1	1	1
+4979051000006113	Feels afraid of being an alcoholic	1	1	1
+5497631000006115	Cannot stop drinking	1	1	1
+391501000006112	[X]Intentional self poisoning by and exposure to alcohol, occurrence at sports and athletics area	1	1	1
+991151000006114	Alcohol NOS - toxic effect	1	1	1
+7518471000006113	Thrombocytopaenia caused by alcohol	1	1	1
+7785371000006113	Withdrawn from alcohol detoxification program	1	1	1
+3182591000006114	Alcohol induced psychosis	1	1	1
+3182581000006111	Alcoholic psychosis	1	1	1
+5086741000006114	AH - Alcoholic hepatitis	1	1	1
+6221541000006111	Alcoholic cerebellar degeneration syndrome	1	1	1
+8041861000006111	Degenerative brain disorder due to alcohol	1	1	1
+7849261000006118	Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal	1	1	1
+391451000006110	[X]Int self pois other gas/vapour indust/construct area	1	0	1
+391761000006117	[X]Int self poison oth/uns drug/med in sport/athletic area	1	0	1
+391791000006113	[X]Int self poison other gas/vapour in sport/athletic area	1	0	1
+391811000006112	[X]Int self poison other gas/vapour school/pub admin area	1	0	1
+391931000006111	[X]Int self poison unspecif chemical school/pub admin area	1	0	1
+392111000006114	[X]Int self poison/exposure to other gas/vapour on farm	1	0	1
+392201000006118	[X]Int self poison/exposure to unspecif chemical on farm	1	0	1
+393481000006115	[X]Intent self pois oth/unsp drug/medic trade/service area	1	0	1
+393501000006113	[X]Intent self pois other gas/vapour trade/service area	1	0	1
+393581000006116	[X]Intent self pois unspecif chemical trade/service area	1	0	1
+393761000006118	[X]Intent self poison other gas/vapour at res institut	1	0	1
+393841000006112	[X]Intent self poison unspecif chemical at res institut	1	0	1
+5532271000006119	Self-administered intentional poisoning	1	0	1
+397151000006113	[X]Mental and behavioural disorders due to use of hallucinogens: withdrawal state with delirium	1	0	1
+397341000006114	[X]Men/behav dis due to use seds/hypntcs: oth men/behav disd	1	0	1
+398711000006110	[X]Mnt/bh dis due seds/hypns: resid & late-onset psychot dis	1	0	1
+398721000006119	[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium	1	0	1
+13938641000006112	Acute alcoholic myopathy	1	0	1
+4951331000006117	E2OH - Alcohol-free diet	NA	1	0
+4977921000006111	Lifetime abstainer from drink	NA	1	0
+4120401000006110	Non-drinker for religious reasons	NA	1	0
+4120411000006113	Non-drinker for medical reasons	NA	1	0
+4978521000006118	Drinks on empty stomach	NA	1	0
+4978611000006110	Drinking days	NA	1	0
+4533361000006116	Drinker of hard liquor	NA	1	0
+4533391000006112	Drinks beer and hard liquor	NA	1	0
+11929141000006119	Five-shot questionnaire on heavy drinking	NA	1	0
+3024501000006114	Hangover effect	NA	1	0
+2502101000006112	Drinks	NA	1	0
+4978261000006110	Isolated drinker	NA	1	0
+4978271000006115	Lone drinker	NA	1	0
+4978291000006119	Drinks with family	NA	1	0
+4978341000006116	Drinks with business associates	NA	1	0
+4978351000006119	Drinks with acquaintances	NA	1	0
+4978361000006117	Drinks with strangers	NA	1	0
+4978021000006113	Hidden drinker	NA	1	0
+4978161000006115	Park drinker	NA	1	0
+5547211000006112	ADS - Alcohol dependence scale	NA	1	0
+5556101000006115	SADD - Short alcohol dependence data	NA	1	0
+5566231000006110	Finding of alcohol in blood	NA	1	0
+8107541000006115	SASQ - single alcohol screening questionnaire	NA	1	0
+4978191000006111	Drinks in licensed premises	NA	1	0
+4978211000006112	Drinks at restaurants	NA	1	0
+4978221000006116	Drinks at hotels	NA	1	0
+4978231000006118	Drinks at night clubs	NA	1	0
+4978301000006118	Drinks with spouse	NA	1	0
+4978311000006115	Drinks with children	NA	1	0
+5552901000006119	MAST - Michigan alcoholism screening test	NA	1	0
+5552911000006116	Brief Michigan alcoholism screening test	NA	1	0
+5552921000006112	BMAST - Brief Michigan alcoholism screening test	NA	1	0
+5552941000006117	SMAST - Short Michigan alcoholism screening test	NA	1	0
+5552931000006110	Short Michigan alcoholism screening test	NA	1	0
+5553401000006115	MALT - Munich alcoholism test	NA	1	0
+5553391000006117	Munich alcoholism test	NA	1	0
+6282111000006118	Finding of alcohol intake	NA	1	0
+6282161000006115	Company when drinking - finding	NA	1	0
+6282171000006110	Finding of company when drinking	NA	1	0
+5549991000006116	DPS - Drinking problem scale	NA	1	0
+5552231000006118	Last six months of drinking questionnaire	NA	1	0
+7275001000006115	Alcohol use disorders identification test score	NA	1	0
+7334611000006118	Cider drinker	NA	1	0
+7334621000006114	Drinks cider	NA	1	0
+7382971000006118	Assessment using AUDIT (alcohol use disorders identification test)	NA	1	0
+12002351000006111	Assessment using Alcohol Use Disorders Identification Test - Consumption	NA	1	0
+8042621000006114	Parasomnia due to alcohol	NA	1	0
+8042611000006118	Parasomnia caused by alcohol	NA	1	0
+8042641000006119	Insomnia due to alcohol	NA	1	0
+8042631000006112	Insomnia caused by alcohol	NA	1	0
+8042661000006115	Hypersomnia due to alcohol	NA	1	0
+8042651000006117	Hypersomnia caused by alcohol	NA	1	0
+8042671000006110	Circadian rhythm sleep disorder caused by alcohol	NA	1	0
+4978181000006113	Drinks at work	NA	1	0
+4978741000006115	Capacity to control drinking	NA	1	0
+4978841000006110	Makes rules about drinking	NA	1	0
+4978861000006114	Behavioural tolerance to alcohol	NA	1	0
+4978871000006119	Behavioral tolerance to alcohol	NA	1	0
+4978981000006111	After effect of drinking	NA	1	0
+4979001000006114	Difficulty getting up after drinking	NA	1	0
+4979071000006115	Urge for alcohol	NA	1	0
+3062791000006112	Alcohol-induced anxiety disorder	NA	1	0
+3062801000006113	Alcohol induced anxiety disorder	NA	1	0
+6282281000006117	Finding of tolerance to alcohol	NA	1	0
+6282271000006115	Tolerance to alcohol - finding	NA	1	0
+3161691000006118	Alcohol-induced sleep disorder	NA	1	0
+3161701000006118	Alcohol induced sleep disorder	NA	1	0
+3374891000006116	Alcohol induced mood disorder	NA	1	0
+3374881000006119	Alcohol-induced mood disorder	NA	1	0
+3402371000006118	Alcohol induced ketoacidosis	NA	1	0
+3402351000006111	Ketoacidosis due to acute alcohol intoxication	NA	1	0
+3402381000006115	Ketoacidosis due to acute alcoholic intoxication	NA	1	0
+7848901000006118	Duodenitis caused by ingestible alcohol	NA	1	0
+7848911000006115	Alcoholic duodenitis	NA	1	0
+7849311000006113	Alcohol-induced mood disorder with depressive symptoms	NA	1	0
+7849301000006110	Mood disorder with depressive symptoms caused by alcohol	NA	1	0
+3777361000006113	Alcohol induced sexual dysfunction	NA	1	0
+3777351000006111	Alcohol-induced sexual dysfunction	NA	1	0
+3779961000006118	Titubant ataxic gait	NA	1	0
+3779981000006111	Reeling gait	NA	1	0
+3779971000006113	Drunken gait	NA	1	0
+3779951000006115	Titubation	NA	1	0
+3834171000006114	Diarrhea caused by alcohol intake	NA	1	0
+3834151000006116	Diarrhoea due to alcohol intake	NA	1	0
+3834181000006112	Diarrhoea caused by alcohol intake	NA	1	0
+3834161000006119	Diarrhea due to alcohol intake	NA	1	0
+3903691000006115	Non megaloblastic anemia due to alcoholism	NA	1	0
+3903681000006118	Non megaloblastic anaemia due to alcoholism	NA	1	0
+3927041000006118	Megaloblastic anemia due to alcoholism	NA	1	0
+3927061000006119	Megaloblastic anemia caused by alcoholism	NA	1	0
+3927051000006116	Megaloblastic anaemia caused by alcoholism	NA	1	0
+3927031000006111	Megaloblastic anaemia due to alcoholism	NA	1	0
+4533421000006116	XS - Excessive ethanol consumption	NA	1	0
+4978451000006114	Bout drinker	NA	1	0
+7265801000006115	Heaviest drinking day	NA	1	0
+4559361000006118	On examination - breath - alcohol smell	NA	1	0
+6769931000006114	Teach alcohol abuse control	NA	1	0
+6769941000006116	Teach alcohol abuse prevention	NA	1	0
+6841801000006118	Counselling about alcohol consumption	NA	1	0
+6841791000006119	Counseling about alcohol consumption	NA	1	0
+7253631000006117	Ethanol in blood specimen above reference range	NA	1	0
+2934681000006118	Poisoning caused by alcohol deterrent	NA	1	0
+3846791000006117	Toxic effect of ethanol	NA	1	0
+3846801000006116	Ethyl alcohol poisoning	NA	1	0
+3846781000006115	Toxic effect of grain alcohol	NA	1	0
+3846811000006118	Ethanol poisoning	NA	1	0
+2885451000006111	Alcoholism counseling	NA	1	0
+4978051000006116	Boozer	NA	1	0
+4978711000006119	Drinking takes priority over family obligations	NA	1	0
+4978721000006110	Drinking takes priority over financial obligations	NA	1	0
+4978791000006112	Unable to control spontaneous drinking bouts	NA	1	0
+5980921000006111	Alcohol-induced flushes	NA	1	0
+5497641000006113	Drinks continuously	NA	1	0
+5497651000006110	Finding of excessive fluid intake	NA	1	0
+5549231000006112	CDP - Comprehensive drinker profile	NA	1	0
+5549221000006114	Comprehensive drinker profile	NA	1	0
+7267761000006117	Alcohol in blood specimen above reference range	NA	1	0
+8197801000006118	Counselling about alcohol by other agencies	NA	1	0
+4978941000006117	Charged with drunk driving offence	NA	1	0
+4978961000006118	Convicted of drunk driving	NA	1	0
+6282291000006119	Attitude to drinking - finding	NA	1	0
+6282301000006118	Finding of attitude to drinking	NA	1	0
+7278521000006113	Severity of alcohol dependence questionnaire score	NA	1	0
+7309211000006112	Inflammation of pancreas caused by alcohol	NA	1	0
+7309191000006111	Inflammation of pancreas due to alcohol	NA	1	0
+8016431000006116	Gastric haemorrhage due to alcoholic gastritis	NA	1	0
+8016441000006114	Gastric hemorrhage due to alcoholic gastritis	NA	1	0
+7719211000006113	Difficulty abstaining from drinking	NA	1	0
+7840371000006114	Alcohol induced gastric ulcer	NA	1	0
+7840361000006119	Gastric ulcer caused by alcohol	NA	1	0
+12001351000006118	Assessment using SADQ (Severity of Alcohol Dependence Questionnaire)	NA	1	0
+12001361000006116	Assessment using Severity of Alcohol Dependence Questionnaire	NA	1	0
+9322521000006111	Alcohol dependence in pregnancy	NA	1	0
+9324921000006113	Alcohol dependence in childbirth	NA	1	0
+2806381000006118	Alcoholic myositis	NA	1	0
+2806371000006116	Alcoholic myopathic syndrome	NA	1	0
+5063691000006117	Alcohol-related sideroblastic anaemia	NA	1	0
+5063701000006117	Alcohol-related sideroblastic anemia	NA	1	0
+7518461000006118	Thrombocytopenia due to alcohol	NA	1	0
+7518481000006111	Thrombocytopenia caused by alcohol	NA	1	0
+8030711000006112	Thrombocytopaenia co-occurrent and due to alcoholism	NA	1	0
+8030721000006116	Thrombocytopenia co-occurrent and due to alcoholism	NA	1	0
+7798471000006110	Alcohol harm reduction program	NA	1	0
+7798531000006111	Alcohol twelve step program	NA	1	0
+4723831000006118	Admitted to alcohol detoxification center	NA	1	0
+5111831000006111	Pseudo-Cushing syndrome due to alcohol	NA	1	0
+5111821000006113	Alcohol-induced pseudo-Cushing syndrome	NA	1	0
+11922951000006112	Alcoholic psychoses	NA	1	0
+3630101000006117	Amnestic syndrome of Wernicke's disease	NA	1	0
+4763141000006111	Korsakov alcoholic psychosis with peripheral neuritis	NA	1	0
+3688931000006118	Alcohol-induced persisting amnestic disorder	NA	1	0
+2612491000006118	Alcohol-induced psychotic disorder with hallucinations	NA	1	0
+2612511000006112	Alcohol induced hallucinosis	NA	1	0
+4768901000006117	Alcohol induced encephalopathy	NA	1	0
+5992721000006114	Esophageal varices in alcoholic cirrhosis of the liver	NA	1	0
+5087751000006113	Chronic pancreatitis due to acute alcohol intoxication	NA	1	0
+6221461000006114	Rum fits	NA	1	0
+5012711000006112	Alcoholic coma	NA	1	0
+2834051000006112	Idiosyncratic intoxication	NA	1	0
+2834061000006114	Extreme sensitivity to alcohol syndrome	NA	1	0
+3314451000006119	Cobalt cardiomyopathy	NA	1	0
+3314461000006117	Beer-drinker's cardiomyopathy	NA	1	0
+3794201000006119	Alcohol induced paranoia	NA	1	0
+3794181000006115	Alcohol paranoia	NA	1	0
+3794191000006117	Alcoholic jealousy	NA	1	0
+12482561000006114	Alcoholics anonymous	NA	1	0
+5564301000006117	Alcoholism detoxication center	NA	1	0
+3493491000006118	Alcohol-induced psychotic disorder with delusions	NA	1	0
+3493501000006114	Alcohol induced psychosis with delusions	NA	1	0
+8458751000006119	Ascites due to alcoholic hepatitis	NA	1	0
+8458771000006112	Hepatic coma due to alcoholic liver failure	NA	1	0
+8462171000006115	Hepatic ascites due to chronic alcoholic hepatitis	NA	1	0
+8042761000006112	Cerebral degeneration due to alcoholism	NA	1	0
+8088761000006115	Perceptual disturbance due to alcohol withdrawal	NA	1	0
+7791891000006116	Disorder caused by alcohol	NA	1	0
+7798481000006113	Alcohol relapse prevention programme	NA	1	0
+7798491000006111	Alcohol relapse prevention program	NA	1	0
+7828201000006111	Dependent for drinking	NA	1	0
+7849281000006111	Psychotic disorder caused by alcohol with schizophreniform symptoms	NA	1	0
+7849291000006114	Alcohol-induced psychotic disorder with schizophreniform symptoms	NA	1	0
+7849341000006112	Mood disorder with mixed manic and depressive symptoms caused by alcohol	NA	1	0
+7849351000006114	Alcohol-induced mood disorder with mixed manic and depressive symptoms	NA	1	0
+7849321000006117	Mood disorder with manic symptoms caused by alcohol	NA	1	0
+7849331000006119	Alcohol-induced mood disorder with manic symptoms	NA	1	0
+7858031000006112	Neurological disorder caused by ingestible alcohol	NA	1	0
+3527541012	Alcohol abuse surveillance	NA	1	0
