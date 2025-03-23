@@ -8,7 +8,7 @@ H35.0	Background retinopathy and retinal vascular changes
 H35.1	Retinopathy of prematurity
 H35.2	Other proliferative retinopathy
 H35.3	Degeneration of macula and posterior pole
-H34.4	Peripheral retinal degeneration
+H35.4	Peripheral retinal degeneration
 H35.5	Hereditary retinal dystrophy
 H35.6	Retinal hemorrhage
 H35.7	Separation of retinal layers
