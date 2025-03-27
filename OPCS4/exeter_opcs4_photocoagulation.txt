@@ -1,4 +1,0 @@
-OPCS4	Term_description
-C82.5	Photocoagulation laser pan retinal
-C82	Photocoagulation Retina NEC
-C79.4	Injection into vitreous body NEC
