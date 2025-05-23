@@ -1,68 +1,72 @@
-ProdCodeId	dmdid	TermFromEMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
-219341000033110	NA	Canesten Vaginal cream 2 %	NA	NA	NA	NA	NA	NA	NA
-848141000033116	NA	Lomexin Pessaries 200 mg	NA	NA	NA	NA	NA	NA	NA
-848241000033111	NA	Lomexin Pessaries 600 mg	NA	NA	NA	NA	NA	NA	NA
-932441000033119	NA	Monistat Pessaries 100 mg	NA	NA	NA	NA	NA	NA	NA
-1399041000033119	NA	Sultrin Vaginal tablets	NA	NA	NA	NA	NA	NA	NA
-2827341000033116	NA	Gyno-Daktarin Vaginal Capsules 400 mg	NA	NA	NA	NA	NA	NA	NA
-657341000033111	NA	Gyno-Daktarin Combipack Pessaries 100 mg	NA	NA	NA	NA	NA	NA	NA
-5144441000033110	NA	Gyno-Daktarin Vaginal Capsules 200 mg	NA	NA	NA	NA	NA	NA	NA
-996141000033119	NA	Nystavescent Pessaries 100,000 units	NA	NA	NA	NA	NA	NA	NA
-188541000033111	NA	Canesten 10% Vc Vaginal cream 10 %	NA	NA	NA	NA	NA	NA	NA
-495341000033110	NA	Ecostatin Twinpack Pessaries 150 mg	NA	NA	NA	NA	NA	NA	NA
-657641000033115	NA	Gyno-Pevaryl Combipack Pessaries 150 mg	NA	NA	NA	NA	NA	NA	NA
-657841000033119	NA	Gyno-Daktarin Tampons 100 mg	NA	NA	NA	NA	NA	NA	NA
-5123741000033115	NA	Lomexin T Ovule 1000 mg	NA	NA	NA	NA	NA	NA	NA
-1475041000033115	NA	Travogyn Vaginal tablets 300 mg	NA	NA	NA	NA	NA	NA	NA
-202741000033118	NA	Canesten Combi Pessary and cream	NA	NA	NA	NA	NA	NA	NA
-657541000033116	NA	Gyno-Pevaryl 1 Combipack Pessaries 150 mg	NA	NA	NA	NA	NA	NA	NA
-657041000033114	NA	Gyno-Daktarin 1 Ovule 1200 mg	NA	NA	NA	NA	NA	NA	NA
-218941000033116	321911000001104	Canesten 500mg pessaries (Bayer Plc)	Canesten 500mg pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	7020200	NA
-2185041000033112	360111000001101	Canesten 2% thrush cream (Bayer Plc)	Canesten 2% thrush cream	Cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	7020200	NA
-2638341000033112	673811000001104	Abtrim 500mg pessaries (Ashbourne Pharmaceuticals Ltd)	Abtrim 500mg pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	7020200	NA
-2969541000033118	786911000001102	Candiden 500mg pessaries (Akita Pharmaceuticals Ltd)	Candiden 500mg pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	7020200	NA
-219141000033112	826811000001101	Canesten Vaginal 500mg pessaries (Bayer Plc)	Canesten Vaginal 500mg pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	7020200	NA
-219041000033113	893911000001105	Canesten 100mg pessaries (Bayer Plc)	Canesten 100mg pessaries	Pessary	Vaginal	Clotrimazole	100.000mg	7020200	NA
-219241000033117	897411000001109	Canesten 200mg pessaries (Bayer Plc)	Canesten 200mg pessaries	Pessary	Vaginal	Clotrimazole	200.000mg	7020200	NA
-189041000033114	939911000001109	Canesten 10% VC cream (Bayer Plc)	Canesten 10% VC cream	Cream	Vaginal	Clotrimazole	100.000mg/1.000gram	7020200	NA
-656941000033113	3357711000001102	Gyno-Daktarin 1200mg vaginal capsules (Janssen-Cilag Ltd)	Gyno-Daktarin 1200mg vaginal capsules	Capsule	Vaginal	Miconazole nitrate	1.200gram	7020200	NA
-657241000033118	3358511000001106	Gyno-Daktarin 100mg pessaries (Janssen-Cilag Ltd)	Gyno-Daktarin 100mg pessaries	Pessary	Vaginal	Miconazole nitrate	100.000mg	NA	NA
-2146341000033113	3364911000001103	Canesten Combi 500mg pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg pessary and 2% cream	Not applicable	NA	NA	NA	7020200	NA
-995941000033111	3830111000001103	Nystan 100,000unit pessaries (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000unit pessaries	Pessary	Vaginal	Nystatin	100000.000unit + 100000.000unit	NA	NA
-657441000033117	4091911000001101	Gyno-Pevaryl 150mg vaginal pessaries (Janssen-Cilag Ltd)	Gyno-Pevaryl 150mg vaginal pessaries	Pessary	Vaginal	Econazole nitrate	150.000mg	7020200	NA
-495241000033117	4092111000001109	Ecostatin 150mg pessaries (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin 150mg pessaries	Pessary	Vaginal	Econazole nitrate	150.000mg	NA	NA
-657141000033113	4093911000001100	Gyno-Pevaryl Once 150mg vaginal pessary (Janssen-Cilag Ltd)	Gyno-Pevaryl Once 150mg vaginal pessary	Pessary	Vaginal	Econazole nitrate	150.000mg	7020200	NA
-3201841000033112	4094311000001104	Ecostatin-1 pessaries 150mg (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin-1 pessaries 150mg	Pessary	Vaginal	Econazole nitrate	150.000mg	NA	NA
-997241000033112	4385311000001100	Nystan 100,000units/4g application vaginal cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/4g application vaginal cream	Cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	7020200	NA
-6035841000033115	18170711000001105	Gynoxin 2% vaginal cream (Recordati Pharmaceuticals Ltd)	Gynoxin 2% vaginal cream	Cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	7020200	NA
-6035641000033116	18171311000001101	Gynoxin 200mg vaginal capsules (Recordati Pharmaceuticals Ltd)	Gynoxin 200mg vaginal capsules	Capsule	Vaginal	Fenticonazole nitrate	200.000mg	7020200	NA
-6035741000033113	18171611000001106	Gynoxin 600mg vaginal capsules (Recordati Pharmaceuticals Ltd)	Gynoxin 600mg vaginal capsules	Capsule	Vaginal	Fenticonazole nitrate	600.000mg	7020200	NA
-656341000033114	19200811000001108	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Gyno-Daktarin 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-8115441000033114	21119311000001103	Canesten Combi 500mg Soft Gel pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg Soft Gel pessary and 2% cream	Not applicable	NA	NA	NA	NA	NA
-8115541000033110	21119711000001104	Canesten 500mg Soft Gel pessaries (Bayer Plc)	Canesten 500mg Soft Gel pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	NA	NA
-266441000033111	NA	Clotrimazole 1%+500 Mg Cream+ pessary	NA	NA	NA	NA	NA	NA	NA
-495141000033112	NA	Econazole Nitrate 1 Pessary 150 mg	NA	NA	NA	NA	NA	NA	NA
-1721041000033110	NA	Clotrimazole Pessary and cream	NA	NA	NA	NA	NA	NA	NA
-2827241000033114	NA	Miconazole Nitrate Vaginal Capsules 400 mg	NA	NA	NA	NA	NA	NA	NA
-920541000033115	NA	Miconazole Nitrate Tampons 100 mg	NA	NA	NA	NA	NA	NA	NA
-568641000033117	NA	Fenticonazole Nitrate Pessaries 200 mg	NA	NA	NA	NA	NA	NA	NA
-288441000033112	NA	Clotrimazole Vaginal cream 2 %	NA	NA	NA	NA	NA	NA	NA
-3191241000033113	NA	Econazole Nitrate 1 Pessary and cream 150 mg + 1 %	NA	NA	NA	NA	NA	NA	NA
-788241000033119	NA	Isoconazole Nitrate Vaginal tablets 300 mg	NA	NA	NA	NA	NA	NA	NA
-568741000033114	NA	Fenticonazole Nitrate Pessaries 600 mg	NA	NA	NA	NA	NA	NA	NA
-2147941000033114	326211000	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	7020200	NA
-288741000033117	326216005	Clotrimazole 100mg pessaries	Clotrimazole 100mg pessaries	Pessary	Vaginal	Clotrimazole	100.000mg	7020200	NA
-288541000033113	326217001	Clotrimazole 200mg pessaries	Clotrimazole 200mg pessaries	Pessary	Vaginal	Clotrimazole	200.000mg	7020200	NA
-288841000033110	326218006	Clotrimazole 500mg pessaries	Clotrimazole 500mg pessaries	Pessary	Vaginal	Clotrimazole	500.000mg	7020200	NA
-494241000033116	326233003	Econazole 150mg pessaries and Econazole 1% cream	Econazole 150mg pessaries and Econazole 1% cream	Not applicable	Route of administration not applicable	NA	NA	NA	NA
-495441000033116	326234009	Econazole 150mg pessaries	Econazole 150mg pessaries	Pessary	Vaginal	Econazole nitrate	150.000mg	7020200	NA
-912541000033113	326251002	Miconazole 2% vaginal cream	Miconazole 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-916641000033113	326252009	Miconazole 100mg pessaries	Miconazole 100mg pessaries	Pessary	Vaginal	Miconazole nitrate	100.000mg	NA	NA
-906641000033110	326258008	Miconazole 100mg pessaries and Miconazole 2% cream	Miconazole 100mg pessaries and Miconazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	7020200	NA
-997341000033119	326272004	Nystatin 100,000units/4g application vaginal cream	Nystatin 100,000units/4g application vaginal cream	Cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	7020200	NA
-996241000033114	326273009	Nystatin 100,000unit pessaries	Nystatin 100,000unit pessaries	Pessary	Vaginal	Nystatin	100000.000unit + 100000.000unit	NA	NA
-6035541000033117	18172011000001107	Fenticonazole 2% vaginal cream	Fenticonazole 2% vaginal cream	Cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	7020200	NA
-6035441000033118	18172111000001108	Fenticonazole 200mg vaginal capsules	Fenticonazole 200mg vaginal capsules	Capsule	Vaginal	Fenticonazole nitrate	200.000mg	7020200	NA
-6035341000033112	18172211000001102	Fenticonazole 600mg vaginal capsules	Fenticonazole 600mg vaginal capsules	Capsule	Vaginal	Fenticonazole nitrate	600.000mg	7020200	NA
-916341000033117	36036011000001108	Miconazole 1.2g vaginal capsules	Miconazole 1.2g vaginal capsules	Capsule	Vaginal	Miconazole nitrate	1.200gram	7020200	NA
-266341000033117	36565511000001102	Clotrimazole 10% vaginal cream	Clotrimazole 10% vaginal cream	Cream	Vaginal	Clotrimazole	100.000mg/1.000gram	7020200	NA
+ProdCodeId	dmdid	TermFromEMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+189041000033114	939911000001109	Canesten 10% vaginal cream (Bayer Plc)	Canesten 10% vaginal cream	Cream/ Vaginal cream	Vaginal	Clotrimazole	100.000mg/1.000gram	NA	147642
+202741000033118	NA	Canesten Combi  Pessary and cream  	NA	NA	NA	NA	NA	NA	103838
+218941000033116	NA	Canesten 1  Pessary  500 mg	NA	NA	NA	NA	NA	NA	217346
+219041000033113	893911000001105	Canesten 100mg pessaries (Bayer Plc)	Canesten 100mg pessaries	 Pessary	Vaginal	Clotrimazole	100.000mg	NA	77980
+219141000033112	826811000001101	Canesten 500mg pessaries (Bayer Plc)	Canesten 500mg pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	NA	205400
+219241000033117	897411000001109	Canesten 200mg pessaries (Bayer Plc)	Canesten 200mg pessaries	 Pessary	Vaginal	Clotrimazole	200.000mg	NA	305565
+219341000033110	NA	Canesten  Vaginal cream  2 %	NA	NA	NA	NA	NA	NA	44014
+495241000033117	4092111000001109	Ecostatin 150mg pessaries (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin 150mg pessaries	 Pessary	Vaginal	Econazole nitrate	150.000mg	NA	19410
+495341000033110	NA	Ecostatin Twinpack  Pessaries  150 mg	NA	NA	NA	NA	NA	NA	350
+656341000033114	19200811000001108	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Gyno-Daktarin 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	NA	114473
+656941000033113	3357711000001102	Gyno-Daktarin 1200mg vaginal capsules (Janssen-Cilag Ltd)	Gyno-Daktarin 1200mg vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Miconazole nitrate	1.200gram	NA	15186
+657041000033114	NA	Gyno-Daktarin 1  Ovule  1200 mg	NA	NA	NA	NA	NA	NA	17409
+657141000033113	4093911000001100	Gyno-Pevaryl Once 150mg vaginal pessary (Karo Pharma UK Ltd)	Gyno-Pevaryl Once 150mg vaginal pessary	 Pessary	Vaginal	Econazole nitrate	150.000mg	NA	26260
+657241000033118	3358511000001106	Gyno-Daktarin 100mg pessaries (Janssen-Cilag Ltd)	Gyno-Daktarin 100mg pessaries	 Pessary	Vaginal	Miconazole nitrate	100.000mg	NA	39520
+657341000033111	NA	Gyno-Daktarin Combipack  Pessaries  100 mg	NA	NA	NA	NA	NA	NA	400
+657441000033117	4091911000001101	Gyno-Pevaryl 150mg vaginal pessaries (Karo Pharma UK Ltd)	Gyno-Pevaryl 150mg vaginal pessaries	 Pessary	Vaginal	Econazole nitrate	150.000mg	NA	33325
+657541000033116	NA	Gyno-Pevaryl 1 Combipack  Pessaries  150 mg	NA	NA	NA	NA	NA	NA	1450
+657641000033115	NA	Gyno-Pevaryl Combipack  Pessaries  150 mg	NA	NA	NA	NA	NA	NA	131
+657841000033119	NA	Gyno-Daktarin  Tampons  100 mg	NA	NA	NA	NA	NA	NA	1433
+848141000033116	NA	Lomexin  Pessaries  200 mg	NA	NA	NA	NA	NA	NA	1098
+848241000033111	NA	Lomexin  Pessaries  600 mg	NA	NA	NA	NA	NA	NA	1319
+932441000033119	NA	Monistat  Pessaries  100 mg	NA	NA	NA	NA	NA	NA	6
+995941000033111	3830111000001103	Nystan 100,000unit pessaries (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000unit pessaries	 Pessary	Vaginal	Nystatin	100000.000unit + 100000.000unit	NA	13400
+996141000033119	NA	Nystavescent  Pessaries  100,000 units	NA	NA	NA	NA	NA	NA	135
+997241000033112	4385311000001100	Nystan 100,000units/4g application vaginal cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/4g application vaginal cream	Cream/ Vaginal cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	NA	6696
+1399041000033119	NA	Sultrin  Vaginal tablets	NA	NA	NA	NA	NA	NA	4154
+1475041000033115	NA	Travogyn  Vaginal tablets  300 mg	NA	NA	NA	NA	NA	NA	870
+2146341000033113	3364911000001103	Canesten Combi 500mg pessary and External 2% cream (Bayer Plc)	Canesten Combi 500mg pessary and External 2% cream	Not applicable	NA	NA	NA	NA	491623
+2185041000033112	360111000001101	Canesten Thrush External 2% cream (Bayer Plc)	Canesten Thrush External 2% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	NA	42664
+2638341000033112	673811000001104	Abtrim 500mg pessaries (Ashbourne Pharmaceuticals Ltd)	Abtrim 500mg pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	NA	307
+2969541000033118	786911000001102	Candiden 500mg pessaries (Akita Pharmaceuticals Ltd)	Candiden 500mg pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	NA	673
+3201841000033112	4094311000001104	Ecostatin-1 pessaries 150mg (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin-1 pessaries 150mg	 Pessary	Vaginal	Econazole nitrate	150.000mg	NA	488
+6035641000033116	18171311000001101	Gynoxin 200mg vaginal capsules (Recordati Pharmaceuticals Ltd)	Gynoxin 200mg vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Fenticonazole nitrate	200.000mg	NA	99
+6035741000033113	18171611000001106	Gynoxin 600mg vaginal capsules (Recordati Pharmaceuticals Ltd)	Gynoxin 600mg vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Fenticonazole nitrate	600.000mg	NA	26
+6035841000033115	18170711000001105	Gynoxin 2% vaginal cream (Recordati Pharmaceuticals Ltd)	Gynoxin 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	NA	62
+8115441000033114	21119311000001103	Canesten Combi 500mg Soft Gel pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg Soft Gel pessary and External 2% cream	Not applicable	NA	NA	NA	NA	7988
+8115541000033110	21119711000001104	Canesten 500mg Soft Gel pessaries (Bayer Plc)	Canesten Thrush 500mg Soft Gel pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	NA	3277
+14265141000033118	321911000001104	Canesten Thrush 500mg pessaries (Bayer Plc)	Canesten Thrush 500mg pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	NA	47
+14266341000033111	7389311000001109	Canesten Thrush Duo 150mg Oral capsules & External 2% cream (Bayer Plc)	Canesten Thrush Duo 150mg Oral capsules & External 2% cream	Not applicable	NA	NA	NA	NA	34
+14276441000033112	42526411000001101	Canesten Thrush Combi Internal 10% & External 2% cream (Bayer Plc)	Canesten Thrush Combi Internal 10% & External 2% cream	Not applicable	NA	NA	NA	NA	4
+266341000033117	36565511000001102	Clotrimazole 10% vaginal cream	Clotrimazole 10% vaginal cream	Cream/ Vaginal cream	Vaginal	Clotrimazole	100.000mg/1.000gram	07020200	362678
+266441000033111	NA	Clotrimazole 1%+500 Mg  Cream+ pessary  	NA	NA	NA	NA	NA	NA	26179
+288441000033112	NA	Clotrimazole  Vaginal cream  2 %	NA	NA	NA	NA	NA	NA	18047
+288541000033113	39705511000001107	Clotrimazole 200mg pessaries	Clotrimazole 200mg pessaries	 Pessary	Vaginal	Clotrimazole	200.000mg	07020200	822801
+288741000033117	39705211000001109	Clotrimazole 100mg pessaries	Clotrimazole 100mg pessaries	 Pessary	Vaginal	Clotrimazole	100.000mg	07020200	137156
+288841000033110	39705811000001105	Clotrimazole 500mg pessaries	Clotrimazole 500mg pessaries	 Pessary	Vaginal	Clotrimazole	500.000mg	07020200	1266867
+494241000033116	NA	Econazole 1% +150Mg  Cream+ pessary  	NA	NA	NA	NA	NA	NA	7689
+495141000033112	NA	Econazole Nitrate 1  Pessary  150 mg	NA	NA	NA	NA	NA	NA	8484
+495441000033116	41786011000001102	Econazole 150mg pessaries	Econazole 150mg pessaries	 Pessary	Vaginal	Econazole nitrate	150.000mg	07020200	56044
+568641000033117	NA	Fenticonazole Nitrate  Pessaries  200 mg	NA	NA	NA	NA	NA	NA	2195
+568741000033114	NA	Fenticonazole Nitrate  Pessaries  600 mg	NA	NA	NA	NA	NA	NA	2247
+788241000033119	NA	Isoconazole Nitrate  Vaginal tablets  300 mg	NA	NA	NA	NA	NA	NA	139
+906641000033110	39719011000001100	Miconazole 100mg pessaries and Miconazole 2% cream	Miconazole 100mg pessaries and Miconazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	14064
+912541000033113	41903411000001106	Miconazole 2% vaginal cream	Miconazole 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	07020200	84387
+916341000033117	36036011000001108	Miconazole 1.2g vaginal capsules	Miconazole 1.2g vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Miconazole nitrate	1.200gram	07020200	29193
+916641000033113	41792211000001105	Miconazole 100mg pessaries	Miconazole 100mg pessaries	 Pessary	Vaginal	Miconazole nitrate	100.000mg	07020200	26297
+920541000033115	NA	Miconazole Nitrate  Tampons  100 mg	NA	NA	NA	NA	NA	NA	91
+996241000033114	39720111000001103	Nystatin 100,000unit pessaries	Nystatin 100,000unit pessaries	 Pessary	Vaginal	Nystatin	100000.000unit + 100000.000unit	07020200	24589
+997341000033119	41904311000001102	Nystatin 100,000units/4g application vaginal cream	Nystatin 100,000units/4g application vaginal cream	Cream/ Vaginal cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	07020200	15455
+1721041000033110	NA	Clotrimazole  Pessary and cream  	NA	NA	NA	NA	NA	NA	11336
+2147941000033114	39706111000001109	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	2780000
+2827241000033114	NA	Miconazole Nitrate  Vaginal Capsules  400 mg	NA	NA	NA	NA	NA	NA	146
+3191241000033113	NA	Econazole Nitrate 1  Pessary and cream  150 mg + 1 %	NA	NA	NA	NA	NA	NA	1271
+6035341000033112	18172211000001102	Fenticonazole 600mg vaginal capsules	Fenticonazole 600mg vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Fenticonazole nitrate	600.000mg	07020200	125
+6035441000033118	18172111000001108	Fenticonazole 200mg vaginal capsules	Fenticonazole 200mg vaginal capsules	Capsule/ Vaginal capsule	Vaginal	Fenticonazole nitrate	200.000mg	07020200	493
+6035541000033117	18172011000001107	Fenticonazole 2% vaginal cream	Fenticonazole 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	07020200	270
+14254541000033116	42368911000001103	Econazole 1% vaginal cream	Econazole 1% vaginal cream	Cream/ Vaginal cream	Vaginal	Econazole nitrate	10.000mg/1.000gram	07020200	33
+2827341000033116	NA	Gyno-Daktarin Vaginal Capsules 400 mg	NA	NA	NA	NA	NA	NA	0
+5144441000033110	NA	Gyno-Daktarin Vaginal Capsules 200 mg	NA	NA	NA	NA	NA	NA	0
+188541000033111	NA	Canesten 10% Vc Vaginal cream 10 %	NA	NA	NA	NA	NA	NA	0
+5123741000033115	NA	Lomexin T Ovule 1000 mg	NA	NA	NA	NA	NA	NA	0

@@ -1,76 +1,80 @@
-ProdCodeId	dmdid	TermFromEMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
-219341000033110	NA	Canesten Vaginal cream 2 %	NA	NA	NA	NA	NA	NA	NA
-656441000033115	NA	Gyno-Daktarin Combipack Cream 2 %	NA	NA	NA	NA	NA	NA	NA
-656541000033119	NA	Gyno-Pevaryl 1 Combipack Cream 1 %	NA	NA	NA	NA	NA	NA	NA
-5332041000033115	NA	Lomexin Cream 2 %	NA	NA	NA	NA	NA	NA	NA
-1047741000033115	NA	Pevaryl Tc Cream	NA	NA	NA	NA	NA	NA	NA
-418041000033116	NA	Dermonistat Cream 2 %	NA	NA	NA	NA	NA	NA	NA
-493841000033119	NA	Ecostatin Twinpack Cream 1 %	NA	NA	NA	NA	NA	NA	NA
-994441000033117	NA	Nystadermal Cream	NA	NA	NA	NA	NA	NA	NA
-924041000033119	NA	Monistat Cream 2 %	NA	NA	NA	NA	NA	NA	NA
-1456441000033117	NA	Travogyn Cream 1 %	NA	NA	NA	NA	NA	NA	NA
-1054741000033111	NA	Pevaryl Lotion 1 %	NA	NA	NA	NA	NA	NA	NA
-188541000033111	NA	Canesten 10% Vc Vaginal cream 10 %	NA	NA	NA	NA	NA	NA	NA
-656641000033118	NA	Gyno-Pevaryl Combipack Cream 1 %	NA	NA	NA	NA	NA	NA	NA
-202741000033118	NA	Canesten Combi Pessary and cream	NA	NA	NA	NA	NA	NA	NA
-495041000033113	NA	Ecostatin Lotion 1 %	NA	NA	NA	NA	NA	NA	NA
-994241000033118	19811000001103	Nystan 100,000units/g cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/g cream	Cream	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	NA
-189141000033113	125711000001105	Canesten HC cream (Bayer Plc)	Canesten HC cream	Cream	Cutaneous	Clotrimazole/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	13040000	NA
-188941000033117	166311000001108	Canesten 1% cream (Bayer Plc)	Canesten 1% cream	Cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	13100200	NA
-493741000033112	271411000001103	Ecostatin 1% cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin 1% cream	Cream	Cutaneous	Econazole nitrate	10.000mg/1.000gram	NA	NA
-405841000033116	278911000001102	Daktacort ointment (Janssen-Cilag Ltd)	Daktacort ointment	Ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
-2185041000033112	360111000001101	Canesten 2% thrush cream (Bayer Plc)	Canesten 2% thrush cream	Cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	7020200	NA
-2613041000033114	507311000001100	Canesten Hydrocortisone cream (Bayer Plc)	Canesten Hydrocortisone cream	Cream	Cutaneous	Clotrimazole/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	13040000	NA
-656241000033116	676811000001108	Gyno-Pevaryl 1% cream (Janssen-Cilag Ltd)	Gyno-Pevaryl 1% cream	Cream	Vaginal	Econazole nitrate	10.000mg/1.000gram	7020200	NA
-400441000033113	859911000001101	Daktacort 2%/1% cream (Janssen-Cilag Ltd)	Daktacort 2%/1% cream	Cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
-2638241000033119	867211000001108	Abtrim 1% cream (Ashbourne Pharmaceuticals Ltd)	Abtrim 1% cream	Cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	13100200	NA
-2969641000033117	904111000001103	Candiden 1% cream (Akita Pharmaceuticals Ltd)	Candiden 1% cream	Cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	13100200	NA
-1047641000033112	908311000001106	Pevaryl 1% cream (Janssen-Cilag Ltd)	Pevaryl 1% cream	Cream	Cutaneous	Econazole nitrate	10.000mg/1.000gram	13100200	NA
-189041000033114	939911000001109	Canesten 10% VC cream (Bayer Plc)	Canesten 10% VC cream	Cream	Vaginal	Clotrimazole	100.000mg/1.000gram	7020200	NA
-1390341000033114	3191711000001107	Sultrin Triple Sulfa cream with applicator (Janssen-Cilag Ltd)	Sultrin Triple Sulfa cream with applicator	Not applicable	NA	NA	NA	NA	NA
-2146341000033113	3364911000001103	Canesten Combi 500mg pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg pessary and 2% cream	Not applicable	NA	NA	NA	7020200	NA
-4423441000033117	3458711000001106	Daktarin Aktiv 2% cream (Johnson & Johnson Ltd)	Daktarin Aktiv 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
-995441000033118	3828911000001101	Nystan 100,000units/g ointment (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/g ointment	Ointment	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	NA
-4259341000033111	3943411000001107	Canesten Combi Internal & External cream (Bayer Plc)	Canesten Combi Internal & External cream	Not applicable	NA	NA	NA	7020200	NA
-997241000033112	4385311000001100	Nystan 100,000units/4g application vaginal cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/4g application vaginal cream	Cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	7020200	NA
-3059841000033114	7389311000001109	Canesten Oral & Cream Duo (Bayer Plc)	Canesten Oral & Cream Duo	Not applicable	NA	NA	NA	NA	NA
-400541000033114	14717811000001101	Daktarin 2% cream (Janssen-Cilag Ltd)	Daktarin 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-6035841000033115	18170711000001105	Gynoxin 2% vaginal cream (Recordati Pharmaceuticals Ltd)	Gynoxin 2% vaginal cream	Cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	7020200	NA
-656341000033114	19200811000001108	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Gyno-Daktarin 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-8115441000033114	21119311000001103	Canesten Combi 500mg Soft Gel pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg Soft Gel pessary and 2% cream	Not applicable	NA	NA	NA	NA	NA
-266441000033111	NA	Clotrimazole 1%+500 Mg Cream+ pessary	NA	NA	NA	NA	NA	NA	NA
-776541000033110	NA	Isoconazole Nitrate Cream 1 %	NA	NA	NA	NA	NA	NA	NA
-1721041000033110	NA	Clotrimazole Pessary and cream	NA	NA	NA	NA	NA	NA	NA
-494941000033113	NA	Econazole Lotion 1 %	NA	NA	NA	NA	NA	NA	NA
-288441000033112	NA	Clotrimazole Vaginal cream 2 %	NA	NA	NA	NA	NA	NA	NA
-3191241000033113	NA	Econazole Nitrate 1 Pessary and cream 150 mg + 1 %	NA	NA	NA	NA	NA	NA	NA
-494841000033117	NA	Econazole Nitrate Lotion 1 %	NA	NA	NA	NA	NA	NA	NA
-266241000033110	326203005	Clotrimazole 1% cream	Clotrimazole 1% cream	Cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	7020200	NA
-2147941000033114	326211000	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	7020200	NA
-2184941000033112	326215009	Clotrimazole 2% cream	Clotrimazole 2% cream	Cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	7020200	NA
-494241000033116	326233003	Econazole 150mg pessaries and Econazole 1% cream	Econazole 150mg pessaries and Econazole 1% cream	Not applicable	Route of administration not applicable	NA	NA	NA	NA
-912541000033113	326251002	Miconazole 2% vaginal cream	Miconazole 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-906641000033110	326258008	Miconazole 100mg pessaries and Miconazole 2% cream	Miconazole 100mg pessaries and Miconazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	7020200	NA
-997341000033119	326272004	Nystatin 100,000units/4g application vaginal cream	Nystatin 100,000units/4g application vaginal cream	Cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	7020200	NA
-3248741000033115	331743006	Econazole 1% / Hydrocortisone 1% cream	Econazole 1% / Hydrocortisone 1% cream	Cream	Cutaneous	Econazole nitrate/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	NA	NA
-1846541000033114	331744000	Hydrocortisone 1% / Miconazole 2% ointment	Hydrocortisone 1% / Miconazole 2% ointment	Ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
-1846441000033113	331745004	Hydrocortisone 1% / Miconazole 2% cream	Hydrocortisone 1% / Miconazole 2% cream	Cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
-1845541000033115	331746003	Hydrocortisone 1% / Clotrimazole 1% cream	Hydrocortisone 1% / Clotrimazole 1% cream	Cream	Cutaneous	Clotrimazole/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	13040000	NA
-494141000033111	332896007	Econazole 1% cream	Econazole 1% cream	Cream	Cutaneous/ Vaginal	Econazole nitrate	10.000mg/1.000gram	7020200	NA
-906741000033118	332908003	Miconazole 2% cream	Miconazole 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
-3258041000033115	332937004	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% cream	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% cream	Cream	Cutaneous	Chlorhexidine hydrochloride/ Nystatin	10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13100200	NA
-994341000033111	332938009	Nystatin 100,000units/g cream	Nystatin 100,000units/g cream	Cream	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	NA
-995541000033117	332940004	Nystatin 100,000units/g ointment	Nystatin 100,000units/g ointment	Ointment	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	NA
-11753841000033117	3549911000001106	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% / Hydrocortisone 0.5% cream	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% / Hydrocortisone 0.5% cream	Cream	Cutaneous	Chlorhexidine hydrochloride/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	NA
-11802441000033119	3701111000001101	Nystatin 100,000units/g / Chlorhexidine acetate 1% / Hydrocortisone 1% ointment	Nystatin 100,000units/g / Chlorhexidine acetate 1% / Hydrocortisone 1% ointment	Ointment	Cutaneous	Chlorhexidine acetate/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	NA
-6445341000033119	3947811000001103	Clotrimazole 10% cream and Clotrimazole 2% cream	Clotrimazole 10% cream and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	7020200	NA
-6035541000033117	18172011000001107	Fenticonazole 2% vaginal cream	Fenticonazole 2% vaginal cream	Cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	7020200	NA
-266341000033117	36565511000001102	Clotrimazole 10% vaginal cream	Clotrimazole 10% vaginal cream	Cream	Vaginal	Clotrimazole	100.000mg/1.000gram	7020200	NA
-3962141000033114	38894611000001106	Fluconazole 150mg capsule and Clotrimazole 2% cream	Fluconazole 150mg capsule and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	NA	NA
-1437341000033114	93111000001108	Timodine cream (Alliance Pharmaceuticals Ltd)	Timodine cream	Cream	Cutaneous	Benzalkonium chloride/ Dimeticone 350/ Hydrocortisone/ Nystatin	1.000mg/1.000gram + 100.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	NA
-493641000033115	674411000001103	Econacort cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Econacort cream	Cream	Cutaneous	Econazole nitrate/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	NA	NA
-994141000033113	3088811000001101	Nystaform HC cream (Typharm Ltd)	Nystaform HC cream	Cream	Cutaneous	Chlorhexidine hydrochloride/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	NA
-995341000033112	3692511000001106	Nystaform HC ointment (Typharm Ltd)	Nystaform HC ointment	Ointment	Cutaneous	Chlorhexidine acetate/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	NA
-1437541000033119	3780511000001104	Tinaderm-M cream (Schering-Plough Ltd)	Tinaderm-M cream	Cream	Cutaneous	Nystatin/ Tolnaftate	100000.000unit/1.000gram + 100000.000unit/1.000gram + 10.000mg/1.000gram	NA	NA
-994541000033116	3782711000001108	Nystaform cream (Typharm Ltd)	Nystaform cream	Cream	Cutaneous	Chlorhexidine hydrochloride/ Nystatin	10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13100200	NA
-3189641000033111	8002011000001107	Acorvio 2% cream (Ferndale Pharmaceuticals Ltd)	Acorvio 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
+ProdCodeId	dmdid	TermFromEMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+188941000033117	166311000001108	Canesten 1% cream (Bayer Plc)	Canesten 1% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	NA	1583040
+189041000033114	939911000001109	Canesten 10% vaginal cream (Bayer Plc)	Canesten 10% vaginal cream	Cream/ Vaginal cream	Vaginal	Clotrimazole	100.000mg/1.000gram	NA	147642
+189141000033113	125711000001105	Canesten HC cream (Bayer Plc)	Canesten HC cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole/ Hydrocortisone acetate	10.000mg/1.000gram + 10.000mg/1.000gram	NA	2594832
+202741000033118	NA	Canesten Combi  Pessary and cream  	NA	NA	NA	NA	NA	NA	103838
+219341000033110	NA	Canesten  Vaginal cream  2 %	NA	NA	NA	NA	NA	NA	44014
+400441000033113	859911000001101	Daktacort 2%/1% cream (Janssen-Cilag Ltd)	Daktacort 2%/1% cream	Cream/ Cutaneous cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	NA	3871193
+400541000033114	3458311000001107	Daktarin 2% cream (McNeil Products Ltd)	Daktarin 2% cream	Cream/ Cutaneous cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	NA	548120
+405841000033116	278911000001102	Daktacort ointment (Janssen-Cilag Ltd)	Daktacort ointment	Ointment/ Cutaneous ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	NA	813954
+418041000033116	NA	Dermonistat  Cream  2 %	NA	NA	NA	NA	NA	NA	79
+493641000033115	674411000001103	Econacort cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Econacort cream	Cream/ Cutaneous cream	Cutaneous	Econazole nitrate/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	NA	61494
+493741000033112	42340611000001104	Ecostatin 1% cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Ecostatin 1% cream	Cream/ Cutaneous cream	Cutaneous	Econazole nitrate	10.000mg/1.000gram	NA	42694
+493841000033119	NA	Ecostatin Twinpack  Cream  1 %	NA	NA	NA	NA	NA	NA	222
+495041000033113	NA	Ecostatin  Lotion  1 %	NA	NA	NA	NA	NA	NA	464
+656241000033116	42338611000001102	Gyno-Pevaryl 1% cream (Karo Pharma UK Ltd)	Gyno-Pevaryl 1% cream	Cream/ Vaginal cream	Vaginal	Econazole nitrate	10.000mg/1.000gram	NA	12985
+656341000033114	19200811000001108	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Gyno-Daktarin 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	NA	114473
+656441000033115	NA	Gyno-Daktarin Combipack  Cream  2 %	NA	NA	NA	NA	NA	NA	943
+656541000033119	NA	Gyno-Pevaryl 1 Combipack  Cream  1 %	NA	NA	NA	NA	NA	NA	988
+656641000033118	NA	Gyno-Pevaryl Combipack  Cream  1 %	NA	NA	NA	NA	NA	NA	66
+924041000033119	NA	Monistat  Cream  2 %	NA	NA	NA	NA	NA	NA	689
+994241000033118	19811000001103	Nystan 100,000units/g cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/g cream	Cream/ Cutaneous cream	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	42833
+994441000033117	NA	Nystadermal  Cream  	NA	NA	NA	NA	NA	NA	3572
+995441000033118	3828911000001101	Nystan 100,000units/g ointment (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/g ointment	Ointment/ Cutaneous ointment	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	6502
+997241000033112	4385311000001100	Nystan 100,000units/4g application vaginal cream (Bristol-Myers Squibb Pharmaceuticals Ltd)	Nystan 100,000units/4g application vaginal cream	Cream/ Vaginal cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	NA	6696
+1047641000033112	42338311000001107	Pevaryl 1% cream (Karo Pharma UK Ltd)	Pevaryl 1% cream	Cream/ Cutaneous cream	Cutaneous	Econazole nitrate	10.000mg/1.000gram	NA	8871
+1047741000033115	NA	Pevaryl Tc  Cream  	NA	NA	NA	NA	NA	NA	3294
+1054741000033111	NA	Pevaryl  Lotion  1 %	NA	NA	NA	NA	NA	NA	1701
+1390341000033114	3191711000001107	Sultrin Triple Sulfa cream with applicator (Janssen-Cilag Ltd)	Sultrin Triple Sulfa cream with applicator	Not applicable	NA	NA	NA	NA	56407
+1437341000033114	93111000001108	Timodine cream (Alliance Pharmaceuticals Ltd)	Timodine cream	Cream/ Cutaneous cream	Cutaneous	Benzalkonium chloride/ Dimeticone 350/ Hydrocortisone/ Nystatin	1.000mg/1.000gram + 100.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	3638032
+1456441000033117	NA	Travogyn  Cream  1 %	NA	NA	NA	NA	NA	NA	46
+2146341000033113	3364911000001103	Canesten Combi 500mg pessary and External 2% cream (Bayer Plc)	Canesten Combi 500mg pessary and External 2% cream	Not applicable	NA	NA	NA	NA	491623
+2185041000033112	360111000001101	Canesten Thrush External 2% cream (Bayer Plc)	Canesten Thrush External 2% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	NA	42664
+2613041000033114	NA	Canesten Hydrocortisone  Cream  	NA	NA	NA	NA	NA	NA	42767
+2638241000033119	867211000001108	Abtrim 1% cream (Ashbourne Pharmaceuticals Ltd)	Abtrim 1% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	NA	371
+2969641000033117	904111000001103	Candiden 1% cream (Akita Pharmaceuticals Ltd)	Candiden 1% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	NA	613
+3059841000033114	NA	Canesten Oral And Cream Duo  Capsules And Cream  150 mg + 2 %	NA	NA	NA	NA	NA	NA	41777
+3189641000033111	8002011000001107	Acorvio 2% cream (Ferndale Pharmaceuticals Ltd)	Acorvio 2% cream	Cream/ Cutaneous cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	NA	79
+4259341000033111	3943411000001107	Canesten Combi Internal & External cream (Bayer Plc)	Canesten Combi Internal & External cream	Not applicable	NA	NA	NA	NA	12096
+4423441000033117	3458711000001106	Daktarin Aktiv 2% cream (Johnson & Johnson Ltd)	Daktarin Aktiv 2% cream	Cream/ Cutaneous cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	NA	1630
+6035841000033115	18170711000001105	Gynoxin 2% vaginal cream (Recordati Pharmaceuticals Ltd)	Gynoxin 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	NA	62
+8115441000033114	21119311000001103	Canesten Combi 500mg Soft Gel pessary and 2% cream (Bayer Plc)	Canesten Combi 500mg Soft Gel pessary and External 2% cream	Not applicable	NA	NA	NA	NA	7988
+14266341000033111	7389311000001109	Canesten Thrush Duo 150mg Oral capsules & External 2% cream (Bayer Plc)	Canesten Thrush Duo 150mg Oral capsules & External 2% cream	Not applicable	NA	NA	NA	NA	34
+14276441000033112	42526411000001101	Canesten Thrush Combi Internal 10% & External 2% cream (Bayer Plc)	Canesten Thrush Combi Internal 10% & External 2% cream	Not applicable	NA	NA	NA	NA	4
+266241000033110	41894811000001103	Clotrimazole 1% cream	Clotrimazole 1% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	10.000mg/1.000gram	13100200	6760492
+266341000033117	36565511000001102	Clotrimazole 10% vaginal cream	Clotrimazole 10% vaginal cream	Cream/ Vaginal cream	Vaginal	Clotrimazole	100.000mg/1.000gram	07020200	362678
+266441000033111	NA	Clotrimazole 1%+500 Mg  Cream+ pessary  	NA	NA	NA	NA	NA	NA	26179
+288441000033112	NA	Clotrimazole  Vaginal cream  2 %	NA	NA	NA	NA	NA	NA	18047
+494141000033111	NA	Econazole Nitrate  Cream  1 %	NA	NA	NA	NA	NA	NA	95717
+494241000033116	NA	Econazole 1% +150Mg  Cream+ pessary  	NA	NA	NA	NA	NA	NA	7689
+494841000033117	NA	Econazole Nitrate  Lotion  1 %	NA	NA	NA	NA	NA	NA	698
+494941000033113	NA	Econazole  Lotion  1 %	NA	NA	NA	NA	NA	NA	698
+776541000033110	NA	Isoconazole Nitrate  Cream  1 %	NA	NA	NA	NA	NA	NA	23
+906641000033110	39719011000001100	Miconazole 100mg pessaries and Miconazole 2% cream	Miconazole 100mg pessaries and Miconazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	14064
+906741000033118	41903211000001107	Miconazole 2% cream	Miconazole 2% cream	Cream/ Cutaneous cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	2781590
+912541000033113	41903411000001106	Miconazole 2% vaginal cream	Miconazole 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	07020200	84387
+994341000033111	41904611000001107	Nystatin 100,000units/g cream	Nystatin 100,000units/g cream	Cream/ Cutaneous cream	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	13100200	93767
+995541000033117	41904711000001103	Nystatin 100,000units/g ointment	Nystatin 100,000units/g ointment	Ointment/ Cutaneous ointment	Cutaneous	Nystatin	100000.000unit/1.000gram + 100000.000unit/1.000gram	13100200	16083
+997341000033119	41904311000001102	Nystatin 100,000units/4g application vaginal cream	Nystatin 100,000units/4g application vaginal cream	Cream/ Vaginal cream	Vaginal	Nystatin	25000.000unit/1.000gram + 25000.000unit/1.000gram	07020200	15455
+1721041000033110	NA	Clotrimazole  Pessary and cream  	NA	NA	NA	NA	NA	NA	11336
+1845541000033115	42374911000001104	Hydrocortisone 1% / Clotrimazole 1% cream	Hydrocortisone 1% / Clotrimazole 1% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole/ Hydrocortisone acetate	10.000mg/1.000gram + 10.000mg/1.000gram	13040000	4220153
+1846441000033113	41900111000001108	Hydrocortisone 1% / Miconazole 2% cream	Hydrocortisone 1% / Miconazole 2% cream	Cream/ Cutaneous cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	5780190
+1846541000033114	41900211000001102	Hydrocortisone 1% / Miconazole 2% ointment	Hydrocortisone 1% / Miconazole 2% ointment	Ointment/ Cutaneous ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	1262127
+2147941000033114	39706111000001109	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Clotrimazole 500mg pessary and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	2780000
+2184941000033112	41894911000001108	Clotrimazole 2% cream	Clotrimazole 2% cream	Cream/ Cutaneous cream	Cutaneous	Clotrimazole	20.000mg/1.000gram	07020200	1261774
+3191241000033113	NA	Econazole Nitrate 1  Pessary and cream  150 mg + 1 %	NA	NA	NA	NA	NA	NA	1271
+3248741000033115	41896511000001107	Econazole 1% / Hydrocortisone 1% cream	Econazole 1% / Hydrocortisone 1% cream	Cream/ Cutaneous cream	Cutaneous	Econazole nitrate/ Hydrocortisone	10.000mg/1.000gram + 10.000mg/1.000gram	13040000	7099
+3258041000033115	41904411000001109	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% cream	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% cream	Cream/ Cutaneous cream	Cutaneous	Chlorhexidine hydrochloride/ Nystatin	10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13100200	22460
+3962141000033114	38894611000001106	Fluconazole 150mg capsule and Clotrimazole 2% cream	Fluconazole 150mg capsule and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	217201
+6035541000033117	18172011000001107	Fenticonazole 2% vaginal cream	Fenticonazole 2% vaginal cream	Cream/ Vaginal cream	Vaginal	Fenticonazole nitrate	20.000mg/1.000gram	07020200	270
+6445341000033119	3947811000001103	Clotrimazole 10% cream and Clotrimazole 2% cream	Clotrimazole 10% cream and Clotrimazole 2% cream	Not applicable	Route of administration not applicable	NA	NA	07020200	30557
+11753841000033117	3549911000001106	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% / Hydrocortisone 0.5% cream	Nystatin 100,000units/g / Chlorhexidine hydrochloride 1% / Hydrocortisone 0.5% cream	Cream/ Cutaneous cream	Cutaneous	Chlorhexidine hydrochloride/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	8298
+11802441000033119	3701111000001101	Nystatin 100,000units/g / Chlorhexidine acetate 1% / Hydrocortisone 1% ointment	Nystatin 100,000units/g / Chlorhexidine acetate 1% / Hydrocortisone 1% ointment	Ointment/ Cutaneous ointment	Cutaneous	Chlorhexidine acetate/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	13040000	3921
+14254441000033117	42368811000001108	Econazole 1% cream	Econazole 1% cream	Cream/ Cutaneous cream	Cutaneous	Econazole nitrate	10.000mg/1.000gram	13100200	91
+14254541000033116	42368911000001103	Econazole 1% vaginal cream	Econazole 1% vaginal cream	Cream/ Vaginal cream	Vaginal	Econazole nitrate	10.000mg/1.000gram	07020200	33
+994141000033113	3088811000001101	Nystaform HC cream (Typharm Ltd)	Nystaform HC cream	Cream/ Cutaneous cream	Cutaneous	Chlorhexidine hydrochloride/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 5.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	352421
+994541000033116	3782711000001108	Nystaform cream (Typharm Ltd)	Nystaform cream	Cream/ Cutaneous cream	Cutaneous	Chlorhexidine hydrochloride/ Nystatin	10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	65708
+995341000033112	3692511000001106	Nystaform HC ointment (Typharm Ltd)	Nystaform HC ointment	Ointment/ Cutaneous ointment	Cutaneous	Chlorhexidine acetate/ Hydrocortisone/ Nystatin	10.000mg/1.000gram + 10.000mg/1.000gram + 100000.000unit/1.000gram + 100000.000unit/1.000gram	NA	71286
+1437541000033119	3780511000001104	Tinaderm-M cream (Schering-Plough Ltd)	Tinaderm-M cream	Cream/ Cutaneous cream	Cutaneous	Nystatin/ Tolnaftate	100000.000unit/1.000gram + 100000.000unit/1.000gram + 10.000mg/1.000gram	NA	13204
+5332041000033115	NA	Lomexin Cream 2 %	NA	NA	NA	NA	NA	NA	0
+188541000033111	NA	Canesten 10% Vc Vaginal cream 10 %	NA	NA	NA	NA	NA	NA	0
