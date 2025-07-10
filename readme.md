@@ -130,7 +130,7 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
 ## Sociodemographics algorithms
 
 ### Ethnicity
-* Primary care recorded ethnicity used preferentially; HES recorded ethnicity used where this is missing as per https://pmc.ncbi.nlm.nih.gov/articles/PMC4245896/.
+* Primary care recorded ethnicity used preferentially and supplemented with HES recorded ethnicity where missing as recommended in https://pmc.ncbi.nlm.nih.gov/articles/PMC4245896/.
 * All codes, not just those with valid dates, used
 * Three different ethnicity variables are produced: 5-category (0=White, 1=South Asian, 2=Black, 3=Other, 4=Mixed, 5=Unknown), 16-category (1=White British, 2=White Irish, 3=Other White, 4=White and Black Caribbean, 5=White and Black African, 6=White and Asian, 7=Other Mixed, 8=Indian, 9=Pakistani, 10=Bangladeshi, 11=Other Asian, 12=Caribbean, 13=African, 14=Other Black, 15=Chinese, 16=Other, 17=Unknown), and QRISK2-category (1=White, 2=Indian, 3=Pakistani, 4=Bangladeshi, 5=Other Asian, 6=Black Caribbean, 7=Black African, 8=Chinese, 9=Other). Each is determined separately by:
   * Taking the most commonly recorded ethnicity category, excluding all 'unknown' ethnicity codes
