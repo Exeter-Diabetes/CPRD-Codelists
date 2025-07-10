@@ -136,7 +136,7 @@ See our paper https://linkinghub.elsevier.com/retrieve/pii/S0895-4356(22)00272-4
   * Taking the most commonly recorded ethnicity category, excluding all 'unknown' ethnicity codes
   * If more than one most commonly recorded ethnicity category, use the most recently recorded. If multiple different ethnicities recorded on the most recent date, categorise as unknown
 * For each person, if the 16-category or QRISK2-category category conflicts with the 5-category ethnicity\*, the 16-/QRISK2-category ethnicity is set to unknown
-* For any unknown ethnicities, secondary care [HES] ethnicity is used where available and where is identical to 5-category ethncity (or where 5-category ethnicity missing)
+* For any unknown ethnicities, secondary care [HES] ethnicity is used where available and where is identical to 5-category ethnicity (or where 5-category ethnicity missing)
 
 &nbsp;
 
