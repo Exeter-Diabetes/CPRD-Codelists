@@ -1,2 +1,0 @@
-ICD10	Term_description
-N40	Hyperplasia of prostate
