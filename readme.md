@@ -184,10 +184,11 @@ Note that CPRD also provide patient ethnicity (at a fee) based on their own ethn
 &nbsp;
 
 ## ONS death data from CPRD (2024 update)
-* Linked ONS death data provided by CPRD in the November 2024 linkage update contained duplicate entries for a small number of patids
-* To deal with this, we selected the date of death (reg_date_of_death) which was closest to cprd_ddate in the primary care Patient table (where available). Where cprd_ddate was not available, the earliest date of death was selected. Rows corresponding to death dates which weren't selected were discarded - i.e. data associated with these dates such as causes of death were not used
-* Some patients still had duplicate rows with the same date of death: we retained all unique underlying and secondary causes of death for each patient, and all unique values for the three place of death variables (pod_cod, pod_nhs_establishment, pod_establishment type). We have not used the other variables in the table.
-* The script used to process the data is [here](https://github.com/Exeter-Diabetes/CPRD-analysis-package/blob/master/data-raw/death_data_processing.R).
+* Linked ONS death data provided by CPRD in the November 2024 linkage update contained ICD9 codes rather than ICD10 for most deaths <2001 - we have not used death data prior to 2001 in our studies
+* It also contained duplicate entries for a small number of patids
+** To deal with this, we selected the date of death (reg_date_of_death) which was closest to cprd_ddate in the primary care Patient table (where available). Where cprd_ddate was not available, the earliest date of death was selected. Rows corresponding to death dates which weren't selected were discarded - i.e. data associated with these dates such as causes of death were not used
+** Some patients still had duplicate rows with the same date of death: we retained all unique underlying and secondary causes of death for each patient, and all unique values for the three place of death variables (pod_cod, pod_nhs_establishment, pod_establishment type). We have not used the other variables in the table.
+** The script used to process the data is [here](https://github.com/Exeter-Diabetes/CPRD-analysis-package/blob/master/data-raw/death_data_processing.R).
 * ICD10 codes were changed to those with decimal points (no decimal points in original raw data) to match the HES data and our ICD10 codelists.
 
 &nbsp;
