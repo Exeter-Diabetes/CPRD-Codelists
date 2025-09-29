@@ -1,28 +1,14 @@
 ICD10	Term_description
 S42.2	Fracture of upper end of humerus
 S42.3	Fracture of shaft of humerus
-S42.3	Fracture of shaft of humerus
-S42.4	Fracture of lower end of humerus
 S42.4	Fracture of lower end of humerus
 S52.0	Fracture of upper end of ulna
-S52.0	Fracture of upper end of ulna
-S52.0	Fracture of upper end of ulna
-S52.0	Fracture of upper end of ulna
-S52.1	Fracture of upper end of radius
 S52.1	Fracture of upper end of radius
 S52.2	Fracture of shaft of ulna
-S52.2	Fracture of shaft of ulna
-S52.3	Fracture of shaft of radius
 S52.3	Fracture of shaft of radius
 S52.4	Fracture of shafts of both ulna and radius
-S52.4	Fracture of shafts of both ulna and radius
-S52.5	Fracture of lower end of radius
 S52.5	Fracture of lower end of radius
 S52.6	Fracture of lower end of both ulna and radius
-S52.6	Fracture of lower end of both ulna and radius
-S52.7	Multiple fractures of forearm
 S52.7	Multiple fractures of forearm
 S52.8	Fracture of other parts of forearm
-S52.8	Fracture of other parts of forearm
-S52.9	Fracture of forearm, part unspecified
 S52.9	Fracture of forearm, part unspecified
