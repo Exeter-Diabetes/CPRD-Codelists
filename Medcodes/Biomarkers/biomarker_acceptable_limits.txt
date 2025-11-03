@@ -1,5 +1,5 @@
 biomarker	units	lower_limit	upper_limit
-acr	mg/mmol	0	122
+acr	mg/mmol	0	450
 albumin_blood	g/L	10	60
 alt	U/L	0	200
 ast	U/L	0	300
@@ -14,7 +14,7 @@ hba1c	mmol/mol	20	195
 hdl	mmol	0.2	10
 height	cm	60	225
 ldl	mmol	0.1	20
-pcr	mg/mmol	0	682
+pcr	mg/mmol	0	1500
 sbp	mmHg	40	270
 totalcholesterol	mmol	0.5	20
 triglyceride	mmol	0.1	40
