@@ -1,0 +1,39 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+8199341000033118	39689911000001109	Dapagliflozin 5mg tablets	Dapagliflozin 5mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	06010203	464103
+8199441000033112	39689811000001104	Dapagliflozin 10mg tablets	Dapagliflozin 10mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	06010203	5068394
+8199541000033113	21609511000001105	Forxiga 5mg tablets (AstraZeneca UK Ltd)	Forxiga 5mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate	5.000mg	NA	17313
+8199641000033114	21609811000001108	Forxiga 10mg tablets (AstraZeneca UK Ltd)	Forxiga 10mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate	10.000mg	NA	161635
+9106041000033110	24054611000001100	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin 5mg / Metformin 1g tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	06010203	113183
+9106141000033114	24054711000001109	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin 5mg / Metformin 850mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	06010203	12131
+9106241000033119	24018511000001102	Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/1000mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	NA	4528
+9106341000033112	24018111000001106	Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd)	Xigduo 5mg/850mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	NA	365
+9110341000033112	39734511000001100	Canagliflozin 100mg tablets	Canagliflozin 100mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate	100.000mg	06010203	787058
+9110441000033118	24104511000001103	Canagliflozin 300mg tablets	Canagliflozin 300mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate	300.000mg	06010203	662448
+9110541000033117	24088611000001101	Invokana 100mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Invokana 100mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate	100.000mg	NA	20848
+9110641000033116	24088311000001106	Invokana 300mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Invokana 300mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate	300.000mg	NA	14472
+9336641000033119	25290511000001101	Empagliflozin 10mg tablets	Empagliflozin 10mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin	10.000mg	06010203	2114577
+9336841000033118	25290611000001102	Empagliflozin 25mg tablets	Empagliflozin 25mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin	25.000mg	06010203	1757974
+9337141000033114	25238811000001107	Jardiance 10mg tablets (Boehringer Ingelheim Ltd)	Jardiance 10mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin	10.000mg	NA	19553
+9337241000033119	25239711000001108	Jardiance 25mg tablets (Boehringer Ingelheim Ltd)	Jardiance 25mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin	25.000mg	NA	15545
+9851541000033114	28049211000001101	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin 50mg / Metformin 1g tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	06010203	23947
+9851641000033110	28049311000001109	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin 50mg / Metformin 850mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	06010203	4281
+9851741000033118	28022511000001109	Vokanamet 50mg/850mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Vokanamet 50mg/850mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	NA	122
+9851841000033111	28024411000001103	Vokanamet 50mg/1000mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Vokanamet 50mg/1000mg tablets	Tablet/ Oral Tablet	Oral	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	NA	855
+10614141000033116	30318411000001104	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin 5mg / Metformin 850mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	06010203	7140
+10614241000033111	30318311000001106	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin 5mg / Metformin 1g tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	06010203	51406
+10614341000033118	30318211000001103	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin 12.5mg / Metformin 850mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	06010203	6960
+10614441000033112	30318111000001109	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin 12.5mg / Metformin 1g tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	06010203	86169
+10614541000033113	30173411000001107	Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/850mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	NA	304
+10614641000033114	30174111000001100	Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 5mg/1000mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	NA	1351
+10614741000033117	30175011000001102	Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/850mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	NA	358
+10614841000033110	30175711000001100	Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Synjardy 12.5mg/1000mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	NA	3267
+11898041000033111	33745311000001109	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	06010203	8701
+11898141000033110	33682311000001103	Qtern 5mg/10mg tablets (AstraZeneca UK Ltd)	Qtern 5mg/10mg tablets	Tablet/ Oral Tablet	Oral	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	NA	3678
+12880941000033111	36529511000001109	Ertugliflozin 5mg tablets	Ertugliflozin 5mg tablets	Tablet/ Oral Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg	06010203	10574
+12881041000033118	36529411000001105	Ertugliflozin 15mg tablets	Ertugliflozin 15mg tablets	Tablet/ Oral Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg	06010203	4935
+12881141000033119	36514811000001101	Steglatro 5mg tablets (Merck Sharp & Dohme (UK) Ltd)	Steglatro 5mg tablets	Tablet/ Oral Tablet	Oral	Ertugliflozin L-pyroglutamic acid	5.000mg	NA	39
+12881241000033114	36515111000001107	Steglatro 15mg tablets (Merck Sharp & Dohme (UK) Ltd)	Steglatro 15mg tablets	Tablet/ Oral Tablet	Oral	Ertugliflozin L-pyroglutamic acid	15.000mg	NA	220
+13116741000033112	37280311000001109	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin 10mg / Linagliptin 5mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg	06010203	2144
+13116841000033119	37280511000001103	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin 25mg / Linagliptin 5mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg	06010203	2348
+13116941000033110	37225211000001100	Glyxambi 10mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 10mg/5mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Linagliptin	10.000mg + 5.000mg	NA	117
+13117041000033111	37225511000001102	Glyxambi 25mg/5mg tablets (Boehringer Ingelheim Ltd)	Glyxambi 25mg/5mg tablets	Tablet/ Oral Tablet	Oral	Empagliflozin/ Linagliptin	25.000mg + 5.000mg	NA	39
