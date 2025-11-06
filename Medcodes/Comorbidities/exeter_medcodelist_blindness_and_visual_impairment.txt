@@ -1,0 +1,172 @@
+MedCodeId	Term
+299506011	Blindness AND/OR vision impairment level
+347842017	Acquired blindness
+4121051000006114	Blindness
+4196771000006117	Impairment level: better eye: severe impairment: lesser eye: blind, not further specified
+255275013	O/E - blind R-eye
+255276014	O/E - R-eye completely blind
+255292016	O/E - blind L-eye
+255293014	O/E - L-eye completely blind
+264661019	Registered blind
+1564221000000111	Registered severely sight impaired
+283416014	Blind rehabilitation
+515731000006113	Blind rehabilitation
+298252011	Unspecified blindness both eyes
+298262016	Blindness both eyes NOS
+2619503012	Both eyes total visual impairment
+510281000006111	Better eye: near total VI, Lesser eye: unspecified
+510321000006117	Better eye: profound VI, Lesser eye: unspecified
+515811000006111	Blindness - both eyes
+883361000006117	Blind/low vision - both eyes
+883371000006112	Blind - both eyes
+456798010	Acquired blindness, both eyes
+11998211000006114	Bilateral acquired blindness of eyes
+11998221000006118	Acquired blindness of bilateral eyes
+298264015	One eye blind, one eye low vision
+4943361000006111	Painful blind eye
+298288018	Blindness of one eye
+456799019	Acquired blindness, one eye
+1816041000006111	Blindness, monocular
+2865981000006110	Blind eye
+2877491000006115	Traumatic blindness
+5182801000006113	Blind and partially sighted rehabilitation - employment placement
+7973421000006117	England and Wales blind certification
+7973431000006119	Certification of blindness - England and Wales
+1529013	Blind hypertensive eye
+298285015	Blind or low vision - both eyes
+988991000006111	Blind/low vision - both eyes
+298309013	Blind or low vision - one eye only
+989001000006111	Blind/low vision -one eye only
+5564611000006114	Blind left eye
+5564621000006118	Loss of vision of left eye
+5564631000006115	Blind right eye
+5564641000006113	Loss of vision of right eye
+5999711000006112	Blindness certification
+8110491000006111	Blind right eye, normal vision left eye
+8110501000006115	Blind right eye, low vision left eye
+8110511000006117	Blind left eye, normal vision right eye
+8110521000006113	Blind left eye, low vision right eye
+736911000000111	Excluded from diabetic retinopathy screening as blind
+2163958019	O/E - pinhole L-eye completely blind
+6760581000006111	O/E - pinhole left eye completely blind
+2163962013	O/E - pinhole R-eye completely blind
+6760701000006113	O/E - pinhole right eye completely blind
+3572471000006112	Legal blindness
+13930351000006115	Complete blindness of right eye
+13930361000006118	Complete blindness of left eye
+2230871000000115	Uses guide dog for the blind
+308101000000115	Certificate of vision impairment
+8227841000006110	CVI - certificate of vision impairment
+12027631000006118	Deaf-blind
+6219731000006116	Impairment level of vision
+313046011	Congenital corneal opacity with visual deficit
+3909061000006115	Impairment level: severe impairment of both eyes
+5032561000006114	Partial sight - both eyes
+298277012	Low vision, both eyes
+298278019	Low vision, both eyes unspecified
+298284016	Low vision, both eyes NOS
+510201000006119	Better eye: moderate VI, Lesser eye: low vision unspecified
+510341000006112	Better eye: severe VI, Lesser eye: low vision unspecified
+8106821000006111	Low vision left eye, normal vision right eye
+8108811000006116	Low vision right eye, normal vision left eye
+298300012	Low vision, one eye
+298301011	Low vision, one eye, unspecified
+298308017	Low vision, one eye NOS
+747331000006111	Lesser eye: moderate VI, Better eye: unspecified
+747411000006110	Lesser eye: severe VI, Better eye: unspecified
+883381000006110	Blind/low vision -one eye only
+6969261000006116	Unexplained visual loss
+6969271000006111	Unexplained vision loss
+6348551000006111	Visual loss after cataract extraction
+25807010	Sudden visual loss
+13986431000006113	Transient visual loss of right eye
+13986441000006115	Right transient visual loss
+13678421000006117	Sudden visual loss of right eye
+13988431000006114	Transient visual loss of left eye
+13988441000006116	Left transient visual loss
+13990501000006118	Bilateral transient visual loss
+13990511000006115	Transient visual loss of bilateral eyes
+13990681000006114	Bilateral sudden visual loss
+883391000006113	Blindness/low vision NOS
+17791000000110	Registered partially blind
+7973691000006117	England and Wales partially sighted certification
+3572261000006118	Visual rehabilitation
+14191011	Impaired vision
+460633016	[V]Problems with sight
+2164155010	Sight impaired
+2164157019	Visual impairment
+515791000006112	Blindness and low vision
+6588731000006117	Visual difficulty
+8068071000006111	Bilateral visual impairment
+2773231012	Combined visual and hearing impairment
+2267571000000111	Deafblind
+2267601000000116	Dual sensory impairment - deafblind
+7174871000006118	Dual sensory impairment of vision and hearing
+6588771000006119	Mild visual impairment
+1816031000006118	Mild binocular visual impairment
+6588761000006114	Moderate visual impairment
+2168201000000117	Moderate visual impairment, binocular
+8262621000006110	Moderate binocular visual impairment
+2168211000000115	Moderate visual impairment, monocular
+8262641000006115	Moderate monocular visual impairment
+6588751000006112	Severe visual impairment
+2168181000000116	Severe visual impairment, binocular
+8262581000006110	Severe binocular visual impairment
+2168191000000119	Severe visual impairment, monocular
+8262601000006117	Severe monocular visual impairment
+6849021000006119	Cortical visual impairment
+1060061000000116	Referral to visual impairment multidisciplinary team
+298276015	One eye blind, one eye low vision NOS
+510181000006115	Better eye: low vision, Lesser eye: profound visual impairment
+510191000006117	Better eye: moderate VI, Lesser eye: blind, unspecified
+510331000006119	Better eye: severe VI, Lesser eye: blind, unspecified
+510291000006114	Better eye: profound visual impairment, Lesser eye: near total visual impairment
+510251000006115	Better eye: moderate visual impairment, Lesser eye: total visual impairment
+510371000006116	Better eye: severe visual impairment, Lesser eye: severe visual impairment
+510241000006117	Better eye: moderate visual impairment, Lesser eye: severe visual impairment
+510211000006116	Better eye: moderate visual impairment, Lesser eye: moderate visual impairment
+747421000006119	Lesser eye: total visual impairment, Better eye: near normal vision
+747431000006116	Lesser eye: total visual impairment, Better eye: normal vision
+747341000006118	Lesser eye: near total visual impairment, Better eye: near normal vision
+510261000006118	Better eye: near total visual impairment, Lesser eye: near total visual impairment
+510301000006110	Better eye: profound visual impairment, Lesser eye: profound visual impairment
+510381000006118	Better eye: severe visual impairment, Lesser eye: total visual impairment
+510221000006112	Better eye: moderate visual impairment, Lesser eye: near total visual impairment
+747361000006119	Lesser eye: profound visual impairment, Better eye: near normal vision
+747391000006110	Lesser eye: severe visual impairment, Better eye: near normal vision
+510271000006113	Better eye: near total visual impairment, Lesser eye: total visual impairment
+747401000006112	Lesser eye: severe visual impairment, Better eye: normal vision
+747311000006117	Lesser eye: moderate visual impairment, Better eye: near normal vision
+510231000006110	Better eye: moderate visual impairment, Lesser eye: profound visual impairment
+510361000006111	Better eye: severe visual impairment, Lesser eye: profound visual impairment
+402527016	O/E-R-eye perceives light only
+962571000006119	LogMAR visual acuity right eye
+2549323018	O/E- visual acuity R-eye =6/15
+402528014	O/E-L-eye perceives light only
+962581000006116	LogMAR visual acuity left eye
+2549507019	O/E- visual acuity L-eye =6/15
+442202014	Registered partially sighted
+133431000006116	Specific disability rehab.
+515711000006119	Blind lead dog rehabilitation
+2164154014	Low vision
+2164158012	Partial sight
+510311000006113	Impairment level: better eye: profound impairment: lesser eye: total impairment
+510351000006114	Impairment level: better eye: severe impairment: lesser eye: near-total impairment
+298287011	Profound impairment, one eye
+298289014	Lesser eye: total visual impairment, Better eye: unspecified
+747351000006116	Lesser eye: near total VI, Better eye: unspecified
+734951000006114	Lesser eye: near total visual impairment, Better eye: normal vision
+747381000006112	Lesser eye: profound VI, Better eye: unspecified
+747371000006114	Lesser eye: profound visual impairment, Better eye: normal vision
+298299016	Profound impairment one eye NOS
+747321000006113	Impairment level: one eye: moderate impairment: other eye: normal vision
+399455016	Visual loss NOS
+771921000006118	Instruction in braille/moon
+8131018	Atrophy of globe
+493267010	Blind hypotensive eye
+232091000006119	Phthisis bulbi
+802901000006112	Absolute glaucoma
+298286019	Legal blindness USA
+403051013	Optic nerve or pathway injury NOS
+515781000006114	Blindness - traumatic - NOS
+734661000006116	Loss of vision

@@ -1,0 +1,145 @@
+MedCodeId	Term
+251861017	H/O: lower limb amputation
+4541931000006114	History of lower limb amputation
+278463015	Other specified amputation of leg
+278464014	Amputation of leg NOS
+1785726017	Amputation of leg
+877091000006114	Amputation - lower limb
+6582081000006116	Amputation of lower limb
+6582121000006119	Amputation of the lower limb
+7811391000006113	Amputation of right lower limb above knee
+4180151000006110	Amputation above-knee, mid-thigh
+2701401000006113	Amputation below-knee conversion into above-knee amputation
+7811371000006112	Amputation of left lower limb above knee
+7848281000006116	Amputation of bilateral lower limbs above knee
+6582801000006115	Gritti-Stokes amputation
+5847951000006119	Upper thigh amputation
+224191000000115	Amputation through ankle
+226241000006117	Pirogoff amputation of foot through ankle
+877171000006114	Disarticulation of foot
+220751000000118	Syme through ankle amputation
+13509701000006113	Amputation of entire lower limb and ipsilateral hemipelvis
+13509711000006111	Hemipelvectomy
+13509721000006115	Hindquarter amputation
+13509841000006115	Amputation of entire right lower limb and ipsilateral hemipelvis
+7937731000006118	Amputation of left lower limb
+7937701000006114	Bilateral lower limb amputation
+12014431000006118	Amputation of bilateral lesser toes
+7846761000006116	Amputation of left and right leg through tibia and fibula
+7846791000006112	Bilateral below knee amputation
+7842491000006116	Amputation of left foot
+7847161000006118	Amputation of left great toe
+7847171000006113	Amputation of left hallux
+13662951000006112	Amputation of left midfoot
+13663481000006115	Partial amputation of toe of left foot
+480201000006112	Amputation below-knee
+523751000006114	Boyd amputation of leg below knee
+527701000006116	Burgess amputation of leg below knee
+807811000006118	Guyon amputation of leg below knee
+877141000006118	Below knee amputation
+877151000006116	Supramalleolar ankle amputat.
+3935051000006114	Amputation of leg through tibia and fibula
+3935061000006111	Amputation of leg below knee
+3935101000006114	BKA - Below knee amputation
+7811411000006113	Amputation of right leg through tibia and fibula
+7937721000006116	Amputation of right lower limb
+7842501000006112	Amputation of right foot
+7847221000006119	Amputation of right great toe
+7847231000006116	Amputation of right hallux
+13662971000006119	Amputation of right midfoot
+7951451000006110	Partial amputation of right toe
+7951461000006112	Partial amputation of toe of right foot
+278483019	Other specified amputation of foot
+394610018	Amputation of foot NOS
+480301000006116	Amputation of the foot
+822651000006112	Hey amputation of foot
+278497010	Other specified amputation of toe
+1209883019	Amputation of toe
+2534174016	Amputation of toe NOS
+877201000006113	Amputation of toes
+278492016	Amputation lesser toe
+5136971000006119	Partial amputation of lesser toe
+359023016	Terminalisation of lesser toe
+1229546017	Amputation great toe
+480221000006119	Amputation of hallux
+5136941000006110	Partial amputation of hallux
+359020018	Terminalisation of hallux
+278490012	Amputation of phalanx of toe
+278695013	Amputation of supernumerary toe
+3781471000006114	Amputation of toe at interphalangeal joint
+4862441000006114	Amputation through foot
+394609011	Amputation through metatarsal bones
+192101000006118	Ray transmetatarsal amputation
+552571000006118	Chopart midtarsal amputation
+5488551000006114	Transmetatarsal amputation
+4857811000006116	Chopart type procedure
+523741000006112	Boyd amputation of hindfoot
+622701000006112	Disarticulation of tarsal bones
+5488511000006113	Disarticulation of the tarsal bones
+394608015	Disarticulation of metatarsal bones
+107381000006112	Tarsometatarsal amputation
+622721000006119	Disarticulation of the tarsometatarsal joints
+742141000006119	Lisfranc tarsometatarsal amputation
+877181000006112	Amputation foot: mid-tarsal
+877191000006110	Amputation foot:tarsal-metatar
+4868151000006117	Lisfranc foot amputation
+5136931000006117	Forefoot amputation
+13527471000006110	Amputation of left forefoot
+13527451000006117	Amputation of right forefoot
+5136921000006115	Midfoot amputation
+6714051000006115	Ray amputation of foot
+6714061000006118	Amputation of toe and metatarsal
+64803017	Disarticulation of hip
+523771000006116	Boyd disarticulation of hip
+761121000006112	Fitzmaurice - Kelly disarticulation of hip
+877111000006117	Hip disarticulation
+3114511000006114	Amputation by hip disarticulation
+1785737016	Disarticulation of the knee joint
+135581000006117	Spittler disarticulation of knee
+136751000006110	Slocum disarticulation of knee
+480501000006114	Through knee amputation
+504001000006119	Batch disarticulation of knee
+533001000006110	Callander disarticulation of knee
+714531000006117	McFaddin disarticulation of knee
+715391000006114	Mazet disarticulation of knee
+754311000006110	Kirk disarticulation of knee
+807251000006116	Gritti-Stokes disarticulation of knee
+877131000006111	Knee disarticulation
+5488461000006110	TKA - Through knee amputation
+5488491000006119	Knee disarticulation
+5488501000006110	Disarticulation of knee
+504195017	Above knee amputation
+480191000006114	Above knee amputation
+480361000006115	Amputation of leg through thigh
+754301000006112	Kirk amputation of leg through thigh
+3796541000006112	Amputation above-knee
+3796561000006111	Amputation of leg above knee
+3796601000006111	AKA - Above knee amputation
+3796631000006115	Transfemoral amputation
+394601014	Hindquarter amputation
+107671000006115	Taylor hindquarter amputation
+132291000006113	Sorrondo hindquarter amputation
+668831000006118	Ferre hindquarter amputation
+754281000006113	King hindquarter amputation
+758211000006112	Jaboulay hindquarter amputation
+805681000006117	Gordon - Taylor hindquarter amputation
+877101000006115	Hind quarter amputation
+5488441000006111	Hemipelvectomy
+6618971000006110	Transmetatarsal amputation
+6618981000006113	Transmetatarsal amputation of foot
+6020481000006116	Debridement of above knee amputation stump
+14486001000006112	Infection of amputation stump of right lower limb
+451398014	O/E - Amputated right leg
+451399018	O/E - Amputated left leg
+451400013	O/E - Amputated right above knee
+451401012	O/E - Amputated left above knee
+451402017	O/E - Amputated right below knee
+1734891000000116	O/E - amputated left midfoot
+1732661000000119	O/E - amputated right midfoot
+877161000006119	Amputation lower limb NOS
+132111019	Disarticulation of toe
+278491011	Proximal hemiphalangectomy of toe
+2534173010	Disarticulation of toe NOS
+283148016	Hip disarticulation prosthesis
+283153014	Midfoot amputation prosthesis
+363091000006110	Complication following amputation of limb

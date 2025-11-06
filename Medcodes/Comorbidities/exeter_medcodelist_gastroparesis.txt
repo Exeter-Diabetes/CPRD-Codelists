@@ -1,0 +1,13 @@
+MedCodeId	Term
+5084131000006112	Gastroparesis syndrome
+5084151000006117	Gastric stasis
+5084161000006115	Gastroparesis
+7708081000006116	Gastroparesis due to diabetes mellitus
+12363701000006117	Gastroparesis with diabetes mellitus
+299601000000114	Gastroparesis with type 1 diabetes mellitus
+1667941000000112	Type I diabetes mellitus with gastroparesis
+7708051000006112	Gastroparesis due to diabetes mellitus type I
+12705071000006113	Gastroparesis due to type 1 diabetes mellitus
+299621000000117	Gastroparesis with type 2 diabetes mellitus
+1667921000000117	Type II diabetes mellitus with gastroparesis
+12705081000006111	Gastroparesis due to type 2 diabetes mellitus

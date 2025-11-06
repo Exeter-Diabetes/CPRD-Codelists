@@ -1,0 +1,27 @@
+MedCodeId	Term
+5986601000006114	Charcot's joint of foot
+5986611000006112	Charcot joint of foot
+473460018	Charcot's arthropathy
+6203481000006111	Charcot's joint
+6203491000006114	Charcot arthropathy
+7530651000006110	Charcot arthropathy of joint of ankle
+7535091000006117	Charcot arthropathy of midfoot
+7535101000006111	Charcot's arthropathy of midfoot
+7535111000006114	Charcot arthropathy of hindfoot
+8306921000006112	Charcot arthropathy of ankle
+616971000006114	Diabetic Charcot's arthropathy
+772131000006111	Insulin dependent diab mell with neuropathic arthropathy
+913981000006115	Insulin dependent diab mell with neuropathic arthropathy
+4808921000006113	Diabetic neuropathic arthropathy
+13790071000006114	Neuropathic arthropathy due to diabetes mellitus
+459296014	Type 1 diabetes mellitus with neuropathic arthropathy
+84391000006111	Type 1 diabetes mellitus with neuropathic arthropathy
+84761000006119	Type I diabetes mellitus with neuropathic arthropathy
+14094571000006111	Neuropathic arthropathy due to type 2 diabetes mellitus
+459312014	Type II diabetes mellitus with neuropathic arthropathy
+459313016	Type 2 diabetes mellitus with neuropathic arthropathy
+84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy
+84941000006115	Type II diabetes mellitus with neuropathic arthropathy
+281181000006116	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+500766011	Neuropathic arthropathy
+675631000006115	Neuropathic arthritis

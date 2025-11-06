@@ -1,0 +1,236 @@
+MedCodeId	Term
+297165012	Disease related peripheral neuropathy
+4383621000006112	Diabetic mixed sensory-motor polyneuropathy
+12218471000006119	Mixed sensorimotor polyneuropathy co-occurrent and due to diabetes mellitus
+14067521000006117	Mixed sensorimotor polyneuropathy due to diabetes mellitus
+4392131000006114	Diabetic sensory polyneuropathy
+2717251000006116	Sensory polyneuropathy
+14095271000006114	Neuropathic ulcer of foot due to type 2 diabetes mellitus
+7968951000006118	Diabetic peripheral neuropathy associated with type II diabetes mellitus
+12370381000006111	Peripheral neuropathy with type 2 diabetes
+254977018	O/E - anaesthesia in legs
+254980017	O/E - anaesthesia of extremities
+255033016	O/E - vibration sense reduced
+255034010	O/E - vibration sense absent
+297492014	Diabetic mononeuritis multiplex
+297510017	Diabetic mononeuritis NOS
+297552010	Asymptomatic diabetic neuropathy
+14071341000006117	Asymptomatic neuropathy due to diabetes mellitus
+297558014	Polyneuropathy in hypoglycaemia
+4770571000006112	Neuropathy associated with hypoglycaemia
+309179013	Neuropathic diabetic ulcer - foot
+13790061000006119	Neuropathic ulcer of foot due to diabetes mellitus
+616971000006114	Diabetic Charcot's arthropathy
+772131000006111	Insulin dependent diab mell with neuropathic arthropathy
+913981000006115	Insulin dependent diab mell with neuropathic arthropathy
+4808921000006113	Diabetic neuropathic arthropathy
+13790071000006114	Neuropathic arthropathy due to diabetes mellitus
+322645015	Neuropathic foot blister
+422971000006118	[X]Polyneuropathy/other endocrine+metabolic diseases CE
+5009511000006111	Neuropathy associated with endocrine disorder
+345486016	Diabetic neuropathy
+345487013	Diabetes mellitus with neuropathy
+881501000006110	Diabetes + neuropathy
+14072461000006116	Neuropathy due to diabetes mellitus
+345492010	Diabetic mononeuropathy
+771371000006118	Insulin dependent diabetes mellitus with mononeuropathy
+913771000006115	Insulin dependent diabetes mellitus with mononeuropathy
+5566651000006117	Vibration sense absent
+71168014	Peripheral neuropathy
+297511018	Hereditary and idiopathic peripheral neuropathy
+299374014	[X]Other disorders of the peripheral nervous system
+345457019	Peripheral nerve disease
+883171000006110	Other peripheral neuropathy
+989021000006118	Other peripheral neuropathy
+451383012	O/E - Vibration sense of right foot abnormal
+451385017	O/E - Vibration sense of left foot abnormal
+459312014	Type II diabetes mellitus with neuropathic arthropathy
+459313016	Type 2 diabetes mellitus with neuropathic arthropathy
+84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy
+84941000006115	Type II diabetes mellitus with neuropathic arthropathy
+281181000006116	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+473460018	Charcot's arthropathy
+6203481000006111	Charcot's joint
+6203491000006114	Charcot arthropathy
+8120381000006111	Neuropathy due to type 2 diabetes mellitus
+2504831000006117	Secondary peripheral neuropathy
+299364011	[X]Other hereditary and idiopathic neuropathies
+299373015	[X]Polyneuropathy in other diseases classified elsewhere
+399811000006111	[X]Nerve root+plexus compressions in neoplastic disease CE
+399821000006115	Neuropathy
+422981000006115	[X]Polyneuropathy/other musculoskeletal disorders CE
+6449091000006114	Neuropathy (nerve damage)
+65526011	Diabetic amyotrophy
+616921000006113	Diabetic amyotrophy
+12180791000006114	Diabetic lumbosacral plexopathy
+14057771000006116	Lumbosacral radiculoplexus neuropathy due to diabetes mellitus
+1484964012	10g monofilament sensation absent
+12180901000006116	DRPN - diabetic radiculoplexus neuropathy
+14057821000006112	Radiculoplexus neuropathy due to diabetes mellitus
+1488389019	10g monofilament sensation R foot abnormal
+1488390011	10g monofilament sensation L foot abnormal
+1488847017	O/E - vibration sense left foot reduced
+1488848010	O/E - vibration sense right foot reduced
+2159159017	O/E - Vibration sense of right foot absent
+2159163012	O/E - vibration sense of left foot absent
+84531000006118	Type 2 diabetes mellitus with mononeuropathy
+84901000006117	Mononeuropathy with type 2 diabetes mellitus
+280521000006117	Non-insulin dependent diabetes mellitus with mononeuropathy
+914221000006113	Type 2 diabetes mellitus with mononeuropathy
+914231000006111	Type II diabetes mellitus with mononeuropathy
+14083761000006113	Mononeuropathy due to type 2 diabetes mellitus
+84721000006113	Mononeuropathy with type 1 diabetes mellitus
+913781000006117	Type 1 diabetes mellitus with mononeuropathy
+913791000006119	Type I diabetes mellitus with mononeuropathy
+14083861000006115	Mononeuropathy due to type 1 diabetes mellitus
+70659018	Polyneuropathy
+299366013	[X]Other specified polyneuropathies
+450558019	Polyneuropathy unspecified
+359071000006116	[X] Polyneuropathy, unspecified
+7032031000006112	Diabetic peripheral neuropathy
+297656018	Other specified disorders of peripheral nervous system
+297658017	Peripheral nervous system disorder NOS
+235701000006117	Disorder of the peripheral nervous system
+422921000006119	[X]Polyneuropathies and other disorders of the peripheral nervous system
+82373015	Diabetic polyneuropathy
+214921000006116	Polyneuropathy in diabetes
+616451000006110	Diabetes mellitus with polyneuropathy
+771401000006115	Insulin dependent diabetes mellitus with polyneuropathy
+913801000006118	Insulin dependent diabetes mellitus with polyneuropathy
+12185421000006113	Polyneuropathy due to diabetes mellitus
+1230890017	Autonomic neuropathy due to diabetes
+3319861000006118	Diabetic autonomic neuropathy
+14058781000006117	Autonomic neuropathy due to diabetes mellitus
+498448012	Neuropathic foot ulcer
+3466131000006115	Perforating ulcer of the foot
+500766011	Neuropathic arthropathy
+675631000006115	Neuropathic arthritis
+3598611000006114	Arthropathy associated with a neurological disorder
+84421000006115	Type 1 diabetes mellitus with polyneuropathy
+84791000006110	Polyneuropathy due to diabetes mellitus type I
+913811000006115	Type 1 diabetes mellitus with polyneuropathy
+913821000006111	Type I diabetes mellitus with polyneuropathy
+84601000006110	Type 2 diabetes mellitus with polyneuropathy
+84971000006111	Type II diabetes mellitus with polyneuropathy
+280541000006112	Non-insulin dependent diabetes mellitus with polyneuropathy
+914241000006118	Polyneuropathy due to type 2 diabetes mellitus
+914251000006116	Type II diabetes mellitus with polyneuropathy
+459296014	Type 1 diabetes mellitus with neuropathic arthropathy
+84391000006111	Type 1 diabetes mellitus with neuropathic arthropathy
+84761000006119	Type I diabetes mellitus with neuropathic arthropathy
+8022481000006112	Peripheral neuropathy due to type 1 diabetes mellitus
+7861571000006116	Radiculoplexoneuropathy due to diabetes mellitus
+7861581000006118	Diabetic radiculoplexus neuropathy
+299375010	Inflammatory polyneuropathy
+778621000006116	Inflammatory polyneuropathy, unspecified
+3750161000006113	Polyneuritis
+14094571000006111	Neuropathic arthropathy due to type 2 diabetes mellitus
+4060471000006115	Sensory neuropathy
+4060481000006117	Sensory peripheral neuropathy
+297528015	Idiopathic peripheral neuropathy
+297530018	Other idiopathic peripheral neuropathy NOS
+108062014	Hereditary peripheral neuropathy
+297519016	Hereditary peripheral neuropathy NOS
+5279771000006114	Peripheral neuropathic gait
+7846541000006113	Length-dependent peripheral neuropathy
+12059391000006118	Peripheral neuropathy due to and following chemotherapy
+12059401000006116	CIPN - Chemotherapy-induced peripheral neuropathy
+8112561000006115	Idiopathic small fibre peripheral neuropathy
+932681000006110	Other peripheral neuropathy
+14103017	Alcohol-induced polyneuropathy
+2626141000006112	Alcoholic polyneuropathy
+2626161000006111	Alcoholic peripheral neuropathy
+5989861000006116	Symmetrical sensory neuropathy
+143436010	Idiopathic peripheral autonomic neuropathy
+297162010	Idiopathic peripheral autonomic neuropathy NOS
+297505016	Other mononeuritis lower limb
+297506015	Unspecified mononeuritis lower limb
+299360019	Mononeuropathy of lower limb
+698001000006119	Mononeuritis lower limb
+13917091000006117	Neuropathic ulcer of heel due to type 2 diabetes mellitus
+8044171000006110	Neuropathic toe ulcer due to type 2 diabetes mellitus
+14095251000006116	Neuropathic ulcer of toe due to type 2 diabetes mellitus
+297574016	Other toxic or inflammatory neuropathy
+399416017	Inflammatory and toxic neuropathy
+399418016	Toxic or inflammatory neuropathy NOS
+55426011	Idiopathic progressive polyneuropathy
+6683661000006119	Neuropathic ulcer
+6683671000006114	Neurotrophic ulcer
+7650561000006115	Small fibre neuropathy
+7650571000006110	Small fiber neuropathy
+1772901000006118	Critical illness polyneuropathy
+4405681000006119	Peripheral axonal neuropathy
+5010611000006115	Idiopathic chronic neuropathy
+297571012	Other toxic agent polyneuropathy
+99281000006115	Toxic neuropathy, NOS
+3236151000006118	Toxic polyneuropathy
+3486151000006113	Axonal neuropathy
+214871000006114	Polyneuropathy due to drugs
+883161000006115	Drug/toxic polyneuropathy
+2616821000006117	Drug-related polyneuropathy
+297553017	Polyneuropathy in disease EC
+297569012	Polyneuropathy in disease NOS
+4770501000006118	Polyneuropathy associated with another disorder
+2561231000006116	Mixed sensory-motor polyneuropathy
+7500781000006115	Neuropathy of lower limb
+8043161000006118	Neuropathic ulcer of ankle
+13628591000006115	Acute pure sensory neuropathy
+996391000006112	10g monofilament sensation plantar aspect of great toe right foot absent
+996401000006114	10g monofilament sensation plantar aspect of great toe left foot absent
+996411000006112	10g monofilament sensation plantar aspect of middle toe right foot absent
+996421000006116	10g monofilament sensation plantar aspect of middle toe left foot absent
+996431000006118	10g monofilament sensation plantar aspect of little toe right foot absent
+996441000006111	10g monofilament sensation plantar aspect of little toe left foot absent
+996451000006113	10g monofilament sensation plantar aspect of first metatarsal head right foot absent
+996461000006110	10g monofilament sensation plantar aspect of first metatarsal head left foot absent
+1805211000006114	Numbness of lower limb
+5990051000006116	Numbness of foot
+5990061000006119	Numbness of toe
+451379012	Pin prick sensation of right foot abnormal
+451380010	Pin prick sensation of left foot abnormal
+6613661000006116	Pin prick sensation of foot-abnormal
+616391000006114	Nervous system disorder due to diabetes mellitus
+297163017	Disorder of peripheral autonomic nervous system
+50336019	Morton's neuralgia
+297531019	Hereditary or idiopathic peripheral neuropathy NOS
+297540015	Polyneuropathy in collagen vascular disease
+297542011	Polyneuropathy in disseminated lupus erythematosus
+297543018	Polyneuropathy in polyarteritis nodosa
+297545013	Polyneuropathy in collagen vascular disease NOS
+1234144017	Polyneuropathy in malignant disease
+297554011	Polyneuropathy in amyloidosis
+504101018	Polyneuropathy in beriberi
+297555012	Polyneuropathy in vitamin B deficiency
+345519017	Polyneuropathy in diphtheria
+297557016	Polyneuropathy in herpes zoster
+215001000006114	Polyneuropathy in mumps
+297564019	Polyneuropathy in porphyria
+297566017	Polyneuropathy in sarcoidosis
+215061000006110	Polyneuropathy in uraemia
+299306010	Paraneoplastic neuropathy
+299361015	[X]Other specified mononeuropathies
+299362010	[X]Other mononeuropathies in diseases classified elsewhere
+366601000006119	[X]Autonomic neuropathy/endocrine+metabolic diseases CE
+299498018	[X]Retrobulbar neuritis in diseases classified elsewhere
+297470010	Mononeuritis of upper limb and mononeuritis multiplex
+883141000006119	Mononeuritis - upper limb
+50702011	Mononeuritis multiplex
+616671000006119	Diabetes mellitus, juvenile, + neurological manifestation
+616481000006119	Diabetes mellitus, adult onset, + neurological manifestation
+13761000006115	Other specified diabetes mellitus with neurological comps
+292512019	Diabetes mellitus NOS with neurological manifestation
+84381000006113	Type 1 diabetes mellitus with neurological complications
+84751000006116	Type I diabetes mellitus with neurological complications
+771481000006112	Insulin-dependent diabetes mellitus with neurological comps
+84561000006110	Type 2 diabetes mellitus with neurological complications
+84931000006113	Neurological disorder with diabetes type 2
+280591000006115	Non-insulin-dependent diabetes mellitus with neuro comps
+913501000006115	Insulin-dependent diabetes mellitus with neurological comps
+913511000006117	Type 1 diabetes mellitus with neurological complications
+913521000006113	Neurological disorder with type 1 diabetes mellitus
+914071000006115	Neurologic disorder associated with type 2 diabetes mellitus
+914081000006117	Type II diabetes mellitus with neurological complications
+883151000006117	Other mononeuritis -lower limb
+345594014	Axonal sensorimotor neuropathy
+883201000006114	Peripheral nerve dis. NOS
+883211000006112	Other peripheral nerve disease

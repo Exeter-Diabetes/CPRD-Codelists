@@ -1,0 +1,13 @@
+MedCodeId	Term
+369417015	Neuropathic pain
+3515752018	Chronic neuropathic pain
+317154014	Burning sensation
+60664018	Burning pain
+3085791000006119	Hot pain
+60126016	Burning feet
+345483012	Burning feet syndrome
+3636558016	Burning sensation of skin
+7842571000006118	Electric shock type pain
+82575011	Shooting pain
+13659861000006118	Tingling pain
+311706017	Neuralgia unspecified
