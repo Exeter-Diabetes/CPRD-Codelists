@@ -1,0 +1,2 @@
+ICD10	Term_description
+M14.6	Neuropathic arthropathy
