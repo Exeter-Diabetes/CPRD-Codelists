@@ -1,0 +1,2 @@
+ICD10	Term_description	
+H54x	Visual impairment including blindness (binocular or monocular)	
