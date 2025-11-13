@@ -1,0 +1,66 @@
+MedCodeId	Term
+9310731000006111	Chronic ulcer of heel
+9313421000006110	Diabetic ulcer of left foot due to diabetes mellitus type 2
+9313441000006115	Diabetes type 2 with diabetic ulcer of left foot
+9313691000006110	Ulcer of midfoot
+8044171000006110	Neuropathic toe ulcer due to type 2 diabetes mellitus
+14095251000006116	Neuropathic ulcer of toe due to type 2 diabetes mellitus
+8044181000006113	Ulcer of toe due to type 2 diabetes mellitus
+8044221000006116	Ischaemic foot ulcer due to type 2 diabetes mellitus
+14095271000006114	Neuropathic ulcer of foot due to type 2 diabetes mellitus
+7969001000006112	Foot ulcer due to type 2 diabetes mellitus
+309177010	Ischaemic ulcer diabetic foot
+4807571000006117	Ischemic ulcer diabetic foot
+14071551000006111	Ischaemic ulcer of foot due to diabetes mellitus
+309179013	Neuropathic diabetic ulcer - foot
+13790061000006119	Neuropathic ulcer of foot due to diabetes mellitus
+309180011	Mixed diabetic ulcer - foot
+5126451000006116	Ischaemic foot ulcer
+5126461000006119	Ischemic foot ulcer
+5126491000006110	Neuroischaemic foot ulcer
+5887461000006116	Skin ulcer of dorsum of foot
+5888071000006117	Ulcer of toe
+5888081000006119	Ulcer of heel
+5981271000006114	Ulcer of big toe
+5981281000006112	Ulcer of great toe
+6348911000006117	Diabetic foot ulcer
+7103391000006115	Chronic ulcer of foot
+7108391000006114	Ischaemic ulcer of toe
+7108401000006111	Ischemic ulcer of toe
+7128761000006114	Chronic ulcer of toe
+498448012	Neuropathic foot ulcer
+3466131000006115	Perforating ulcer of the foot
+13917091000006117	Neuropathic ulcer of heel due to type 2 diabetes mellitus
+13919651000006113	Ulcer of heel due to atherosclerosis of artery of lower limb
+13931401000006116	Ulcer of left foot
+13931411000006118	Ulcer of right foot
+13953211000006119	Ulcer of left foot due to diabetes mellitus
+8026041000006113	Forefoot ulcer due to type 2 diabetes mellitus
+512081010	Foot ulcer
+4055181000006114	Ulcer of foot
+451404016	O/E - Right foot ulcer
+5975181000006110	On examination - Right foot ulcer
+451405015	O/E - Left foot ulcer
+6020431000006117	Debridement of foot ulcer
+2532976019	O/E - left chronic diabetic foot ulcer
+2532977011	O/E - right chronic diabetic foot ulcer
+6866781000006116	On examination - right chronic diabetic foot ulcer
+7700041000006112	Assessment of diabetic foot ulcer
+8304081000006117	Wagner ulcer classification grade 1 foot ulcer
+8304091000006119	Wagner ulcer classification grade 2 foot ulcer
+8304101000006113	Wagner ulcer classification grade 3 foot ulcer
+8304111000006111	Wagner ulcer classification grade 4 foot ulcer
+8026031000006115	Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus
+8026061000006112	Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus
+1488396017	O/E - Left diabetic foot - ulcerated
+1488427018	O/E - ankle ulcer
+4943201000006119	Pressure ulcer of heel
+4943211000006116	Pressure sore on heel
+4943221000006112	Pressure ulcer on heel
+14627511000006110	Pressure injury of heel
+8256461000006112	EPUAP (European pressure ulcer advisory panel) grade 2 ulcer left foot
+14515081000006116	EPUAP (European pressure ulcer advisory panel) category II ulcer left foot
+8256531000006116	EPUAP (European pressure ulcer advisory panel) grade 3 ulcer right foot
+14515171000006118	EPUAP (European pressure ulcer advisory panel) category III ulcer right foot
+1488395018	O/E - Right diabetic foot - ulcerated
+6546281000006117	On examination - Right diabetic foot - ulcerated
