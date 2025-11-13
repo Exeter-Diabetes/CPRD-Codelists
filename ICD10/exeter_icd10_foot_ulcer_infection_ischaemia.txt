@@ -1,0 +1,2 @@
+ICD10	Term_description
+L97	"Ulcer of lower limb, not elsewhere classified"
