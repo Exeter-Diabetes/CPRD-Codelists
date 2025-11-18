@@ -1,0 +1,2 @@
+ICD10	Term_description
+H43.1	Disorders of vitreous body

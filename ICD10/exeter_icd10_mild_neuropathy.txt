@@ -1,0 +1,10 @@
+ICD10	Term_description
+G63	Polyneuropathy in diseases classified elsewhere
+G63.2	Diabetic polyneuropathy
+G63.3	Polyneuropathy in other endocrine and metabolic diseases
+G63.8	Polyneuropathy in other diseases classified elsewhere
+E10.4	Type 1 diabetes mellitus with neurological complications 
+E11.4	Type 2 diabetes mellitus with neurological complications 
+E13.4	Other specified diabetes mellitus with neurological complications
+E14.4	Unspecified diabetes mellitus with neurological complications 
+G62.9	"Polyneuropathy, unspecified"
