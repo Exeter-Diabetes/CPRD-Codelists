@@ -1,3 +1,0 @@
-ICD10	Term_description			
-H35.2	Other proliferative retinopathy			
-H35.6	Retinal haemorrhage			
