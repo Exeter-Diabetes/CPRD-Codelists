@@ -1,0 +1,195 @@
+﻿Code,Description
+102781000119107#,Sensory neuropathy due to type 1 diabetes mellitus (disorder)
+110181000119105#,Peripheral sensory neuropathy due to type 2 diabetes mellitus
+11060002#,Disease related peripheral neuropathy
+126534007#,Diabetic mixed sensory-motor polyneuropathy
+126535008#,Diabetic motor polyneuropathy
+127011001#,Diabetic sensory polyneuropathy
+13694005#,Sensory polyneuropathy
+140531000119105#,Neuropathic foot ulcer due to type 2 diabetes mellitus (disorder)
+140946004#,O/E - vibration sense reduced
+140947008#,O/E - vibration sense absent
+140948003#,O/E - Vibration sense of right foot abnormal
+140950006#,O/E - Vibration sense of left foot abnormal
+1511000119107#,Diabetic peripheral neuropathy associated with type II diabetes mellitus
+154683002#,Diabetes + neuropathy (& [amyotrophy])
+154684008#,Diabetic mononeuritis multiplex
+154685009#,Diabetic mononeuritis NOS
+154686005#,Acute painful diabetic neuropathy
+155080009#,Neuropathy: [peripheral] or [polyneuropathy]
+155086003#,Other peripheral neuropathy
+1561000119105#,Diabetic peripheral neuropathy associated with type I diabetes mellitus
+16026551000119108#,Bilateral peripheral neuropathy of lower limbs
+163702008#,O/E - anaesthesia in legs
+163703003#,O/E - anesthesia of extremities
+163745001#,O/E - vibration sense reduced
+163746000#,O/E - vibration sense absent
+163747009#,O/E - Vibration sense of right foot abnormal
+163749007#,O/E - Vibration sense of left foot abnormal
+190349003#,Diabetes mellitus with neurological manifestation: (& [amyotrophy] or [neuropathy] or [polyneuropathy])
+190350003#,"Diabetes mellitus, juvenile type, with neurological manifestation"
+190351004#,"Diabetes mellitus, adult onset, with neurological manifestation"
+190352006#,Other specified diabetes mellitus with neurological complications
+190353001#,Diabetes mellitus NOS with neurological manifestation
+190365002#,Type 1 diabetes mellitus with neurological complications
+190374000#,Type I diabetes mellitus with mononeuropathy
+190375004#,Type I diabetes mellitus with polyneuropathy
+190381007#,Type I diabetes mellitus with neuropathic arthropathy
+190387006#,Type 2 diabetes mellitus with neurological complications
+190396006#,Type II diabetes mellitus with mononeuropathy
+190397002#,Type II diabetes mellitus with polyneuropathy
+190403008#,Type II diabetes mellitus with neuropathic arthropathy
+190409007#,Malnutrition-related diabetes mellitus with neurological complications
+193141005#,Diabetic mononeuritis multiplex
+193156001#,Diabetic mononeuritis NOS
+193166009#,Polyneuropathy
+193182005#,Diabetic neuropathy &/or diabetic polyneuropathy
+193183000#,Acute painful diabetic neuropathy
+193184006#,Chronic painful diabetic neuropathy
+193185007#,Asymptomatic diabetic neuropathy
+193191009#,Polyneuropathy in hypoglycaemia
+193204000#,(Toxic or inflammatory neuropathy NOS) or (polyneuropathy unspecified)
+193263008#,Diabetic mononeuropathy
+194520003#,[X]Other specified polyneuropathies
+194523001#,[X]Polyneuropathy in other endocrine and metabolic diseases classified elsewhere
+194527000#,[X]Polyneuropathy in other diseases classified elsewhere
+194529002#,"[X]Inflammatory polyneuropathy, unspecified"
+194530007#,"[X]Polyneuropathy, unspecified"
+201251005#,Neuropathic diabetic ulcer - foot
+201724008#,Diabetic Charcot's arthropathy
+201734004#,Neuropathic arthropathy (& Charcot's)
+211412006#,Neuropathic foot blister
+230571009#,Neuropathy associated with endocrine disorder
+230572002#,Diabetic neuropathy
+230573007#,Diabetic distal sensorimotor polyneuropathy
+230574001#,Diabetic acute painful polyneuropathy
+230575000#,Diabetic chronic painful polyneuropathy
+230576004#,Diabetic asymmetric polyneuropathy
+230577008#,Diabetic mononeuropathy
+230579006#,Diabetic thoracic radiculoplexus neuropathy
+264554005#,PN - Peripheral neuropathy
+267472008#,Diabetes + neuropathy (& [amyotrophy])
+267706009#,Neuropathy: [peripheral] or [polyneuropathy]
+274816000#,Vibration sense absent
+278511008#,Diabetic femoral mononeuropathy
+286938007#,Other peripheral neuropathy
+302225005#,Polyneuropathy and mononeuropathy
+302226006#,Peripheral nerve disease
+307326004#,Polyneuropathy unspecified
+308078005#,O/E - Vibration sense of right foot abnormal
+308080004#,O/E - Vibration sense of left foot abnormal
+314368001#,Type I diabetes mellitus with mononeuropathy
+314369009#,Type 1 diabetes mellitus with polyneuropathy
+314370005#,Type II diabetes mellitus with mononeuropathy
+314371009#,Type II diabetes mellitus with polyneuropathy
+314894004#,Type I diabetes mellitus with neuropathic arthropathy
+314904008#,Type II diabetes mellitus with neuropathic arthropathy
+35777006#,Diabetic mononeuropathy multiplex
+359554008#,Charcot's arthropathy
+359611005#,Diabetic neuropathy with neurologic complication
+361216007#,Diabetic femoral mononeuropathy
+368581000119106#,Neuropathy due to type 2 diabetes mellitus (disorder)
+385006#,Secondary peripheral neuropathy
+386033004#,Neuropathy (disorder)
+389367001#,10g monofilament sensation absent
+390098002#,10g monofilament sensation absent
+39058009#,Diabetic amyotrophy
+390932001#,10g monofilament sensation absent (context-dependent category)
+39127005#,Symmetric diabetic proximal motor neuropathy
+39181008#,Radiculoplexus neuropathy co-occurrent and due to diabetes mellitus (disorder)
+392773002#,10g monofilament sensation R foot abnormal
+392774008#,10g monofilament sensation L foot abnormal
+392777001#,O/E - vibration sense left foot reduced
+392778006#,O/E - vibration sense right foot reduced
+393727005#,10g monofilament sensation R foot abnormal
+393728000#,10g monofilament sensation L foot abnormal
+393731004#,O/E - vibration sense left foot reduced
+393732006#,O/E - vibration sense right foot reduced
+394667006#,10g monofilament sensation R foot abnormal (finding)
+394668001#,10g monofilament sensation L foot abnormal (finding)
+395149007#,O/E - vibration sense left foot reduced (context-dependent category)
+395150007#,O/E - vibration sense right foot reduced (context-dependent category)
+407558007#,On examination - vibration sense of right foot absent (context-dependent category)
+407562001#,On examination - vibration sense of left foot absent (context-dependent category)
+420436000#,Mononeuropathy associated with type II diabetes mellitus (disorder)
+420918009#,Mononeuropathy associated with type I diabetes mellitus (disorder)
+421707005#,Polyneuropathy associated with type II diabetes mellitus (disorder)
+422297002#,Polyneuropathy associated with type I diabetes mellitus (disorder)
+423263001#,Diabetic autonomic neuropathy associated with type 2 diabetes mellitus (disorder)
+42345000#,Polyneuropathy
+424736006#,Diabetic peripheral neuropathy (disorder)
+425442003#,Diabetic autonomic neuropathy associated with type 1 diabetes mellitus (disorder)
+42658009#,Disorder of the peripheral nervous system
+427027005#,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 2 diabetes mellitus
+427571000#,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+49455004#,Diabetic polyneuropathy
+50620007#,Diabetic autonomic neuropathy
+59483006#,Perforating ulcer of the foot
+67536000#,Arthropathy associated with a neurological disorder
+706891008#,Neuropathy due to brittle type I diabetes mellitus
+712882000#,Diabetic autonomic neuropathy due to type 1 diabetes mellitus
+712883005#,Diabetic autonomic neuropathy due to type 2 diabetes mellitus
+713705003#,Polyneuropathy due to type 1 diabetes mellitus
+713706002#,Polyneuropathy due to type 2 diabetes mellitus
+71771000119100#,Type 1 diabetes mellitus with neuropathic arthropathy
+71791000119104#,Peripheral neuropathy due to type 1 diabetes mellitus
+724810001#,Radiculoplexoneuropathy due to diabetes mellitus (disorder)
+76886005#,Polyneuritis
+770094004#,Cervical radiculoplexus neuropathy co-occurrent and due to diabetes mellitus (disorder)
+781000119106#,Diabetic neuropathic arthropathy associated with type 2 diabetes mellitus
+789542009#,Neuropathy due to type 1 diabetes mellitus
+789585000#,Sensory polyneuropathy due to diabetes mellitus (disorder)
+789588003#,Peripheral sensory neuropathy (disorder)
+79554005#,Asymmetric diabetic proximal motor neuropathy
+81830002#,Diabetic mononeuropathy simplex
+866003#,Diabetic neuropathy
+95662005#,Sensory peripheral neuropathy
+773001000000103#,Symptomatic diabetic peripheral neuropathy (disorder)
+279981003#,Peripheral neuropathic pain (finding)
+944141000000108#,Diabetic peripheral neuropathic pain (finding)
+22722001#,Idiopathic peripheral neuropathy (disorder)
+762603007#,Chronic peripheral neuropathic pain (finding)
+65017003#,Hereditary peripheral neuropathy (disorder)
+250024000#,Peripheral neuropathic gait (finding)
+723666009#,Length-dependent peripheral neuropathy (disorder)
+767659008#,Peripheral neuropathy due to and following antineoplastic therapy (disorder)
+350471000119102#,Idiopathic small fiber peripheral neuropathy (disorder)
+636121000000109#,Hereditary or idiopathic peripheral neuropathy NOS (disorder)
+709143008#,Peripheral neuropathy caused by toxin (disorder)
+7916009#,Alcoholic polyneuropathy (disorder)
+309520003#,Symmetrical sensory neuropathy (disorder)
+86489003#,Idiopathic peripheral autonomic neuropathy (disorder)
+609592007#,Mononeuropathy of lower limb (disorder)
+789569005#,Neuropathic ulcer of heel due to type 2 diabetes mellitus (disorder)
+140381000119104#,Neuropathic ulcer of toe due to type 2 diabetes mellitus (disorder)
+267601009#,Inflammatory and toxic neuropathy (disorder)
+33209009#,Idiopathic progressive polyneuropathy (disorder)
+403601003#,Neuropathic ulcer (disorder)
+709489006#,Small fiber neuropathy (disorder)
+230594005#,Critical illness polyneuropathy (disorder)
+128208007#,Peripheral axonal neuropathy (disorder)
+230655004#,Idiopathic chronic neuropathy (disorder)
+45600000#,Toxic polyneuropathy (disorder)
+60703000#,Axonal neuropathy (disorder)
+7339009#,Polyneuropathy caused by drug (disorder)
+762595001#,Chronic painful polyneuropathy following chemotherapy (disorder)
+193186008#,Polyneuropathy associated with another disorder (disorder)
+3900008#,Mixed sensory-motor polyneuropathy (disorder)
+609600000#,Neuropathy of lower limb (disorder)
+137631000119107#,Neuropathic ulcer of ankle (disorder)
+783244002#,Acute pure sensory neuropathy (disorder)
+264556007#,Occult neuropathy (disorder)
+199891000000100#,10 gram monofilament sensation plantar aspect of great toe right foot absent (finding)
+199901000000104#,10 gram monofilament sensation plantar aspect of great toe left foot absent (finding)
+199911000000102#,10 gram monofilament sensation plantar aspect of middle toe right foot absent (finding)
+199921000000108#,10 gram monofilament sensation plantar aspect of middle toe left foot absent (finding)
+199931000000105#,10 gram monofilament sensation plantar aspect of little toe right foot absent (finding)
+199941000000101#,10 gram monofilament sensation plantar aspect of little toe left foot absent (finding)
+199951000000103#,10 gram monofilament sensation plantar aspect of first metatarsal head right foot absent (finding)
+199961000000100#,10 gram monofilament sensation plantar aspect of first metatarsal head left foot absent (finding)
+309537005#,Numbness of lower limb (finding)
+309538000#,Numbness of foot (finding)
+309539008#,Numbness of toe (finding)
+308074007#,Pin prick sensation of right foot abnormal (finding)
+308075008#,Pin prick sensation of left foot abnormal (finding)
+398894000#,Pin prick sensation of foot-abnormal (finding)

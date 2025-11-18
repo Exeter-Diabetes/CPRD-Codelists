@@ -1,0 +1,101 @@
+﻿Code,Description
+1B75.,Blindness
+F490.,Blindness - both eyes
+F4900,Unspecified blindness both eyes
+F4901,Both eyes total visual impairment
+F4902,"Better eye: near total visual impairment, Lesser eye: unspecified"
+F4903,"Better eye: near total visual impairment, Lesser eye: total visual impairment"
+F4904,"Better eye: near total visual impairment, Lesser eye: near total visual impairment"
+F4905,"Better eye: profound visual impairment, Lesser eye: unspecified"
+F4906,"Better eye: profound visual impairment, Lesser eye: total visual impairment"
+F4907,"Better eye: profound visual impairment, Lesser eye: near total visual impairment"
+F4908,"Better eye: profound visual impairment, Lesser eye: profound visual impairment"
+F490z,Blindness both eyes NOS
+Ua1f0,"Blindness, monocular"
+Ua1ez,Painful blind eye
+XM19P,Blind left eye
+XM19Q,Blind right eye
+F4811,Sudden visual loss
+F494.,Legal blindness USA
+6689.#,Registered blind
+Xa7nF,Registered partially sighted
+2B7B.,O/E - blind L-eye
+2B6B.,O/E - blind R-eye
+X00gN,Acquired blindness
+XaE6s,"Acquired blindness, both eyes"
+XaE6t,"Acquired blindness, one eye"
+X74Ws,Blind registration
+8F61.,Blind rehabilitation
+XE15r,Blind hypertensive eye
+XaCGX,Blindness certification
+X74Wt,England and Wales blind certification
+XE1T1,England and Wales partially sighted certification
+X74Wu,Certification of blindness - Scotland
+X74Wv,Scottish - blind certification
+X74Ww,Scottish - partially sighted certification
+X74Wx,Scottish partially sighted certification - blindness likely over 16
+X74Wy,Scottish partially sighted certification - blindness likely before 16
+X74Wz,Scottish - certification visual handicap
+X74X0,Scottish certification visual handicap - likely to improve
+X74X1,Scottish certification visual handicap - stable
+X74X2,Scottish certification visual handicap - likely to deteriorate
+XaZyk,Uses guide dog for the blind
+XE191,Blind or low vision - both eyes
+F4950,"Blindness, one eye, unspecified"
+XaAvv,Training for blind or partially sighted person
+XE16L,Impaired vision
+XaYiO,Mild visual impairment
+XaYiP,Mild binocular visual impairment
+XaYfI,Moderate monocular visual impairment
+XaYfH,Moderate binocular visual impairment
+XaYfG,Severe monocular visual impairment
+XaYfF,Severe binocular visual impairment
+XaYPJ,Combined visual and hearing impairment
+Xa1Ih,Partial sight
+X00gP,Partial sight - both eyes
+F492.,"Low vision, both eyes"
+F4920,"Low vision, both eyes unspecified"
+F4921,"Better eye: severe visual impairment, Lesser eye: low vision unspecified"
+F4922,"Better eye: severe visual impairment, Lesser eye: severe visual impairment"
+F4923,"Better eye: moderate visual impairment, Lesser eye: low vision unspecified"
+F4924,"Better eye: moderate visual impairment, Lesser eye: severe visual impairment"
+F4925,"Better eye: moderate visual impairment, Lesser eye: moderate visual impairment"
+F492z,"Low vision, both eyes NOS"
+F491.,"Better eye: low vision, Lesser eye: profound visual impairment"
+F4910,"One eye blind, one eye low vision"
+F4911,"Better eye: severe visual impairment, Lesser eye: blind, unspecified"
+F4912,"Better eye: severe visual impairment, Lesser eye: total visual impairment"
+F4913,"Better eye: severe visual impairment, Lesser eye: near total visual impairment"
+F4914,"Better eye: severe visual impairment, Lesser eye: profound visual impairment"
+F4915,"Better eye: moderate visual impairment, Lesser eye: blind, unspecified"
+F4916,"Better eye: moderate visual impairment, Lesser eye: total visual impairment"
+F4917,"Better eye: moderate visual impairment, Lesser eye: near total visual impairment"
+F4918,"Better eye: moderate visual impairment, Lesser eye: profound visual impairment"
+F491z,"One eye blind, one eye low vision NOS"
+F496.,"Low vision, one eye"
+F4960,"Low vision, one eye, unspecified"
+F4961,"Lesser eye: severe visual impairment, Better eye: unspecified"
+F4962,"Lesser eye: severe visual impairment, Better eye: near normal vision"
+F4963,"Lesser eye: severe visual impairment, Better eye: normal vision"
+F4964,"Lesser eye: moderate visual impairment, Better eye: unspecified"
+F4965,"Lesser eye: moderate visual impairment, Better eye: near normal vision"
+F4966,"Lesser eye: moderate visual impairment, Better eye: normal vision"
+F496z,"Low vision, one eye NOS"
+X75bQ,Weak vision
+XaPen,Impaired vision due to diabetic retinopathy
+F493.,"Visual loss, both eyes unqualified"
+F495.,"Profound impairment, one eye"
+F4951,"Lesser eye: total visual impairment, Better eye: unspecified"
+F4952,"Lesser eye: total visual impairment, Better eye: near normal vision"
+F4953,"Lesser eye: total visual impairment, Better eye: normal vision"
+F4954,"Lesser eye: near total visual impairment, Better eye: unspecified"
+F4955,"Lesser eye: near total visual impairment, Better eye: near normal vision"
+F4956,"Lesser eye: near total visual impairment, Better eye: normal vision"
+F4957,"Lesser eye: profound visual impairment, Better eye: unspecified"
+F4958,"Lesser eye: profound visual impairment, Better eye: near normal vision"
+F4959,"Lesser eye: profound visual impairment, Better eye: normal vision"
+F495z,Profound impairment one eye NOS
+F49y.,"Visual loss, one eye, unqualified"
+XE16M,Visual loss NOS
+XE193,Blind or low vision - one eye only
+XE195,Blindness or low vision NOS

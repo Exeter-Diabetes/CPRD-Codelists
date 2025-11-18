@@ -1,0 +1,33 @@
+﻿Code,Description
+14N41,H/O: lower limb amputation
+2G42.,O/E - Amputated right leg
+2G43.,O/E - Amputated left leg
+2G44.,O/E - Amputated right above knee
+2G45.,O/E - Amputated left above knee
+2G46.,O/E - Amputated right below knee
+2G4A.,O/E - amputated left midfoot
+2G4B.,O/E - amputated right midfoot
+7L06.,Amputation of leg
+7L060,Hindquarter amputation
+7L061,Disarticulation of hip
+7L062,Amputation above knee
+7L063,Amputation through knee
+7L064,Amputation below knee
+7L06y,Other specified amputation of leg
+7L06z,Amputation of leg NOS
+7L07.,Amputation of foot
+7L070,Amputation through ankle
+7L071,Disarticulation of tarsal bones
+7L072,Disarticulation tarsometatarsal joint
+7L073,Amputation through metatarsal bones
+7L07y,Other specified amputation of foot
+7L07z,Amputation of foot NOS
+7L08.,Amputation of toe
+7L080,Amputation hallux
+7L081,Amputation of phalanx of toe
+7L082,Proximal hemiphalangectomy of toe
+7L083,Amputation lesser toe
+7L084,Terminalisation of hallux
+7L085,Terminalisation of lesser toe
+7L08y,Other specified amputation of toe
+7L08z,Amputation of toe NOS

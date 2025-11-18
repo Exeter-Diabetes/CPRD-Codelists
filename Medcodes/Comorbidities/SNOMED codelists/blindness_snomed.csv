@@ -1,0 +1,108 @@
+﻿Code,Description
+105597003#,Blindness AND/OR vision impairment level (disorder)
+111518009#,"Impairment level: better eye: severe impairment: lesser eye: blind, not further specified (disorder)"
+163946009#,On examination - right eye completely blind (disorder)
+163960006#,On examination - left eye completely blind (disorder)
+16931000000106#,Certification of blindness - Scotland (procedure)
+170727003#,Registered blind (finding)
+183361009#,Blind rehabilitation (regime/therapy)
+193699007#,Blindness - both eyes (disorder)
+193709009#,Acquired blindness of bilateral eyes (disorder)
+193712007#,"One eye blind, one eye low vision (disorder)"
+225569001#,Painful blind eye (disorder)
+22950006#,Blindness of one eye (disorder)
+23653003#,Traumatic blindness (disorder)
+243113006#,Blind and partially sighted rehabilitation - employment placement (regime/therapy)
+2457001#,Blind rehabilitation therapy (regime/therapy)
+2481000000102#,England and Wales blind certification (procedure)
+2501000000106#,Scottish partially sighted certification - blindness likely over 16 (procedure)
+264008#,Blind hypertensive eye (disorder)
+267727004#,Blind or low vision - both eyes (disorder)
+267728009#,Blind or low vision - one eye only (disorder)
+274571007#,Blind left eye (disorder)
+274572000#,Blind right eye (disorder)
+310418000#,Blindness certification (procedure)
+343021000119100#,"Blind right eye, normal vision left eye (disorder)"
+343031000119102#,"Blind right eye, low vision left eye (disorder)"
+343041000119106#,"Blind left eye, normal vision right eye (disorder)"
+343051000119108#,"Blind left eye, low vision right eye (disorder)"
+374691000000100#,Excluded from diabetic retinopathy screening as blind (finding)
+408318008#,On examination - pinhole left eye completely blind (finding)
+408322003#,On examination - pinhole right eye completely blind (finding)
+65956007#,Legal blindness (disorder)
+829979008#,Complete blindness of right eye (disorder)
+829980006#,Complete blindness of left eye (disorder)
+862731000000105#,Uses guide dog for the blind (finding)
+727391000000102#,Certificate of vision impairment (record artifact)
+765178008#,Total visual and total hearing impairment (disorder)
+830270002#,Complete pinhole blindness of left eye (disorder)
+830271003#,Complete pinhole blindness of right eye (disorder)
+60991000119100#,Blindness due to type 1 diabetes mellitus (disorder)
+60951000119105#,Blindness due to type 2 diabetes mellitus (disorder)
+361122008#,Impairment level of vision (disorder)
+204148008#,Congenital corneal opacity with visual deficit (disorder)
+68777001#,Impairment level of both eyes (disorder)
+75133003#,Impairment level: moderate impairment of both eyes (disorder)
+38465001#,Impairment level: near-total impairment of both eyes (disorder)
+36676002#,Impairment level: profound impairment of both eyes (disorder)
+86643000#,Impairment level: severe impairment of both eyes (disorder)
+88768004#,Impairment level: total impairment of both eyes (disorder)
+232150003#,Partial sight - both eyes (disorder)
+193722001#,"Low vision, both eyes (disorder)"
+334311000119108#,"Low vision left eye, normal vision right eye (disorder)"
+339911000119106#,"Low vision right eye, normal vision left eye (disorder)"
+422189002#,Low vision with acquired immunodeficiency syndrome (disorder)
+193745007#,"Low vision, one eye (disorder)"
+421293001#,Unexplained visual loss (disorder)
+371060002#,Visual loss after cataract extraction (disorder)
+15203004#,Sudden visual loss (disorder)
+331791000119103#,Transient visual loss of right eye (disorder)
+331921000119103#,Sudden visual loss of right eye (disorder)
+337411000119105#,Transient visual loss of left eye (disorder)
+337541000119105#,Sudden visual loss of left eye (disorder)
+343201000119104#,Transient visual loss of bilateral eyes (disorder)
+343331000119104#,Sudden visual loss of bilateral eyes (disorder)
+566991000000106#,Visual loss NOS (finding)
+2531000000100#,Registered partially blind
+2491000000100#,Scottish - blind certification
+65943000#,Blind and partially sighted rehabilitation
+16951000000104#,Scottish partially sighted certification - blindness likely before 16
+397540003#,Visual impairment
+218951000119100#,Bilateral visual impairment (disorder)
+8771000119104#,Bilateral moderate to severe visual impairment (disorder)
+433147009#,Combined visual and hearing impairment (disorder)
+397543001#,Mild visual impairment (disorder)
+815051000000106#,Mild binocular visual impairment (disorder)
+397542006#,Moderate visual impairment (disorder)
+813891000000107#,Moderate binocular visual impairment (disorder)
+813901000000108#,Moderate monocular visual impairment (disorder)
+404191001#,Multiple disability visual impairment (disorder)
+1119525005#,Non-progressive visual impairment (disorder)
+1119527002#,Progressive visual impairment (disorder)
+397541004#,Severe visual impairment (disorder)
+813871000000108#,Severe binocular visual impairment (disorder)
+813881000000105#,Severe monocular visual impairment (disorder)
+713531003#,Visual impairment co-occurrent with human immunodeficiency virus infection (disorder)
+413924001#,Cortical visual impairment (disorder)
+492361000000106#,Referral to visual impairment multidisciplinary team (procedure)
+193711000#,"Better eye: low vision, Lesser eye: profound visual impairment (disorder)"
+193707006#,"Better eye: profound visual impairment, Lesser eye: near total visual impairment (disorder)"
+193718006#,"Better eye: moderate visual impairment, Lesser eye: total visual impairment (disorder)"
+193725004#,"Better eye: severe visual impairment, Lesser eye: severe visual impairment (disorder)"
+193727007#,"Better eye: moderate visual impairment, Lesser eye: severe visual impairment (disorder)"
+193728002#,"Better eye: moderate visual impairment, Lesser eye: moderate visual impairment (disorder)"
+193735005#,"Lesser eye: total visual impairment, Better eye: near normal vision (disorder)"
+193736006#,"Lesser eye: total visual impairment, Better eye: normal vision (disorder)"
+193738007#,"Lesser eye: near total visual impairment, Better eye: near normal vision (disorder)"
+450575009#,Registration of visual impairment (procedure)
+193704004#,"Better eye: near total visual impairment, Lesser eye: near total visual impairment (disorder)"
+193708001#,"Better eye: profound visual impairment, Lesser eye: profound visual impairment (disorder)"
+193714008#,"Better eye: severe visual impairment, Lesser eye: total visual impairment (disorder)"
+193719003#,"Better eye: moderate visual impairment, Lesser eye: near total visual impairment (disorder)"
+193741003#,"Lesser eye: profound visual impairment, Better eye: near normal vision (disorder)"
+193748009#,"Lesser eye: severe visual impairment, Better eye: near normal vision (disorder)"
+193703005#,"Better eye: near total visual impairment, Lesser eye: total visual impairment (disorder)"
+193749001#,"Lesser eye: severe visual impairment, Better eye: normal vision (disorder)"
+193751002#,"Lesser eye: moderate visual impairment, Better eye: near normal vision (disorder)"
+193720009#,"Better eye: moderate visual impairment, Lesser eye: profound visual impairment (disorder)"
+193716005#,"Better eye: severe visual impairment, Lesser eye: profound visual impairment (disorder)"

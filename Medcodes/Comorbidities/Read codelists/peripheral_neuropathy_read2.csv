@@ -1,0 +1,147 @@
+﻿Code,Description
+1M8..#,diabetic peripheral neuropathic pain
+C106.#,diabetes mellitus with neuropathy
+C108B#,insulin dependent diabetes mellitus with mononeuropathy
+C108C#,insulin dependent diabetes mellitus with polyneuropathy
+C108J#,insulin dependent diab mell with neuropathic arthropathy
+C109A#,non-insulin dependent diabetes mellitus with mononeuropathy
+C109B#,non-insulin dependent diabetes mellitus with polyneuropathy
+C109H#,non-insulin dependent d m with neuropathic arthropathy
+C10EB#,type 1 diabetes mellitus with mononeuropathy
+C10EC#,type 1 diabetes mellitus with polyneuropathy
+C10EJ#,type 1 diabetes mellitus with neuropathic arthropathy
+C10FA#,type 2 diabetes mellitus with mononeuropathy
+C10FB#,type 2 diabetes mellitus with polyneuropathy
+C10FH#,type 2 diabetes mellitus with neuropathic arthropathy
+F170.#,idiopathic peripheral autonomic neuropathy
+F170z#,idiopathic peripheral autonomic neuropathy nos
+F171.#,peripheral autonomic neuropathy disease ec
+F1711#,autonomic neuropathy due to diabetes
+F171z#,peripheral autonomic neuropathy due to disease nos
+F3561#,morton's neuralgia
+F364.#,idiopathic progressive polyneuropathy
+F366.#,polyneuropathy
+F367.#,peripheral neuropathy
+F36y.#,other idiopathic peripheral neuropathy
+F36yz#,other idiopathic peripheral neuropathy nos
+F36z.#,hereditary or idiopathic peripheral neuropathy nos
+F37..#,inflammatory and toxic neuropathy
+F371.#,polyneuropathy in collagen vascular disease
+F3710#,polyneuropathy in disseminated lupus erythematosus
+F3711#,polyneuropathy in polyarteritis nodosa
+F371z#,polyneuropathy in collagen vascular disease nos
+F372.#,polyneuropathy in diabetes
+F3720#,acute painful diabetic neuropathy
+F3721#,chronic painful diabetic neuropathy
+F373.#,polyneuropathy in malignant disease
+F3740#,polyneuropathy in amyloidosis
+F3741#,polyneuropathy in beriberi
+F3742#,polyneuropathy in vitamin b deficiency
+F3743#,polyneuropathy in diphtheria
+F3744#,polyneuropathy in herpes zoster
+F3745#,polyneuropathy in hypoglycaemia
+F3746#,polyneuropathy in mumps
+F3748#,polyneuropathy in porphyria
+F3749#,polyneuropathy in sarcoidosis
+F374A#,polyneuropathy in uraemia
+F375.#,alcoholic polyneuropathy
+F376.#,polyneuropathy due to drugs
+F377.#,other toxic agent polyneuropathy
+F37y.#,other toxic or inflammatory neuropathy
+F3y0.#,diabetic mononeuropathy
+Fyu13#,[x]paraneoplastic neuromyopathy and neuropathy
+Fyu6B#,[x]other mononeuropathies of lower limb
+Fyu6C#,[x]other specified mononeuropathies
+Fyu6D#,[x]other mononeuropathies in diseases classified elsewhere
+Fyu7.#,[x]polyneuropathies &amp; other disord of peripheral nerv syst
+Fyu70#,[x]other hereditary and idiopathic neuropathies
+Fyu72#,[x]other specified polyneuropathies
+Fyu75#,[x]polyneuropathy/other endocrine+metabolic diseases ce
+Fyu78#,[x]polyneuropathy/other musculoskeletal disorders ce
+FyuAC#,[x]autonomic neuropathy/endocrine+metabolic diseases ce
+FyuJ1#,[X]Retrobulbar neuritis in diseases classified elsewhere
+M2711#,neuropathic diabetic ulcer - foot
+M2717#,neuropathic foot ulcer
+N035.#,neuropathic arthropathy
+SD722#,neuropathic foot blister
+XC0eJ#,Neuropathy
+X00AZ#,Neuropathies and neuromyelopathies associated with systemic disorder
+X00Ag#,Diabetic neuropathy
+XE15k#,Diabetic polyneuropathy
+X00Ah#,Diabetic distal sensorimotor polyneuropathy
+X00Ai#,Diabetic acute painful polyneuropathy
+X00Aj#,Diabetic chronic painful polyneuropathy
+X00Ak#,Diabetic asymmetric polyneuropathy
+X00Al#,Diabetic mononeuropathy
+XaPmW#,Diabetic femoral mononeuropathy
+X00Am#,Diabetic truncal radiculopathy
+X00An#,Diabetic thoracic radiculopathy
+XaXbW#,Symptomatic diabetic peripheral neuropathy
+F3450#,Diabetic mononeuritis multiplex
+F35z0#,Diabetic mononeuritis NOS
+F3722#,Asymptomatic diabetic neuropathy
+Fyu79#,[X]Polyneuropathy in other diseases classified elsewhere
+Fyu7C#,"[X]Polyneuropathy, unspecified"
+Xa7m5#,Polyneuritis
+XaB3q#,Polyneuropathy unspecified
+XC0eO#,Occult neuropathy
+Xa8Hz#,Polyneuropathy and mononeuropathy
+XaA1H#,Mononeuropathy
+F34..#,Mononeuritis of upper limb and mononeuritis multiplex
+XE15i#,Mononeuritis of unspecified site NOS
+X00B8#,Ischaemic neuropathy
+X00B9#,Neuropathy in arteriosclerotic occlusive disease
+X00BA#,Neuropathy in thromboangiitis obliterans
+F345.#,Mononeuritis multiplex
+XaBtQ#,Symmetrical sensory neuropathy
+X00CH#,Axonal sensorimotor neuropathy
+X00Af#,Neuropathy associated with endocrine disorder
+X00CF#,Chronic neuropathy with no known cause or association
+XaYCC#,Absent light touch sensation right foot
+XaYCA#,Absent light touch sensation left foot
+XaBLA#,Pin prick sensation of right foot abnormal
+XaBLB#,Pin prick sensation of left foot abnormal
+XaIeD#,10g monofilament sensation R foot abnormal
+XaIeE#,10g monofilament sensation L foot abnormal
+XaIRF#,10g monofilament sensation absent
+XaLAD#,10g monofilament sensation plantar aspect of great toe left foot absent
+XaLAE#,10g monofilament sensation plantar aspect of middle toe right foot absent
+XaLAF#,10g monofilament sensation plantar aspect of middle toe left foot absent
+XaLAG#,10g monofilament sensation plantar aspect of little toe right foot absent
+XaLAH#,10g monofilament sensation plantar aspect of little toe left foot absent
+XaLAI#,10g monofilament sensation plantar aspect of first metatarsal head right foot absent
+XaLAJ#,10g monofilament sensation plantar aspect of first metatarsal head left foot absent
+29B21#,O/E - anaesthesia of extremities
+29B20#,O/E - anaesthesia in legs
+XaBti#,Numbness of foot
+XaBtj#,Numbness of toe
+XaBth#,Numbness of lower limb
+XaIpK#,Sensory disturbance in limb
+C1060#,"Diabetes mellitus, juvenile, + neurological manifestation"
+C1061#,"Diabetes mellitus, adult onset, + neurological manifestation"
+C106y#,Other specified diabetes mellitus with neurological comps
+C106z#,Diabetes mellitus NOS with neurological manifestation
+C1082#,Insulin-dependent diabetes mellitus with neurological comps
+C1092#,Non-insulin-dependent diabetes mellitus with neuro comps
+C10E2#,Type 1 diabetes mellitus with neurological complications
+C10F2#,Type 2 diabetes mellitus with neurological complications
+F35..#,Mononeuritis lower limb
+F35x.#,Other mononeuritis lower limb
+F35y.#,Unspecified mononeuritis lower limb
+F374.#,Polyneuropathy in disease EC
+F374z#,Polyneuropathy in disease NOS
+F37X.#,"Inflammatory polyneuropathy, unspecified"
+F37y1#,Axonal sensorimotor neuropathy
+F37z.#,Toxic or inflammatory neuropathy NOS
+F3y..#,Other specified disorders of peripheral nervous system
+F3z..#,Peripheral nervous system disorder NOS
+Fyu7B#,"[X]Inflammatory polyneuropathy, unspecified"
+29B8.#,10g monofilament sensation absent
+29B9.#,10g monofilament sensation R foot abnormal
+29BA.#,10g monofilament sensation L foot abnormal
+29H4.#,O/E - Vibration sense of right foot abnormal
+29H6.#,O/E - Vibration sense of left foot abnormal
+29H8.#,O/E - vibration sense left foot reduced
+29H9.#,O/E - vibration sense right foot reduced
+29HA.#,O/E - Vibration sense of right foot absent
+29HB.#,O/E - Vibration sense of left foot absent

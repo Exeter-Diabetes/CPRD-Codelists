@@ -1,0 +1,84 @@
+﻿Code,Description
+2B6A.,O/E - blind R-eye
+2B6B.,O/E - R-eye completely blind
+2B6S.,O/E - pinhole R-eye completely blind
+2B7A.,O/E - blind L-eye
+2B7B.,O/E - L-eye completely blind
+2B7S.,O/E - pinhole L-eye completely blind
+6688.#,Registered partially sighted
+6689.#,Registered blind
+668C.#,Certificate of vision impairment
+8F6..,Blind rehabilitation
+8F61.,8F61
+8F62.,Blind lead dog rehabilitation
+9m08.,Excluded from diabetic retinopathy screening as blind
+F49..,Blindness and low vision
+F490.,"Blindness, both eyes"
+F4900,Unspecified blindness both eyes
+F4902,"Better eye: near total VI, Lesser eye: unspecified"
+F4903,"Better eye: near total VI, Lesser eye: total VI"
+F4904,"Better eye: near total VI, Lesser eye: near total VI"
+F4905,"Better eye: profound VI, Lesser eye: unspecified"
+F4906,"Better eye: profound VI, Lesser eye: total VI"
+F4907,"Better eye: profound VI, Lesser eye: near total VI"
+F4908,"Better eye: profound VI, Lesser eye: profound VI"
+F4909,"Acquired blindness, both eyes"
+F490z,Blindness both eyes NOS
+F491.,"Better eye: low vision, Lesser eye: profound VI"
+F4910,"One eye blind, one eye low vision"
+F4911,"Better eye: severe VI, Lesser eye: blind, unspecified"
+F4912,"Better eye: severe VI, Lesser eye: total VI"
+F4913,"Better eye: severe VI, Lesser eye: near total VI"
+F4914,"Better eye: severe VI, Lesser eye: profound VI"
+F4915,"Better eye: moderate VI, Lesser eye: blind, unspecified"
+F4916,"Better eye: moderate VI, Lesser eye: total VI"
+F4917,"Better eye: moderate VI, Lesser eye: near total VI"
+F4918,"Better eye: moderate VI, Lesser eye: profound VI"
+F491z,"One eye blind, one eye low vision NOS"
+F492.,"Low vision, both eyes"
+F4920,"Low vision, both eyes unspecified"
+F4921,"Better eye: severe VI, Lesser eye: low vision unspecified"
+F4922,"Better eye: severe VI, Lesser eye: severe VI"
+F4923,"Better eye: moderate VI, Lesser eye: low vision unspecified"
+F4924,"Better eye: moderate VI, Lesser eye: severe VI"
+F4925,"Better eye: moderate VI, Lesser eye: moderate VI"
+F492z,"Low vision, both eyes NOS"
+F493.,"Visual loss, both eyes unqualified"
+F495.,"Profound impairment, one eye"
+F4950,"Blindness, one eye, unspecified"
+F4951,"Lesser eye: total visual impairment, Better eye: unspecified"
+F4952,"Lesser eye: total VI, Better eye: near normal vision"
+F4953,"Lesser eye: total VI, Better eye: normal vision"
+F4954,"Lesser eye: near total VI, Better eye: unspecified"
+F4955,"Lesser eye: near total VI, Better eye: near normal vision"
+F4956,"Lesser eye: near total VI, Better eye: normal vision"
+F4957,"Lesser eye: profound VI, Better eye: unspecified"
+F4958,"Lesser eye: profound VI, Better eye: near normal vision"
+F4959,"Lesser eye: profound VI, Better eye: normal vision"
+F495A,"Acquired blindness, one eye"
+F495z,Profound impairment one eye NOS
+F496.,"Low vision, one eye"
+F4960,"Low vision, one eye, unspecified"
+F4961,"Lesser eye: severe VI, Better eye: unspecified"
+F4962,"Lesser eye: severe VI, Better eye: near normal vision"
+F4963,"Lesser eye: severe VI, Better eye: normal vision"
+F4964,"Lesser eye: moderate VI, Better eye: unspecified"
+F4965,"Lesser eye: moderate VI, Better eye: near normal vision"
+F4966,"Lesser eye: moderate VI, Better eye: normal vision"
+F496z,"Low vision, one eye NOS"
+F49y.,"Visual loss, one eye, unqualified"
+F49z.,Visual loss NOS
+8F63.,Instruction in braille/moon
+F4041,Blind hypotensive eye
+F4042,Blind hypertensive eye
+F4901,Both eyes total visual impairment
+F494.,Legal blindness USA
+F497.,"Severe visual impairment, binocular"
+F498.,"Moderate visual impairment, binocular"
+F499.,"Mild or no visual impairment, binocular"
+F49A.,"Blindness, monocular"
+F49B.,"Severe visual impairment, monocular"
+F49C.,"Moderate visual impairment, monocular"
+F49D.,Visual impairment
+SJ0z.,Blindness - traumatic - NOS
+1a000,Uses guide dog for the blind
