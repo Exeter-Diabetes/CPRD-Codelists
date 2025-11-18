@@ -533,6 +533,7 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 5109611000006116	1014	^ESCTMO510961	NA	MODY - Maturity onset diabetes in youth type 2	237604008	356086011	NA	32	mody
 5109621000006112	145	^ESCTMO510962	NA	MODY - Maturity onset diabetes glucokinase-related	237604008	356087019	NA	32	mody
 7500191000006118	75	^ESCTMA750019	NA	Maturity onset diabetes of the young, type 1	609562003	2967867012	NA	32	mody
+14628111000006115	24	^ESCT1462811	NA	GCK (glucokinase) monogenic diabetes mellitus	237604008	4635913019	NA	32	mody
 7500201000006115	1	^ESCTMO750020	NA	MODY1	609562003	2967828018	NA	32	mody
 5109581000006112	NA	^ESCTMA510958	NA	Maturity onset diabetes in youth type II	237604008	356083015	NA	32	mody
 7500341000006113	NA	^ESCTMO750034	NA	MODY5 - maturity-onset diabetes of the young type 5	609572000	3435008016	NA	32	mody
@@ -1595,7 +1596,6 @@ MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	
 14500411000006110	471	^ESCT1450041	NA	Haemoglobin A1c less than 7 percent indicating good diabetic control	165679005	4578225017	NA	11	unspecified
 14500421000006119	637	^ESCT1450042	NA	Haemoglobin A1c between 7 percent to 10 percent indicating borderline diabetic control	165680008	4578415013	NA	11	unspecified
 14500431000006116	178	^ESCT1450043	NA	Haemoglobin A1c greater than 10 percent indicating poor diabetic control	165681007	4578059010	NA	11	unspecified
-14628111000006115	24	^ESCT1462811	NA	GCK (glucokinase) monogenic diabetes mellitus	237604008	4635913019	NA	32	mody
 14667031000006117	11120	^ESCT1466703	NA	Diabetic retinopathy screening declined	413122001	4590655014	NA	32	unspecified
 14691221000006117	2	^ESCT1469122	NA	Problem Areas in Diabetes score	1363101000000107	2853051000000115	NA	32	unspecified
 14765381000006118	18	^ESCT1476538	NA	Diabetic neurotrophic keratitis	1217674007	5037021010	NA	32	unspecified
