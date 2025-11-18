@@ -1,4 +1,5 @@
 OPCS4	Term_description	
-X09x	amputation of leg (including hindquarter)	
-X10x	amputation of foot	
-X11x	amputation of toe	
+X09	amputation of leg (including hindquarter)	
+X10	amputation of foot	
+X11	amputation of toe	
+
