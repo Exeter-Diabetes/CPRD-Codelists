@@ -1,7 +1,0 @@
-ICD10	Term_description
-H35.0	Background retinopathy and retinal vascular changes
-E11.3	Type 2 diabetes mellitus with ophthalmic complications
-E10.3	Type 1 diabetes mellitus with ophthalmic complications 
-E14.3	Unspecified diabetes mellitus with ophthalmic complications   
-E13.5	Other specified diabetes mellitus with peripheral circulatory complications   
-H36.0	Diabetic retinopathy
