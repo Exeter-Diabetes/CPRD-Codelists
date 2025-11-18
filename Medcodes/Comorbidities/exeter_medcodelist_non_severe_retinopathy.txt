@@ -1,0 +1,157 @@
+MedCodeId	Term	SnomedCTConceptId
+8043621000006117	Mild nonproliferative retinopathy due to type 2 diabetes mellitus	138911000119106
+8043631000006119	Moderate nonproliferative retinopathy due to type 2 diabetes mellitus	138921000119104
+7969151000006110	Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus	1551000119108
+255335015	O/E - retinal microaneurysms	163986001
+4573141000006115	On examination - retinal microaneurysms	163986001
+255337011	O/E - retinal haemorrhages	163987005
+4573161000006116	O/E - retinal hemorrhages	163987005
+255338018	O/E - retinal exudates	163988000
+255339014	On examination - retinal vascular proliferation	163989008
+297755010	Advanced diabetic maculopathy	193350004
+14071371000006113	Advanced maculopathy due to diabetes mellitus	193350004
+297764017	Renal retinopathy	193357001
+347657010	Diabetic maculopathy	232020009
+12221251000006114	Maculopathy due to diabetes mellitus	232020009
+14072591000006111	Disorder of macula due to diabetes mellitus	232020009
+5240591000006112	Photocoagulation scars	247193008
+42768011	Exudative retinopathy	25506007
+42770019	Coat's syndrome	25506007
+297753015	Other retinal disorders	29555009
+297762018	Retinal disorder	29555009
+297769010	Retinal vascular appearance change NOS	29555009
+297778016	Other background retinopathy NOS	29555009
+297781014	Other specified other proliferative retinopathy	29555009
+297877017	Other retinal disorder NOS	29555009
+297878010	Retinal disorder NOS	29555009
+299479015	[X]Other specified retinal disorders	29555009
+299480017	[X]Other retinal disorders in diseases classified elsewhere	29555009
+399429017	Retinal detachments and defects	29555009
+399430010	Other background retinopathy	29555009
+16841000006115	Other retinal disorders	29555009
+703191000006114	Microvascular retinal changes	29555009
+2975231000006117	Retinal disease	29555009
+2975241000006110	Retinopathy	29555009
+5990541000006113	Advanced retinal disease	309594000
+455408014	Advanced diabetic retinal disease	311782002
+14077471000006114	Advanced retinal disease due to diabetes mellitus	311782002
+6020121000006112	Panretinal photocoagulation	312713003
+6020131000006110	Scatter retinal photocoagulation	312713003
+6020141000006117	PRP	312713003
+6020151000006115	Panretinal laser photocoagulation	312713003
+6020161000006118	Scatter retinal laser photocoagulation	312713003
+6022851000006114	Clinically significant macular oedema	312911008
+6022861000006111	Clinically significant macular edema	312911008
+6022871000006116	Clinically significant diabetic macular oedema	312911008
+6022901000006116	CSME - Clinically significant macular oedema	312911008
+6022911000006118	CSME - Clinically significant macular edema	312911008
+6022921000006114	Diabetic macular oedema	312912001
+6022931000006112	Diabetic macular edema	312912001
+13810181000006111	Macular oedema due to diabetes mellitus	312912001
+2164671014	Maculopathy	312999006
+1780341000006110	Maculopathy	312999006
+6024141000006111	Disorder of macula of retina	312999006
+6024151000006113	Macular disease	312999006
+6024161000006110	Macular disorder	312999006
+6041331000006116	Diffuse diabetic maculopathy	314010006
+14077851000006118	Diffuse exudative maculopathy due to diabetes mellitus	314010006
+6041341000006114	Focal diabetic maculopathy	314011005
+12224911000006115	Focal exudative diabetic maculopathy	314011005
+14077861000006116	Focal exudative maculopathy due to diabetes mellitus	314011005
+6041411000006117	Ischaemic diabetic maculopathy	314014002
+6041421000006113	Ischemic diabetic maculopathy	314014002
+14077871000006111	Ischaemic maculopathy due to diabetes mellitus	314014002
+6041431000006111	Mixed diabetic maculopathy	314015001
+12224971000006112	Mixed maculopathy due to diabetes mellitus	314015001
+297770011	Retinal microaneurysm	34037000
+3048141000006112	Retinal microaneurysms	34037000
+13769841000006118	Microaneurysm of retinal artery	34037000
+8120431000006115	Mild nonproliferative retinopathy due to secondary diabetes mellitus	368711000119106
+733161000000116	Impaired vision due to diabetic retinopathy	373041000000101
+1484887015	O/E - diabetic maculopathy present both eyes	390854003
+6515451000006111	On examination - diabetic maculopathy present both eyes	390854003
+1488434016	O/E - Laser photocoagulation scars	394718001
+6546981000006111	On examination - Laser photocoagulation scars	394718001
+6630561000006115	Diabetic macular oedema not clinically significant	399864000
+6630571000006110	Diabetic macular edema not clinically significant	399864000
+12300391000006115	Macular oedema not clinically significant with diabetes mellitus	399864000
+6630701000006110	Visually threatening diabetic retinopathy	399871005
+6760411000006117	O/E - retinopathy	408311002
+2159876015	O/E - referable retinopathy	408312009
+934251000006110	O/E - non-referable retinopathy	408313004
+2159973010	O/E - right eye background diabetic retinopathy	408409007
+6761781000006114	On examination - right eye background diabetic retinopathy	408409007
+2159974016	O/E - left eye background diabetic retinopathy	408410002
+6761801000006113	On examination - left eye background diabetic retinopathy	408410002
+2474726011	Pan retinal photocoagulation for diabetes	413180006
+6837961000006116	Panretinal photocoagulation for diabetes	413180006
+2549896013	O/E - sight threatening diabetic retinopathy	417677008
+938301000006114	Exudative maculopathy with type 1 diabetes mellitus	420486006
+938311000006112	Type I diabetes mellitus with exudative maculopathy	420486006
+6954991000006112	Exudative maculopathy associated with type I diabetes mellitus	420486006
+14083771000006118	Exudative maculopathy due to type 1 diabetes mellitus	420486006
+84441000006110	Type 1 diabetes mellitus with retinopathy	420789003
+84811000006114	Type I diabetes mellitus with retinopathy	420789003
+913661000006118	Retinopathy with type 1 diabetes mellitus	420789003
+913671000006113	Type I diabetes mellitus with retinopathy	420789003
+14083831000006112	Retinopathy due to type 1 diabetes mellitus	420789003
+938321000006116	Exudative maculopathy associated with type 2 diabetes mellitus	421779007
+938331000006118	Exudative maculopathy with type 2 diabetes mellitus	421779007
+6977971000006119	Exudative maculopathy associated with type II diabetes mellitus	421779007
+14084001000006112	Exudative maculopathy due to type 2 diabetes mellitus	421779007
+84621000006117	Type 2 diabetes mellitus with retinopathy	422034002
+84991000006112	Type II diabetes mellitus with retinopathy	422034002
+641581000006115	Non-insulin-dependent diabetes mellitus with retinopathy	422034002
+914151000006112	Retinopathy with type 2 diabetes mellitus	422034002
+914161000006114	Type II diabetes mellitus with retinopathy	422034002
+6982521000006119	Diabetes type 2 with retinopathy	422034002
+14084061000006113	Retinopathy due to type 2 diabetes mellitus	422034002
+9093013	Diabetic retinopathy	4855003
+297758012	Diabetic retinopathy NOS	4855003
+169731000006118	Retinal abnormality - diabetes-related	4855003
+771411000006117	Insulin dependent diabetes mellitus with retinopathy	4855003
+913651000006115	Insulin dependent diabetes mellitus with retinopathy	4855003
+2576431000006117	DR - Diabetic retinopathy	4855003
+12166111000006116	Retinopathy due to diabetes mellitus	4855003
+8019521000006112	Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus	60961000119107
+7841331000006118	Background retinopathy due to impaired glucose regulation	723169001
+12085071000006114	Mild nonproliferative diabetic retinopathy of right eye	769183005
+12085081000006112	Mild non proliferative retinopathy of right eye	769183005
+12085091000006110	Mild non-proliferative diabetic retinopathy of right eye	769183005
+12085101000006116	Mild nonproliferative retinopathy of right eye	769183005
+12085121000006114	Mild nonproliferative diabetic retinopathy of left eye	769184004
+12085131000006112	Mild nonproliferative retinopathy of left eye	769184004
+12085141000006119	Mild non-proliferative diabetic retinopathy of left eye	769184004
+12085161000006115	Mild non proliferative retinopathy of left eye	769184004
+12085211000006112	Moderate nonproliferative diabetic retinopathy of left eye	769186002
+12085231000006118	Moderate non-proliferative diabetic retinopathy of left eye	769186002
+12085241000006111	Moderate nonproliferative retinopathy of left eye due to diabetes mellitus	769186002
+12085721000006110	Diabetic macular oedema of right eye	769217008
+12085731000006113	Diabetic macular edema of right eye	769217008
+12085761000006116	Diabetic macular oedema of left eye	769218003
+12085791000006112	Diabetic macular edema of left eye	769218003
+12085801000006113	Macular oedema due to type 1 diabetes mellitus	769219006
+12085841000006110	Macular oedema due to type 2 diabetes mellitus	769220000
+2532967014	Clinically significant macular oedema of right eye due to diabetes mellitus	769221001
+12085891000006118	Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus	769221001
+12705021000006112	Clinically significant macular oedema of right eye due to diabetes mellitus	769221001
+2532971012	O/E - left eye clinically significant macular oedema	769222008
+12085921000006112	Clinically significant macular oedema of left eye due to diabetes mellitus	769222008
+12085931000006110	Clinically significant macular oedema of left eye co-occurrent and due to diabetes mellitus	769222008
+2159979014	Maculopathy of right eye with diabetes mellitus	769244003
+12086281000006113	Diabetic maculopathy of right eye	769244003
+14092431000006119	Disorder of right macula due to diabetes mellitus	769244003
+2159980012	Maculopathy of left eye with diabetes mellitus	769245002
+12086321000006119	Maculopathy of left eye due to diabetes mellitus	769245002
+12086331000006116	Diabetic maculopathy of left eye	769245002
+12086341000006114	Disorder of left macula co-occurrent and due to diabetes mellitus	769245002
+14092441000006112	Disorder of left macula due to diabetes mellitus	769245002
+12102571000006117	Clinically significant macular oedema with diabetes mellitus	770097006
+12102611000006110	Clinically significant macular oedema due to diabetes mellitus	770097006
+8242331000006114	Diabetic retinopathy detected by national screening programme	775841000000109
+13488541000006117	Nonproliferative retinopathy of left eye due to diabetes mellitus	816177009
+13488551000006115	Nonproliferative retinopathy of right eye due to diabetes mellitus	816178004
+13949711000006112	Diabetic maculopathy of bilateral eyes present	860712005
+13949731000006118	Bilateral maculopathy due to diabetes mellitus present	860712005
+13973601000006116	Centrally involved macular oedema due to diabetes mellitus	871778008
+8030601000006119	Macular oedema and retinopathy due to type 2 diabetes mellitus	97331000119101
