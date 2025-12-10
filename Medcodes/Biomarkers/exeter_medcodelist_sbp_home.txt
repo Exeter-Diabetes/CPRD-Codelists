@@ -1,0 +1,7 @@
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+2533615017	Average home systolic blood pressure	2914327	1	1
+458812014	Average 24 hour systolic blood pressure	305011	1	1
+458809011	Average day interval systolic blood pressure	230100	1	1
+458808015	Average night interval systolic blood pressure	143862	1	1
+298281000000114	Ambulatory systolic blood pressure	105056	1	1
+458803012	Average systolic blood pressure	17405	1	1

@@ -1,0 +1,5 @@
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+114311000006111	Systolic arterial pressure	376512000	1	1
+2159155011	Sitting systolic blood pressure	838125	1	1
+11903371000006115	O/E - Systolic BP reading	147222	1	1
+5527191000006114	Systolic blood pressure	9452	1	1
