@@ -1,0 +1,54 @@
+MedCodeId	Term
+454092018	Diabetic hyperosmolar non-ketotic state
+454093011	HONKS - Diabetic hyperosmolar non-ketotic state
+3330159019	HHS - Hyperosmolar hyperglycemic syndrome
+3330160012	HHS - Hyperosmolar hyperglycaemic syndrome
+14077381000006115	Hyperosmolar non-ketotic state due to diabetes mellitus
+292478012	Other specified diabetes mellitus with ketoacidosis
+292479016	Diabetes mellitus NOS with ketoacidosis
+292489017	Diabetes mellitus NOS with ketoacidotic coma
+2622193012	Diabetes mellitus with ketoacidosis
+881461000006110	Diabetes+ketoacidosis -no coma
+6953861000006110	Diabetic ketoacidosis
+6953871000006115	Ketoacidosis in diabetes mellitus
+6953891000006119	Diabetic acidosis
+6953901000006115	DKA - diabetic ketoacidosis
+292606016	Malnutrition-related diabetes mellitus with ketoacidosis
+616641000006110	Diabetes mellitus, juvenile type, with ketoacidosis
+928501000006119	Ketoacidosis in type 1 diabetes mellitus
+928511000006116	Type I diabetes mellitus with ketoacidosis
+6951091000006110	Diabetes type 1 with ketoacidosis
+14083741000006114	Ketoacidosis due to type 1 diabetes mellitus
+616651000006112	Diabetes mellitus, juvenile type, with ketoacidotic coma
+928521000006112	Ketoacidotic coma in type 1 diabetes mellitus
+928531000006110	Type I diabetes mellitus with ketoacidotic coma
+14083881000006113	Ketoacidotic coma due to type 1 diabetes mellitus
+616531000006116	Diabetes mellitus, adult onset, with ketoacidosis
+928581000006111	Ketoacidosis in type 2 diabetes mellitus
+928591000006114	Type II diabetes mellitus with ketoacidosis
+6977421000006110	Ketoacidosis in type II diabetes mellitus
+6977431000006113	Diabetes type 2 with ketoacidosis
+14083991000006115	Ketoacidosis due to type 2 diabetes mellitus
+616541000006114	Diabetes mellitus, adult onset, with ketoacidotic coma
+928601000006118	Ketoacidotic coma in type 2 diabetes mellitus
+928611000006115	Ketoacidotic coma in type II diabetes mellitus
+12704991000006114	Ketoacidotic coma in type 2 diabetes mellitus
+178798017	Diabetic ketoacidosis without coma
+616381000006111	Diabetes mellitus with ketoacidotic coma
+881471000006115	Diabetes with coma
+14056961000006112	Ketoacidotic coma due to diabetes mellitus
+3514795011	Hyperosmolar hyperglycaemic coma due to diabetes mellitus without ketoacidosis
+292480018	Diabetes mellitus with hyperosmolar coma
+292484010	Hyperosmolar coma associated with diabetes mellitus
+13833601000006113	Hyperosmolar coma due to diabetes mellitus
+1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+1667891000000113	Hyperosmolar non-ketotic state in type II diabetes mellitus
+14079871000006119	Hyperosmolar non-ketotic state due to type 2 diabetes mellitus
+2817479019	Hyperglycaemic crisis in diabetes mellitus
+8120401000006111	Hyperosmolar coma due to secondary diabetes mellitus
+292482014	Diabetes mellitus, juvenile type, with hyperosmolar coma
+292483016	Diabetes mellitus, adult onset, with hyperosmolar coma
+4758011000006112	Type 2 diabetes mellitus with hyperosmolar coma
+14071201000006110	Hyperosmolar coma due to type 2 diabetes mellitus
+14084031000006116	Non-ketotic non-hyperosmolar coma due to diabetes mellitus
