@@ -1,663 +1,535 @@
-ProdCodeId	Term from EMIS
-1173841000033113	Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd)
-1173941000033117	Risperidone 1mg/ml oral solution sugar free
-1176241000033115	Risperdal 1mg tablets (Janssen-Cilag Ltd)
-1176341000033113	Risperdal 2mg tablets (Janssen-Cilag Ltd)
-1176441000033119	Risperdal 3mg tablets (Janssen-Cilag Ltd)
-1176541000033118	Risperdal 4mg tablets (Janssen-Cilag Ltd)
-1176641000033117	Risperidone 1mg tablets
-1176741000033114	Risperidone 2mg tablets
-1176841000033116	Risperidone 3mg tablets
-1176941000033112	Risperidone 4mg tablets
-1177641000033119	Risperdal 6mg tablets (Janssen-Cilag Ltd)
-1177741000033111	Risperidone 6mg tablets
-2188141000033115	Risperdal 500microgram tablets (Janssen-Cilag Ltd)
-2188241000033110	Risperidone 500microgram tablets
-2779841000033118	Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)
-2779941000033114	Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)
-2780041000033113	Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)
-2780141000033112	Risperidone 25mg powder and solvent for suspension for injection vials
-2780241000033117	Risperidone 37.5mg powder and solvent for suspension for injection vials
-2780341000033110	Risperidone 50mg powder and solvent for suspension for injection vials
-2868841000033116	Risperidone 1mg orodispersible tablets sugar free
-2868941000033112	Risperidone 2mg orodispersible tablets sugar free
-2869041000033115	Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd)
-2869141000033116	Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd)
-3246041000033119	Risperidone 500microgram orodispersible tablets sugar free
-3246141000033115	Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd)
-4012041000033116	Risperidone 3mg orodispersible tablets sugar free
-4012141000033117	Risperidone 4mg orodispersible tablets sugar free
-4012241000033112	Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd)
-4012341000033119	Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd)
-13581641000033117	Risperidone 250microgram tablets
-58841000033113	olanzapine
-58941000033117	amisulpride
-59041000033114	amisulpride
-59541000033116	olanzapine
-59641000033115	olanzapine
-59741000033112	olanzapine
-69041000033115	benperidol
-145141000033119	benperidol
-173841000033113	prochlorperazine
-240041000033110	chlorpromazine
-241341000033116	chlorpromazine
-242241000033115	chlorpromazine
-242341000033113	chlorpromazine
-246541000033119	chlorpromazine
-246641000033118	chlorpromazine
-249041000033117	chlorpromazine
-249141000033118	chlorpromazine
-249241000033113	chlorpromazine
-249341000033115	chlorpromazine
-251141000033117	chlorpromazine
-251241000033112	chlorpromazine
-251341000033119	chlorpromazine
-273641000033114	zuclopenthixol
-274841000033112	zuclopenthixol
-276041000033113	zuclopenthixol
-276141000033112	zuclopenthixol
-284941000033113	clozapine
-285041000033113	clozapine
-286941000033115	zuclopenthixol
-287041000033119	zuclopenthixol
-287141000033115	zuclopenthixol
-287541000033112	clozapine
-287641000033113	clozapine
-374641000033115	olanzapine
-374741000033112	olanzapine
-419941000033113	flupentixol
-420041000033111	flupentixol
-420141000033110	flupentixol
-420241000033115	flupentixol
-420341000033113	flupentixol
-420441000033119	flupentixol
-420541000033118	flupentixol
-422941000033113	flupentixol
-423041000033115	flupentixol
-431741000033118	flupentixol
-567141000033111	perphenazine
-570941000033117	perphenazine
-571041000033110	perphenazine
-571141000033114	perphenazine
-582041000033112	fluphenazine
-582141000033111	fluphenazine
-584641000033111	fluphenazine
-584741000033119	fluphenazine
-585041000033116	flupentixol
-585241000033112	flupentixol
-585341000033119	flupentixol
-585541000033114	flupentixol
-586641000033119	fluphenazine
-586741000033111	fluphenazine
-586841000033118	fluphenazine
-586941000033114	fluphenazine
-587641000033116	flupentixol
-587741000033113	fluphenazine
-592041000033111	olanzapine
-593441000033111	flupentixol
-593541000033112	flupentixol
-595441000033112	fluphenazine
-595641000033114	fluphenazine
-595741000033117	fluphenazine
-609341000033114	olanzapine
-658341000033110	haloperidol
-659241000033113	haloperidol
-659441000033114	haloperidol
-659541000033110	haloperidol
-659641000033111	haloperidol
-659741000033119	haloperidol
-659841000033112	haloperidol
-659941000033116	haloperidol
-660041000033118	haloperidol
-660341000033116	haloperidol
-660441000033110	haloperidol
-661341000033112	haloperidol
-661441000033118	haloperidol
-661541000033117	haloperidol
-661641000033116	haloperidol
-662341000033115	haloperidol
-662441000033114	haloperidol
-662541000033110	haloperidol
-663241000033118	haloperidol
-663341000033111	haloperidol
-663441000033117	haloperidol
-663541000033116	haloperidol
-811041000033116	chlorpromazine
-813341000033115	chlorpromazine
-813441000033114	chlorpromazine
-813741000033119	chlorpromazine
-815741000033115	chlorpromazine
-815841000033113	chlorpromazine
-815941000033117	chlorpromazine
-816041000033110	chlorpromazine
-840741000033115	loxapine
-840841000033113	loxapine
-840941000033117	loxapine
-842041000033117	loxapine
-842141000033118	loxapine
-842241000033113	loxapine
-923041000033117	olanzapine
-923241000033113	olanzapine
-924241000033110	fluphenazine
-924341000033117	fluphenazine
-925341000033116	fluphenazine
-925841000033113	fluphenazine
-925941000033117	fluphenazine
-927741000033110	fluphenazine
-927841000033117	fluphenazine
-934041000033116	olanzapine
-934541000033114	olanzapine
-934841000033111	fluphenazine
-936841000033117	olanzapine
-938741000033111	olanzapine
-965041000033112	pericyazine
-965541000033119	pericyazine
-965641000033118	pericyazine
-965741000033110	pericyazine
-981641000033117	levomepromazine
-990841000033110	olanzapine
-1003641000033113	olanzapine
-1003741000033116	olanzapine
-1003841000033114	olanzapine
-1016341000033111	pimozide
-1016441000033117	pimozide
-1016541000033116	pimozide
-1052041000033118	perphenazine
-1063541000033113	pericyazine
-1065141000033117	perphenazine
-1065241000033112	perphenazine
-1065341000033119	perphenazine
-1066741000033111	pericyazine
-1067041000033110	pericyazine
-1067141000033114	pericyazine
-1090841000033118	pimozide
-1090941000033114	pimozide
-1091041000033116	pimozide
-1116541000033114	prochlorperazine
-1116941000033115	prochlorperazine
-1117541000033112	promazine
-1124541000033114	prochlorperazine
-1125741000033117	prochlorperazine
-1125841000033110	prochlorperazine
-1125941000033119	prochlorperazine
-1126041000033112	prochlorperazine
-1127641000033115	prochlorperazine
-1127741000033112	prochlorperazine
-1127841000033119	prochlorperazine
-1128641000033119	prochlorperazine
-1128741000033111	prochlorperazine
-1129141000033118	promazine
-1129641000033111	promazine
-1133541000033114	prochlorperazine
-1133641000033110	prochlorperazine
-1134241000033114	promazine
-1134341000033116	promazine
-1134441000033110	promazine
-1138241000033119	prochlorperazine
-1138341000033112	prochlorperazine
-1138441000033118	prochlorperazine
-1139841000033114	prochlorperazine
-1140741000033111	prochlorperazine
-1140841000033118	prochlorperazine
-1140941000033114	prochlorperazine
-1150041000033111	quetiapine
-1150141000033110	quetiapine
-1150241000033115	quetiapine
-1150341000033113	quetiapine
-1268341000033116	haloperidol
-1269641000033115	haloperidol
-1269741000033112	haloperidol
-1271541000033112	haloperidol
-1271641000033113	haloperidol
-1275941000033115	haloperidol
-1276041000033113	haloperidol
-1276141000033112	haloperidol
-1276241000033117	haloperidol
-1277641000033116	quetiapine
-1277741000033113	quetiapine
-1277841000033115	quetiapine
-1277941000033111	quetiapine
-1346441000033111	olanzapine
-1346541000033112	olanzapine
-1346641000033113	olanzapine
-1366641000033118	amisulpride
-1366741000033110	amisulpride
-1370441000033112	promazine
-1372741000033116	promazine
-1373141000033110	promazine
-1373241000033115	promazine
-1373341000033113	promazine
-1379041000033113	prochlorperazine
-1379241000033117	trifluoperazine
-1379641000033119	prochlorperazine
-1381441000033113	trifluoperazine
-1384241000033110	prochlorperazine
-1385341000033116	trifluoperazine
-1385441000033110	trifluoperazine
-1385541000033111	trifluoperazine
-1385741000033115	prochlorperazine
-1385841000033113	prochlorperazine
-1385941000033117	trifluoperazine
-1386041000033110	prochlorperazine
-1386341000033112	trifluoperazine
-1386441000033118	trifluoperazine
-1386541000033117	prochlorperazine
-1386641000033116	prochlorperazine
-1396441000033117	sulpiride
-1397641000033117	sulpiride
-1432341000033111	thioridazine
-1432441000033117	thioridazine
-1432541000033116	thioridazine
-1432741000033112	thioridazine
-1433641000033111	thioridazine
-1433741000033119	thioridazine
-1433841000033112	thioridazine
-1433941000033116	thioridazine
-1459841000033114	trifluoperazine
-1462041000033119	trifluoperazine
-1464141000033113	trifluoperazine
-1466941000033117	trifluoperazine
-1467041000033116	trifluoperazine
-1467141000033117	trifluoperazine
-1467641000033110	trifluoperazine
-1469441000033116	prochlorperazine
-1470641000033116	trifluoperazine
-1470741000033113	trifluoperazine
-1512741000033113	levomepromazine
-1563441000033114	zuclopenthixol
-1563541000033110	zuclopenthixol
-1563641000033111	zuclopenthixol
-1563741000033119	zuclopenthixol
-1564041000033119	zuclopenthixol
-1564141000033115	zuclopenthixol
-1564241000033110	zuclopenthixol
-1565141000033119	olanzapine
-1565241000033114	olanzapine
-1565341000033116	olanzapine
-1661141000033114	olanzapine
-1698441000033110	sulpiride
-1713941000033118	olanzapine
-1719341000033115	chlorpromazine
-1752941000033115	olanzapine
-1753041000033113	olanzapine
-1832841000033113	quetiapine
-1832941000033117	quetiapine
-1844641000033118	quetiapine
-1844741000033110	quetiapine
-1862241000033117	pimozide
-1862341000033110	pimozide
-1862441000033116	pimozide
-2027041000033117	prochlorperazine
-2077741000033115	olanzapine
-2077841000033113	olanzapine
-2077941000033117	olanzapine
-2078041000033119	olanzapine
-2086841000033117	olanzapine
-2216641000033113	amisulpride
-2216741000033116	amisulpride
-2261241000033118	olanzapine
-2640141000033112	promazine
-2644841000033114	amisulpride
-2644941000033118	amisulpride
-2653841000033110	levomepromazine
-2658941000033110	sulpiride
-2730641000033111	promazine
-2758141000033116	haloperidol
-2759641000033117	olanzapine
-2759741000033114	olanzapine
-2759841000033116	olanzapine
-2759941000033112	olanzapine
-2760241000033119	benperidol
-2760341000033112	benperidol
-2760441000033118	benperidol
-2796641000033115	pimozide
-2800141000033111	prochlorperazine
-2800241000033116	prochlorperazine
-2800341000033114	prochlorperazine
-2800941000033113	prochlorperazine
-2835141000033114	amisulpride
-2835241000033119	amisulpride
-2929741000033118	haloperidol
-2929841000033111	haloperidol
-2944041000033118	prochlorperazine
-2969141000033110	prochlorperazine
-2975841000033113	quetiapine
-2975941000033117	quetiapine
-3030841000033118	olanzapine
-3063441000033119	levomepromazine
-3063541000033118	levomepromazine
-3063641000033117	levomepromazine
-3090541000033111	flupentixol
-3090641000033112	flupentixol
-3090741000033115	flupentixol
-3090841000033113	flupentixol
-3090941000033117	flupentixol
-3091041000033110	flupentixol
-3091141000033114	flupentixol
-3091241000033119	flupentixol
-3108841000033119	prochlorperazine
-3108941000033110	prochlorperazine
-3109141000033119	prochlorperazine
-3137541000033113	aripiprazole
-3137641000033114	aripiprazole
-3137741000033117	aripiprazole
-3137841000033110	aripiprazole
-3137941000033119	aripiprazole
-3138041000033116	aripiprazole
-3141141000033114	trifluoperazine
-3158941000033116	clozapine
-3159041000033113	clozapine
-3179941000033111	fluphenazine
-3180441000033118	perphenazine
-3180541000033117	perphenazine
-3225241000033118	aripiprazole
-3225341000033111	aripiprazole
-3226341000033115	clozapine
-3226441000033114	clozapine
-3346241000033116	prochlorperazine
-3346341000033114	prochlorperazine
-3346441000033115	prochlorperazine
-3849441000033112	chlorpromazine
-3858941000033110	chlorpromazine
-3866541000033110	olanzapine
-3866641000033111	olanzapine
-3892541000033114	olanzapine
-3927941000033118	prochlorperazine
-3928041000033115	prochlorperazine
-3950341000033115	aripiprazole
-3950441000033114	aripiprazole
-3950541000033110	aripiprazole
-3950641000033111	aripiprazole
-3950741000033119	aripiprazole
-3950841000033112	aripiprazole
-3980441000033115	olanzapine
-3996241000033117	olanzapine
-3996341000033110	olanzapine
-4011641000033115	pimozide
-4013741000033111	prochlorperazine
-4013841000033118	prochlorperazine
-4013941000033114	prochlorperazine
-4014041000033111	prochlorperazine
-4014141000033110	prochlorperazine
-4021141000033118	olanzapine
-4133841000033118	quetiapine
-4148441000033110	chlorpromazine
-4172141000033115	prochlorperazine
-4172241000033110	prochlorperazine
-4172341000033117	prochlorperazine
-4172441000033111	prochlorperazine
-4200641000033118	paliperidone
-4200741000033110	paliperidone
-4200841000033117	paliperidone
-4200941000033113	paliperidone
-4201041000033115	paliperidone
-4201141000033116	paliperidone
-4422541000033110	quetiapine
-4424541000033119	haloperidol
-4451941000033110	olanzapine
-4452041000033116	olanzapine
-4456741000033117	aripiprazole
-4456841000033110	aripiprazole
-4505041000033112	pimozide
-4505141000033111	pimozide
-4505241000033116	pimozide
-4505341000033114	pimozide
-4586141000033117	prochlorperazine
-4586241000033112	prochlorperazine
-4586641000033110	prochlorperazine
-4587041000033119	prochlorperazine
-4587141000033115	prochlorperazine
-4587241000033110	prochlorperazine
-4591741000033114	quetiapine
-4591841000033116	quetiapine
-4591941000033112	quetiapine
-4592041000033118	quetiapine
-4592141000033119	quetiapine
-4592241000033114	quetiapine
-4592341000033116	quetiapine
-4592441000033110	quetiapine
-4824641000033113	olanzapine
-4940141000033119	amisulpride
-4956041000033118	olanzapine
-4956141000033119	olanzapine
-4956241000033114	olanzapine
-4956341000033116	olanzapine
-5054641000033118	haloperidol
-5077641000033110	clozapine
-5077741000033118	clozapine
-5077941000033115	clozapine
-5078041000033117	clozapine
-5078141000033118	clozapine
-5078241000033113	clozapine
-5300441000033116	olanzapine
-5327241000033110	prochlorperazine
-5327341000033117	prochlorperazine
-5330641000033110	olanzapine
-5332341000033118	prochlorperazine
-5565141000033118	olanzapine
-5575741000033110	olanzapine
-5575841000033117	olanzapine
-5575941000033113	olanzapine
-5696941000033117	prochlorperazine
-5812541000033115	olanzapine
-5812641000033119	olanzapine
-5814341000033116	levomepromazine
-5888841000033117	prochlorperazine
-5888941000033113	prochlorperazine
-5889041000033116	prochlorperazine
-5889141000033117	prochlorperazine
-5889241000033112	prochlorperazine
-5889741000033118	quetiapine
-5889841000033111	quetiapine
-5890741000033111	haloperidol
-5890941000033114	amisulpride
-5891141000033117	quetiapine
-5909341000033112	quetiapine
-5909441000033118	quetiapine
-5969441000033117	haloperidol
-5969541000033116	haloperidol
-5969641000033115	haloperidol
-5969741000033112	haloperidol
-5974841000033112	quetiapine
-5974941000033116	quetiapine
-5975041000033116	quetiapine
-5975141000033117	quetiapine
-5977041000033110	pimozide
-5977241000033119	pimozide
-5993541000033117	haloperidol
-5997341000033118	olanzapine
-6035941000033111	olanzapine
-6036041000033118	olanzapine
-6359441000033116	paliperidone
-6359541000033115	paliperidone
-6359641000033119	paliperidone
-6359741000033111	paliperidone
-6359841000033118	paliperidone
-6359941000033114	paliperidone
-6360041000033112	paliperidone
-6360141000033111	paliperidone
-6443041000033115	asenapine
-6443141000033116	asenapine
-6443241000033111	asenapine
-6443341000033118	asenapine
-6445641000033110	levomepromazine
-6455741000033116	ziprasidone
-6455841000033114	ziprasidone
-6456441000033119	pimozide
-6456741000033114	olanzapine
-6456841000033116	olanzapine
-6456941000033112	olanzapine
-6457041000033113	olanzapine
-6457141000033112	olanzapine
-6465341000033114	olanzapine
-6465641000033118	olanzapine
-6465941000033113	olanzapine
-6466041000033115	olanzapine
-6466141000033116	olanzapine
-6466241000033111	olanzapine
-6522941000033117	prochlorperazine
-6523041000033110	prochlorperazine
-6523141000033114	prochlorperazine
-6523241000033119	prochlorperazine
-7681641000033116	olanzapine
-7681741000033113	olanzapine
-7681841000033115	olanzapine
-7681941000033111	olanzapine
-7687841000033114	quetiapine
-7687941000033118	quetiapine
-7688041000033115	quetiapine
-7688141000033116	quetiapine
-8112941000033114	quetiapine
-8113041000033116	quetiapine
-8113141000033117	quetiapine
-8246241000033114	quetiapine
-8274041000033113	olanzapine
-8274141000033112	olanzapine
-8274241000033117	olanzapine
-8274341000033110	olanzapine
-8298341000033111	quetiapine
-8298441000033117	quetiapine
-8298541000033116	quetiapine
-8305441000033119	olanzapine
-8306941000033118	olanzapine
-8349141000033117	quetiapine
-8516641000033113	prochlorperazine
-8516741000033116	prochlorperazine
-8516841000033114	prochlorperazine
-8516941000033118	prochlorperazine
-8517041000033117	prochlorperazine
-8517141000033118	prochlorperazine
-8540041000033111	flupentixol
-8881741000033110	prochlorperazine
-8881841000033117	prochlorperazine
-8881941000033113	prochlorperazine
-8882041000033119	prochlorperazine
-8882141000033115	prochlorperazine
-8882241000033110	prochlorperazine
-8882341000033117	prochlorperazine
-8884341000033111	olanzapine
-8884441000033117	olanzapine
-8884541000033116	olanzapine
-8884641000033115	olanzapine
-8884741000033112	olanzapine
-8885541000033117	olanzapine
-8885941000033111	chlorpromazine
-8886041000033118	chlorpromazine
-8943741000033113	prochlorperazine
-8943841000033115	prochlorperazine
-8943941000033111	prochlorperazine
-8944041000033113	prochlorperazine
-8960241000033117	aripiprazole
-8960441000033116	aripiprazole
-9109641000033114	prochlorperazine
-9109741000033117	prochlorperazine
-9109841000033110	prochlorperazine
-9109941000033119	prochlorperazine
-9110041000033110	prochlorperazine
-9110141000033114	prochlorperazine
-9118541000033115	olanzapine
-9366241000033112	olanzapine
-9366841000033111	olanzapine
-9604441000033112	quetiapine
-9605541000033112	quetiapine
-9605941000033118	quetiapine
-9606341000033113	quetiapine
-9677141000033117	pimozide
-9808941000033118	lurasidone
-9809041000033110	lurasidone
-9809141000033114	lurasidone
-9809241000033119	lurasidone
-9809341000033112	lurasidone
-9809441000033118	lurasidone
-10041141000033118	quetiapine
-10041241000033113	quetiapine
-10041341000033115	quetiapine
-10041441000033114	quetiapine
-10041541000033110	quetiapine
-10041741000033119	quetiapine
-10041841000033112	quetiapine
-10041941000033116	quetiapine
-10042041000033110	quetiapine
-10042141000033114	quetiapine
-10207541000033115	prochlorperazine
-10254741000033110	quetiapine
-10254841000033117	quetiapine
-10254941000033113	quetiapine
-10255041000033113	quetiapine
-10255141000033112	quetiapine
-10331441000033114	prochlorperazine
-10331541000033110	prochlorperazine
-10331641000033111	prochlorperazine
-10493341000033115	haloperidol
-10493441000033114	haloperidol
-10615141000033115	quetiapine
-10615241000033110	quetiapine
-10615341000033117	quetiapine
-10615441000033111	quetiapine
-10946341000033116	aripiprazole
-10946441000033110	aripiprazole
-11578941000033118	quetiapine
-11579241000033119	quetiapine
-11579341000033112	quetiapine
-11579441000033118	quetiapine
-11579541000033117	quetiapine
-11694341000033111	paliperidone
-11694441000033117	paliperidone
-11694541000033116	paliperidone
-11694641000033115	paliperidone
-11694741000033112	paliperidone
-11694841000033119	paliperidone
-11694941000033110	paliperidone
-11695041000033110	paliperidone
-11730041000033115	quetiapine
-11753641000033118	quetiapine
-11781941000033118	olanzapine
-11782041000033112	olanzapine
-11782141000033111	olanzapine
-11782241000033116	olanzapine
-11782341000033114	olanzapine
-11798841000033118	pimozide
-11821541000033119	levomepromazine
-11825741000033113	olanzapine
-11825841000033115	olanzapine
-11825941000033111	olanzapine
-11876741000033116	chlorpromazine
-12207041000033118	prochlorperazine
-12370141000033116	prochlorperazine
-12428041000033114	quetiapine
-12593541000033112	prochlorperazine
-12593641000033113	prochlorperazine
-12594241000033112	prochlorperazine
-12594341000033119	prochlorperazine
-12594541000033114	prochlorperazine
-12603841000033115	olanzapine
-12624541000033113	prochlorperazine
-12665341000033110	cariprazine
-12665441000033116	cariprazine
-12665541000033115	cariprazine
-12665641000033119	cariprazine
-12667641000033113	chlorpromazine
-12988741000033118	olanzapine
-12988841000033111	olanzapine
-13081041000033113	prochlorperazine
-13158341000033119	clozapine
-13158441000033113	clozapine
-13158541000033114	clozapine
-13158641000033110	clozapine
-13158741000033118	clozapine
-13353241000033112	aripiprazole
-13572641000033119	olanzapine
-13576541000033116	olanzapine
-13576641000033115	olanzapine
-13719041000033113	levomepromazine
-13719141000033112	levomepromazine
-13734841000033110	quetiapine
-13734941000033119	quetiapine
-13746541000033119	fluphenazine
-13746741000033110	fluphenazine
-13751341000033119	olanzapine
-13751441000033113	olanzapine
-13751541000033114	olanzapine
-13890741000033118	prochlorperazine
-13933441000033119	olanzapine
-13933641000033117	olanzapine
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+58941000033117	42267711000001109	Amisulpride 200mg tablets	Amisulpride 200mg tablets	Tablet/ Oral Tablet	Oral	Amisulpride	200.000mg	04020100	1034078
+59041000033114	42267911000001106	Amisulpride 50mg tablets	Amisulpride 50mg tablets	Tablet/ Oral Tablet	Oral	Amisulpride	50.000mg	04020100	764194
+69041000033115	9483411000001104	Anquil 250microgram tablets (Neon Healthcare Ltd)	Anquil 250microgram tablets	Tablet/ Oral Tablet	Oral	Benperidol	250.000microgram	NA	1834
+145141000033119	42268611000001101	Benperidol 250microgram tablets	Benperidol 250microgram tablets	Tablet/ Oral Tablet	Oral	Benperidol	250.000microgram	04020100	63691
+173841000033113	920911000001101	Buccastem 3mg tablets (Alliance Pharmaceuticals Ltd)	Buccastem 3mg tablets	Buccal tablet	Buccal	Prochlorperazine maleate	3.000mg	NA	435148
+240041000033110	36138311000001103	Chlorpromazine 25mg/5ml oral solution	Chlorpromazine 25mg/5ml oral solution	Oral solution	Oral	Chlorpromazine hydrochloride	5.000mg/1.000ml	04020100	123680
+241341000033116	36138411000001105	Chlorpromazine 50mg/2ml solution for injection ampoules	Chlorpromazine 50mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Chlorpromazine hydrochloride	25.000mg/1.000ml	04020100	1460
+246641000033118	36137911000001103	Chlorpromazine 100mg/5ml oral suspension sugar free	Chlorpromazine 100mg/5ml oral suspension sugar free	Oral suspension	Oral	Chlorpromazine embonate	20.000mg/1.000ml	04020100	15009
+249041000033117	42268911000001107	Chlorpromazine 10mg tablets	Chlorpromazine 10mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	10.000mg	04020100	169995
+249141000033118	42268811000001102	Chlorpromazine 100mg tablets	Chlorpromazine 100mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	100.000mg	04020100	791474
+249241000033113	42269111000001102	Chlorpromazine 25mg tablets	Chlorpromazine 25mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	25.000mg	04020100	1523693
+249341000033115	42269211000001108	Chlorpromazine 50mg tablets	Chlorpromazine 50mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	50.000mg	04020100	1273781
+273641000033114	4129911000001100	Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd)	Clopixol Acuphase 50mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol acetate	50.000mg/1.000ml	NA	816
+274841000033112	4130411000001101	Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd)	Clopixol Acuphase 100mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol acetate	50.000mg/1.000ml	NA	902
+276041000033113	178611000001106	Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd)	Clopixol 200mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol decanoate	200.000mg/1.000ml	NA	118005
+276141000033112	32911000001106	Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd)	Clopixol Conc 500mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol decanoate	500.000mg/1.000ml	NA	52548
+284941000033113	3830311000001101	Clozaril 25mg tablets (Viatris UK Healthcare Ltd)	Clozaril 25mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	25.000mg	NA	2189
+285041000033113	3832011000001100	Clozaril 100mg tablets (Viatris UK Healthcare Ltd)	Clozaril 100mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	100.000mg	NA	4386
+286941000033115	827511000001102	Clopixol 10mg tablets (Lundbeck Ltd)	Clopixol 10mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	10.000mg	NA	103850
+287041000033119	153611000001101	Clopixol 2mg tablets (Lundbeck Ltd)	Clopixol 2mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	2.000mg	NA	72383
+287141000033115	618211000001102	Clopixol 25mg tablets (Lundbeck Ltd)	Clopixol 25mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	25.000mg	NA	22229
+287541000033112	42270011000001100	Clozapine 100mg tablets	Clozapine 100mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	100.000mg	04020100	61948
+287641000033113	42270111000001104	Clozapine 25mg tablets	Clozapine 25mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	25.000mg	04020100	34724
+419941000033113	3104011000001105	Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd)	Depixol Low Volume 200mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	200.000mg/1.000ml	NA	22332
+420141000033110	3102111000001103	Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd)	Depixol 40mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	20.000mg/1.000ml	NA	119636
+420441000033119	3100711000001101	Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd)	Depixol Conc 50mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	100.000mg/1.000ml	NA	26310
+422941000033113	3102911000001100	Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd)	Depixol 20mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	20.000mg/1.000ml	NA	144956
+423041000033115	3101311000001105	Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd)	Depixol Conc 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	100.000mg/1.000ml	NA	139889
+431741000033118	3679611000001105	Depixol 3mg tablets (Lundbeck Ltd)	Depixol 3mg tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	3.000mg	NA	37905
+476541000033119	463911000001104	Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Dozic 5mg/5ml oral solution	Oral solution	Oral	Haloperidol	1.000mg/1.000ml	NA	841
+479841000033112	416411000001101	Dolmatil 400mg tablets (Sanofi)	Dolmatil 400mg tablets	Tablet/ Oral Tablet	Oral	Sulpiride	400.000mg	NA	1821
+480941000033116	44411000001109	Dolmatil 200mg tablets (Sanofi)	Dolmatil 200mg tablets	Tablet/ Oral Tablet	Oral	Sulpiride	200.000mg	NA	29480
+570941000033117	3680311000001100	Fentazin 2mg tablets (Advanz Pharma)	Fentazin 2mg tablets	Tablet/ Oral Tablet	Oral	Perphenazine	2.000mg	NA	16850
+571041000033110	3680911000001104	Fentazin 4mg tablets (Advanz Pharma)	Fentazin 4mg tablets	Tablet/ Oral Tablet	Oral	Perphenazine	4.000mg	NA	13321
+582041000033112	36058511000001100	Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes	Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	1052
+582141000033111	36058811000001102	Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes	Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	595
+584641000033111	36058411000001104	Fluphenazine decanoate 25mg/1ml solution for injection ampoules	Fluphenazine decanoate 25mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	40604
+586641000033119	36058211000001103	Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules	Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	6852
+586741000033111	36058311000001106	Fluphenazine decanoate 250mg/10ml solution for injection vials	Fluphenazine decanoate 250mg/10ml solution for injection vials	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	13
+586841000033118	36058711000001105	Fluphenazine decanoate 50mg/2ml solution for injection ampoules	Fluphenazine decanoate 50mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	04020200	5088
+586941000033114	36058611000001101	Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules	Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	100.000mg/1.000ml	04020200	8495
+587741000033113	36058111000001109	Fluphenazine decanoate 100mg/1ml solution for injection ampoules	Fluphenazine decanoate 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	100.000mg/1.000ml	04020200	34355
+593441000033111	843011000001101	Fluanxol 1mg tablets (Lundbeck Ltd)	Fluanxol 1mg tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	1.000mg	NA	141133
+593541000033112	507511000001106	Fluanxol 500microgram tablets (Lundbeck Ltd)	Fluanxol 500microgram tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	500.000microgram	NA	256822
+595441000033112	42272111000001100	Fluphenazine 1mg tablets	Fluphenazine 1mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	1.000mg	04020100	33483
+595641000033114	42272211000001106	Fluphenazine 2.5mg tablets	Fluphenazine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	2.500mg	04020100	4104
+595741000033117	42272311000001103	Fluphenazine 5mg tablets	Fluphenazine 5mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	5.000mg	04020100	3405
+658341000033110	42273011000001105	Haloperidol 500microgram capsules	Haloperidol 500microgram capsules	Capsule/ Oral capsule	Oral	Haloperidol	500.000microgram	04020100	898106
+659441000033114	3748011000001101	Haldol decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd)	Haldol Decanoate 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Haloperidol decanoate	100.000mg/1.000ml	NA	28161
+659541000033110	3747311000001104	Haldol decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd)	Haldol Decanoate 50mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Haloperidol decanoate	50.000mg/1.000ml	NA	17707
+659641000033111	36053411000001105	Haloperidol 20mg/2ml solution for injection ampoules	Haloperidol 20mg/2ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Haloperidol	10.000mg/1.000ml	04020100	1259
+659741000033119	36053611000001108	Haloperidol decanoate 100mg/1ml solution for injection ampoules	Haloperidol decanoate 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Haloperidol decanoate	100.000mg/1.000ml	04020200	33676
+659841000033112	36053711000001104	Haloperidol decanoate 50mg/1ml solution for injection ampoules	Haloperidol decanoate 50mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Haloperidol decanoate	50.000mg/1.000ml	04020200	21068
+660341000033116	42273311000001108	Haloperidol 5mg/5ml oral solution sugar free	Haloperidol 5mg/5ml oral solution sugar free	Oral solution	Oral	Haloperidol	1.000mg/1.000ml	04020100	135878
+661341000033112	42272811000001107	Haloperidol 10mg/5ml oral solution sugar free	Haloperidol 10mg/5ml oral solution sugar free	Oral solution	Oral	Haloperidol	2.000mg/1.000ml	04020100	42811
+661541000033117	117911000001106	Haldol 2mg/ml oral solution (Janssen-Cilag Ltd)	Haldol 2mg/ml oral solution	Oral solution	Oral	Haloperidol	2.000mg/1.000ml	NA	3405
+662341000033115	42272611000001108	Haloperidol 1.5mg tablets	Haloperidol 1.5mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	1.500mg	04020100	775366
+662441000033114	42272911000001102	Haloperidol 20mg tablets	Haloperidol 20mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	20.000mg	04020100	17079
+662541000033110	42273211000001100	Haloperidol 5mg tablets	Haloperidol 5mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	5.000mg	04020100	759937
+663241000033118	42272711000001104	Haloperidol 10mg tablets	Haloperidol 10mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	10.000mg	04020100	206260
+663341000033111	42273111000001106	Haloperidol 500microgram tablets	Haloperidol 500microgram tablets	Tablet/ Oral Tablet	Oral	Haloperidol	500.000microgram	04020100	185772
+663441000033117	271211000001102	Haldol 10mg tablets (Janssen-Cilag Ltd)	Haldol 10mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	10.000mg	NA	822
+663541000033116	152111000001103	Haldol 5mg tablets (Janssen-Cilag Ltd)	Haldol 5mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	5.000mg	NA	1387
+811041000033116	869511000001104	Largactil 50mg/2ml solution for injection ampoules (Sanofi)	Largactil 50mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Chlorpromazine hydrochloride	25.000mg/1.000ml	NA	1874
+813441000033114	2880511000001106	Largactil Forte 100mg/5ml oral suspension (Sanofi)	Largactil Forte 100mg/5ml oral suspension	Oral suspension	Oral	Chlorpromazine embonate	20.000mg/1.000ml	NA	3502
+813741000033119	379911000001101	Largactil 25mg/5ml syrup (Sanofi)	Largactil 25mg/5ml syrup	Oral solution	Oral	Chlorpromazine hydrochloride	5.000mg/1.000ml	NA	8539
+815741000033115	911311000001102	Largactil 10mg tablets (Sanofi)	Largactil 10mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	10.000mg	NA	11756
+815841000033113	432111000001100	Largactil 100mg tablets (Sanofi)	Largactil 100mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	100.000mg	NA	27817
+815941000033117	511000001103	Largactil 25mg tablets (Sanofi)	Largactil 25mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	25.000mg	NA	57555
+816041000033110	910611000001102	Largactil 50mg tablets (Sanofi)	Largactil 50mg tablets	Tablet/ Oral Tablet	Oral	Chlorpromazine hydrochloride	50.000mg	NA	47413
+840741000033115	39699511000001101	Loxapine 10mg capsules	Loxapine 10mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	10.000mg	04020100	7261
+840841000033113	39699611000001102	Loxapine 25mg capsules	Loxapine 25mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	25.000mg	04020100	5041
+840941000033117	39699711000001106	Loxapine 50mg capsules	Loxapine 50mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	50.000mg	04020100	6372
+842041000033117	3872811000001108	Loxapac 10mg capsules (Wyeth Pharmaceuticals)	Loxapac 10mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	10.000mg	NA	991
+842141000033118	4023011000001106	Loxapac 25mg capsules (Wyeth Pharmaceuticals)	Loxapac 25mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	25.000mg	NA	497
+842241000033113	3873611000001104	Loxapac 50mg capsules (Wyeth Pharmaceuticals)	Loxapac 50mg capsules	Capsule/ Oral capsule	Oral	Loxapine succinate	50.000mg	NA	432
+892141000033114	555111000001102	Melleril 100mg/5ml oral suspension (Novartis Pharmaceuticals UK Ltd)	Melleril 100mg/5ml oral suspension	Oral suspension	Oral	Thioridazine	20.000mg/1.000ml	NA	1670
+892241000033119	58711000001108	Melleril 25mg/5ml oral suspension (Novartis Pharmaceuticals UK Ltd)	Melleril 25mg/5ml oral suspension	Oral suspension	Oral	Thioridazine	5.000mg/1.000ml	NA	23547
+893741000033115	788511000001105	Melleril 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd)	Melleril 25mg/5ml syrup	Oral solution	Oral	Thioridazine hydrochloride	5.000mg/1.000ml	NA	24453
+895841000033114	711411000001102	Melleril 10mg tablets (Novartis Pharmaceuticals UK Ltd)	Melleril 10mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	10.000mg	NA	185601
+895941000033118	884511000001101	Melleril 100mg tablets (Novartis Pharmaceuticals UK Ltd)	Melleril 100mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	100.000mg	NA	17331
+896041000033111	160211000001102	Melleril 25mg tablets (Novartis Pharmaceuticals UK Ltd)	Melleril 25mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	25.000mg	NA	175673
+896141000033110	883911000001106	Melleril 50mg tablets (Novartis Pharmaceuticals UK Ltd)	Melleril 50mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	50.000mg	NA	74358
+924241000033110	66211000001107	Modecate 25mg/1ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd)	Modecate 25mg/1ml solution for injection pre-filled syringes	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	6226
+924341000033117	153511000001100	Modecate 50mg/2ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd)	Modecate 50mg/2ml solution for injection pre-filled syringes	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	1945
+925341000033116	119311000001100	Modecate 50mg/2ml solution for injection ampoules (Sanofi)	Modecate 50mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	12517
+925841000033113	790311000001100	Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi)	Modecate 12.5mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	20957
+925941000033117	565211000001101	Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi)	Modecate Concentrate 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	100.000mg/1.000ml	NA	48111
+927741000033110	928411000001107	Modecate 250mg/10ml solution for injection vials (Sanofi-Synthelabo Ltd)	Modecate 250mg/10ml solution for injection vials	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	63
+927841000033117	837811000001102	Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi)	Modecate Concentrate 50mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	100.000mg/1.000ml	NA	12326
+934841000033111	556111000001108	Modecate 25mg/1ml solution for injection ampoules (Sanofi)	Modecate 25mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Fluphenazine decanoate	25.000mg/1.000ml	NA	104652
+935041000033115	3686111000001104	Moditen 1mg tablets (Sanofi)	Moditen 1mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	1.000mg	NA	8397
+935141000033116	3825711000001105	Moditen 2.5mg tablets (Sanofi)	Moditen 2.5mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	2.500mg	NA	2085
+935241000033111	3826011000001104	Moditen 5mg tablets (Sanofi-Synthelabo Ltd)	Moditen 5mg tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride	5.000mg	NA	1349
+938841000033118	491811000001108	Motipress tablets (Sanofi-Synthelabo Ltd)	Motipress tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	1.500mg + 30.000mg	NA	25634
+938941000033114	125111000001109	Motival 10mg/500microgram tablets (Sanofi)	Motival 10mg/500microgram tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	500.000microgram + 10.000mg	NA	252031
+965041000033112	917811000001104	Neulactil Forte syrup (Sanofi)	Neulactil Forte syrup	Oral solution	Oral	Pericyazine	2.000mg/1.000ml	NA	965
+965541000033119	340011000001109	Neulactil 10mg tablets (Sanofi)	Neulactil 10mg tablets	Tablet/ Oral Tablet	Oral	Pericyazine	10.000mg	NA	5113
+965641000033118	746611000001104	Neulactil 2.5mg tablets (Sanofi)	Neulactil 2.5mg tablets	Tablet/ Oral Tablet	Oral	Pericyazine	2.500mg	NA	6467
+981641000033117	4182911000001102	Nozinan 25mg/1ml solution for injection ampoules (Neuraxpharm UK Ltd)	Nozinan 25mg/1ml solution for injection ampoules	Solution for injection	Subcutaneous/ Intravenous/ Intramuscular	Levomepromazine hydrochloride	25.000mg/1.000ml	NA	27426
+1003641000033113	42275511000001103	Olanzapine 10mg tablets	Olanzapine 10mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	10.000mg	04020100	4960926
+1003741000033116	42276111000001101	Olanzapine 5mg tablets	Olanzapine 5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	5.000mg	04020100	3910831
+1003841000033114	42276211000001107	Olanzapine 7.5mg tablets	Olanzapine 7.5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	7.500mg	04020100	762925
+1016441000033117	4544911000001108	Orap 2mg tablets (Janssen-Cilag Ltd)	Orap 2mg tablets	Tablet/ Oral Tablet	Oral	Pimozide	2.000mg	NA	7977
+1016541000033116	3688011000001101	Orap 4mg tablets (Eumedica Pharma Ltd)	Orap 4mg tablets	Tablet/ Oral Tablet	Oral	Pimozide	4.000mg	NA	5986
+1063541000033113	36027911000001107	Pericyazine 10mg/5ml oral solution	Pericyazine 10mg/5ml oral solution	Oral solution	Oral	Pericyazine	2.000mg/1.000ml	04020100	5687
+1065141000033117	42277011000001104	Perphenazine 2mg tablets	Perphenazine 2mg tablets	Tablet/ Oral Tablet	Oral	Perphenazine	2.000mg	04020100	60899
+1065241000033112	42277111000001103	Perphenazine 4mg tablets	Perphenazine 4mg tablets	Tablet/ Oral Tablet	Oral	Perphenazine	4.000mg	04020100	28628
+1066741000033111	42276811000001108	Pericyazine 10mg tablets	Pericyazine 10mg tablets	Tablet/ Oral Tablet	Oral	Pericyazine	10.000mg	04020100	66391
+1067041000033110	42276911000001103	Pericyazine 2.5mg tablets	Pericyazine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Pericyazine	2.500mg	04020100	122425
+1090941000033114	42277411000001108	Pimozide 2mg tablets	Pimozide 2mg tablets	Tablet/ Oral Tablet	Oral	Pimozide	2.000mg	04020100	32957
+1091041000033116	42277511000001107	Pimozide 4mg tablets	Pimozide 4mg tablets	Tablet/ Oral Tablet	Oral	Pimozide	4.000mg	04020100	58961
+1128641000033119	42039811000001106	Prochlorperazine 25mg suppositories	Prochlorperazine 25mg suppositories	Suppository	Rectal	Prochlorperazine maleate	25.000mg	04060000	33788
+1128741000033111	42040211000001102	Prochlorperazine 5mg suppositories	Prochlorperazine 5mg suppositories	Suppository	Rectal	Prochlorperazine maleate	5.000mg	04060000	22739
+1129641000033111	35931311000001105	Promazine 25mg/5ml oral solution	Promazine 25mg/5ml oral solution	Oral solution	Oral	Promazine hydrochloride	5.000mg/1.000ml	04020100	542985
+1130941000033113	354911000001100	Proziere 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Proziere 5mg tablets	Tablet/ Oral Tablet	Oral	Prochlorperazine maleate	5.000mg	NA	15388
+1133541000033114	42039911000001101	Prochlorperazine 25mg tablets	Prochlorperazine 25mg tablets	Tablet/ Oral Tablet	Oral	Prochlorperazine maleate	25.000mg	04060000	3846
+1133641000033110	42040311000001105	Prochlorperazine 5mg tablets	Prochlorperazine 5mg tablets	Tablet/ Oral Tablet	Oral	Prochlorperazine maleate	5.000mg	04060000	10755428
+1134341000033116	42277611000001106	Promazine 25mg tablets	Promazine 25mg tablets	Tablet/ Oral Tablet	Oral	Promazine hydrochloride	25.000mg	04020100	403358
+1134441000033110	42277711000001102	Promazine 50mg tablets	Promazine 50mg tablets	Tablet/ Oral Tablet	Oral	Promazine hydrochloride	50.000mg	04020100	184064
+1139841000033114	42040011000001107	Prochlorperazine 3mg buccal tablets	Prochlorperazine 3mg buccal tablets	Buccal tablet	Buccal	Prochlorperazine maleate	3.000mg	04060000	1713088
+1150041000033111	42278011000001103	Quetiapine 100mg tablets	Quetiapine 100mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	100.000mg	04020100	2836378
+1150141000033110	42278211000001108	Quetiapine 200mg tablets	Quetiapine 200mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	200.000mg	04020100	1990423
+1150241000033115	42278311000001100	Quetiapine 25mg tablets	Quetiapine 25mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	25.000mg	04020100	6261604
+1173841000033113	343311000001101	Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd)	Risperdal 1mg/ml oral solution	Oral solution	Oral	Risperidone	1.000mg/1.000ml	NA	21953
+1173941000033117	42278811000001109	Risperidone 1mg/ml oral solution sugar free	Risperidone 1mg/ml oral solution sugar free	Oral solution	Oral	Risperidone	1.000mg/1.000ml	04020100	387050
+1176241000033115	589911000001105	Risperdal 1mg tablets (Janssen-Cilag Ltd)	Risperdal 1mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	1.000mg	NA	64914
+1176341000033113	858911000001109	Risperdal 2mg tablets (Janssen-Cilag Ltd)	Risperdal 2mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	2.000mg	NA	32946
+1176441000033119	518911000001100	Risperdal 3mg tablets (Janssen-Cilag Ltd)	Risperdal 3mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	3.000mg	NA	18636
+1176541000033118	429611000001104	Risperdal 4mg tablets (Janssen-Cilag Ltd)	Risperdal 4mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	4.000mg	NA	15037
+1176641000033117	42278711000001101	Risperidone 1mg tablets	Risperidone 1mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	1.000mg	04020100	3185512
+1176741000033114	42278911000001104	Risperidone 2mg tablets	Risperidone 2mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	2.000mg	04020100	2048399
+1176841000033116	42279011000001108	Risperidone 3mg tablets	Risperidone 3mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	3.000mg	04020100	939036
+1176941000033112	42279111000001109	Risperidone 4mg tablets	Risperidone 4mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	4.000mg	04020100	878298
+1177641000033119	153111000001109	Risperdal 6mg tablets (Janssen-Cilag Ltd)	Risperdal 6mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	6.000mg	NA	3325
+1177741000033111	42279311000001106	Risperidone 6mg tablets	Risperidone 6mg tablets	Tablet/ Oral Tablet	Oral	Risperidone	6.000mg	04020100	123521
+1268341000033116	522711000001106	Serenace 500microgram capsules (Teva UK Ltd)	Serenace 500microgram capsules	Capsule/ Oral capsule	Oral	Haloperidol	500.000microgram	NA	27373
+1269741000033112	502611000001107	Serenace 2mg/ml liquid (Teva UK Ltd)	Serenace 2mg/ml liquid	Oral solution	Oral	Haloperidol	2.000mg/1.000ml	NA	2221
+1271541000033112	3927511000001104	Serenace 20mg/2ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd)	Serenace 20mg/2ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Haloperidol	10.000mg/1.000ml	NA	71
+1271641000033113	3245711000001101	Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd)	Serenace 5mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Haloperidol	5.000mg/1.000ml	NA	776
+1275941000033115	899811000001103	Serenace 1.5mg tablets (Teva UK Ltd)	Serenace 1.5mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	1.500mg	NA	14384
+1276041000033113	113611000001108	Serenace 10mg tablets (Teva UK Ltd)	Serenace 10mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	10.000mg	NA	1936
+1276141000033112	387311000001101	Serenace 20mg tablets (Teva UK Ltd)	Serenace 20mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	20.000mg	NA	414
+1276241000033117	228411000001106	Serenace 5mg tablets (Teva UK Ltd)	Serenace 5mg tablets	Tablet/ Oral Tablet	Oral	Haloperidol	5.000mg	NA	7572
+1277641000033116	340911000001108	Seroquel 100mg tablets (Luye Pharma Ltd)	Seroquel 100mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	100.000mg	NA	19600
+1277741000033113	476411000001108	Seroquel 200mg tablets (Luye Pharma Ltd)	Seroquel 200mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	200.000mg	NA	13829
+1277841000033115	596211000001109	Seroquel 25mg tablets (Luye Pharma Ltd)	Seroquel 25mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	25.000mg	NA	28584
+1366641000033118	319511000001103	Solian 200 tablets (Sanofi)	Solian 200 tablets	Tablet/ Oral Tablet	Oral	Amisulpride	200.000mg	NA	2835
+1366741000033110	24311000001100	Solian 50 tablets (Sanofi)	Solian 50 tablets	Tablet/ Oral Tablet	Oral	Amisulpride	50.000mg	NA	3581
+1384241000033110	593211000001102	Stemetil Eff 5mg sachets (Sanofi)	Stemetil Eff 5mg sachets	Effervescent granules	Oral	Prochlorperazine mesilate	5.000mg	NA	32832
+1385341000033116	213711000001101	Stelazine 10mg Spansules (Mercury Pharma Group Ltd)	Stelazine 10mg Spansules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	10.000mg	NA	49581
+1385441000033110	710411000001106	Stelazine 15mg Spansules (Mercury Pharma Group Ltd)	Stelazine 15mg Spansules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	15.000mg	NA	27518
+1385541000033111	714111000001105	Stelazine 2mg Spansules (Mercury Pharma Group Ltd)	Stelazine 2mg Spansules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	2.000mg	NA	137476
+1385741000033115	47911000001107	Stemetil 25mg suppositories (Sanofi)	Stemetil 25mg suppositories	Suppository	Rectal	Prochlorperazine maleate	25.000mg	NA	19220
+1385841000033113	620411000001105	Stemetil 5mg suppositories (Sanofi)	Stemetil 5mg suppositories	Suppository	Rectal	Prochlorperazine maleate	5.000mg	NA	12816
+1385941000033117	636711000001103	Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd)	Stelazine 1mg/5ml syrup	Oral solution	Oral	Trifluoperazine hydrochloride	200.000microgram/1.000ml	NA	15966
+1386041000033110	344011000001102	Stemetil 5mg/5ml syrup (Sanofi)	Stemetil 5mg/5ml syrup	Oral solution	Oral	Prochlorperazine mesilate	1.000mg/1.000ml	NA	22887
+1386341000033112	325311000001103	Stelazine 1mg tablets (Mercury Pharma Group Ltd)	Stelazine 1mg tablets	Tablet/ Oral Tablet	Oral	Trifluoperazine hydrochloride	1.000mg	NA	220799
+1386441000033118	45811000001107	Stelazine 5mg tablets (Mercury Pharma Group Ltd)	Stelazine 5mg tablets	Tablet/ Oral Tablet	Oral	Trifluoperazine hydrochloride	5.000mg	NA	195823
+1386541000033117	367711000001104	Stemetil 25mg tablets (Sanofi)	Stemetil 25mg tablets	Tablet/ Oral Tablet	Oral	Prochlorperazine maleate	25.000mg	NA	2618
+1386641000033116	97511000001109	Stemetil 5mg tablets (Sanofi)	Stemetil 5mg tablets	Tablet/ Oral Tablet	Oral	Prochlorperazine maleate	5.000mg	NA	1342714
+1396441000033117	42279411000001104	Sulpiride 200mg tablets	Sulpiride 200mg tablets	Tablet/ Oral Tablet	Oral	Sulpiride	200.000mg	04020100	1187405
+1396541000033116	246411000001108	Sulpitil 200mg tablets (Pfizer Ltd)	Sulpitil 200mg tablets	Tablet/ Oral Tablet	Oral	Sulpiride	200.000mg	NA	3284
+1397641000033117	42279611000001101	Sulpiride 400mg tablets	Sulpiride 400mg tablets	Tablet/ Oral Tablet	Oral	Sulpiride	400.000mg	04020100	234163
+1432341000033111	42279811000001102	Thioridazine 100mg/5ml oral suspension	Thioridazine 100mg/5ml oral suspension	Oral suspension	Oral	Thioridazine	20.000mg/1.000ml	04020100	4307
+1432441000033117	42280211000001103	Thioridazine 25mg/5ml oral suspension	Thioridazine 25mg/5ml oral suspension	Oral suspension	Oral	Thioridazine	5.000mg/1.000ml	04020100	49228
+1432541000033116	42280111000001109	Thioridazine 25mg/5ml oral solution	Thioridazine 25mg/5ml oral solution	Oral solution	Oral	Thioridazine hydrochloride	5.000mg/1.000ml	04020100	75159
+1433641000033111	42279911000001107	Thioridazine 10mg tablets	Thioridazine 10mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	10.000mg	04020100	788235
+1433741000033119	42279711000001105	Thioridazine 100mg tablets	Thioridazine 100mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	100.000mg	04020100	96969
+1433841000033112	42280011000001108	Thioridazine 25mg tablets	Thioridazine 25mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	25.000mg	04020100	794828
+1433941000033116	42280311000001106	Thioridazine 50mg tablets	Thioridazine 50mg tablets	Tablet/ Oral Tablet	Oral	Thioridazine hydrochloride	50.000mg	04020100	332995
+1464141000033113	38750711000001100	Trifluoperazine 5mg/5ml oral solution sugar free	Trifluoperazine 5mg/5ml oral solution sugar free	Oral solution	Oral	Trifluoperazine hydrochloride	1.000mg/1.000ml	04020100	134313
+1466941000033117	36143111000001105	Trifluoperazine 10mg modified-release capsules	Trifluoperazine 10mg modified-release capsules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	10.000mg	04020100	95502
+1467041000033116	36143211000001104	Trifluoperazine 15mg modified-release capsules	Trifluoperazine 15mg modified-release capsules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	15.000mg	04020100	54193
+1467141000033117	36143511000001101	Trifluoperazine 2mg modified-release capsules	Trifluoperazine 2mg modified-release capsules	Modified-release capsule	Oral	Trifluoperazine hydrochloride	2.000mg	04020100	203085
+1467641000033110	36143311000001107	Trifluoperazine 1mg/5ml oral solution sugar free	Trifluoperazine 1mg/5ml oral solution sugar free	Oral solution	Oral	Trifluoperazine hydrochloride	200.000microgram/1.000ml	04020100	62490
+1469441000033116	39708811000001101	Tranylcypromine 10mg tablets	Tranylcypromine 10mg tablets	Tablet/ Oral Tablet	Oral	Tranylcypromine sulfate	10.000mg	04030200	94209
+1470641000033116	39706011000001108	Trifluoperazine 1mg tablets	Trifluoperazine 1mg tablets	Tablet/ Oral Tablet	Oral	Trifluoperazine hydrochloride	1.000mg	04020100	717192
+1470741000033113	39706211000001103	Trifluoperazine 5mg tablets	Trifluoperazine 5mg tablets	Tablet/ Oral Tablet	Oral	Trifluoperazine hydrochloride	5.000mg	04020100	539840
+1473341000033117	514611000001101	Triptafen tablets (Advanz Pharma)	Triptafen tablets	Tablet/ Oral Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	25.000mg + 2.000mg	NA	257112
+1473441000033111	479411000001101	Triptafen-M tablets (Mercury Pharma Group Ltd)	Triptafen-M tablets	Tablet/ Oral Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	10.000mg + 2.000mg	NA	98617
+1512741000033113	701911000001108	Nozinan 25mg tablets (Neuraxpharm UK Ltd)	Nozinan 25mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	25.000mg	NA	20117
+1563441000033114	36151811000001100	Zuclopenthixol acetate 100mg/2ml solution for injection ampoules	Zuclopenthixol acetate 100mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol acetate	50.000mg/1.000ml	04020100	1635
+1563541000033110	36152011000001103	Zuclopenthixol acetate 50mg/1ml solution for injection ampoules	Zuclopenthixol acetate 50mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol acetate	50.000mg/1.000ml	04020100	1598
+1563641000033111	36152111000001102	Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules	Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol decanoate	200.000mg/1.000ml	04020200	110812
+1563741000033119	36152211000001108	Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules	Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Zuclopenthixol decanoate	500.000mg/1.000ml	04020200	81316
+1564041000033119	39707711000001108	Zuclopenthixol 10mg tablets	Zuclopenthixol 10mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	10.000mg	04020100	238881
+1564141000033115	39707911000001105	Zuclopenthixol 2mg tablets	Zuclopenthixol 2mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	2.000mg	04020100	150873
+1564241000033110	39708111000001108	Zuclopenthixol 25mg tablets	Zuclopenthixol 25mg tablets	Tablet/ Oral Tablet	Oral	Zuclopenthixol dihydrochloride	25.000mg	04020100	58697
+1565141000033119	486611000001101	Zyprexa 10mg tablets (Neon Healthcare Ltd)	Zyprexa 10mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	10.000mg	NA	15836
+1565241000033114	467011000001109	Zyprexa 5mg tablets (Neon Healthcare Ltd)	Zyprexa 5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	5.000mg	NA	13939
+1565341000033116	776911000001109	Zyprexa 7.5mg tablets (Neon Healthcare Ltd)	Zyprexa 7.5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	7.500mg	NA	2668
+1661141000033114	42275711000001108	Olanzapine 2.5mg tablets	Olanzapine 2.5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	2.500mg	04020100	2418595
+1698441000033110	35931111000001108	Sulpiride 200mg/5ml oral solution sugar free	Sulpiride 200mg/5ml oral solution sugar free	Oral solution	Oral	Sulpiride	40.000mg/1.000ml	04020100	38573
+1713941000033118	337311000001109	Zyprexa 2.5mg tablets (Neon Healthcare Ltd)	Zyprexa 2.5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	2.500mg	NA	8604
+1719341000033115	8359411000001103	Chlorpromazine 100mg/5ml oral solution	Chlorpromazine 100mg/5ml oral solution	Oral solution	Oral	Chlorpromazine hydrochloride	20.000mg/1.000ml	04020100	20995
+1844641000033118	39703111000001104	Quetiapine 150mg tablets	Quetiapine 150mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	150.000mg	04020100	1153956
+1844741000033110	4111000001106	Seroquel 150mg tablets (AstraZeneca UK Ltd)	Seroquel 150mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	150.000mg	NA	5919
+2077741000033115	42276011000001102	Olanzapine 5mg oral lyophilisates sugar free	Olanzapine 5mg oral lyophilisates sugar free	Oral lyophilisate	Oral	Olanzapine	5.000mg	04020100	142878
+2077841000033113	42275411000001102	Olanzapine 10mg oral lyophilisates sugar free	Olanzapine 10mg oral lyophilisates sugar free	Oral lyophilisate	Oral	Olanzapine	10.000mg	04020100	194694
+2077941000033117	91711000001108	Zyprexa 5mg Velotabs (Neon Healthcare Ltd)	Zyprexa 5mg Velotabs	Oral lyophilisate	Oral	Olanzapine	5.000mg	NA	8808
+2078041000033119	897111000001104	Zyprexa 10mg Velotabs (Neon Healthcare Ltd)	Zyprexa 10mg Velotabs	Oral lyophilisate	Oral	Olanzapine	10.000mg	NA	11523
+2188141000033115	526611000001101	Risperdal 500microgram tablets (Janssen-Cilag Ltd)	Risperdal 500microgram tablets	Tablet/ Oral Tablet	Oral	Risperidone	500.000microgram	NA	71934
+2188241000033110	42279211000001103	Risperidone 500microgram tablets	Risperidone 500microgram tablets	Tablet/ Oral Tablet	Oral	Risperidone	500.000microgram	04020100	3275406
+2216641000033113	42267811000001101	Amisulpride 400mg tablets	Amisulpride 400mg tablets	Tablet/ Oral Tablet	Oral	Amisulpride	400.000mg	04020100	309337
+2216741000033116	254011000001107	Solian 400 tablets (Sanofi)	Solian 400 tablets	Tablet/ Oral Tablet	Oral	Amisulpride	400.000mg	NA	625
+2640141000033112	38753511000001104	Promazine 50mg/5ml oral solution	Promazine 50mg/5ml oral solution	Oral solution	Oral	Promazine hydrochloride	10.000mg/1.000ml	04020100	142033
+2644841000033114	35901111000001102	Amisulpride 100mg/ml oral solution sugar free	Amisulpride 100mg/ml oral solution sugar free	Oral solution	Oral	Amisulpride	100.000mg/1.000ml	04020100	44744
+2644941000033118	3933811000001105	Solian 100mg/ml oral solution (Sanofi)	Solian 100mg/ml oral solution	Oral solution	Oral	Amisulpride	100.000mg/1.000ml	NA	700
+2653841000033110	19809011000001101	Levinan 6mg tablets (Kyowa Kirin Ltd)	Levinan 6mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	6.000mg	NA	654
+2658941000033110	145511000001103	Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Sulpor 200mg/5ml oral solution	Oral solution	Oral	Sulpiride	40.000mg/1.000ml	NA	343
+2758141000033116	30799611000001105	Haloperidol 200micrograms/ml oral solution sugar free	Haloperidol 200micrograms/ml oral solution sugar free	Oral solution	Oral	Haloperidol	200.000microgram/1.000ml	04020100	16384
+2759641000033117	42275611000001104	Olanzapine 15mg tablets	Olanzapine 15mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	15.000mg	04020100	967006
+2759741000033114	3434911000001100	Olanzapine 15mg oral lyophilisates sugar free	Olanzapine 15mg oral lyophilisates sugar free	Oral lyophilisate	Oral	Olanzapine	15.000mg	04020100	50679
+2759841000033116	511111000001106	Zyprexa 15mg tablets (Neon Healthcare Ltd)	Zyprexa 15mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	15.000mg	NA	3177
+2759941000033112	437611000001106	Zyprexa 15mg Velotabs (Neon Healthcare Ltd)	Zyprexa 15mg Velotabs	Oral lyophilisate	Oral	Olanzapine	15.000mg	NA	2121
+2779841000033118	4520711000001102	Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)	Risperdal Consta 25mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	25.000mg	NA	24134
+2779941000033114	4166711000001102	Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)	Risperdal Consta 37.5mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	37.500mg	NA	20459
+2780041000033113	4167011000001101	Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd)	Risperdal Consta 50mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	50.000mg	NA	31556
+2780141000033112	4559111000001109	Risperidone 25mg powder and solvent for suspension for injection vials	Risperidone 25mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	25.000mg	04020200	20207
+2780241000033117	4176911000001105	Risperidone 37.5mg powder and solvent for suspension for injection vials	Risperidone 37.5mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	37.500mg	04020200	19608
+2780341000033110	4177011000001109	Risperidone 50mg powder and solvent for suspension for injection vials	Risperidone 50mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	50.000mg	04020200	25381
+2835141000033114	42267611000001100	Amisulpride 100mg tablets	Amisulpride 100mg tablets	Tablet/ Oral Tablet	Oral	Amisulpride	100.000mg	04020100	595531
+2835241000033119	2841911000001104	Solian 100 tablets (Sanofi)	Solian 100 tablets	Tablet/ Oral Tablet	Oral	Amisulpride	100.000mg	NA	918
+2868841000033116	4054011000001109	Risperidone 1mg orodispersible tablets sugar free	Risperidone 1mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	1.000mg	04020100	54039
+2868941000033112	4054111000001105	Risperidone 2mg orodispersible tablets sugar free	Risperidone 2mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	2.000mg	04020100	45947
+2869041000033115	4039211000001101	Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd)	Risperdal Quicklet 1mg orodispersible tablets	Orodispersible tablet	Oral	Risperidone	1.000mg	NA	8017
+2869141000033116	4039711000001108	Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd)	Risperdal Quicklet 2mg orodispersible tablets	Orodispersible tablet	Oral	Risperidone	2.000mg	NA	10630
+2929741000033118	36053511000001109	Haloperidol 5mg/1ml solution for injection ampoules	Haloperidol 5mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Haloperidol	5.000mg/1.000ml	04020100	182284
+2929841000033111	3246911000001106	Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd)	Haldol 5mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Haloperidol	5.000mg/1.000ml	NA	469
+2944041000033118	766011000001103	Stemetil 12.5mg/1ml solution for injection ampoules (Sanofi)	Stemetil 12.5mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Prochlorperazine mesilate	12.500mg/1.000ml	NA	32262
+2969141000033110	196011000001108	Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd)	Buccastem M 3mg tablets	Buccal tablet	Buccal	Prochlorperazine maleate	3.000mg	NA	75168
+2975841000033113	42278511000001106	Quetiapine 300mg tablets	Quetiapine 300mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	300.000mg	04020100	1464251
+2975941000033117	4989111000001106	Seroquel 300mg tablets (Luye Pharma Ltd)	Seroquel 300mg tablets	Tablet/ Oral Tablet	Oral	Quetiapine fumarate	300.000mg	NA	8728
+3030841000033118	5818311000001104	Olanzapine 10mg powder for solution for injection vials	Olanzapine 10mg powder for solution for injection vials	Powder for solution for injection	Intramuscular	Olanzapine	10.000mg	04020100	81
+3063441000033119	38895311000001102	Levomepromazine 25mg/1ml solution for injection ampoules	Levomepromazine 25mg/1ml solution for injection ampoules	Solution for injection	Subcutaneous/ Intravenous/ Intramuscular	Levomepromazine hydrochloride	25.000mg/1.000ml	04020100	340108
+3063541000033118	42273511000001102	Levomepromazine 25mg tablets	Levomepromazine 25mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	25.000mg	04020100	186519
+3063641000033117	9536311000001104	Levomepromazine 6mg tablets	Levomepromazine 6mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	6.000mg	04020100	26736
+3090541000033111	36058011000001108	Flupentixol 50mg/0.5ml solution for injection ampoules	Flupentixol 50mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	100.000mg/1.000ml	04020200	15430
+3090641000033112	36068611000001107	Flupentixol 100mg/1ml solution for injection ampoules	Flupentixol 100mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	100.000mg/1.000ml	04020200	87854
+3090741000033115	36068711000001103	Flupentixol 200mg/1ml solution for injection ampoules	Flupentixol 200mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	200.000mg/1.000ml	04020200	29403
+3090841000033113	36068811000001106	Flupentixol 20mg/1ml solution for injection ampoules	Flupentixol 20mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	20.000mg/1.000ml	04020200	56335
+3090941000033117	36068911000001101	Flupentixol 40mg/2ml solution for injection ampoules	Flupentixol 40mg/2ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	20.000mg/1.000ml	04020200	45424
+3091041000033110	39692311000001104	Flupentixol 1mg tablets	Flupentixol 1mg tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	1.000mg	04030400	472230
+3091141000033114	39692511000001105	Flupentixol 500microgram tablets	Flupentixol 500microgram tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	500.000microgram	04030400	643220
+3091241000033119	39692411000001106	Flupentixol 3mg tablets	Flupentixol 3mg tablets	Tablet/ Oral Tablet	Oral	Flupentixol dihydrochloride	3.000mg	04020100	150904
+3108841000033119	42040111000001108	Prochlorperazine 5mg effervescent granules sachets sugar free	Prochlorperazine 5mg effervescent granules sachets sugar free	Effervescent granules	Oral	Prochlorperazine mesilate	5.000mg	04060000	26966
+3108941000033110	36021511000001106	Prochlorperazine 12.5mg/1ml solution for injection ampoules	Prochlorperazine 12.5mg/1ml solution for injection ampoules	Solution for injection	Intramuscular	Prochlorperazine mesilate	12.500mg/1.000ml	04060000	60179
+3109141000033119	36021611000001105	Prochlorperazine 5mg/5ml oral solution	Prochlorperazine 5mg/5ml oral solution	Oral solution	Oral	Prochlorperazine mesilate	1.000mg/1.000ml	04060000	77523
+3137541000033113	42268111000001109	Aripiprazole 10mg tablets	Aripiprazole 10mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	10.000mg	04020100	2026479
+3137641000033114	42268211000001103	Aripiprazole 15mg tablets	Aripiprazole 15mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	15.000mg	04020100	1203549
+3137741000033117	42268411000001104	Aripiprazole 30mg tablets	Aripiprazole 30mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	30.000mg	04020100	221783
+3137841000033110	7637111000001104	Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 10mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	10.000mg	NA	16201
+3137941000033119	7637411000001109	Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 15mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	15.000mg	NA	7966
+3138041000033116	7637811000001106	Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 30mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	30.000mg	NA	2094
+3141141000033114	7740511000001103	Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd)	Stelazine Forte 1mg/ml oral solution	Oral solution	Oral	Trifluoperazine hydrochloride	1.000mg/1.000ml	NA	68
+3158941000033116	7972911000001104	Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd)	Denzapine 25mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	25.000mg	NA	967
+3159041000033113	7974011000001109	Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd)	Denzapine 100mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	100.000mg	NA	1710
+3179941000033111	39692911000001103	Nortriptyline 10mg / Fluphenazine 500microgram tablets	Nortriptyline 10mg / Fluphenazine 500microgram tablets	Tablet/ Oral Tablet	Oral	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	500.000microgram + 10.000mg	04030100	15317
+3180441000033118	39731811000001104	Amitriptyline 25mg / Perphenazine 2mg tablets	Amitriptyline 25mg / Perphenazine 2mg tablets	Tablet/ Oral Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	25.000mg + 2.000mg	04030100	22834
+3180541000033117	39731711000001107	Amitriptyline 10mg / Perphenazine 2mg tablets	Amitriptyline 10mg / Perphenazine 2mg tablets	Tablet/ Oral Tablet	Oral	Amitriptyline hydrochloride/ Perphenazine	10.000mg + 2.000mg	04030100	9005
+3225241000033118	42268511000001100	Aripiprazole 5mg tablets	Aripiprazole 5mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	5.000mg	04020100	1325664
+3225341000033111	9037911000001102	Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 5mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	5.000mg	NA	10815
+3226341000033115	8838911000001102	Zaponex 25mg tablets (Leyden Delta B.V.)	Zaponex 25mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	25.000mg	NA	81
+3226441000033114	8839511000001103	Zaponex 100mg tablets (Leyden Delta B.V.)	Zaponex 100mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	100.000mg	NA	178
+3246041000033119	9045911000001108	Risperidone 500microgram orodispersible tablets sugar free	Risperidone 500microgram orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	500.000microgram	04020100	81957
+3246141000033115	9044211000001100	Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd)	Risperdal Quicklet 500microgram orodispersible tablets	Orodispersible tablet	Oral	Risperidone	500.000microgram	NA	9520
+3849441000033112	8359711000001109	Chlorpromazine 50mg/5ml oral solution	Chlorpromazine 50mg/5ml oral solution	Oral solution	Oral	Chlorpromazine hydrochloride	10.000mg/1.000ml	04020100	2169
+3858941000033110	36138211000001106	Chlorpromazine 25mg/1ml solution for injection ampoules	Chlorpromazine 25mg/1ml solution for injection ampoules	Solution for injection	Intravenous/ Intramuscular	Chlorpromazine hydrochloride	25.000mg/1.000ml	04020100	87
+3866541000033110	42275811000001100	Olanzapine 20mg oral lyophilisates sugar free	Olanzapine 20mg oral lyophilisates sugar free	Oral lyophilisate	Oral	Olanzapine	20.000mg	04020100	47519
+3866641000033111	9891011000001103	Zyprexa 20mg Velotabs (Neon Healthcare Ltd)	Zyprexa 20mg Velotabs	Oral lyophilisate	Oral	Olanzapine	20.000mg	NA	6292
+3892541000033114	14015911000001104	Olanzapine 2.5mg/5ml oral suspension	Olanzapine 2.5mg/5ml oral suspension	Oral suspension	Oral	Olanzapine	500.000microgram/1.000ml	04020100	2666
+3950341000033115	10675311000001102	Aripiprazole 10mg orodispersible tablets sugar free	Aripiprazole 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Aripiprazole	10.000mg	04020100	28591
+3950441000033114	10675411000001109	Aripiprazole 15mg orodispersible tablets sugar free	Aripiprazole 15mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Aripiprazole	15.000mg	04020100	23636
+3950541000033110	42268311000001106	Aripiprazole 1mg/ml oral solution	Aripiprazole 1mg/ml oral solution	Oral solution	Oral	Aripiprazole	1.000mg/1.000ml	04020100	91906
+3950641000033111	10664611000001100	Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 10mg orodispersible tablets	Orodispersible tablet	Oral	Aripiprazole	10.000mg	NA	1010
+3950741000033119	10664911000001106	Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 15mg orodispersible tablets	Orodispersible tablet	Oral	Aripiprazole	15.000mg	NA	782
+3950841000033112	10667211000001109	Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 1mg/ml oral solution	Oral solution	Oral	Aripiprazole	1.000mg/1.000ml	NA	1997
+3996241000033117	42275911000001105	Olanzapine 20mg tablets	Olanzapine 20mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	20.000mg	04020100	1096663
+3996341000033110	10878511000001107	Zyprexa 20mg tablets (Neon Healthcare Ltd)	Zyprexa 20mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	20.000mg	NA	2309
+4012041000033116	11140811000001105	Risperidone 3mg orodispersible tablets sugar free	Risperidone 3mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	3.000mg	04020100	15948
+4012141000033117	11140911000001100	Risperidone 4mg orodispersible tablets sugar free	Risperidone 4mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	4.000mg	04020100	15649
+4012241000033112	11134611000001103	Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd)	Risperdal Quicklet 3mg orodispersible tablets	Orodispersible tablet	Oral	Risperidone	3.000mg	NA	3134
+4012341000033119	11134311000001108	Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd)	Risperdal Quicklet 4mg orodispersible tablets	Orodispersible tablet	Oral	Risperidone	4.000mg	NA	4309
+4200641000033118	11763211000001100	Paliperidone 3mg modified-release tablets	Paliperidone 3mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	3.000mg	04020100	2632
+4200741000033110	11763311000001108	Paliperidone 6mg modified-release tablets	Paliperidone 6mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	6.000mg	04020100	3107
+4200841000033117	11763411000001101	Paliperidone 9mg modified-release tablets	Paliperidone 9mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	9.000mg	04020100	1919
+4200941000033113	11749311000001101	Invega 3mg modified-release tablets (Janssen-Cilag Ltd)	Invega 3mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	3.000mg	NA	107
+4201041000033115	11749811000001105	Invega 6mg modified-release tablets (Janssen-Cilag Ltd)	Invega 6mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	6.000mg	NA	91
+4201141000033116	11751011000001100	Invega 9mg modified-release tablets (Janssen-Cilag Ltd)	Invega 9mg modified-release tablets	Modified-release tablet	Oral	Paliperidone	9.000mg	NA	64
+4422541000033110	14018711000001108	Quetiapine 100mg/5ml oral suspension	Quetiapine 100mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	20.000mg/1.000ml	04020100	4074
+4424541000033119	12505911000001109	Haloperidol 5mg/5ml oral solution	Haloperidol 5mg/5ml oral solution	Oral solution	Oral	Haloperidol	1.000mg/1.000ml	04020100	2190
+4456741000033117	13456411000001100	Aripiprazole 9.75mg/1.3ml solution for injection vials	Aripiprazole 9.75mg/1.3ml solution for injection vials	Solution for injection	Intramuscular	Aripiprazole	7.500mg/1.000ml	04020100	330
+4456841000033110	13451111000001101	Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify 9.75mg/1.3ml solution for injection vials	Solution for injection	Intramuscular	Aripiprazole	7.500mg/1.000ml	NA	1
+4591741000033114	14042811000001105	Quetiapine 50mg modified-release tablets	Quetiapine 50mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	04020100	460455
+4591841000033116	42278111000001102	Quetiapine 200mg modified-release tablets	Quetiapine 200mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	04020100	268625
+4591941000033112	42278411000001107	Quetiapine 300mg modified-release tablets	Quetiapine 300mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	04020100	498308
+4592041000033118	42278611000001105	Quetiapine 400mg modified-release tablets	Quetiapine 400mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	04020100	263647
+4592141000033119	14026511000001105	Seroquel XL 50mg tablets (Luye Pharma Ltd)	Seroquel XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	22273
+4592241000033114	14025311000001109	Seroquel XL 200mg tablets (Luye Pharma Ltd)	Seroquel XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	17000
+4592341000033116	14026011000001102	Seroquel XL 300mg tablets (Luye Pharma Ltd)	Seroquel XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	32865
+4592441000033110	14025711000001108	Seroquel XL 400mg tablets (Luye Pharma Ltd)	Seroquel XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	16219
+4940141000033119	8277211000001103	Amisulpride 25mg/5ml oral solution	Amisulpride 25mg/5ml oral solution	Oral solution	Oral	Amisulpride	5.000mg/1.000ml	04020100	2741
+5054641000033118	8527911000001100	Haloperidol 1mg/5ml oral solution	Haloperidol 1mg/5ml oral solution	Oral solution	Oral	Haloperidol	200.000microgram/1.000ml	04020100	1817
+5077641000033110	15506311000001101	Clozapine 50mg/ml oral suspension sugar free	Clozapine 50mg/ml oral suspension sugar free	Oral suspension	Oral	Clozapine	50.000mg/1.000ml	04020100	455
+5077741000033118	15506011000001104	Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd)	Denzapine 50mg/ml oral suspension	Oral suspension	Oral	Clozapine	50.000mg/1.000ml	NA	64
+5077941000033115	15506211000001109	Clozapine 200mg tablets	Clozapine 200mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	200.000mg	04020100	3794
+5078041000033117	42270211000001105	Clozapine 50mg tablets	Clozapine 50mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	50.000mg	04020100	3551
+5078141000033118	15505711000001105	Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd)	Denzapine 200mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	200.000mg	NA	254
+5078241000033113	15498911000001105	Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd)	Denzapine 50mg tablets	Tablet/ Oral Tablet	Oral	Clozapine	50.000mg	NA	300
+5565141000033118	17038411000001101	Zypadhera 300mg powder and solvent for suspension for injection vials (Neon Healthcare Ltd)	Zypadhera 300mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Olanzapine embonate monohydrate	300.000mg	NA	17
+5565241000033113	17039011000001100	Zypadhera 405mg powder and solvent for suspension for injection vials (Neon Healthcare Ltd)	Zypadhera 405mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Olanzapine embonate monohydrate	405.000mg	NA	1
+5575741000033110	17037611000001102	Olanzapine embonate 210mg powder and solvent for suspension for injection vials	Olanzapine embonate 210mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Olanzapine embonate monohydrate	210.000mg	04020200	171
+5575841000033117	17038211000001100	Olanzapine embonate 300mg powder and solvent for suspension for injection vials	Olanzapine embonate 300mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Olanzapine embonate monohydrate	300.000mg	04020200	987
+5575941000033113	17038711000001107	Olanzapine embonate 405mg powder and solvent for suspension for injection vials	Olanzapine embonate 405mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Olanzapine embonate monohydrate	405.000mg	04020200	373
+5814341000033116	8582811000001100	Levomepromazine 2.5mg/5ml oral suspension	Levomepromazine 2.5mg/5ml oral suspension	Oral suspension	Oral	Levomepromazine maleate	500.000microgram/1.000ml	04020100	1528
+5889741000033118	13011611000001109	Quetiapine 12.5mg/5ml oral solution	Quetiapine 12.5mg/5ml oral solution	Oral solution	Oral	Quetiapine fumarate	2.500mg/1.000ml	04020100	1922
+5889841000033111	13011711000001100	Quetiapine 12.5mg/5ml oral suspension	Quetiapine 12.5mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	2.500mg/1.000ml	04020100	2008
+5890741000033111	8528011000001103	Haloperidol 1mg/5ml oral suspension	Haloperidol 1mg/5ml oral suspension	Oral suspension	Oral	Haloperidol	200.000microgram/1.000ml	04020100	311
+5890941000033114	8277311000001106	Amisulpride 25mg/5ml oral suspension	Amisulpride 25mg/5ml oral suspension	Oral suspension	Oral	Amisulpride	5.000mg/1.000ml	04020100	1947
+5891141000033117	14018611000001104	Quetiapine 100mg/5ml oral solution	Quetiapine 100mg/5ml oral solution	Oral solution	Oral	Quetiapine fumarate	20.000mg/1.000ml	04020100	1127
+5909341000033112	17828611000001101	Quetiapine 150mg modified-release tablets	Quetiapine 150mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	04020100	129322
+5909441000033118	17689811000001108	Seroquel XL 150mg tablets (Luye Pharma Ltd)	Seroquel XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	6712
+5969441000033117	12504911000001105	Haloperidol 1.5mg/5ml oral solution	Haloperidol 1.5mg/5ml oral solution	Oral solution	Oral	Haloperidol	300.000microgram/1.000ml	04020100	76
+5969541000033116	12505011000001105	Haloperidol 1.5mg/5ml oral suspension	Haloperidol 1.5mg/5ml oral suspension	Oral suspension	Oral	Haloperidol	300.000microgram/1.000ml	04020100	30
+5969641000033115	12505511000001102	Haloperidol 250micrograms/5ml oral solution	Haloperidol 250micrograms/5ml oral solution	Oral solution	Oral	Haloperidol	50.000microgram/1.000ml	04020100	328
+5969741000033112	12505611000001103	Haloperidol 250micrograms/5ml oral suspension	Haloperidol 250micrograms/5ml oral suspension	Oral suspension	Oral	Haloperidol	50.000microgram/1.000ml	04020100	389
+5974841000033112	13012211000001100	Quetiapine 25mg/5ml oral solution	Quetiapine 25mg/5ml oral solution	Oral solution	Oral	Quetiapine fumarate	5.000mg/1.000ml	04020100	1245
+5974941000033116	13012311000001108	Quetiapine 25mg/5ml oral suspension	Quetiapine 25mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	5.000mg/1.000ml	04020100	2294
+5975041000033116	15452011000001103	Quetiapine 50mg/5ml oral solution	Quetiapine 50mg/5ml oral solution	Oral solution	Oral	Quetiapine fumarate	10.000mg/1.000ml	04020100	439
+5975141000033117	15452111000001102	Quetiapine 50mg/5ml oral suspension	Quetiapine 50mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	10.000mg/1.000ml	04020100	502
+5993541000033117	12506011000001101	Haloperidol 5mg/5ml oral suspension	Haloperidol 5mg/5ml oral suspension	Oral suspension	Oral	Haloperidol	1.000mg/1.000ml	04020100	126
+5997341000033118	14015811000001109	Olanzapine 2.5mg/5ml oral solution	Olanzapine 2.5mg/5ml oral solution	Oral solution	Oral	Olanzapine	500.000microgram/1.000ml	04020100	616
+6359441000033116	19223711000001101	Paliperidone 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	04020200	6222
+6359541000033115	19223811000001109	Paliperidone 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	04020200	9462
+6359641000033119	19223511000001106	Paliperidone 100mg/1ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 100mg/1ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	04020200	13999
+6359741000033111	19223611000001105	Paliperidone 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	04020200	14162
+6359841000033118	19208911000001101	Xeplion 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Xeplion 50mg/0.5ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	NA	408
+6359941000033114	19210011000001104	Xeplion 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Xeplion 75mg/0.75ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	NA	1025
+6360041000033112	19210611000001106	Xeplion 100mg/1ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Xeplion 100mg/1ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	NA	549
+6360141000033111	19210911000001100	Xeplion 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Xeplion 150mg/1.5ml prolonged-release suspension for injection pre-filled syringes	Suspension for injection/ Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	100.000mg/1.000ml	NA	616
+6443041000033115	19504411000001105	Asenapine 5mg sublingual tablets sugar free	Asenapine 5mg sublingual tablets sugar free	Sublingual tablet	Sublingual	Asenapine maleate	5.000mg	04020300	2504
+6443141000033116	19504311000001103	Asenapine 10mg sublingual tablets sugar free	Asenapine 10mg sublingual tablets sugar free	Sublingual tablet	Sublingual	Asenapine maleate	10.000mg	04020300	1933
+6443241000033111	19496611000001105	Sycrest 5mg sublingual tablets (Organon Pharma (UK) Ltd)	Sycrest 5mg sublingual tablets	Sublingual tablet	Sublingual	Asenapine maleate	5.000mg	NA	99
+6443341000033118	19496311000001100	Sycrest 10mg sublingual tablets (Organon Pharma (UK) Ltd)	Sycrest 10mg sublingual tablets	Sublingual tablet	Sublingual	Asenapine maleate	10.000mg	NA	165
+6445641000033110	12646911000001102	Levomepromazine 6mg/5ml oral suspension	Levomepromazine 6mg/5ml oral suspension	Oral suspension	Oral	Levomepromazine maleate	1.200mg/1.000ml	04020100	570
+6455741000033116	18172311000001105	Ziprasidone 40mg capsules	Ziprasidone 40mg capsules	Capsule/ Oral capsule	Oral	Ziprasidone hydrochloride	40.000mg	04020100	19
+6455841000033114	19525911000001107	Ziprasidone 80mg capsules	Ziprasidone 80mg capsules	Capsule/ Oral capsule	Oral	Ziprasidone hydrochloride	80.000mg	04020100	1
+6456741000033114	19588311000001109	Zalasta 10mg tablets (Krka UK Ltd)	Zalasta 10mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	10.000mg	NA	36
+6456841000033116	19588511000001103	Zalasta 15mg tablets (Krka UK Ltd)	Zalasta 15mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	15.000mg	NA	12
+6456941000033112	19587711000001107	Zalasta 2.5mg tablets (Krka UK Ltd)	Zalasta 2.5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	2.500mg	NA	5
+6457041000033113	19588711000001108	Zalasta 20mg tablets (Krka UK Ltd)	Zalasta 20mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	20.000mg	NA	122
+6457141000033112	19587911000001109	Zalasta 5mg tablets (Krka UK Ltd)	Zalasta 5mg tablets	Tablet/ Oral Tablet	Oral	Olanzapine	5.000mg	NA	68
+6465341000033114	19609711000001105	Zalasta 10mg orodispersible tablets (Krka UK Ltd)	Zalasta 10mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	10.000mg	NA	2
+6465441000033115	19610111000001101	Zalasta 15mg orodispersible tablets (Krka UK Ltd)	Zalasta 15mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	15.000mg	NA	3
+6465641000033118	19608211000001108	Zalasta 5mg orodispersible tablets (Krka UK Ltd)	Zalasta 5mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	5.000mg	NA	2
+6465941000033113	19609511000001100	Olanzapine 5mg orodispersible tablets sugar free	Olanzapine 5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	5.000mg	04020100	34217
+6466041000033115	19609111000001109	Olanzapine 10mg orodispersible tablets sugar free	Olanzapine 10mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	10.000mg	04020100	33326
+6466141000033116	19609311000001106	Olanzapine 15mg orodispersible tablets sugar free	Olanzapine 15mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	15.000mg	04020100	14018
+6466241000033111	19609411000001104	Olanzapine 20mg orodispersible tablets sugar free	Olanzapine 20mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	20.000mg	04020100	23242
+7681641000033116	19626711000001106	Olanzapine 10mg orodispersible tablets	Olanzapine 10mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	10.000mg	04020100	68408
+7681741000033113	19626811000001103	Olanzapine 15mg orodispersible tablets	Olanzapine 15mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	15.000mg	04020100	28192
+7681841000033115	19626911000001108	Olanzapine 20mg orodispersible tablets	Olanzapine 20mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	20.000mg	04020100	51865
+7681941000033111	19627011000001107	Olanzapine 5mg orodispersible tablets	Olanzapine 5mg orodispersible tablets	Orodispersible tablet	Oral	Olanzapine	5.000mg	04020100	71861
+7687841000033114	20356011000001101	Sondate XL 50mg tablets (Teva UK Ltd)	Sondate XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	132747
+7687941000033118	20356211000001106	Sondate XL 200mg tablets (Teva UK Ltd)	Sondate XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	81842
+7688041000033115	20356411000001105	Sondate XL 300mg tablets (Teva UK Ltd)	Sondate XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	119659
+7688141000033116	20356611000001108	Sondate XL 400mg tablets (Teva UK Ltd)	Sondate XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	77850
+8112941000033114	21248811000001109	Tenprolide XL 50mg tablets (Actavis UK Ltd)	Tenprolide XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	11
+8113041000033116	21249311000001106	Tenprolide XL 200mg tablets (Actavis UK Ltd)	Tenprolide XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	13
+8113141000033117	21249511000001100	Tenprolide XL 300mg tablets (Actavis UK Ltd)	Tenprolide XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	36
+8246241000033114	21714411000001103	Sondate XL 150mg tablets (Teva UK Ltd)	Sondate XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	37607
+8298341000033111	22221211000001102	Seotiapim XL 200mg tablets (Sandoz Ltd)	Seotiapim XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	1
+8298441000033117	22221611000001100	Seotiapim XL 300mg tablets (Sandoz Ltd)	Seotiapim XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	8
+8298541000033116	22221411000001103	Seotiapim XL 400mg tablets (Sandoz Ltd)	Seotiapim XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	1
+8349141000033117	22409511000001108	Tenprolide XL 400mg tablets (Actavis UK Ltd)	Tenprolide XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	19
+8540041000033111	9490711000001100	Psytixol 50mg/0.5ml solution for injection ampoules (Viatris UK Healthcare Ltd)	Psytixol 50mg/0.5ml solution for injection ampoules	Solution for injection	Intramuscular	Flupentixol decanoate	100.000mg/1.000ml	NA	306
+8885941000033111	42269011000001103	Chlorpromazine 25mg suppositories	Chlorpromazine 25mg suppositories	Suppository	Rectal	Chlorpromazine hydrochloride	25.000mg	04020100	20
+8886041000033118	20176811000001101	Chlorpromazine 10mg capsules	Chlorpromazine 10mg capsules	Capsule/ Oral capsule	Oral	Chlorpromazine hydrochloride	10.000mg	04020100	92
+8960241000033117	23661211000001102	Aripiprazole 400mg powder and solvent for suspension for injection vials	Aripiprazole 400mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Aripiprazole	400.000mg	04020200	8638
+8960441000033116	23636811000001103	Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Aripiprazole	400.000mg	NA	967
+9604441000033112	25803211000001100	Ebesque XL 50mg tablets (Ethypharm UK Ltd)	Ebesque XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	26023
+9605541000033112	25804311000001105	Ebesque XL 200mg tablets (Ethypharm UK Ltd)	Ebesque XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	18822
+9605941000033118	25804911000001106	Ebesque XL 300mg tablets (Ethypharm UK Ltd)	Ebesque XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	33200
+9606341000033113	25806011000001102	Ebesque XL 400mg tablets (Ethypharm UK Ltd)	Ebesque XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	20159
+9808941000033118	26655311000001106	Lurasidone 18.5mg tablets	Lurasidone 18.5mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	18.500mg	04020100	8642
+9809041000033110	26655411000001104	Lurasidone 37mg tablets	Lurasidone 37mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	37.000mg	04020100	23947
+9809141000033114	26655511000001100	Lurasidone 74mg tablets	Lurasidone 74mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	74.000mg	04020100	26950
+9809241000033119	26654411000001100	Latuda 18.5mg tablets (CNX Therapeutics Ltd)	Latuda 18.5mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	18.500mg	NA	176
+9809341000033112	26654711000001106	Latuda 37mg tablets (CNX Therapeutics Ltd)	Latuda 37mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	37.000mg	NA	400
+9809441000033118	26655011000001108	Latuda 74mg tablets (CNX Therapeutics Ltd)	Latuda 74mg tablets	Tablet/ Oral Tablet	Oral	Lurasidone hydrochloride	74.000mg	NA	517
+10041141000033118	28400211000001109	Biquelle XL 50mg tablets (Aspire Pharma Ltd)	Biquelle XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	105305
+10041241000033113	28400411000001108	Biquelle XL 150mg tablets (Aspire Pharma Ltd)	Biquelle XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	36355
+10041341000033115	28401011000001108	Biquelle XL 200mg tablets (Aspire Pharma Ltd)	Biquelle XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	69187
+10041441000033114	28400611000001106	Biquelle XL 300mg tablets (Aspire Pharma Ltd)	Biquelle XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	107306
+10041541000033110	28400811000001105	Biquelle XL 400mg tablets (Aspire Pharma Ltd)	Biquelle XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	70753
+10041741000033119	28411511000001102	Zaluron XL 50mg tablets (Fontus Health Ltd)	Zaluron XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	108733
+10041841000033112	28411711000001107	Zaluron XL 150mg tablets (Fontus Health Ltd)	Zaluron XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	33568
+10041941000033116	28411911000001109	Zaluron XL 200mg tablets (Fontus Health Ltd)	Zaluron XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	68993
+10042041000033110	28412111000001101	Zaluron XL 300mg tablets (Fontus Health Ltd)	Zaluron XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	121413
+10042141000033114	28412311000001104	Zaluron XL 400mg tablets (Fontus Health Ltd)	Zaluron XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	71679
+10254741000033110	28994711000001109	Mintreleq XL 50mg tablets (Aristo Pharma Ltd)	Mintreleq XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	6343
+10254841000033117	28994911000001106	Mintreleq XL 150mg tablets (Aristo Pharma Ltd)	Mintreleq XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	3453
+10254941000033113	28995111000001107	Mintreleq XL 200mg tablets (Aristo Pharma Ltd)	Mintreleq XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	6268
+10255041000033113	28995611000001104	Mintreleq XL 300mg tablets (Aristo Pharma Ltd)	Mintreleq XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	5186
+10255141000033112	28995811000001100	Mintreleq XL 400mg tablets (Aristo Pharma Ltd)	Mintreleq XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	4074
+10493341000033115	8528311000001100	Haloperidol 500micrograms/5ml oral solution	Haloperidol 500micrograms/5ml oral solution	Oral solution	Oral	Haloperidol	100.000microgram/1.000ml	04020100	65
+10493441000033114	8528411000001107	Haloperidol 500micrograms/5ml oral suspension	Haloperidol 500micrograms/5ml oral suspension	Oral suspension	Oral	Haloperidol	100.000microgram/1.000ml	04020100	51
+10615141000033115	27842211000001101	Atrolak XL 50mg tablets (Accord-UK Ltd)	Atrolak XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	1093
+10615241000033110	27842411000001102	Atrolak XL 200mg tablets (Accord-UK Ltd)	Atrolak XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	458
+10615341000033117	27842611000001104	Atrolak XL 300mg tablets (Accord-UK Ltd)	Atrolak XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	629
+10615441000033111	27842811000001100	Atrolak XL 400mg tablets (Accord-UK Ltd)	Atrolak XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	198
+10946341000033116	31087211000001107	Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes	Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes	Powder and solvent for suspension for injection	Intramuscular	Aripiprazole	400.000mg	04020200	18809
+10946441000033110	31078011000001108	Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (Otsuka Pharmaceuticals (U.K.) Ltd)	Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Powder and solvent for suspension for injection	Intramuscular	Aripiprazole	400.000mg	NA	1883
+11578941000033118	32503211000001102	Psyquet XL 50mg tablets (Sandoz Ltd)	Psyquet XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	9
+11579241000033119	32503411000001103	Psyquet XL 150mg tablets (Sandoz Ltd)	Psyquet XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	5
+11579341000033112	32503611000001100	Psyquet XL 200mg tablets (Sandoz Ltd)	Psyquet XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	62
+11579441000033118	32503811000001101	Psyquet XL 300mg tablets (Sandoz Ltd)	Psyquet XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	6
+11579541000033117	32504011000001109	Psyquet XL 400mg tablets (Sandoz Ltd)	Psyquet XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	187
+11694341000033111	32878911000001109	Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	04020200	162
+11694441000033117	32879011000001100	Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	04020200	332
+11694541000033116	32879111000001104	Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	04020200	418
+11694641000033115	32879211000001105	Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	04020200	454
+11694741000033112	32866911000001100	Trevicta 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Trevicta 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	101
+11694841000033119	32867811000001107	Trevicta 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Trevicta 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	178
+11694941000033110	32868111000001104	Trevicta 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Trevicta 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	285
+11695041000033110	32868411000001109	Trevicta 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Trevicta 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection/	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	307
+11730041000033115	22635511000001100	Quetiapine 200mg/5ml oral suspension	Quetiapine 200mg/5ml oral suspension	Oral suspension	Oral	Quetiapine fumarate	40.000mg/1.000ml	04020100	118
+11753641000033118	33391011000001100	Quetiapine 20mg/ml oral suspension sugar free	Quetiapine 20mg/ml oral suspension sugar free	Oral suspension	Oral	Quetiapine fumarate	20.000mg/1.000ml	04020100	10364
+11781941000033118	33569711000001103	Brancico XL 150mg tablets (Zentiva Pharma UK Ltd)	Brancico XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	5219
+11782041000033112	33569011000001100	Brancico XL 200mg tablets (Zentiva Pharma UK Ltd)	Brancico XL 200mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	200.000mg	NA	7597
+11782141000033111	33568811000001104	Brancico XL 300mg tablets (Zentiva Pharma UK Ltd)	Brancico XL 300mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	300.000mg	NA	12896
+11782241000033116	33570111000001101	Brancico XL 400mg tablets (Zentiva Pharma UK Ltd)	Brancico XL 400mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	400.000mg	NA	6474
+11782341000033114	33569911000001101	Brancico XL 50mg tablets (Zentiva Pharma UK Ltd)	Brancico XL 50mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	50.000mg	NA	14656
+11798841000033118	13059411000001102	Pimozide 2mg/5ml oral suspension	Pimozide 2mg/5ml oral suspension	Oral suspension	Oral	Pimozide	400.000microgram/1.000ml	04020100	23
+11821541000033119	33690711000001102	Levomepromazine 62.5mg/5ml oral suspension	Levomepromazine 62.5mg/5ml oral suspension	Oral suspension	Oral	Levomepromazine maleate	12.500mg/1.000ml	04020100	57
+11876741000033116	18956611000001104	Chlorpromazine 25mg/5ml oral solution sugar free	Chlorpromazine 25mg/5ml oral solution sugar free	Oral solution	Oral	Chlorpromazine hydrochloride	5.000mg/1.000ml	04020100	4737
+12428041000033114	34936811000001101	Atrolak XL 150mg tablets (Accord-UK Ltd)	Atrolak XL 150mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	150.000mg	NA	7
+12665341000033110	35853811000001105	Cariprazine 1.5mg capsules	Cariprazine 1.5mg capsules	Capsule/ Oral capsule	Oral	Cariprazine hydrochloride	1.500mg	04020100	775
+12665441000033116	35853911000001100	Cariprazine 3mg capsules	Cariprazine 3mg capsules	Capsule/ Oral capsule	Oral	Cariprazine hydrochloride	3.000mg	04020100	1074
+12665541000033115	35854011000001102	Cariprazine 4.5mg capsules	Cariprazine 4.5mg capsules	Capsule/ Oral capsule	Oral	Cariprazine hydrochloride	4.500mg	04020100	590
+12665641000033119	35854111000001101	Cariprazine 6mg capsules	Cariprazine 6mg capsules	Capsule/ Oral capsule	Oral	Cariprazine hydrochloride	6.000mg	04020100	647
+12665841000033118	35772111000001108	Reagila 3mg capsules (Recordati Pharmaceuticals Ltd)	Reagila 3mg capsules	Capsule/ Oral capsule	Oral	Cariprazine hydrochloride	3.000mg	NA	1
+12667641000033113	42268711000001105	Chlorpromazine 100mg suppositories	Chlorpromazine 100mg suppositories	Suppository	Rectal	Chlorpromazine hydrochloride	100.000mg	04020100	11
+12988741000033118	36905011000001104	Olanzapine 2.5mg orodispersible tablets sugar free	Olanzapine 2.5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	2.500mg	04020100	694
+12988841000033111	36905111000001103	Olanzapine 7.5mg orodispersible tablets sugar free	Olanzapine 7.5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Olanzapine	7.500mg	04020100	208
+12990341000033118	36868411000001105	Arpoya 5mg tablets (Torrent Pharma (UK) Ltd)	Arpoya 5mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	5.000mg	NA	8
+12990441000033112	36868711000001104	Arpoya 10mg tablets (Torrent Pharma (UK) Ltd)	Arpoya 10mg tablets	Tablet/ Oral Tablet	Oral	Aripiprazole	10.000mg	NA	3
+13155441000033117	35753411000001105	Halkid 200micrograms/ml oral solution (Thame Laboratories Ltd)	Halkid 200micrograms/ml oral solution	Oral solution	Oral	Haloperidol	200.000microgram/1.000ml	NA	19
+13158341000033119	37697511000001102	Clozapine 100mg orodispersible tablets sugar free	Clozapine 100mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Clozapine	100.000mg	04020100	69
+13158441000033113	37697711000001107	Clozapine 12.5mg orodispersible tablets sugar free	Clozapine 12.5mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Clozapine	12.500mg	04020100	183
+13158541000033114	37697811000001104	Clozapine 200mg orodispersible tablets sugar free	Clozapine 200mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Clozapine	200.000mg	04020100	116
+13158641000033110	37697911000001109	Clozapine 25mg orodispersible tablets sugar free	Clozapine 25mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Clozapine	25.000mg	04020100	35
+13158741000033118	37698011000001106	Clozapine 50mg orodispersible tablets sugar free	Clozapine 50mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Clozapine	50.000mg	04020100	28
+13158841000033111	37688211000001100	Zaponex 100mg orodispersible tablets (Leyden Delta B.V.)	Zaponex 100mg orodispersible tablets	Orodispersible tablet	Oral	Clozapine	100.000mg	NA	3
+13159041000033112	37688811000001104	Zaponex 200mg orodispersible tablets (Leyden Delta B.V.)	Zaponex 200mg orodispersible tablets	Orodispersible tablet	Oral	Clozapine	200.000mg	NA	2
+13159141000033111	37687511000001101	Zaponex 25mg orodispersible tablets (Leyden Delta B.V.)	Zaponex 25mg orodispersible tablets	Orodispersible tablet	Oral	Clozapine	25.000mg	NA	2
+13159241000033116	37687811000001103	Zaponex 50mg orodispersible tablets (Leyden Delta B.V.)	Zaponex 50mg orodispersible tablets	Orodispersible tablet	Oral	Clozapine	50.000mg	NA	3
+13353241000033112	37249011000001105	Aripiprazole 1mg/ml oral solution sugar free	Aripiprazole 1mg/ml oral solution sugar free	Oral solution	Oral	Aripiprazole	1.000mg/1.000ml	04020100	6378
+13581641000033117	38696711000001103	Risperidone 250microgram tablets	Risperidone 250microgram tablets	Tablet/ Oral Tablet	Oral	Risperidone	250.000microgram	04020100	53906
+13719041000033113	38931811000001107	Levomepromazine 50mg tablets	Levomepromazine 50mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	50.000mg	04020100	1161
+13719141000033112	27946311000001103	Levomepromazine 100mg tablets	Levomepromazine 100mg tablets	Tablet/ Oral Tablet	Oral	Levomepromazine maleate	100.000mg	NA	26
+13734841000033110	39027411000001105	Quetiapine 600mg modified-release tablets	Quetiapine 600mg modified-release tablets	Modified-release tablet	Oral	Quetiapine fumarate	600.000mg	04020100	6859
+13734941000033119	39005011000001102	Biquelle XL 600mg tablets (Aspire Pharma Ltd)	Biquelle XL 600mg tablets	Modified-release tablet	Oral	Quetiapine fumarate	600.000mg	NA	1043
+13746541000033119	39132411000001101	Modecate 25mg/1ml solution for injection ampoules (Imported (Denmark))	Modecate 25mg/1ml solution for injection ampoules	Solution for injection	NA	Fluphenazine decanoate	25.000mg/1.000ml	NA	2
+13746741000033110	39132811000001104	Modecate Concentrate 100mg/1ml solution for injection ampoules (Imported (Germany))	Modecate Concentrate 100mg/1ml solution for injection ampoules	Solution for injection	NA	Fluphenazine decanoate	100.000mg/1.000ml	NA	5
+14023941000033116	40617811000001108	Paliperidone 1g/5ml prolonged-release suspension for injection pre-filled syringes	Paliperidone 1g/5ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	04020200	1
+14024141000033115	40617211000001107	Byannli 1000mg/5ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Byannli 1000mg/5ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	8
+14024241000033110	40617511000001105	Byannli 700mg/3.5ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd)	Byannli 700mg/3.5ml prolonged-release suspension for injection pre-filled syringes	Prolonged-release suspension for injection	Intramuscular	Paliperidone palmitate	200.000mg/1.000ml	NA	10
+14025741000033115	40627211000001103	Risperidone 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Risperidone 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Powder and solvent for prolonged-release suspension for inj	Intramuscular	Risperidone	100.000mg	04020200	2
+14025941000033117	40625911000001102	Okedi 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (ROVI Biotech Ltd)	Okedi 100mg powder and solvent for prolonged-release suspension for injection pre-filled syringes	Powder and solvent for prolonged-release suspension for inj	Intramuscular	Risperidone	100.000mg	NA	8
+14174341000033110	41482411000001101	Levomepromazine hydrochloride 25mg/5ml oral solution sugar free	Levomepromazine hydrochloride 25mg/5ml oral solution sugar free	Oral solution	Oral	Levomepromazine hydrochloride	5.000mg/1.000ml	04020100	89
+14174441000033116	41442811000001109	Levorol 5mg/ml oral solution (Galvany Pharma Ltd)	Levorol 5mg/ml oral solution	Oral solution	Oral	Levomepromazine hydrochloride	5.000mg/1.000ml	NA	15
+242241000033115	NA	Chlorpromazine Hydrochloride  Injection  100 mg/5 ml	NA	NA	NA	NA	NA	NA	242
+242341000033113	NA	Chlorpromazine Hydrochloride  Injection  25 mg/ml	NA	NA	NA	NA	NA	NA	1090
+246541000033119	NA	Chlorpromazine Hydrochloride  Suppositories  100 mg	NA	NA	NA	NA	NA	NA	320
+584741000033119	NA	Fluphenazine Enanthate  Injection  25 mg/ml	NA	NA	NA	NA	NA	NA	132
+585041000033116	NA	Flupenthixol Decanoate  Injection  200 mg/10 ml	NA	NA	NA	NA	NA	NA	38
+585241000033112	NA	Flupenthixol Decanoate  Injection (syringe)  20 ml/1 ml	NA	NA	NA	NA	NA	NA	48
+585341000033119	NA	Flupenthixol Decanoate  Injection (syringe)  40 mg/2 ml	NA	NA	NA	NA	NA	NA	272
+585541000033114	NA	Flupenthixol Decanoate  Injection  500 mg/5 ml	NA	NA	NA	NA	NA	NA	36
+587641000033116	NA	Flupenthixol Decanoate  Injection  100 mg/1 ml ampoule	NA	NA	NA	NA	NA	NA	79
+659241000033113	NA	Haloperidol  Elixir  2 mg/5 ml	NA	NA	NA	NA	NA	NA	1034
+659941000033116	NA	Haloperidol  Injection  5 mg/ml	NA	NA	NA	NA	NA	NA	28347
+660441000033110	NA	Haloperidol  Liquid  2mg/ml	NA	NA	NA	NA	NA	NA	9718
+661441000033118	NA	Haloperidol  Oral liquid conc.  10 mg/ml	NA	NA	NA	NA	NA	NA	571
+1052041000033118	NA	Perphenazine  Injection  5 mg/ml	NA	NA	NA	NA	NA	NA	6
+1065341000033119	NA	Perphenazine  Tablets  8 mg	NA	NA	NA	NA	NA	NA	78
+1067141000033114	NA	Pericyazine  Tablets  25 mg	NA	NA	NA	NA	NA	NA	269
+1090841000033118	NA	Pimozide  Tablets  10 mg	NA	NA	NA	NA	NA	NA	3089
+1116541000033114	NA	Prochlorperazine Mesylate  Injection  25 mg/2 ml	NA	NA	NA	NA	NA	NA	411
+1116941000033115	NA	Prochlorperazine Maleate  Injection  12.5 mg/ml	NA	NA	NA	NA	NA	NA	3166
+1117541000033112	NA	Promazine Hydrochloride  Injection  50 mg/ml	NA	NA	NA	NA	NA	NA	833
+1127741000033112	NA	Prochlorperazine Maleate  Spansules  10 mg	NA	NA	NA	NA	NA	NA	549
+1127841000033119	NA	Prochlorperazine Maleate  Spansules  15 mg	NA	NA	NA	NA	NA	NA	211
+1129141000033118	NA	Promazine Hydrochloride  Suspension  50 mg/5 ml	NA	NA	NA	NA	NA	NA	46999
+1134241000033114	NA	Promazine Hydrochloride  Tablets  100 mg	NA	NA	NA	NA	NA	NA	1075
+1150341000033113	NA	Quetiapine Fumarate  Tablets (starter pack)  6 x 25 mg, 2 x 100 mg	NA	NA	NA	NA	NA	NA	81
+1432741000033112	NA	Thioridazine  Syrup  12.5mg/5 ml	NA	NA	NA	NA	NA	NA	3734
+1459841000033114	NA	Trifluoperazine  Injection  1 mg/ml	NA	NA	NA	NA	NA	NA	89
+1462041000033119	NA	Trifluoperazine  Liquid  10mg/ml	NA	NA	NA	NA	NA	NA	616
+1832841000033113	NA	Quetiapine Fumarate  Tablets (starter pack)  6x25 mg, 2x100 mg, 2x150 mg	NA	NA	NA	NA	NA	NA	1322
+2730641000033111	NA	Promazine Hydrochloride  Syrup  50 mg/5 ml	NA	NA	NA	NA	NA	NA	10
+4133841000033118	NA	Quetiapine  Oral Suspension Sugar Free  12.5 mg/5 ml	NA	NA	NA	NA	NA	NA	5370
+4148441000033110	NA	Chlorpromazine  Capsules  10 mg	NA	NA	NA	NA	NA	NA	826
+251141000033117	NA	Chloractil  Tablets  100 mg	NA	NA	NA	NA	NA	NA	17
+251241000033112	NA	Chloractil  Tablets  25 mg	NA	NA	NA	NA	NA	NA	43
+251341000033119	NA	Chloractil  Tablets  50 mg	NA	NA	NA	NA	NA	NA	18
+420041000033111	NA	Depixol  Injection  200 mg/10 ml	NA	NA	NA	NA	NA	NA	1552
+420241000033115	NA	Depixol  Injection (syringe)  20 mg/1 ml	NA	NA	NA	NA	NA	NA	2174
+420341000033113	NA	Depixol  Injection (syringe)  40 mg/2 ml	NA	NA	NA	NA	NA	NA	896
+420541000033118	NA	Depixol Conc.  Injection  500 mg/5 ml	NA	NA	NA	NA	NA	NA	264
+476641000033118	NA	Dozic  Liquid  2mg/ml	NA	NA	NA	NA	NA	NA	1
+567141000033111	NA	Fentazin  Injection  5 mg/ml	NA	NA	NA	NA	NA	NA	22
+571141000033114	NA	Fentazin  Tablets  8 mg	NA	NA	NA	NA	NA	NA	23
+660041000033118	NA	Haldol  Injection  5 mg/ml	NA	NA	NA	NA	NA	NA	762
+661641000033116	NA	Haldol  Oral liquid conc.  10 mg/ml	NA	NA	NA	NA	NA	NA	25
+813341000033115	NA	Largactil  Suppositories  100 mg	NA	NA	NA	NA	NA	NA	56
+894141000033116	NA	Melleril  Syrup  3mg/10 ml	NA	NA	NA	NA	NA	NA	89
+926041000033110	NA	Moditen Enanthate  Injection  25 mg/ml	NA	NA	NA	NA	NA	NA	88
+965741000033110	NA	Neulactil  Tablets  25 mg	NA	NA	NA	NA	NA	NA	61
+1016341000033111	NA	Orap  Tablets  10 mg	NA	NA	NA	NA	NA	NA	456
+1269641000033115	NA	Serenace  Elixir  2 mg/5 ml	NA	NA	NA	NA	NA	NA	264
+1277941000033111	NA	Seroquel  Tablets (starter pack)  6 x 25 mg, 2 x 100 mg	NA	NA	NA	NA	NA	NA	17
+1370441000033112	NA	Sparine  Injection  50 mg/ml	NA	NA	NA	NA	NA	NA	171
+1372741000033116	NA	Sparine  Suspension  50 mg/5 ml	NA	NA	NA	NA	NA	NA	14252
+1373141000033110	NA	Sparine  Tablets  100 mg	NA	NA	NA	NA	NA	NA	3
+1373241000033115	NA	Sparine  Tablets  25 mg	NA	NA	NA	NA	NA	NA	95
+1373341000033113	NA	Sparine  Tablets  50 mg	NA	NA	NA	NA	NA	NA	46
+1379041000033113	NA	Stemetil  Injection  25 mg/2 ml	NA	NA	NA	NA	NA	NA	1916
+1379241000033117	NA	Stelazine  Injection  1 mg/ml	NA	NA	NA	NA	NA	NA	166
+1379641000033119	NA	Stemetil  Injection  12.5 mg/ml	NA	NA	NA	NA	NA	NA	74260
+1381441000033113	NA	Stelazine  Liquid  10mg/ml	NA	NA	NA	NA	NA	NA	267
+1832941000033117	NA	Seroquel  Tablets (starter pack)  6x25 mg, 2x100 mg, 2x150 mg	NA	NA	NA	NA	NA	NA	91
