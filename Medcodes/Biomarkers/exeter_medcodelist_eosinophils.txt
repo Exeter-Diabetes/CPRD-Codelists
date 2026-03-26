@@ -1,0 +1,2 @@
+MedCodeId	Term	Observations
+119575019	Eosinophil count	149185915
