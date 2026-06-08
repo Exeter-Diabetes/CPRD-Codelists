@@ -1,0 +1,108 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+303877019	Focal membranoproliferative glomerulonephritis	K0320	K032000	197626007	303877019	NA	32
+677971000006118	Nephritis unsp+membranoprolif glomerulonephritis lesion NOS	K032z	K032z00	52845002	87940013	NA	32
+4788161000006115	PGN - Acute proliferative glomerulonephritis	^ESCTPG478816		197579006	303811012	NA	32
+7724911000006113	Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis	^ESCTRE772491		714817004	3300531011	NA	32
+7724951000006114	Recurrent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis	^ESCTRE772495		714819001	3300537010	NA	32
+2557891000006117	Diffuse endocapillary proliferative glomerulonephritis	^ESCTDI255789		3704008	7243014	NA	32
+3806551000006114	MCGN - Mesangiocapillary glomerulonephritis	^ESCTMC380655		80321008	504397015	NA	32
+12704531000006116	Chronic mesangial proliferative glomerulonephritis	^ESCT1270453		197613008	303862010	NA	32
+5093491000006117	Endocapillary proliferative glomerulonephritis	^ESCTEN509349		236393009	3029306014	NA	31
+3466101000006111	Mesangiocapillary glomerulonephritis type II	^ESCTME346610		59479006	498445010	NA	31
+8120531000006116	Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3	^ESCTNE812053		368911000119109	3289998016	NA	31
+8118551000006119	Hereditary diffuse mesangiocapillary glomerulonephritis	^ESCTHE811855		367561000119103	3011796016	NA	31
+3072641000006116	Mesangial proliferative glomerulonephritis	^ESCTME307264		35546006	59308019	NA	31
+3466081000006115	Mesangiocapillary glomerulonephritis, type II	^ESCTME346608		59479006	98800018	NA	31
+8120481000006119	Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTRA812048		368881000119109	3289844019	NA	31
+7724961000006111	Persistent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis	^ESCTPE772496		714820007	3300541014	NA	31
+7724921000006117	Persistent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis	^ESCTPE772492		714818009	3300535019	NA	31
+7689691000006113	Focal mesangial proliferative glomerulonephritis	^ESCTFO768969		711531007	3078682014	NA	31
+8118511000006115	Hereditary diffuse endocapillary proliferative glomerulonephritis	^ESCTHE811851		367531000119106	3012598016	NA	31
+5093751000006115	Mesangiocapillary glomerulonephritis type III	^ESCTME509375		236409000	354381011	NA	31
+3734071000006111	Subendothelial mesangiocapillary glomerulonephritis	^ESCTSU373407		75888001	1233930017	NA	31
+8118471000006113	Hereditary mesangiocapillary glomerulonephritis, type 2	^ESCTHE811847		367511000119101	3012571015	NA	31
+11921881000006116	[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis	^ESCT1192188		438031000000105	891511000000117	NA	31
+8120471000006117	Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTAC812047		368871000119106	3289984012	NA	31
+5093801000006110	Mesangial IgM proliferative glomerulonephritis	^ESCTME509380		236411009	354386018	NA	31
+354380012	Mesangiocapillary glomerulonephritis	K032y-4	K032y14	80321008	133280014	NA	32
+189171000006118	Recurrent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis	K0A23	K0A2300	714825002	3300556017	NA	32
+191841000006118	Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis	K0A15	K0A1500	197695002	303983017	NA	32
+440031000006117	Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis	K0A04	K0A0400	197685009	303973016	NA	32
+553191000006115	Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis	K0A34	K0A3400	197712008	304009014	NA	32
+555191000006119	Membranoproliferative glomerulonephritis	K022	K022.00	80321008	133282018	NA	32
+677471000006110	Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis	K019	K019.00	197598008	303837010	NA	32
+677621000006112	Nephrotic syndrome with membranoproliferative glomerulonephritis	K012	K012.00	197591002	303827017	NA	32
+742231000006118	Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis	K0A44	K0A4400	197722002	304019015	NA	32
+430091000006117	[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis	Kyu0A	Kyu0A00	3704008	7243014	NA	32
+3466091000006117	MCGNdd - Mesangiocapillary glomerulonephritis, dense deposit	^ESCTMC346609		59479006	498444014	NA	31
+8120571000006118	Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III	^ESCTHE812057		368941000119108	3288695010	NA	31
+8120521000006119	Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTNE812052		368911000119109	3290082017	NA	31
+7725071000006116	Recurrent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis	^ESCTRE772507		714825002	3300555018	NA	32
+3806561000006111	MPGN - Membranoproliferative glomerulonephritis	^ESCTMP380656		80321008	504398013	NA	32
+303812017	Acute proliferative glomerulonephritis	K000	K000.00	197579006	303812017	NA	32
+8120501000006112	Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTCH812050		368901000119106	3289729012	NA	31
+555371000006118	Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis	K0A35	K0A3500	197713003	304010016	NA	32
+8120551000006111	Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTIS812055		368931000119104	3289728016	NA	31
+8056041000006114	Chronic proliferative glomerulonephritis	^ESCTCH805604		195791000119101	3013099011	NA	31
+8118531000006114	Hereditary diffuse mesangial proliferative glomerulonephritis	^ESCTHE811853		367551000119100	3012584012	NA	31
+7725081000006118	Persistent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis	^ESCTPE772508		714826001	3300559012	NA	31
+5093771000006113	Mesangiocapillary glomerulonephritis type IV	^ESCTME509377		236410005	354384015	NA	31
+7255581000006116	Proliferative glomerulonephritis	^ESCTPR725558		441815006	2817638012	NA	31
+354347017	Chronic mesangial proliferative glomerulonephritis	K032y-3	K032y13	197613008	303860019	NA	32
+189161000006113	Recurrent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis	K0A24	K0A2400	714817004	3300532016	NA	32
+458441000006117	Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis	K0A05	K0A0500	197686005	303974010	NA	32
+677461000006115	Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis	K017	K017.00	197596007	303835019	NA	32
+3466111000006114	MCGN type II - Mesangiocapillary glomerulonephritis type II	^ESCTMC346611		59479006	498446011	NA	31
+3864441000006115	Focal AND segmental proliferative glomerulonephritis	^ESCTFO386444		83866005	139066015	NA	31
+3734061000006116	MCGN type I - Mesangiocapillary glomerulonephritis type I	^ESCTMC373406		75888001	1233929010	NA	31
+8120561000006113	Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type 3	^ESCTIS812056		368931000119104	3289752011	NA	31
+7725091000006115	Persistent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis	^ESCTPE772509		714826001	3300558016	NA	31
+3734051000006118	Mesangiocapillary glomerulonephritis, type I	^ESCTME373405		75888001	126049014	NA	31
+5093761000006118	MCGN type III - Mesangiocapillary glomerulonephritis type III	^ESCTMC509376		236409000	354382016	NA	31
+3734081000006114	Mesangiocapillary glomerulonephritis type I	^ESCTME373408		75888001	1233931018	NA	31
+3222361000006116	MCGN - Minimal change glomerulonephritis	^ESCTMC322236		44785005	1230130017	NA	32
+354346014	Mixed membranous and proliferative glomerulonephritis NEC	K032y-5	K032y15	52845002	87940013	NA	32
+303876011	Membranoproliferative nephritis unspecified	K032	K032.00	52845002	87940013	NA	32
+7615481000006111	Recurrent proliferative glomerulonephritis	^ESCTRE761548		707332000	3029689012	NA	31
+189181000006115	Recurrent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis	K0A25	K0A2500	714819001	3300538017	NA	32
+742241000006111	Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis	K0A43	K0A4300	197721009	304018011	NA	32
+7724931000006119	Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis	^ESCTPE772493		714818009	3300534015	NA	31
+5093781000006111	MCGN type IV - Mesangiocapillary glomerulonephritis type IV	^ESCTMC509378		236410005	354383014	NA	31
+4788491000006115	PGN - Chronic mesangial proliferative glomerulonephritis	^ESCTPG478849		197613008	303860019	NA	32
+8120491000006116	Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3	^ESCTRA812049		368881000119109	3289851011	NA	31
+556211000006112	Chronic proliferative glomerulonephritis	K020	K020.00	197613008	303862010	NA	32
+677981000006115	Nephritis unsp+OS membranoprolif glomerulonephritis lesion	K032y	K032y00	52845002	87940013	NA	32
+745481000006111	Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis	K0A45	K0A4500	197723007	304020014	NA	32
+191851000006116	Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis	K0A14	K0A1400	197694003	303982010	NA	32
+455321000006114	Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis	K0A03	K0A0300	197684008	303972014	NA	32
+7724971000006116	Persistent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis	^ESCTPE772497		714820007	3300540010	NA	31
+303825013	Nephrotic syndrome with proliferative glomerulonephritis	K010	K010.00	197589005	303825013	NA	32
+8120541000006114	Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III	^ESCTNE812054		368921000119102	3289846017	NA	31
+165061000006114	Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis	K0A13	K0A1300	197693009	303981015	NA	32
+553181000006118	Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis	K0A33	K0A3300	197613008	303861015	NA	32
+677481000006113	Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis	K018	K018.00	197597003	303836018	NA	32
+821461000006116	Hereditary nephropathy, NEC, dense deposit disease	K0A56	K0A5600	236526008	354545012	NA	32
+11904541000006116	Recurrent and persistent haematuria, dense deposit disease	^ESCT1190454		281860005	189231000006110	NA	32
+77541000006113	Unspecified nephritic syndrome, dense deposit disease	K03V	K03V.00	462181000000102	891521000000111	NA	32
+704871000006119	Isolated proteinuria with specified morphological lesion, dense deposit disease	K0A46	K0A4600	197724001	304021013	NA	32
+304001012	Recurrent haematuria co-occurrent and due to dense deposit disease	K0A26	K0A2600	714813000	3300520015	NA	32
+3466091000006117	MCGNdd - Mesangiocapillary glomerulonephritis, dense deposit	^ESCTMC346609		59479006	498444014	NA	31
+7724831000006112	Recurrent hematuria co-occurrent and due to dense deposit disease	^ESCTRE772483		714813000	3300519014	NA	32
+7724821000006114	Recurrent haematuria co-occurrent and due to dense deposit disease	^ESCTRE772482		714813000	7724821000006114	NA	32
+303975011	Acute nephritic syndrome, dense deposit disease	K0A06	K0A0600	197687001	303975011	NA	32
+12481351000006114	[X]Unspecified nephritic syndrome, dense deposit disease	^ESCT1248135		462181000000102	12481351000006114	NA	32
+304011017	Chronic nephritic syndrome, dense deposit disease	K0A36	K0A3600	197714009	304011017	NA	32
+191901000006114	Rapidly progressive nephritic syndrome, dense deposit disease	K0A16	K0A1600	197696001	303984011	NA	32
+7724851000006117	Persistent hematuria co-occurrent and due to dense deposit disease	^ESCTPE772485		714814006	3300522011	NA	31
+2847281000006118	Basal lamina, inclusion consisting of dense deposit	^ESCTBA284728		21833006	36633015	NA	31
+305166012	[X]Unspecified nephritic syndrome, dense deposit disease	Kyu0B	Kyu0B00	462181000000102	891521000000111	NA	32
+8118481000006111	Hereditary dense deposit disease	^ESCTHE811848		367511000119101	3289093011	NA	31
+7724841000006119	Persistent haematuria co-occurrent and due to dense deposit disease	^ESCTPE772484		714814006	3300523018	NA	31
+7836051000006117	Dense deposit disease	^ESCTDE783605		722760002	3333379015	NA	32
+303838017	Nephrotic syndrome, dense deposit disease	K01A	K01A.00	197599000	303838017	NA	32
+7836071000006110	Complement component 3 glomerulonephritis	^ESCTCO783607		722761003	3333382013	NA	31
+7836021000006114	C3 (complement component 3) glomerulopathy	^ESCTC3783602		722758004	3333374013	NA	31
+7836061000006115	C3 (complement component 3) glomerulonephritis	^ESCTC3783606		722761003	3333381018	NA	31
+7836031000006112	Complement component 3 glomerulopathy	^ESCTCO783603		722758004	3333375014	NA	31
+354516010	Cryoglobulinaemic glomerulonephritis	K036	K036.00	236505008	354516010	NA	32
+5095151000006115	Cryoglobulinemic glomerulonephritis	^ESCTCR509515		236505008	354517018	NA	32

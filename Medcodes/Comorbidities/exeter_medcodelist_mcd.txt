@@ -1,0 +1,13 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+3222351000006118	MCD - Minimal change disease	^ESCTMC322235		44785005	1230129010	NA	32
+5093591000006118	Steroid-sensitive minimal change glomerulonephritis	^ESCTST509359		236399008	354365018	NA	31
+3222421000006116	MCNS - Minimal change nephrotic syndrome	^ESCTMC322242		44785005	1230136011	NA	32
+3222391000006112	Minimal change nephropathy	^ESCTMI322239		44785005	1230133015	NA	32
+3222431000006118	MCN - Minimal change nephropathy	^ESCTMC322243		44785005	1230137019	NA	32
+3222311000006119	Minimal change disease	^ESCTMI322231		44785005	74718011	NA	32
+3222361000006116	MCGN - Minimal change glomerulonephritis	^ESCTMC322236		44785005	1230130017	NA	32
+3222411000006112	Minimal change glomerulonephritis	^ESCTMI322241		44785005	1230135010	NA	32
+5093611000006112	Steroid-dependent minimal change glomerulonephritis	^ESCTST509361		236401002	354367014	NA	31
+3222371000006111	Minimal change nephrotic syndrome	^ESCTMI322237		44785005	1230131018	NA	32
+396706011	Nephrotic syndrome with minimal change glomerulonephritis	K013	K013.00	266549004	396706011	NA	32
+5093601000006114	Steroid-resistant minimal change glomerulonephritis	^ESCTST509360		236400001	354366017	NA	31

@@ -1,0 +1,10 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+84262013	Goodpasture's syndrome	G7520	G752000	50581000	84262013	NA	32
+354518011	Antiglomerular basement membrane disease	G7521-1	G752111	236506009	354518011	NA	32
+5095181000006111	Anti GBM - Antiglomerular basement membrane disease	^ESCTAN509518		236506009	354519015	NA	32
+5095191000006114	Goodpasture disease	^ESCTGO509519		236506009	2840433018	NA	32
+3319131000006115	Anti-GBM nephritis with pulmonary haemorrhage	^ESCTAN331913		50581000	495717016	NA	32
+3319091000006117	Anti-GBM nephritis with pulmonary hemorrhage	^ESCTAN331909		50581000	84270015	NA	32
+3319141000006113	Goodpasture syndrome	^ESCTGO331914		50581000	2838064014	NA	32
+354520014	Goodpasture's disease	G7521	G752100	236506009	354520014	NA	32
+2214081000000112	Anti GBM disease - Antiglomerular basement membrane disease	G7521-2	G752112	236506009	2214081000000112	NA	32

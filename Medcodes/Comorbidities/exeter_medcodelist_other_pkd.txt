@@ -1,0 +1,54 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+3842481000006110	Congenital polycystic kidney disease	^ESCTCO384248		82525005	136888018	NA	32
+2962401000006113	Autosomal recessive infantile polycystic kidney disease	^ESCTAU296240		28770003	48177019	NA	32
+2962441000006110	IPKD - Infantile polycystic kidney disease	^ESCTIP296244		28770003	1226063011	NA	32
+1226060014	Autosomal recessive polycystic kidney disease	PD110-1	PD11011	28770003	1226060014	NA	32
+2962391000006111	Polycystic kidney disease, infantile type	^ESCTPO296239		28770003	48176011	NA	32
+221761000006117	Polycystic kidneys, infantile type	PD110	PD11000	28770003	1226060014	NA	32
+2962421000006115	Infantile polycystic kidney disease	^ESCTIN296242		28770003	1226061013	NA	32
+2962431000006117	ARPKD - Autosomal recessive polycystic kidney disease	^ESCTAR296243		28770003	1226062018	NA	32
+314287014	Medullary cystic disease	PD12	PD12.00	204957003	314287014	NA	32
+377984017	Nephronophthisis - medullary cystic disease	PD122	PD12200	253882001	377984017	NA	32
+377985016	Autosomal dominant medullary cystic disease	PD122-1	PD12211	253882001	377984017	NA	32
+4827551000006116	Familial juvenile medullary cystic kidney disease	^ESCTFA482755		204958008	314292011	NA	32
+4827521000006113	Medullary cystic kidney disease	^ESCTME482752		204957003	3036989017	NA	32
+7338391000006111	Nephronophthisis type 6	^ESCTNE733839		447335007	2883120017	NA	31
+7297271000006119	Nephronophthisis type 3	^ESCTNE729727		444749006	1651431000000113	NA	31
+7843311000006111	Autosomal dominant medullary cystic kidney disease with hyperuricemia	^ESCTAU784331		723373006	3447492018	NA	31
+7843301000006113	Autosomal dominant medullary cystic kidney disease with hyperuricaemia	^ESCTAU784330		723373006	3447493011	NA	31
+7850341000006115	RHYNS (retinitis pigmentosa, hypopituitarism, nephronophthisis, skeletal dysplasia) syndrome	^ESCTRH785034		723999009	3487949016	NA	31
+7298491000006115	Juvenile nephronophthisis	^ESCTJU729849		444830001	2871513019	NA	31
+314298010	Medullary cystic disease NOS	PD12z	PD12z00	236443009	354427014	NA	32
+7876161000006119	Autosomal dominant medullary cystic kidney disease without hyperuricaemia	^ESCTAU787616		726017001	3447489017	NA	31
+314290015	Nephronophthisis	PD120-1	PD12011	204958008	314290015	NA	32
+7850331000006113	Retinitis pigmentosa, hypopituitarism, nephronophthisis, skeletal dysplasia syndrome	^ESCTRE785033		723999009	3487948012	NA	31
+7297261000006114	Adolescent nephronophthisis	^ESCTAD729726		444749006	2871331019	NA	31
+7294531000006110	Infantile nephronophthisis	^ESCTIN729453		444558002	2873001010	NA	31
+405388016	Medullary cystic disease, adult type	PD121	PD12100	270910001	405388016	NA	32
+7876171000006114	Autosomal dominant medullary cystic kidney disease without hyperuricemia	^ESCTAU787617		726017001	3447488013	NA	31
+4827511000006117	Medullary cystic kidney	^ESCTME482751		204957003	314288016	NA	32
+711601000006111	Medullary cystic disease, juvenile type	PD120	PD12000	204958008	314290015	NA	32
+7876191000006110	Autosomal dominant medullary cystic kidney disease	^ESCTAU787619		726018006	3447485011	NA	31
+7333191000006119	Nephronophthisis type 4	^ESCTNE733319		446989009	2882081014	NA	31
+7294541000006117	Nephronophthisis type 2	^ESCTNE729454		444558002	1651421000000111	NA	31
+7298501000006111	Nephronophthisis type 1	^ESCTNE729850		444830001	1651411000000117	NA	31
+7959801000006113	Adult familial nephronophthisis with spastic quadriparesia syndrome	^ESCTAD795980		733650000	3472999019	NA	31
+7843321000006115	Medullary cystic kidney disease 2	^ESCTME784332		723373006	3447494017	NA	31
+7757701000006119	Nephronophthisis hepatic fibrosis syndrome	^ESCTNE775770		717187000	3308636012	NA	31
+7333221000006114	Nephronophthisis type 5	^ESCTNE733322		446991001	2882084018	NA	31
+4827491000006111	Medullary cystic disease of the kidney	^ESCTME482749		204957003	314289012	NA	32
+314297017	Medullary cystic disease OS	PD12y	PD12y00	236443009	354427014	NA	32
+314293018	Autosomal recessive medullary cystic disease	PD120-2	PD12012	204958008	314293018	NA	32
+7876181000006112	Medullary cystic kidney disease 1	^ESCTME787618		726017001	3447490014	NA	31
+12877016	Tuberous sclerosis	PK5	PK5..00	7199000	12877016	NA	32
+2614591000006110	Tuberous sclerosis syndrome	^ESCTTU261459		7199000	12873017	NA	32
+7617481000006115	Lymphangioleiomyomatosis due to tuberous sclerosis syndrome	^ESCTLY761748		707433009	3030127011	NA	31
+12029951000006112	Tuberous sclerosis, polycystic kidney disease contiguous gene syndrome	^ESCT1202995		765331004	3657950015	NA	31
+3080521000006116	Angiokeratoma in tuberous sclerosis	^ESCTAN308052		36025004	1228344010	NA	31
+5339611000006118	Ash leaf spot, tuberous sclerosis	^ESCTAS533961		254243001	378473017	NA	31
+3080461000006114	Fibrous skin tumour of tuberous sclerosis	^ESCTFI308046		36025004	486343011	NA	31
+12029941000006110	Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis	^ESCT1202994		765331004	3657949015	NA	31
+1009541000006111	Cause of learning disabilities: Tuberous sclerosis	EMISNQCA43		1009541000006107	1009541000006111	NA	37
+6687751000006117	Periungual fibroma in tuberous sclerosis	^ESCTPE668775		403823001	1782830019	NA	31
+2614641000006117	TS - Tuberous sclerosis	^ESCTTS261464		7199000	1233444019	NA	32
+3080471000006119	Fibrous skin tumor of tuberous sclerosis	^ESCTFI308047		36025004	60111018	NA	31

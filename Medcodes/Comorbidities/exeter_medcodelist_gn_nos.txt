@@ -1,0 +1,95 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+32619017	Acute glomerulonephritis	K00	K00..00	19351000	32619017	NA	32
+303866013	Chronic exudative glomerulonephritis	K02y1	K02y100	197617009	303866013	NA	32
+303867016	Chronic focal glomerulonephritis	K02y2	K02y200	197618004	303867016	NA	32
+303868014	Chronic diffuse glomerulonephritis	K02y3	K02y300	197619007	303868014	NA	32
+303881019	Anaphylactoid glomerulonephritis	K0323	K032300	197629000	303881019	NA	32
+354636018	Cytomegalovirus-induced glomerulonephritis	K0A9	K0A9.00	236590008	354636018	NA	32
+303883016	Other familial glomerulonephritis	K0325	K032500	399340005	1778791010	NA	32
+354348010	Lobular glomerulonephritis NEC	K032y-2	K032y12	52845002	87940013	NA	32
+81261000006110	Unsp nephrit synd, diff mesang prolif glomerulonephritis	K03X	K03X.00	197679002	303967017	NA	32
+303863017	Chronic rapidly progressive glomerulonephritis	K023	K023.00	236392004	354352010	NA	32
+81251000006113	Unsp nephrit synd, diff endocap prolif glomerulonephritis	K03W	K03W.00	3704008	7243014	NA	32
+81581000006119	Unspecif nephr synd, diff concentric glomerulonephritis	K03U	K03U.00	64212008	106739010	NA	32
+3319041000006114	Hemorrhagic pneumonia AND glomerulonephritis	^ESCTHE331904		50581000	84263015	NA	32
+3319071000006118	Pulmonary hemorrhage with glomerulonephritis	^ESCTPU331907		50581000	84267019	NA	32
+3319121000006118	Haemorrhagic pneumonia AND glomerulonephritis	^ESCTHA331912		50581000	495716013	NA	32
+3319111000006114	Pulmonary haemosiderosis with glomerulonephritis	^ESCTPU331911		50581000	495715012	NA	32
+3403671000006118	Idiopathic crescentic glomerulonephritis, type III	^ESCTID340367		55652009	92508010	NA	31
+7958391000006116	Microcephalus, glomerulonephritis, marfanoid habitus syndrome	^ESCTMI795839		733472005	3499508016	NA	31
+3543641000006111	Idiopathic crescentic glomerulonephritis, type I	^ESCTID354364		64168005	106670012	NA	31
+5095221000006119	Malignancy-associated glomerulonephritis	^ESCTMA509522		236508005	354522018	NA	31
+6618781000006111	Non-progressive hereditary glomerulonephritis	^ESCTNO661878		399190000	1778644011	NA	31
+3441621000006114	Acute benign haemorrhagic glomerulonephritis	^ESCTAC344162		57965003	3035870010	NA	31
+7876941000006116	Immunotactoid glomerulonephritis	^ESCTIM787694		726082003	3448006018	NA	31
+3618681000006111	Focal glomerulonephritis	^ESCTFO361868		68779003	200022010	NA	31
+8033511000006111	Idiopathic glomerulonephritis	^ESCTID803351		106911000119102	3013430019	NA	31
+4355451000006111	Immune-complex glomerulonephritis	^ESCTIM435545		123752003	192241013	NA	31
+11921961000006120	[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis	^ESCT1192196		396541000000106	891531000000113	NA	31
+3692101000006114	Fibrillary glomerulonephritis	^ESCTFI369210		73305009	121734010	NA	31
+458521000006111	Acute nephritic syndrome, diffuse crescentic glomerulonephritis	K0A07	K0A0700	197688006	303976012	NA	32
+703451000006112	Isolated proteinuria with specified morphological lesion, diffuse concentric glomerulonephritis	K0A47	K0A4700	197725000	304022018	NA	32
+763111000006117	Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis	K0322	K032200	36171008	60355017	NA	32
+11926331000006120	Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis	^ESCT1192633		197628008	303880018	NA	31
+7043491000006110	Sarcoidosis with glomerulonephritis	^ESCTSA704349		425384007	2643832017	NA	31
+8027031000006117	Glomerulonephritis co-occurrent and due to scleroderma	^ESCTGL802703		89681000119101	3321219011	NA	31
+6621311000006115	Hereditary glomerulonephritis	^ESCTHE662131		399340005	1786828019	NA	32
+4788191000006111	Acute glomerulonephritis associated with another disorder	^ESCTAC478819		197582001	2575722013	NA	32
+354363013	Crescentic glomerulonephritis	K0001	K000100	236398000	354363013	NA	32
+303839013	Nephrotic syndrome, diffuse crescentic glomerulonephritis	K01B	K01B.00	197600002	303839013	NA	32
+5093501000006113	Idiopathic endocapillary glomerulonephritis	^ESCTID509350		236394003	354355012	NA	31
+303907019	Glomerulonephritis	K03z	K03z.00	36171008	60355017	NA	32
+191881000006112	Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis	K0A17	K0A1700	197697005	303985012	NA	32
+555381000006115	Chronic nephritic syndrome, diffuse crescentic glomerulonephritis	K0A37	K0A3700	197715005	304012012	NA	32
+6241711000006115	Nephrotic syndrome secondary to glomerulonephritis	^ESCTNE624171		363233007	482373016	NA	31
+4355461000006113	Immune complex glomerulonephritis	^ESCTIM435546		123752003	3037280015	NA	31
+7724891000006111	Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis	^ESCTPE772489		714816008	3300528010	NA	31
+5093951000006117	Progressive hereditary glomerulonephritis without deafness	^ESCTPR509395		236419006	354400010	NA	31
+3082891000006115	GN - Glomerulonephritis	^ESCTGN308289		36171008	1228363011	NA	32
+3319081000006115	Pulmonary hemosiderosis with glomerulonephritis	^ESCTPU331908		50581000	84269016	NA	32
+3319101000006111	Pulmonary haemorrhage with glomerulonephritis	^ESCTPU331910		50581000	495714011	NA	32
+430101000006111	[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis	Kyu09	Kyu0900	197679002	303967017	NA	32
+554481000006111	Chronic glomerulonephritis + diseases EC	K02y0	K02y000	197616000	303865012	NA	32
+479396010	AGN - Acute glomerulonephritis	K00-3	K00..13	19351000	479396010	NA	32
+35171019	Chronic glomerulonephritis	K02	K02..00	20917003	35171019	NA	32
+3222401000006114	Light negative glomerulonephritis	^ESCTLI322240		44785005	1230134014	NA	32
+3441611000006118	Acute benign hemorrhagic glomerulonephritis	^ESCTAC344161		57965003	3035851017	NA	31
+430591000006111	[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis	Kyu0C	Kyu0C00	64212008	106739010	NA	32
+189131000006116	Recurrent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis	K0A27	K0A2700	714815007	3300526014	NA	32
+8118491000006114	Hereditary diffuse crescentic glomerulonephritis	^ESCTHE811849		367521000119108	3012561017	NA	31
+2832821000006115	CGN - Chronic glomerulonephritis	^ESCTCG283282		20917003	1222585013	NA	32
+3806541000006112	Lobular glomerulonephritis	^ESCTLO380654		80321008	200856017	NA	32
+5093471000006118	RPGN - Rapidly progressive glomerulonephritis	^ESCTRP509347		236392004	354353017	NA	32
+6621301000006118	GN - Hereditary glomerulonephritis	^ESCTGN662130		399340005	1786827012	NA	32
+303815015	Other acute glomerulonephritis	K00y	K00y.00	19351000	32619017	NA	32
+303824012	Acute glomerulonephritis NOS	K00z	K00z.00	19351000	32619017	NA	32
+303869018	Other chronic glomerulonephritis NOS	K02yz	K02yz00	20917003	35171019	NA	32
+303870017	Chronic glomerulonephritis NOS	K02z	K02z.00	20917003	35171019	NA	32
+354364019	CGN - Crescentic glomerulonephritis	K0001-1	K000111	236398000	354364019	NA	32
+354632016	De novo glomerulonephritis	SP08b	SP08b00	236586006	354632016	NA	32
+4353711000006115	Healed glomerulonephritis	^ESCTHE435371		123610002	192099016	NA	31
+2521181000006116	Necrotising glomerulonephritis	^ESCTNE252118		1426004	476201012	NA	31
+4353701000006118	Subacute glomerulonephritis	^ESCTSU435370		123609007	192098012	NA	31
+6205251000006115	Idiopathic crescentic glomerulonephritis, type II	^ESCTID620525		359694003	474699013	NA	31
+8037721000006115	Glomerulonephritis due to hepatitis C	^ESCTGL803772		120241000119100	3023324017	NA	31
+7768941000006112	Non-amyloid fibrillary glomerulonephritis	^ESCTNO776894		718192000	3311447013	NA	31
+7305291000006117	Idiopathic rapidly progressive glomerulonephritis	^ESCTID730529		445258009	2872817010	NA	31
+2711281000006117	Sclerosing glomerulonephritis	^ESCTSC271128		13335004	22804011	NA	31
+2807131000006118	Acute exudative glomerulonephritis	^ESCTAC280713		19351000	195975011	NA	32
+5096311000006113	CMV - Cytomegalovirus-induced glomerulonephritis	^ESCTCM509631		236590008	354637010	NA	32
+7724871000006110	Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis	^ESCTRE772487		714815007	3300525013	NA	32
+4788511000006114	Chronic glomerulonephritis associated with another disorder	^ESCTCH478851		197616000	2575711014	NA	32
+5093551000006112	Idiopathic crescentic glomerulonephritis	^ESCTID509355		236398000	354362015	NA	32
+12107561000006114	Vasculitis with glomerulonephritis	^ESCT1210756		90971000119103	3647363012	NA	31
+5093481000006115	Endocapillary glomerulonephritis	^ESCTEN509348		236393009	354354011	NA	31
+7724881000006113	Persistent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis	^ESCTPE772488		714816008	3300529019	NA	31
+2521191000006118	Necrotizing glomerulonephritis	^ESCTNE252119		1426004	3481019	NA	31
+3403681000006115	Idiopathic crescentic glomerulonephritis type 3	^ESCTID340368		55652009	3035785013	NA	31
+354349019	Hypocomplementaemic persistent glomerulonephritis NEC	K032y-1	K032y11	197613008	303860019	NA	32
+3544341000006115	Diffuse crescentic glomerulonephritis	^ESCTDI354434		64212008	106739010	NA	32
+5093581000006116	Proliferative crescentic glomerulonephritis	^ESCTPR509358		236398000	3029375014	NA	32
+303820015	Other acute glomerulonephritis NOS	K00yz	K00yz00	19351000	32619017	NA	32
+303864011	Other chronic glomerulonephritis	K02y	K02y.00	20917003	35171019	NA	32
+354352010	Rapidly progressive glomerulonephritis	K0A8	K0A8.00	236392004	354352010	NA	32
+303816019	Acute glomerulonephritis in diseases EC	K00y0	K00y000	197582001	303816019	NA	32
+12107571000006120	Glomerulonephritis co-occurrent and due to vasculitis	^ESCT1210757		90971000119103	3647365017	NA	31

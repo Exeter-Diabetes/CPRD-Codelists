@@ -1,0 +1,36 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+303826014	Nephrotic syndrome with membranous glomerulonephritis	K011	K011.00	197590001	303826014	NA	32
+555201000006116	Chronic membranous glomerulonephritis	K021	K021.00	77182004	128137019	NA	32
+7827161000006116	Membranous glomerulonephritis due to malignant neoplastic disease	^ESCTME782716		722086002	3330534016	NA	31
+303875010	Membranous glomerulonephritis	K031	K031.00	77182004	128137019	NA	32
+7827611000006111	Drug-induced membranous nephropathy	^ESCTDR782761		722120008	3330781017	NA	31
+303834015	Nephrotic syndrome, diffuse membranous glomerulonephritis	K016	K016.00	197595006	303834015	NA	32
+7828121000006111	Membranous glomerulonephritis co-occurrent with infectious disease	^ESCTME782812		722168002	3330960013	NA	31
+5093911000006118	Membranous glomerulonephritis stage V	^ESCTME509391		236417008	354396010	NA	31
+191861000006119	Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis	K0A12	K0A1200	197692004	303980019	NA	32
+5093891000006115	Membranous glomerulonephritis - stage IV	^ESCTME509389		236416004	354395014	NA	31
+7871051000006110	Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunisation	^ESCTCO787105		725592009	3444194016	NA	31
+7725011000006113	Persistent hematuria co-occurrent and due to diffuse membranous glomerulonephritis	^ESCTPE772501		714822004	3300546016	NA	31
+5093881000006118	MGN stage III - Membranous glomerulonephritis stage III	^ESCTMG509388		236415000	354393019	NA	31
+5093831000006119	Membranous glomerulonephritis - stage I	^ESCTME509383		236413007	354388017	NA	31
+189141000006114	Recurrent haematuria co-occurrent and due to diffuse membranous glomerulonephritis	K0A22	K0A2200	714821006	3300544018	NA	32
+7871061000006112	Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization	^ESCTCO787106		725592009	3444193010	NA	31
+7827601000006113	Idiopathic membranous nephropathy	^ESCTID782760		722119002	3330959015	NA	31
+7828111000006115	Infection-associated membranous nephropathy	^ESCTIN782811		722168002	3330778010	NA	31
+712841000006115	Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis	K0A42	K0A4200	197720005	304017018	NA	32
+8013961000006110	Chronic nephritic syndrome with membranous glomerulonephritis	^ESCTCH801396		28191000119109	3078564018	NA	31
+7827591000006117	Idiopathic membranous glomerulonephritis	^ESCTID782759		722119002	3330958011	NA	31
+5093871000006116	Membranous glomerulonephritis - stage III	^ESCTME509387		236415000	354392012	NA	31
+3755261000006110	MGN - Membranous glomerulonephritis	^ESCTMG375526		77182004	1234073016	NA	32
+7827151000006118	Malignancy-associated membranous nephropathy	^ESCTMA782715		722086002	3330535015	NA	31
+5093851000006114	Membranous glomerulonephritis - stage II	^ESCTME509385		236414001	354391017	NA	31
+5093841000006112	MGN stage I - Membranous glomerulonephritis - stage I	^ESCTMG509384		236413007	354389013	NA	31
+7725001000006110	Persistent haematuria co-occurrent and due to diffuse membranous glomerulonephritis	^ESCTPE772500		714822004	3300547013	NA	31
+5093861000006111	MGN stage II - Membranous glomerulonephritis - stage II	^ESCTMG509386		236414001	354390016	NA	31
+5093921000006114	MGN stage V - Membranous glomerulonephritis stage V	^ESCTMG509392		236417008	354397018	NA	31
+7724991000006115	Recurrent hematuria co-occurrent and due to diffuse membranous glomerulonephritis	^ESCTRE772499		714821006	3300543012	NA	32
+8118521000006111	Hereditary diffuse membranous glomerulonephritis	^ESCTHE811852		367541000119102	3012629012	NA	31
+7827621000006115	Membranous glomerulonephritis caused by drug	^ESCTME782762		722120008	3330787018	NA	31
+5093901000006116	MGN stage IV - Membranous glomerulonephritis stage IV	^ESCTMG509390		236416004	354394013	NA	31
+458451000006115	Acute nephritic syndrome, diffuse membranous glomerulonephritis	K0A02	K0A0200	197683002	303971019	NA	32
+553201000006117	Chronic nephritic syndrome, diffuse membranous glomerulonephritis	K0A32	K0A3200	77182004	1234074010	NA	32

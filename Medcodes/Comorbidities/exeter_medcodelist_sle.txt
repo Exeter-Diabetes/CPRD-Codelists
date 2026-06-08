@@ -1,0 +1,93 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+92209015	Disseminated lupus erythematosus	N0000	N000000	55464009	92209015	NA	32
+114310015	Lupus nephritis	K01x4-1	K01x411	68815009	114310015	NA	32
+158442019	Systemic lupus erythematosus encephalitis	N0006-1	N000611	95644001	158442019	NA	32
+512234017	Cerebral lupus	N0006	N000600	95644001	512234017	NA	32
+1728151000006118	Systemic lupus erythematosus encephalitis	EMISNQSY6		1728151000006102	1728151000006118	NA	32
+309408013	Systemic lupus erythematosus NOS	N000z	N000z00	55464009	92208011	NA	32
+308709013	Lupus erythematosus NOS	M154z	M154z00	200936003	308697013	NA	32
+3619241000006113	Systemic lupus erythematosus glomerulonephritis syndrome	^ESCTSY361924		68815009	2621068010	NA	32
+3691811000006110	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class I	^ESCTSY369181		73286009	2914493017	NA	31
+5128061000006112	Lupus erythematosus and erythema multiforme-like syndrome	^ESCTLU512806		238926009	358078016	NA	31
+7701371000006112	Gingival disease co-occurrent and due to lupus erythematosus	^ESCTGI770137		713225000	3298892013	NA	31
+2675191000006111	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class VI	^ESCTSY267519		11013005	2618654010	NA	31
+2573631000006113	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class II	^ESCTSY257363		4676006	2914190010	NA	31
+2573621000006110	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class II	^ESCTSY257362		4676006	2620769015	NA	31
+2675181000006113	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class VI	^ESCTSY267518		11013005	2618653016	NA	31
+3086721000006111	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class IV	^ESCTSY308672		36402006	2913796017	NA	31
+2573601000006117	Lupus nephritis - WHO Class II	^ESCTLU257360		4676006	1230395019	NA	31
+3744681000006118	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class III	^ESCTSY374468		76521009	2621117010	NA	31
+7951851000006113	Hemolytic anemia associated with systemic lupus erythematosus	^ESCTHE795185		732960002	3498456016	NA	31
+8091151000006111	Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus	^ESCTNE809115		295111000119108	3320186012	NA	31
+7951841000006111	Haemolytic anaemia associated with systemic lupus erythematosus	^ESCTHA795184		732960002	3498455017	NA	31
+11851321000006120	Pericarditis co-occurrent and due to systemic lupus erythematosus	^ESCT1185132		25380002	3533635015	NA	31
+3086711000006115	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class IV	^ESCTSY308671		36402006	2620643017	NA	31
+7861201000006113	Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus	^ESCTDE786120		724781003	3449569013	NA	31
+5141751000006119	Lupus erythematosus-associated vasculitis	^ESCTLU514175		239944008	2475909017	NA	31
+6593811000006113	Systemic lupus erythematosus-related syndrome	^ESCTSY659381		397856003	1777456017	NA	31
+7861211000006111	Demyelination with systemic lupus erythematosus	^ESCTDE786121		724781003	3449570014	NA	31
+3086691000006118	Lupus nephritis - WHO Class IV	^ESCTLU308669		36402006	1228645015	NA	31
+6682131000006114	Lupus erythematosus-associated urticarial vasculitis	^ESCTLU668213		403510002	1782546015	NA	31
+8091161000006113	Nephrosis co-occurrent and due to systemic lupus erythematosus	^ESCTNE809116		295121000119101	3320059014	NA	31
+3744671000006116	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class III	^ESCTSY374467		76521009	2621116018	NA	31
+5140891000006113	Bullous systemic lupus erythematosus	^ESCTBU514089		239889005	359445011	NA	31
+6681831000006111	Fulminating systemic lupus erythematosus	^ESCTFU668183		403487009	1782523017	NA	31
+3087841000006114	Dilated cardiomyopathy secondary to systemic lupus erythematosus	^ESCTDI308784		36471000	60877013	NA	31
+177301000006114	Renal tubulo-interstitial disorder in systemic lupus erythematosus	K0B40	K0B4000	307755009	451122013	NA	32
+5140901000006112	Systemic lupus erythematosus with multisystem involvement	^ESCTSY514090		239890001	359446012	NA	31
+2675171000006110	Lupus nephritis - WHO Class VI	^ESCTLU267517		11013005	1219554016	NA	31
+3086701000006118	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class IV	^ESCTSY308670		36402006	2620642010	NA	31
+6681841000006118	Systemic lupus erythematosus of childhood	^ESCTSY668184		403488004	1782524011	NA	31
+3691781000006113	Lupus nephritis - WHO Class I	^ESCTLU369178		73286009	1233609012	NA	31
+4060291000006118	Cerebral systemic lupus erythematosus	^ESCTCE406029		95644001	512235016	NA	32
+312579010	[X]Other forms of systemic lupus erythematosus	Nyu43	Nyu4300	55464009	92208011	NA	32
+308700012	Lupus erythematosus chronicus	M1540	M154000	200937007	308700012	NA	32
+7860991000006115	Chorea with systemic lupus erythematosus	^ESCTCH786099		724767000	3445798017	NA	31
+6593821000006117	SLE - Systemic lupus erythematosus-related syndrome	^ESCTSL659382		397856003	1785998016	NA	31
+8099911000006113	Glomerular disease due to SLE (systemic lupus erythematosus)	^ESCTGL809991		308751000119106	3290259011	NA	31
+8091171000006118	Nephrosis with systemic lupus erythematosus	^ESCTNE809117		295121000119101	3320234014	NA	31
+3343601000006112	Lupus nephritis - WHO Class V	^ESCTLU334360		52042003	1231073015	NA	31
+7951831000006118	Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus	^ESCTSE795183		732960002	3498454018	NA	31
+2573611000006119	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class II	^ESCTSY257361		4676006	2620768011	NA	31
+3691801000006112	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class I	^ESCTSY369180		73286009	2621152019	NA	31
+8099901000006110	Glomerular disease due to systemic lupus erythematosus	^ESCTGL809990		308751000119106	3290203018	NA	31
+6669061000006113	Lupus erythematosus overlap syndrome	^ESCTLU666906		402711009	1781811016	NA	31
+308707010	Lupus erythematosus unguium mutilans	M1546	M154600	200942004	308707010	NA	32
+301721015	Lung disease with systemic lupus erythematosus	H57y4	H57y400	196138005	301721015	NA	32
+92208011	Systemic lupus erythematosus	N000	N000.00	55464009	92208011	NA	32
+6682171000006112	Necrotising vasculitis due to lupus erythematosus	^ESCTNE668217		403511003	1783795013	NA	31
+8091131000006116	Nephropathy co-occurrent and due to systemic lupus erythematosus	^ESCTNE809113		295101000119105	3082487012	NA	31
+7860981000006118	Chorea co-occurrent and due to systemic lupus erythematosus	^ESCTCH786098		724767000	3445797010	NA	31
+8022621000006111	Endocarditis due to systemic lupus erythematosus	^ESCTEN802262		72181000119109	3040817016	NA	31
+6905051000006113	Retinal vasculitis due to systemic lupus erythematosus	^ESCTRE690505		417303004	2548255013	NA	31
+6682161000006117	Lupus erythematosus-associated necrotizing vasculitis	^ESCTLU668216		403511003	1775014013	NA	31
+6682141000006116	Urticarial vasculitis due to lupus erythematosus	^ESCTUR668214		403510002	1787780012	NA	31
+3744691000006115	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class III	^ESCTSY374469		76521009	2914851014	NA	31
+3744661000006111	Lupus nephritis - WHO Class III	^ESCTLU374466		76521009	1233997017	NA	31
+6681821000006113	Acute systemic lupus erythematosus	^ESCTAC668182		403486000	1782522010	NA	31
+3343611000006110	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class V	^ESCTSY334361		52042003	2620728012	NA	31
+2675201000006114	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class VI	^ESCTSY267520		11013005	2914978012	NA	31
+6682151000006119	Lupus erythematosus-associated necrotising vasculitis	^ESCTLU668215		403511003	1773728010	NA	31
+297542011	Polyneuropathy in disseminated lupus erythematosus	F3710	F371000	193178008	297542011	NA	32
+297639014	Myopathy due to disseminated lupus erythematosus	F3961	F396100	193248005	297639014	NA	32
+25612013	Lupus erythematosus profundus	M1544	M154400	15084002	25612013	NA	32
+7951821000006116	Secondary autoimmune haemolytic anaemia co-occurrent and due to systemic lupus erythematosus	^ESCTSE795182		732960002	3498453012	NA	31
+7511501000006112	Systemic lupus erythematosus in remission	^ESCTSY751150		698694005	2975342019	NA	31
+114251000006118	Systemic lupus erythematosus with organ/system involvement	N0003	N000300	239887007	359443016	NA	32
+6670991000006115	Systemic lupus erythematosus-associated antiphospholipid syndrome	^ESCTSY667099		402865003	1781955014	NA	31
+3343621000006119	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class V	^ESCTSY334362		52042003	2620729016	NA	31
+8320771000006119	Systemic lupus erythematosus/Sjogren's overlap syndrome	^ESCTSY832077		905381000000108	2328211000000115	NA	31
+5006111000006112	Chorea in systemic lupus erythematosus	^ESCTCH500611		230307005	345133010	NA	31
+4805591000006111	LE - Lupus erythematosus	^ESCTLE480559		200936003	308698015	NA	32
+453243010	Systemic lupus erythematosus with pericarditis	N0004	N000400	309762007	453243010	NA	32
+308697013	Lupus erythematosus	M154	M154.00	200936003	308697013	NA	32
+158372014	Neonatal lupus erythematosus	N0005	N000500	95609003	158372014	NA	32
+5141741000006116	Vasculitis due to lupus erythematosus	^ESCTVA514174		239944008	2475908013	NA	31
+2905941000006111	Pericarditis secondary to systemic lupus erythematosus	^ESCTPE290594		25380002	42564011	NA	31
+6681871000006114	Erythema multiforme-like lupus erythematosus	^ESCTER668187		403491004	1782527016	NA	31
+6682181000006110	Necrotizing vasculitis due to lupus erythematosus	^ESCTNE668218		403511003	1784181011	NA	31
+3343631000006116	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class V	^ESCTSY334363		52042003	2913649018	NA	31
+677561000006119	Nephrotic syndrome in systemic lupus erythematosus	K01x4	K01x400	68815009	114310015	NA	32
+3400601000006117	SLE - Systemic lupus erythematosus	^ESCTSL340060		55464009	1231480012	NA	32
+4056181000006118	Systemic lupus erythematosus arthritis	^ESCTSY405618		95408003	158037015	NA	31
+3691791000006111	Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class I	^ESCTSY369179		73286009	2621151014	NA	31

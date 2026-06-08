@@ -1,0 +1,45 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+2157271000000115	Microscopic polyangiitis	G75A	G75A.00	829821000000102	2157271000000115	NA	32
+11878911000006116	EGPA - eosinophilic granulomatosis with polyangiitis	^ESCT1187891		82275008	3521932019	NA	32
+3838361000006112	Churg Strauss syndrome	^ESCTCH383836		82275008	3285497013	NA	32
+3838311000006114	Eosinophilic granulomatosis with polyangiitis	^ESCTEO383831		82275008	2507011000000119	NA	32
+5036831000006118	Wegener granulomatosis of larynx	^ESCTWE503683		232460001	2839718015	NA	31
+5141581000006115	Wegener's syndrome, limited form	^ESCTWE514158		239935007	359509011	NA	31
+7858391000006114	Vasculitis caused by antineutrophil cytoplasmic antibody	^ESCTVA785839		724601006	3442131011	NA	31
+8101851000006111	Churg strauss polyarteritis with pulmonary involvement	^ESCTCH810185		317931000119101	3046429011	NA	31
+5036821000006116	Wegener's granulomatosis of larynx	^ESCTWE503682		232460001	348279010	NA	31
+5035391000006118	Wegener granulomatosis of nose	^ESCTWE503539		232369001	2837742013	NA	31
+5035401000006116	Granulomatosis with polyangiitis of nose	^ESCTGR503540		232369001	2955621010	NA	31
+5035381000006116	Wegener's granulomatosis of nose	^ESCTWE503538		232369001	348135016	NA	31
+5141611000006111	Wegener's granulomatosis with multisystem involvement	^ESCTWE514161		239936008	359511019	NA	31
+5141621000006115	Wegener granulomatosis with multisystem involvement	^ESCTWE514162		239936008	2839109010	NA	31
+7075651000006117	Glomerulonephritis due to Wegener granulomatosis	^ESCTGL707565		427555000	2838811011	NA	31
+7075661000006115	Glomerulonephritis co-occurrent and due to Wegener's granulomatosis	^ESCTGL707566		427555000	3312144012	NA	31
+5141531000006116	Primary pauci-immune necrotizing and crescentic glomerulonephritis	^ESCTPR514153		239932005	359503012	NA	31
+5141591000006117	Limited Wegener's granulomatosis	^ESCTLI514159		239935007	359510018	NA	31
+4779041000006116	Wegener granulomatosis	^ESCTWE477904		195353004	2837750016	NA	32
+6898781000006119	Scleritis due to Wegener's granulomatosis	^ESCTSC689878		416879000	2553973014	NA	31
+8367971000006110	ANCA (antineutrophil cytoplasmic antibody) associated vasculitis caused by drug	^ESCTAN836797		988081000000103	2511801000000117	NA	31
+3541411013	Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis	^ESCT1170579		101711000119105	3541411013	NA	31
+5141601000006113	Limited granulomatosis with polyangiitis	^ESCTLI514160		239935007	2955626017	NA	31
+5073591000006114	Wegener's granulomatosis of gingivae	^ESCTWE507359		235000001	352180018	NA	31
+2955624019	Granulomatosis with polyangiitis	G754-1	G754.11	195353004	2955624019	NA	32
+3441922013	Antineutrophil cytoplasmic antibody (ANCA) positive vasculitis	^ESCT1164059		722191003	3441922013	NA	31
+5073621000006111	Granulomatosis with polyangiitis of gingiva	^ESCTGR507362		235000001	2955622015	NA	31
+8367961000006115	Drug-associated ANCA (antineutrophil cytoplasmic antibody) associated vasculitis	^ESCTDR836796		988081000000103	2511791000000116	NA	31
+6898771000006117	Scleritis due to Wegener granulomatosis	^ESCTSC689877		416879000	2549415019	NA	31
+5141471000006117	Microscopic polyangiitis	^ESCTMI514147		239928004	359497016	NA	31
+3331116019	Glomerulonephritis due to antineutrophil cytoplasmic antibody (ANCA) positive vasculitis	^ESCT1170580		101711000119105	3331116019	NA	31
+3838351000006110	CSS - Churg-Strauss syndrome	^ESCTCS383835		82275008	1234697012	NA	32
+5998321000006113	Antineutrophil cytoplasmic antibody positive	^ESCTAN599832		310256002	453860010	NA	33
+300579010	Wegener's granulomatosis	G754	G754.00	195353004	300579010	NA	32
+7856911000006118	Respiratory disorder with microscopic polyangiitis	^ESCTRE785691		724502006	3498201019	NA	31
+7856901000006116	Respiratory disorder co-occurrent and due to microscopic polyangiitis	^ESCTRE785690		724502006	3498202014	NA	31
+5073601000006118	Wegener granulomatosis of gingivae	^ESCTWE507360		235000001	2840421011	NA	31
+11878901000006118	Eosinophilic granulomatosis with polyangiitis	^ESCT1187890		82275008	3521929017	NA	32
+557151000006115	Churg-Strauss syndrome	G758	G758.00	82275008	136476013	NA	32
+5141521000006119	Primary pauci-immune necrotising and crescentic glomerulonephritis	^ESCTPR514152		239932005	359502019	NA	31
+5036841000006111	Granulomatosis with polyangiitis of larynx	^ESCTGR503684		232460001	2955628016	NA	31
+3441921018	Antineutrophil cytoplasmic antibody positive vasculitis	^ESCT1164058		722191003	3441921018	NA	31
+5141631000006117	Granulomatosis with polyangiitis with multisystem involvement	^ESCTGR514163		239936008	2955625018	NA	31
+4086861000006113	c-Antineutrophil cytoplasmic antibody	^ESCTCA408686		103180001	2971362019	NA	31

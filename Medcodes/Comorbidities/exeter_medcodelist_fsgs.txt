@@ -1,0 +1,9 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+7827841000006111	Focal segmental glomerulosclerosis caused by lithium	^ESCTFO782784		722139003	3330865016	NA	31
+7300911000006110	Autosomal dominant focal segmental glomerulosclerosis	^ESCTAU730091		444977005	2872213015	NA	31
+7307331000006116	Autosomal recessive focal segmental glomerulosclerosis	^ESCTAU730733		445388002	2871256011	NA	31
+5093661000006110	FSGS - Focal segmental glomerulosclerosis	^ESCTFS509366		236403004	354371012	NA	31
+5093651000006113	Focal segmental glomerulosclerosis	^ESCTFO509365		236403004	354372017	NA	31
+7710981000006116	Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection	^ESCTFO771098		713887002	3297899018	NA	31
+5093671000006115	Classical focal segmental glomerulosclerosis	^ESCTCL509367		236404005	354373010	NA	31
+7827941000006118	Focal segmental glomerulosclerosis due to sickle cell disease	^ESCTFO782794		722147003	3330888015	NA	31

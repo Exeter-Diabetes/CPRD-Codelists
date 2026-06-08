@@ -1,0 +1,10 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId
+1786829010	Alport's syndrome	PKy90	PKy9000	399340005	1786829010	NA	32
+666291000006116	Familial glomerulonephritis in Alport's syndrome	K0324	K032400	399340005	1786829010	NA	32
+7877191000006113	X-linked diffuse leiomyomatosis, Alport syndrome	^ESCTXL787719		726106004	3448202013	NA	31
+7762051000006111	Alport syndrome autosomal recessive	^ESCTAL776205		717767009	3312046012	NA	31
+7762061000006113	Alport syndrome X-linked	^ESCTAL776206		717768004	3312599010	NA	31
+5093971000006110	Alport syndrome-like hereditary nephritis	^ESCTAL509397		236420000	354402019	NA	31
+7762041000006114	Alport syndrome autosomal dominant	^ESCTAL776204		717766000	3310200014	NA	31
+7877181000006110	X-linked diffuse leiomyomatosis with Alport syndrome	^ESCTXL787718		726106004	3448201018	NA	31
+7810331000006116	Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome	^ESCTAL781033		720982007	3322765013	NA	31
