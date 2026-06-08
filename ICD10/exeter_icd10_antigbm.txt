@@ -1,0 +1,2 @@
+ICD10	Term_description
+M31.0	Hypersensitivity angiitis

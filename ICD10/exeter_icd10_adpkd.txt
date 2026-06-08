@@ -1,0 +1,2 @@
+ICD10	Term_description
+Q61.2	Polycystic kidney, adult type

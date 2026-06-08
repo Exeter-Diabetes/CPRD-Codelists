@@ -1,0 +1,2 @@
+ICD10	Term_description
+N02.8	Recurrent and persistent haematuria, other

@@ -1,0 +1,7 @@
+ICD10	Term_description
+N01.7	Diffuse concentric glomerulonephritis
+N01.8	Rapidly progressive nephritic syndrome, other
+N01.9	Rapidly progressive nephritic syndrome, unspecified
+N05.7	Diffuse concentric glomerulonephritis
+N05.8	Unspecified nephritic syndrome, other
+N05.9	Unspecified nephritic syndrome, unspecified

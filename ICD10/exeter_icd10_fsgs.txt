@@ -1,0 +1,4 @@
+ICD10	Term_description
+N04.1	Nephrotic syndrome, focal and segmental glomerular lesions
+N06.1	Focal and segmental glomerular lesions
+N07.1	Focal and segmental glomerular lesions

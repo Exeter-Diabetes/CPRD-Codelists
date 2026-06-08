@@ -1,0 +1,4 @@
+ICD10	Term_description
+N04.0	Nephrotic syndrome, minor glomerular abnormality
+N06.0	Isolated proteinuria with minor glomerular abnormality
+N07.0	Minor glomerular abnormality

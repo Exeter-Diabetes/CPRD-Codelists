@@ -1,0 +1,4 @@
+ICD10	Term_description
+M32.1	Systemic lupus erythematosus with organ or sys involv
+M32.8	Other forms of systemic lupus erythematosus
+M32.9	Systemic lupus erythematosus, unspecified

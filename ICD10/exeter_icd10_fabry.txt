@@ -1,0 +1,2 @@
+ICD10	Term_description
+E75.2	Other sphingolipidosis

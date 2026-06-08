@@ -1,0 +1,7 @@
+ICD10	Term_description
+Q61.1	Polycystic kidney, infantile type
+Q61.3	Polycystic kidney, unspecified
+Q61.5	Medullary cystic kidney
+Q61.8	Other cystic kidney diseases
+Q61.9	Cystic kidney disease, unspecified
+Q85.1	Tuberous sclerosis

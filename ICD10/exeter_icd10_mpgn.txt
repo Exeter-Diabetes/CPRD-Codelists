@@ -1,0 +1,17 @@
+ICD10	Term_description
+N00.5	Diffuse mesangiocapillary glomerulonephritis
+N00.6	Acute nephritic syndrome, dense deposit disease
+N01.5	Diffuse mesangiocapillary glomerulonephritis
+N01.6	Dense deposit disease
+N02.5	Diffuse mesangiocapillary glomerulonephritis
+N02.6	Recurrent and persistent haematuria, dense deposit disease
+N03.5	Diffuse mesangiocapillary glomerulonephritis
+N03.6	Chronic nephritic syndrome, dense deposit disease
+N04.5	Diffuse mesangiocapillary glomerulonephritis
+N04.6	Nephrotic syndrome, dense deposit disease
+N05.5	Diffuse mesangiocapillary glomerulonephritis
+N05.6	Unspecified nephritic syndrome, dense deposit disease
+N06.5	Diffuse mesangiocapillary glomerulonephritis
+N06.6	Isolated proteinuria with dense deposit disease
+N07.5	Diffuse mesangiocapillary glomerulonephritis
+N07.6	Dense deposit disease

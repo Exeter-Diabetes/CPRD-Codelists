@@ -1,0 +1,4 @@
+ICD10	Term_description
+N04.2	Nephrotic syndrome, diffuse membranous glomerulonephritis
+N06.2	Diffuse membranous glomerulonephritis
+N07.2	Diffuse membranous glomerulonephritis

@@ -1,0 +1,4 @@
+ICD10	Term_description
+M30.1	Polyarteritis with lung involvement [Churg-Strauss]
+M31.7	Microscopic polyangiitis
+M31.3	Wegener's granulomatosis

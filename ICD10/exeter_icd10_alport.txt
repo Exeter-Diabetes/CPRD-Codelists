@@ -1,0 +1,2 @@
+ICD10	Term_description
+Q87.8	Other specified congenital malformation syndromes NEC
