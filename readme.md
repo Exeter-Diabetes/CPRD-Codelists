@@ -26,7 +26,7 @@ Our scripts which use these codelists and the below algorithms to define cohorts
 
 &nbsp;
 
-### ACR (Albumin Creatinine Ratio)
+### Urine ACR (Albumin Creatinine Ratio)
 * Preferentially use coded ACR value
 * If no coded value, where urine albumin and urine creatinine measurements recorded on same obsdate, calculate ACR
 
