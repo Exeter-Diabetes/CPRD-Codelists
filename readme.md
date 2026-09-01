@@ -170,7 +170,7 @@ Note that CPRD also provide patient ethnicity (at a fee) based on their own ethn
 &nbsp;
 
 ### Alcohol consumption
-* Take most recently recorded alcohol consumption level (0 = none, 1 = within limits, 2 = excess, 3 = harmful)
+* Take most recently recorded alcohol consumption level: 0 = none, 1 = within limits (codes indicating alcohol consumption but unknown amount are also in this category), 2 = excess (3-6 units per day if code specifies amount; also includes less severe alcohol-associated disorders and complications), 3 = harmful (>=7 units per day or more if code specifies amount; includes more severe alcohol-associated disorders and complications).
 * If ever coded with a level 3 code then categorise as level 3
 * If multiple levels coded on most recent date, take the highest level
 
