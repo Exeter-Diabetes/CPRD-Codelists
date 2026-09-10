@@ -1,0 +1,8 @@
+ICD10,Term_description
+G43,Migraine
+G43.0,Migraine without aura [common migraine]
+G43.1,Migraine with aura [classical migraine]
+G43.2,Status migrainosus
+G43.3,Complicated migraine
+G43.8,Other migraine
+G43.9,"Migraine, unspecified"

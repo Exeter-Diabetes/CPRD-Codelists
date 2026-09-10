@@ -1,0 +1,6 @@
+ICD10,Term_description
+M07,Psoriatic and enteropathic arthropathies
+M07.0,Distal interphalangeal psoriatic arthropathy
+M07.1,Arthritis mutilans
+M07.2,Psoriatic spondylitis
+M07.3,Other psoriatic arthropathies
