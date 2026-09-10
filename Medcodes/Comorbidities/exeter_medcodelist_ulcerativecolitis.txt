@@ -1,0 +1,79 @@
+MedCodeID,Term
+8462331000006116,Abscess of intestine co-occurrent and due to chronic ulcerative pancolitis
+8462351000006111,Complication due to chronic ulcerative pancolitis
+8462371000006118,Fistula of intestine due to chronic ulcerative pancolitis
+8462391000006117,Intestinal obstruction due to chronic ulcerative pancolitis
+8462411000006117,Rectal haemorrhage due to chronic ulcerative pancolitis
+8462421000006113,Rectal hemorrhage due to chronic ulcerative pancolitis
+8462441000006118,Abscess of intestine co-occurrent and due to chronic ulcerative proctitis
+8462461000006119,Complication due to chronic ulcerative proctitis
+8462481000006112,Fistula of intestine due to chronic ulcerative proctitis
+8462511000006116,Intestinal obstruction due to chronic ulcerative proctitis
+8462541000006117,Rectal hemorrhage due to chronic ulcerative proctitis
+8462531000006110,Rectal haemorrhage due to chronic ulcerative proctitis
+8462561000006118,Abscess of intestine co-occurrent and due to chronic ulcerative rectosigmoiditis
+8462581000006111,Complication due to chronic ulcerative rectosigmoiditis
+8462601000006118,Fistula of large intestine due to chronic ulcerative rectosigmoiditis
+8462611000006115,Intestinal obstruction due to chronic ulcerative rectosigmoiditis
+8462631000006114,Rectal haemorrhage due to chronic ulcerative rectosigmoiditis
+8462641000006116,Rectal hemorrhage due to chronic ulcerative rectosigmoiditis
+8467541000006115,Abscess of intestine co-occurrent and due to ulcerative colitis
+8467551000006118,Complication due to ulcerative colitis
+8467561000006116,Fistula of intestine due to ulcerative colitis
+8467571000006111,Intestinal obstruction due to ulcerative colitis
+8467581000006114,Rectal haemorrhage due to ulcerative colitis
+8467591000006112,Rectal hemorrhage due to ulcerative colitis
+4411741000006119,Acute ulcerative colitis
+2713501000006112,Chronic ulcerative ileocolitis
+2726621000006117,Severe chronic ulcerative colitis
+2726631000006119,Fulminant ulcerative colitis
+2743411000006118,Chronic ulcerative enterocolitis
+302953018,Ulcerative ileocolitis
+85901000006116,Ulcerative (chronic) ileocolitis
+309743013,Arthropathy in ulcerative colitis
+309836013,Juvenile arthritis in ulcerative colitis
+85891000006115,Ulcerative enterocolitis
+2896501000006115,Eosinophilic ulcerative colitis
+411543016,H/O: ulcerative colitis
+5574431000006111,History of ulcerative colitis
+85931000006112,Ulcerative colitis and/or proctitis
+435370011,Ulcerative proctocolitis
+302956014,Ulcerative proctocolitis NOS
+6705201000006110,Toxic megacolon due to ulcerative colitis
+6797981000006115,Iritis with ulcerative colitis
+2532953017,Exacerbation of ulcerative colitis
+72962011,Enterocolitis
+696071000006114,Mucous colitis and/or proctitis
+3204511000006110,"Enterocolitis, inflammation involving both small intestine and colon"
+3204521000006119,Inflammation of small intestine and colon
+7257811000006118,Chronic left-sided ulcerative colitis
+7260561000006112,Chronic ulcerative pancolitis
+7294371000006118,Chronic ulcerative colitis
+2872721013,Ulcerative pancolitis
+1816421000006112,Left sided ulcerative colitis
+3346671000006113,Chronic ulcerative proctitis
+496249010,Ulcerative proctitis
+3346721000006116,IP - Idiopathic proctitis
+3346691000006114,Ulcerative colitis confined to rectum
+3346681000006111,UC - Ulcerative colitis confined to rectum
+3346711000006112,Idiopathic proctitis
+496332018,Ulcerative rectosigmoiditis
+3351341000006118,Ulcerative colitis confined to rectum and sigmoid colon
+3351321000006113,Chronic ulcerative proctosigmoiditis
+3351311000006117,Chronic ulcerative rectosigmoiditis
+3351351000006116,Ulcerative proctosigmoiditis
+3553391000006113,UC - Ulcerative colitis
+302962016,Idiopathic proctocolitis NOS
+107644019,Ulcerative colitis
+2579429013,Idiopathic proctocolitis
+3553381000006110,Colitis gravis
+303762015,[X]Other ulcerative colitis
+7502561000006118,Ulcerative colitis in remission
+7952031000006116,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis
+7952041000006114,Hemolytic anemia associated with ulcerative colitis
+7952021000006119,Secondary autoimmune haemolytic anaemia co-occurrent and due to ulcerative colitis
+7952051000006111,Haemolytic anaemia associated with ulcerative colitis
+3774141000006118,Mild chronic ulcerative colitis
+3774151000006116,Chronic mild ulcerative colitis
+3780301000006118,Moderate chronic ulcerative colitis
+3780311000006115,Chronic moderate ulcerative colitis

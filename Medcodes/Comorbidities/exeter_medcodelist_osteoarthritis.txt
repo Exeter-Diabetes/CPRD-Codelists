@@ -1,0 +1,508 @@
+MedCodeID,Term
+8447981000006114,Osteoarthritis of right sternoclavicular joint
+3526589011,Osteoarthritis of left sternoclavicular joint
+8448071000006113,Osteoarthritis of right foot
+3526597016,Osteoarthritis of midtarsal joint of right foot
+8448101000006115,Osteoarthritis of first metatarsophalangeal joint of right foot
+8448121000006113,Osteoarthritis of left foot
+3526595012,Osteoarthritis of midtarsal joint of left foot
+8448161000006119,Osteoarthritis of first metatarsophalangeal joint of left foot
+8448181000006112,Osteoarthritis of right foot due to trauma
+3526586016,Osteoarthritis of left foot due to trauma
+3526577014,Osteoarthritis of right sacroiliac joint
+3526575018,Osteoarthritis of left sacroiliac joint
+8033821000006117,Advanced collapse of scapholunate joint due to osteoarthritis
+2674231000006119,Thoracic spondylosis with cord compression
+2674221000006117,Spondylogenic compression of thoracic spinal cord
+19006012,Thoracic spondylosis with myelopathy
+4167981000006117,Degenerative arthritis of temporomandibular joint
+9489971000006112,Osteoarthritis of right patellofemoral joint
+9489991000006113,Osteoarthritis of left patellofemoral joint
+9490011000006112,Osteoarthritis of bilateral patellofemoral joints
+9490001000006114,Bilateral patellofemoral joint osteoarthritis
+4356061000006113,Lumbosacral spondylosis
+9840941000006112,Osteoarthritis of right temporomandibular joint
+9840951000006114,Osteoarthritis of right TMJ (temporomandibular joint)
+9840971000006116,Osteoarthritis of left temporomandibular joint
+9840981000006118,Osteoarthritis of left TMJ (temporomandibular joint)
+9845101000006117,Osteoarthritis of left subtalar joint
+9845111000006119,Degenerative joint disease of left subtalar joint
+9845141000006115,Degenerative joint disease of right subtalar joint
+9845131000006113,Osteoarthritis of right subtalar joint
+9845171000006111,Osteoarthritis of bilateral first MTP joints
+9845161000006116,Osteoarthritis of first metatarsophalangeal joint of bilateral feet
+9845151000006118,Bilateral osteoarthritis of first metatarsophalangeal joint of feet
+3517974019,Osteoarthritis of both sacroiliac joints
+3517972015,Bilateral osteoarthritis of sacroiliac joints
+3517968019,Osteoarthritis of bilateral sacroiliac joints
+9846011000006114,Heberden's nodes of the distal interphalangeal joints of the right hand
+9845991000006110,Right Heberdens nodes with arthropathy
+9846001000006111,Heberden nodes of right hand
+9846031000006115,Left Heberdens nodes with arthropathy
+9846041000006113,Heberden nodes of left hand
+9846051000006110,Heberden's nodes of the distal interphalangeal joints of the left hand
+3526582019,Osteoarthritis of bilateral feet due to trauma
+3526585017,Osteoarthritis of both feet due to trauma
+3526584018,Bilateral osteoarthritis of feet due to trauma
+12126971000006118,Bilateral osteoarthritis of midtarsal joints of feet
+12126991000006117,Osteoarthritis of midtarsal joints of both feet
+12126981000006115,Osteoarthritis of midtarsal joints of bilateral feet
+251795011,H/O: osteoarthritis
+4541351000006118,History of osteoarthritis
+9934091000006116,Osteoarthritis of left ankle due to trauma
+9934111000006113,Osteoarthritis of right ankle due to trauma
+9934121000006117,Primary osteoarthritis of right ankle
+11860791000006118,Osteoarthritis of joint right ankle
+297465015,Nerve root and plexus compressions in spondylosis
+309877012,Erosive osteoarthrosis
+309896011,"Localised, primary osteoarthritis of the lower leg"
+4809541000006117,Primary localized osteoarthrosis
+309881012,"Localised, primary osteoarthritis"
+4809531000006110,Primary localised osteoarthrosis
+309911018,"Localised, primary osteoarthritis NOS"
+309884016,"Localised, primary osteoarthritis of unspecified site"
+4809521000006112,"Localized, primary osteoarthritis"
+309899016,"Localised, primary osteoarthritis of other specified site"
+4809571000006113,Primary localised osteoarthrosis of shoulder region
+309885015,"Localised, primary osteoarthritis of the shoulder region"
+4809581000006111,Primary localized osteoarthrosis of shoulder region
+4809561000006118,"Localized, primary osteoarthritis of the shoulder region"
+4809601000006118,"Localized, primary osteoarthritis of the hand"
+309892013,"Localised, primary osteoarthritis of the hand"
+4809621000006111,Primary localised osteoarthrosis of hand
+4809611000006115,Primary localized osteoarthrosis of hand
+4809641000006116,"Localized, primary osteoarthritis of the pelvic region and thigh"
+736911000006116,"Localised, primary osteoarthritis of the pelvic region and thigh"
+4809691000006113,Primary localized osteoarthrosis of ankle AND/OR foot
+400188013,"Localised, primary osteoarthritis of the ankle and/or foot"
+4809681000006110,"Localized, primary osteoarthritis of the ankle and/or foot"
+4809701000006113,Primary localised osteoarthrosis of ankle AND/OR foot
+309965018,"Localised osteoarthritis, unspecified, of the ankle and foot"
+4809661000006117,"Localized, primary osteoarthritis of the ankle and foot"
+309898012,"Localised, primary osteoarthritis of the ankle and foot"
+309919016,"Localised, secondary osteoarthritis of the upper arm"
+4809771000006119,Secondary localized osteoarthrosis
+309922019,"Localised, secondary osteoarthritis of the forearm"
+309930018,"Localised, secondary osteoarthritis of the lower leg"
+4809781000006116,Secondary localised osteoarthrosis
+309934010,"Localised, secondary osteoarthritis of other specified site"
+309914014,"Localised, secondary osteoarthritis"
+309915010,"Localised, secondary osteoarthritis of unspecified site"
+309941016,"Localised, secondary osteoarthritis NOS"
+4809761000006114,"Localized, secondary osteoarthritis"
+4809811000006119,Secondary localized osteoarthrosis of shoulder region
+4809801000006117,"Localized, secondary osteoarthritis of the shoulder region"
+309918012,"Localised, secondary osteoarthritis of the shoulder region"
+4809821000006110,Secondary localised osteoarthrosis of shoulder region
+4809841000006115,"Localized, secondary osteoarthritis of the hand"
+309923012,"Localised, secondary osteoarthritis of the hand"
+4809851000006118,Secondary localised osteoarthrosis of hand
+4809861000006116,Secondary localized osteoarthrosis of hand
+309933016,"Localised, secondary osteoarthritis of the ankle and foot"
+4809921000006118,Secondary localized osteoarthrosis of ankle AND/OR foot
+4809911000006114,Secondary localised osteoarthrosis of ankle AND/OR foot
+4809871000006111,"Localised, secondary osteoarthritis of the ankle and/or foot"
+4809881000006114,"Localized, secondary osteoarthritis of the ankle and foot"
+4809901000006111,"Localized, secondary osteoarthritis of the ankle and/or foot"
+309936012,"Post-traumatic coxarthrosis, bilateral"
+309937015,"Post-traumatic gonarthrosis, bilateral"
+523471000006111,Bouchard's node
+2821611000006118,Bouchard node
+523461000006116,Bouchard's nodes with arthropathy
+311055019,Single-level cervical spondylosis without myelopathy
+311056018,Two-level cervical spondylosis without myelopathy
+311057010,Multiple-level cervical spondylosis without myelopathy
+311072014,Single-level thoracic spondylosis with myelopathy
+311073016,Two-level thoracic spondylosis with myelopathy
+311074010,Multiple-level thoracic spondylosis with myelopathy
+311079017,Single-level lumbosacral spondylosis without myelopathy
+311080019,Two-level lumbosacral spondylosis without myelopathy
+311081015,Multiple-level lumbosacral spondylosis without myelopathy
+311082010,Lumbosacral spondylosis with myelopathy
+890861000006119,Lumbosacral spond + myelopathy
+311083017,Single-level lumbosacral spondylosis with myelopathy
+311084011,Two-level lumbosacral spondylosis with myelopathy
+311085012,Multiple-level lumbosacral spondylosis with myelopathy
+311096016,Cervical spondylosis with vascular compression
+4815171000006115,Thoracic spondylosis with root compression
+311097013,Thoracic spondylosis with radiculopathy
+311099011,Single-level thoracic spondylosis with radiculopathy
+311100015,Two-level thoracic spondylosis with radiculopathy
+311103018,Multiple-level thoracic spondylosis with radiculopathy
+311106014,Lumbosacral spondylosis with radiculopathy
+311108010,Single-level lumbosacral spondylosis with radiculopathy
+311109019,Two-level lumbosacral spondylosis with radiculopathy
+311110012,Multiple-level lumbosacral spondylosis with radiculopathy
+309953017,"Localised osteoarthritis, unspecified, of the hand"
+2853461000006115,Osteoarthritis - hand joint
+309977011,"Oligoarticular osteoarthritis, unspecified, of hand"
+2853471000006110,Osteoarthrosis of hand
+400185011,Degenerative joint disease of hand
+370721000000116,Delivery of rehabilitation for osteoarthritis
+5140261000006116,PGOA - Primary generalized osteoarthritis
+5140221000006110,PGOA - Primary generalised osteoarthritis
+5140281000006114,Primary generalized osteoarthrosis
+5140291000006112,Primary generalized hypertrophic osteoarthrosis
+5140301000006113,Primary generalised hypertrophic osteoarthrosis
+5140251000006118,Primary osteoarthritis
+5140211000006119,Idiopathic osteoarthritis
+5140271000006111,Primary generalized osteoarthritis
+359399017,Primary generalised osteoarthrosis
+5140241000006115,Primary generalised osteoarthritis
+5140321000006115,Degenerative joint disease of spinal facet joint
+1839121000006117,Osteoarthritis of spinal facet joint
+359402016,Osteoarthritis of spinal facet joint
+5140331000006117,Degenerative arthropathy of spinal facet joint
+5140351000006112,OA - Osteoarthritis of acromioclavicular joint
+5140361000006114,Degenerative joint disease of acromioclavicular joint
+310013018,Osteoarthritis of acromioclavicular joint
+5140391000006118,Degenerative joint disease of elbow
+5140381000006116,OA - Osteoarthritis of elbow
+310014012,"Osteoarthritis NOS, of elbow"
+221491000000111,Osteoarthritis of elbow
+5140421000006114,Degenerative joint disease of wrist
+5140411000006118,OA - Osteoarthritis of wrist
+54641000006115,Osteoarthritis of wrist
+310016014,"Osteoarthritis NOS, of wrist"
+5140451000006117,Degenerative joint disease of finger
+5140431000006112,Osteoarthritis of finger joint
+359389010,Osteoarthritis of finger
+5140441000006119,OA - Osteoarthritis of joint of finger
+5140481000006113,Degenerative joint disease of distal interphalangeal joint
+31031000006115,Osteoarthritis of distal interphalangeal joint
+5140501000006115,Degenerative joint disease of proximal interphalangeal joint
+18051000006110,Osteoarthritis of proximal interphalangeal joint
+5140511000006117,Osteoarthritis of metacarpophalangeal joint of finger
+5140521000006113,Degenerative joint disease of metacarpophalangeal joint of finger
+823951000006111,Hip osteoarthitis NOS
+5140541000006118,OA - Osteoarthritis of hip
+310020013,"Osteoarthritis NOS, of hip"
+5140551000006116,Degenerative joint disease of hip
+221511000000115,Osteoarthritis of hip
+5140601000006119,Knee DJD (degenerative joint disease)
+221521000000114,Osteoarthritis of knee
+359420013,Osteoarthritis of knee
+5140591000006110,Gonarthrosis
+310024016,"Osteoarthritis NOS, of knee"
+5140571000006114,OA - Osteoarthritis of knee
+359211000006118,[X] Unilateral primary gonarthrosis
+400355013,[X]Other primary gonarthrosis
+5140581000006112,Degenerative joint disease of knee
+5140621000006112,OA - Osteoarthritis of ankle
+5140631000006110,Degenerative joint disease of ankle
+359168010,Ankle arthritis NOS
+310026019,"Osteoarthritis NOS, of ankle"
+359385016,Osteoarthritis of ankle
+5140671000006113,Degenerative joint disease of subtalar joint
+5140661000006118,OA - Osteoarthritis of subtalar joint
+310027011,Osteoarthritis of subtalar joint
+5140711000006112,Osteoarthritis of first MTPJ (metatarsophalangeal joint)
+5140691000006114,OA - Osteoarthritis of first metatarsophalangeal joint
+5140701000006114,Degenerative joint disease of first metatarsophalangeal joint
+41301000006112,Osteoarthritis of first metatarsophalangeal joint
+359383011,Osteoarthritis of toe joint
+31071000006117,"Osteoarthritis NOS, of IP joint of toe"
+5140741000006111,Degenerative joint disease of toe joint
+31091000006116,"Osteoarthritis NOS, of lesser MTP joint"
+5140731000006118,OA - Osteoarthritis of toe joint
+359432012,Lumbar spondylosis
+611421000006111,Degeneration of lumbar spine
+359433019,Osteoarthritis of lumbar spine
+5140811000006115,Endemic generalized osteo-arthrosis
+5140821000006111,Endemic generalised osteo-arthrosis
+5140801000006118,Endemic osteoarthritis
+2905191000006117,Secondary localised osteoarthrosis of pelvic region
+2905201000006119,Secondary localized osteoarthrosis of pelvic region
+5350221000006119,Osteoarthritis deformans
+5350231000006116,Osteoarthrosis deformans
+400175010,Generalised osteoarthritis of the hand
+5502261000006116,Generalized osteoarthritis of the hand
+736171000006110,"Localised, secondary osteoarthritis of the pelvic region and thigh"
+5502281000006114,"Localized, secondary osteoarthritis of the pelvic region and thigh"
+890841000006118,Cervical spond.- no myelopathy
+400267013,Cervical spondylosis without myelopathy
+5572121000006111,Degenerative joint disease of metacarpophalangeal joint
+31101000006110,Osteoarthritis of metacarpophalangeal joint
+2961811000006118,Primary localised osteoarthrosis of multiple sites
+2961821000006114,Primary localized osteoarthrosis of multiple sites
+8096331000006110,Osteoarthritis of hip co-occurrent and due to dysplasia
+8096351000006115,Bilateral osteoarthritis of first carpometacarpal joint
+8096371000006113,Osteoarthritis of bothfirst carpometacarpal joints
+8096361000006118,Osteoarthritis of bilateral first carpometacarpal joints
+5986511000006111,Degenerative joint disease of foot
+359384017,Osteoarthritis of foot joint
+309889014,"Localised, primary osteoarthritis of the forearm"
+6028021000006113,"Localized, primary osteoarthritis of the wrist"
+457118013,"Localised, primary osteoarthritis of the wrist"
+457121010,"Localised, primary osteoarthritis of toe"
+6028041000006118,"Localized, primary osteoarthritis of toe"
+309888018,"Localised, primary osteoarthritis of the upper arm"
+457122015,"Localised, primary osteoarthritis of elbow"
+6028061000006119,"Localized, primary osteoarthritis of elbow"
+8101991000006113,Osteoarthritis of joint of left ankle
+3526441016,Osteoarthritis of joint of left elbow
+8102011000006113,Osteoarthritis of joint of left shoulder region
+8102021000006117,Osteoarthritis of joint of left wrist
+8102031000006119,Osteoarthritis of joint of right ankle and/or foot
+8102041000006112,Osteoarthritis of joint of right elbow
+8102071000006116,Osteoarthritis of joint of right shoulder
+11892541000006115,Osteoarthritis of joint of right shoulder region
+8102081000006118,Osteoarthritis of joint of right wrist
+8103611000006110,Osteoarthritis of left hip joint
+8103621000006119,Osteoarthritis of left knee joint
+8103651000006111,Osteoarthritis of right hip joint
+8103661000006113,Osteoarthritis of right knee joint
+3035271000006119,Osteoarthrosis involving multiple sites but not designated as generalized
+3035261000006114,Osteoarthrosis involving multiple sites but not designated as generalised
+309942011,Localised osteoarthritis
+3046461000006119,Localized osteoarthritis
+400181019,"Localised osteoarthritis, unspecified, of the lower leg"
+309971012,"Localised osteoarthritis, unspecified, NOS"
+309949019,"Localised osteoarthritis, unspecified, of the upper arm"
+3046451000006116,Localized osteoarthrosis
+3046471000006114,Localized osteoarthropathy
+3046441000006118,Localised osteoarthrosis
+3046481000006112,Localised osteoarthropathy
+736701000006117,"Localised osteoarthritis, unspecified, of other spec site"
+309945013,"Localised osteoarthritis, unspecified, of unspecified site"
+819391000006114,Heberden's node
+6357611000006112,Heberden node
+6383391000006113,Osteoarthritis of glenohumeral joint
+6383401000006110,Degenerative joint disease of glenohumeral joint
+359388019,Osteoarthrosis of the carpometacarpal joint of the thumb
+309969012,"Arthrosis of first carpometacarpal joint, unspecified"
+3110351000006113,Osteoarthritis of first carpometacarpal joint
+3110361000006110,Osteoarthritis basilar joint of thumb
+219611000000112,Osteoarthritis cervical spine
+1492276018,Osteoarthritis of cervical spine
+6478121000006115,Cervical spondylarthritis
+1481870016,Cervical spondylosis
+6478131000006117,Cervical spine degeneration
+6478111000006111,CS - Cervical spondylosis
+1705871000006118,Cervical spondylosis
+6478091000006119,Cervical osteoarthritis
+6478181000006116,Thoracic spondylarthritis
+1481872012,Thoracic spondylosis
+1492281010,Osteoarthritis of thoracic spine
+6478191000006118,Thoracic osteoarthritis
+6549791000006116,Exacerbation of osteoarthritis
+6564781000006111,Referral to rheumatology service for osteoarthritis
+400184010,"Osteoarthritis NOS, of the forearm"
+309979014,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+41261000006115,Osteoarthritis and allied disorders
+757071000006113,Joint degeneration
+6566801000006118,Degenerative joint disease
+6566781000006117,OA - Osteoarthrosis
+6566811000006115,Hypertrophic polyarthritis
+41281000006113,Osteoarthritis NOS
+309975015,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+310010015,"Osteoarthritis NOS, other specified site"
+6566821000006111,Osteoarthrosis
+889931000006113,Osteoarthritis - ankle/foot
+6566761000006110,OA - Osteoarthritis
+264471000006113,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+264481000006111,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+6566771000006115,Degenerative arthritis
+889911000006119,Osteoarthritis - hip joint
+6566791000006119,Hypertrophic arthritis
+6566831000006114,Degenerative arthropathy
+265871000006111,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+889881000006119,Osteoarthritis - elbow joint
+309987010,"Osteoarthritis NOS, of unspecified site"
+889901000006117,Osteoarthritis - hand joint
+18121000006117,"Osteoarthritis NOS, of tibio-fibular joint"
+264501000006118,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+309976019,"Oligoarticular osteoarthritis, unspecified, of forearm"
+31041000006113,"Osteoarthritis NOS, of distal radio-ulnar joint"
+1776248011,Osteoarthritis
+400187015,"Osteoarthritis NOS, of the lower leg"
+400183016,"Osteoarthritis NOS, of the upper arm"
+400182014,Osteoarthritis NOS
+889891000006116,Osteoarthritis - wrist joint
+310029014,"Osteoarthritis NOS, of other tarsal joint"
+7166461000006112,Acute osteoarthritis of shoulder
+7166451000006110,Acute osteoarthritis of shoulder region
+7166441000006113,Acute degenerative joint disease of shoulder region
+3205601000006112,Arthritis sicca
+3205591000006116,Chronic osteoarthritis
+3205611000006110,Arthroxerosis
+400186012,Degenerative joint disease of pelvis
+7308771000006118,Osteoarthritis of pelvis
+80324016,Lumbosacral spondylosis without myelopathy
+3279971000006119,Lumbar AND/OR sacral osteoarthritis
+3364991000006115,Degenerative spinal arthritis
+3364971000006116,Spinal arthritis deformans
+3364981000006118,Hypertrophic spinal arthritis
+3455351000006114,Osteoarthrotomy
+3594941000006112,OA - Osteoarthritis of shoulder
+309988017,Degenerative joint disease of shoulder region
+310011016,Osteoarthritis of shoulder
+3594971000006116,Osteoarthritis of shoulder region
+3594951000006114,Osteoarthritis of shoulder joint
+736711000006119,"Localised osteoarthritis, unspecified, of shoulder region"
+3597211000006110,Lumbar spondylosis with myelopathy
+3597221000006119,Spondylogenic compression of lumbar spinal cord
+311118017,Spondylosis without myelopathy
+3619871000006116,Spinal osteoarthritis
+7519281000006117,Post infectious osteoarthritis
+7519291000006119,Post traumatic osteoarthritis
+7533251000006115,Osteoarthritis of ankle secondary to trauma
+7533351000006114,Primary osteoarthritis of calcaneocuboid joint
+7533341000006112,Primary calcaneocuboid osteoarthritis
+7533361000006111,Osteoarthritis of calcaneocuboid joint
+7533391000006115,Secondary osteoarthritis of calcaneocuboid joint
+7533381000006118,Secondary calcaneocuboid osteoarthritis
+7533451000006119,Osteoarthritis of calcaneocuboid joint secondary to trauma
+7533441000006116,Calcaneocuboid osteoarthritis secondary to trauma
+7533531000006113,Osteoarthritis of calcaneocuboid joint secondary to inflammatory arthritis
+7533521000006110,Calcaneocuboid osteoarthritis secondary to inflammatory arthritis
+310028018,Osteoarthritis of talonavicular joint
+7533661000006115,Primary osteoarthritis of talonavicular joint
+7533651000006117,Primary talonavicular osteoarthritis
+7533681000006113,Secondary osteoarthritis of talonavicular joint
+7533671000006110,Secondary talonavicular osteoarthritis
+7533721000006118,Osteoarthritis of talonavicular joint secondary to trauma
+7533711000006114,Talonavicular osteoarthritis secondary to trauma
+7533751000006110,Talonavicular osteoarthritis secondary to inflammatory arthritis
+7533761000006112,Osteoarthritis of talonavicular joint secondary to inflammatory arthritis
+7533771000006117,Secondary osteoarthritis of first metatarsophalangeal joint
+7533791000006116,Primary osteoarthritis of first MTPJ (metatarsophalangeal joint)
+7533781000006119,Primary osteoarthritis of first metatarsophalangeal joint
+7533811000006117,Osteoarthritis of first metatarsophalangeal joint secondary to trauma
+7533821000006113,Osteoarthritis of first metatarsophalangeal joint secondary to inflammatory arthritis
+7569861000006113,Secondary osteoarthritis of midfoot
+7569871000006118,Osteoarthritis of midfoot
+7569881000006115,Primary osteoarthritis of midfoot
+7569891000006117,Osteoarthritis of midfoot secondary to trauma
+7569901000006118,Osteoarthritis of midfoot secondary to inflammatory arthritis
+7691671000006112,Osteoarthritis of hip due to dysplasia
+2613541000006115,Secondary localized osteoarthrosis of multiple sites
+2613531000006113,Secondary localised osteoarthrosis of multiple sites
+7704611000006113,Degenerative arthropathy of thoracic spinal facet joint
+7704591000006119,Osteoarthritis of thoracic spinal zygapophysial joint
+7704601000006110,Osteoarthritis of thoracic spinal zygapophyseal joint
+7704621000006117,Osteoarthritis of thoracic spinal facet joint
+7704581000006117,Osteoarthritis of facet joint of thoracic spine
+7710061000006113,Osteoarthritis of lumbar spinal facet joint
+7710071000006118,Osteoarthritis of lumbar zygapophyseal joint
+7710081000006115,Degenerative arthropathy of lumbar spinal facet joint
+7711291000006116,Lumbosacral spondylosis with root compression
+7711301000006115,Lumbosacral spondylosis co-occurrent with root compression
+7735771000006117,Mild spondyloepiphyseal dysplasia with early onset osteoarthritis due to collagen type II alpha 1 mutation
+7735761000006112,Mild spondyloepiphyseal dysplasia due to COL2A1 mutation with early onset osteoarthritis
+3514953011,Oligoosteoarthritis
+3515706013,Wear of cartilage of joint caused by hemiarthroplasty
+3526488017,Osteoarthritis of joint of left ankle and/or foot
+3717371000006110,Interphalangeal osteoarthritis
+3768861000006114,Primary localized osteoarthrosis of pelvic region
+3768851000006112,Primary localised osteoarthrosis of pelvic region
+3838811000006118,Degenerative joint disease of ankle AND/OR foot
+3838831000006112,Osteoarthritis - ankle/foot
+3838821000006114,Osteoarthritis - ankle and/or foot
+3838841000006119,Osteoarthrosis of ankle and/or foot
+310012011,Osteoarthritis of sternoclavicular joint
+18181000006118,Osteoarthritis of spine
+2641221000006118,Spondarthropathy
+508047017,Osteoarthritis of spine
+312614018,[X]Other spondylosis
+2476044012,Osteoarthritis of spine NOS
+2641201000006111,OA - Osteoarthritis of the spine
+2641181000006110,Spondylarthrosis
+1209790019,Arthritis of spine
+312613012,[X]Other spondylosis with radiculopathy
+400271011,Spondylosis NOS
+18191000006115,Osteoarthritis spine
+311111011,Other spondyloses and allied disorders
+2641211000006114,OA - Osteoarthritis of spine
+130001000006111,Spondylosis
+312612019,[X]Other spondylosis with myelopathy
+3976551000006113,Localised osteoarthrosis uncertain if primary OR secondary
+3976561000006110,Localized osteoarthrosis uncertain if primary OR secondary
+255924016,O/E - hands - Heberden's nodes
+800731000006117,Generalised osteoarthritis
+309862016,Degenerative joint disease involving multiple joints
+800751000006112,Polyarticular osteoarthritis
+889861000006112,Osteoarthritis -multiple joint
+309876015,Secondary multiple arthrosis
+309878019,Heberden's nodes with arthropathy
+309880013,Generalised osteoarthritis NOS
+309950019,Osteitis of forearm
+309972017,Osteoarthritis of multiple joints
+265841000006115,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
+265861000006116,"Oligoarticular osteoarthritis, unspecified, multiple sites"
+309983014,"Osteoarthritis of more than one site, unspecified, NOS"
+889871000006117,Osteoarthritis -shoulder joint
+889941000006115,Osteoarthritis - other joint
+989341000006110,Osteoarthritis - elbow joint
+989351000006112,Osteoarthritis - wrist joint
+989361000006114,Osteoarthritis - hip joint
+18061000006112,Inflammation of sacroiliac joint
+989371000006119,Osteoarthritis - knee joint
+96705013,Traumatic arthropathy
+310049017,Traumatic arthropathy of unspecified site
+889951000006118,Traumatic arth.-shoulder joint
+310050017,Traumatic arthropathy of the shoulder region
+310051018,Traumatic arthropathy of the upper arm
+889961000006116,Traumatic arth. - elbow joint
+310052013,Traumatic arthropathy of the forearm
+889971000006111,Traumatic arth. - wrist joint
+310053015,Traumatic arthropathy of the hand
+889981000006114,Traumatic arth. - hand joint
+889991000006112,Traumatic arth. - hip joint
+310054014,Traumatic arthropathy of the pelvic region and thigh
+890001000006113,Traumatic arth. - knee joint
+310055010,Traumatic arthropathy of the lower leg
+310056011,Traumatic arthropathy of the ankle and foot
+890011000006111,Traumatic arth. - ankle/foot
+890021000006115,Traumatic arth. - other joint
+310057019,Traumatic arthropathy of other specified site
+890031000006117,Traumatic arth.-multiple joint
+310058012,Traumatic arthropathy of multiple sites
+310059016,Traumatic arthropathy of shoulder
+310060014,Traumatic arthropathy of sternoclavicular joint
+310061013,Traumatic arthropathy of acromioclavicular joint
+310062018,Traumatic arthropathy-elbow
+92651000006119,Traumatic arthropathy of distal radio-ulnar joint
+310064017,Traumatic arthropathy-wrist
+92681000006110,Traumatic arthropathy of metacarpophalangeal joint
+92721000006115,Traumatic arthropathy of proximal interphalangeal joint of finger
+92641000006116,Traumatic arthropathy of distal interphalangeal joint of finger
+310068019,Traumatic arthropathy-hip
+310070011,Traumatic arthropathy-knee
+92851000006118,Traumatic arthropathy of tibio-fibular joint
+310072015,Traumatic arthropathy-ankle
+310073013,Traumatic arthropathy of subtalar joint
+310074019,Traumatic arthropathy of talonavicular joint
+310075018,Traumatic arthropathy of other tarsal joint
+92621000006111,Traumatic arthropathy of 1st metatarsophalangeal joint
+92671000006112,Traumatic arthropathy of lesser metatarsophalangeal joint
+92661000006117,Traumatic arthropathy of interphalangeal joint of toe
+310079012,Traumatic arthropathy NOS
+890041000006110,Traumatic arthritis NOS
+311061016,Single-level cervical spondylosis with myelopathy
+311062011,Two-level cervical spondylosis with myelopathy
+311063018,Multiple-level cervical spondylosis with myelopathy
+311068010,Single-level thoracic spondylosis without myelopathy
+311069019,Two-level thoracic spondylosis without myelopathy
+311070018,Multiple-level thoracic spondylosis without myelopathy
+311091014,Cervical spondylosis with radiculopathy
+311093012,Single-level cervical spondylosis with radiculopathy
+311094018,Two-level cervical spondylosis with radiculopathy
+311095017,Multiple-level cervical spondylosis with radiculopathy
+311119013,Spondylosis with myelopathy
+892321000006118,Hypertroph. pulm. osteoarthrop
+502821000006112,Bamberger - Marie disease
+312011010,Hypertrophic pulmonary osteoarthropathy
+500464010,Hallux rigidus - acquired
+312703010,Hypertrophic osteoarthropathy
+309901013,"Primary coxarthrosis, bilateral"
+309902018,"Coxarthrosis resulting from dysplasia, bilateral"
+309903011,"Primary gonarthrosis, bilateral"
+309904017,"Primary arthrosis of first carpometacarpal joints, bilateral"
+91728013,Coxae malum senilis
+217381000006112,"Post-traumatic arthrosis of first carpometacarpal joints, bilateral"
+453242017,"Post-traumatic gonarthrosis, unilateral"
+359434013,Otto's pelvis
+736781000006114,"Localised osteoarthritis, unspecified, pelvic region/thigh"
+240071000006115,Patellofemoral osteoarthritis
+889921000006110,Osteoarthritis - knee joint

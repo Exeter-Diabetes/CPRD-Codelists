@@ -1,0 +1,115 @@
+MedCodeId,Term
+4784111000006112,Oral Crohn's disease
+4784091000006115,Crohn's disease of oral soft tissues
+302322010,Orofacial Crohn's disease
+302937016,Regional enteritis of the jejunum
+4785581000006112,Crohn disease of terminal ileum
+601091000006115,Crohn's disease of terminal ileum
+309744019,Arthropathy in Crohn's disease
+4808981000006112,Arthropathy in Crohn disease
+309833017,Juvenile arthritis in Crohn's disease
+4809351000006111,Juvenile arthritis in Crohn disease
+5073581000006111,Crohn's disease of gingivae
+5082831000006111,Crohn's disease of esophagus
+5082841000006118,Crohn disease of esophagus
+5082851000006116,Crohn disease of oesophagus
+5082821000006113,Crohn's oesophagitis
+5082801000006115,Crohn's disease of oesophagus
+5082811000006117,Crohn's esophagitis
+5083991000006112,Crohn disease of stomach
+5083971000006111,Crohn's disease of stomach
+5083981000006114,Crohn's gastritis
+5085631000006115,Perianal Crohn disease
+5085621000006118,Perianal Crohn's disease
+5548941000006118,Crohn disease activity index
+5548931000006111,CDAI - Crohn's disease activity index
+5548921000006113,Crohn's disease activity index
+886291000006112,Regional enteritis - Crohn
+1222351011,Crohn's disease NOS
+3047381000006117,Granulomatous enteritis
+56770011,Granulomatous enteritis
+56765016,Crohn's disease
+302947018,Regional enteritis NOS
+3047391000006119,CD - Crohn's disease
+3047371000006115,Regional enteritis
+3047411000006119,Crohn disease
+3047431000006113,RE - regional enteritis
+303761010,[X]Other Crohn's disease
+179501000006113,Crohn's regional enteritis
+3047421000006110,Crohns disease
+3113551000006113,Crohn disease of ileum
+302940016,Crohn's disease of ileum
+3113541000006111,Crohn's ileitis
+302939018,Crohn's disease of the ileum unspecified
+2559801000006116,Crohn's proctitis
+2559781000006115,Crohn's disease of rectum
+488238014,Regional enteritis of the rectum
+2559791000006117,Regional enteritis of rectum
+2559821000006114,Crohn disease of rectum
+6582841000006118,Gastrointestinal Crohn's disease
+6582851000006116,Gastrointestinal Crohn disease
+6582871000006114,Crohn disease of intestine
+6582861000006119,Crohn's disease of intestine
+6632031000006117,Crohn disease of skin
+6632021000006115,Crohn's disease of skin
+6664411000006115,Crohn disease of vulva
+6664401000006118,Vulval Crohn's disease
+6664391000006115,Crohn's disease of vulva
+6664431000006114,Penile Crohn's disease
+6664441000006116,Crohn disease of penis
+6664421000006111,Crohn's disease of penis
+6664451000006119,Crohn's disease of scrotum
+6664461000006117,Scrotal Crohn's disease
+6664471000006112,Crohn disease of scrotum
+6664481000006110,Metastatic Crohn's disease of skin
+6664491000006113,Metastatic Crohn disease of skin
+6797991000006117,Iritis with Crohn's disease
+6798001000006110,Iritis with Crohn disease
+6839131000006116,Crohn stricture of colon
+6839121000006119,Crohn's stricture of colon
+6853111000006114,Exacerbation of Crohn disease of large intestine
+2532950019,Exacerbation of Crohn's disease of large intestine
+2532958014,Exacerbation of Crohn's disease of small intestine
+6853131000006115,Exacerbation of Crohn disease of small intestine
+7060771000006117,Crohn disease in remission
+7060761000006112,Crohn's disease in remission
+3316801000006112,Crohn disease of colon
+601031000006119,CC - Crohn's colitis
+3316791000006111,GC - Granulomatous colitis
+3316761000006115,Regional colitis
+3316811000006110,"Crohns disease, colon"
+3316751000006117,Crohn's disease of colon
+3316771000006110,Granulomatous colitis
+179521000006115,Regional enteritis of the colon
+497569010,Regional enteritis of the duodenum
+3414701000006116,Crohn's duodenitis
+3414681000006119,Crohn's disease of duodenum
+3414711000006118,Crohn disease of duodenum
+3420851000006113,Regional enteritis of small intestine
+3420881000006117,Crohn disease of small intestine
+3420861000006110,Regional ileitis of small intestine
+3420871000006115,Segmental ileitis of small intestine
+3420891000006119,"Crohns disease, small intestine"
+179571000006119,Regional enteritis of the small bowel
+302941017,Crohn's disease of small intestine
+3497981000006115,Crohn's disease of pylorus
+3497991000006117,Crohn disease of pylorus
+3648641000006111,Crohn's disease of pyloric antrum
+3648651000006113,Crohn disease of pyloric antrum
+3668461000006119,Crohn's disease of small intestine and colon
+3668441000006118,Crohn's disease of small AND large intestines
+3668451000006116,Crohn disease of small AND large intestines
+7821461000006119,Crohn disease of anal canal
+7837051000006115,Crohn's disease of gastrointestinal anastomosis
+7877161000006117,Extraintestinal Crohn's
+7877171000006112,Extra-intestinal Crohn's
+7954661000006112,Crohn disease of appendix
+7959171000006110,Perianal fistula due to Crohn's disease
+3527134013,Crohn disease of upper gastrointestinal tract
+2621151000006116,Crohn disease of large bowel
+2621161000006119,"Crohns disease, large intestine"
+396357012,Crohn's disease of large bowel
+1495442018,Regional enteritis of the large bowel
+3984681000006119,Crohn's jejunitis
+3984691000006116,Crohn disease of jejunum
+3984671000006117,Crohn's disease of jejunum

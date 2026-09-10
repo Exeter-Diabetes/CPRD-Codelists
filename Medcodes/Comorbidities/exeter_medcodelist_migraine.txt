@@ -1,0 +1,80 @@
+MedCodeID,Term
+3514339017,Status migrainosus co-occurrent and due to migraine without aura
+3513677013,Common migraine with status migrainosus
+8038761000006113,Menstrual status migrainosus
+8038791000006117,Chronic intractable migraine without aura
+8046281000006112,Allergic migraine
+252573011,Abdominal migraine - symptom
+297337016,Migraine variants
+297351016,Migraine variant NOS
+4769931000006117,Complex migraine
+297354012,Complicated migraine
+7596016,Migraine with typical aura
+5008281000006114,Non-familial hemiplegic migraine
+5008301000006113,Migraine accompaniment
+5008311000006111,Acephalgic migraine
+5008291000006112,Migraine aura without headache
+5008341000006110,Status migrainus
+345355014,Status migrainosus
+5008361000006114,Migraine with ischemic complication
+5008351000006112,Migraine with ischaemic complication
+221281000000113,Menstrual migraine
+5034261000006115,Vestibular migraine
+5034251000006117,Migrainous vertigo
+2918521000006118,Lower half migraine
+297355013,Other forms of migraine NOS
+299338017,[X]Other migraine
+297352011,Other forms of migraine
+297356014,Migraine NOS
+63055014,Migraine
+7004751000006118,Intractable common migraine
+7004741000006115,"Common migraine without aura, intractable"
+7004731000006113,Intractable migraine without aura
+7004721000006110,Refractory migraine without aura
+7011961000006117,Intractable classical migraine
+7011971000006112,"Classical migraine, intractable"
+7011951000006119,Intractable migraine with aura
+7011941000006116,Refractory migraine with aura
+7016071000006117,Refractory migraine
+7016081000006119,Intractable migraine
+7031421000006110,"Migraine variants, not intractable"
+7043151000006113,Refractory migraine variants
+7043161000006110,"Migraine variants, intractable"
+7051621000006114,Intractable ophthalmic migraine
+7073611000006119,Transformed migraine
+12345321000006119,Chronic migraine
+7306291000006114,Migraine variant with headache
+2570161000006115,Classical migraine
+7595017,Migraine with aura
+93295014,Common migraine
+297336013,Common migraine NOS
+93296010,Atypical migraine
+93294013,Migraine without aura
+98501012,Hemiplegic migraine
+1747081000000119,History of migraine with aura
+7520401000006111,Persistent migraine aura
+7520391000006114,Migraine with persistent visual aura
+7689901000006111,Migraine due to oestrogen contraceptive
+7689911000006114,Migraine due to estrogen contraceptive
+7689931000006115,Migraine caused by estrogen contraceptive
+7689921000006118,Migraine caused by oestrogen contraceptive
+7855731000006119,Migraine-induced stroke
+7855711000006113,Stroke co-occurrent with migraine
+7855721000006117,Stroke and migraine
+1746951000000114,Migraine induced by oestrogen contraceptive
+3789081000006119,Retinal migraine
+3856491000006112,Bickerstaff's migraine
+3856501000006116,Vertebrobasilar migraine
+138248010,Basilar migraine
+3856481000006114,Basilar artery migraine
+4060351000006118,Acute confusional migraine
+4060381000006114,Ocular migraine
+158460019,Ophthalmic migraine
+4060401000006114,Hemiplegic-ophthalmoplegic migraine
+4060391000006112,Familial hemiplegic migraine
+4060411000006112,Chronic mixed headache syndrome
+251645017,H/O: migraine
+2159945013,Migraine prophylaxis
+700211000006115,Moebius' ophthalmoplegic migraine
+82623012,Ophthalmoplegic migraine
+137089018,Premenstrual tension syndrome

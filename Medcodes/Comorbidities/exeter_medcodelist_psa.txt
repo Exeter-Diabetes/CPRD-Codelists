@@ -1,0 +1,25 @@
+MedCodeID,Term
+8407011000006110,PsAID-9 (Psoriatic Arthritis Impact of Disease 9) questionnaire
+11931641000006112,Psoriatic Arthritis Impact of Disease 9 questionnaire
+8415311000006117,Assessment using Psoriatic Arthritis Impact of Disease 9 questionnaire
+8415321000006113,Psoriatic Arthritis Impact of Disease 9 questionnaire score
+2589441000000117,Psoriatic Arthritis Impact of Disease 9 questionnaire score
+9310141000006117,Psoriatic arthritis mutilans
+4515241000006118,Psoriatic arthritis
+4515261000006119,PA (Psoriatic arthritis)
+4515251000006116,PsA (Psoriatic arthritis)
+32869011,Arthritis mutilans
+198881000006116,Psoriatic spondylitis
+4805761000006111,Psoriatic arthritis with spine involvement
+5139451000006113,Juvenile psoriatic arthritis
+5139461000006110,Juvenile psoriatic arthritis with psoriasis
+359310019,Juvenile arthritis in psoriasis
+5139481000006117,Juvenile psoriatic arthritis without psoriasis
+5139581000006118,Psoriatic arthritis with distal interphalangeal joint involvement
+359321011,Distal interphalangeal psoriatic arthropathy
+5139601000006111,Psoriatic dactylitis
+55628018,Psoriatic arthritis
+312521010,Psoriasis with arthropathy
+308730016,Psoriatic arthropathy NOS
+55627011,Psoriatic arthropathy
+6797961000006113,Iritis in psoriatic arthritis

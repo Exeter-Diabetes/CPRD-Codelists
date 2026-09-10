@@ -1,0 +1,29 @@
+MedCodeID,Term
+8032271000006112,Restrictive strabismus due to Graves disease
+8032281000006110,Restrictive strabismus due to Graves' disease
+8032601000006115,Ophthalmoplegia due to Graves' disease
+8032591000006111,Ophthalmoplegia due to Graves disease
+2745321000006119,Graves' disease with acropachy
+5108031000006113,Thyrotoxicosis due to Graves' disease
+5112861000006111,Juvenile Graves' disease
+5112881000006118,Graves' dermopathy
+2918541000006113,Graves' disease with acropachy AND with thyrotoxic storm
+2918531000006115,Graves' disease with acropachy AND with thyrotoxic crisis
+5581811000006110,Graves ophthalmopathy
+5581861000006113,Ophthalmic Graves disease
+5581841000006114,Graves eye disease
+5581851000006111,Graves' eye disease
+5581801000006112,Graves' ophthalmopathy
+490987015,Basedow's disease
+6196451000006112,Basedow disease
+472452010,Graves' disease
+6196461000006114,Graves disease
+2506361000006112,Graves' disease with pretibial myxoedema AND with thyrotoxic storm
+2506341000006113,Graves' disease with pretibial myxedema AND with thyrotoxic crisis
+2506351000006110,Graves' disease with pretibial myxedema AND with thyrotoxic storm
+2506331000006115,Graves' disease with pretibial myxoedema AND with thyrotoxic crisis
+3406471000006110,Graves' disease with exophthalmos
+3477921000006110,Graves' disease with thyrotoxic crisis
+3477931000006113,Graves' disease with thyrotoxic storm
+3478791000006111,Graves' disease with pretibial myxedema
+3478801000006112,Graves' disease with pretibial myxoedema

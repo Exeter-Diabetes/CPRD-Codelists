@@ -1,0 +1,416 @@
+MedCodeID,Term
+8032701000006110,Drug induced central sleep apnea
+8032691000006110,Drug induced central sleep apnoea
+8032851000006115,Acquired central alveolar hypoventilation
+8032961000006114,Primary hyposomnia
+8032971000006119,Organic mixed sleep disorder
+2659641000000118,Signposting to the Sleep Council
+8442461000006112,Does not sleep without sedation
+8445951000006110,Does not sleep
+8445971000006117,Does not sleep with sedation
+7967581000006116,Obstructive sleep apnoea of child
+7967591000006118,Obstructive sleep apnea of child
+7967601000006114,Obstructive sleep apnoea of adult
+7967611000006112,Obstructive sleep apnea of adult
+12621581000006117,Signposting for dCBT - I (digital cognitive behaviour therapy for insomnia)
+12621561000006110,Signposting for digital cognitive behavioural therapy for insomnia
+12621571000006115,Signposting for dCBT (digital cognitive behaviour therapy) for insomnia
+12621611000006113,Referral for dCBT - I (digital cognitive behaviour therapy for insomnia)
+12621591000006119,Referral for digital cognitive behavioural therapy for insomnia
+12621601000006110,Referral for dCBT (digital cognitive behaviour therapy) for insomnia
+12621631000006119,Self referral for dCBT (digital cognitive behaviour therapy) for insomnia
+12621621000006117,Self referral for digital cognitive behavioural therapy for insomnia
+12621641000006112,Self referral for dCBT - I (digital cognitive behaviour therapy for insomnia)
+12624811000006112,dCBT - I - digital cognitive behavioural therapy for insomnia
+12624821000006116,dCBT (digital cognitive behavioural therapy) for insomnia
+12624801000006114,Digital cognitive behavioural therapy for insomnia
+12624831000006118,Digital CBT (cognitive behavioural therapy) for insomnia
+4196281000006111,Breathing-related sleep disorder
+8042621000006114,Parasomnia due to alcohol
+8042611000006118,Parasomnia caused by alcohol
+8042641000006119,Insomnia due to alcohol
+8042631000006112,Insomnia caused by alcohol
+8042661000006115,Hypersomnia due to alcohol
+8042651000006117,Hypersomnia caused by alcohol
+8042671000006110,Circadian rhythm sleep disorder caused by alcohol
+252935019,Late insomnia
+9902171000006115,Severe paediatric obstructive sleep apnoea
+9902181000006117,Severe pediatric obstructive sleep apnea
+264540018,Asthma disturbing sleep
+264541019,Asthma causing night waking
+264542014,Asthma disturbs sleep weekly
+264543016,Asthma disturbs sleep frequently
+2776351000006118,Day terrors
+2776341000006115,Pavor diurnus
+295412011,Persistent insomnia
+295416014,Persistent hypersomnia
+295421012,Sleep drunkenness
+295422017,Repeated rapid eye movement sleep interruptions
+295430016,Inversion of sleep rhythm
+4766561000006111,Reversed sleep-wake cycle
+317049015,[D]Sleep rhythm inversion
+4766571000006116,Sleep rhythm inversion
+772561000006111,Insomnia due to nonorganic sleep disorder
+400121000006111,Nonorganic insomnia
+297357017,Cataplexy and narcolepsy
+4771851000006111,Sleeplessness
+1222474014,[D]Insomnia - symptom
+317035012,[D]Insomnia NOS
+217721000000117,Insomnia
+345377013,Insomnia NOS
+299274011,Disorders of initiating and maintaining sleep
+4775431000006115,Disorder of excessive somnolence
+299277016,Disorders of excessive somnolence
+8058301000006110,COPD (chronic obstructive pulmonary disease) disturbs sleep
+299001000000116,Chronic obstructive pulmonary disease disturbs sleep
+305092019,Menopausal sleeplessness
+2859751000006110,Cocaine induced sleep disorder
+2859741000006113,Cocaine-induced sleep disorder
+400111000006115,[X]Nonorganic hypersomnia
+5008591000006110,"Hypersomnia, nonorganic"
+345382018,Hypersomnia of non-organic origin
+5008601000006119,Excessive daytime sleepiness - normal night sleep
+5008611000006116,Excessive day and night-time sleepiness
+5008621000006112,24 hour hypersomnolence
+5008631000006110,Postviral excessive daytime sleepiness
+5008641000006117,Excess daytime sleepiness with sleep paralysis
+5008671000006113,Complex sleep apnea
+5008661000006118,Mixed sleep apnea
+5008651000006115,Mixed sleep apnoea
+5008681000006111,Alveolar sleep apnoea
+5008691000006114,Alveolar sleep apnea
+5008701000006114,Transient sleep-wake rhythm disorder
+317051016,Non-24 hour sleep-wake cycle
+5008741000006111,"Circadian rhythm sleep disorder, free-running type"
+5008721000006116,Free-running sleep-wake cycle disorder
+5008731000006118,"Circadian rhythm sleep disorder, free running"
+5008751000006113,Sleep-related head banging
+345396012,Sleep-related respiratory failure
+5008801000006118,Sleep-related dystonia
+8011611000006119,Somnambulism co-occurrent with sleep terror disorder
+8011641000006115,Sleep walking and night terrors
+8011631000006113,Somnambulism and night terrors
+8011621000006110,Somnambulism co-occurrent with night terrors
+2884881000006119,Insomnia disorder related to another mental disorder
+2884891000006116,Insomnia due to mental disorder
+5250781000006117,Reaction to sudden wakening
+5250841000006116,Low level of awareness while sleep walking
+5250831000006114,Low level of awareness whilst sleep walking
+5250861000006117,Low level of reactivity while sleep walking
+5250851000006119,Low level of reactivity whilst sleep walking
+5250881000006110,Low level of motor skill while sleep walking
+5250871000006112,Low level of motor skill whilst sleep walking
+5250891000006113,"Blank, staring face whilst sleep walking"
+5250901000006112,"Blank, staring face while sleep walking"
+5250921000006119,Unresponsive to communication while sleep walking
+5250911000006110,Unresponsive to communication whilst sleep walking
+5250941000006114,No recollection of sleep walk
+5250951000006111,Sleep automatism
+2896421000006114,Central alveolar hypoventilation syndrome
+5255021000006111,Cannot sleep at all
+5255031000006114,Unable to sleep
+5255061000006117,Hyposomnia
+5255051000006119,Short of sleep
+5255071000006112,Insufficient sleep syndrome
+5255041000006116,Not getting enough sleep
+5255081000006110,Circumstances interfere with sleep
+5255091000006113,Symptoms interfere with sleep
+5255101000006119,Unrefreshed by sleep
+5255121000006112,Cannot wake up
+5255131000006110,Can't wake up
+5255111000006116,Oversleeps
+5255141000006117,Always sleepy
+2912061000006116,Amphetamine induced sleep disorder
+2912051000006118,Amphetamine-induced sleep disorder
+401805019,Transient insomnia
+401806018,Transient hypersomnia
+401807010,Repetitive intrusions of sleep
+5506631000006111,Repetitive sleep intrusions
+424021000006111,[X]Psychogenic inversion of circadian rhythm
+424031000006114,[X]Psychogenic inversion of nyctohemeral rhythm
+424041000006116,[X]Psychogenic inversion of sleep rhythm
+400071000006111,[X]Nonorganic disorder of the sleep-wake schedule
+5506811000006116,Non-organic disorder of the sleep-wake schedule
+379691000006110,[X]Emotional sleep disorder NOS
+401808017,Other non-organic sleep disorder
+295435014,Non-organic sleep disorder NOS
+296394016,[X]Other nonorganic sleep disorders
+400141000006116,[X]Nonorganic sleep disorders
+295408017,Unspecified non-organic sleep disorder
+296396019,"[X]Nonorganic sleep disorder, unspecified"
+223701000000114,Non-organic sleep disorder
+317050015,Irregular sleep-wake pattern
+460422010,Disorder of sleep-wake cycle
+406739012,Disorders of the sleep-wake schedule
+5529491000006113,Disorder of sleep-wake schedule
+5529471000006112,Disturbed nyctohemeral rhythm
+5529451000006119,Disorder of sleep-wake cycle
+5529461000006117,Circadian dysregulation
+407067015,Complaining of insomnia
+5535841000006118,Appliance for sleep apnoea
+5535851000006116,Appliance for sleep apnea
+2939251000006112,Central sleep apnoea syndrome
+2939301000006117,Central sleep apnea
+2939271000006119,CSA - Central sleep apnoea
+1772651000006110,Central sleep apnoea
+2939291000006118,CSA - Central sleep apnea
+2939261000006114,Central sleep apnea syndrome
+5568121000006115,Teeth grinding while asleep
+12223171000006112,Sleep related bruxism
+5568131000006117,Teeth grinding at night
+5568141000006110,Teeth grinding whilst asleep
+1772791000006111,Sleep paralysis
+8013901000006114,Insomnia co-occurrent and due to medical condition
+8088771000006110,"Behavioural insomnia of childhood, combined type"
+8088781000006113,"Behavioral insomnia of childhood, combined type"
+8088801000006112,"Behavioral insomnia of childhood, limit setting type"
+8088791000006111,"Behavioural insomnia of childhood, limit setting type"
+8088821000006119,"Behavioral insomnia of childhood, sleep onset association type"
+8088831000006116,"Behavioral insomnia of childhood, sleep onset type"
+8088811000006110,"Behavioural insomnia of childhood, sleep onset association type"
+8089061000006114,Hyposomnia co-occurrent and due to psychological disorder
+8014531000006111,Disruptions of 24 hour sleep-wake cycle
+3008021000006112,"Circadian rhythm sleep disorder, advanced sleep phase"
+3008011000006116,"Sleep-wake schedule disorder, advanced phase type"
+3008031000006110,"Circadian rhythm sleep disorder, advanced sleep phase type"
+8014541000006118,Daytime hypersomnia
+11928691000006112,Insomnia severity index
+2551131000006116,Terminal mood insomnia
+8015101000006111,Nocturnal myoclonus
+477724014,Primary sleep apnoea of newborn
+6220711000006114,Primary sleep apnea of newborn
+1772811000006110,Primary hypersomnia
+6242451000006118,Substance-induced sleep disorder
+6347041000006118,Somnolence syndrome
+7977131000006116,Idiopathic hypersomnia
+3118191000006119,Initial mood insomnia
+1806231000006114,Primary insomnia
+2562371000006117,Idiopathic insomnia
+317054012,[D]Sleep dysfunction NOS
+299344018,[X]Other sleep disorders
+136601000006116,Sleep disorder
+295423010,Other sleep stage or arousal dysfunction
+1780430015,Early morning waking
+3161701000006118,Alcohol induced sleep disorder
+3161691000006118,Alcohol-induced sleep disorder
+2532986018,Benign neonatal sleep myoclonus
+6872541000006112,Rapid eye movement sleep behaviour disorder
+6872521000006117,REM sleep disorder
+6872511000006113,REM sleep behavior disorder
+6872531000006119,Rapid eye movement sleep behavior disorder
+1772851000006111,REM sleep behaviour disorder
+6921071000006113,Post-radiotherapy somnolence syndrome
+6926531000006111,Periodic limb movement disorder
+6929561000006110,Organic sleep disorder
+6931111000006119,Finding related to sleep walking
+317034011,Insomnia with sleep apnoea
+3176551000006111,Insomnia with sleep apnea
+7044901000006114,"Parasomnia (sleep disorder), non organic"
+7044891000006110,Non-organic parasomnia
+7044911000006112,"Parasomnia, psychogenic"
+7050121000006112,Psychophysiologic insomnia
+7050781000006112,Limit-setting sleep disorder
+7059271000006114,Recurrent hypersomnia
+7060661000006115,Sleep hypoventilation due to lower airway obstruction
+7064841000006111,Sleep-onset association disorder
+7066601000006118,"Hypersomnia, menstrual"
+7066591000006114,Hypersomnia disorder related to menstruation
+7073721000006119,Sleep attack
+7092461000006115,"Parasomnia, due to medical condition"
+7092451000006117,Secondary parasomnia
+7100761000006115,Catathrenia
+7100751000006117,Sleep-related groaning
+7100941000006116,Environmental sleep disorder
+7103571000006111,Hypoventilation during sleep due to neuromuscular disorder
+7105451000006118,Sleep related dissociative disorder
+7105441000006115,Sleep-related dissociative disorder
+7119611000006118,Sleep-related neurogenic tachypnea
+7119601000006116,Sleep-related neurogenic tachypnoea
+7128161000006110,Sleep related rhythmic movement disorder
+634561000000115,Referral to sleep clinic
+7235351000006117,Education about stimulus control behaviour in insomnia
+643281000000114,Education about stimulus control behaviour in insomnia
+11928861000006115,Education about stimulus control behavior in insomnia
+7255771000006113,Confusional arousal disorder
+317031015,Sleep disturbance
+3211741000006115,Dyssomnia
+317032010,"[D]Sleep disturbance, unspecified"
+3211751000006118,Sleep problem
+317052011,Sleep dysfunction with sleep stage disturbance
+7256901000006113,Idiopathic sleep related non-obstructive alveolar hypoventilation
+7257861000006115,Organic parasomnia
+7260061000006119,Recurrent isolated sleep paralysis
+7260641000006114,Organic sleep apnea
+7260631000006116,Organic sleep apnoea
+317053018,Sleep dysfunction with arousal disturbance
+1772831000006116,Idiopathic hypersomnia without long sleep time
+1772821000006119,Idiopathic hypersomnia associated with long sleep time
+7263971000006116,Idiopathic hypersomnia with long sleep time
+7281111000006114,Long sleeper syndrome
+7282631000006117,Sleep related hypoventilation
+1772611000006114,Sleep hypoventilation
+3216251000006119,Hypersomnia disorder related to a known organic factor
+7365581000006118,Exploding head syndrome
+3230641000006112,Middle mood insomnia
+7980231000006116,Sleep disturbance in infancy
+7478321000006119,Adjustment insomnia
+3371721000006110,Mood insomnia
+3379841000006114,Mixed insomnia
+3384961000006113,"Sleep-wake schedule disorder, frequently changing type"
+3412991000006118,Caffeine-induced sleep disorder
+3413001000006117,Caffeine induced sleep disorder
+3435601000006115,"Sedative, hypnotic AND/OR anxiolytic-induced sleep disorder"
+1772841000006114,Parasomnia
+3453391000006116,Parasomnia (sleep disorder)
+3459351000006112,Cannot get off to sleep
+3459321000006115,Difficulty falling asleep
+3459311000006111,Vesperal insomnia
+3459331000006117,Difficulty in sleep initiation
+3459341000006110,Difficulty getting to sleep
+98133013,Initial insomnia
+3480581000006114,Gelineau's syndrome
+3480591000006112,Narcoleptic syndrome
+3480571000006111,Paroxysmal sleep
+297358010,Cataplexy or narcolepsy NOS
+100304016,Narcolepsy
+3590271000006117,Matutinal insomnia
+3590291000006116,Wakes and cannot sleep again
+3590301000006115,Wakes early
+3590281000006119,Early waking
+3590261000006112,Terminal insomnia
+111701012,Middle insomnia
+3593431000006112,Interrupted sleep
+3593391000006118,Difficulty staying asleep
+3593401000006116,Night waking
+3593441000006119,Fitful sleep
+3593411000006118,Keeps waking up
+3593451000006117,Difficulty in sleep maintenance
+3593421000006114,Broken sleep
+7501851000006111,Pulmonary hypertension due to sleep-disordered breathing
+7690241000006111,Dream enactment behavior
+7690231000006118,Dream enactment behaviour
+147221000006110,Circadian rhythm sleep disorder of shift work type
+7849401000006118,Cannabis-induced sleep disorder
+7849391000006115,Sleep disorder caused by cannabis
+7856961000006115,Central sleep apnoea due to substance
+7856941000006119,Central sleep apnea caused by substance
+7856931000006112,Central sleep apnoea caused by substance
+7856951000006117,Central sleep apnea due to substance
+7856981000006113,Central sleep apnea co-occurrent with Cheyne Stokes respiration
+7857001000006115,Central sleep apnoea and Cheyne Stokes respiration
+7856991000006111,Central sleep apnea and Cheyne Stokes respiration
+7856971000006110,Central sleep apnoea co-occurrent with Cheyne Stokes respiration
+7857011000006117,Central sleep apnoea without Cheyne-Stokes respiration
+7857021000006113,Central sleep apnea without Cheyne-Stokes respiration
+7857041000006118,Late-onset central hypoventilation with hypothalamic dysfunction
+7857031000006111,Late-onset central hypoventilation co-occurrent and due to hypothalamic dysfunction
+7857051000006116,Sleep-related hypoventilation caused by substance
+7859821000006110,Nicotine-induced sleep disorder
+7859811000006119,Sleep disorder caused by nicotine
+7860451000006115,Sleep disorder caused by psychoactive substance
+7860461000006118,Psychoactive substance-induced sleep disorder
+7860671000006111,Chronic insomnia
+7860681000006114,Behaviourally induced hypersomnia
+7860691000006112,Behaviorally induced hypersomnia
+7860701000006112,Hypersomnolence caused by substance
+7860731000006116,Hypnogogic exploding head syndrome
+7860741000006114,Recurrent isolated sleep-related hallucinations
+7860751000006111,Parasomnia disorder caused by substance
+3694001000006117,SAS - Sleep apnoea syndrome
+3693981000006111,Sleep hypopnea
+136581000006114,Sleep apnoea
+3693961000006118,Sleep apnea
+3693971000006113,SAS - Sleep apnea syndrome
+200354014,Sleep apnoea
+11989401000006115,Sleep apnoea syndrome
+12702791000006116,Sleep apnoea syndrome
+3694011000006119,Sleep hypopnoea
+3693991000006114,Sleep apnea syndrome
+3515159019,Narcolepsy type 1
+3527474010,Synthetic cannabinoid-induced sleep disorder
+3527473016,Sleep disorder caused by synthetic cannabinoid
+3636427015,Sleep disorder caused by stimulant
+3636467019,Acute insomnia
+1234153012,Excessive sleep
+3764071000006116,Excessive sleepiness
+3764061000006111,Sleeps too much
+1772801000006112,Hypersomnia
+317048011,Hypersomnia
+345379011,Hypersomnia NOS
+3764081000006118,Hypersomnia (excessive sleeping)
+3773261000006112,Obstructive sleep apnea syndrome
+267911000006119,Obstructive sleep apnoea
+3773271000006117,OSA - Obstructive sleep apnoea
+219501000000111,Obstructive sleep apnoea
+3773251000006110,Obstructive sleep apnoea syndrome
+3773281000006119,OSA - Obstructive sleep apnea
+3773291000006116,Obstructive sleep apnea
+3789311000006111,Hypersomnia with sleep apnea
+405691012,Hypersomnia with sleep apnoea
+3809171000006117,Sleep walking disorder
+427021000006116,[X]Sleepwalking
+139641000006114,Sleepwalking
+3809191000006116,Sleep walking
+3809181000006119,Somnambulism
+3809201000006118,Sleepwalking disorder
+3811431000006110,"Sleep-wake schedule disorder, delayed phase type"
+3811451000006115,"Circadian rhythm sleep disorder, delayed sleep phase type"
+3811441000006117,Delayed sleep phase syndrome
+3811461000006118,"Circadian rhythm sleep disorder, delayed sleep phase"
+3827051000006112,Insomnia disorder related to known organic factor
+3827061000006114,Organic insomnia
+3853391000006114,FFI - Familial fatal insomnia
+3853401000006111,Familial fatal insomnia
+3853381000006111,Fatal familial insomnia
+12107551000006112,Sleep related movement disorder
+8025611000006111,Central sleep apnoea due to periodic breathing
+8025621000006115,Central sleep apnea due to periodic breathing
+2287351000000110,On melatonin for sleep disorder
+3945311000006114,Opioid-induced sleep disorder
+3945321000006118,Opioid induced sleep disorder
+3946191000006110,Rebound insomnia
+3953251000006119,Hypersomnia due to mental disorder
+3953261000006117,Hypersomnia due to psychological disorder
+3953241000006116,Hypersomnia disorder related to another mental disorder
+3957671000006117,Sleep terror disorder
+675081000006111,Night terrors
+3957681000006119,Sleep terrors
+427011000006112,[X]Sleep terrors
+8027111000006110,Sleep related hypoventilation or hypoxemia
+8027101000006112,Sleep related hypoventilation or hypoxaemia
+8027121000006119,Organic sleep related movement disorder
+8027311000006113,Behavioural insomnia of childhood
+8027321000006117,Behavioral insomnia of childhood
+8028121000006118,Drug-induced insomnia
+8028161000006112,Central sleep apnoea due to high altitude
+8028131000006115,Central sleep apnoea caused by high altitude
+8028151000006110,Central sleep apnea due to high altitude
+8028141000006113,Central sleep apnea caused by high altitude
+8028171000006117,Circadian rhythm disorder caused by drug
+8028181000006119,Drug induced circadian rhythm disorder
+8028191000006116,Drug-induced hypersomnia
+8028201000006118,Hypersomnia due to drug or substance
+8028221000006111,Narcolepsy without cataplexy
+8029491000006118,Insomnia co-occurrent and due to nocturnal myoclonus
+7990971000006112,Primary central sleep apnoea
+7990981000006110,Primary central sleep apnea
+8365511000006115,HoNOS-LD (Health of the Nation Outcome Scales for People with Learning Disabilities) rating scale 10 - problems with sleeping
+8031371000006113,Organic sleep-wake cycle disorder
+675161000006119,Nightmares
+295427011,'Short-sleeper'
+77147016,Cataplexy
+1222473015,[D]Sleep rhythm problems
+407068013,C/O - somnolence
+459355013,Poor sleep pattern
+1780361011,Delayed onset of sleep
+49145012,Light sleep
+602651000000115,ISI (Insomnia Severity Index) score
+643141000000111,Education about sleep hygiene behaviour
+2694806018,Seen in sleep clinic
+21110011,Restless sleep
+501956016,Dream disorder
+399991000006114,[X]Nightmares
+378291000006117,[X]Dream anxiety disorder
+2159265012,Nocturnal sleep-related eating disorder
+457106016,[D]Sleep apnoea syndrome
+303181000006112,[D]Syndrome sleep apnoea
