@@ -1,6 +1,5 @@
 OPCS4	Term_description
 L746	Creation of graft fistula for dialysis
-M011	Autotransplantation of kidney
 M012	Allotransplantation of kidney from live donor
 M013	Allotransplantation of kidney from cadaver NEC
 M014	Allotransplantation of kidney from cadaver heart beating
