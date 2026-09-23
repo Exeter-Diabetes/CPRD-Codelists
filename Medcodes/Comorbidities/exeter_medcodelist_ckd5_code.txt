@@ -157,7 +157,6 @@ medcodeid	term_medcode
 3025071000006111	Haemodialysis-associated amyloidosis
 354567013	Beta-2 microglobulin arthropathy
 354586017	Adynamic bone disease
-5095841000006113	Aplastic bone disease
 354591016	Bloodstained peritoneal dialysis effluent
 5095881000006119	Peritoneal dialysis catheter exit site infection
 5095891000006116	Peritoneal dialysis cannula exit site infection
@@ -218,7 +217,6 @@ medcodeid	term_medcode
 3847121000006117	Take-down of arteriovenous shunt
 3847131000006119	Removal of arteriovenous shunt
 3847111000006113	Removal of arteriovenous shunt device
-6024541000006117	Donor renal transplantation
 7081801000006114	Removal of thrombus of arteriovenous fistula
 360031000000113	Thrombectomy of arteriovenous fistula
 2675886019	Creation of graft fistula for dialysis
@@ -286,9 +284,7 @@ medcodeid	term_medcode
 3579801000006114	Peritoneal dialysis education
 3653831000006114	Structure of transplanted kidney
 3653841000006116	Transplanted kidney
-3660511000006118	Repair of arteriovenous fistula by occlusion
 3691341000006115	Peritoneal dialysis catheter maintenance
-3727281000006114	Acquired arteriovenous fistula of heart
 3771391000006114	Take-down of arteriovenous shunt with creation of new shunt
 3771401000006111	Removal of arteriovenous shunt with creation of new shunt
 3798191000006114	Arteriovenostomy for renal dialysis
@@ -395,7 +391,6 @@ medcodeid	term_medcode
 4611391000006114	Peritoneal dialysate sample
 261136015	Peritoneal dialysis sample
 5059341000006114	Transplant renal vein thrombosis
-354417015	Acute-on-chronic renal failure
 4218231000006113	Kidney transplant evaluation
 4350231000006112	Peritoneal dialysis fluid specimen
 2732451000006111	Peritoneal dialysis excluding cannulation
@@ -567,7 +562,6 @@ medcodeid	term_medcode
 7513101000006118	Hypertensive renal disease with end stage renal failure
 8048001000006110	End stage renal disease on dialysis due to hypertension
 8030391000006118	Hypertensive heart AND chronic kidney disease on dialysis
-8001631000006110	Hypertensive heart AND chronic kidney disease with congestive heart failure
 7502601000006118	Arteriovenous fistula route
 7564221000006119	Inadequate peritoneal dialysis
 7315131000006112	Ultrasound scan of arteriovenous fistula
@@ -618,15 +612,9 @@ medcodeid	term_medcode
 7622701000006110	One day after peritoneal dialysis
 7626811000006117	Increase exchange volume of peritoneal dialysis
 7626821000006113	Increase number of perfusion exchanges per 24 hours of peritoneal dialysis
-1548781000006111	Percutaneous transluminal arterial embolisation of dural arteriovenous fistula
-7643081000006112	Percutaneous transluminal arterial embolization of dural arteriovenous fistula
 9351531000006119	Continuous cycling peritoneal dialysis dependence
 9351521000006117	Dependence on continuous cycling peritoneal dialysis
 9351541000006112	Dependence on continuous cyclic peritoneal dialysis
-7643131000006112	Percutaneous transluminal arterial and venous embolization of dural arteriovenous fistula
-1548771000006113	Percutaneous transluminal arterial and venous embolisation of dural arteriovenous fistula
-7643111000006118	Percutaneous transluminal venous embolization of dural arteriovenous fistula
-1548791000006114	Percutaneous transluminal venous embolisation of dural arteriovenous fistula
 8087091000006113	Chronic kidney disease stage 5 due to benign hypertension
 8041741000006117	Thrombosis of arteriovenous graft due to hemodialysis arteriovenous access device
 8041751000006115	Thrombosis of arteriovenous graft caused by haemodialysis arteriovenous access device
@@ -649,7 +637,6 @@ medcodeid	term_medcode
 7965381000006119	Error in prescription for peritoneal dialysis
 7966231000006117	Compliant with peritoneal dialysis prescription
 7966301000006117	Non-compliant with peritoneal dialysis prescription
-7700671000006112	Cadaver donor for kidney transplant
 8035251000006111	End stage renal disease due to hypertension
 8035261000006113	ESRD (End stage renal disease) due to hypertension
 7708331000006119	Sclerosing peritonitis as complication of peritoneal dialysis
