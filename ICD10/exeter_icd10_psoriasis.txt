@@ -1,9 +1,9 @@
-ICD10,Term_description
-L40.0,Psoriasis vulgaris
-L40.1,Generalized pustular psoriasis
-L40.2,Acrodermatitis continua
-L40.3,Pustulosis palmaris et plantaris
-L40.4,Guttate psoriasis
-L40.5,Arthropathic psoriasis
-L40.8,Other psoriasis
-L40.9,"Psoriasis, unspecified"
+ICD10	Term_description
+L40.0	Psoriasis vulgaris
+L40.1	Generalized pustular psoriasis
+L40.2	Acrodermatitis continua
+L40.3	Pustulosis palmaris et plantaris
+L40.4	Guttate psoriasis
+L40.5	Arthropathic psoriasis
+L40.8	Other psoriasis
+L40.9	Psoriasis, unspecified

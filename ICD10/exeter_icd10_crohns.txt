@@ -1,8 +1,8 @@
-ICD10,Term_description
-K50,Crohn disease [regional enteritis]
-K50.0,Crohn disease of small intestine
-K50.1,Crohn disease of large intestine
-K50.8,Other Crohn disease
-K50.9,"Crohn disease, unspecified"
-M07.4,Arthropathy in Crohn disease [regional enteritis]
-M09.1,Juvenile arthritis in Crohn disease [regional enteritis]
+ICD10	Term_description
+K50	Crohn disease [regional enteritis]
+K50.0	Crohn disease of small intestine
+K50.1	Crohn disease of large intestine
+K50.8	Other Crohn disease
+K50.9	Crohn disease, unspecified
+M07.4	Arthropathy in Crohn disease [regional enteritis]
+M09.1	Juvenile arthritis in Crohn disease [regional enteritis]

@@ -1,10 +1,10 @@
-ICD10,Term_description
-K51,Ulcerative colitis
-K51.0,Ulcerative (chronic) pancolitis
-K51.2,Ulcerative (chronic) proctitis
-K51.3,Ulcerative (chronic) rectosigmoiditis
-K51.8,Other ulcerative colitis
-K51.9,"Ulcerative colitis, unspecified"
-K51.5,Left sided colitis
-M07.5,Arthropathy in ulcerative colitis
-M09.2,Juvenile arthritis in ulcerative colitis
+ICD10	Term_description
+K51	Ulcerative colitis
+K51.0	Ulcerative (chronic) pancolitis
+K51.2	Ulcerative (chronic) proctitis
+K51.3	Ulcerative (chronic) rectosigmoiditis
+K51.8	Other ulcerative colitis
+K51.9	Ulcerative colitis, unspecified
+K51.5	Left sided colitis
+M07.5	Arthropathy in ulcerative colitis
+M09.2	Juvenile arthritis in ulcerative colitis

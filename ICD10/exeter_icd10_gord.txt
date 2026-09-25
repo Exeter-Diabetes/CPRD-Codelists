@@ -1,4 +1,4 @@
-ICD10,Term_description
-K21,Gastro-oesophageal reflux disease (GERD)
-K21.0,Gastro-oesophageal reflux disease with oesophagitis
-K21.9,Gastro-oesophageal reflux disease without oesophagitis
+ICD10	Term_description
+K21	Gastro-oesophageal reflux disease (GERD)
+K21.0	Gastro-oesophageal reflux disease with oesophagitis
+K21.9	Gastro-oesophageal reflux disease without oesophagitis

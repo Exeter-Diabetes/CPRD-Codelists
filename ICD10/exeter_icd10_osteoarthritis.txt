@@ -1,47 +1,47 @@
-ICD10,Term_description
-M15.9,"Polyarthrosis, unspecified"
-M19.9,"Arthrosis, unspecified"
-M47,Spondylosis
-M47.1,Other spondylosis with myelopathy
-M47.2,Other spondylosis with radiculopathy
-M47.8,Other spondylosis
-M47.9,"Spondylosis, unspecified"
-M15,Polyarthrosis
-M15.0,Primary generalized (osteo)arthrosis
-M15.1,Heberden nodes (with arthropathy)
-M15.2,Bouchard nodes (with arthropathy)
-M15.3,Secondary multiple arthrosis
-M15.4,Erosive (osteo)arthrosis
-M15.8,Other polyarthrosis
-M16,Coxarthrosis [arthrosis of hip]
-M16.0,"Primary coxarthrosis, bilateral"
-M16.1,Other primary coxarthrosis
-M16.2,"Coxarthrosis resulting from dysplasia, bilateral"
-M16.3,Other dysplastic coxarthrosis
-M16.4,"Post-traumatic coxarthrosis, bilateral"
-M16.5,Other post-traumatic coxarthrosis
-M16.6,"Other secondary coxarthrosis, bilateral"
-M16.7,Other secondary coxarthrosis
-M16.9,"Coxarthrosis, unspecified"
-M17,Gonarthrosis [arthrosis of knee]
-M17.0,"Primary gonarthrosis, bilateral"
-M17.1,Other primary gonarthrosis
-M17.2,"Post-traumatic gonarthrosis, bilateral"
-M17.3,Other post-traumatic gonarthrosis
-M17.4,"Other secondary gonarthrosis, bilateral"
-M17.5,Other secondary gonarthrosis
-M17.9,"Gonarthrosis, unspecified"
-M18,Arthrosis of first carpometacarpal joint
-M18.0,"Primary arthrosis of first carpometacarpal joints, bilateral"
-M18.1,Other primary arthrosis of first carpometacarpal joint
-M18.2,"Post-traumatic arthrosis of first carpometacarpal joints, bilateral"
-M18.3,Other post-traumatic arthrosis of first carpometacarpal joint
-M18.4,"Other secondary arthrosis of first carpometacarpal joints, bilateral"
-M18.5,Other secondary arthrosis of first carpometacarpal joint
-M18.9,"Arthrosis of first carpometacarpal joint, unspecified"
-M19,Other arthrosis
-M19.0,Primary arthrosis of other joints
-M19.1,Post-traumatic arthrosis of other joints
-M19.2,Other secondary arthrosis
-M19.8,Other specified arthrosis
-M20.2,Hallux rigidus
+ICD10	Term_description
+M15.9	Polyarthrosis, unspecified
+M19.9	Arthrosis, unspecified
+M47	Spondylosis
+M47.1	Other spondylosis with myelopathy
+M47.2	Other spondylosis with radiculopathy
+M47.8	Other spondylosis
+M47.9	Spondylosis, unspecified
+M15	Polyarthrosis
+M15.0	Primary generalized (osteo)arthrosis
+M15.1	Heberden nodes (with arthropathy)
+M15.2	Bouchard nodes (with arthropathy)
+M15.3	Secondary multiple arthrosis
+M15.4	Erosive (osteo)arthrosis
+M15.8	Other polyarthrosis
+M16	Coxarthrosis [arthrosis of hip]
+M16.0	Primary coxarthrosis, bilateral
+M16.1	Other primary coxarthrosis
+M16.2	Coxarthrosis resulting from dysplasia, bilateral
+M16.3	Other dysplastic coxarthrosis
+M16.4	Post-traumatic coxarthrosis, bilateral
+M16.5	Other post-traumatic coxarthrosis
+M16.6	Other secondary coxarthrosis, bilateral
+M16.7	Other secondary coxarthrosis
+M16.9	Coxarthrosis, unspecified
+M17	Gonarthrosis [arthrosis of knee]
+M17.0	Primary gonarthrosis, bilateral
+M17.1	Other primary gonarthrosis
+M17.2	Post-traumatic gonarthrosis, bilateral
+M17.3	Other post-traumatic gonarthrosis
+M17.4	Other secondary gonarthrosis, bilateral
+M17.5	Other secondary gonarthrosis
+M17.9	Gonarthrosis, unspecified
+M18	Arthrosis of first carpometacarpal joint
+M18.0	Primary arthrosis of first carpometacarpal joints, bilateral
+M18.1	Other primary arthrosis of first carpometacarpal joint
+M18.2	Post-traumatic arthrosis of first carpometacarpal joints, bilateral
+M18.3	Other post-traumatic arthrosis of first carpometacarpal joint
+M18.4	Other secondary arthrosis of first carpometacarpal joints, bilateral
+M18.5	Other secondary arthrosis of first carpometacarpal joint
+M18.9	Arthrosis of first carpometacarpal joint, unspecified
+M19	Other arthrosis
+M19.0	Primary arthrosis of other joints
+M19.1	Post-traumatic arthrosis of other joints
+M19.2	Other secondary arthrosis
+M19.8	Other specified arthrosis
+M20.2	Hallux rigidus

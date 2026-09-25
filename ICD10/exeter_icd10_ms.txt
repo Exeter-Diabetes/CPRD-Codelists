@@ -1,2 +1,2 @@
-ICD10,Term_description
-G35,Multiple sclerosis
+ICD10	Term_description
+G35	Multiple sclerosis
