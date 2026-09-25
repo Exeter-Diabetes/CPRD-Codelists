@@ -1,60 +1,60 @@
-MedCodeID,Term
-2740851000006114,"Severe recurrent major depression with psychotic features, mood-incongruent"
-2798691000006112,Moderate recurrent major depression
-294837015,"Recurrent major depressive episodes, mild"
-294838013,"Recurrent major depressive episodes, moderate"
-424671000006116,[X]Recurrent severe episodes of psychotic depression
-294840015,"Recurrent major depressive episodes, severe, with psychosis"
-424551000006113,[X]Recurr severe episodes/psychogenic depressive psychosis
-11921141000006115,[X]Recurrent severe episodes/reactive depressive psychosis
-2540711000006115,Chronic recurrent major depressive disorder
-182721000006111,Recurrent major depressive episodes
-396081000006116,"[X]Major depression, recurrent without psychotic symptoms"
-294836012,"Recurrent major depressive episodes, unspecified"
-294845013,Recurrent major depressive episode NOS
-410861011,Endogenous depression - recurrent
-7965191000006118,Severe recurrent major depression
-2957311000006113,Severe recurrent major depression with psychotic features
-424571000006115,[X]Recurrent depress disorder cur epi severe with psyc symp
-424541000006111,[X]Recurr severe episodes/major depression+psychotic symptom
-6081011000006117,Recurrent major depressive disorder with melancholic features
-3032461000006117,"Severe recurrent major depression with psychotic features, mood-congruent"
-3033261000006113,Recurrent major depression in partial remission
-396771000006117,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms"
-3087971000006112,Severe recurrent major depression without psychotic features
-3122721000006111,Recurrent major depressive disorder with atypical features
-3140411000006112,Recurrent major depressive disorder with catatonic features
-3149661000006117,Mild recurrent major depression
-3578861000006116,Recurrent major depressive disorder
-3578851000006118,Recurrent major depression
-3606411000006115,Recurrent major depression in remission
-3660551000006117,Recurrent major depressive disorder with postpartum onset
-7803691000006116,Minimal recurrent major depression
-7803701000006116,Moderately severe recurrent major depression
-8232591000006117,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
-1755911000006110,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
-182771000006112,"Recurrent major depressive episodes, severe"
-182801000006114,"Recurrent major depressive episodes,partial/unspec remission"
-8237831000006115,"Recurrent major depressive episodes, in partial remission"
-8237841000006113,"Recurrent major depressive episodes, in remission"
-294843018,Recurrent major depression in full remission
-294844012,Recurrent depression
-295537016,Chronic depression
-296181011,"[X]Recurrent depressive disorder, current episode moderate"
-401873013,[X]Recurrent depressive disorder
-424651000006114,[X]Recurrent episodes of reactive depression
-425751000006115,[X]Seasonal depressive disorder
-425411000006110,SAD - Seasonal affective disorder
-424641000006112,[X]Recurrent episodes of psychogenic depression
-424631000006119,[X]Recurrent episodes of depressive reaction
-296180012,"[X]Recurrent depressive disorder, current episode mild"
-432511000006119,"[X]Vital depression, recurrent without psychotic symptoms"
-424531000006118,[X]Recurr depress disorder cur epi severe without psyc sympt
-379781000006118,[X]Endogenous depression without psychotic symptoms
-396781000006119,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
-424681000006118,"Recurrent reactive depressive episodes, severe, with psychosis"
-379771000006116,[X]Endogenous depression with psychotic symptoms
-296198011,"[X]Recurrent depressive disorder, currently in remission"
-296199015,[X]Other recurrent depressive disorders
-401876017,"[X]Recurrent depressive disorder, unspecified"
-398841000006119,[X]Monopolar depression NOS
+MedCodeID	Term
+2740851000006114	Severe recurrent major depression with psychotic features, mood-incongruent
+2798691000006112	Moderate recurrent major depression
+294837015	Recurrent major depressive episodes, mild
+294838013	Recurrent major depressive episodes, moderate
+424671000006116	[X]Recurrent severe episodes of psychotic depression
+294840015	Recurrent major depressive episodes, severe, with psychosis
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis
+11921141000006115	[X]Recurrent severe episodes/reactive depressive psychosis
+2540711000006115	Chronic recurrent major depressive disorder
+182721000006111	Recurrent major depressive episodes
+396081000006116	[X]Major depression, recurrent without psychotic symptoms
+294836012	Recurrent major depressive episodes, unspecified
+294845013	Recurrent major depressive episode NOS
+410861011	Endogenous depression - recurrent
+7965191000006118	Severe recurrent major depression
+2957311000006113	Severe recurrent major depression with psychotic features
+424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp
+424541000006111	[X]Recurr severe episodes/major depression+psychotic symptom
+6081011000006117	Recurrent major depressive disorder with melancholic features
+3032461000006117	Severe recurrent major depression with psychotic features, mood-congruent
+3033261000006113	Recurrent major depression in partial remission
+396771000006117	[X] Manic-depressive psychosis, depressed type without psychotic symptoms
+3087971000006112	Severe recurrent major depression without psychotic features
+3122721000006111	Recurrent major depressive disorder with atypical features
+3140411000006112	Recurrent major depressive disorder with catatonic features
+3149661000006117	Mild recurrent major depression
+3578861000006116	Recurrent major depressive disorder
+3578851000006118	Recurrent major depression
+3606411000006115	Recurrent major depression in remission
+3660551000006117	Recurrent major depressive disorder with postpartum onset
+7803691000006116	Minimal recurrent major depression
+7803701000006116	Moderately severe recurrent major depression
+8232591000006117	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+1755911000006110	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+182771000006112	Recurrent major depressive episodes, severe
+182801000006114	Recurrent major depressive episodes, partial/unspec remission
+8237831000006115	Recurrent major depressive episodes, in partial remission
+8237841000006113	Recurrent major depressive episodes, in remission
+294843018	Recurrent major depression in full remission
+294844012	Recurrent depression
+295537016	Chronic depression
+296181011	[X]Recurrent depressive disorder, current episode moderate
+401873013	[X]Recurrent depressive disorder
+424651000006114	[X]Recurrent episodes of reactive depression
+425751000006115	[X]Seasonal depressive disorder
+425411000006110	SAD - Seasonal affective disorder
+424641000006112	[X]Recurrent episodes of psychogenic depression
+424631000006119	[X]Recurrent episodes of depressive reaction
+296180012	[X]Recurrent depressive disorder, current episode mild
+432511000006119	[X]Vital depression, recurrent without psychotic symptoms
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt
+379781000006118	[X]Endogenous depression without psychotic symptoms
+396781000006119	[X]Manic-depress psychosis, depressed type+psychotic symptoms
+424681000006118	Recurrent reactive depressive episodes, severe, with psychosis
+379771000006116	[X]Endogenous depression with psychotic symptoms
+296198011	[X]Recurrent depressive disorder, currently in remission
+296199015	[X]Other recurrent depressive disorders
+401876017	[X]Recurrent depressive disorder, unspecified
+398841000006119	[X]Monopolar depression NOS

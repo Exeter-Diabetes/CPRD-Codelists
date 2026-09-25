@@ -1,64 +1,64 @@
-MedCodeID,Term
-12452311000006112,Patient advised about gluten-free diet
-200141000006117,Gluten-free diet education
-4719711000006112,Gluten-free diet education
-5741771000006119,Celiac disease diet education
-5741751000006112,Dietary advice for celiac disease
-5741761000006114,Dietary advice for coeliac disease
-5741741000006110,Coeliac disease diet education
-6567651000006117,Celiac crisis
-6567641000006119,Coeliac crisis
-1785538011,Gluten enteropathy
-6567801000006115,Gluten-responsive sprue
-6567681000006113,CD - Coeliac disease
-6567771000006117,Celiac syndrome
-6567731000006115,CD - Celiac disease
-6567691000006111,CS - Coeliac sprue
-6567811000006117,GSE - Gluten-sensitive enteropathy
-6567751000006110,Celiac sprue
-131661000006114,Sprue - nontropical
-6567831000006111,Non-tropical sprue
-6567781000006119,Wheat-sensitive enteropathy
-303690012,Coeliac disease NOS
-1772803017,Coeliac disease
-6567841000006118,Gluten-induced enteropathy syndrome
-6567761000006112,CS - Celiac sprue
-6567851000006116,Nontropical sprue
-6567721000006118,Coeliac syndrome
-6567671000006110,Celiac disease
-6567821000006113,Gluten-sensitive enteropathy
-12489591000006113,Gluten intolerance
-6567701000006111,Coeliac sprue
-7281961000006114,Autoantibody screening for celiac disease positive
-7281971000006119,Celiac disease autoantibody profile positive
-1119251000000112,Coeliac disease autoantibody profile positive
-7281951000006112,Autoantibody screening for coeliac disease positive
-1689421000000115,Coeliac disease annual review
-7484501000006117,Celiac disease annual review
-3502651000006110,Coeliac disease with diffuse intestinal ulceration
-3502661000006112,Celiac disease with diffuse intestinal ulceration
-1689381000000112,Coeliac disease monitoring
-7584851000006113,Celiac disease monitoring
-7830771000006114,Celiac disease with epilepsy and cerebral calcification syndrome
-7830761000006119,Coeliac disease with epilepsy and cerebral calcification syndrome
-1651841000000119,Coeliac disease monitoring invitation
-1651881000000110,Coeliac disease monitoring telephone invitation
-1655141000000110,Coeliac disease monitoring invitation first letter
-1655181000000119,Coeliac disease monitoring invitation second letter
-1655221000000112,Coeliac disease monitoring invitation third letter
-3992951000006111,ACD - Adult celiac disease
-3992901000006112,Adult form of celiac disease
-3992961000006113,Adult gluten-induced enteropathy
-3992891000006113,Adult form of coeliac disease
-3992941000006114,Adult celiac disease
-3992921000006119,Adult coeliac disease
-3992911000006110,Gee-Thaysen disease
-3992931000006116,ACD - Adult coeliac disease
-303686010,Congenital coeliac disease
-303687018,Acquired coeliac disease
-411384019,Partial villous atrophy
-411383013,Coeliac rickets
-125791000006113,Fatty stool
-411381010,Villous atrophy
-221181000000119,Gee - Herter disease
-914631000006113,Gluten intolerance
+MedCodeID	Term
+12452311000006112	Patient advised about gluten-free diet
+200141000006117	Gluten-free diet education
+4719711000006112	Gluten-free diet education
+5741771000006119	Celiac disease diet education
+5741751000006112	Dietary advice for celiac disease
+5741761000006114	Dietary advice for coeliac disease
+5741741000006110	Coeliac disease diet education
+6567651000006117	Celiac crisis
+6567641000006119	Coeliac crisis
+1785538011	Gluten enteropathy
+6567801000006115	Gluten-responsive sprue
+6567681000006113	CD - Coeliac disease
+6567771000006117	Celiac syndrome
+6567731000006115	CD - Celiac disease
+6567691000006111	CS - Coeliac sprue
+6567811000006117	GSE - Gluten-sensitive enteropathy
+6567751000006110	Celiac sprue
+131661000006114	Sprue - nontropical
+6567831000006111	Non-tropical sprue
+6567781000006119	Wheat-sensitive enteropathy
+303690012	Coeliac disease NOS
+1772803017	Coeliac disease
+6567841000006118	Gluten-induced enteropathy syndrome
+6567761000006112	CS - Celiac sprue
+6567851000006116	Nontropical sprue
+6567721000006118	Coeliac syndrome
+6567671000006110	Celiac disease
+6567821000006113	Gluten-sensitive enteropathy
+12489591000006113	Gluten intolerance
+6567701000006111	Coeliac sprue
+7281961000006114	Autoantibody screening for celiac disease positive
+7281971000006119	Celiac disease autoantibody profile positive
+1119251000000112	Coeliac disease autoantibody profile positive
+7281951000006112	Autoantibody screening for coeliac disease positive
+1689421000000115	Coeliac disease annual review
+7484501000006117	Celiac disease annual review
+3502651000006110	Coeliac disease with diffuse intestinal ulceration
+3502661000006112	Celiac disease with diffuse intestinal ulceration
+1689381000000112	Coeliac disease monitoring
+7584851000006113	Celiac disease monitoring
+7830771000006114	Celiac disease with epilepsy and cerebral calcification syndrome
+7830761000006119	Coeliac disease with epilepsy and cerebral calcification syndrome
+1651841000000119	Coeliac disease monitoring invitation
+1651881000000110	Coeliac disease monitoring telephone invitation
+1655141000000110	Coeliac disease monitoring invitation first letter
+1655181000000119	Coeliac disease monitoring invitation second letter
+1655221000000112	Coeliac disease monitoring invitation third letter
+3992951000006111	ACD - Adult celiac disease
+3992901000006112	Adult form of celiac disease
+3992961000006113	Adult gluten-induced enteropathy
+3992891000006113	Adult form of coeliac disease
+3992941000006114	Adult celiac disease
+3992921000006119	Adult coeliac disease
+3992911000006110	Gee-Thaysen disease
+3992931000006116	ACD - Adult coeliac disease
+303686010	Congenital coeliac disease
+303687018	Acquired coeliac disease
+411384019	Partial villous atrophy
+411383013	Coeliac rickets
+125791000006113	Fatty stool
+411381010	Villous atrophy
+221181000000119	Gee - Herter disease
+914631000006113	Gluten intolerance

@@ -1,101 +1,101 @@
-MedCodeID,Term
-294642013,Presenile dementia with depression
-294646011,Senile dementia with depression
-294824018,"Single major depressive episode, unspecified"
-294825017,"Mild major depression, single episode"
-294826016,"Moderate major depression, single episode"
-142541000006115,"Severe major depression, single episode"
-294828015,"Single major depressive episode, severe, with psychosis"
-142521000006110,"Major depression single episode, in partial remission"
-294831019,Single episode of major depression in full remission
-294832014,Single major depressive episode NOS
-294836012,"Recurrent major depressive episodes, unspecified"
-294837015,"Recurrent major depressive episodes, mild"
-294838013,"Recurrent major depressive episodes, moderate"
-182771000006112,"Recurrent major depressive episodes, severe"
-294840015,"Recurrent major depressive episodes, severe, with psychosis"
-182801000006114,"Recurrent major depressive episodes,partial/unspec remission"
-294843018,Recurrent major depression in full remission
-294844012,Recurrent depression
-294845013,Recurrent major depressive episode NOS
-294894013,Atypical depressive disorder
-294918011,Psychotic reactive depression
-294917018,Reactive depressive psychosis
-882671000006112,Depression
-295535012,Depressive disorder
-882681000006110,Depression NOS
-295536013,Postviral depression
-295537016,Chronic depression
-296137015,Mild depression
-882811000006119,Mild depression
-296138013,[X]Moderate depressive episode
-882821000006110,Moderate depression
-296181011,"[X]Recurrent depressive disorder, current episode moderate"
-441826016,Endogenous depression
-401766011,"Major depression, single episode"
-642461000006116,Endogenous depression first episode
-346972018,Endogenous depression first episode
-474171000006112,Agitated depression
-182721000006111,Recurrent major depressive episodes
-410861011,Endogenous depression - recurrent
-369982012,Seasonal affective disorder
-346973011,Masked depression
-138421012,Agitated depression
-488211000006112,Mixed anxiety and depressive disorder
-202561000006114,Prolonged depressive adjustment reaction
-423041000006119,[X]Post-schizophrenic depression
-425501000006113,"Schizoaffective disorder, depressive type"
-425561000006114,"[X]Schizoaffective psychosis, depressive type"
-425691000006119,"[X]Schizophreniform psychosis, depressive type"
-426941000006110,[X]Single episode of psychogenic depression
-426971000006119,[X]Single episode of reactive depression
-426911000006111,[X]Single episode of depressive reaction
-376721000006114,Depressive episode
-223741000000112,Severe depression
-426891000006114,[X] Single episode agitated depression without psychotic symptoms
-401866015,[X]Severe depressive episode without psychotic symptoms
-882831000006113,Severe depression
-426991000006118,[X]Single episode vital depression w'out psychotic symptoms
-401869010,[X]Severe depressive episode with psychotic symptoms
-426951000006112,[X]Single episode of psychogenic depressive psychosis
-426921000006115,[X]Single episode of major depression and psychotic symptoms
-426981000006116,[X]Single episode of reactive depressive psychosis
-426961000006114,[X]Single episode of psychotic depression
-213641000000111,[X]Mild depression
-1715771000006112,Mild major depression
-1715181000006114,Moderate major depression
-1715781000006110,Severe major depression without psychotic features
-1715191000006112,Severe major depression with psychotic features
-426931000006117,[X]Single episode of masked depression NOS
-366561000006119,[X]Atypical depression
-401871010,[X]Other depressive episodes
-359121000006116,Reactive depression
-376691000006116,Depression
-401872015,"[X]Depressive episode, unspecified"
-376711000006118,[X]Depressive disorder NOS
-423611000006111,[X]Prolonged single episode of reactive depression
-401873013,[X]Recurrent depressive disorder
-424651000006114,[X]Recurrent episodes of reactive depression
-424641000006112,[X]Recurrent episodes of psychogenic depression
-425751000006115,[X]Seasonal depressive disorder
-425411000006110,SAD - Seasonal affective disorder
-424631000006119,[X]Recurrent episodes of depressive reaction
-296180012,"[X]Recurrent depressive disorder, current episode mild"
-396771000006117,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms"
-379781000006118,[X]Endogenous depression without psychotic symptoms
-432511000006119,"[X]Vital depression, recurrent without psychotic symptoms"
-424531000006118,[X]Recurr depress disorder cur epi severe without psyc sympt
-396081000006116,"[X]Major depression, recurrent without psychotic symptoms"
-396781000006119,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
-424571000006115,[X]Recurrent depress disorder cur epi severe with psyc symp
-424551000006113,[X]Recurr severe episodes/psychogenic depressive psychosis
-424671000006116,[X]Recurrent severe episodes of psychotic depression
-424541000006111,[X]Recurr severe episodes/major depression+psychotic symptom
-424681000006118,"Recurrent reactive depressive episodes, severe, with psychosis"
-379771000006116,[X]Endogenous depression with psychotic symptoms
-296198011,"[X]Recurrent depressive disorder, currently in remission"
-296199015,[X]Other recurrent depressive disorders
-401876017,"[X]Recurrent depressive disorder, unspecified"
-398841000006119,[X]Monopolar depression NOS
-398351000006110,[X]Mild anxiety depression
-398561000006117,[X]Mixed anxiety and depressive disorder
+MedCodeID	Term
+294642013	Presenile dementia with depression
+294646011	Senile dementia with depression
+294824018	Single major depressive episode, unspecified
+294825017	Mild major depression, single episode
+294826016	Moderate major depression, single episode
+142541000006115	Severe major depression, single episode
+294828015	Single major depressive episode, severe, with psychosis
+142521000006110	Major depression single episode, in partial remission
+294831019	Single episode of major depression in full remission
+294832014	Single major depressive episode NOS
+294836012	Recurrent major depressive episodes, unspecified
+294837015	Recurrent major depressive episodes, mild
+294838013	Recurrent major depressive episodes, moderate
+182771000006112	Recurrent major depressive episodes, severe
+294840015	Recurrent major depressive episodes, severe, with psychosis
+182801000006114	Recurrent major depressive episodes, partial/unspec remission
+294843018	Recurrent major depression in full remission
+294844012	Recurrent depression
+294845013	Recurrent major depressive episode NOS
+294894013	Atypical depressive disorder
+294918011	Psychotic reactive depression
+294917018	Reactive depressive psychosis
+882671000006112	Depression
+295535012	Depressive disorder
+882681000006110	Depression NOS
+295536013	Postviral depression
+295537016	Chronic depression
+296137015	Mild depression
+882811000006119	Mild depression
+296138013	[X]Moderate depressive episode
+882821000006110	Moderate depression
+296181011	[X]Recurrent depressive disorder, current episode moderate
+441826016	Endogenous depression
+401766011	Major depression, single episode
+642461000006116	Endogenous depression first episode
+346972018	Endogenous depression first episode
+474171000006112	Agitated depression
+182721000006111	Recurrent major depressive episodes
+410861011	Endogenous depression - recurrent
+369982012	Seasonal affective disorder
+346973011	Masked depression
+138421012	Agitated depression
+488211000006112	Mixed anxiety and depressive disorder
+202561000006114	Prolonged depressive adjustment reaction
+423041000006119	[X]Post-schizophrenic depression
+425501000006113	Schizoaffective disorder, depressive type
+425561000006114	[X]Schizoaffective psychosis, depressive type
+425691000006119	[X]Schizophreniform psychosis, depressive type
+426941000006110	[X]Single episode of psychogenic depression
+426971000006119	[X]Single episode of reactive depression
+426911000006111	[X]Single episode of depressive reaction
+376721000006114	Depressive episode
+223741000000112	Severe depression
+426891000006114	[X] Single episode agitated depression without psychotic symptoms
+401866015	[X]Severe depressive episode without psychotic symptoms
+882831000006113	Severe depression
+426991000006118	[X]Single episode vital depression w'out psychotic symptoms
+401869010	[X]Severe depressive episode with psychotic symptoms
+426951000006112	[X]Single episode of psychogenic depressive psychosis
+426921000006115	[X]Single episode of major depression and psychotic symptoms
+426981000006116	[X]Single episode of reactive depressive psychosis
+426961000006114	[X]Single episode of psychotic depression
+213641000000111	[X]Mild depression
+1715771000006112	Mild major depression
+1715181000006114	Moderate major depression
+1715781000006110	Severe major depression without psychotic features
+1715191000006112	Severe major depression with psychotic features
+426931000006117	[X]Single episode of masked depression NOS
+366561000006119	[X]Atypical depression
+401871010	[X]Other depressive episodes
+359121000006116	Reactive depression
+376691000006116	Depression
+401872015	[X]Depressive episode, unspecified
+376711000006118	[X]Depressive disorder NOS
+423611000006111	[X]Prolonged single episode of reactive depression
+401873013	[X]Recurrent depressive disorder
+424651000006114	[X]Recurrent episodes of reactive depression
+424641000006112	[X]Recurrent episodes of psychogenic depression
+425751000006115	[X]Seasonal depressive disorder
+425411000006110	SAD - Seasonal affective disorder
+424631000006119	[X]Recurrent episodes of depressive reaction
+296180012	[X]Recurrent depressive disorder, current episode mild
+396771000006117	[X] Manic-depressive psychosis, depressed type without psychotic symptoms
+379781000006118	[X]Endogenous depression without psychotic symptoms
+432511000006119	[X]Vital depression, recurrent without psychotic symptoms
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt
+396081000006116	[X]Major depression, recurrent without psychotic symptoms
+396781000006119	[X]Manic-depress psychosis, depressed type+psychotic symptoms
+424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis
+424671000006116	[X]Recurrent severe episodes of psychotic depression
+424541000006111	[X]Recurr severe episodes/major depression+psychotic symptom
+424681000006118	Recurrent reactive depressive episodes, severe, with psychosis
+379771000006116	[X]Endogenous depression with psychotic symptoms
+296198011	[X]Recurrent depressive disorder, currently in remission
+296199015	[X]Other recurrent depressive disorders
+401876017	[X]Recurrent depressive disorder, unspecified
+398841000006119	[X]Monopolar depression NOS
+398351000006110	[X]Mild anxiety depression
+398561000006117	[X]Mixed anxiety and depressive disorder

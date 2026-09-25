@@ -1,54 +1,54 @@
-MedCodeID,Term
-979461000006111,Specialised services for patients with multiple sclerosis enhanced services administration
-4769291000006113,Brain stem multiple sclerosis
-695191000006119,Multiple sclerosis of the brain stem
-4769281000006110,Multiple sclerosis of the brainstem
-297177019,Multiple sclerosis of the spinal cord
-4769341000006111,Multiple sclerosis (MS) exacerbation
-297180018,Exacerbation of multiple sclerosis
-299241000000110,Multiple sclerosis review
-315671000000110,Multiple sclerosis multidisciplinary review
-5006891000006112,Acute relapsing multiple sclerosis
-2894411000006110,MS - Multiple sclerosis
-1223979019,Disseminated sclerosis
-297181019,Multiple sclerosis NOS
-41398015,Multiple sclerosis
-2894421000006119,DS - Disseminated sclerosis
-5552111000006118,Kurtzke multiple sclerosis rating scale
-5552131000006112,Kurtzke multiple sclerosis scale
-699671000000115,Management of multiple sclerosis in onset phase
-699731000000110,Management of multiple sclerosis in early disease phase
-699791000000111,Management of multiple sclerosis in stable disability phase
-1679791000006113,Management of multiple sclerosis in progressive disability phase
-699911000000117,Management of multiple sclerosis in palliative phase
-2674605012,Secondary progressive multiple sclerosis
-7045281000006112,Multiple sclerosis (MS) secondary progressive
-1682241000006111,Relapsing remitting multiple sclerosis
-7058051000006116,Multiple sclerosis (MS) relapsing remitting
-7092351000006112,Multiple sclerosis (MS) primary progressive
-2692565012,Primary progressive multiple sclerosis
-641211000000118,Benign multiple sclerosis
-641301000000114,Malignant multiple sclerosis
-7227071000006119,Behaviour related to multiple sclerosis self management
-7227081000006116,Behavior related to multiple sclerosis self management
-1148911000000119,Multiple sclerosis review declined
-7510741000006111,Dementia associated with multiple sclerosis
-7861151000006116,Progressive relapsing multiple sclerosis
-7952691000006110,"Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome"
-8234101000006113,Multiple sclerosis monitoring invitation
-1674381000000115,Multiple sclerosis monitoring first letter
-1674661000000118,Multiple sclerosis monitoring second letter
-1674971000000118,Multiple sclerosis monitoring telephone invitation
-1675051000000110,Multiple sclerosis monitoring third letter
-8238411000006112,Management of multiple sclerosis
-12042571000006119,Acute multiple sclerosis Marburg variant
-12042551000006112,Marburg acute multiple sclerosis
-12042561000006114,Acute multiple sclerosis Marburg type
-1757431000000113,Referral to community multiple sclerosis team
-300141000000119,Multiple sclerosis care plan agreed
-8024671000006115,Dementia due to multiple sclerosis with altered behaviour
-8024681000006117,Dementia due to multiple sclerosis with altered behavior
-8319691000006114,Uhthoff's syndrome
-8319681000006111,Uhthoff phenomenon
-297179016,Generalised multiple sclerosis
-1674121000000119,Multiple sclerosis monitoring administration
+MedCodeID	Term
+979461000006111	Specialised services for patients with multiple sclerosis enhanced services administration
+4769291000006113	Brain stem multiple sclerosis
+695191000006119	Multiple sclerosis of the brain stem
+4769281000006110	Multiple sclerosis of the brainstem
+297177019	Multiple sclerosis of the spinal cord
+4769341000006111	Multiple sclerosis (MS) exacerbation
+297180018	Exacerbation of multiple sclerosis
+299241000000110	Multiple sclerosis review
+315671000000110	Multiple sclerosis multidisciplinary review
+5006891000006112	Acute relapsing multiple sclerosis
+2894411000006110	MS - Multiple sclerosis
+1223979019	Disseminated sclerosis
+297181019	Multiple sclerosis NOS
+41398015	Multiple sclerosis
+2894421000006119	DS - Disseminated sclerosis
+5552111000006118	Kurtzke multiple sclerosis rating scale
+5552131000006112	Kurtzke multiple sclerosis scale
+699671000000115	Management of multiple sclerosis in onset phase
+699731000000110	Management of multiple sclerosis in early disease phase
+699791000000111	Management of multiple sclerosis in stable disability phase
+1679791000006113	Management of multiple sclerosis in progressive disability phase
+699911000000117	Management of multiple sclerosis in palliative phase
+2674605012	Secondary progressive multiple sclerosis
+7045281000006112	Multiple sclerosis (MS) secondary progressive
+1682241000006111	Relapsing remitting multiple sclerosis
+7058051000006116	Multiple sclerosis (MS) relapsing remitting
+7092351000006112	Multiple sclerosis (MS) primary progressive
+2692565012	Primary progressive multiple sclerosis
+641211000000118	Benign multiple sclerosis
+641301000000114	Malignant multiple sclerosis
+7227071000006119	Behaviour related to multiple sclerosis self management
+7227081000006116	Behavior related to multiple sclerosis self management
+1148911000000119	Multiple sclerosis review declined
+7510741000006111	Dementia associated with multiple sclerosis
+7861151000006116	Progressive relapsing multiple sclerosis
+7952691000006110	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
+8234101000006113	Multiple sclerosis monitoring invitation
+1674381000000115	Multiple sclerosis monitoring first letter
+1674661000000118	Multiple sclerosis monitoring second letter
+1674971000000118	Multiple sclerosis monitoring telephone invitation
+1675051000000110	Multiple sclerosis monitoring third letter
+8238411000006112	Management of multiple sclerosis
+12042571000006119	Acute multiple sclerosis Marburg variant
+12042551000006112	Marburg acute multiple sclerosis
+12042561000006114	Acute multiple sclerosis Marburg type
+1757431000000113	Referral to community multiple sclerosis team
+300141000000119	Multiple sclerosis care plan agreed
+8024671000006115	Dementia due to multiple sclerosis with altered behaviour
+8024681000006117	Dementia due to multiple sclerosis with altered behavior
+8319691000006114	Uhthoff's syndrome
+8319681000006111	Uhthoff phenomenon
+297179016	Generalised multiple sclerosis
+1674121000000119	Multiple sclerosis monitoring administration

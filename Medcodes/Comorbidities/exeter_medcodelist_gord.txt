@@ -1,107 +1,107 @@
-MedCodeID,Term
-9351331000006113,Gastrooesophageal reflux in child
-9351341000006115,Gastroesophageal reflux in child
-3514474017,Gastroesophageal reflux disease in pregnancy
-9848561000006115,Neonatal gastroesophageal reflux
-9848551000006117,Neonatal gastrooesophageal reflux
-252557017,Waterbrash symptom
-252558010,Waterbrash
-317466014,[D]Heartburn NOS
-317465013,Waterbrash
-477740012,Heartburn symptom
-2758911000006117,Burning reflux
-317464012,[D]Pyrosis
-317463018,[D]Heartburn
-2758891000006119,Pyrosis
-27646010,Heartburn
-303321000000115,Reflux cough
-339001014,Gastric reflux
-345141010,Sandifer's syndrome
-5006191000006119,Sandifer syndrome
-5082541000006115,GERD - Gastro-esophageal reflux disease
-5082481000006110,Gastro-esophageal reflux disease
-5082441000006116,Gastrooesophageal reflux disease
-5082531000006113,GOR - Gastro-oesophageal reflux
-5082491000006113,GOR - Gastro-esophageal reflux
-5082501000006117,Gastro-oesophageal reflux disease
-353143016,Gastro-oesophageal reflux
-5082471000006112,GORD - Gastro-esophageal reflux disease
-5082461000006117,Gastro-esophageal reflux
-5082521000006110,GORD - Gastro-oesophageal reflux disease
-5082451000006119,Gastroesophageal reflux disease
-5082571000006111,Gastro-esophageal reflux disease with stricture
-5082561000006116,Gastro-oesophageal reflux disease with stricture
-5222601000006119,Gastro-esophageal reflux disease with ulceration
-5222591000006110,Gastro-oesophageal reflux disease with ulceration
-5222611000006116,Gastroesophageal reflux disease with ulceration
-5272471000006114,Oesophageal reflux finding
-372246012,Oesophageal reflux
-5272521000006112,Esophageal reflux observation
-5272481000006112,Esophageal reflux
-5272511000006116,Oesophageal reflux observation
-5272491000006110,Esophageal reflux finding
-487941000006116,Antireflux operation
-11904971000006117,Oesophageal reflux operations
-5485521000006112,Antireflux surgery
-1221523017,Antireflux procedure using thoracic approach NEC
-267111000006116,Oesophageal reflux operation
-5485501000006119,Oesophageal reflux operation
-269068011,Antireflux operation NOS
-5485511000006116,Anti-reflux surgery
-487951000006119,Antireflux procedure and gastroplasty HFQ
-5485491000006110,Esophageal reflux operation
-269067018,Other specified antireflux operation
-269047010,Antireflux operation using thoracic approach NEC
-504651000006110,Belsey fundoplicatation using thoracic approach
-394127010,Antireflux fundoplication using thoracic approach
-394128017,Antireflux fundoplication using abdominal approach
-674321000006111,Nissen fundoplication using abdominal approach
-394129013,Antireflux gastropexy
-11782121000006117,Peptic esophagitis
-799341000006115,Gastro-oesophageal reflux with oesophagitis
-396339011,Oesophageal reflux with oesophagitis
-396340013,Reflux oesophagitis
-5492811000006113,Gastroesophageal reflux disease with esophagitis
-497946018,Peptic oesophagitis
-5492821000006117,Gastroesophageal reflux disease with oesophagitis
-5492771000006113,Esophageal reflux with esophagitis
-5492781000006111,Gastro-esophageal reflux disease with esophagitis
-198466017,Gastro-oesophageal reflux disease with oesophagitis
-5492761000006118,Reflux esophagitis
-266601000006112,Gastro-oesophageal reflux disease without oesophagitis
-5492861000006111,Gastro-esophageal reflux disease without esophagitis
-5492881000006118,Gastroesophageal reflux disease without esophagitis
-5492871000006116,Gastro-esophageal reflux disease without oesophagitis
-5877561000006110,Excessive gastric reflux
-5877571000006115,Moderate gastric reflux
-5877581000006117,Minimal gastric reflux
-6349071000006116,Gastro-oesophageal reflux disease with apnoea
-6349081000006118,Gastroesophageal reflux disease with apnea
-6349561000006118,Hiatal hernia with gastro-oesophageal reflux disease
-6349581000006111,Gastroesophageal reflux disease with hiatal hernia
-6349571000006113,Hiatal hernia with gastroesophageal reflux disease
-6349551000006115,Gastro-oesophageal reflux disease with hiatal hernia
-7078661000006110,Laryngitis due to gastroesophageal reflux
-7078651000006113,Laryngitis due to gastro-oesophageal reflux
-353140018,Acid reflux
-452891000006114,Acid reflux
-8022101000006114,History of heartburn
-8022151000006113,History of gastroesophageal reflux disease
-7987221000006115,Antireflux procedure associated oesophagomyotomy
-7987231000006117,Antireflux procedure associated esophagomyotomy
-7763331000006111,Non-erosive gastro-oesophageal reflux disease
-7763341000006118,Non-erosive gastro-esophageal reflux disease
-7763361000006119,Erosive gastro-esophageal reflux disease
-7763351000006116,Erosive gastro-oesophageal reflux disease
-773051000006113,Insertion of Angelchick prosthesis
-461831000006114,Adjustment to Angelchick prosthesis
-674331000006114,Total fundoplication using thoracic approach
-487911000006115,Antireflux gastroplasty
-81380015,Oesophagogastric fundoplasty
-458433011,Endoscopic Nissen fundoplication using thoracic approach
-458424014,Laparoscopic Nissen fundoplication using abdominal approach
-269069015,Revision of antireflux operations
-181031000006116,Removal of Angelchick prosthesis
-269073017,Revision of antireflux operation
-269074011,Revision of antireflux operation NOS
-2532987010,Laryngopharyngeal reflux
+MedCodeID	Term
+9351331000006113	Gastrooesophageal reflux in child
+9351341000006115	Gastroesophageal reflux in child
+3514474017	Gastroesophageal reflux disease in pregnancy
+9848561000006115	Neonatal gastroesophageal reflux
+9848551000006117	Neonatal gastrooesophageal reflux
+252557017	Waterbrash symptom
+252558010	Waterbrash
+317466014	[D]Heartburn NOS
+317465013	Waterbrash
+477740012	Heartburn symptom
+2758911000006117	Burning reflux
+317464012	[D]Pyrosis
+317463018	[D]Heartburn
+2758891000006119	Pyrosis
+27646010	Heartburn
+303321000000115	Reflux cough
+339001014	Gastric reflux
+345141010	Sandifer's syndrome
+5006191000006119	Sandifer syndrome
+5082541000006115	GERD - Gastro-esophageal reflux disease
+5082481000006110	Gastro-esophageal reflux disease
+5082441000006116	Gastrooesophageal reflux disease
+5082531000006113	GOR - Gastro-oesophageal reflux
+5082491000006113	GOR - Gastro-esophageal reflux
+5082501000006117	Gastro-oesophageal reflux disease
+353143016	Gastro-oesophageal reflux
+5082471000006112	GORD - Gastro-esophageal reflux disease
+5082461000006117	Gastro-esophageal reflux
+5082521000006110	GORD - Gastro-oesophageal reflux disease
+5082451000006119	Gastroesophageal reflux disease
+5082571000006111	Gastro-esophageal reflux disease with stricture
+5082561000006116	Gastro-oesophageal reflux disease with stricture
+5222601000006119	Gastro-esophageal reflux disease with ulceration
+5222591000006110	Gastro-oesophageal reflux disease with ulceration
+5222611000006116	Gastroesophageal reflux disease with ulceration
+5272471000006114	Oesophageal reflux finding
+372246012	Oesophageal reflux
+5272521000006112	Esophageal reflux observation
+5272481000006112	Esophageal reflux
+5272511000006116	Oesophageal reflux observation
+5272491000006110	Esophageal reflux finding
+487941000006116	Antireflux operation
+11904971000006117	Oesophageal reflux operations
+5485521000006112	Antireflux surgery
+1221523017	Antireflux procedure using thoracic approach NEC
+267111000006116	Oesophageal reflux operation
+5485501000006119	Oesophageal reflux operation
+269068011	Antireflux operation NOS
+5485511000006116	Anti-reflux surgery
+487951000006119	Antireflux procedure and gastroplasty HFQ
+5485491000006110	Esophageal reflux operation
+269067018	Other specified antireflux operation
+269047010	Antireflux operation using thoracic approach NEC
+504651000006110	Belsey fundoplicatation using thoracic approach
+394127010	Antireflux fundoplication using thoracic approach
+394128017	Antireflux fundoplication using abdominal approach
+674321000006111	Nissen fundoplication using abdominal approach
+394129013	Antireflux gastropexy
+11782121000006117	Peptic esophagitis
+799341000006115	Gastro-oesophageal reflux with oesophagitis
+396339011	Oesophageal reflux with oesophagitis
+396340013	Reflux oesophagitis
+5492811000006113	Gastroesophageal reflux disease with esophagitis
+497946018	Peptic oesophagitis
+5492821000006117	Gastroesophageal reflux disease with oesophagitis
+5492771000006113	Esophageal reflux with esophagitis
+5492781000006111	Gastro-esophageal reflux disease with esophagitis
+198466017	Gastro-oesophageal reflux disease with oesophagitis
+5492761000006118	Reflux esophagitis
+266601000006112	Gastro-oesophageal reflux disease without oesophagitis
+5492861000006111	Gastro-esophageal reflux disease without esophagitis
+5492881000006118	Gastroesophageal reflux disease without esophagitis
+5492871000006116	Gastro-esophageal reflux disease without oesophagitis
+5877561000006110	Excessive gastric reflux
+5877571000006115	Moderate gastric reflux
+5877581000006117	Minimal gastric reflux
+6349071000006116	Gastro-oesophageal reflux disease with apnoea
+6349081000006118	Gastroesophageal reflux disease with apnea
+6349561000006118	Hiatal hernia with gastro-oesophageal reflux disease
+6349581000006111	Gastroesophageal reflux disease with hiatal hernia
+6349571000006113	Hiatal hernia with gastroesophageal reflux disease
+6349551000006115	Gastro-oesophageal reflux disease with hiatal hernia
+7078661000006110	Laryngitis due to gastroesophageal reflux
+7078651000006113	Laryngitis due to gastro-oesophageal reflux
+353140018	Acid reflux
+452891000006114	Acid reflux
+8022101000006114	History of heartburn
+8022151000006113	History of gastroesophageal reflux disease
+7987221000006115	Antireflux procedure associated oesophagomyotomy
+7987231000006117	Antireflux procedure associated esophagomyotomy
+7763331000006111	Non-erosive gastro-oesophageal reflux disease
+7763341000006118	Non-erosive gastro-esophageal reflux disease
+7763361000006119	Erosive gastro-esophageal reflux disease
+7763351000006116	Erosive gastro-oesophageal reflux disease
+773051000006113	Insertion of Angelchick prosthesis
+461831000006114	Adjustment to Angelchick prosthesis
+674331000006114	Total fundoplication using thoracic approach
+487911000006115	Antireflux gastroplasty
+81380015	Oesophagogastric fundoplasty
+458433011	Endoscopic Nissen fundoplication using thoracic approach
+458424014	Laparoscopic Nissen fundoplication using abdominal approach
+269069015	Revision of antireflux operations
+181031000006116	Removal of Angelchick prosthesis
+269073017	Revision of antireflux operation
+269074011	Revision of antireflux operation NOS
+2532987010	Laryngopharyngeal reflux

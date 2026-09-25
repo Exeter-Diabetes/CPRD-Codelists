@@ -1,136 +1,136 @@
-MedCodeID,Term
-251784017,H/O: psoriasis
-4541291000006118,History of psoriasis
-308733019,Psoriasis annularis
-308734013,Psoriasis circinata
-308735014,Psoriasis diffusa
-4805831000006110,Discoid psoriasis
-198791000006112,Plaque psoriasis
-4805821000006112,Nummular psoriasis
-308739015,Psoriasis geographica
-308740018,Psoriasis gyrata
-308741019,Psoriasis inveterata
-4805881000006111,Ostraceous psoriasis
-4805871000006113,Rupioid psoriasis
-198841000006110,Psoriasis ostracea
-308745011,Psoriasis plantaris
-308746012,Psoriasis punctata
-308747015,Pustular psoriasis
-308749017,Psoriasis universalis
-308750017,Psoriasis vulgaris
-4805951000006112,Psoriasis vulgaris & (Chronic large plaque psoriasis)
-4805981000006116,Exfoliative psoriasis
-4805991000006118,Exfoliative dermatitis due to psoriasis
-308752013,Erythrodermic psoriasis
-5123861000006113,Inverse psoriasis
-1887571000006111,Flexural psoriasis
-357612014,Flexural psoriasis
-5123871000006118,Unstable psoriasis
-5123881000006115,Psoriasis-eczema overlap condition
-5123891000006117,Eczematised psoriasis
-5123901000006118,Eczematized psoriasis
-5123911000006115,Psoriasis of nail
-5123921000006111,Psoriatic nail dystrophy
-5123931000006114,Psoriatic nail involvement
-5123941000006116,Psoriatic nail pitting
-357623013,Scalp psoriasis
-5123971000006112,KÃ¶bner psoriasis
-5123981000006110,Kobner psoriasis
-5123991000006113,Lapiere type of psoriasis
-5124011000006118,Generalized pustular psoriasis
-5124001000006116,Generalised pustular psoriasis
-5124021000006114,Generalised pustular psoriasis of pregnancy
-5124031000006112,Generalized pustular psoriasis of pregnancy
-5124051000006117,Juvenile pustular psoriasis
-5124061000006115,Infantile pustular psoriasis
-5124071000006110,Circinate and annular pustular psoriasis
-5130351000006111,Acropustulosis of infancy
-5130361000006113,Infantile acropustulosis
-359310019,Juvenile arthritis in psoriasis
-5139461000006110,Juvenile psoriatic arthritis with psoriasis
-2913611000006117,Psoriasiform seborrheic dermatitis
-2913641000006118,Sebopsoriasis
-2913591000006111,Seborrhoeic psoriasis
-2913631000006111,Psoriasiform seborrhoeic dermatitis
-2913601000006115,Seborrheic psoriasis
-2913621000006113,Seborrhiasis
-2941431000006115,Acrodermatitis perstans
-2941441000006113,PPP - Palmoplantar pustulosis
-2941411000006114,Pustulosis palmaris et plantaris
-1823821000006111,Palmoplantar pustulosis
-2941421000006118,Recalcitrant pustular eruption of palms AND/OR soles
-2941481000006119,Pustular psoriasis of palms and soles
-2941401000006111,Acropustulosis
-2941391000006114,Pustular psoriasis of the palms AND/OR soles
-483572016,Palmoplantar pustular psoriasis
-2941451000006110,Chronic palmoplantar pustular psoriasis
-2941471000006117,Pustular acrodermatitis
-2963671000006110,"Generalized pustular psoriasis, exanthematous type"
-2963661000006115,"Generalised pustular psoriasis, exanthematous type"
-308730016,Psoriatic arthropathy NOS
-312521010,Psoriasis with arthropathy
-55628018,Psoriatic arthritis
-55627011,Psoriatic arthropathy
-3096771000006113,Psoriasis guttata
-61797015,Guttate psoriasis
-6634121000006114,Naevoid psoriasis
-6634131000006112,Nevoid psoriasis
-1629311000006117,Chronic large plaque psoriasis
-6663551000006115,Chronic small plaque psoriasis
-6663561000006118,Chronic guttate pattern psoriasis
-6663571000006113,Chronic stable plaque psoriasis
-6663581000006111,Actively extending plaque psoriasis
-6663591000006114,Acute guttate psoriasis
-6663601000006118,Guttate flare of psoriasis with preexisting plaques
-6663611000006115,Psoriasis of vulva
-6663621000006111,Vulval psoriasis
-6663641000006116,Penile psoriasis
-6663631000006114,Psoriasis of penis
-6663661000006117,Perianal psoriasis
-6663651000006119,Psoriasis of perianal skin
-6663681000006110,Generalized psoriasis
-6663671000006112,Generalised psoriasis
-6663691000006113,Photoaggravated psoriasis
-6663701000006113,Psoriasis of scalp margin
-6663711000006111,Psoriasis of face
-6663721000006115,Facial psoriasis
-6663731000006117,Non-pustular psoriasis of hands
-6663741000006110,Hypertrophic palmar psoriasis
-6663751000006112,Hypertrophic palmoplantar psoriasis
-6663761000006114,Non-pustular psoriasis of hands and feet
-6663771000006119,Drug-exacerbated psoriasis
-6663791000006118,Acute generalized pustular psoriasis de novo
-6663781000006116,Acute generalised pustular psoriasis de novo
-6663801000006117,Acute generalised pustular flare of preexisting plaque psoriasis
-6663811000006119,Acute generalized pustular flare of preexisting plaque psoriasis
-6663831000006113,Early onset psoriasis type 1
-6663841000006115,Onset of psoriasis in infancy (<1 year)
-6663851000006118,Onset of psoriasis in childhood (1-10 years)
-6663861000006116,Onset of psoriasis in adolescence (10-20 years)
-6663871000006111,Onset of psoriasis in early adulthood (20-40 years)
-6663881000006114,Late onset psoriasis type 2
-6663891000006112,Familial psoriasis
-6663901000006111,Familial psoriasis with affected first degree relative
-6663911000006114,Familial psoriasis without affected first degree relative
-7791261000006113,Tranebjaerg Svejgaard syndrome
-7791251000006111,X-linked intellectual disability with seizure and psoriasis syndrome
-7819251000006112,Psoriasis of anogenital region
-7819261000006114,Anogenital psoriasis
-3821921000006111,Localised pustular psoriasis
-3821931000006114,Localized pustular psoriasis
-3821941000006116,Psoriasis with pustules
-3864041000006114,Dermatitis repens
-3864031000006116,Acrodermatitis continua of Hallopeau
-2239001000000113,Psoriasis area and severity index score
-8300801000006110,Psoriasis area and severity index score
-8300811000006113,PASI (psoriasis area and severity index) score
-308725015,Psoriasis and similar disorders
-308776017,Psoriasis and similar disorders NOS
-308753015,Psoriasis
-309331014,[X]Other psoriasis
-308731017,Other psoriasis
-308732012,Psoriasis unspecified
-6963017,Pustular bacterid
-308744010,Psoriasis palmaris
-308751018,Acrodermatitis continua
-308775018,Acquired disorder of keratinisation
+MedCodeID	Term
+251784017	H/O: psoriasis
+4541291000006118	History of psoriasis
+308733019	Psoriasis annularis
+308734013	Psoriasis circinata
+308735014	Psoriasis diffusa
+4805831000006110	Discoid psoriasis
+198791000006112	Plaque psoriasis
+4805821000006112	Nummular psoriasis
+308739015	Psoriasis geographica
+308740018	Psoriasis gyrata
+308741019	Psoriasis inveterata
+4805881000006111	Ostraceous psoriasis
+4805871000006113	Rupioid psoriasis
+198841000006110	Psoriasis ostracea
+308745011	Psoriasis plantaris
+308746012	Psoriasis punctata
+308747015	Pustular psoriasis
+308749017	Psoriasis universalis
+308750017	Psoriasis vulgaris
+4805951000006112	Psoriasis vulgaris & (Chronic large plaque psoriasis)
+4805981000006116	Exfoliative psoriasis
+4805991000006118	Exfoliative dermatitis due to psoriasis
+308752013	Erythrodermic psoriasis
+5123861000006113	Inverse psoriasis
+1887571000006111	Flexural psoriasis
+357612014	Flexural psoriasis
+5123871000006118	Unstable psoriasis
+5123881000006115	Psoriasis-eczema overlap condition
+5123891000006117	Eczematised psoriasis
+5123901000006118	Eczematized psoriasis
+5123911000006115	Psoriasis of nail
+5123921000006111	Psoriatic nail dystrophy
+5123931000006114	Psoriatic nail involvement
+5123941000006116	Psoriatic nail pitting
+357623013	Scalp psoriasis
+5123971000006112	KÃ¶bner psoriasis
+5123981000006110	Kobner psoriasis
+5123991000006113	Lapiere type of psoriasis
+5124011000006118	Generalized pustular psoriasis
+5124001000006116	Generalised pustular psoriasis
+5124021000006114	Generalised pustular psoriasis of pregnancy
+5124031000006112	Generalized pustular psoriasis of pregnancy
+5124051000006117	Juvenile pustular psoriasis
+5124061000006115	Infantile pustular psoriasis
+5124071000006110	Circinate and annular pustular psoriasis
+5130351000006111	Acropustulosis of infancy
+5130361000006113	Infantile acropustulosis
+359310019	Juvenile arthritis in psoriasis
+5139461000006110	Juvenile psoriatic arthritis with psoriasis
+2913611000006117	Psoriasiform seborrheic dermatitis
+2913641000006118	Sebopsoriasis
+2913591000006111	Seborrhoeic psoriasis
+2913631000006111	Psoriasiform seborrhoeic dermatitis
+2913601000006115	Seborrheic psoriasis
+2913621000006113	Seborrhiasis
+2941431000006115	Acrodermatitis perstans
+2941441000006113	PPP - Palmoplantar pustulosis
+2941411000006114	Pustulosis palmaris et plantaris
+1823821000006111	Palmoplantar pustulosis
+2941421000006118	Recalcitrant pustular eruption of palms AND/OR soles
+2941481000006119	Pustular psoriasis of palms and soles
+2941401000006111	Acropustulosis
+2941391000006114	Pustular psoriasis of the palms AND/OR soles
+483572016	Palmoplantar pustular psoriasis
+2941451000006110	Chronic palmoplantar pustular psoriasis
+2941471000006117	Pustular acrodermatitis
+2963671000006110	Generalized pustular psoriasis, exanthematous type
+2963661000006115	Generalised pustular psoriasis, exanthematous type
+308730016	Psoriatic arthropathy NOS
+312521010	Psoriasis with arthropathy
+55628018	Psoriatic arthritis
+55627011	Psoriatic arthropathy
+3096771000006113	Psoriasis guttata
+61797015	Guttate psoriasis
+6634121000006114	Naevoid psoriasis
+6634131000006112	Nevoid psoriasis
+1629311000006117	Chronic large plaque psoriasis
+6663551000006115	Chronic small plaque psoriasis
+6663561000006118	Chronic guttate pattern psoriasis
+6663571000006113	Chronic stable plaque psoriasis
+6663581000006111	Actively extending plaque psoriasis
+6663591000006114	Acute guttate psoriasis
+6663601000006118	Guttate flare of psoriasis with preexisting plaques
+6663611000006115	Psoriasis of vulva
+6663621000006111	Vulval psoriasis
+6663641000006116	Penile psoriasis
+6663631000006114	Psoriasis of penis
+6663661000006117	Perianal psoriasis
+6663651000006119	Psoriasis of perianal skin
+6663681000006110	Generalized psoriasis
+6663671000006112	Generalised psoriasis
+6663691000006113	Photoaggravated psoriasis
+6663701000006113	Psoriasis of scalp margin
+6663711000006111	Psoriasis of face
+6663721000006115	Facial psoriasis
+6663731000006117	Non-pustular psoriasis of hands
+6663741000006110	Hypertrophic palmar psoriasis
+6663751000006112	Hypertrophic palmoplantar psoriasis
+6663761000006114	Non-pustular psoriasis of hands and feet
+6663771000006119	Drug-exacerbated psoriasis
+6663791000006118	Acute generalized pustular psoriasis de novo
+6663781000006116	Acute generalised pustular psoriasis de novo
+6663801000006117	Acute generalised pustular flare of preexisting plaque psoriasis
+6663811000006119	Acute generalized pustular flare of preexisting plaque psoriasis
+6663831000006113	Early onset psoriasis type 1
+6663841000006115	Onset of psoriasis in infancy (<1 year)
+6663851000006118	Onset of psoriasis in childhood (1-10 years)
+6663861000006116	Onset of psoriasis in adolescence (10-20 years)
+6663871000006111	Onset of psoriasis in early adulthood (20-40 years)
+6663881000006114	Late onset psoriasis type 2
+6663891000006112	Familial psoriasis
+6663901000006111	Familial psoriasis with affected first degree relative
+6663911000006114	Familial psoriasis without affected first degree relative
+7791261000006113	Tranebjaerg Svejgaard syndrome
+7791251000006111	X-linked intellectual disability with seizure and psoriasis syndrome
+7819251000006112	Psoriasis of anogenital region
+7819261000006114	Anogenital psoriasis
+3821921000006111	Localised pustular psoriasis
+3821931000006114	Localized pustular psoriasis
+3821941000006116	Psoriasis with pustules
+3864041000006114	Dermatitis repens
+3864031000006116	Acrodermatitis continua of Hallopeau
+2239001000000113	Psoriasis area and severity index score
+8300801000006110	Psoriasis area and severity index score
+8300811000006113	PASI (psoriasis area and severity index) score
+308725015	Psoriasis and similar disorders
+308776017	Psoriasis and similar disorders NOS
+308753015	Psoriasis
+309331014	[X]Other psoriasis
+308731017	Other psoriasis
+308732012	Psoriasis unspecified
+6963017	Pustular bacterid
+308744010	Psoriasis palmaris
+308751018	Acrodermatitis continua
+308775018	Acquired disorder of keratinisation
