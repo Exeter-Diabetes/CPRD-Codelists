@@ -19,3 +19,4 @@ sbp	mmHg	40	270
 totalcholesterol	mmol	0.5	20
 triglyceride	mmol	0.1	40
 weight	Kg	40	350
+neutrophil 109/L 0 850
