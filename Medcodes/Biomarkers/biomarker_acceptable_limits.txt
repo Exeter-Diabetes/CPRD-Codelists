@@ -20,3 +20,5 @@ totalcholesterol	mmol	0.5	20
 triglyceride	mmol	0.1	40
 weight	Kg	40	350
 neutrophil 109/L 0 850
+monocyte 109/L 0 40
+lymphocyte 109/L 0 850
