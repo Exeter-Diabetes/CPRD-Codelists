@@ -1,0 +1,3 @@
+MedCodeId	Term
+124165010	Lymphocyte count
+257409016	Lymphocyte count

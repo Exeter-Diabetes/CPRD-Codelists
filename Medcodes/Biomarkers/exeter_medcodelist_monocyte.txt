@@ -1,0 +1,4 @@
+MedCodeId	Term
+112567012	Monocyte count
+3602261000006117	Monocyte count
+3602271000006112	Monocyte count - observation
