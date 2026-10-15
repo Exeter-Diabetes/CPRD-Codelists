@@ -121,7 +121,22 @@ neutrophil 76
 neutrophil 6
 neutrophil 431
 neutrophil 1250
-neutrophil 1
 neutrophil 433
 neutrophil 335
 neutrophil 323
+lymphocyte 77
+lymphocyte 307
+lymphocyte 82
+lymphocyte 305
+lymphocyte 69
+lymphocyte 321
+lymphocyte 884
+lymphocyte 6
+lymphocyte 431
+lymphocyte 76
+lymphocyte 1250
+lymphocyte 433
+lymphocyte 335
+lymphocyte 323
+lymphocyte 1224
+
