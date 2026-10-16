@@ -1,0 +1,28 @@
+MedCodeId	Term
+451377014	O/E - Absent right foot pulses
+451378016	O/E - Absent left foot pulses
+1484921017	O/E - left foot pulses present
+1484922012	O/E - right foot pulses present
+451383012	O/E - Vibration sense of right foot abnormal
+451384018	O/E - Vibration sense of right foot normal
+451385017	O/E - Vibration sense of left foot abnormal
+451386016	O/E - Vibration sense of left foot normal
+1488389019	10g monofilament sensation R foot abnormal
+1488390011	10g monofilament sensation L foot abnormal
+1488391010	10g monofilament sensation R foot normal
+1488392015	10g monofilament sensation L foot normal
+1488393013	O/E - Right diabetic foot at low risk
+1488394019	O/E - Right diabetic foot at high risk
+1488395018	O/E - Right diabetic foot - ulcerated
+1488396017	O/E - Left diabetic foot – ulcerated
+1488397014	O/E - Left diabetic foot at low risk
+1488398016	O/E - Left diabetic foot at high risk
+1488403015	O/E - Left diabetic foot at moderate risk
+1488404014	O/E - Right diabetic foot at moderate risk
+6546241000006110	On examination - Right diabetic foot at low risk
+6546261000006110	On examination - Right diabetic foot at high risk
+6546281000006110	On examination - Right diabetic foot - ulcerated
+6546321000006110	On examination - Left diabetic foot at low risk
+6546341000006110	On examination - Left diabetic foot at high risk
+6546411000006110	On examination - Left diabetic foot at moderate risk
+6546431000006110	On examination - Right diabetic foot at moderate risk
