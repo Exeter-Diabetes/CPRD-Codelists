@@ -1,0 +1,17 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter
+71241000033119	800511000001106	Angettes 75 tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Angettes 75 tablets	Tablet/ Oral Tablet	Oral	Aspirin	75.000mg	
+3162041000033113	35903111000001101	Aspirin 75mg / Isosorbide mononitrate 60mg modified-release tablets	Aspirin 75mg / Isosorbide mononitrate 60mg modified-release tablets	Modified-release tablet	Oral	Aspirin/ Isosorbide mononitrate	75.000mg + 60.000mg	02060100
+82941000033113	42291811000001106	Aspirin 75mg dispersible tablets	Aspirin 75mg dispersible tablets	Dispersible tablet	Oral	Aspirin	75.000mg	02090000
+83041000033115	42291911000001101	Aspirin 75mg gastro-resistant tablets	Aspirin 75mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	02090000
+87041000033110	42292011000001108	Aspirin 75mg tablets	Aspirin 75mg tablets	Tablet/ Oral Tablet	Oral	Aspirin	75.000mg	02090000
+189841000033119	927411000001108	Caprin 75mg gastro-resistant tablets (Wockhardt UK Ltd)	Caprin 75mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	
+11716941000033112	32968711000001107	Danamep 75mg dispersible tablets (Ecogen Europe Ltd)	Danamep 75mg dispersible tablets	Dispersible tablet	Oral	Aspirin	75.000mg	
+1729141000033110	473711000001109	Enprin 75mg gastro-resistant tablets (Galpharm International Ltd)	Enprin 75mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	
+1739541000033116	3460911000001104	Imazin XL tablets (Napp Pharmaceuticals Ltd)	Imazin XL tablets	Modified-release tablet	Oral	Aspirin/ Isosorbide mononitrate	75.000mg + 60.000mg	
+2273741000033118	281311000001104	Micropirin 75mg gastro-resistant tablets (Dexcel-Pharma Ltd)	Micropirin 75mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	
+991441000033115	414311000001102	Nu-Seals 75 gastro-resistant tablets (Alliance Pharmaceuticals Ltd)	Nu-Seals 75 gastro-resistant tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	
+1101541000033119	38411000001101	PostMI 75 EC tablets (Ashbourne Pharmaceuticals Ltd)	PostMI 75 EC tablets	Gastro-resistant tablet	Oral	Aspirin	75.000mg	
+1098041000033111	636011000001100	PostMI 75 dispersible tablets (Ashbourne Pharmaceuticals Ltd)	PostMI 75 dispersible tablets	Dispersible tablet	Oral	Aspirin	75.000mg	
+1365441000033112		Soluble Aspirin Paediatric  Tablets  75 mg						
+4043341000033119		Aspirin  Powder Sachets Lactose Free  75 mg						
+87141000033114		Aspirin Dispersible Low Dose  Tablets  75 mg						

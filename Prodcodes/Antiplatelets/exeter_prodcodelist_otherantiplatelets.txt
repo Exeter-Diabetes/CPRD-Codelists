@@ -1,0 +1,40 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter
+1571541000033117	3292511000001108	Asasantin Retard capsules (Boehringer Ingelheim Ltd)	Asasantin Retard capsules	Modified-release capsule	Oral	Aspirin/ Dipyridamole	25.000mg + 200.000mg	
+3160741000033110	36069911000001109	Dipyridamole 200mg modified-release / Aspirin 25mg capsules	Dipyridamole 200mg modified-release / Aspirin 25mg capsules	Modified-release capsule	Oral	Aspirin/ Dipyridamole	25.000mg + 200.000mg	02090000
+8619141000033116	23241511000001106	Molita 200mg/25mg modified-release capsules (Dr Reddy's Laboratories (UK) Ltd)	Molita 200mg/25mg modified-release capsules	Modified-release capsule	Oral	Aspirin/ Dipyridamole	25.000mg + 200.000mg	
+1583541000033113	39689111000001106	Clopidogrel 75mg tablets	Clopidogrel 75mg tablets	Tablet/ Oral Tablet	Oral	Clopidogrel	75.000mg	02090000
+5242341000033112	15907411000001101	Grepid 75mg tablets (Kent Pharma (UK) Ltd)	Grepid 75mg tablets	Tablet/ Oral Tablet	Oral	Clopidogrel	75.000mg	
+1667041000033119	454611000001104	Plavix 75mg tablets (Sanofi)	Plavix 75mg tablets	Tablet/ Oral Tablet	Oral	Clopidogrel	75.000mg	
+8031441000033112	18747911000001101	Clopidogrel 1mg/ml oral suspension	Clopidogrel 1mg/ml oral suspension	Oral suspension	Oral	Clopidogrel hydrogen sulfate	1.000mg/1.000ml	02090000
+13283841000033111	16072911000001108	Clopidogrel 25mg/5ml oral suspension	Clopidogrel 25mg/5ml oral suspension	Oral suspension	Oral	Clopidogrel hydrogen sulfate	5.000mg/1.000ml	02090000
+4519641000033119	42293111000001103	Clopidogrel 300mg tablets	Clopidogrel 300mg tablets	Tablet/ Oral Tablet	Oral	Clopidogrel hydrogen sulfate	300.000mg	02090000
+8301241000033117	22402511000001104	Clopidogrel 75mg/5ml oral solution	Clopidogrel 75mg/5ml oral solution	Oral solution	Oral	Clopidogrel hydrogen sulfate	15.000mg/1.000ml	02090000
+6122841000033118	8426611000001103	Clopidogrel 75mg/5ml oral suspension	Clopidogrel 75mg/5ml oral suspension	Oral suspension	Oral	Clopidogrel hydrogen sulfate	15.000mg/1.000ml	02090000
+4519741000033111	13663511000001101	Plavix 300mg tablets (Sanofi)	Plavix 300mg tablets	Tablet/ Oral Tablet	Oral	Clopidogrel hydrogen sulfate	300.000mg	
+9165341000033117	24435511000001109	Attia 200mg modified-release capsules (Dr Reddy's Laboratories (UK) Ltd)	Attia 200mg modified-release capsules	Modified-release capsule	Oral	Dipyridamole	200.000mg	
+469641000033119	42293911000001100	Dipyridamole 100mg tablets	Dipyridamole 100mg tablets	Tablet/ Oral Tablet	Oral	Dipyridamole	100.000mg	02090000
+5889941000033115	8456611000001102	Dipyridamole 100mg/5ml oral solution	Dipyridamole 100mg/5ml oral solution	Oral solution	Oral	Dipyridamole	20.000mg/1.000ml	02090000
+5052341000033115	8456511000001101	Dipyridamole 100mg/5ml oral suspension	Dipyridamole 100mg/5ml oral suspension	Oral suspension	Oral	Dipyridamole	20.000mg/1.000ml	02090000
+454141000033119	39020811000001108	Dipyridamole 200mg modified-release capsules	Dipyridamole 200mg modified-release capsules	Modified-release capsule	Oral	Dipyridamole	200.000mg	02090000
+5992041000033118	8456411000001100	Dipyridamole 200mg/5ml oral solution	Dipyridamole 200mg/5ml oral solution	Oral solution	Oral	Dipyridamole	40.000mg/1.000ml	02090000
+5020341000033117	8456311000001107	Dipyridamole 200mg/5ml oral suspension	Dipyridamole 200mg/5ml oral suspension	Oral suspension	Oral	Dipyridamole	40.000mg/1.000ml	02090000
+11072641000033113	31948811000001109	Dipyridamole 200mg/5ml oral suspension sugar free	Dipyridamole 200mg/5ml oral suspension sugar free	Oral suspension	Oral	Dipyridamole	40.000mg/1.000ml	02090000
+5401541000033119	8456211000001104	Dipyridamole 250mg/5ml oral solution	Dipyridamole 250mg/5ml oral solution	Oral solution	Oral	Dipyridamole	50.000mg/1.000ml	02090000
+469741000033111	42294011000001102	Dipyridamole 25mg tablets	Dipyridamole 25mg tablets	Tablet/ Oral Tablet	Oral	Dipyridamole	25.000mg	02090000
+1728341000033118	36070011000001108	Dipyridamole 50mg/5ml oral suspension sugar free	Dipyridamole 50mg/5ml oral suspension sugar free	Oral suspension	Oral	Dipyridamole	10.000mg/1.000ml	02090000
+10333041000033118	26779011000001104	Ofcram PR 200mg capsules (Advanz Pharma)	Ofcram PR 200mg capsules	Modified-release capsule	Oral	Dipyridamole	200.000mg	
+1065441000033113	623011000001106	Persantin 100mg tablets (Boehringer Ingelheim Ltd)	Persantin 100mg tablets	Tablet/ Oral Tablet	Oral	Dipyridamole	100.000mg	
+1065541000033114	635611000001102	Persantin 25mg tablets (Boehringer Ingelheim Ltd)	Persantin 25mg tablets	Tablet/ Oral Tablet	Oral	Dipyridamole	25.000mg	
+1054941000033114	452911000001101	Persantin Retard 200mg capsules (Boehringer Ingelheim Ltd)	Persantin Retard 200mg capsules	Modified-release capsule	Oral	Dipyridamole	200.000mg	
+12195441000033115	34175911000001100	Trolactin 200mg modified-release capsules (Actavis UK Ltd)	Trolactin 200mg modified-release capsules	Modified-release capsule	Oral	Dipyridamole	200.000mg	
+4956741000033115	15240211000001105	Efient 10mg tablets (Vygoris Ltd)	Efient 10mg tablets	Tablet/ Oral Tablet	Oral	Prasugrel	10.000mg	
+4956641000033112	15241111000001105	Efient 5mg tablets (Vygoris Ltd)	Efient 5mg tablets	Tablet/ Oral Tablet	Oral	Prasugrel	5.000mg	
+4956541000033111	39702811000001103	Prasugrel 10mg tablets	Prasugrel 10mg tablets	Tablet/ Oral Tablet	Oral	Prasugrel	10.000mg	02090000
+4956441000033110	39702911000001108	Prasugrel 5mg tablets	Prasugrel 5mg tablets	Tablet/ Oral Tablet	Oral	Prasugrel	5.000mg	02090000
+11422741000033114	32447511000001106	Brilique 60mg tablets (AstraZeneca UK Ltd)	Brilique 60mg tablets	Tablet/ Oral Tablet	Oral	Ticagrelor	60.000mg	
+12371141000033111	34672011000001105	Brilique 90mg orodispersible tablets (AstraZeneca UK Ltd)	Brilique 90mg orodispersible tablets	Orodispersible tablet	Oral	Ticagrelor	90.000mg	
+6059441000033117	18290311000001104	Brilique 90mg tablets (AstraZeneca UK Ltd)	Brilique 90mg tablets	Tablet/ Oral Tablet	Oral	Ticagrelor	90.000mg	
+11422441000033119	32472211000001106	Ticagrelor 60mg tablets	Ticagrelor 60mg tablets	Tablet/ Oral Tablet	Oral	Ticagrelor	60.000mg	02090000
+12371041000033112	34713411000001108	Ticagrelor 90mg orodispersible tablets sugar free	Ticagrelor 90mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Ticagrelor	90.000mg	02090000
+6059341000033111	42298811000001100	Ticagrelor 90mg tablets	Ticagrelor 90mg tablets	Tablet/ Oral Tablet	Oral	Ticagrelor	90.000mg	02090000
+1602841000033113		Dipyridamole  Sugar-free suspension  100 mg/5 ml						
