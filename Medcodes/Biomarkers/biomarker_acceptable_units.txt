@@ -91,7 +91,7 @@ pcr	1242
 pcr	2273
 sbp	210
 sbp	216
-sbp 212
+sbp	212
 smoking	
 smoking	39
 smoking	118
@@ -100,7 +100,7 @@ smoking	98
 smoking	120
 smoking	237
 smoking	478
-smoking 1496
+smoking	1496
 smoking	1394
 smoking	1202
 smoking	38
@@ -108,51 +108,5 @@ totalcholesterol	218
 totalcholesterol	
 triglyceride	218
 triglyceride	
-weight  156
+weight	156
 weight	
-neutrophil  
-neutrophil 77
-neutrophil 307
-neutrophil 82
-neutrophil 305
-neutrophil 69
-neutrophil 321
-neutrophil 884
-neutrophil 76
-neutrophil 6
-neutrophil 431
-neutrophil 1250
-neutrophil 433
-neutrophil 335
-neutrophil 323
-lymphocyte 77
-lymphocyte 307
-lymphocyte 82
-lymphocyte 305
-lymphocyte 69
-lymphocyte 321
-lymphocyte 884
-lymphocyte 6
-lymphocyte 431
-lymphocyte 76
-lymphocyte 1250
-lymphocyte 433
-lymphocyte 335
-lymphocyte 323
-lymphocyte 1224
-lymphocyte  
-monocyte 77
-monocyte 307
-monocyte 82
-monocyte 305
-monocyte 69
-monocyte 321
-monocyte 884
-monocyte 6
-monocyte 431
-monocyte 76
-monocyte 1250
-monocyte 433
-monocyte 335
-monocyte 323
-monocyte  
