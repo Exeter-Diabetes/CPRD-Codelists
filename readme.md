@@ -84,11 +84,12 @@ Note that the 'frailty_simple' codelist is not exhaustive, but contains three of
 
 ### Retinopathy
 
-* Separate codelists are available for severe and non-severe retinopathy.
-* Retinopathy can be identified using primary care diagnostic and procedure codes and linked secondary care ICD-10 and OPCS-4 codes.
-* Some codes are present in both the severe and non-severe retinopathy codelists.
-* Separate medcode and ICD-10 codelists are available for vitreous and pre-retinal haemorrhage.
-* The original combined Read and SNOMED CT retinopathy codelists have been retained for reference, but the updated severity-specific codelists should be used for new analyses.
+* Separate medcode, SNOMED CT and ICD10 codelists are available for non-severe and severe retinopathy.
+* An additional OPCS4 codelist is available for severe retinopathy.
+* Separate codelists are available for vitreous and pre-retinal haemorrhage and blindness and visual impairment.
+* A composite severe retinopathy outcome incorporating severe retinopathy, vitreous and pre-retinal haemorrhage, and blindness and visual impairment has been implemented in our [CPRD-Cohort-scripts repository](https://github.com/Exeter-Diabetes/CPRD-Cohort-scripts).
+* Some codes appear in both the severe and non-severe retinopathy codelists. These phenotypes should not currently be assumed to be mutually exclusive.
+* The original combined Read and SNOMED CT retinopathy codelists have been retained for reference.
 
 &nbsp;
 
